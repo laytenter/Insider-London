@@ -1,0 +1,34 @@
+---
+layout: default
+---
+<div id="custom-bg" style="width:100%; margin-top:00px; height:400px; background-size:cover; background-image: url('{{ page.banner }}');background-position: center">
+  <div id="custom-bg" style="width:100%; height:400px; background-size:contain; background:rgba(0,0,0,0.3);"> </div>
+</div>
+
+<header class="post-header">
+  <div class="breadcrumb-wrapper ">
+    <div class="container">
+      <h1 class="post-title">
+        {{ page.title }}
+      </h1>
+    </div>
+  </div>
+</header>
+
+<div class="container">
+  <div itemscope="" itemtype="http://schema.org/Product" id="product-32137" class="post-32137 product type-product status-publish has-post-thumbnail product_cat-hidden-tours product_cat-tours pif-has-gallery virtual sold-individually shipping-taxable purchasable product-type-booking product-cat-hidden-tours product-cat-tours instock">
+    <div class="woocommerce-tabs wc-tabs-wrapper">
+      {{ content }}
+    </div>
+    <div class="product-thumb-wrapper">
+    <div class="images">
+<img src="{{ page.thumb575x545 }}" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" >
+    </div>
+    {% if page.show_book %}
+    {% include tour-side-bar.html %}
+    {% endif %}
+    {% include trip-advisor-widget.html %}
+  </div>
+</div>
+  {% include related-tours.html %}
+</div>

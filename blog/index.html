@@ -1,0 +1,46 @@
+---
+layout: page
+title: Blog - Insider London
+---
+<div class="container">
+  <section id="primary">
+    <!-- This loops through the paginated posts -->
+    {% for post in paginator.posts %}
+    <article id="post-24853" class="blog-entry post-24853 post type-post status-publish format-standard hentry category-london-pubs category-london-underground-tube category-food-and-drink tag-cocktails tag-london-tube tag-london-underground tag-alternative-london tag-bars tag-drinking tag-quirky-london-tube tag-cahoots">
+      <div class="blog-entry-inner">
+        <div class="entry-title">
+          <h4>
+            <a href="{{ post.permalink }}" title="{{ post.title }}">{{ post.title }}</a>
+          </h4>
+        </div>
+        <div class="entry-thumb">
+          <div class="entry-meta">
+            <div class="date">
+              {{ post.date | date: '%B %d, %Y' }}
+            </div>
+          </div>
+        </div>
+          {{ post.excerpt }}
+          <p><a href="{{ post.permalink }}">Read More [...]</a></p>
+      </div>
+    </article>
+    {% endfor %}
+
+    <!-- Pagination links -->
+    <div class="pagination">
+      {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+      {% else %}
+      <span class="previous">Previous</span>
+      {% endif %}
+      <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+      {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+      {% else %}
+      <span class="next ">Next</span>
+      {% endif %}
+    </div>
+  </section>
+  {% include blog-side-bar.html %}
+
+</div>

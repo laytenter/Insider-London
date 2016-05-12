@@ -1,0 +1,21 @@
+<li class="{% if loopindex == 1 or forloop.first %} first{% endif %} post-29340 product type-product status-publish has-post-thumbnail product_cat-tours product_cat-educational-tours pif-has-gallery virtual shipping-taxable product-type-simple product-cat-tours product-cat-educational-tours instock">
+  <div class="dt-sc-one-fourth column">
+    <div class="product-wrapper">
+      <div class="product-thumb">
+        <a href="{{ post.url | prepend: site.baseurl }}">
+          <img width="575" height="545" src="{{ post.thumb575x545 }}" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt=" {{ post.description }} " />
+        </a>
+      </div>
+      <div class="product-details">
+        <h5>{{ counter }}
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h5> {% if post.price %}
+        <p>
+          <strong>From: £{{ post.price }}</strong>
+        </p>
+        {% endif %}
+        <a class="viewtourbutton" href="{{ post.url }}">View</a>
+      </div>
+    </div>
+  </div>
+</li>

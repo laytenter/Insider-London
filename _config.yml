@@ -1,0 +1,14 @@
+#url: http://jekyll.insider-london.co.uk
+#url: http://www.insider-london.co.uk
+name: Insider London
+description: Insider London
+baseurl: ""
+# Build settings
+lsi: false
+paginate: 10
+paginate_path: "/blog/page/:num/"
+gems: [jekyll-paginate]
+exclude: [gruntfile.js,.gitignore,php.ini, bower.json,package.json,node_modules,bower_components,wp-content]
+future: true
+markdown: redcarpet
+env: prod

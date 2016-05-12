@@ -1,0 +1,22 @@
+---
+id: 25099
+title: Educational Tours
+date: 2015-05-11T15:47:17+00:00
+author: london75
+layout: page
+permalink: /product-category/educational-tours/
+---
+<div class="container archive tax-product_cat term-tours term-75 woocommerce woocommerce-page wpb-js-composer js-comp-ver-4.5 vc_responsive">
+
+<section id="primary" class="content-full-width">
+  <p>Insider London offers educational guided tours which are perfect for corporate events or student groups. The Financial Walking Tour reveals how the City of London developed into a global financial centre while our Silicon Roundabout Tour gives students the chance to explore and learn about East London’s Tech hub. Alternatively, our Retail Design Tour takes in the most exciting and innovative retail design in London, with a focus on visual marketing and merchandising. Our in-depth business visits are also incredibly popular and involve a behind-the-scenes visit to one of London’s most exciting businesses where you will hear from entrepreneurs who built their companies from the ground up.</p>
+<ul class="products">
+
+{% assign posts = (site.categories.educational | sort: 'title') %}
+{% for post in posts %}
+  {% assign loopindex = forloop.index | modulo: 4 %}
+  {% include category-tour.html %}
+{% endfor %}
+</ul>
+</section>
+</div>
