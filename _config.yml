@@ -11,4 +11,4 @@ gems: [jekyll-paginate]
 exclude: [gruntfile.js,.gitignore,php.ini, bower.json,package.json,node_modules,bower_components,wp-content]
 future: true
 markdown: redcarpet
-env: prod
+env: dev

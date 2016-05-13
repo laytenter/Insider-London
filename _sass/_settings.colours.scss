@@ -3,7 +3,7 @@
 //\*------------------------------------*/
 
 $color-brand:       $brand-color;
-$color-pink:        $color-brand;
+$color-blue:        #192e51;
 $color-gray:        #666;
 $color-gray-light:  #989898;
 $color-gray-ui:     #ddd;
@@ -15,10 +15,16 @@ $color-positive:    #3f990f;
 $color-negative:    #9f102e;
 $color-white:       #fff;
 // Page
-$inuit-base-background-color:   #f5f5f5;
+$inuit-base-background-color:   $color-white;
 $inuit-base-text-color:         #222;
 
 
 // Headings
-$color-headings:    $color-pink;
+$color-headings:    $color-blue;
 $color-heading-sub: $color-gray;
+
+
+// Boxes
+$color-box-highlight-background:    $color-highlight;
+$color-box-highlight-border:        $color-blue;
+$color-box-tint-background:         $color-tint;
