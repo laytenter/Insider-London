@@ -1,0 +1,52 @@
+/*------------------------------------*\
+    #SITE-NAV
+\*------------------------------------*/
+.site-nav {
+  background: $brand-color;
+  color: $color-white;
+  font-family: Helvetica,Arial,sans-serif;
+  background: #e4162f;
+  border-top: 5px solid #fff;
+  border-bottom: 5px solid #fff;
+  @extend %clearfix;
+  @include inuit-font-size(14px);
+  @include media-query(lap-and-up) {
+     @include inuit-font-size(16px);
+  }
+  height: 72px;
+}
+.site-nav__list {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  font-weight: 700;
+  text-align: center;
+}
+.site-nav__item {
+  display: none;
+  text-transform: uppercase;
+  padding: $inuit-base-spacing-unit;
+  @include media-query(lap-and-up) {
+    display: inline-block;
+    text-align: center;
+    //float: left;
+  }
+}
+
+.site-nav__item--logo {
+  //position:absolute;
+  //top:-50%;
+  padding: 0;
+  width:168px;
+  margin-top: -48px
+}
+
+.site-nav__link {
+  text-decoration:none;
+  color: $color-white;
+}
+
+.site-nav__link--active {
+  text-decoration: none;
+  background-color: $color-green;
+}

@@ -3,8 +3,22 @@
 \*------------------------------------*/
 
 .wrapper {
-    max-width: 1060px;
-    margin: 0 auto;
+    padding-left: quarter($inuit-base-spacing-unit);
+    padding-right: quarter($inuit-base-spacing-unit);
+
+    @include media-query(lap) {
+      padding-left: $inuit-base-spacing-unit;
+      padding-right: $inuit-base-spacing-unit;
+      max-width: 1060px;
+      margin: 0 auto;
+    }
+    @include media-query(desk) {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding-left: $inuit-base-spacing-unit;
+      padding-right: $inuit-base-spacing-unit;
+
+    }
 }
 
 /**

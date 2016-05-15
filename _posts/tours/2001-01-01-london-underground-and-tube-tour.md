@@ -4,13 +4,12 @@ tour_id: 50159
 title: London Underground and Tube Tour
 date: 2001-01-01T17:41:41+00:00
 layout: tour
-guid: '/?post_type=product&#038;p=32143'
 permalink: /product/london-underground-and-tube-tour/
 categories: [tours,featured,hidden]
 show_book: true
 price: 20
-thumb: /wp-content/uploads/2015/02/Fotolia_1929995_L-300x200.jpg
-thumb575x545: /wp-content/uploads/2015/06/Fotolia_1929995_L-575x545.jpg
+thumb: /assets/images/Fotolia_1929995_L-300x200.jpg
+thumb575x545: /assets/images/Fotolia_1929995_L-575x545.jpg
 banner: /assets/images/underground-tour-banner-2000x720.jpg
 hidden: true
 map: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19861.205229168765!2d-0.18037695633981765!3d51.519624879316524!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761aad72f39303%3A0x74926f3ec36c2314!2sPaddington+Station!5e0!3m2!1sen!2s!4v1431588473892
@@ -18,7 +17,7 @@ related: [32342,29349,32336]
 ---
 ##The Original London Underground and Tube Tour
 
-{% include trip-advisor-badge.html %}Travel across 150 years in just two hours aboard our awesome London Underground and Tube Tour!
+Travel across 150 years in just two hours aboard our awesome London Underground and Tube Tour!
 
 Starting at London's first ever underground station and finishing at one of London's futuristic space-age tube stations, you'll hear first-hand the captivating twists and turns of the Tube's history on this fun, fact-packed two-hour tour.
 

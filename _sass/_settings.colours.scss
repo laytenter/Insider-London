@@ -16,7 +16,7 @@ $color-negative:    #9f102e;
 $color-white:       #fff;
 // Page
 $inuit-base-background-color:   $color-white;
-$inuit-base-text-color:         #222;
+$inuit-base-text-color:         #000;
 
 
 // Headings
@@ -28,3 +28,6 @@ $color-heading-sub: $color-gray;
 $color-box-highlight-background:    $color-highlight;
 $color-box-highlight-border:        $color-blue;
 $color-box-tint-background:         $color-tint;
+
+// Buttons
+$colour-btn: $color-white;

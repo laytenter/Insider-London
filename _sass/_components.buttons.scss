@@ -1,0 +1,20 @@
+.btn {
+ @include font-weight(bold);
+
+  @include attention() {
+      background-color: $color-blue;
+          border-color: $color-blue;
+          color: $color-white;
+  }
+}
+
+.btn--book-now {
+  background-color: $color-brand;
+  color: $color-white;
+  @include attention() {
+      background-color: $color-blue;
+          border-color: $color-blue;
+          color: $color-white;
+
+  }
+}

@@ -1,0 +1,30 @@
+/*------------------------------------*\
+    #TYPE
+\*------------------------------------*/
+/**
+ * Typographical base selectors.
+ */
+/**
+ * Headings 1–6.
+ */
+@include headings() {
+  color: $color-headings;
+  text-transform: uppercase;
+}
+
+
+
+.tagline {
+  background-color: #fff;
+  padding: $inuit-base-spacing-unit--small;
+}
+
+.white {
+  color: $color-white;
+}
+
+
+strong {
+  color: $brand-color;
+  font-weight: 700;
+}

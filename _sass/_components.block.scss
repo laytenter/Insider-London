@@ -1,0 +1,19 @@
+.block__tour {
+  color: $color-white;
+  border: 1px solid #ff7786;
+  text-align: center;
+  padding: $inuit-base-spacing-unit--small;
+  h2 {
+
+    @include inuit-font-size(20px);
+
+    @include media-query(lap) {
+      @include inuit-font-size(24px,1);
+    }
+    @include media-query(desk) {
+      @include inuit-font-size(30px,1);
+    }
+
+    text-shadow: 0 2px 0 #cc2537;
+  }
+}
