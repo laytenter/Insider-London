@@ -8,13 +8,26 @@
   }
 }
 
-.btn--book-now {
+.btn--red {
   background-color: $color-brand;
   color: $color-white;
+  border-color: darken($color-brand,5%);
+
   @include attention() {
       background-color: $color-blue;
           border-color: $color-blue;
           color: $color-white;
+  }
 
+
+}
+
+.btn--view-all {
+  border:3px solid $color-black;
+  color: $color-brand;
+  @include attention() {
+          border-color: $brand-color;
+          color: $color-black;
+          background-color: $color-white;
   }
 }

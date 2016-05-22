@@ -10,7 +10,7 @@ permalink: /product/the-death-and-debauchery-tour/
 categories: [tours,featured,hidden]
 show_book: true
 price: 12
-thumb: /wp-content/uploads/2015/05/Death-and-Debauchery-print-1-300x200.jpg
+thumb: /assets/images/Death-and-Debauchery_banner_crop-568x388.jpg
 thumb575x545: /wp-content/uploads/2015/05/Death-and-Debauchery-print-1-575x545.jpg
 banner: /wp-content/uploads/2015/05/Death-and-Debauchery-print-1.jpg
 hidden: true

@@ -2,53 +2,31 @@
 layout: default
 title: Alternative London Tours | Hidden London Tours
 ---
+  <div class="hero">
+      <img class="hero__image" src="/assets/images/P1040883.JPG"
 
-  <div id="slider">
-    <div id="layerslider_6" class="ls-wp-container" style="">
-      <div class="ls-slide">
-        <img
-          src="/wp-content/uploads/2015/04/P1040883-360x180.JPG"
-          srcset="/wp-content/uploads/2015/04/P1040883.JPG 1900w,/wp-content/uploads/2015/04/P1040883-1024x512.JPG 1024w, /wp-content/uploads/2015/04/P1040883-360x180.JPG 360w"
           alt="View of St Paul Cathedrail framed by modern glass fronted buildings.">
-        <div class="ls-l" style="top:0px;left:0px;white-space: nowrap;">
-          <div class="slide-content-div">
-            <h2>COME AND DISCOVER THE WORLD OF</h2>
-            <h1>LONDON’S HIDDEN</h1>
-            <h3>TOURS</h3>
-            <div class="buttons-slider">
-              <a href="/product-category/tours/" class="white">VIEW ALL TOURS</a>
-            </div>
-          </div>
+        <div class="hero__content">
+            <h1 class="hero__title lap-ph++ lap-pv+ desk-ph++ desk-pv++ palm-p--">
+              COME AND DISCOVER THE WORLD OF LONDON’S HIDDEN TOURS
+            </h1>
+              <a class="btn btn--red" href="/product-category/tours/">
+                VIEW ALL TOURS
+              </a>
         </div>
       </div>
-    </div>
-  </div>
-  <section class="wpb_row block vc_row-fluid firtfourtolidertitle container vc_custom_1430321849354">
-    <div class="container">
-      <div class="row">
-        <div class="vc_col-sm-12 wpb_column vc_column_container ">
-          <div class="wpb_wrapper">
-            <div class="wpb_text_column wpb_content_element ">
-              <div class="wpb_wrapper">
-                <h2 style="text-align: center;">FEATURED TOURS</h2>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
+      <h2 style="text-align: center;">FEATURED TOURS</h2>
   <section class="wrapper">
-      <div class="layout">{% for post in site.categories.featured %}<div class="layout__item u-1/4-desk u-1/4-lap u-1/2-palm">
-          <div class="block block--flush">
+      <div class="layout">{% for post in site.categories.featured %}<div class="layout__item u-1/4-desk u-1/2-lap">
+          <div class="block block--flush lap-mb palm-mb">
                   <a class="block__image" href="{{ post.permalink }}" title="{{ post.title }}">
                     <img class="" src="{{ post.thumb }}" alt="" title="5103793738_5df66b09ba_o">
                   </a>
               <div class="block__body red-bg palm-p- lap-p- desk-p-">
                   <div class="block__tour">
-                <h2>{{ post.title }}</h2>
+                <h2 class="white">{{ post.title }}</h2>
                 {% if post.price %}
-                <p>£{{ post.price }} per person</p>
+                <p class="blue">£{{ post.price }} per person</p>
                 {% endif %}
                 <p>
                   <a class="btn" title="View details of the {{ post.title }} tour" href="{{ post.permalink }}">VIEW TOUR</a>
@@ -57,35 +35,19 @@ title: Alternative London Tours | Hidden London Tours
             </div>
           </div>
         </div><!-- -->{% endfor %}</div>
-  </section>
-  <section class="wpb_row block vc_row-fluid viewalltourcontainer container vc_custom_1430321899902">
-    <div class="container">
-      <div class="row">
-        <div class="vc_col-sm-12 wpb_column vc_column_container ">
-          <div class="wpb_wrapper">
-            <div class="wpb_text_column wpb_content_element ">
-              <div class="wpb_wrapper">
-                <p style="text-align: center;">
-                  <img src="/wp-content/uploads/2015/03/img-tour.png" alt="">
-                  <br>
-                  <a class="alltoursbutton" title="Tours" href="/product-category/tours/">
-                    VIEW ALL TOURS
-                  </a>
-                </p>
-              </div>
-            </div>
-          </div>
+        <div class="text-center palm-mb lap-and-up-mb">
+          <img src="/assets/images/img-tour.png" alt="">
+          <a class="btn btn--view-all" title="Tours" href="/product-category/tours/">
+            VIEW ALL TOURS
+          </a>
         </div>
-      </div>
-    </div>
   </section>
-  <section class="wpb_row block vc_row-fluid vc_custom_1431612502080">
+
+  <section class="homepage-intro">
     <div class="wrapper">
       <div class="layout">
         <div class="layout__item u-2/4-desk u-2/4-lap">
-
                   <img src="/assets/images/img-welcome.png" class="vc_single_image-img attachment-full" alt="img-welcome">
-
         </div><!--
 --><div class="layout__item u-2/4-desk u-2/4-lap">
                 <h2>Premium Walking Tours in London</h2>

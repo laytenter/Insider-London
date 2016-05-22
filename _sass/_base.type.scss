@@ -7,12 +7,18 @@
 /**
  * Headings 1–6.
  */
+
+ @font-face {
+ 	font-family: '33535gillsansmt';
+ 	src: url('/assets/fonts/33535gillsansmt.eot');
+ 	src: local('/assets/fonts/33535gillsansmt'), url('/assets/fonts/33535gillsansmt.woff') format('woff'), url('/assets/fonts/33535gillsansmt.ttf') format('truetype');
+ }
+
 @include headings() {
   color: $color-headings;
   text-transform: uppercase;
+  font-family: '33535gillsansmt';
 }
-
-
 
 .tagline {
   background-color: #fff;
@@ -23,8 +29,15 @@
   color: $color-white;
 }
 
+.blue {
+  color: $color-blue;
+}
+
+.centre {
+  text-align:centre;
+}
 
 strong {
-  color: $brand-color;
+  color: $color-black;
   font-weight: 700;
 }

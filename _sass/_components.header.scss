@@ -1,46 +1,9 @@
 #header-wrapper {
-  position: absolute;
   box-shadow: 1px 1px 4px rgba(0,0,0,0.2);
   width: 100%;
   margin: 0px;
   padding-top: 24px;
   background: rgba(68,88,112,0.6);
-}
-
-#main-menu ul li:hover ul li a {
-  background: #fff;
-  color: #192e51!important;
-}
-
-.sub-menu {
-  color: #192e51;
-  background: #fff;
-}
-
-#main-menu ul.sub-menu li:hover,
-#main-menu ul.sub-menu li:hover a {
-  background: #192e51!important;
-  color: #fff!important;
-}
-
-
-
-#header {
-  width: 100%;
-  margin: 0px;
-  padding: 0px;
-  float: left;
-  position: relative;
-  z-index: 9499;
-}
-
-#header .container {
-  backface-visibility: hidden;
-}
-
-#header-wrapper .main-menu-container {
-  width: 100%;
-  display: inline-block;
 }
 
 .dt-menu-toggle {

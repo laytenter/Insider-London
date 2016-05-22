@@ -8,14 +8,15 @@ permalink: /product/london-underground-and-tube-tour/
 categories: [tours,featured,hidden]
 show_book: true
 price: 20
-thumb: /assets/images/Fotolia_1929995_L-300x200.jpg
+thumb: /assets/images/Fotolia_1929995_L-568x388.jpg
 thumb575x545: /assets/images/Fotolia_1929995_L-575x545.jpg
 banner: /assets/images/underground-tour-banner-2000x720.jpg
 hidden: true
 map: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19861.205229168765!2d-0.18037695633981765!3d51.519624879316524!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761aad72f39303%3A0x74926f3ec36c2314!2sPaddington+Station!5e0!3m2!1sen!2s!4v1431588473892
 related: [32342,29349,32336]
 ---
-##The Original London Underground and Tube Tour
+
+<p class="lede palm-mt0 lap-and-up-mt0">The Original London Underground and Tube Tour</p>
 
 Travel across 150 years in just two hours aboard our awesome London Underground and Tube Tour!
 
@@ -23,7 +24,7 @@ Starting at London's first ever underground station and finishing at one of Lond
 
 The London Underground Tour takes you under the skin of the world's oldest and most iconic underground system. From learning about the Tube's origins, construction and design, to catching a glimpse of one of London's abandoned 'ghost stations', our experienced tour guides will illuminate another side of the London Underground network.
 
-##Highlights of the London Underground Tour
+##Highlights
 
 On this tour you will:
 

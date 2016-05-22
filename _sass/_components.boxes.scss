@@ -9,6 +9,9 @@
 .box--highlight {
     background-color: $color-box-highlight-background;
     border: 1px solid $color-box-highlight-border;
+    p:last-child {
+      margin-bottom:0;
+    }
 }
 
 .box--tint {

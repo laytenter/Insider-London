@@ -1,11 +1,13 @@
-<noscript>Your browser must support JavaScript in order to make a booking.</noscript>
-<div id="wc-bookings-booking-form" class="wc-bookings-booking-form" data-tourid="{{ page.tour_id }}">
-  <p>Book tickets online for this tour using our secure online ticket reservation system.</p>
-  <p class="price">
-    From: <span class="amount">£{{ page.price }}.00</span></p>
-  <p>
-    <a id="BookNow" class="btn btn--full btn--book-now" href="#">
-        Buy tickets
-      </a>
-  </p>
+<div class="box box--highlight palm-mb">
+  <noscript>Your browser must support JavaScript in order to make a booking.</noscript>
+
+  <div id="wc-bookings-booking-form" class="wc-bookings-booking-form" data-tourid="{{ page.tour_id }}">
+    <p class="palm-mt0 lap-and-up-mt0">Book tickets online for this tour using our secure online ticket reservation system.</p>
+
+    <p>
+      <a id="BookNow" class="btn btn--full btn--red" href="#">
+      Buy tickets <small>(from: £{{ page.price }})</small>
+    </a>
+    </p>
+  </div>
 </div>

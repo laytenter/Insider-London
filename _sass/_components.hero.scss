@@ -1,0 +1,27 @@
+.hero {
+  position: relative;
+
+}
+
+.hero__image {
+
+}
+
+.hero__content {
+  position: absolute;
+  top: 0;
+  text-align: center;
+  width: 100%;
+}
+
+.hero__title {
+
+  color: $color-white;
+  font-weight: 700;
+
+  @include media-query(palm) {
+    @include inuit-font-size(20px);
+  }
+
+
+}
