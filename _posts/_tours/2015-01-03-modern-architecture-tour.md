@@ -6,7 +6,6 @@ title: Modern Architecture Tour
 date: 2003-01-01T10:46:21+00:00
 author: london75
 layout: product
-guid: '/?post_type=product&#038;p=29338'
 permalink: /product/modern-architecture-tour/
 categories: [tours,educational]
 show_book: true

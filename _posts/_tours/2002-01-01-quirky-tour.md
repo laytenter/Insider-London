@@ -3,7 +3,6 @@ id: 32342
 tour_id: 50184
 title: Quirky Tour
 date: 2002-01-01T11:31:32+00:00
-author: london75
 layout: tour
 permalink: /product/quirky-tour/
 categories: [tours,featured,hidden]

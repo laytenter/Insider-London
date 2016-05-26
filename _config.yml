@@ -12,4 +12,3 @@ exclude: [gruntfile.js,.gitignore,php.ini, bower.json,package.json,node_modules,
 future: true
 markdown: redcarpet
 env: dev
-categories: [tours]
