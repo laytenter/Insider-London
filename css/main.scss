@@ -71,6 +71,7 @@ $inuit-enable-block--right: true;
 @import "components.header";
 @import "components.footer";
 @import "components.hero";
+@import "components.responsive-embed";
 
 /**
  * Trumps
@@ -87,6 +88,7 @@ $inuit-enable-block--right: true;
  $inuit-enable-responsive-margins: true;
  $inuit-enable-responsive-margins--tiny: true;
  $inuit-enable-responsive-margins--small: true;
+ $inuit-enable-responsive-margins--large: true;
  $inuit-enable-responsive-margins--huge: true;
  @import "../bower_components/inuit-spacing-responsive/trumps.spacing-responsive";
 @import "../bower_components/inuit-clearfix/trumps.clearfix";

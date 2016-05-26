@@ -25,3 +25,12 @@
 
 
 }
+
+.homepage-intro {
+  background-color: $color-brand;
+  color:$color-white;
+  a {
+    color:$color-white;
+    font-weight:bold;
+  }
+}

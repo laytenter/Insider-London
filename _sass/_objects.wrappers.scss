@@ -3,8 +3,8 @@
 \*------------------------------------*/
 
 .wrapper {
-    padding-left: quarter($inuit-base-spacing-unit);
-    padding-right: quarter($inuit-base-spacing-unit);
+    padding-left: halve($inuit-base-spacing-unit);
+    padding-right: halve($inuit-base-spacing-unit);
 
     @include media-query(lap) {
       padding-left: $inuit-base-spacing-unit;
