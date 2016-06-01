@@ -12,6 +12,9 @@ permalink: /product-category/tours/
 {% assign posts = site.categories.tours | sort:"date" %}
 {% for post in posts %}
   {% assign loopindex = forloop.index | modulo: 4 %}
-  {% include category-tour.html %}
+  {% if forloop.index > 1 %}-->{% endif %}<div class="layout__item u-1/4 u-1/3-lap u-1/2-palm">
+    {% include tour-block.html %}
+
+  </div>{% if forloop.last %}{% else %}<!--{% endif %}
 {% endfor %}
 </div>

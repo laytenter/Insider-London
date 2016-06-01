@@ -2,8 +2,9 @@
   <header class="header">
     <nav class="site-nav">
       <div class="wrapper">
+        <div class="layout">
+          <div class="layout__item u-2/5-desk u-2/5-lap u-1/4-palm">
         <ul class="site-nav__list">
-
           <li class="site-nav__item">
             <a class="site-nav__link" href="/">Home</a>
           </li>
@@ -21,11 +22,20 @@
           <li class="site-nav__item">
             <a class="site-nav__link" href="/about-us/">About Us</a>
           </li>
-          <li class="site-nav__item site-nav__item--logo">
-            <a class="site-nav__link" title="London Walking Tours" href="/">
+        </ul>
+        <button id="menu-toggle" class="menu-toggle__button palm-mt--" type="button">
+          <span class="menu-toggle__icon--bar"></span>
+          <span class="menu-toggle__icon--bar"></span>
+          <span class="menu-toggle__icon--bar"></span>
+        </button>
+        </div><!--
+--><div class="layout__item u-1/5-desk u-1/5-lap u-2/4-palm">
+            <a class="logo" title="London Walking Tours" href="/">
               <img alt="London Walking Tours" src="/assets/images/insider-logo.png" />
             </a>
-          </li>          
+        </div><!--
+--><div class="layout__item u-2/5-desk u-2/5-lap u-1/4-palm">
+          <ul class="site-nav__list">
           <li class="site-nav__item">
             <a class="site-nav__link" href="/gift-vouchers/">Gift Vouchers</a>
           </li>
@@ -35,15 +45,9 @@
           <li class="site-nav__item">
             <a class="site-nav__link" href="/blog/">Blog</a>
           </li>
-          <li class="site-nav__item site-nav__item--menu-toggle">
-            Menu
-            <button id="menu-toggle" class="menu-toggle__button" type="button">
-              <span class="menu-toggle__icon--bar"></span>
-              <span class="menu-toggle__icon--bar"></span>
-              <span class="menu-toggle__icon--bar"></span>
-            </button>
-          </li>
         </ul>
+      </div>
+      </div>
       </div>
     </nav>
   </header>
