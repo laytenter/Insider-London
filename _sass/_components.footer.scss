@@ -6,11 +6,23 @@
 #footer {
   background-size: cover!important;
 }
-footer .product-categories li {
-  padding: 0!important;
+
+.product-categories {
+  list-style-type: none;
+  padding-left:0;
 }
 
-footer .product-categories li * {
+.product-categories li {
+  padding: 0!important;
+  > a {
+    &:hover {
+      text-decoration: underline;
+    }
+    text-decoration: none;
+  }
+}
+
+.product-categories li * {
   color: #fff!important;
 }
 
@@ -31,15 +43,6 @@ footer .product-categories li * {
 #footer,
 #footer .widget.widget_text ul li a {
   color: #000;
-}
-
-#footer p {
-  line-height: 22px;
-}
-
-#footer p {
-  font-size: 13px;
-  color: #fff;
 }
 
 #footer .widget ul li a:hover {

@@ -34,11 +34,14 @@
   font-weight: 700;
   text-align: center;
   height: 72px;
-  overflow: hidden;
   display: none;
   @include media-query(lap-and-up) {
     display: block;
   }
+}
+
+.site-nav__list--overflow {
+  overflow: hidden;
 }
 
 .site-nav__item {
@@ -83,7 +86,6 @@
     		radial-gradient(circle at 100% 0, $color-brand 5px, $color-blue 6px),
     		radial-gradient(circle at 100% 100%, $color-brand 5px, $color-blue 6px),
     		radial-gradient(circle at 0 100%, $color-brand 5px, $color-blue 6px);
-
   }
 }
 
@@ -118,6 +120,42 @@
       border-color: inherit;
       color: inherit;
     }
+}
+
+
+.site-nav__item--parent {
+  position:relative;
+}
+.site-nav__item--parent:hover > .sub-menu {
+  display: block;
+}
+
+.sub-menu {
+  display: none;
+  text-align: left;
+  width: 240px;
+  background: #fff;
+  padding: 0;
+  position: absolute;
+  z-index: 1;
+  box-shadow: 0 5px 4px rgba(0,0,0,.1);
+  border-top: $color-brand 3px solid;
+  list-style-type: none;
+}
+
+
+.sub-menu__link {
+  color: $color-gray;
+  font-weight: normal;
+  text-transform: capitalize;
+  @include inuit-font-size(14px);
+  display:block;
+  padding: $inuit-base-spacing-unit--small;
+  &:hover {
+    background: $color-blue;
+    color: $color-white;
+  }
+
 }
 .menu-toggle__button {
   display:inline-block;

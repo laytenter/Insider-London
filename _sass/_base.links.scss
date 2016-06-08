@@ -4,9 +4,9 @@
 
 a {
     text-decoration: none;
-    color: $color-blue;
+    color: $color-brand;
 
     @include attention() {
-        text-decoration: underline;
+        text-decoration: none;
     }
 }
