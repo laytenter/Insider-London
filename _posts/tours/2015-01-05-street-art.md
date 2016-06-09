@@ -10,7 +10,7 @@ category: [hidden,tours,featured]
 categories: [tours]
 show_book: true
 price: 20
-thumb: /assets/images/5103793738_5df66b09ba_o-568x388.jpeg
+thumb: /assets/images/5103793738_5df66b09ba_o-568x388.jpg
 thumb575x545: /wp-content/uploads/2015/04/london-street-art-tour6-575x545.jpg
 banner: /assets/images/london-street-art-tour2-751x528.jpg
 hidden: true

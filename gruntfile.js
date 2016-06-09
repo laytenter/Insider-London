@@ -55,12 +55,42 @@ module.exports = function(grunt) {
       target: {
         files: {
           // Minify the styles into the assets folder
-          'assets/css/<%= opts.date %>.styles.min.css': ['css/style.clean.css']
+          'assets/css/<%= opts.date %>.styles.min.css': ['_site/css/main.css'],
+          '_includes/css/critical.css': ['css/critical-home.css', 'css/critical-home.css']
         }
+      }
+    },
+    penthouse: {
+      home: {
+        outfile: 'css/critical-home.css',
+        css: '_site/css/main.css',
+        url: 'http://dev.insider-london.co.uk',
+        width: 720,
+        height: 1024
+      },
+      tour: {
+        outfile: 'css/critical-tour.css',
+        css: '_site/css/main.css',
+        url: 'http://dev.insider-london.co.uk/product/london-underground-and-tube-tour/',
+        width: 720,
+        height: 1024
+      }
+    },
+    htmlmin: {
+      dist: {
+        options: {
+         removeComments: true,
+         collapseWhitespace: true
+      },
+      files: [{
+         expand: true,
+         cwd: '_site',
+         src: '**/*.html',
+         dest: '_site'
+       }]
       }
     }
   });
-
 
   // 3. Where we tell Grunt we plan to use this plug-in.
   grunt.loadNpmTasks('grunt-uncss');
@@ -68,13 +98,21 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-uglify');
   grunt.loadNpmTasks('grunt-contrib-cssmin');
   grunt.loadNpmTasks('grunt-contrib-watch');
+  grunt.loadNpmTasks('grunt-penthouse');
+  grunt.loadNpmTasks('grunt-contrib-htmlmin');
 
   // 4. Where we tell Grunt what to do when we type "grunt" into the terminal.
   // Task definition
   grunt.registerTask('cleancss', ['uncss']);
 
+  // Get the critical path CSS
+  grunt.registerTask('critical', ['penthouse']);
+
+
   // Watch _site folder for changes
   grunt.registerTask('init', ['watch']);
+
+  grunt.registerTask('minify', ['htmlmin']);
 
 
   grunt.registerTask('default', ['concat', 'uglify', 'cssmin']);
