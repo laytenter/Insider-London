@@ -95,6 +95,8 @@ RewriteRule ^.+$ %{REQUEST_FILENAME}.html [R=301,L]
 Header set Connection keep-alive
 </ifModule>
 
+
+
 ErrorDocument 404 /404.html
 
 ExpiresActive On

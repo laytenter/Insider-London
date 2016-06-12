@@ -437,12 +437,6 @@ h2 {
   color: #fff;
 }
 
-@media screen and (min-width: 45em) {
-  .telephone {
-    text-align: right;
-  }
-}
-
 .box:after,
 .site-nav:after {
   content: "";

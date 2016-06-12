@@ -9,3 +9,9 @@ html {
 figure {
   margin:0;
 }
+
+.hidden-palm {
+  @include media-query(palm) {
+    display:none;
+  }
+}

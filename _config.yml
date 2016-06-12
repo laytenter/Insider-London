@@ -8,8 +8,8 @@ lsi: false
 paginate: 10
 paginate_path: "/blog/page/:num/"
 gems: [jekyll-paginate]
-exclude: [gruntfile.js,.gitignore,php.ini, bower.json,package.json,node_modules,bower_components,wp-content]
+exclude: [gruntfile.js,.gitignore,php.ini, bower.json,package.json,node_modules,bower_components,wp-content,.htaccess]
 future: true
 markdown: redcarpet
-env: dev
+env: prod
 imagepath: /assets/images/
