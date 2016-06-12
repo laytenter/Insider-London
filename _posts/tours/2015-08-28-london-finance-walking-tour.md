@@ -8,9 +8,8 @@ guid: '/?post_type=product&#038;p=29332'
 permalink: /product/london-finance-walking-tour/
 categories: [tours,educational]
 show_book: false
-thumb: /wp-content/uploads/2015/04/bigstock-Bank-of-England-in-London-72296731-300x200.jpg
-thumb575x545: /wp-content/uploads/2015/04/bigstock-Bank-of-England-in-London-72296731-575x545.jpg
-banner: /wp-content/uploads/2015/04/bigstock-Bank-of-England-in-London-72296731.jpg
+thumb: bigstock-Bank-of-England-in-London-72296731-420x287.jpg
+banner: bigstock-Bank-of-England-in-London-72296731-772x528.jpg
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9932.061563355885!2d-0.09644565872492293!3d51.51293363219121!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604ab2d4f4403%3A0xd86f22da5202b7ac!2sSt.+Paul's!5e0!3m2!1sen!2s!4v1431589314594
 hidden: true
 related: [29347,29334,29344]

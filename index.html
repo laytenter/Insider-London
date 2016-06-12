@@ -21,7 +21,7 @@ title: Alternative London Tours | Hidden London Tours
       <div class="layout">{% for post in site.categories.featured %}<div class="layout__item u-1/4-desk u-1/2-lap u-1/2-palm">
           <div class="block block--flush lap-mb palm-mb">
                   <a class="block__image" href="{{ post.permalink }}" title="{{ post.title }}">
-                    <img class="" src="{{ post.thumb }}" alt="" title="5103793738_5df66b09ba_o">
+                    {% include image.html src=post.thumb srcset=post.thumbsrcset  caption="" %}
                   </a>
               <div class="block__body red-bg palm-p- lap-p- desk-p-">
                   <div class="block__tour">

@@ -9,9 +9,8 @@ layout: tour
 permalink: /product/modern-architecture-tour/
 categories: [tours,educational]
 show_book: true
-thumb: /assets/images/Fotolia_13198648_S-420x287.jpg
-thumb575x545: /assets/images/Fotolia_13198648_S1-575x545.jpg
-banner: /assets/images/Fotolia_13198648_S-772x528.jpg
+thumb: Fotolia_13198648_S-420x287.jpg
+banner: Fotolia_13198648_S-772x528.jpg
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9933.977038456189!2d-0.1118593163905431!3d51.504147652887916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604a5507854bb%3A0xd14c94cb200dcb1!2sSouthwark+Station!5e0!3m2!1sen!2s!4v1431589184611
 hidden: true
 related: [29342,29340,29332]
@@ -23,10 +22,12 @@ But love it or loathe it, you can’t help but notice the sci-fi like structures
 
 Award-winning Insider London’s brilliant alternative London walking tour is perfect for exploring London’s architectural wonders and getting the inside story on some of London&#8217;s most iconic developments.
 
+
 Discover how these contemporary buildings connect with the capital’s rich history, the superstar architects behind the designs and the quirky and unusual features of London’s innovative buildings – including one building that appears inside out.
 
 Starting at Southwark tube station and heading along the South Bank, our professional, highly knowledgeable guide will show you the best modern architecture around the City, St. Paul&#8217;s Cathedral and the London Wall before finishing at the centre of a stunning new development. Plus, we’ll let you know where you can enjoy the same view from the London Eye for the price of a beer!
 
+![](/assets/images/MA 2-large.jpeg)
 
 ##Highlights
 
@@ -42,8 +43,7 @@ and the fascinating stories behind their development.
 - The distinctive styles and characteristic design traits of influential British architects, </strong>including Will Alsop, Richard Rogers and Sir Norman Foster          
 - What’s next for London’s iconic skyline</strong>
 
-  <img width="768" height="1024" src="/wp-content/uploads/2015/04/P1040883-768x1024.jpg" class="vc_single_image-img attachment-large" alt="P1040883" srcset="/wp-content/uploads/2015/04/P1040883-225x300.jpg 225w, /wp-content/uploads/2015/04/P1040883-768x1024.jpg 768w, /wp-content/uploads/2015/04/P1040883.jpg 1500w" sizes="(max-width: 768px) 100vw, 768px" />
-
+![](/assets/images/Modern Architecture-large.jpg)
 
 ###What you need to know:
 
@@ -52,6 +52,8 @@ and the fascinating stories behind their development.
 Meeting at Southwark tube station, the walking tour crosses the Thames and heads to the most unusual, futuristic buildings in London’s financial district. The tour finishes close to Liverpool Street station.
 
 We include a coffee break to let you experience one of the most exciting stops for yourself.
+
+{% include tour-map.html %}
 
 **How long is the tour?**
 
@@ -74,4 +76,4 @@ To book the private tour, or find out more, call 0207 183 1055, or email: <a hre
 
 Liverpool Street Station
 
-{% include tour-map.html %}
+![](/assets/images/Fotolia_8192132_M_2_1024-large.jpg)

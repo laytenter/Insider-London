@@ -8,9 +8,8 @@ guid: '/?post_type=product&#038;p=29344'
 permalink: /product/in-depth-business-tour/
 categories: [tours,educational]
 show_book: false
-thumb: /assets/images/Fotolia_24879531_M-568x388.jpg
-thumb575x545: /assets/images/Fotolia_24879531_M-575x545.jpg
-banner: /assets/images/Fotolia_24879531_M-772x528.jpg
+thumb: Fotolia_24879531_M-568x388.jpg
+banner: Fotolia_24879531_M-772x528.jpg
 map:
 hidden: true
 related: [29347,29332,29334]

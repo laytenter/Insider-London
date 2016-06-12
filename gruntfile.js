@@ -89,6 +89,24 @@ module.exports = function(grunt) {
          dest: '_site'
        }]
       }
+    },
+    responsive_images: {
+      myTask: {
+        options: {
+          sizes: [{
+            width: 240,
+            height: 240,
+            quality: 70,
+            aspectRatio: false,
+            quality: 80,
+            gravity: 'NorthWest'
+          }]
+        },
+        files: [{
+          expand: true,
+          src: ['/home/adam/Documents/InsiderLondon/guides/**.{JPG,jpg,gif,png,jpeg}']
+                }]
+      }
     }
   });
 
@@ -114,6 +132,7 @@ module.exports = function(grunt) {
 
   grunt.registerTask('minify', ['htmlmin']);
 
+  grunt.loadNpmTasks('grunt-responsive-images');
 
   grunt.registerTask('default', ['concat', 'uglify', 'cssmin']);
 

@@ -9,10 +9,9 @@ permalink: /product/history-of-drinking-and-pubs/
 categories: [tours,hidden]
 show_book: true
 price: 20
-thumb: /assets/images/DSC_0129-568x388.jpg
 tour_id: 50195
-thumb575x545: /assets/images/DSC_0135-575x545.jpg
-banner: /assets/images/DSC_0133-772x528.jpg
+thumb: DSC_0129-568x388.jpg
+banner: DSC_0133-772x528.jpg
 hidden: true
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4966.162957478993!2d-0.10564200397951787!3d51.51172115720292!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604adbae6cb21%3A0x205e7bb84640673b!2sBlackfriars!5e0!3m2!1sen!2s!4v1431588376179
 related: [32143,29349,12345]

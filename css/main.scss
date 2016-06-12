@@ -65,6 +65,10 @@ $inuit-enable-block--right: true;
 @import "../bower_components/inuit-block/objects.block";
 @import "components.block";
 
+$inuit-enable-media--small: true;
+$inuit-enable-media--responsive: true;
+@import "../bower_components/inuit-media/objects.media";
+
 @import "../bower_components/inuit-box/objects.box";
 
 @import "components.main-nav";

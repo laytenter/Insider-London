@@ -10,19 +10,19 @@ category: [hidden,tours,featured]
 categories: [tours]
 show_book: true
 price: 20
-thumb: /assets/images/5103793738_5df66b09ba_o-568x388.jpg
-thumb575x545: /wp-content/uploads/2015/04/london-street-art-tour6-575x545.jpg
-banner: /assets/images/london-street-art-tour2-751x528.jpg
+thumb: 5103793738_5df66b09ba_o-300x200.jpg
+thumbsrcset: /assets/images/5103793738_5df66b09ba_o-445x304.jpeg 445w, /assets/images/5103793738_5df66b09ba_o-568x388.jpeg 568w
+banner: Street Art 3-large.JPG
 hidden: true
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9930.18992237212!2d-0.08116377516709032!3d51.521517516813866!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761cb7237e45d3%3A0x832e68d6f5c3b9b0!2sShoreditch+High+Street!5e0!3m2!1sen!2s!4v1431588607125
 related: [32569,32334,32336]
 ---
-
+/home/adam/public_html/insider-london/assets/images/5103793738_5df66b09ba_o-445x304.jpeg
+/home/adam/public_html/insider-london/assets/images/5103793738_5df66b09ba_o-568x388.jpeg
 <p class="lede">London is filled with street art and graffiti hotspots with artists from around the world leaving their mark. Whether you are a seasoned visitor, on your very first trip, or have called this city home for years, it can be sometimes difficult to spot the hidden treasures London has to offer.
 
 ##Highlights of the London Street Tour include:
 
-![](/wp-content/uploads/2015/04/crop_P1040349-883x1024.jpg")
 
 - Discover one of the earliest (now protected) works by world-famous graffiti artist Banksy.
 
@@ -34,13 +34,17 @@ related: [32569,32334,32336]
 
 - Discover murals and art installations by artists such as D*Face, James Cochrane, Stik, Shepard Fairy, Space Invader and many more!
 
+![](/assets/images/Street Art 1-large.JPG)
+
 The Street Art Tour is a hit for all kinds of people and since the street art scene is ever-evolving, our tour guides continually update their own knowledge so that you don’t miss out on the exclusives. The Street Art Tour of London is a walking tour that keeps continuing, with new art to find around every corner.
 
 ###What you need to know
 
 **Where do we meet?**
 
-Outside of Shoreditch High Street Overground station
+Outside of Shoreditch High Street Overground station.
+
+{% include tour-map.html %}
 
 **How long is the tour?**
 
@@ -61,4 +65,4 @@ The London Street Art Tour may also be booked as a private tour at a time suitab
 
 The tour finished at the old Truman Brewery, a short walk from Liverpool Street Station.
 
-{% include tour-map.html %}
+![](/assets/images/Street Art Group Tour-large.JPG)

@@ -46,13 +46,10 @@
 
 .site-nav__item {
   text-transform: uppercase;
-  padding: $inuit-base-spacing-unit--small 0;
-
-  @include media-query(lap) {
-    padding: $inuit-base-spacing-unit--small 0;
-  }
+  padding: 0;
 
   @include media-query(lap-and-up) {
+    padding: $inuit-base-spacing-unit--small 0;
     display: inline-block;
     text-align: center;
   }
@@ -61,31 +58,41 @@
   text-decoration: none;
   color: $color-white;
   padding: $inuit-base-spacing-unit--small $inuit-base-spacing-unit;
-  display: inline-block;
+  display: block;
   text-shadow: 0 1px 0 $color-blue;
+  border-bottom:1px solid $color-white;
 
   @include media-query(lap) {
     padding: halve($inuit-base-spacing-unit--small) $inuit-base-spacing-unit--small;
   }
 
+  @include media-query(lap-and-up) {
+    display: inline-block;
+    border:none;
+  }
+
   @include attention() {
+
     border-color: $color-blue;
     color: $color-white;
-    // Woot - http://lea.verou.me/2011/03/beveled-corners-negative-border-radius-with-css3-gradients/
     background: $color-blue;; /* fallback */
-  	background:
-  		linear-gradient(135deg, transparent 5px, $color-blue 0) top left,
-  		linear-gradient(225deg, transparent 5px, $color-blue 0) top right,
-  		linear-gradient(315deg, transparent 5px, $color-blue 0) bottom right,
-  		linear-gradient(45deg,  transparent 5px, $color-blue 0) bottom left;
-  	background-size: 50% 50%;
 
-  	background-repeat: no-repeat;
-    background-image:
-    		radial-gradient(circle at 0 0, $color-brand 5px, $color-blue 6px),
-    		radial-gradient(circle at 100% 0, $color-brand 5px, $color-blue 6px),
-    		radial-gradient(circle at 100% 100%, $color-brand 5px, $color-blue 6px),
-    		radial-gradient(circle at 0 100%, $color-brand 5px, $color-blue 6px);
+    @include media-query(lap-and-up) {
+      // Woot - http://lea.verou.me/2011/03/beveled-corners-negative-border-radius-with-css3-gradients/
+    	background:
+    		linear-gradient(135deg, transparent 5px, $color-blue 0) top left,
+    		linear-gradient(225deg, transparent 5px, $color-blue 0) top right,
+    		linear-gradient(315deg, transparent 5px, $color-blue 0) bottom right,
+    		linear-gradient(45deg,  transparent 5px, $color-blue 0) bottom left;
+    	background-size: 50% 50%;
+
+    	background-repeat: no-repeat;
+      background-image:
+      		radial-gradient(circle at 0 0, $color-brand 5px, $color-blue 6px),
+      		radial-gradient(circle at 100% 0, $color-brand 5px, $color-blue 6px),
+      		radial-gradient(circle at 100% 100%, $color-brand 5px, $color-blue 6px),
+      		radial-gradient(circle at 0 100%, $color-brand 5px, $color-blue 6px);
+    }
   }
 }
 
@@ -93,9 +100,9 @@
   text-decoration: none;
   background-color: $color-green;
 }
+
 .logo {
   display:block;
-
   margin: -30px auto;
   padding: 0;
   width: 108px;
@@ -103,6 +110,7 @@
   @include media-query(lap) {
     width: 144px;
     margin: -48px auto;
+    max-width: 100%;
   }
 
   @include media-query(desk) {
@@ -112,7 +120,6 @@
   }
 
   padding: 0;
-
     &:active,
     &:hover,
     &:visited {
@@ -122,10 +129,10 @@
     }
 }
 
-
 .site-nav__item--parent {
   position:relative;
 }
+
 .site-nav__item--parent:hover > .sub-menu {
   display: block;
 }
@@ -143,7 +150,6 @@
   list-style-type: none;
 }
 
-
 .sub-menu__link {
   color: $color-gray;
   font-weight: normal;
@@ -155,7 +161,6 @@
     background: $color-blue;
     color: $color-white;
   }
-
 }
 .menu-toggle__button {
   display:inline-block;
@@ -177,4 +182,11 @@
 }
 .menu-toggle__icon--bar + .menu-toggle__icon--bar {
   margin-top: 4px;
+}
+
+.site-nav__list--mobile {
+  display:none;
+  height: auto;
+  background-color: $color-brand;
+  text-align:left;
 }

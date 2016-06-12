@@ -4,15 +4,13 @@ tour_id: 50202
 title: Tour of East End - Gangs, Crimes and Hasher Times
 date: 2007-01-01T16:41:56+00:00
 author: london75
-layout: product
-guid: /product/tour-of-east-end-gangs-crimes-and-hasher-times/
+layout: tour
 permalink: /product/tour-of-east-end-gangs-crimes-and-hasher-times/
 categories: [hidden,tours]
 show_book: true
 price: 20
-thumb:
-thumb575x545: /wp-content/uploads/2015/10/Christ-Church-575x545.jpg
-banner: /wp-content/uploads/2015/10/Christ-Church.jpg
+thumb: Christ-Church-420x287.jpg
+banner: Christ-Church-772x528.jpg
 hidden: true
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9932.007090001796!2d-0.12702783599357304!3d51.513183477127704!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604cc9188694f%3A0x388b51ab073ca62!2sCovent+Garden!5e0!3m2!1sen!2s!4v1431588532795
 related: [29326,29349,12345]
@@ -21,7 +19,6 @@ related: [29326,29349,12345]
 <p class="lede">The days are getting colder and evening is creeping in earlier, but there is still much to be found in London town, especially the famous East End. Insider London would like to take you into the depths of the East End of London and its incredible history on the <em>East End: Gangs, Crimes and Harsher Times </em>walking tour. The East End is more than Street Art and Jack the Ripper murder sites, it has been coloured by the numerous waves of immigrants who made the area their home. This part of London was notoriously stricken with poverty for centuries which resulted in hardened criminals terrorising the streets. The rookeries, filled to the brim with impoverished workers who often turned to crime just to get by, surrounded the infamous Spitalfields Market. From the early riots of the silkweavers to the foul living conditions of the Victorian era when gangs of pick-pockets ran rife; from the more commonly known gangs of the early 20th Century to the recent gentrification which made it a favourite haunt for Londoners. The architecture, alleys, the Spitalfields Market have all been touched by the residents, as well as the pubs. We will duck into some of these famous drinking holes to hear more about the gangs, crime, and harsher times of the East End.
 
 ###Highlights of the Quirky London Tour
-<img width="768" height="1024" src="/wp-content/uploads/2015/10/Ten-Bells-768x1024.jpg"  srcset="/wp-content/uploads/2015/10/Ten-Bells-450x600.jpg 450w, /wp-content/uploads/2015/10/Ten-Bells-768x1024.jpg 768w, /wp-content/uploads/2015/10/Ten-Bells.jpg 1125w" sizes="(max-width: 768px) 100vw, 768px" />
 
 - The site of Bedlam, the people thrown in for living a life of crime and the criminal methods used by the institution
 - Find out the darker history of what ties a saint, a wheel and an alley together

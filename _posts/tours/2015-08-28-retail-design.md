@@ -9,9 +9,8 @@ guid: '/?post_type=product&#038;p=29334'
 permalink: /product/retail-design/
 categories: [tours,educational]
 show_book: false
-thumb:
-thumb575x545: /wp-content/uploads/2015/05/la-duree1-575x545.jpg
-banner: /wp-content/uploads/2015/05/la-duree1.jpg
+thumb: la-duree-420x287.jpg
+banner: la-duree1-772x528.jpg
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9932.719664857414!2d-0.14276057544238435!3d51.50991514619343!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604d3ff201fc1%3A0xf08adf0cfb3eb2fe!2sPiccadilly+Circus%2C+London+W1D+7ET%2C+UK!5e0!3m2!1sen!2s!4v1431588804686
 hidden: true
 related: [29347,29332,29344]

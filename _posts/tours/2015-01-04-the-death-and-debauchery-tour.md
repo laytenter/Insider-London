@@ -10,9 +10,9 @@ permalink: /product/the-death-and-debauchery-tour/
 categories: [tours,featured,hidden]
 show_book: true
 price: 12
-thumb: /assets/images/Death-and-Debauchery_banner_crop-568x388.jpg
-thumb575x545: /assets/images/Death-and-Debauchery-print-1-575x545.jpg
-banner: /assets/images/Death-and-Debauchery_banner_crop-772x528.jpg
+thumb: Death-and-Debauchery-print-1-300x200.jpg
+thumbsrcset: /assets/images/Death-and-Debauchery-print-1-445x304.jpg 445w, /assets/images/Death-and-Debauchery-print-1-568x388.jpg 568w
+banner: Death-and-Debauchery_banner_crop-772x528.jpg
 hidden: true
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9931.27315116613!2d-0.132637911781476!3d51.51654964219215!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b2d6954b527%3A0xa11d7ff34a8e1347!2sDominion+Theatre!5e0!3m2!1sen!2s!4v1431588707092
 related: [32342,12345,32569]
