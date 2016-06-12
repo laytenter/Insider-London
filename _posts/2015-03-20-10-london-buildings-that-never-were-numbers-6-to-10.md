@@ -1,34 +1,36 @@
 ---
-id: 24920
 title: '10 London buildings that never were: Numbers 6 to 10'
-date: 2015-03-20T10:30:03+00:00
+date: '2015-03-20 10:30:03'
+categories:
+- blog
+- Green London
+- Modern Architecture
+- Quirky, weird and bizarre London
+- Sustainable Architecture
+id: 24920
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=24920
-permalink: /10-london-buildings-that-never-were-numbers-6-to-10/
+permalink: "/10-london-buildings-that-never-were-numbers-6-to-10/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - Green London
-  - Modern Architecture
-  - Quirky, weird and bizarre London
-  - Sustainable Architecture
+- 
 tags:
-  - architecture
-  - Battersea Power Station
-  - City of London
-  - London
-  - modern architecture
-  - "St Paul's Cathedral"
-  - unbuilt
-  - wren
+- architecture
+- Battersea Power Station
+- City of London
+- London
+- modern architecture
+- St Paul's Cathedral
+- unbuilt
+- wren
+slug: 10-london-buildings-that-never-were-numbers-6-to-10
+
 ---
 Last week, we took you on a whirlwind tour of five London architectural projects that never came to fruition &#8211; <a href="http://www.insider-london.co.uk/?p=24901" target="_blank">you can see the list here</a>. But London&#8217;s history contains so many, many more, so today we&#8217;re back to show you a further five.
 

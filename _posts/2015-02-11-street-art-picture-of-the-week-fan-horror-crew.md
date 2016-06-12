@@ -1,32 +1,34 @@
 ---
-id: 24694
 title: 'Street Art Picture of the Week: Fan, Horror Crew'
-date: 2015-02-11T11:00:29+00:00
+date: '2015-02-11 11:00:29'
+categories:
+- blog
+- East London
+- London Street Art &amp; Graffiti
+id: 24694
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=24694
-permalink: /street-art-picture-of-the-week-fan-horror-crew/
+permalink: "/street-art-picture-of-the-week-fan-horror-crew/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - East London
-  - 'London Street Art &amp; Graffiti'
+- 
 tags:
-  - alternative London walking tours
-  - Brick Lane
-  - East London
-  - Fan
-  - horror crew
-  - 'london street art &amp; Graffiti'
-  - street art and graffiti
-  - street art picture of the week
+- alternative London walking tours
+- Brick Lane
+- East London
+- Fan
+- horror crew
+- london street art &amp; Graffiti
+- street art and graffiti
+- street art picture of the week
+slug: street-art-picture-of-the-week-fan-horror-crew
+
 ---
 <img class="aligncenter wp-image-24697 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/7_mini.jpg" alt="7_mini" width="569" height="427" />
 

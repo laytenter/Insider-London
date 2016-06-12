@@ -1,23 +1,26 @@
 ---
-id: 22390
 title: 'Street Art Picture of the Week: Unga and INSA'
-date: 2014-10-08T10:30:55+00:00
+date: '2014-10-08 10:30:55'
+categories:
+- blog
+- East London
+- London Street Art &amp; Graffiti
+id: 22390
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=22390
-permalink: /street-art-picture-of-the-week-unga-and-insa/
+permalink: "/street-art-picture-of-the-week-unga-and-insa/"
 s4_cdes:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
-categories:
-  - blog
-  - East London
-  - 'London Street Art &amp; Graffiti'
+- 
+slug: street-art-picture-of-the-week-unga-and-insa
+tags: []
+
 ---
 [<img class="aligncenter wp-image-22983 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/Unga-Insa-street-art1.jpg" alt="Street art London unga insa " width="569" height="427" />](http://www.insider-london.co.uk/wp-content/uploads/2014/09/Unga-Insa-street-art1.jpg)
 

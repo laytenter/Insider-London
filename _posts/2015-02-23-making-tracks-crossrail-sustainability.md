@@ -1,30 +1,32 @@
 ---
-id: 24802
 title: 'Making Tracks: Crossrail &#038; Sustainability'
-date: 2015-02-23T12:58:03+00:00
+date: '2015-02-23 12:58:03'
+categories:
+- blog
+- Green London
+- London Underground/Tube
+id: 24802
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=24802
-permalink: /making-tracks-crossrail-sustainability/
+permalink: "/making-tracks-crossrail-sustainability/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - Green London
-  - London Underground/Tube
+- 
 tags:
-  - all over London
-  - Central London
-  - Design
-  - green London
-  - sustainable london
-  - Underground
+- all over London
+- Central London
+- Design
+- green London
+- sustainable london
+- Underground
+slug: making-tracks-crossrail-sustainability
+
 ---
 As of late, the talk of London town has been the new Crossrail network, due to open in 2018. The route will connect East and West London, serving more than 40 stations and cutting down travel times across the city.
 

@@ -1,20 +1,22 @@
 ---
-id: 3432
 title: High Line
-date: 2012-12-21T13:14:32+00:00
+date: '2012-12-21 13:14:32'
+categories:
+- blog
+- Green London
+- London Underground/Tube
+id: 3432
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=3432
-permalink: /high-line-london-underground/
-categories:
-  - blog
-  - Green London
-  - London Underground/Tube
+permalink: "/high-line-london-underground/"
 tags:
-  - London Underground
-  - mushroom garden
-  - quirky london
-  - Tube
+- London Underground
+- mushroom garden
+- quirky london
+- Tube
+slug: high-line-london-underground
+
 ---
 You may have noticed a petition doing the rounds to open up London’s disused underground railways (we&#8217;ve certainly been tweeting it like mad). It might surprise you to learn that there are no less than _twenty-six_ disused stations underneath London: that&#8217;s a whole lotta disused space for a cramped city. (Who&#8217;s betting you&#8217;ll grumble about this fact the next time you&#8217;re crushed to within an inch of your life on a busy tube platform).
   

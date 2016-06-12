@@ -1,14 +1,17 @@
 ---
-id: 1489
 title: 'Ritzy Cinema in Brixton: A Blend of Old and New'
-date: 2013-06-03T13:52:55+00:00
+date: '2013-06-03 13:52:55'
+categories:
+- blog
+- London Pubs and nights out
+id: 1489
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=1489
-permalink: /brixton-ritzy-cinema-london-tours/
-categories:
-  - blog
-  - London Pubs and nights out
+permalink: "/brixton-ritzy-cinema-london-tours/"
+slug: brixton-ritzy-cinema-london-tours
+tags: []
+
 ---
 My experience of cinemas before I moved to London wasn&#8217;t particularly inspiring. When I lived in Eastbourne (I call it Brighton&#8217;s boring, miserable and paranoid older brother), there was either a new cinema complex that was ugly and characterless but had all the new releases, or there was an old and classically-decorated cinema that had real character but only showed _Jumanji_. Now in London I&#8217;ve found the [Ritzy](http://www.picturehouses.co.uk/cinema/Ritzy_Picturehouse/) Cinema in Brixton, where I pretty much get the best of both worlds.
 

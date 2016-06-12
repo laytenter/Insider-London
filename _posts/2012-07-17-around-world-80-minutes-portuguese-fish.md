@@ -1,18 +1,20 @@
 ---
+title: Around the World in 80 Minutes &#8211; Portuguese Fish
+date: '2012-07-17 13:54:22'
+categories:
+- blog
+- Around the World in 80 Minutes
 id: 753
-title: 'Around the World in 80 Minutes &#8211; Portuguese Fish'
-date: 2012-07-17T13:54:22+00:00
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=753
-permalink: /around-world-80-minutes-portuguese-fish/
-categories:
-  - blog
-  - Around the World in 80 Minutes
+permalink: "/around-world-80-minutes-portuguese-fish/"
 tags:
-  - eating
-  - sightseeing
-  - South-West London
+- eating
+- sightseeing
+- South-West London
+slug: around-world-80-minutes-portuguese-fish
+
 ---
 <h4 style="text-align: center">
   Part of Insider London is giving a taste to the different sides and sites in London.<br /> &#8216;<strong>Around the World in 80 Minutes</strong>&#8216; every week will give a flavour of the capital&#8217;s diverse landscape, focusing on a thriving ethic culture. To kick us off, Elena Festa checks out a Portuguese fishmonger.

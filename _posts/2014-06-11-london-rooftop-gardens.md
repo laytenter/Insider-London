@@ -1,21 +1,23 @@
 ---
-id: 14903
 title: Inside five of London’s hidden rooftop gardens
-date: 2014-06-11T10:30:03+00:00
+date: '2014-06-11 10:30:03'
+categories:
+- blog
+- Green London
+- Modern Architecture
+id: 14903
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=14903
-permalink: /london-rooftop-gardens/
-categories:
-  - blog
-  - Green London
-  - Modern Architecture
+permalink: "/london-rooftop-gardens/"
 tags:
-  - architecture
-  - green London
-  - London walking tours
-  - skyscrapers
-  - sustainable london
+- architecture
+- green London
+- London walking tours
+- skyscrapers
+- sustainable london
+slug: london-rooftop-gardens
+
 ---
 On a sunny day in London, thoughts tend towards outdoors drinking, perhaps in one of the city’s rooftop bars. On our sustainable architecture walking tours we also tend to look up. But it’s to the city’s rooftops that are alive all year round, thanks to the rooftop gardens that are helping to make London green. Rooftop gardens have become an important element in sustainable architecture: they can improve water and air quality, not to mention increasing the biodiversity of the local area. And, for lucky workers in the buildings, it’s been proven that access to a green space can also reduce stress. Here’s a peek at five of London’s hidden green rooftops.
 

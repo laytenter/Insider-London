@@ -1,20 +1,22 @@
 ---
-id: 3441
 title: London Underground Competition
-date: 2012-12-06T15:59:50+00:00
+date: '2012-12-06 15:59:50'
+categories:
+- blog
+- London Underground/Tube
+id: 3441
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=3441
-permalink: /london-underground-competition-tours/
-categories:
-  - blog
-  - London Underground/Tube
+permalink: "/london-underground-competition-tours/"
 tags:
-  - Benugo
-  - BFI
-  - London Underground
-  - Penguin Books
-  - Tube
+- Benugo
+- BFI
+- London Underground
+- Penguin Books
+- Tube
+slug: london-underground-competition-tours
+
 ---
 <p style="text-align: center;">
   <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/12/bfi-00o-2f91.jpg"><img class="aligncenter size-full wp-image-3445" title="underground" src="http://www.insider-london.co.uk/wp-content/uploads/2012/12/bfi-00o-2f91.jpg" alt="london-tube-tours-underground" width="569" height="432" /></a>

@@ -1,14 +1,17 @@
 ---
-id: 13914
 title: Growing Underground in London
-date: 2014-02-14T11:00:43+00:00
+date: '2014-02-14 11:00:43'
+categories:
+- blog
+- Other
+id: 13914
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=13914
-permalink: /growing-underground-in-london/
-categories:
-  - blog
-  - Other
+permalink: "/growing-underground-in-london/"
+slug: growing-underground-in-london
+tags: []
+
 ---
 [<img class="alignnone size-full wp-image-13918" alt="Growing Underground Founders" src="http://www.insider-london.co.uk/wp-content/uploads/2014/02/Growing-Underground-Founders.jpg" width="569" height="379" />](http://www.insider-london.co.uk/wp-content/uploads/2014/02/Growing-Underground-Founders.jpg)
 

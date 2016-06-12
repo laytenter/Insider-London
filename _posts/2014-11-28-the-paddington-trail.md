@@ -1,29 +1,31 @@
 ---
-id: 23482
 title: The Paddington Trail
-date: 2014-11-28T00:01:09+00:00
+date: '2014-11-28 00:01:09'
+categories:
+- blog
+- London Underground/Tube
+- Other
+id: 23482
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=23482
-permalink: /the-paddington-trail/
+permalink: "/the-paddington-trail/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - London Underground/Tube
-  - Other
+- 
 tags:
-  - Alternative London
-  - alternative London walking tours
-  - London Underground
-  - paddington
-  - walking tours
+- Alternative London
+- alternative London walking tours
+- London Underground
+- paddington
+- walking tours
+slug: the-paddington-trail
+
 ---
 [<img class="aligncenter wp-image-23484 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/11/A44O0966-3673865891-O.jpg" alt="Paddington in Green Park" width="569" height="320" />](http://www.insider-london.co.uk/wp-content/uploads/2014/11/A44O0966-3673865891-O.jpg)
 

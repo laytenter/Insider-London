@@ -1,14 +1,17 @@
 ---
-id: 13725
 title: Antique x Ben Slow Collaboration
-date: 2014-01-17T10:00:22+00:00
+date: '2014-01-17 10:00:22'
+categories:
+- blog
+- London Street Art &amp; Graffiti
+id: 13725
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=13725
-permalink: /antique-x-ben-slow-collaboration/
-categories:
-  - blog
-  - 'London Street Art &amp; Graffiti'
+permalink: "/antique-x-ben-slow-collaboration/"
+slug: antique-x-ben-slow-collaboration
+tags: []
+
 ---
 [<img class="alignnone size-full wp-image-13735" alt="Antique Ben Slow T Shirt" src="http://www.insider-london.co.uk/wp-content/uploads/2014/01/Antique-Ben-Slow-T-Shirt.jpg" width="566" height="337" />](http://www.insider-london.co.uk/wp-content/uploads/2014/01/Antique-Ben-Slow-T-Shirt.jpg)
 

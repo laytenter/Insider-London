@@ -1,22 +1,24 @@
 ---
+title: Street Art at East London&#8217;s Red Market
+date: '2013-03-14 19:41:19'
+categories:
+- blog
+- London Street Art &amp; Graffiti
+- Other
 id: 4796
-title: 'Street Art at East London&#8217;s Red Market'
-date: 2013-03-14T19:41:19+00:00
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=4796
-permalink: /street-art-east-londons-red-market/
-categories:
-  - blog
-  - 'London Street Art &amp; Graffiti'
-  - Other
+permalink: "/street-art-east-londons-red-market/"
 tags:
-  - aida
-  - East London
-  - new street art
-  - perspicere
-  - roa
-  - Street Art
+- aida
+- East London
+- new street art
+- perspicere
+- roa
+- Street Art
+slug: street-art-east-londons-red-market
+
 ---
 Yesterday we were scouting around for some new finds for our <a href="http://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">Street Art Tour</a> and found that <a href="http://redmarketlondon.com/" target="_blank">The Red Market</a> was open&#8230; we wandered in and had a look around to find some gorgeous pieces. Here they are!
 

@@ -1,19 +1,21 @@
 ---
+title: Protein Forum &#8211; The Future of Music Listening (pt 1)
+date: '2012-12-17 15:42:43'
+categories:
+- blog
+- East London
 id: 3639
-title: 'Protein Forum &#8211; The Future of Music Listening (pt 1)'
-date: 2012-12-17T15:42:43+00:00
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=3639
-permalink: /protein-future-music-trends-londo/
-categories:
-  - blog
-  - East London
+permalink: "/protein-future-music-trends-londo/"
 tags:
-  - Future of Music Listening
-  - Protein
-  - Shoreditch
-  - walking tours
+- Future of Music Listening
+- Protein
+- Shoreditch
+- walking tours
+slug: protein-future-music-trends-londo
+
 ---
 ###### [London Walking Tours](http://www.insider-london.co.uk/ "London Walking Tours") > [Insider London Blog](http://www.insider-london.co.uk/blog/ "Insider London Blog") > Future of Music Listening pt 2
 

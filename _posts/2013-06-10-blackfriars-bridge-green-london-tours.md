@@ -1,21 +1,23 @@
 ---
-id: 4765
 title: 'Blackfriars Bridge: the sunniest bridge in the world?'
-date: 2013-06-10T11:59:07+00:00
+date: '2013-06-10 11:59:07'
+categories:
+- blog
+- Green London
+id: 4765
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=4765
-permalink: /blackfriars-bridge-green-london-tours/
-categories:
-  - blog
-  - Green London
+permalink: "/blackfriars-bridge-green-london-tours/"
 tags:
-  - blackfriars
-  - blackfriars bridge
-  - crossrail
-  - green London
-  - solar panels
-  - sustainable london
+- blackfriars
+- blackfriars bridge
+- crossrail
+- green London
+- solar panels
+- sustainable london
+slug: blackfriars-bridge-green-london-tours
+
 ---
 <a href="http://www.insider-london.co.uk/blog/2013/06/10/blackfriars-bridge-green-london-tours/blackfriars-solar-panel/" rel="attachment wp-att-4846"><img class="aligncenter size-full wp-image-4846" alt="" src="http://www.insider-london.co.uk/wp-content/uploads/2013/03/blackfriars-solar-panel.jpg" width="569" height="379" /></a>
 

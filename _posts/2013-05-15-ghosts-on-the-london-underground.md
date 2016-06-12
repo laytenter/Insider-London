@@ -1,20 +1,22 @@
 ---
-id: 3507
 title: Ghosts on the London Underground – The Screaming Spectre on the London Underground
-date: 2013-05-15T14:41:25+00:00
+date: '2013-05-15 14:41:25'
+categories:
+- blog
+- London Underground/Tube
+- Quirky, weird and bizarre London
+id: 3507
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=3507
-permalink: /ghosts-on-the-london-underground/
-categories:
-  - blog
-  - London Underground/Tube
-  - Quirky, weird and bizarre London
+permalink: "/ghosts-on-the-london-underground/"
 tags:
-  - 'Death &amp; Debauchery'
-  - ghosts on the London Underground
-  - London walking tours
-  - Screaming Spectre
+- Death &amp; Debauchery
+- ghosts on the London Underground
+- London walking tours
+- Screaming Spectre
+slug: ghosts-on-the-london-underground
+
 ---
 ###### <a title="London Walking Tours" href="http://www.insider-london.co.uk/" target="_blank">Unique London Walking Tours</a> > <a href="http://www.insider-london.co.uk/blog/" target="_blank">London Tour Blog</a> > Ghosts on the Tube
 

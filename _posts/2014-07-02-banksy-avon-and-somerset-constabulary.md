@@ -1,18 +1,20 @@
 ---
-id: 15108
 title: 'Street Art Picture of the Week: Banksy&#8217;s Avon and Somerset Constabulary'
-date: 2014-07-02T11:30:21+00:00
+date: '2014-07-02 11:30:21'
+categories:
+- blog
+- London Street Art &amp; Graffiti
+id: 15108
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=15108
-permalink: /banksy-avon-and-somerset-constabulary/
-categories:
-  - blog
-  - 'London Street Art &amp; Graffiti'
+permalink: "/banksy-avon-and-somerset-constabulary/"
 tags:
-  - Alternative London
-  - Banksy
-  - Street Art
+- Alternative London
+- Banksy
+- Street Art
+slug: banksy-avon-and-somerset-constabulary
+
 ---
 [<img class="size-full wp-image-15110 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/06/Banksy-Avon-and-Somerset-Constabulary.jpg" alt="Banksy street art london" width="569" height="575" />](http://www.insider-london.co.uk/wp-content/uploads/2014/06/Banksy-Avon-and-Somerset-Constabulary.jpg)
   

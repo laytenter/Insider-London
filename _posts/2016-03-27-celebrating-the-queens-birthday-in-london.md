@@ -1,10 +1,13 @@
 ---
 title: Celebrating the Queen's Birthday in London
-date: 2016-03-26T20:49:24+00:00
-layout: post
-permalink: /celebrating-the-queens-birthday-in-london/
+date: '2016-03-26 20:49:24'
 categories:
-  - blog
+- blog
+layout: post
+permalink: "/celebrating-the-queens-birthday-in-london/"
+slug: celebrating-the-queens-birthday-in-london
+tags: []
+
 ---
 You might already know that the Queen has two birthdays - her ‘official’ birthday on a Saturday in June and her real birthday on 21 April. This year is her 90th birthday, and there are lots of events planned in London to celebrate! Whether you live in London or you’re a tourist planning a visit to the city, we’ve picked out the highlights from the weekend of national events taking place this summer to celebrate this exciting royal birthday.
 

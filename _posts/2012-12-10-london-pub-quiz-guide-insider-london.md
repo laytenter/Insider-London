@@ -1,20 +1,22 @@
 ---
+title: London&#8217;s Quizzical Eyebrow &#8211; the essential London pub quiz guide
+date: '2012-12-10 16:10:38'
+categories:
+- blog
+- London Pubs and nights out
+- Quirky, weird and bizarre London
 id: 2920
-title: 'London&#8217;s Quizzical Eyebrow &#8211; the essential London pub quiz guide'
-date: 2012-12-10T16:10:38+00:00
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=2920
-permalink: /london-pub-quiz-guide-insider-london/
-categories:
-  - blog
-  - London Pubs and nights out
-  - Quirky, weird and bizarre London
+permalink: "/london-pub-quiz-guide-insider-london/"
 tags:
-  - activities in London
-  - London pub quizzes
-  - London walking tours
-  - things to do in London
+- activities in London
+- London pub quizzes
+- London walking tours
+- things to do in London
+slug: london-pub-quiz-guide-insider-london
+
 ---
 ###### [Essential London Walking Tours](http://www.insider-london.co.uk/ "Insider London Walking Tours") > [Tour Blog](http://www.insider-london.co.uk/blog/ "Insider London Blog") > Best London Pub Quizzes
 

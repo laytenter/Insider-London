@@ -1,29 +1,31 @@
 ---
-id: 25095
 title: Filming on the London Underground
-date: 2015-04-14T14:00:17+00:00
+date: '2015-04-14 14:00:17'
+categories:
+- blog
+- London Underground/Tube
+id: 25095
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=25095
-permalink: /filming-on-the-london-underground/
+permalink: "/filming-on-the-london-underground/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
+- 
 slide_template:
-  - default
-categories:
-  - blog
-  - London Underground/Tube
+- default
 tags:
-  - london tube
-  - London Underground
-  - london underground facts
-  - quirky london tube
+- london tube
+- London Underground
+- london underground facts
+- quirky london tube
+slug: filming-on-the-london-underground
+
 ---
 [<img class="aligncenter wp-image-25097 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/04/Filming_at_Aldwych_1.jpg" alt="Filming at Aldwych Station - Photo courtesy of TfL " width="569" height="370" />](http://www.insider-london.co.uk/wp-content/uploads/2015/04/Filming_at_Aldwych_1.jpg)
 

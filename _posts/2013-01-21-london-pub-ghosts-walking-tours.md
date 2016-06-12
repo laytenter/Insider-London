@@ -1,19 +1,21 @@
 ---
+title: London Loo Horror!&#8230; is it safe to spend a penny?
+date: '2013-01-21 16:49:18'
+categories:
+- blog
+- London Pubs and nights out
+- Quirky, weird and bizarre London
 id: 3196
-title: 'London Loo Horror!&#8230; is it safe to spend a penny?'
-date: 2013-01-21T16:49:18+00:00
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=3196
-permalink: /london-pub-ghosts-walking-tours/
-categories:
-  - blog
-  - London Pubs and nights out
-  - Quirky, weird and bizarre London
+permalink: "/london-pub-ghosts-walking-tours/"
 tags:
-  - Insider London
-  - London pub ghosts
-  - London walking tours
+- Insider London
+- London pub ghosts
+- London walking tours
+slug: london-pub-ghosts-walking-tours
+
 ---
 ###### [London Walking Tours](http://www.insider-london.co.uk/ "London Walking Tours") > [Tour blog](http://www.insider-london.co.uk/blog/ "Insider London blog") > London pub ghosts<figure id="attachment_3306" style="width: 569px" class="wp-caption alignnone">
 

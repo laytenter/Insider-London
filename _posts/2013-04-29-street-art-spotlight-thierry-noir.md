@@ -1,22 +1,24 @@
 ---
+title: Street Artist Spotlight &#8211; Thierry Noir
+date: '2013-04-29 11:53:57'
+categories:
+- blog
+- East London
+- London Street Art &amp; Graffiti
 id: 4929
-title: 'Street Artist Spotlight &#8211; Thierry Noir'
-date: 2013-04-29T11:53:57+00:00
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=4929
-permalink: /street-art-spotlight-thierry-noir/
-categories:
-  - blog
-  - East London
-  - 'London Street Art &amp; Graffiti'
+permalink: "/street-art-spotlight-thierry-noir/"
 tags:
-  - Insider London
-  - London walking tours
-  - Stik
-  - Street Art
-  - Thierry Noir
-  - Village Underground
+- Insider London
+- London walking tours
+- Stik
+- Street Art
+- Thierry Noir
+- Village Underground
+slug: street-art-spotlight-thierry-noir
+
 ---
 ###### [Alternative London Walking Tours](http://www.insider-london.co.uk/ "Alternative London Walking Tours") > [Insider Blog](http://www.insider-london.co.uk/blog/ "Insider London blog") > Thierry Noir
 

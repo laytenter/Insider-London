@@ -1,29 +1,31 @@
 ---
-id: 21291
 title: The winner of the CitySketch London book!
-date: 2014-09-09T11:30:04+00:00
+date: '2014-09-09 11:30:04'
+categories:
+- blog
+- Other
+- Quirky, weird and bizarre London
+id: 21291
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=21291
-permalink: /the-winner-of-the-citysketch-london-book/
+permalink: "/the-winner-of-the-citysketch-london-book/"
 s4_cdes:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_url2s:
-  - 
-categories:
-  - blog
-  - Other
-  - Quirky, weird and bizarre London
+- 
 tags:
-  - all over London
-  - Alternative London
-  - CitySketch
-  - competition
-  - Illustration
+- all over London
+- Alternative London
+- CitySketch
+- competition
+- Illustration
+slug: the-winner-of-the-citysketch-london-book
+
 ---
 [<img class="size-full wp-image-16977 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/08/Citysketch-London-book.jpg" alt="Citysketch London alternative London walking tours" width="569" height="743" />](http://www.insider-london.co.uk/wp-content/uploads/2014/08/Citysketch-London-book.jpg)
   

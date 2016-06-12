@@ -1,33 +1,35 @@
 ---
-id: 23551
 title: Christmas gifts for London Lovers
-date: 2014-12-15T10:30:37+00:00
+date: '2014-12-15 10:30:37'
+categories:
+- blog
+- London Underground/Tube
+- Modern Architecture
+- Other
+id: 23551
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=23551
-permalink: /christmas-gifts-for-london-lovers/
+permalink: "/christmas-gifts-for-london-lovers/"
 s4_cdes:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_url2s:
-  - 
-categories:
-  - blog
-  - London Underground/Tube
-  - Modern Architecture
-  - Other
+- 
 tags:
-  - Alternative London
-  - architecture
-  - christmas
-  - Design
-  - London Underground
-  - London walking tours
-  - quirky london
-  - Tube
+- Alternative London
+- architecture
+- christmas
+- Design
+- London Underground
+- London walking tours
+- quirky london
+- Tube
+slug: christmas-gifts-for-london-lovers
+
 ---
 While we&#8217;re sure this fact hasn&#8217;t escaped your notice, here&#8217;s a gentle reminder that Christmas is now only 10 days away. If you&#8217;re struggling to find gifts, here are our suggestions for the lover of London in your life. Far better than your average souvenir&#8230;
   

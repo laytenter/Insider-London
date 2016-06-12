@@ -1,28 +1,30 @@
 ---
-id: 15900
 title: 'Street Art Picture of the Week: Smiley by Otto Schade, Brick Lane'
-date: 2014-08-13T11:30:11+00:00
+date: '2014-08-13 11:30:11'
+categories:
+- blog
+- London Street Art &amp; Graffiti
+id: 15900
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=15900
-permalink: /smiley-otto-schade-street-art-london-brick-lane/
+permalink: "/smiley-otto-schade-street-art-london-brick-lane/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - 'London Street Art &amp; Graffiti'
+- 
 tags:
-  - Brick Lane
-  - East London street art
-  - London Street art
-  - street art and graffiti
-  - street art picture of the week
+- Brick Lane
+- East London street art
+- London Street art
+- street art and graffiti
+- street art picture of the week
+slug: smiley-otto-schade-street-art-london-brick-lane
+
 ---
 [<img class="size-full wp-image-15902 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/08/ottoschade.jpg" alt="otto schade street art london brick lane" width="569" height="427" />](http://www.insider-london.co.uk/wp-content/uploads/2014/08/ottoschade.jpg)
   

@@ -1,19 +1,21 @@
 ---
-id: 1332
 title: The Hidden Speakeasies of the East End
-date: 2012-08-16T09:01:39+00:00
+date: '2012-08-16 09:01:39'
+categories:
+- blog
+- London Pubs and nights out
+id: 1332
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=1332
-permalink: /the-hidden-speakeasies-east-end/
-categories:
-  - blog
-  - London Pubs and nights out
+permalink: "/the-hidden-speakeasies-east-end/"
 tags:
-  - East End
-  - Shoreditch
-  - Speakeasies
-  - unusual bars
+- East End
+- Shoreditch
+- Speakeasies
+- unusual bars
+slug: the-hidden-speakeasies-east-end
+
 ---
 It seems to me that usually the best-kept secrets tend also to be the best things, and places, in life. And this is certainly the case in terms of luxury cocktail bars in London&#8230;
 

@@ -1,27 +1,29 @@
 ---
-id: 2973
 title: 'London&#8217;s Magnificent Seven Victorian Cemeteries: the Low-Down Part 1'
-date: 2012-12-04T09:39:59+00:00
+date: '2012-12-04 09:39:59'
+categories:
+- blog
+- Green London
+- Quirky, weird and bizarre London
+id: 2973
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=2973
-permalink: /london-magnificent-seven-victorian-cemeteries-walks-london-marx-highgate-westnorwood/
-categories:
-  - blog
-  - Green London
-  - Quirky, weird and bizarre London
+permalink: "/london-magnificent-seven-victorian-cemeteries-walks-london-marx-highgate-westnorwood/"
 tags:
-  - gravestones
-  - highgate cemetery
-  - Karl Marx
-  - kensal green cemetery
-  - london cemeteries
-  - magnificent seven
-  - Malcolm McClaren
-  - Patrick Caulfield
-  - twin peaks
-  - victorian london
-  - west norwood cemetery
+- gravestones
+- highgate cemetery
+- Karl Marx
+- kensal green cemetery
+- london cemeteries
+- magnificent seven
+- Malcolm McClaren
+- Patrick Caulfield
+- twin peaks
+- victorian london
+- west norwood cemetery
+slug: london-magnificent-seven-victorian-cemeteries-walks-london-marx-highgate-westnorwood
+
 ---
 **After our previous post on London&#8217;s Magnificent Seven Victorian Cemeteries, we decided that there was enough interesting history and facts behind these prestigious bone-yards for _three whole posts_.__ So, lucky readers, in these second and third instalments in the cemetery series, you’re going to get a run-down of each cemetery’s unique personal qualities, preparing you for that visit we just _know_ we’ve inspired you to take. If your nearest cemetery isn&#8217;t featured this week, don&#8217;t panic! Just check back next week&#8230;**
 

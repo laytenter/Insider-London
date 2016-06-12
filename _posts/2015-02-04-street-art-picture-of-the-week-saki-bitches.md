@@ -1,31 +1,33 @@
 ---
-id: 24633
 title: 'Street Art Picture of the Week: SAKI &#038; Bitches'
-date: 2015-02-04T10:30:36+00:00
+date: '2015-02-04 10:30:36'
+categories:
+- blog
+- London Street Art &amp; Graffiti
+id: 24633
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=24633
-permalink: /street-art-picture-of-the-week-saki-bitches/
+permalink: "/street-art-picture-of-the-week-saki-bitches/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - 'London Street Art &amp; Graffiti'
+- 
 tags:
-  - Alternative London
-  - Amara Por Dios
-  - East London
-  - East London street art
-  - 'london street art &amp; Graffiti'
-  - 'SAKI&amp;Bitches'
-  - Shoreditch
-  - street art picture of the week
+- Alternative London
+- Amara Por Dios
+- East London
+- East London street art
+- london street art &amp; Graffiti
+- SAKI&amp;Bitches
+- Shoreditch
+- street art picture of the week
+slug: street-art-picture-of-the-week-saki-bitches
+
 ---
 This week&#8217;s street art picture doesn&#8217;t just enhance a wall &#8211; it makes the wall form part of their art.
 

@@ -1,31 +1,33 @@
 ---
-id: 20946
 title: Win! A Copy of CitySketch London!
-date: 2014-09-01T10:30:43+00:00
+date: '2014-09-01 10:30:43'
+categories:
+- blog
+- Other
+- Quirky, weird and bizarre London
+id: 20946
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=20946
-permalink: /win-a-copy-of-citysketch-london/
+permalink: "/win-a-copy-of-citysketch-london/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - Other
-  - Quirky, weird and bizarre London
+- 
 tags:
-  - all over London
-  - Alternative London
-  - CitySketch
-  - competition
-  - Illustration
-  - insider interview
-  - quirky london
+- all over London
+- Alternative London
+- CitySketch
+- competition
+- Illustration
+- insider interview
+- quirky london
+slug: win-a-copy-of-citysketch-london
+
 ---
 [<img class="aligncenter wp-image-16977 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/08/Citysketch-London-book.jpg" alt="Citysketch London alternative London walking tours" width="569" height="743" />](http://www.insider-london.co.uk/wp-content/uploads/2014/08/Citysketch-London-book.jpg)
 

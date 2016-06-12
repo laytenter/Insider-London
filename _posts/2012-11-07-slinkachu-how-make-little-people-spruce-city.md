@@ -1,18 +1,20 @@
 ---
-id: 2549
 title: 'Slinkachu: How to Make Little People Spruce up the City'
-date: 2012-11-07T15:13:46+00:00
+date: '2012-11-07 15:13:46'
+categories:
+- blog
+- London Street Art &amp; Graffiti
+id: 2549
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=2549
-permalink: /slinkachu-how-make-little-people-spruce-city/
-categories:
-  - blog
-  - 'London Street Art &amp; Graffiti'
+permalink: "/slinkachu-how-make-little-people-spruce-city/"
 tags:
-  - London Street art
-  - slinkachu
-  - Street Art
+- London Street art
+- slinkachu
+- Street Art
+slug: slinkachu-how-make-little-people-spruce-city
+
 ---
 ###### [Alternative London Tours](http://www.insider-london.co.uk "Insider London home page") >  [Insider London Blog](http://www.insider-london.co.uk/blog/ "Insider London Blog")  > [London Street Artist Slinkachu](http://www.insider-london.co.uk/blog/2012/11/07/slinkachu-how-make-little-people-spruce-city/ "London Street Artist Slinkachu")
 

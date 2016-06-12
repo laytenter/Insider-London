@@ -1,28 +1,30 @@
 ---
+title: The winners of the V&#038;A Street Art books!
+date: '2014-08-07 08:05:20'
+categories:
+- blog
+- London Street Art &amp; Graffiti
 id: 15916
-title: 'The winners of the V&#038;A Street Art books!'
-date: 2014-08-07T08:05:20+00:00
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=15916
-permalink: /the-winners-of-the-va-street-art-books/
+permalink: "/the-winners-of-the-va-street-art-books/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - 'London Street Art &amp; Graffiti'
+- 
 tags:
-  - competition
-  - giveaway
-  - London Street art
-  - 'london street art &amp; Graffiti'
-  - Street Art
+- competition
+- giveaway
+- London Street art
+- london street art &amp; Graffiti
+- Street Art
+slug: the-winners-of-the-va-street-art-books
+
 ---
 [<img class="size-full wp-image-15875 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/08/Street-Art-B_mini.jpeg" alt="book London street art competition" width="569" height="519" />](http://www.insider-london.co.uk/wp-content/uploads/2014/08/Street-Art-B_mini.jpeg)
   

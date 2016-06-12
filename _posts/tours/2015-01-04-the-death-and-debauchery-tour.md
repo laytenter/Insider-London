@@ -1,21 +1,30 @@
 ---
+title: The Death and Debauchery Tour
+date: '2004-01-01 10:58:12'
+categories:
+- tours
+- featured
+- hidden
 id: 29349
 tour_id: 50197
-title: The Death and Debauchery Tour
-date: 2004-01-01T10:58:12+00:00
 author: london75
 layout: product
-guid: '/?post_type=product&#038;p=29349'
-permalink: /product/the-death-and-debauchery-tour/
-categories: [tours,featured,hidden]
+guid: "/?post_type=product&#038;p=29349"
+permalink: "/product/the-death-and-debauchery-tour/"
 show_book: true
 price: 12
-thumb: /wp-content/uploads/2015/05/Death-and-Debauchery-print-1-300x200.jpg
-thumb575x545: /wp-content/uploads/2015/05/Death-and-Debauchery-print-1-575x545.jpg
-banner: /wp-content/uploads/2015/05/Death-and-Debauchery-print-1.jpg
+thumb: "/wp-content/uploads/2015/05/Death-and-Debauchery-print-1-300x200.jpg"
+thumb575x545: "/wp-content/uploads/2015/05/Death-and-Debauchery-print-1-575x545.jpg"
+banner: "/wp-content/uploads/2015/05/Death-and-Debauchery-print-1.jpg"
 hidden: true
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9931.27315116613!2d-0.132637911781476!3d51.51654964219215!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b2d6954b527%3A0xa11d7ff34a8e1347!2sDominion+Theatre!5e0!3m2!1sen!2s!4v1431588707092
-related: [32342,12345,32569]
+related:
+- 32342
+- 12345
+- 32569
+slug: the-death-and-debauchery-tour
+tags: []
+
 ---
 <section class="wpb\_row block vc\_row-fluid">
 

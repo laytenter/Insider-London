@@ -1,29 +1,31 @@
 ---
-id: 15807
 title: Streetwise, Artful Marketing
-date: 2014-08-01T11:30:17+00:00
+date: '2014-08-01 11:30:17'
+categories:
+- blog
+- London Street Art &amp; Graffiti
+- Other
+id: 15807
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=15807
-permalink: /streetwise-artful-marketing/
+permalink: "/streetwise-artful-marketing/"
 s4_image2s:
-  - 
+- 
 s4_url2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - 'London Street Art &amp; Graffiti'
-  - Other
+- 
 tags:
-  - Alternative London
-  - Banksy
-  - East London street art
-  - London
-  - Street Art
+- Alternative London
+- Banksy
+- East London street art
+- London
+- Street Art
+slug: streetwise-artful-marketing
+
 ---
 [<img class="size-full wp-image-15844 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/08/Shepherd-Fairey.jpg" alt="Shepard Fairey street art tour london" width="569" height="427" />](http://www.insider-london.co.uk/wp-content/uploads/2014/08/Shepherd-Fairey.jpg)
 

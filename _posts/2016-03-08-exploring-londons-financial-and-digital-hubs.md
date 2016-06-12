@@ -1,10 +1,13 @@
 ---
 title: Exploring London's Financial and Digital Hubs
-date: 2016-03-08T10:23:24+00:00
-layout: post
-permalink: /exploring-londons-financial-and-digital-hubs/
+date: '2016-03-08 10:23:24'
 categories:
-  - blog
+- blog
+layout: post
+permalink: "/exploring-londons-financial-and-digital-hubs/"
+slug: exploring-londons-financial-and-digital-hubs
+tags: []
+
 ---
 The City of London is a leading financial hub and home to some of the world's largest banking and insurance organisations. Five minutes walk from Old Street you will find Silicon Roundabout, more commonly known today as Tech City.
 

@@ -1,20 +1,22 @@
 ---
+title: London street art &#8211; Broken Fingaz Crew interview
+date: '2013-02-15 15:09:26'
+categories:
+- blog
+- East London
+- London Street Art &amp; Graffiti
 id: 4296
-title: 'London street art &#8211; Broken Fingaz Crew interview'
-date: 2013-02-15T15:09:26+00:00
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=4296
-permalink: /london-street-art-walking-tours-broken-fingaz-crew/
-categories:
-  - blog
-  - East London
-  - 'London Street Art &amp; Graffiti'
+permalink: "/london-street-art-walking-tours-broken-fingaz-crew/"
 tags:
-  - alternative London walking tours
-  - Broken Fingaz crew
-  - East London street art
-  - Insider London
+- alternative London walking tours
+- Broken Fingaz crew
+- East London street art
+- Insider London
+slug: london-street-art-walking-tours-broken-fingaz-crew
+
 ---
 ###### [######](http://www.insider-london.co.uk/ "Alternative London walking tours") > [London walking tour blog](http://www.insider-london.co.uk/blog/ "London walking tour blog") > Broken Fingaz Crew interview
 

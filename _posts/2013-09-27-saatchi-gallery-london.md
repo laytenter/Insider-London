@@ -1,23 +1,25 @@
 ---
-id: 7971
 title: Fresh faces at the Saatchi Gallery London
-date: 2013-09-27T10:41:13+00:00
+date: '2013-09-27 10:41:13'
+categories:
+- blog
+- Quirky, weird and bizarre London
+id: 7971
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=7971
-permalink: /saatchi-gallery-london/
-categories:
-  - blog
-  - Quirky, weird and bizarre London
+permalink: "/saatchi-gallery-london/"
 tags:
-  - art gallery
-  - art london
-  - chelsea
-  - london art galleries
-  - london saatchi gallery
-  - quirky art galleries
-  - saatchi
-  - saatchi gallery
+- art gallery
+- art london
+- chelsea
+- london art galleries
+- london saatchi gallery
+- quirky art galleries
+- saatchi
+- saatchi gallery
+slug: saatchi-gallery-london
+
 ---
 Getting one’s bearings in a gallery or museum that doesn’t offer up a single bowl of fruit may be a bit disconcerting for the uninitiated. Such establishments can often be intimidating for the casual visitor. While the renowned Mr. So-and-So may have positively rocked the avant-garde movement of a particular decade in the last century, his work may not have entered the sphere of discussion for John Q. Public. The <a href="http://www.saatchigallery.com/" target="_blank">Saatchi Gallery of London</a> doesn’t come with any baggage whatsoever and gives each and every visitor, both the experienced gallery hopper and the novice viewer, the opportunity to discover new artists and their works.
 

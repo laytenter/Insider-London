@@ -1,21 +1,29 @@
 ---
+title: Tour of East End - Gangs, Crimes and Hasher Times
+date: '2007-01-01 16:41:56'
+categories:
+- hidden
+- tours
 id: 32569
 tour_id: 50202
-title: Tour of East End - Gangs, Crimes and Hasher Times
-date: 2007-01-01T16:41:56+00:00
 author: london75
 layout: product
-guid: /product/tour-of-east-end-gangs-crimes-and-hasher-times/
-permalink: /product/tour-of-east-end-gangs-crimes-and-hasher-times/
-categories: [hidden,tours]
+guid: "/product/tour-of-east-end-gangs-crimes-and-hasher-times/"
+permalink: "/product/tour-of-east-end-gangs-crimes-and-hasher-times/"
 show_book: true
 price: 20
-thumb:
-thumb575x545: /wp-content/uploads/2015/10/Christ-Church-575x545.jpg
-banner: /wp-content/uploads/2015/10/Christ-Church.jpg
+thumb: 
+thumb575x545: "/wp-content/uploads/2015/10/Christ-Church-575x545.jpg"
+banner: "/wp-content/uploads/2015/10/Christ-Church.jpg"
 hidden: true
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9932.007090001796!2d-0.12702783599357304!3d51.513183477127704!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604cc9188694f%3A0x388b51ab073ca62!2sCovent+Garden!5e0!3m2!1sen!2s!4v1431588532795
-related: [29326,29349,12345]
+related:
+- 29326
+- 29349
+- 12345
+slug: tour-of-east-end-gangs-crimes-and-hasher-times
+tags: []
+
 ---
 <section class="wpb\_row block vc\_row-fluid">
 

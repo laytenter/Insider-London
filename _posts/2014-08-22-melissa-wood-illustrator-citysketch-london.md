@@ -1,31 +1,33 @@
 ---
-id: 16694
 title: 'Insider Interview: Melissa Wood, illustrator of CitySketch London'
-date: 2014-08-22T11:30:40+00:00
+date: '2014-08-22 11:30:40'
+categories:
+- blog
+- Other
+- Quirky, weird and bizarre London
+id: 16694
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=16694
-permalink: /melissa-wood-illustrator-citysketch-london/
+permalink: "/melissa-wood-illustrator-citysketch-london/"
 s4_cdes:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_url2s:
-  - 
-categories:
-  - blog
-  - Other
-  - Quirky, weird and bizarre London
+- 
 tags:
-  - all over London
-  - Books
-  - CitySketch
-  - Illustration
-  - interview
-  - melissa wood
-  - quirky london
+- all over London
+- Books
+- CitySketch
+- Illustration
+- interview
+- melissa wood
+- quirky london
+slug: melissa-wood-illustrator-citysketch-london
+
 ---
 Packed into a sweaty tube, or fighting the crowds on Oxford Street: sometimes it&#8217;s easier to see London as a battleground, rather than somewhere to be explored and enjoyed. But London is also a very creative city &#8211; from its street art to its architecture &#8211; so we love the concept behind <a href="http://www.amazon.co.uk/Citysketch-London-Creative-Prompts-Sketching/dp/1937994554/ref=sr_1_1?s=books&ie=UTF8&qid=1408625864&sr=1-1&keywords=citysketch+london" target="_blank">CitySketch London</a>. This gorgeous book illustrates some of the capital&#8217;s most famous landmarks and stunning vistas with the aim of prompting the reader&#8217;s own creativity, and getting them to see the city just a little bit differently. We had the pleasure of speaking to Melissa Wood, the illustrator of the book, and someone who loves London almost as much as we do.
 

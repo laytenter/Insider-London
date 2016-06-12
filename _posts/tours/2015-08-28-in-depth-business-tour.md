@@ -1,18 +1,26 @@
 ---
-id: 29344
 title: In-depth Business Tour
-date: 2015-08-28T10:51:45+00:00
+date: '2015-08-28 10:51:45'
+categories:
+- tours
+- educational
+id: 29344
 author: london75
 layout: product
-guid: '/?post_type=product&#038;p=29344'
-permalink: /product/in-depth-business-tour/
-categories: [tours,educational]
+guid: "/?post_type=product&#038;p=29344"
+permalink: "/product/in-depth-business-tour/"
 show_book: false
-thumb575x545: /wp-content/uploads/2015/05/Fotolia_24879531_M-575x545.jpg
-banner: /wp-content/uploads/2015/05/Fotolia_24879531_M.jpg
-map:
+thumb575x545: "/wp-content/uploads/2015/05/Fotolia_24879531_M-575x545.jpg"
+banner: "/wp-content/uploads/2015/05/Fotolia_24879531_M.jpg"
+map: 
 hidden: true
-related: [29347,29332,29334]
+related:
+- 29347
+- 29332
+- 29334
+slug: in-depth-business-tour
+tags: []
+
 ---
 <section class="wpb\_row block vc\_row-fluid">
 

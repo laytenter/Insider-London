@@ -1,22 +1,24 @@
 ---
-id: 7663
 title: Quirky Underground Facts (part 3)
-date: 2013-11-26T10:30:57+00:00
+date: '2013-11-26 10:30:57'
+categories:
+- blog
+- London Underground/Tube
+- Quirky, weird and bizarre London
+id: 7663
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=7663
-permalink: /london-underground-tube-tours-facts-part3/
-categories:
-  - blog
-  - London Underground/Tube
-  - Quirky, weird and bizarre London
+permalink: "/london-underground-tube-tours-facts-part3/"
 tags:
-  - london tube
-  - london tube facts
-  - London Underground
-  - london underground facts
-  - quirky london
-  - quirky london tube
+- london tube
+- london tube facts
+- London Underground
+- london underground facts
+- quirky london
+- quirky london tube
+slug: london-underground-tube-tours-facts-part3
+
 ---
 Round three of interesting and quirky facts includes the origin of “Mind the Gap” and facts about the animals living in London’s most important mode of transportation.
 

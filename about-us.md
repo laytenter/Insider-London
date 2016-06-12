@@ -1,10 +1,11 @@
 ---
-id: 25467
-permalink: /about-us/
 title: About Us
-date: 2015-05-12T15:58:43+00:00
+date: '2015-05-12 15:58:00'
+id: 254674
+permalink: "/about-us/"
 author: london75
 layout: page
+
 ---
 <section class="wpb\_row block vc\_row-fluid vc\_custom\_1431443762184">
 

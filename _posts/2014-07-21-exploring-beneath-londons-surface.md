@@ -1,27 +1,29 @@
 ---
-id: 15301
 title: 'Beneath the Surface: Exploring Hidden London'
-date: 2014-07-21T12:00:20+00:00
+date: '2014-07-21 12:00:20'
+categories:
+- blog
+- London Underground/Tube
+- Quirky, weird and bizarre London
+id: 15301
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=15301
-permalink: /exploring-beneath-londons-surface/
+permalink: "/exploring-beneath-londons-surface/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - London Underground/Tube
-  - Quirky, weird and bizarre London
+- 
 tags:
-  - London history
-  - London Underground
-  - quirky london tube
+- London history
+- London Underground
+- quirky london tube
+slug: exploring-beneath-londons-surface
+
 ---
 [<img class="wp-image-15304 size-full aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/07/Mini-Subterranean-London-resized.jpg" alt="Subterranean London von Bradley Garrett" width="569" height="457" />](http://www.insider-london.co.uk/wp-content/uploads/2014/07/Mini-Subterranean-London-resized.jpg)
 

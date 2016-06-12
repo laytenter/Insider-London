@@ -1,14 +1,15 @@
 ---
-id: 3518
 title: Contact Us
-date: 2015-03-26T13:59:32+00:00
+date: '2015-03-26 13:59:32'
+id: 3518
 author: london75
 layout: page
-guid: /?page_id=3518
+guid: "/?page_id=3518"
 slide_template:
-  - default
+- default
 vc_teaser:
-  - 'a:2:{s:4:"data";s:115:"[{"name":"title","link":"post"},{"name":"image","image":"featured","link":"none"},{"name":"text","mode":"excerpt"}]";s:7:"bgcolor";s:0:"";}'
+- a:2:{s:4:"data";s:115:"[{"name":"title","link":"post"},{"name":"image","image":"featured","link":"none"},{"name":"text","mode":"excerpt"}]";s:7:"bgcolor";s:0:"";}
+
 ---
 <section class="wpb\_row block vc\_row-fluid">
 

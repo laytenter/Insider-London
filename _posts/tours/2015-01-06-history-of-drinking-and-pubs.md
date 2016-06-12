@@ -1,21 +1,29 @@
 ---
-id: 32336
 title: History of Drinking and Pubs Tours
-date: 2006-01-01T11:24:08+00:00
+date: '2006-01-01 11:24:08'
+categories:
+- tours
+- hidden
+id: 32336
 author: london75
 layout: product
-guid: '/?post_type=product&#038;p=32336'
-permalink: /product/history-of-drinking-and-pubs/
-categories: [tours,hidden]
+guid: "/?post_type=product&#038;p=32336"
+permalink: "/product/history-of-drinking-and-pubs/"
 show_book: true
 price: 20
-thumb:
+thumb: 
 tour_id: 50195
-thumb575x545: /wp-content/uploads/2015/04/DSC_0135-575x545.jpg
-banner: /wp-content/uploads/2015/04/DSC_0135.jpg
+thumb575x545: "/wp-content/uploads/2015/04/DSC_0135-575x545.jpg"
+banner: "/wp-content/uploads/2015/04/DSC_0135.jpg"
 hidden: true
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4966.162957478993!2d-0.10564200397951787!3d51.51172115720292!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604adbae6cb21%3A0x205e7bb84640673b!2sBlackfriars!5e0!3m2!1sen!2s!4v1431588376179
-related: [32143,29349,12345]
+related:
+- 32143
+- 29349
+- 12345
+slug: history-of-drinking-and-pubs
+tags: []
+
 ---
 <section class="wpb\_row block vc\_row-fluid">
 

@@ -1,14 +1,17 @@
 ---
-id: 13718
 title: The London Underground in 2014
-date: 2014-01-10T10:00:58+00:00
+date: '2014-01-10 10:00:58'
+categories:
+- blog
+- London Underground/Tube
+id: 13718
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=13718
-permalink: /the-london-underground-2014/
-categories:
-  - blog
-  - London Underground/Tube
+permalink: "/the-london-underground-2014/"
+slug: the-london-underground-2014
+tags: []
+
 ---
 This time last year, The London Underground was celebrating the 150<sup>th</sup> anniversary of the first ever tube journey, which ran on the Metropolitan Railway line between Paddington and Farringdon on 9 January 1863. As 2013’s celebrations are still fresh in our minds, with the beginning of a new year we now look forward to the future of the Tube, and the changes which we can expect over the next twelve months.
 

@@ -1,29 +1,31 @@
 ---
+title: London&#8217;s Book Bench Art
+date: '2014-07-04 11:30:18'
+categories:
+- blog
+- London Street Art &amp; Graffiti
+- Quirky, weird and bizarre London
 id: 15114
-title: 'London&#8217;s Book Bench Art'
-date: 2014-07-04T11:30:18+00:00
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=15114
-permalink: /londons-book-bench-art/
+permalink: "/londons-book-bench-art/"
 s4_cdes:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_url2s:
-  - 
-categories:
-  - blog
-  - 'London Street Art &amp; Graffiti'
-  - Quirky, weird and bizarre London
+- 
 tags:
-  - all over London
-  - book about town
-  - book bench
-  - London Street art
-  - quirky london
+- all over London
+- book about town
+- book bench
+- London Street art
+- quirky london
+slug: londons-book-bench-art
+
 ---
 <p style="text-align: center;">
   <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/07/London-walking-tour-book-bench.jpg"><img class="alignnone size-full wp-image-15116" src="http://www.insider-london.co.uk/wp-content/uploads/2014/07/London-walking-tour-book-bench.jpg" alt="London walking tour book bench" width="569" height="436" /></a>

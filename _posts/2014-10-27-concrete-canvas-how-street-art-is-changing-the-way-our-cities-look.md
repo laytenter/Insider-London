@@ -1,28 +1,30 @@
 ---
-id: 23070
 title: 'Concrete Canvas: How street art is changing the way our cities look'
-date: 2014-10-27T10:30:47+00:00
+date: '2014-10-27 10:30:47'
+categories:
+- blog
+- London Street Art &amp; Graffiti
+id: 23070
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=23070
-permalink: /concrete-canvas-how-street-art-is-changing-the-way-our-cities-look/
+permalink: "/concrete-canvas-how-street-art-is-changing-the-way-our-cities-look/"
 s4_cdes:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_url2s:
-  - 
-categories:
-  - blog
-  - 'London Street Art &amp; Graffiti'
+- 
 tags:
-  - book
-  - concrete canvas
-  - East London street art
-  - 'london street art &amp; Graffiti'
-  - street art and graffiti
+- book
+- concrete canvas
+- East London street art
+- london street art &amp; Graffiti
+- street art and graffiti
+slug: concrete-canvas-how-street-art-is-changing-the-way-our-cities-look
+
 ---
 [<img class="size-full wp-image-23076 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/10/Concrete-Canvas-book_mini.jpg" alt="street art london" width="569" height="735" />](http://www.insider-london.co.uk/wp-content/uploads/2014/10/Concrete-Canvas-book_mini.jpg)
 

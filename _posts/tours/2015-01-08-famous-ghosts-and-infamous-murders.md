@@ -1,20 +1,28 @@
 ---
-id: 12345
 title: Famous Ghosts and Infamous Murders London Walking Tour
-date: 2008-01-01T17:30:14+00:00
+date: '2008-01-01 17:30:14'
+categories:
+- tours
+- hidden
+id: 12345
 author: london75
 layout: product
-permalink: /product/famous-ghosts-and-infamous-murders/
-categories: [tours,hidden]
+permalink: "/product/famous-ghosts-and-infamous-murders/"
 tour_id: 50196
 show_book: true
 price: 12
-thumb:
-thumb575x545: /wp-content/uploads/2015/08/1-575x545.jpg
-banner: /wp-content/uploads/2015/08/1.jpg
+thumb: 
+thumb575x545: "/wp-content/uploads/2015/08/1-575x545.jpg"
+banner: "/wp-content/uploads/2015/08/1.jpg"
 hidden: true
 map: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2482.8339234717528!2d-0.1306618!3d51.5162628!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b2d6bcc0c53%3A0xc17011138a7f29da!2sTottenham+Court+Road+Station!5e0!3m2!1sen!2sus!4v1438592163974
-related: [32342,29349,32336]
+related:
+- 32342
+- 29349
+- 32336
+slug: famous-ghosts-and-infamous-murders
+tags: []
+
 ---
 <section class="wpb_row block vc_row-fluid">
 <div class="container">

@@ -1,39 +1,41 @@
 ---
-id: 23492
 title: Vintage London Street Signs
-date: 2014-12-01T10:30:27+00:00
+date: '2014-12-01 10:30:27'
+categories:
+- blog
+- East London
+- Kings Cross regeneration
+- London Street Art &amp; Graffiti
+- Other
+- Quirky, weird and bizarre London
+id: 23492
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=23492
-permalink: /vintage-london-street-signs/
+permalink: "/vintage-london-street-signs/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - East London
-  - Kings Cross regeneration
-  - 'London Street Art &amp; Graffiti'
-  - Other
-  - Quirky, weird and bizarre London
+- 
 tags:
-  - Boroughs
-  - font
-  - Hidden
-  - history
-  - London
-  - London Boroughs
-  - Quirky
-  - quirky london
-  - roads
-  - signs
-  - street signs
-  - streets
+- Boroughs
+- font
+- Hidden
+- history
+- London
+- London Boroughs
+- Quirky
+- quirky london
+- roads
+- signs
+- street signs
+- streets
+slug: vintage-london-street-signs
+
 ---
 <p style="text-align: center;">
   <img class="aligncenter size-full wp-image-23501" src="http://www.insider-london.co.uk/wp-content/uploads/2014/11/p1020695.jpg" alt="p1020695" width="569" height="427" /> <em>Simple and effective, The Westminster street sign we all know and love. Image Credit: <a href="http://zachlain.com/2010/07/02/movin-learnin-and-the-circus/">Zachlain</a></em>

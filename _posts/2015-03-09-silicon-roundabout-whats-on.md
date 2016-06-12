@@ -1,29 +1,31 @@
 ---
-id: 24890
 title: 'Silicon Roundabout: What&#8217;s On'
-date: 2015-03-09T09:28:25+00:00
+date: '2015-03-09 09:28:25'
+categories:
+- blog
+- East London
+id: 24890
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=24890
-permalink: /silicon-roundabout-whats-on/
+permalink: "/silicon-roundabout-whats-on/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - East London
+- 
 tags:
-  - Central London
-  - City of London
-  - London
-  - Old Street Roundabout
-  - Silicon Roundabout
-  - Tech City
+- Central London
+- City of London
+- London
+- Old Street Roundabout
+- Silicon Roundabout
+- Tech City
+slug: silicon-roundabout-whats-on
+
 ---
 Silicon Roundabout’s expected makeover has been a talking point since TfL unveiled its plans to transform the area into a pedestrian-friendly zone, demolishing the renowned roundabout in favour of a large public square, cycle lanes and pop-up shops.
 

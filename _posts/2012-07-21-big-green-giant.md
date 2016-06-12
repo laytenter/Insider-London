@@ -1,19 +1,21 @@
 ---
+title: The UK&#8217;s big green giant
+date: '2012-07-21 15:59:48'
+categories:
+- blog
+- Green London
 id: 886
-title: 'The UK&#8217;s big green giant'
-date: 2012-07-21T15:59:48+00:00
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=886
-permalink: /big-green-giant/
-categories:
-  - blog
-  - Green London
+permalink: "/big-green-giant/"
 tags:
-  - fairtrade
-  - green
-  - marks and spencer
-  - shopping
+- fairtrade
+- green
+- marks and spencer
+- shopping
+slug: big-green-giant
+
 ---
 Sadly, all too often, when major UK retail companies talk about being ‘committed’ to green and sustainable policies it all feels a bit forced. Meaningful green strategies are all about being innovative rather than just repeating what others have said or done. Without innovation&#8230; well, let’s face it, we wouldn’t have realised anything was wrong in the first place (and thus, we’d still think that the earth was an infinite resource that we could merrily pillage forever, and that smoking was good for us).
 

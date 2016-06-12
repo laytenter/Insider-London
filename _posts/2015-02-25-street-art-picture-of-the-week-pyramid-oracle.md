@@ -1,29 +1,31 @@
 ---
-id: 24812
 title: 'Street Art Picture of the Week: Pyramid Oracle'
-date: 2015-02-25T10:30:48+00:00
+date: '2015-02-25 10:30:48'
+categories:
+- blog
+- East London
+- London Street Art &amp; Graffiti
+id: 24812
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=24812
-permalink: /street-art-picture-of-the-week-pyramid-oracle/
+permalink: "/street-art-picture-of-the-week-pyramid-oracle/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - East London
-  - 'London Street Art &amp; Graffiti'
+- 
 tags:
-  - East London street art
-  - pyramid oracle
-  - Shoreditch
-  - street art and graffiti
-  - street art picture of the week
+- East London street art
+- pyramid oracle
+- Shoreditch
+- street art and graffiti
+- street art picture of the week
+slug: street-art-picture-of-the-week-pyramid-oracle
+
 ---
 <img class="aligncenter wp-image-24814 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/pyramid-oracle_mini.jpg" alt="pyramid oracle street art london" width="569" height="850" />
 

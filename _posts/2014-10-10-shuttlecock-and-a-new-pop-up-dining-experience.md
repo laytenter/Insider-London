@@ -1,35 +1,37 @@
 ---
-id: 22405
 title: Shuttlecock and A New Pop-Up Dining Experience
-date: 2014-10-10T10:30:06+00:00
+date: '2014-10-10 10:30:06'
+categories:
+- blog
+- Food and drink
+- London Pubs and nights out
+id: 22405
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=22405
-permalink: /shuttlecock-and-a-new-pop-up-dining-experience/
+permalink: "/shuttlecock-and-a-new-pop-up-dining-experience/"
 s4_cdes:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_url2s:
-  - 
-categories:
-  - blog
-  - Food and drink
-  - London Pubs and nights out
+- 
 tags:
-  - Carousel
-  - Design
-  - Dining
-  - food and drink
-  - food and drink trends
-  - insider interview
-  - London
-  - Marylebone
-  - pop-up restaurant
-  - restaurant
-  - Shuttlecock
+- Carousel
+- Design
+- Dining
+- food and drink
+- food and drink trends
+- insider interview
+- London
+- Marylebone
+- pop-up restaurant
+- restaurant
+- Shuttlecock
+slug: shuttlecock-and-a-new-pop-up-dining-experience
+
 ---
 &nbsp;
 

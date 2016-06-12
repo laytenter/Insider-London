@@ -1,21 +1,29 @@
 ---
+title: Modern Architecture Tour
+date: '2003-01-01 10:46:21'
+categories:
+- tours
+- educational
 id: 29338
 tour_id: 50198
 price: 40
-title: Modern Architecture Tour
-date: 2003-01-01T10:46:21+00:00
 author: london75
 layout: product
-guid: '/?post_type=product&#038;p=29338'
-permalink: /product/modern-architecture-tour/
-categories: [tours,educational]
+guid: "/?post_type=product&#038;p=29338"
+permalink: "/product/modern-architecture-tour/"
 show_book: true
-thumb:
-thumb575x545: /wp-content/uploads/2015/04/Fotolia_13198648_S1-575x545.jpg
-banner: /wp-content/uploads/2015/04/Fotolia_13198648_S1.jpg
+thumb: 
+thumb575x545: "/wp-content/uploads/2015/04/Fotolia_13198648_S1-575x545.jpg"
+banner: "/wp-content/uploads/2015/04/Fotolia_13198648_S1.jpg"
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9933.977038456189!2d-0.1118593163905431!3d51.504147652887916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604a5507854bb%3A0xd14c94cb200dcb1!2sSouthwark+Station!5e0!3m2!1sen!2s!4v1431589184611
 hidden: true
-related: [29342,29340,29332]
+related:
+- 29342
+- 29340
+- 29332
+slug: modern-architecture-tour
+tags: []
+
 ---
 <section class="wpb\_row block vc\_row-fluid">
 

@@ -1,20 +1,22 @@
 ---
-id: 14884
 title: 'Street Art Picture of the Week: Christiaan Nagel, Silicon Roundabout'
-date: 2014-06-10T11:30:19+00:00
+date: '2014-06-10 11:30:19'
+categories:
+- blog
+- East London
+- London Street Art &amp; Graffiti
+id: 14884
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=14884
-permalink: /street-art-christiaan-nagel-silicon-roundabout/
-categories:
-  - blog
-  - East London
-  - 'London Street Art &amp; Graffiti'
+permalink: "/street-art-christiaan-nagel-silicon-roundabout/"
 tags:
-  - Christiaan Nagel
-  - London Street art
-  - Old Street Roundabout
-  - Silicon Roundabout
+- Christiaan Nagel
+- London Street art
+- Old Street Roundabout
+- Silicon Roundabout
+slug: street-art-christiaan-nagel-silicon-roundabout
+
 ---
 [<img class="aligncenter wp-image-14897 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/06/Christiaan-Nagel-shoreditch-roundabout1.jpg" alt="Christiaan Nagel shoreditch roundabout" width="569" height="707" />](http://www.insider-london.co.uk/wp-content/uploads/2014/06/Christiaan-Nagel-shoreditch-roundabout1.jpg)
   

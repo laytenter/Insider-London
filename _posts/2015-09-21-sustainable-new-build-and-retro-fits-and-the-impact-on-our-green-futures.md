@@ -1,16 +1,19 @@
 ---
-id: 31156
 title: Sustainable new build and Retro-fits and the impact on our green futures.
-date: 2015-09-21T14:46:08+00:00
+date: '2015-09-21 14:46:08'
+categories:
+- blog
+- Uncategorised
+id: 31156
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=31156
-permalink: /sustainable-new-build-and-retro-fits-and-the-impact-on-our-green-futures/
+permalink: "/sustainable-new-build-and-retro-fits-and-the-impact-on-our-green-futures/"
 slide_template:
-  - default
-categories:
-  - blog
-  - Uncategorised
+- default
+slug: sustainable-new-build-and-retro-fits-and-the-impact-on-our-green-futures
+tags: []
+
 ---
 _By Amelia Womack_
 

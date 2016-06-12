@@ -1,18 +1,20 @@
 ---
-id: 1485
 title: 'London: where the wild things are?'
-date: 2012-08-17T09:36:23+00:00
+date: '2012-08-17 09:36:23'
+categories:
+- blog
+- Quirky, weird and bizarre London
+id: 1485
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=1485
-permalink: /london-wild-things-are/
-categories:
-  - blog
-  - Quirky, weird and bizarre London
+permalink: "/london-wild-things-are/"
 tags:
-  - Animals
-  - London zoos
-  - zoos
+- Animals
+- London zoos
+- zoos
+slug: london-wild-things-are
+
 ---
 When I was ten we went on a school trip to the London Aquarium and I fed a cheesy wotsit to a ray and was told to leave the building and never come back.
 

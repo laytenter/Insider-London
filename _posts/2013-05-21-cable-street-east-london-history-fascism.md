@@ -1,15 +1,18 @@
 ---
-id: 1512
 title: 'The Battle of Cable Street: The Day that East London Defeated Fascism'
-date: 2013-05-21T15:06:14+00:00
+date: '2013-05-21 15:06:14'
+categories:
+- blog
+- East London
+- Other
+id: 1512
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=1512
-permalink: /cable-street-east-london-history-fascism/
-categories:
-  - blog
-  - East London
-  - Other
+permalink: "/cable-street-east-london-history-fascism/"
+slug: cable-street-east-london-history-fascism
+tags: []
+
 ---
 The tabloid press likes to refer to almost anything in Britain that it doesn&#8217;t like as being fascist (I&#8217;ve read of fascist postmen, fascist nurses and even fascist lollipop ladies), and this has to some extent rendered the term redundant. However, actual fascism, as in that which we attribute to have started in political form in Italy in 1921, is generally thought to have by-passed Britain when it spread its ugly wings throughout Europe. This is not necessarily the case. Interwar British fascism did manifest itself, and met its most famous resistance in the East End of London.
 

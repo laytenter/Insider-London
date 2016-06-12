@@ -1,19 +1,21 @@
 ---
-id: 2518
 title: 'Rain Room: a surreal opportunity to control the elements'
-date: 2012-11-26T17:14:49+00:00
+date: '2012-11-26 17:14:49'
+categories:
+- blog
+- Quirky, weird and bizarre London
+id: 2518
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=2518
-permalink: /rain_room_barbican_london_art/
-categories:
-  - blog
-  - Quirky, weird and bizarre London
+permalink: "/rain_room_barbican_london_art/"
 tags:
-  - art
-  - Barbican
-  - London
-  - Rain Room
+- art
+- Barbican
+- London
+- Rain Room
+slug: rain_room_barbican_london_art
+
 ---
 [<img class="alignnone size-full wp-image-2524" src="http://www.insider-london.co.uk/wp-content/uploads/2012/11/rain_room_barbican.jpg" alt="" width="569" height="379" />](http://www.insider-london.co.uk/wp-content/uploads/2012/11/rain_room_barbican.jpg)
 

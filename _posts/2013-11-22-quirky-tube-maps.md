@@ -1,20 +1,22 @@
 ---
-id: 7766
 title: Quirky Tube Maps
-date: 2013-11-22T14:58:46+00:00
+date: '2013-11-22 14:58:46'
+categories:
+- blog
+- London Underground/Tube
+- Other
+id: 7766
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=7766
-permalink: /quirky-tube-maps/
-categories:
-  - blog
-  - London Underground/Tube
-  - Other
+permalink: "/quirky-tube-maps/"
 tags:
-  - quirky tube
-  - quirky underground
-  - tube maps
-  - underground maps
+- quirky tube
+- quirky underground
+- tube maps
+- underground maps
+slug: quirky-tube-maps
+
 ---
 To accompany our Quirky Tube Facts blog posts (you can read part 1 [here](http://www.insider-london.co.uk/2013/09/11/london-underground-tube-tours-facts/)) we&#8217;ve decided to share some of the most interesting recreations of the Tube map.
 

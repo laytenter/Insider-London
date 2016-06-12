@@ -1,33 +1,35 @@
 ---
-id: 24853
 title: 'Cahoots: Underground drinking'
-date: 2015-03-06T10:30:21+00:00
+date: '2015-03-06 10:30:21'
+categories:
+- blog
+- Food and drink
+- London Pubs and nights out
+- London Underground/Tube
+id: 24853
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=24853
-permalink: /cahoots-underground-drinking/
+permalink: "/cahoots-underground-drinking/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - Food and drink
-  - London Pubs and nights out
-  - London Underground/Tube
+- 
 tags:
-  - Alternative London
-  - bars
-  - cahoots
-  - cocktails
-  - drinking
-  - london tube
-  - London Underground
-  - quirky london tube
+- Alternative London
+- bars
+- cahoots
+- cocktails
+- drinking
+- london tube
+- London Underground
+- quirky london tube
+slug: cahoots-underground-drinking
+
 ---
 <img class="aligncenter wp-image-24880 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/03/cahoots-3_mini.jpg" alt="alternative london underground" width="569" height="378" />
   

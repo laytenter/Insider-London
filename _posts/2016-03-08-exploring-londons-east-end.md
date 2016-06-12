@@ -1,10 +1,13 @@
 ---
 title: Exploring Londons East End
-date: 2016-03-08T10:23:24+00:00
-layout: post
-permalink: /exploring-londons-east-end/
+date: '2016-03-08 10:23:24'
 categories:
-  - blog
+- blog
+layout: post
+permalink: "/exploring-londons-east-end/"
+slug: exploring-londons-east-end
+tags: []
+
 ---
 When you think about the history of London’s East End, you might think of poverty, gangs and Jack the Ripper, but there is actually so much more to the area than its historic crime rate: it is vibrant, eclectic, and bursting with things to do. The team at Insider London are well acquainted with all of the weird and wonderful activities on offer in the East End (in fact, we run an <a href="/product/tour-of-east-end-gangs-crimes-and-hasher-times/">East End Walking Tour</a> to introduce the area and its fascinating history), but in case you aren’t, here are some cultural and historical highlights in the area...
 

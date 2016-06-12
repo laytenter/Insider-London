@@ -1,20 +1,22 @@
 ---
+title: Things to do in London &#8211; street art larceny!
+date: '2013-03-25 15:05:54'
+categories:
+- blog
+- London Street Art &amp; Graffiti
 id: 4822
-title: 'Things to do in London &#8211; street art larceny!'
-date: 2013-03-25T15:05:54+00:00
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=4822
-permalink: /things-to-do-london-street-art/
-categories:
-  - blog
-  - 'London Street Art &amp; Graffiti'
+permalink: "/things-to-do-london-street-art/"
 tags:
-  - Banksy
-  - London Street art
-  - London walking tours
-  - Poundland
-  - Shepard Fairey
+- Banksy
+- London Street art
+- London walking tours
+- Poundland
+- Shepard Fairey
+slug: things-to-do-london-street-art
+
 ---
 ###### [Alternative walking tours](http://www.insider-london.co.uk/ "London walking tours") > [tour blog](http://www.insider-london.co.uk/blog/ "Insider London blog") > street art larceny
 

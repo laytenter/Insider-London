@@ -1,21 +1,23 @@
 ---
+title: What&#8217;s new on the East London music scene?
+date: '2012-11-29 14:18:18'
+categories:
+- blog
+- East London
+- London Pubs and nights out
 id: 3344
-title: 'What&#8217;s new on the East London music scene?'
-date: 2012-11-29T14:18:18+00:00
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=3344
-permalink: /east-london-music-scene-shoreditch/
-categories:
-  - blog
-  - East London
-  - London Pubs and nights out
+permalink: "/east-london-music-scene-shoreditch/"
 tags:
-  - Insider London
-  - music trends
-  - The Macbeth
-  - things to do in East London
-  - walking tours
+- Insider London
+- music trends
+- The Macbeth
+- things to do in East London
+- walking tours
+slug: east-london-music-scene-shoreditch
+
 ---
 ###### [Alternative London Walking Tours](http://www.insider-london.co.uk/ "Insider London Walking Tours") > [Essential London Blog](http://www.insider-london.co.uk/blog/ "Insider London Blog") > East London music scene
 
