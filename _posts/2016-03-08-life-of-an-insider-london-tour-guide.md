@@ -6,6 +6,7 @@ permalink: /life-of-an-insider-london-tour-guie/
 categories:
   - blog
 ---
+
 Our friendly and experienced tour guides have a wealth of knowledge of London’s history and vibrant culture. Michelle Buckley heads up the tour guides who plan and lead all of Insider London’s walking tours. She talks to us about life as a tour guide, her love of London and her best recommendations for exploring the city.
 
 ### How long have you been a London tour guide? Why did you choose to start leading tours?
