@@ -1,25 +1,19 @@
 ---
 id: 25099
 title: Tours
-date: 2015-05-11T15:47:17+00:00
 author: london75
 layout: page
 permalink: /product-category/tours/
 ---
-<div class="container archive tax-product_cat term-tours term-75 woocommerce woocommerce-page wpb-js-composer js-comp-ver-4.5 vc_responsive">
-
-<section id="primary" class="content-full-width">
 
 <p>Insider London has a wide variety of walking tours to appeal to everyone; whether you are a Londoner wanting to find out more about the city’s weird and wonderful curiosities or a member of a corporate organisation looking for something a bit different to do on your work away-day. You might even be looking for a bespoke tour - go to our <a href="/special-occasions">Special Occasions</a> page for more information regarding this service.</p>
 
-<ul class="products">
-
-{% assign posts = (site.categories.tours | sort: 'date') %}
+<div class="layout">
+{% assign posts = site.categories.tours | sort:"date" %}
 {% for post in posts %}
   {% assign loopindex = forloop.index | modulo: 4 %}
-  {% include category-tour.html %}
-
+  {% if forloop.index > 1 %}-->{% endif %}<div class="layout__item u-1/4 u-1/3-lap u-1/2-palm">
+    {% include tour-block.html %}
+  </div>{% if forloop.last %}{% else %}<!--{% endif %}
 {% endfor %}
-</ul>
-</section>
 </div>

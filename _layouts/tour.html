@@ -1,33 +1,34 @@
 ---
 layout: default
 ---
-<div id="custom-bg" style="width:100%; margin-top:00px; height:400px; background-size:cover; background-image: url('{{ page.banner }}');background-position: center">
+<!--<div id="custom-bg" style="width:100%; margin-top:00px; height:400px; background-size:cover; background-image: url('{{ page.banner }}');background-position: center">
   <div id="custom-bg" style="width:100%; height:400px; background-size:contain; background:rgba(0,0,0,0.3);"> </div>
-</div>
-
-<header class="post-header">
-  <div class="breadcrumb-wrapper ">
-    <div class="container">
-      <h1 class="post-title">
-        {{ page.title }}
-      </h1>
+</div>-->
+<div class="wrapper">
+  <header class="post-header">
+    <div class="breadcrumb-wrapper ">
+      <div class="container">
+        <h1 class="post-title">
+          {{ page.title }}
+        </h1>
+      </div>
     </div>
-  </div>
-</header>
+  </header>
 
-<div class="layout">
-  <div class="layout__item u-3/5-lap u-2/3-desk">
-      {{ content }}
+
+  <div class="layout layout--rev">
+    <div class="layout__item u-2/5-lap u-1/3-desk">
+        {% if page.show_book %} {% include tour-side-bar.html %} {% endif %}
     </div><!--
-    --><div class="layout__item u-2/5-lap u-1/3-desk">
-    <div class="images">
-<img src="{{ page.thumb575x545 }}" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" >
+--><div class="layout__item u-3/5-lap u-2/3-desk">
+  <p class="palm-mt0 lap-and-up-mt0">
+<img src="{{ site.imagepath }}{{ page.banner }}" />
+</p>
+      {{ content }}
+      {% if page.show_book %}
+        {% include tour-side-bar.html %} {% endif %}
+      {% include trip-advisor-widget.html %}
     </div>
-    {% if page.show_book %}
-    {% include tour-side-bar.html %}
-    {% endif %}
-    {% include trip-advisor-widget.html %}
   </div>
-</div>
   {% include related-tours.html %}
 </div>

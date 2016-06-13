@@ -2,8 +2,9 @@
 layout: page
 title: Blog - Insider London
 ---
-<div class="container">
-  <section id="primary">
+
+<div class="layout">
+  <div class="layout__item u-2/3-lap u-3/4-desk">
     <!-- This loops through the paginated posts -->
     {% for post in paginator.posts %}
     <article id="post-24853" class="blog-entry post-24853 post type-post status-publish format-standard hentry category-london-pubs category-london-underground-tube category-food-and-drink tag-cocktails tag-london-tube tag-london-underground tag-alternative-london tag-bars tag-drinking tag-quirky-london-tube tag-cahoots">
@@ -40,7 +41,8 @@ title: Blog - Insider London
       <span class="next ">Next</span>
       {% endif %}
     </div>
-  </section>
-  {% include blog-side-bar.html %}
-
+  </div><!--
+--><div class="layout__item u-1/3-lap u-1/4-desk">
+    {% include blog-side-bar.html %}
+  </div>
 </div>

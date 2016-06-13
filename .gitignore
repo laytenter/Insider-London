@@ -4,3 +4,5 @@ _site
 /node_modules
 /bower_components
 /wp-content
+/assets/css
+/assets/js

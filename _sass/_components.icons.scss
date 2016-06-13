@@ -1,0 +1,18 @@
+/*
+ * Pretty icons
+ * 1. Parent item needs to be position: relative for this to work
+ */
+.icon {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  fill: $color-white;
+  vertical-align: middle;
+}
+
+.icon--medium {
+  @include media-query(desk) {
+    width: 14px;
+    height: 14px;
+  }
+}

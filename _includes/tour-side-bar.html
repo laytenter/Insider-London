@@ -1,18 +1,13 @@
-  <div class="summary entry-summary">
-    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
-      <p class="price">From: <span class="amount">£{{ page.price }}.00</span></p>
-      <meta itemprop="price" content="12"><meta itemprop="priceCurrency" content="GBP">
-      <link itemprop="availability" href="http://schema.org/InStock">
-    </div>
-    <noscript>Your browser must support JavaScript in order to make a booking.</noscript>
-    <div id="wc-bookings-booking-form" class="wc-bookings-booking-form" data-tourid="{{ page.tour_id }}">
-      <h1>Book Now</h1>
-      <p>Please book your place on the tour by clicking the book bow button below. If you wish to book a tour that starts in next 24 hours please call before making a booking.</p>
-      
-      <p>
-      <a id="BookNow" class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-modern vc_btn3-color-grey" href="#">
-        <strong>Book Now</strong>
-      </a>
+<div class="box box--highlight palm-mb lap-mb desk-mb">
+  <noscript>Your browser must support JavaScript in order to make a booking.</noscript>
+
+  <div id="wc-bookings-booking-form" class="wc-bookings-booking-form" data-tourid="{{ page.tour_id }}">
+    <p class="palm-mt0 lap-and-up-mt0">Book tickets online for this tour using our secure online ticket reservation system.</p>
+
+    <p>
+      <a id="BookNow" class="btn btn--full btn--red" href="#">
+      Buy tickets <small>(from: £{{ page.price }})</small>
+    </a>
     </p>
-    </div>
   </div>
+</div>

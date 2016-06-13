@@ -2,124 +2,64 @@
 layout: default
 title: Alternative London Tours | Hidden London Tours
 ---
+  <div class="hero">
+      <img class="hero__image" src="/assets/images/P1040883.JPG"
 
-<div class="home">
-  <div id="slider">
-    <div id="layerslider_6" class="ls-wp-container" style="">
-      <div class="ls-slide">
-        <img
-          src="/wp-content/uploads/2015/04/P1040883-360x180.JPG"
-          srcset="/wp-content/uploads/2015/04/P1040883.JPG 1900w,/wp-content/uploads/2015/04/P1040883-1024x512.JPG 1024w, /wp-content/uploads/2015/04/P1040883-360x180.JPG 360w"
           alt="View of St Paul Cathedrail framed by modern glass fronted buildings.">
-        <div class="ls-l" style="top:0px;left:0px;white-space: nowrap;">
-          <div class="slide-content-div">
-            <h2>COME AND DISCOVER THE WORLD OF</h2>
-            <h1>LONDON’S HIDDEN</h1>
-            <h3>TOURS</h3>
-            <div class="buttons-slider">
-              <a href="/product-category/tours/" class="white">VIEW ALL TOURS</a>
-            </div>
-          </div>
+        <div class="hero__content">
+            <h1 class="hero__title lap-ph+ desk-ph++ desk-pt++ desk-pb+ palm-pv-- palm-ph0 palm-mb0">
+              <small>COME AND DISCOVER THE WORLD OF</small><br /> LONDON’S HIDDEN
+              <br /><small>TOURS</small>
+            </h1>
+              <a class="btn btn--red btn--small" href="/product-category/tours/">
+                VIEW ALL TOURS
+              </a>
         </div>
       </div>
-    </div>
-  </div>
-  <section class="wpb_row block vc_row-fluid firtfourtolidertitle container vc_custom_1430321849354">
-    <div class="container">
-      <div class="row">
-        <div class="vc_col-sm-12 wpb_column vc_column_container ">
-          <div class="wpb_wrapper">
-            <div class="wpb_text_column wpb_content_element ">
-              <div class="wpb_wrapper">
-                <h2 style="text-align: center;">FEATURED TOURS</h2>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <section class="wpb_row block vc_row-fluid firtfourtoursslider container">
-    <div class="container">
-      <div class="row">
-        {% for post in site.categories.featured %}
-        <div class="vc_col-sm-3 tourbackground wpb_column vc_column_container ">
-          <div class="wpb_wrapper">
-            <div class="wpb_single_image wpb_content_element vc_align_center">
-              <div class="wpb_wrapper">
-                <div class="vc_single_image-wrapper vc_box_border_grey">
-                  <a href="{{ post.permalink }}" title="{{ post.title }}">
-                    <img class="vc_single_image-img" src="{{ post.thumb }}" alt="" title="5103793738_5df66b09ba_o" height="200" width="300">
+      <h2 style="text-align: center;">FEATURED TOURS</h2>
+  <section class="wrapper">
+      <div class="layout">{% for post in site.categories.featured %}<div class="layout__item u-1/4-desk u-1/2-lap u-1/2-palm">
+          <div class="block block--flush lap-mb palm-mb">
+                  <a class="block__image" href="{{ post.permalink }}" title="{{ post.title }}">
+                    {% include image.html src=post.thumb srcset=post.thumbsrcset  caption="" %}
                   </a>
-                </div>
-              </div>
-            </div>
-            <div class="wpb_text_column wpb_content_element tourborder">
-              <div class="wpb_wrapper">
-                <h2>{{ post.title }}</h2>
+              <div class="block__body red-bg palm-p- lap-p- desk-p-">
+                  <div class="block__tour">
+                <h2 class="white">{{ post.title }}</h2>
                 {% if post.price %}
-                <p>£{{ post.price }} per person</p>
+                <p class="blue">£{{ post.price }} per person</p>
                 {% endif %}
                 <p>
-                  <a class="viewtourbutton" title="Sherlock Holmes" href="{{ post.permalink }}">VIEW TOUR</a>
+                  <a class="btn btn--small" title="View details of the {{ post.title }} tour" href="{{ post.permalink }}">VIEW TOUR</a>
                 </p>
               </div>
             </div>
           </div>
+        </div><!-- -->{% endfor %}</div>
+        <div class="text-centre palm-mb lap-and-up-mb">
+          <!--<img src="/assets/images/img-tour.png" alt="">
+          <br />-->
+          <p>
+            <a class="btn btn--view-all text-center" title="Tours" href="/product-category/tours/">
+            VIEW ALL TOURS
+            </a>
+        </p>
         </div>
-
-        {% endfor %}
-
-      </div>
-    </div>
   </section>
-  <section class="wpb_row block vc_row-fluid viewalltourcontainer container vc_custom_1430321899902">
-    <div class="container">
-      <div class="row">
-        <div class="vc_col-sm-12 wpb_column vc_column_container ">
-          <div class="wpb_wrapper">
-            <div class="wpb_text_column wpb_content_element ">
-              <div class="wpb_wrapper">
-                <p style="text-align: center;">
-                  <img src="/wp-content/uploads/2015/03/img-tour.png" alt="">
-                  <br>
-                  <a class="alltoursbutton" title="Tours" href="/product-category/tours/">
-                    VIEW ALL TOURS
-                  </a>
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <section class="wpb_row block vc_row-fluid vc_custom_1431612502080">
-    <div class="container">
-      <div class="row">
-        <div class="vc_col-sm-6 wpb_column vc_column_container ">
-          <div class="wpb_wrapper">
-            <div class="wpb_single_image wpb_content_element vc_custom_1431598263473 vc_align_left">
-              <div class="wpb_wrapper">
-                <div class="vc_single_image-wrapper   vc_box_border_grey"><img src="/wp-content/uploads/2015/03/img-welcome.png" class="vc_single_image-img attachment-full" alt="img-welcome" height="513" width="693"></div>
-              </div>
-            </div>
-          </div>
-        </div>
 
-        <div class="vc_col-sm-6 whitetext wpb_column vc_column_container ">
-          <div class="wpb_wrapper">
-            <div class="wpb_text_column wpb_content_element  vc_custom_1431980516129">
-              <div class="wpb_wrapper">
-                <h2>Premium Walking Tours in London</h2>
-                <p>Insider London's guided walking tours introduce you to a new side of the city of London!</p>
-                <p>At Insider London we offer a variety of alternative guided tours of London ideal for tourists, locals, students, school trips, private parties and corporate events. From the <a href="/product/london-underground-and-tube-tour/">Original London Underground Tour</a> to our exclusive <a href="/product/in-depth-business-tour/">In-Depth Business Insider Visits</a> based in the City of London, our highly acclaimed sightseeing tours introduce you to a brand new side of the city. Led by Insider London’s friendly and experienced tour guides, our walking tours uncover London's hidden secrets, peculiar treasures and fascinating history. A unique and unusual way to explore London, our private walking tours can even be adapted to your specific interests and arranged at a time to suit you. We also cater to large corporate events, student groups, private parties and special occasions.</p>
-                <p><a class="viewtourbutton" href="/about-us/">READ MORE</a></p>
-              </div>
-            </div>
-          </div>
+  <section class="homepage-intro">
+    <div class="wrapper">
+      <div class="layout layout--rev">
+        <div class="layout__item u-2/4-desk u-2/5-lap">
+
+          <h2 class="white">Premium Walking Tours in London</h2>
+          <p>Insider London's guided walking tours introduce you to a new side of the city of London!</p>
+          <p>At Insider London we offer a variety of alternative guided tours of London ideal for tourists, locals, students, school trips, private parties and corporate events. From the <a href="/product/london-underground-and-tube-tour/">Original London Underground Tour</a> to our exclusive <a href="/product/in-depth-business-tour/">In-Depth Business Insider Visits</a> based in the City of London, our highly acclaimed sightseeing tours introduce you to a brand new side of the city. Led by Insider London’s friendly and experienced tour guides, our walking tours uncover London's hidden secrets, peculiar treasures and fascinating history. A unique and unusual way to explore London, our private walking tours can even be adapted to your specific interests and arranged at a time to suit you. We also cater to large corporate events, student groups, private parties and special occasions.</p>
+          <p><a class="btn btn--blue" href="/about-us/">READ MORE</a></p>
+        </div><!--
+--><div class="layout__item u-2/4-desk u-3/5-lap">
+    <img class="palm-mv lap-mv desk-mv" src="/assets/images/img-welcome.png" class="vc_single_image-img attachment-full" alt="img-welcome">
         </div>
       </div>
     </div>
   </section>
-</div>

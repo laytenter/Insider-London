@@ -1,0 +1,43 @@
+.btn {
+ @include font-weight(bold);
+
+  @include attention() {
+      background-color: $color-blue;
+          border-color: $color-blue;
+          color: $color-white;
+  }
+}
+
+.btn--red {
+  background-color: $color-brand;
+  color: $color-white;
+  border-color: darken($color-brand,5%);
+
+  @include attention() {
+      background-color: $color-blue;
+          border-color: $color-blue;
+          color: $color-white;
+  }
+}
+
+.btn--blue {
+  background-color: $color-blue;
+  color: $color-white;
+  border-color: $color-blue;
+
+  @include attention() {
+      background-color: $color-white;
+          border-color: $color-white;
+          color: $color-blue;
+  }
+}
+
+.btn--view-all {
+  border:3px solid $color-black;
+  color: $color-brand;
+  @include attention() {
+          border-color: $brand-color;
+          color: $color-black;
+          background-color: $color-white;
+  }
+}

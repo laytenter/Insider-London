@@ -1,0 +1,12 @@
+/*------------------------------------*\
+    #LINKS
+\*------------------------------------*/
+
+a {
+    text-decoration: none;
+    color: $color-brand;
+
+    @include attention() {
+        text-decoration: none;
+    }
+}

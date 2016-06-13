@@ -1,197 +1,45 @@
 #header-wrapper {
-  position: fixed;
   box-shadow: 1px 1px 4px rgba(0,0,0,0.2);
-}
-
-.breadcrumb-wrapper {
-  margin-top: 0px!important;
-}
-
-#main-menu ul li:hover ul li a {
-  background: #fff;
-  color: #192e51!important;
-}
-
-.sub-menu {
-  color: #192e51;
-  background: #fff;
-}
-
-#main-menu ul.sub-menu li:hover,
-#main-menu ul.sub-menu li:hover a {
-  background: #192e51!important;
-  color: #fff!important;
-}
-
-#header-wrapper {
-  float: left;
   width: 100%;
   margin: 0px;
-  padding: 0px;
-  z-index: 9499;
-  background: rgba(68,88,112,0.6);
+
+  background: $color-blue;
+
+  @include media-query(lap-and-up) {
+    background: $color-blue url('/assets/images/bg-top-red.png') center top no-repeat;
+  }
+
+  @include media-query(lap-and-up) {
+    background-position: center -18px;
+  }
+
 }
 
-#header {
-  width: 100%;
-  margin: 0px;
-  padding: 0px;
-  float: left;
-  position: relative;
-  z-index: 9499;
+.telephone {
+  font-weight: 700;
+
+  text-align:center;
+
+
+  @include inuit-font-size(12px);
+
+  @include media-query(lap-and-up) {
+    text-align:left;  
+  }
+  @include media-query(desk) {
+    @include inuit-font-size(14px);
+  }
+
+  color: $color-white;
+
+
 }
 
-#header .container {
-  backface-visibility: hidden;
-}
+.telephone__landline {
+  @include media-query(palm) {
+    padding-right:12px;
+  }
 
-#header-wrapper .header3 .main-menu-container {
-  width: 100%;
-  float: left;
-  background: #e4162f;
-  border-top: 5px solid #fff;
-  border-bottom: 5px solid #fff;
-  height: 70px;
-}
-
-#header-wrapper .header3 .main-menu-container .main-menu {
-  position: inherit;
-  top: 0;
-  float: none;
-}
-
-#header-wrapper .header3 .main-menu-container .main-menu #main-menu,
-.header3 #main-menu ul.menu>li {
-  float: none;
-}
-
-.header3 #main-menu ul.menu>li:first-child {
-  background: none;
-}
-
-#header-wrapper,
-#header {
-  position: inherit !important;
-}
-
-#header-wrapper .main-menu-container {
-  width: 100%;
-  display: inline-block;
-}
-
-#header-wrapper .main-menu-container .main-menu {
-  position: inherit;
-  top: 0;
-}
-
-#main-menu ul li:hover ul li a {
-  background: #fff;
-  color: #192e51!important;
-}
-
-#main-menu ul.sub-menu li:hover,
-#main-menu ul.sub-menu li:hover a {
-  background: #192e51!important;
-  color: #fff!important;
-}
-
-#main-menu {
-  float: right;
-  margin: 0px;
-  padding: 0px;
-  position: relative;
-  z-index: 100;
-  line-height: normal;
-}
-
-#main-menu ul.menu {
-  float: left;
-  margin: 0px;
-  padding: 0px;
-  text-align: center;
-  width: 100%;
-}
-
-#main-menu ul.menu>li {
-  margin: 0px;
-  padding: 0px;
-  display: inline-block;
-  position: relative;
-  float: left;
-}
-
-#main-menu ul.menu>li>a {
-  display: inline-block;
-  margin: 8px 5px;
-  padding: 0 10px;
-  width: 145px;
-  font-size: 15px;
-  font-weight: normal;
-  line-height: 44px;
-  color: #fff;
-  text-transform: uppercase;
-  font-family: 'motor_oil_1937_m54regular';
-  text-shadow: 0px 2px 0px #cc2537;
-}
-
-#main-menu ul.menu>li:last-child>a {
-  margin-right: 0;
-}
-
-#main-menu ul li.menu-item-simple-parent ul {
-  display: none;
-  text-align: left;
-}
-
-#main-menu ul li.menu-item-simple-parent:hover > ul {
-  display: block;
-}
-
-#main-menu ul li.menu-item-simple-parent ul {
-  width: 270px;
-  background: #fff;
-  padding: 0px;
-  position: absolute;
-  top: 50px;
-  left: 0px;
-  float: left;
-  z-index: 1;
-  box-shadow: 0 5px 4px rgba(0, 0, 0, 0.1);
-}
-
-#main-menu ul li.menu-item-simple-parent ul li {
-  display: block;
-  padding: 0px 15px;
-  position: relative;
-}
-
-#main-menu ul li.menu-item-simple-parent ul li a {
-  color: #36251e;
-  position: relative;
-  padding: 10px 0px 10px 10px;
-  display: block;
-}
-
-#main-menu ul li.menu-item-simple-parent ul li:last-child>a {
-  border: none;
-}
-
-#main-menu ul li.menu-item-simple-parent ul > li:hover {
-  background: #f4f4f4;
-}
-
-#main-menu ul li.menu-item-simple-parent ul.sub-menu {
-  border-top: 3px solid;
-}
-
-#main-menu ul li.menu-item-simple-parent ul li a {
-  font-size: 13px;
-}
-
-#main-menu ul li.menu-item-simple-parent ul li a:before {
-  content: "\f105";
-  padding-right: 7px;
-  font-family: FontAwesome;
 }
 
 .dt-menu-toggle {
@@ -230,23 +78,4 @@
 
 .dt-menu-toggle-icon:after {
   top: 5px;
-}
-
-.breadcrumb-wrapper {
-  background: #fff;
-  display: inline-block;
-  width: 100%;
-  padding-top: 30px;
-  margin-bottom: 20px;
-  margin-top: 0px;
-  border-bottom: 1px solid #f4f4f4;
-  float: left;
-}
-
-.breadcrumb-wrapper h1 {
-  text-transform: uppercase;
-  font-size: 30px;
-  float: left;
-  font-weight: 900;
-  font-family: "helvetica"!important;
 }

@@ -1,0 +1,192 @@
+/*------------------------------------*\
+    #SITE-NAV
+\*------------------------------------*/
+.site-nav {
+  background: $brand-color;
+  color: $color-white;
+  font-family: Helvetica,Arial,sans-serif;
+  background: #e4162f;
+  border-top: 6px solid #fff;
+  border-bottom: 6px solid #fff;
+  position: relative;
+  @extend %clearfix;
+  @include inuit-font-size(14px);
+
+  height: 60px;
+
+  @include media-query(lap) {
+    height: 72px;
+  }
+
+
+  @include media-query(desk) {
+    height: 84px;
+    @include inuit-font-size(16px);
+  }
+
+  position: relative;
+  z-index: 10;
+}
+.site-nav__list {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  font-weight: 700;
+  text-align: center;
+  height: 72px;
+  display: none;
+  @include media-query(lap-and-up) {
+    display: block;
+  }
+}
+
+.site-nav__list--overflow {
+  overflow: hidden;
+}
+
+.site-nav__item {
+  text-transform: uppercase;
+  padding: 0;
+
+  @include media-query(lap-and-up) {
+    padding: $inuit-base-spacing-unit--small 0;
+    display: inline-block;
+    text-align: center;
+  }
+}
+.site-nav__link {
+  text-decoration: none;
+  color: $color-white;
+  padding: $inuit-base-spacing-unit--small $inuit-base-spacing-unit;
+  display: block;
+  text-shadow: 0 1px 0 $color-blue;
+  border-bottom:1px solid $color-white;
+
+  @include media-query(lap) {
+    padding: halve($inuit-base-spacing-unit--small) $inuit-base-spacing-unit--small;
+  }
+
+  @include media-query(lap-and-up) {
+    display: inline-block;
+    border:none;
+  }
+
+  @include attention() {
+
+    border-color: $color-blue;
+    color: $color-white;
+    background: $color-blue;; /* fallback */
+
+    @include media-query(lap-and-up) {
+      // Woot - http://lea.verou.me/2011/03/beveled-corners-negative-border-radius-with-css3-gradients/
+    	background:
+    		linear-gradient(135deg, transparent 5px, $color-blue 0) top left,
+    		linear-gradient(225deg, transparent 5px, $color-blue 0) top right,
+    		linear-gradient(315deg, transparent 5px, $color-blue 0) bottom right,
+    		linear-gradient(45deg,  transparent 5px, $color-blue 0) bottom left;
+    	background-size: 50% 50%;
+
+    	background-repeat: no-repeat;
+      background-image:
+      		radial-gradient(circle at 0 0, $color-brand 5px, $color-blue 6px),
+      		radial-gradient(circle at 100% 0, $color-brand 5px, $color-blue 6px),
+      		radial-gradient(circle at 100% 100%, $color-brand 5px, $color-blue 6px),
+      		radial-gradient(circle at 0 100%, $color-brand 5px, $color-blue 6px);
+    }
+  }
+}
+
+.site-nav__link--active {
+  text-decoration: none;
+  background-color: $color-green;
+}
+
+.logo {
+  display:block;
+  margin: -30px auto;
+  padding: 0;
+  width: 108px;
+
+  @include media-query(lap) {
+    width: 144px;
+    margin: -48px auto;
+    max-width: 100%;
+  }
+
+  @include media-query(desk) {
+    margin: -60px auto;
+    //width: 192px;
+    width: 168px;
+  }
+
+  padding: 0;
+    &:active,
+    &:hover,
+    &:visited {
+      background-color: inherit;
+      border-color: inherit;
+      color: inherit;
+    }
+}
+
+.site-nav__item--parent {
+  position:relative;
+}
+
+.site-nav__item--parent:hover > .sub-menu {
+  display: block;
+}
+
+.sub-menu {
+  display: none;
+  text-align: left;
+  width: 240px;
+  background: #fff;
+  padding: 0;
+  position: absolute;
+  z-index: 1;
+  box-shadow: 0 5px 4px rgba(0,0,0,.1);
+  border-top: $color-brand 3px solid;
+  list-style-type: none;
+}
+
+.sub-menu__link {
+  color: $color-gray;
+  font-weight: normal;
+  text-transform: capitalize;
+  @include inuit-font-size(14px);
+  display:block;
+  padding: $inuit-base-spacing-unit--small;
+  &:hover {
+    background: $color-blue;
+    color: $color-white;
+  }
+}
+.menu-toggle__button {
+  display:inline-block;
+  @include media-query(lap-and-up) {
+    display: none;
+  }
+  position: relative;
+  background-color: transparent;
+  background-image: none;
+  border: none;
+  padding: $inuit-base-spacing-unit--small;
+}
+.menu-toggle__icon--bar {
+  background-color: $color-white;
+  display: block;
+  width: 24px;
+  height: 3px;
+  border-radius: $base-round
+}
+.menu-toggle__icon--bar + .menu-toggle__icon--bar {
+  margin-top: 4px;
+}
+
+.site-nav__list--mobile {
+  display:none;
+  height: auto;
+  background-color: $color-brand;
+  text-align:left;
+}

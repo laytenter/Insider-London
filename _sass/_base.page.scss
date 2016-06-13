@@ -1,0 +1,17 @@
+html {
+  font-family: "Open Sans",Helvetica, sans-serif;
+}
+
+.red-bg {
+  background-color: $brand-color;
+}
+
+figure {
+  margin:0;
+}
+
+.hidden-palm {
+  @include media-query(palm) {
+    display:none;
+  }
+}

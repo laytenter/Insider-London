@@ -6,23 +6,27 @@ author: london75
 layout: page
 permalink: /product-category/educational-tours/
 ---
-<div class="container archive tax-product_cat term-tours term-75 woocommerce woocommerce-page wpb-js-composer js-comp-ver-4.5 vc_responsive">
-
-<section id="primary">
+<div class="layout">
+  <div class="layout__item u-2/3-lap u-3/4-desk">
   <p>Insider London offers educational guided tours which are perfect for corporate events or student groups. The Financial Walking Tour reveals how the City of London developed into a global financial centre while our Silicon Roundabout Tour gives students the chance to explore and learn about East London’s Tech hub. </p>
   <p>Alternatively, our Retail Design Tour takes in the most exciting and innovative retail design in London, with a focus on visual marketing and merchandising. Our in-depth business visits are also incredibly popular and involve a behind-the-scenes visit to one of London’s most exciting businesses where you will hear from entrepreneurs who built their companies from the ground up.</p>
-
-</section>
-<section id="secondary-right" class="secondary-sidebar secondary-has-right-sidebar">
-  <h4>Brochure</h4>
+</div><!--
+--><div class="layout__item u-1/3-lap u-1/4-desk">
+  <h3>Brochure</h3>
   <p>For more information about our education tours please download our PDF brochure</p>
-  <p> <a style="background-color: #f32c41; padding: 10px 15px; color: #fff;" href="/wp-content/uploads/2015/06/insider-london-web-brochure.pdf"><strong>View Brochure</strong></a>
-</section>
-<ul class="products">
+  <p>
+    <a class="btn btn--small btn--red" href="/wp-content/uploads/2015/06/insider-london-web-brochure.pdf">   View Brochure
+    </a>
+  </p>
+</div>
+</div>
+<div class="layout">
 {% assign posts = (site.categories.educational | sort: 'date') %}
 {% for post in posts %}
   {% assign loopindex = forloop.index | modulo: 4 %}
-  {% include category-tour.html %}
-{% endfor %}
-</ul>
+  {% if forloop.index > 1 %}-->{% endif %}<div class="layout__item u-1/4 u-1/3-lap u-1/2-palm">
+    {% include tour-block.html %}
+
+  </div>{% if forloop.last %}{% else %}<!--{% endif %}{% endfor %}
+
 </div>

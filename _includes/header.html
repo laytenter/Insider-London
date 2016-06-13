@@ -1,68 +1,80 @@
-
-
 <div id="header-wrapper">
-  <header id="header" class="header3">
-    <!-- Top bar starts here -->
-    <div class="top-bar">
-      <div class="container">
-        <div class="dt-sc-logo-responsive"> <a href="/">
-          <img src="/wp-content/themes/fitnesszone/images/logo1.png" alt=""></a> </div>
-          <div class="dt-sc-topbar-info">
-            <div class="dt-sc-contact-info">
-              <p style="font-family:Arial, Helvetica, sans-serif; font-weight:bold;">T: +44 (0)20 7183 1055<br/>M: +44 (0)78 6967 8717</p>
-            </div>
-            <div class="top-right">
-              <ul class="dt-sc-social-icons header-social">
-                <li class="facebook"><a class="fa fa-facebook" target="_blank" href="https://www.facebook.com/insiderlondon"></a></li>
-                <li class="twitter"><a class="fa fa-twitter" target="_blank" href="https://twitter.com/insiderlondon"></a></li>
-                <li class="instagram"><a class="fa fa-instagram" target="_blank" href="https://www.instagram.com/insiderlondontours/"></a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
+  <div class="wrapper">
+    <p class="telephone lap-and-up-m0 palm-mt0 palm-mb hidden-mobile lap-pt+ lap-pb0 desk-p">
+      <span class="telephone__landline">T +44 (0)20 7183 1055</span><br class="hidden-palm" />M: +44 (0)78 6967 8717
+    </p>
+</div>
+  <header class="header">
+    <nav class="site-nav">
+      <div class="wrapper">
+        <div class="layout">
+          <div class="layout__item u-2/5-desk u-2/5-lap u-1/4-palm">
+        <ul class="site-nav__list">
+          <li class="site-nav__item">
+            <a class="site-nav__link" href="/">Home</a>
+          </li>
+          <li class="site-nav__item">
+            <a class="site-nav__link" href="/about-us/">About Us</a>
+          </li>
+          <li class="site-nav__item site-nav__item--parent">
+            <a class="site-nav__link" href="/product-category/tours/">Tours</a>
+            <ul class="sub-menu">
+              <li class="">
+                <a class="sub-menu__link" href="/product-category/hidden-tours/">Hidden Tours</a>
+              </li>
+              <li>
+                <a class="sub-menu__link" href="/product-category/educational-tours/">Educational Tours</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+        <button id="dt-menu-toggle" class="menu-toggle__button palm-mt--" type="button">
+          <span class="menu-toggle__icon--bar"></span>
+          <span class="menu-toggle__icon--bar"></span>
+          <span class="menu-toggle__icon--bar"></span>
+        </button>
+        </div><!--
+--><div class="layout__item u-1/5-desk u-1/5-lap u-2/4-palm">
+            <a class="logo" title="London Walking Tours" href="/">
+              <img alt="London Walking Tours" src="/assets/images/insider-logo.png" />
+            </a>
+        </div><!--
+--><div class="layout__item u-2/5-desk u-2/5-lap u-1/4-palm">
+          <ul class="site-nav__list site-nav__list--overflow">
+          <li class="site-nav__item">
+            <a class="site-nav__link" href="/gift-vouchers/">Gift Vouchers</a>
+          </li>
+          <li class="site-nav__item">
+            <a class="site-nav__link" href="/special-occasions/">Occasions</a>
+          </li>
+          <li class="site-nav__item">
+            <a class="site-nav__link" href="/blog/">Blog</a>
+          </li>
+        </ul>
       </div>
-      <div class="main-menu-container">
-        <div class="main-menu">
-          <div id="primary-menu">
-            <div class="dt-menu-toggle" id="dt-menu-toggle">Menu
-              <span class="dt-menu-toggle-icon"></span></div>
-              <nav id="main-menu">
-                <ul id="menu-main-menu" class="menu">
-                  <li id="menu-item-25488" class="">
-                    <a href="/">Home</a>
-                  </li>
-                  <li id="menu-item-25485">
-                    <a href="/about-us/">About Us</a>
-                  </li>
-                  <li id="menu-item-25490" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-depth-0 menu-item-simple-parent">
-                    <a href="/product-category/tours/">Tours</a>
-                    <ul class="sub-menu">
-                      <li id="menu-item-25491" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-depth-1">
-                        <a href="/product-category/hidden-tours/">Hidden Tours</a>
-                      </li>
-                      <li id="menu-item-25492" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-depth-1">
-                        <a href="/product-category/educational-tours/">Educational Tours</a>
-                      </li>
-                    </ul>
-                  </li>
-                  <li id="menu-item-25506" class="logoheadermenuclass">
-                    <a title="London Walking Tours" href="/">
-                      <img alt="London Walking Tours" src="/wp-content/uploads/2015/05/insider-logo.png" />
-                    </a>
-                  </li>
-                  <li id="menu-item-33146" class="">
-                    <a href="/gift-vouchers/">Gift Vouchers</a>
-                  </li>
-                  <li id="menu-item-25486" class="">
-                    <a href="/special-occasions/">Occasions</a>
-                  </li>
-                  <li id="menu-item-25489" class="">
-                    <a href="/blog/">Blog</a>
-                  </li>
-                </ul>
-              </nav>
-            </div>
-          </div>
-        </div>
-      </header>
-    </div>
+
+      </div>
+      </div>
+      <ul id="menu-main-menu" class="site-nav__list site-nav__list--mobile">
+        <li class="site-nav__item">
+          <a class="site-nav__link site-nav__link--mobile" href="/">Home</a>
+        </li>
+        <li class="site-nav__item">
+          <a class="site-nav__link site-nav__link--mobile" href="/about-us/">About Us</a>
+        </li>
+        <li class="site-nav__item site-nav__item--parent">
+          <a class="site-nav__link site-nav__link--mobile" href="/product-category/tours/">Tours</a>
+        </li>
+        <li class="site-nav__item">
+          <a class="site-nav__link" href="/gift-vouchers/">Gift Vouchers</a>
+        </li>
+        <li class="site-nav__item">
+          <a class="site-nav__link site-nav__link--mobile" href="/special-occasions/">Occasions</a>
+        </li>
+        <li class="site-nav__item">
+          <a class="site-nav__link site-nav__link--mobile" href="/blog/">Blog</a>
+        </li>
+      </ul>
+    </nav>
+  </header>
+</div>

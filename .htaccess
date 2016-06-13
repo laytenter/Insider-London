@@ -78,6 +78,7 @@ RewriteCond %{REQUEST_URI} ^/[0-9]+/[0-9]+/[0-9]+
 RewriteRule ^[0-9]+/[0-9]+/[0-9]+/([^/]+)/?$ /$1 [R=301,L]
 
 RewriteCond %{REQUEST_URI} ^/blog/[0-9a-z\-]
+RewriteCond %{REQUEST_URI} !^blog/page
 RewriteRule ^blog/(.+) /$1 [R=301,L]
 
 RewriteCond %{THE_REQUEST} ^(GET|HEAD)\ /.+\.html\ HTTP
@@ -94,6 +95,8 @@ RewriteRule ^.+$ %{REQUEST_FILENAME}.html [R=301,L]
 Header set Connection keep-alive
 </ifModule>
 
+
+
 ErrorDocument 404 /404.html
 
 ExpiresActive On
@@ -104,6 +107,7 @@ ExpiresByType image/png "access plus 1 year"
 ExpiresByType text/css "access plus 1 month"
 ExpiresByType application/pdf "access plus 1 month"
 ExpiresByType application/javascript "access plus 1 month"
+ExpiresByType application/x-javascript "access plus 1 month"
 ExpiresByType application/x-shockwave-flash "access plus 1 month"
 ExpiresByType image/x-icon "access plus 1 year"
 ExpiresDefault "access plus 2 days"
