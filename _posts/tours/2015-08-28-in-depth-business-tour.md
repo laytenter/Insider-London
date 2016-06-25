@@ -1,5 +1,4 @@
 ---
-<<<<<<< HEAD
 id: 29344
 title: Educational In-depth Business Tour
 date: 2015-08-28T10:51:45+00:00
@@ -19,7 +18,6 @@ related:
 - 29334
 slug: in-depth-business-tour
 tags: []
-
 ---
 
 <p class="lede">London is home to some of the most powerful and important companies in the world as well as influential entrepreneurs and exciting start-ups and small businesses.</p>
