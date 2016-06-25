@@ -59,6 +59,8 @@ The tour runs weekly: November – March 2pm Saturday, April – Oct 2pm Saturda
 
 The London Street Art Tour may also be booked as a private tour at a time suitable for you and your party, <a href="/contact-us/">please send us an email to make an enquiry.</a>
 
+We can also arrange a Private Street Art Tour in French and Italian, please send us an <a href="/contact-us/">please send us an email</a> and we will arrange it for you
+
 **Where does the tour finish?**
 
 The tour finished at the old Truman Brewery, a short walk from Liverpool Street Station.

@@ -244,9 +244,7 @@ layout: page
                 <div class="vc_btn3-container vc_btn3-inline">
                   <a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-modern vc_btn3-color-grey"
 	     href="/special-occasions/"
-	     title=""
-	     target="_self"
-	>Read More</a>
+	     title="">Read More</a>
                 </div>
               </div>
             </div>
