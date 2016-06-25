@@ -1,39 +1,41 @@
 ---
-id: 24786
 title: 'London: Container Capital'
-date: 2015-02-20T10:30:57+00:00
+date: '2015-02-20 10:30:57'
+categories:
+- blog
+- East London
+- Green London
+- Other
+- Quirky, weird and bizarre London
+- Retail Store Design
+- Sustainable Architecture
+id: 24786
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=24786
-permalink: /london-container-capital/
+permalink: "/london-container-capital/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - East London
-  - Green London
-  - Other
-  - Quirky, weird and bizarre London
-  - Retail Store Design
-  - Sustainable Architecture
+- 
 tags:
-  - all over London
-  - Alternative London
-  - architecture
-  - boxpark
-  - container city
-  - containers
-  - Design
-  - green London
-  - Shoreditch
-  - Sustainable Architecture
-  - sustainable london
+- all over London
+- Alternative London
+- architecture
+- boxpark
+- container city
+- containers
+- Design
+- green London
+- Shoreditch
+- Sustainable Architecture
+- sustainable london
+slug: london-container-capital
+
 ---
 **London has really got on board with the potential for container architecture &#8211; that is, creating new structures from disused shipping containers. We explore the many ways they have been put to use around the capital&#8230;**
 

@@ -1,21 +1,23 @@
 ---
-id: 2214
 title: 'Future London: Tall towers and the City'
-date: 2012-11-05T12:53:40+00:00
+date: '2012-11-05 12:53:40'
+categories:
+- blog
+- Modern Architecture
+- Sustainable Architecture
+id: 2214
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=2214
-permalink: /london-skyscrapers-future-city-of-london-development/
-categories:
-  - blog
-  - Modern Architecture
-  - Sustainable Architecture
+permalink: "/london-skyscrapers-future-city-of-london-development/"
 tags:
-  - architecture
-  - Central London
-  - City of London
-  - London
-  - skyscrapers
+- architecture
+- Central London
+- City of London
+- London
+- skyscrapers
+slug: london-skyscrapers-future-city-of-london-development
+
 ---
 <p style="text-align: justify;">
   <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/11/london_skyscrapers_city_of_london.jpg"><img class="alignnone size-full wp-image-2378" src="http://www.insider-london.co.uk/wp-content/uploads/2012/11/london_skyscrapers_city_of_london.jpg" alt="" width="569" height="352" /></a>

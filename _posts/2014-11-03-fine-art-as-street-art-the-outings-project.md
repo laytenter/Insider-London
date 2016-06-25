@@ -1,27 +1,29 @@
 ---
-id: 23113
 title: 'Fine Art as Street Art: The Outings Project'
-date: 2014-11-03T09:00:36+00:00
+date: '2014-11-03 09:00:36'
+categories:
+- blog
+- London Street Art &amp; Graffiti
+id: 23113
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=23113
-permalink: /fine-art-as-street-art-the-outings-project/
+permalink: "/fine-art-as-street-art-the-outings-project/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - 'London Street Art &amp; Graffiti'
+- 
 tags:
-  - Alternative London
-  - 'london street art &amp; Graffiti'
-  - London street art walking tours
-  - Street Art
+- Alternative London
+- london street art &amp; Graffiti
+- London street art walking tours
+- Street Art
+slug: fine-art-as-street-art-the-outings-project
+
 ---
 [<img class="aligncenter wp-image-23049 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/10/Buxton-Street-London-street-art.jpg" alt="Buxton Street London street art walking tour" width="569" height="380" />](http://www.insider-london.co.uk/wp-content/uploads/2014/10/Buxton-Street-London-street-art.jpg)
 

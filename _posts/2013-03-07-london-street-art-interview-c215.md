@@ -1,21 +1,23 @@
 ---
+title: London Street Art &#8211; C215 interview
+date: '2013-03-07 11:59:19'
+categories:
+- blog
+- East London
+- London Street Art &amp; Graffiti
 id: 25430
-title: 'London Street Art &#8211; C215 interview'
-date: 2013-03-07T11:59:19+00:00
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=4104
-permalink: /london-street-art-interview-c215/
-categories:
-  - blog
-  - East London
-  - 'London Street Art &amp; Graffiti'
+permalink: "/london-street-art-interview-c215/"
 tags:
-  - C215
-  - Eastend street art
-  - Insider London
-  - Street Art
-  - walking tours
+- C215
+- Eastend street art
+- Insider London
+- Street Art
+- walking tours
+slug: london-street-art-interview-c215
+
 ---
 ###### [Alternative walking tours](http://www.insider-london.co.uk/ "Insider London walking tours") > [Walking tour blog](http://www.insider-london.co.uk/blog/ "Insider London blog") > Eastend street art interview
 

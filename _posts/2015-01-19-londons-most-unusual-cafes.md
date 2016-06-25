@@ -1,31 +1,33 @@
 ---
+title: London&#8217;s most unusual cafes
+date: '2015-01-19 10:30:06'
+categories:
+- blog
+- Food and drink
+- Quirky, weird and bizarre London
 id: 24495
-title: 'London&#8217;s most unusual cafes'
-date: 2015-01-19T10:30:06+00:00
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=24495
-permalink: /londons-most-unusual-cafes/
+permalink: "/londons-most-unusual-cafes/"
 s4_cdes:
-  - 
+- 
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
-categories:
-  - blog
-  - Food and drink
-  - Quirky, weird and bizarre London
+- 
 tags:
-  - Alternative London
-  - arty
-  - coffee houses
-  - creative space
-  - london cafes
-  - Quirky
-  - Shoreditch
+- Alternative London
+- arty
+- coffee houses
+- creative space
+- london cafes
+- Quirky
+- Shoreditch
+slug: londons-most-unusual-cafes
+
 ---
 [<img class="aligncenter size-full wp-image-24499" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/coffee-569.jpg" alt="coffee " width="569" height="569" />](http://www.insider-london.co.uk/wp-content/uploads/2015/01/coffee-569.jpg)
 

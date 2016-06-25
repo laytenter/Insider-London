@@ -1,10 +1,13 @@
 ---
 title: London in the Rain - What to do when the weather is bad
-date: 2016-03-08T20:37:24+00:00
-layout: post
-permalink: /london-in-the-rain-what-to-do-when-the-weather-is-bad/
+date: '2016-03-08 20:37:24'
 categories:
-  - blog
+- blog
+layout: post
+permalink: "/london-in-the-rain-what-to-do-when-the-weather-is-bad/"
+slug: london-in-the-rain-what-to-do-when-the-weather-is-bad
+tags: []
+
 ---
 Sunshine in London has the power to turn your day around, put a spring in your step and generally bring to light that secret optimism and joie de vivre that’s usually reserved for the Spring. However, Londoners are not always so lucky and have had to find ways to entertain themselves come rain or shine. So, when the days get colder and the rain starts to pour, you’ll find there’s still plenty to see and do. If you don’t believe it, let us give you a few tips on things to do in London when it’s raining.
 

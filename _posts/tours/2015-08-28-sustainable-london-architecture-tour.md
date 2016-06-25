@@ -1,7 +1,10 @@
 ---
-id: 29342
 title: Sustainable Architecture Tour
-date: 2013-01-01T10:50:40+00:00
+date: '2013-01-01 10:50:40'
+categories:
+- tours
+- educational
+id: 29342
 author: london75
 layout: tour
 permalink: /product/sustainable-london-architecture-tour/
@@ -11,7 +14,13 @@ thumb: sust_arch_1-420x287.jpg
 banner: sust_arch_1-772x528.jpg
 hidden: true
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9931.050500110114!2d-0.08465288890512945!3d51.51757078640498!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761cb289478319%3A0x419c4e2d44fdcfbe!2sAndaz+Liverpool+Street+London!5e0!3m2!1sen!2s!4v1431589113623
-related: [29338,29340,29332]
+related:
+- 29338
+- 29340
+- 29332
+slug: sustainable-london-architecture-tour
+tags: []
+
 ---
 <p class="lede">Sustainable Architecture London – Alternative London Walking Tour</p>
 

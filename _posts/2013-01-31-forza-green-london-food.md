@@ -1,26 +1,28 @@
 ---
-id: 4007
 title: Forza Win(ter)
-date: 2013-01-31T10:56:53+00:00
+date: '2013-01-31 10:56:53'
+categories:
+- blog
+- East London
+- Green London
+- London Pubs and nights out
+id: 4007
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=4007
-permalink: /forza-green-london-food/
-categories:
-  - blog
-  - East London
-  - Green London
-  - London Pubs and nights out
+permalink: "/forza-green-london-food/"
 tags:
-  - Fonduza
-  - Forza Win
-  - Forza Win(ter)
-  - Oval Space
-  - pizza
-  - pop-up
-  - pop-up restaurant
-  - rooftop dining
-  - supper club
+- Fonduza
+- Forza Win
+- Forza Win(ter)
+- Oval Space
+- pizza
+- pop-up
+- pop-up restaurant
+- rooftop dining
+- supper club
+slug: forza-green-london-food
+
 ---
 **So it&#8217;s definitely really cold outside at the moment. And I don&#8217;t know about you, but I can&#8217;t say I&#8217;ve been out raving much of late, due to a strong desire to just sit in bed and do absolutely nothing. What I _have_ done, however, is sit on a rooftop for several hours, at night, having dinner.** **Not as barmy as it sounds, my friends: for this was a night at Forza Win(ter), and it was a rooftop full of hot cocktails, blankets, music, incredible food, a whole load of very happy, chatting (and singing) people and, most importantly- big-ass heaters.**
 

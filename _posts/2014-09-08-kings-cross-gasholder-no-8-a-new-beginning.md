@@ -1,37 +1,39 @@
 ---
-id: 21271
 title: 'King&#8217;s Cross Gasholder No.8: A New Beginning'
-date: 2014-09-08T11:30:42+00:00
+date: '2014-09-08 11:30:42'
+categories:
+- blog
+- Kings Cross regeneration
+- Modern Architecture
+- Other
+- Quirky, weird and bizarre London
+- Sustainable Architecture
+id: 21271
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=21271
-permalink: /kings-cross-gasholder-no-8-a-new-beginning/
+permalink: "/kings-cross-gasholder-no-8-a-new-beginning/"
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_url2s:
-  - 
-categories:
-  - blog
-  - Kings Cross regeneration
-  - Modern Architecture
-  - Other
-  - Quirky, weird and bizarre London
-  - Sustainable Architecture
+- 
 tags:
-  - Design
-  - heritage
-  - industrial architecture
-  - Kings Cross Central
-  - Kings Cross Regeneration
-  - modern architecture
-  - parks
-  - parks in london
-  - Regents Canal
-  - Sustainable Architecture
+- Design
+- heritage
+- industrial architecture
+- Kings Cross Central
+- Kings Cross Regeneration
+- modern architecture
+- parks
+- parks in london
+- Regents Canal
+- Sustainable Architecture
+slug: kings-cross-gasholder-no-8-a-new-beginning
+
 ---
 Towering over Kings Cross and the Regents Canal like a giant metal behemoth is the grade II listed Gasholder No.8. a relic of Kings Cross’ industrial past that, like much of the area’s heritage, is being salvaged, reused and given a new lease of life as part of the Kings Cross Regeneration.
 

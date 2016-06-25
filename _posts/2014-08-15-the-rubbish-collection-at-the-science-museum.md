@@ -1,27 +1,29 @@
 ---
-id: 15818
 title: The Rubbish Collection at the Science Museum
-date: 2014-08-15T11:30:48+00:00
+date: '2014-08-15 11:30:48'
+categories:
+- blog
+- Green London
+- Quirky, weird and bizarre London
+id: 15818
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=15818
-permalink: /the-rubbish-collection-at-the-science-museum/
+permalink: "/the-rubbish-collection-at-the-science-museum/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - Green London
-  - Quirky, weird and bizarre London
+- 
 tags:
-  - green London
-  - recycling
-  - sustainable london
+- green London
+- recycling
+- sustainable london
+slug: the-rubbish-collection-at-the-science-museum
+
 ---
 [<img class="aligncenter size-full wp-image-15833" src="http://www.insider-london.co.uk/wp-content/uploads/2014/07/The_Rubbish_Collection_at_the_Science_Museum_C_Katherine_Lee-dale_mini.jpg" alt="The_Rubbish_Collection_at_the_Science_Museum_C_Katherine_Lee dale_mini" width="569" height="379" />](http://www.insider-london.co.uk/wp-content/uploads/2014/07/The_Rubbish_Collection_at_the_Science_Museum_C_Katherine_Lee-dale_mini.jpg)
 

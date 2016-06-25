@@ -1,32 +1,34 @@
 ---
-id: 23020
 title: The Next Generation of London Underground Trains
-date: 2014-10-17T10:30:15+00:00
+date: '2014-10-17 10:30:15'
+categories:
+- blog
+- London Underground/Tube
+- Modern Architecture
+- Other
+id: 23020
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=23020
-permalink: /the-next-generation-of-london-underground-trains/
+permalink: "/the-next-generation-of-london-underground-trains/"
 s4_cdes:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_url2s:
-  - 
-categories:
-  - blog
-  - London Underground/Tube
-  - Modern Architecture
-  - Other
+- 
 tags:
-  - driverless
-  - infrastructure
-  - London Underground
-  - Modern
-  - Priestmangoode
-  - Trains
-  - Tube
+- driverless
+- infrastructure
+- London Underground
+- Modern
+- Priestmangoode
+- Trains
+- Tube
+slug: the-next-generation-of-london-underground-trains
+
 ---
 <img class="aligncenter size-full wp-image-23031" src="http://www.insider-london.co.uk/wp-content/uploads/2014/10/NewTubeforLondon_OnPlatform1.jpg" alt="London Underground Train Frontage" width="569" height="380" />
 

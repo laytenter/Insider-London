@@ -1,34 +1,36 @@
 ---
-id: 21294
 title: 'You may have missed: August on the Insider London blog'
-date: 2014-09-12T11:30:48+00:00
+date: '2014-09-12 11:30:48'
+categories:
+- blog
+- East London
+- Kings Cross regeneration
+- London Street Art &amp; Graffiti
+- Other
+- Quirky, weird and bizarre London
+id: 21294
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=21294
-permalink: /august-on-the-insider-london-blog/
+permalink: "/august-on-the-insider-london-blog/"
 s4_cdes:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_url2s:
-  - 
-categories:
-  - blog
-  - East London
-  - Kings Cross regeneration
-  - 'London Street Art &amp; Graffiti'
-  - Other
-  - Quirky, weird and bizarre London
+- 
 tags:
-  - all over London
-  - Alternative London
-  - architecture
-  - Kings Cross Regeneration
-  - maps
-  - Regents Canal
-  - street art and graffiti
+- all over London
+- Alternative London
+- architecture
+- Kings Cross Regeneration
+- maps
+- Regents Canal
+- street art and graffiti
+slug: august-on-the-insider-london-blog
+
 ---
 Well, we&#8217;re not quite sure how it happened but apparently it&#8217;s already September. We&#8217;ve bought ourselves a new notebook and pencil in readiness for the excitement of autumn in London but, before we start with that, let&#8217;s celebrate some of the best bits of August.
 

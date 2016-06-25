@@ -1,25 +1,27 @@
 ---
-title: ﻿Art on every Corner
-date: 2016-04-14T19:47:24
-layout: post
-permalink: /art-on-every-corner/
+title: "\uFEFFArt on every Corner"
+date: '2016-04-14 19:47:24'
 categories:
-  - blog
----
+- blog
+layout: post
+permalink: "/art-on-every-corner/"
+slug: art-on-every-corner
+tags: []
 
+---
 Explore London’s vibrant street art scene, catch a glimpse of some of these hidden treasures and discover some new works
 
 Street art became popular in the 1990s, after graffiti art became a phenomenon and now you’ll see new works popping up on every street corner of London. Like Berlin, São Paulo and Melbourne, London has made a name for itself as a city which celebrates this form of public art and a place where emerging artists become international superstars.
 
-<p><img src="/images/street-art-walk-770.jpg" alt="Three cool girls posing in front of some street art" /></p>
+<p><img src="{{ site.baseurl }}/images/street-art-walk-770.jpg" alt="Three cool girls posing in front of some street art" /></p>
 
 The East London area has perhaps the most street and graffiti art per square mile compared to the rest of London. First stop is Heneage Street in Shoreditch just off Brick Lane. Here you’ll find an enormous wall mural by Sheffield based street artist Phlegm. His work is characterised by an illustrative style and stylised narratives that overflow from his black and white self-produced comics. Phlegm’s street art is dotted all across the city - find out later where you can spot another one of his famous works! Walk towards Shoreditch High Street Overground and discover a piece of work by LA  based artist El Mac at Hewett Street. Known for his photo realistic murals, El Mac’s astonishing wall mural features a very handsome cowboy sporting a Stetson and a handlebar moustache.  
 
-<p><img src="/images/street-art-1-770.jpg" alt="A piece of David Bowie inspired street art?" /></p>
+<p><img src="{{ site.baseurl }}/images/street-art-1-770.jpg" alt="A piece of David Bowie inspired street art?" /></p>
 
 Stay in the Shoreditch area, look up and we guarantee you won’t miss the invasions. These invasions are by French artist Invader who since 1998 has been developing a large-scale project, Space Invaders. The invasions you see in London are normally composed of square ceramic tiles inspired by video game characters. This project is about liberating Art from the confines of institutions such as galleries and museums, and also freeing the Space Invaders from the virtual into the physical. Take a walk down to Old Street and you’ll be sure to spot more invasions along your way.
 
-<p><img src="/images/street-art-2-770.jpg" alt="A dragon inspired piece of street art" /></p>
+<p><img src="{{ site.baseurl }}/images/street-art-2-770.jpg" alt="A dragon inspired piece of street art" /></p>
 
 Next stop, Hackney Road in Hoxton, where you’ll see some of the work of Belgian artist ROA, his work is some of the most recognisable street art in London. ROA generally paints black and white animals, and they always interact in some way to the environment around them. Here you’ll see his famous giant rabbit which stands at 12-feet-tall. Hackney Council once threatened to remove this artwork but luckily after there were petitions to save it, they withdrew their complaint. Down the road you will also spot another of ROA’s works (and if you would like to discover more of his other famous critters, try our [Street Art Walking Tour](/product/street-art)).
 

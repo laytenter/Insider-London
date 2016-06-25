@@ -1,23 +1,25 @@
 ---
-id: 15083
 title: 'Street Art Picture of the Week: Cranio, Rivington Street, Shoreditch'
-date: 2014-06-25T11:30:04+00:00
+date: '2014-06-25 11:30:04'
+categories:
+- blog
+- East London
+- London Street Art &amp; Graffiti
+- Other
+id: 15083
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=15083
-permalink: /cranio-street-art-rivington-street-shoreditch/
-categories:
-  - blog
-  - East London
-  - 'London Street Art &amp; Graffiti'
-  - Other
+permalink: "/cranio-street-art-rivington-street-shoreditch/"
 tags:
-  - Alternative London
-  - cranio
-  - East London
-  - East London street art
-  - London Street art
-  - London walking tours
+- Alternative London
+- cranio
+- East London
+- East London street art
+- London Street art
+- London walking tours
+slug: cranio-street-art-rivington-street-shoreditch
+
 ---
 [<img class="size-full wp-image-15085 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/06/Cranio.jpg" alt="Cranio London street art" width="569" height="759" />](http://www.insider-london.co.uk/wp-content/uploads/2014/06/Cranio.jpg)
   

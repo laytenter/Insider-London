@@ -1,32 +1,34 @@
 ---
-id: 24468
 title: 'Street Art Pictures of the Week: The Paint Brush'
-date: 2015-01-14T10:30:28+00:00
+date: '2015-01-14 10:30:28'
+categories:
+- blog
+- East London
+- London Street Art &amp; Graffiti
+id: 24468
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=24468
-permalink: /street-art-pictures-of-the-week-the-paint-brush/
+permalink: "/street-art-pictures-of-the-week-the-paint-brush/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - East London
-  - 'London Street Art &amp; Graffiti'
+- 
 tags:
-  - alex diaz
-  - ALO
-  - East London
-  - East London street art
-  - 'london street art &amp; Graffiti'
-  - phlegm
-  - street art and graffiti
-  - street art picture of the week
+- alex diaz
+- ALO
+- East London
+- East London street art
+- london street art &amp; Graffiti
+- phlegm
+- street art and graffiti
+- street art picture of the week
+slug: street-art-pictures-of-the-week-the-paint-brush
+
 ---
 <img class="aligncenter wp-image-24470 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/17a_mini.jpg" alt="London street art and graffiti walking tours" width="569" height="759" />
 

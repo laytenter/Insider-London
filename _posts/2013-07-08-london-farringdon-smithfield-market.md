@@ -1,21 +1,23 @@
 ---
+title: Have a butcher&#8217;s at Smithfield Market
+date: '2013-07-08 11:37:02'
+categories:
+- blog
+- Quirky, weird and bizarre London
 id: 1517
-title: 'Have a butcher&#8217;s at Smithfield Market'
-date: 2013-07-08T11:37:02+00:00
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=1517
-permalink: /london-farringdon-smithfield-market/
-categories:
-  - blog
-  - Quirky, weird and bizarre London
+permalink: "/london-farringdon-smithfield-market/"
 tags:
-  - Alternative London
-  - butchers
-  - fabric
-  - farringdon
-  - quirky london
-  - smithfield market
+- Alternative London
+- butchers
+- fabric
+- farringdon
+- quirky london
+- smithfield market
+slug: london-farringdon-smithfield-market
+
 ---
 ## [<img class="aligncenter size-full wp-image-1519" alt="Smithfield" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/Smithfield-2.jpg" width="565" height="430" />](http://www.insider-london.co.uk/wp-content/uploads/2012/08/Smithfield-2.jpg)
 

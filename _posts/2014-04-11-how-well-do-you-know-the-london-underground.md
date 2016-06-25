@@ -1,25 +1,27 @@
 ---
-id: 13939
 title: How well do you know the London Underground?
-date: 2014-04-11T10:00:01+00:00
+date: '2014-04-11 10:00:01'
+categories:
+- blog
+- London Underground/Tube
+id: 13939
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=13939
-permalink: /how-well-do-you-know-the-london-underground/
-categories:
-  - blog
-  - London Underground/Tube
+permalink: "/how-well-do-you-know-the-london-underground/"
 tags:
-  - central
-  - circle
-  - infographic
-  - jubilee
-  - line
-  - London
-  - TFL
-  - Tube
-  - Underground
-  - waterloo
+- central
+- circle
+- infographic
+- jubilee
+- line
+- London
+- TFL
+- Tube
+- Underground
+- waterloo
+slug: how-well-do-you-know-the-london-underground
+
 ---
 Since the grand opening of the Metropolitan Railway back in 1863, the Tube has been a constant source of interest and intrigue for both Londoners and the many tourists that flock to the capital each year. As one of the most iconic modes of transport in the world, the London Underground is impressive not only for its rich and eventful history, but also for the sheer size of the network.
 

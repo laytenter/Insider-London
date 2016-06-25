@@ -1,19 +1,21 @@
 ---
-id: 25428
 title: The View from the Shard
-date: 2013-01-25T17:35:49+00:00
+date: '2013-01-25 17:35:49'
+categories:
+- blog
+- Modern Architecture
+id: 25428
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=3931
-permalink: /shard-view-london-tours/
-categories:
-  - blog
-  - Modern Architecture
+permalink: "/shard-view-london-tours/"
 tags:
-  - london skyline
-  - skyscrapers
-  - the shard
-  - View from the Shard
+- london skyline
+- skyscrapers
+- the shard
+- View from the Shard
+slug: shard-view-london-tours
+
 ---
 <figure id="attachment_3934" style="width: 569px" class="wp-caption aligncenter"><a href="http://www.insider-london.co.uk/blog/2013/01/25/shard-view-london-tours/shard3/" rel="attachment wp-att-3934"><img class="size-full wp-image-3934 " alt="View from the Shard, London" src="http://www.insider-london.co.uk/wp-content/uploads/2013/01/Shard3.jpg" width="569" height="379" /></a><figcaption class="wp-caption-text">I can see the sea! Can I? No probably not. </figcaption></figure> 
 

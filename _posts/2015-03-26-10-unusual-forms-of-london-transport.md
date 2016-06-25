@@ -1,40 +1,42 @@
 ---
-id: 24977
 title: 10 Unusual Forms of London Transport
-date: 2015-03-26T10:30:12+00:00
+date: '2015-03-26 10:30:12'
+categories:
+- blog
+- East London
+- London Underground/Tube
+- Modern Architecture
+- Other
+- Quirky, weird and bizarre London
+id: 24977
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=24977
-permalink: /10-unusual-forms-of-london-transport/
+permalink: "/10-unusual-forms-of-london-transport/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
+- 
 slide_template:
-  - default
-categories:
-  - blog
-  - East London
-  - London Underground/Tube
-  - Modern Architecture
-  - Other
-  - Quirky, weird and bizarre London
+- default
 tags:
-  - Greenwich Cable Car
-  - London
-  - London buses
-  - London Transport
-  - London Underground
-  - Tower Bridge
-  - Tower Subway
-  - Trams
-  - transport
-  - victorian london
-  - Woolwich Ferry
+- Greenwich Cable Car
+- London
+- London buses
+- London Transport
+- London Underground
+- Tower Bridge
+- Tower Subway
+- Trams
+- transport
+- victorian london
+- Woolwich Ferry
+slug: 10-unusual-forms-of-london-transport
+
 ---
 <p style="text-align: center;">
   <img class="aligncenter size-full wp-image-25011" src="http://www.insider-london.co.uk/wp-content/uploads/2015/03/9668878082_fe5232169e_z.jpg" alt="London Underground" width="569" height="407" />

@@ -1,36 +1,38 @@
 ---
-id: 23558
 title: 'Street Art Pictures of the Week: The Art of the Homage'
-date: 2014-12-10T10:30:56+00:00
+date: '2014-12-10 10:30:56'
+categories:
+- blog
+- London Street Art &amp; Graffiti
+- Other
+id: 23558
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=23558
-permalink: /street-art-pictures-of-the-week-the-art-of-the-homage/
+permalink: "/street-art-pictures-of-the-week-the-art-of-the-homage/"
 s4_cdes:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_url2s:
-  - 
-categories:
-  - blog
-  - 'London Street Art &amp; Graffiti'
-  - Other
+- 
 tags:
-  - allen gardens
-  - Alternative London
-  - Brick Lane
-  - DSCreet
-  - East London
-  - East London street art
-  - grimsby street
-  - king robbo
-  - London Street art
-  - 'london street art &amp; Graffiti'
-  - Shoreditch
-  - street art picture of the week
+- allen gardens
+- Alternative London
+- Brick Lane
+- DSCreet
+- East London
+- East London street art
+- grimsby street
+- king robbo
+- London Street art
+- london street art &amp; Graffiti
+- Shoreditch
+- street art picture of the week
+slug: street-art-pictures-of-the-week-the-art-of-the-homage
+
 ---
 <img class="aligncenter wp-image-23561 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/12/13b_mini.jpg" alt="street art Grimsby street" width="569" height="427" />
 

@@ -1,31 +1,33 @@
 ---
+title: Go crazy golf crazy at Shoreditch&#8217;s new Swingers
+date: '2014-09-05 11:30:25'
+categories:
+- blog
+- East London
+- London Pubs and nights out
+- Quirky, weird and bizarre London
 id: 21284
-title: 'Go crazy golf crazy at Shoreditch&#8217;s new Swingers'
-date: 2014-09-05T11:30:25+00:00
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=21284
-permalink: /swingers-crazy-golf-shoreditch/
+permalink: "/swingers-crazy-golf-shoreditch/"
 s4_cdes:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_url2s:
-  - 
-categories:
-  - blog
-  - East London
-  - London Pubs and nights out
-  - Quirky, weird and bizarre London
+- 
 tags:
-  - Alternative London
-  - East London
-  - pop-up
-  - quirky london
-  - Shoreditch
-  - street food
+- Alternative London
+- East London
+- pop-up
+- quirky london
+- Shoreditch
+- street food
+slug: swingers-crazy-golf-shoreditch
+
 ---
 [<img class="aligncenter wp-image-21287 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/Swingers-course-illustration1.jpg" alt="Swingers crazy golf shoreditch" width="569" height="403" />](http://www.insider-london.co.uk/wp-content/uploads/2014/09/Swingers-course-illustration1.jpg)
 

@@ -1,41 +1,43 @@
 ---
-id: 24432
 title: 'Insider London: Best of 2014 on the blog'
-date: 2015-01-05T10:30:09+00:00
+date: '2015-01-05 10:30:09'
+categories:
+- blog
+- East London
+- Food and drink
+- Green London
+- Kings Cross regeneration
+- London Street Art &amp; Graffiti
+- London Underground/Tube
+- Modern Architecture
+- Quirky, weird and bizarre London
+- Sustainable Architecture
+id: 24432
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=24432
-permalink: /insider-london-best-of-2014-on-the-blog/
+permalink: "/insider-london-best-of-2014-on-the-blog/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - East London
-  - Food and drink
-  - Green London
-  - Kings Cross regeneration
-  - 'London Street Art &amp; Graffiti'
-  - London Underground/Tube
-  - Modern Architecture
-  - Quirky, weird and bizarre London
-  - Sustainable Architecture
+- 
 tags:
-  - all over London
-  - Alternative London
-  - architecture
-  - Central London
-  - East London
-  - green London
-  - Insider London
-  - 'london street art &amp; Graffiti'
-  - London Underground
-  - Old Street Roundabout
+- all over London
+- Alternative London
+- architecture
+- Central London
+- East London
+- green London
+- Insider London
+- london street art &amp; Graffiti
+- London Underground
+- Old Street Roundabout
+slug: insider-london-best-of-2014-on-the-blog
+
 ---
 Happy new year from Insider London! Before we plunge straight into another year of bringing you the finest London finds and facts, let&#8217;s look back over some of our favourite posts of last year.
 

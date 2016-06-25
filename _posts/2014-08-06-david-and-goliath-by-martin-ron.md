@@ -1,29 +1,31 @@
 ---
-id: 15893
 title: 'Street Art Picture of the Week: David and Goliath by Martin Ron'
-date: 2014-08-06T11:30:42+00:00
+date: '2014-08-06 11:30:42'
+categories:
+- blog
+- London Street Art &amp; Graffiti
+id: 15893
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=15893
-permalink: /david-and-goliath-by-martin-ron/
+permalink: "/david-and-goliath-by-martin-ron/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - 'London Street Art &amp; Graffiti'
+- 
 tags:
-  - East London street art
-  - Shoreditch
-  - Street Art
-  - street art and graffiti
-  - street art picture of the week
-  - Village Underground
+- East London street art
+- Shoreditch
+- Street Art
+- street art and graffiti
+- street art picture of the week
+- Village Underground
+slug: david-and-goliath-by-martin-ron
+
 ---
 [<img class="size-full wp-image-15895 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/08/MartinRonBadger.jpg" alt="Martin Ron Badger Street Art London" width="569" height="380" />](http://www.insider-london.co.uk/wp-content/uploads/2014/08/MartinRonBadger.jpg)
   

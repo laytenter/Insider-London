@@ -1,18 +1,20 @@
 ---
-id: 32471
 title: Ghosts, Murders and Halloween
-date: 2015-10-23T10:48:11+00:00
+date: '2015-10-23 10:48:11'
+categories:
+- blog
+id: 32471
 layout: post
 guid: http://www.insider-london.co.uk/?p=32471
-permalink: /ghosts-murders-and-halloween/
+permalink: "/ghosts-murders-and-halloween/"
 slide_template:
-  - default
-categories:
-  - blog
+- default
 tags:
-  - ghosts
-  - Halloween
-  - Halloween special
+- ghosts
+- Halloween
+- Halloween special
+slug: ghosts-murders-and-halloween
+
 ---
 With Autumn now upon us and Halloween soon approaching, it is only appropriate to feel a pull towards the subject of the supernatural. A walking tour of London which highlights some of the lesser-known hauntings may be just the ticket?
 

@@ -1,20 +1,22 @@
 ---
+title: East London street art &#8211; RAE exhibition @ Signal Gallery
+date: '2013-02-05 14:16:26'
+categories:
+- blog
+- East London
+- London Street Art &amp; Graffiti
 id: 4188
-title: 'East London street art &#8211; RAE exhibition @ Signal Gallery'
-date: 2013-02-05T14:16:26+00:00
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=4188
-permalink: /london-street-art-rae-signal-gallery/
-categories:
-  - blog
-  - East London
-  - 'London Street Art &amp; Graffiti'
+permalink: "/london-street-art-rae-signal-gallery/"
 tags:
-  - East London street art
-  - RAE
-  - Signal Gallery
-  - walking tours
+- East London street art
+- RAE
+- Signal Gallery
+- walking tours
+slug: london-street-art-rae-signal-gallery
+
 ---
 ###### **[Alternative walking tours](http://www.insider-london.co.uk/ "Insider London alternative walking tours") > [Tour Blog](http://www.insider-london.co.uk/blog/ "Insider London tours blog") > RAE exhibition**
 

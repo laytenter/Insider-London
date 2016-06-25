@@ -1,17 +1,19 @@
 ---
-id: 760
 title: Boxpark Unstacked
-date: 2012-07-15T14:06:30+00:00
+date: '2012-07-15 14:06:30'
+categories:
+- blog
+- Green London
+id: 760
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=760
-permalink: /boxpark-unstacked/
-categories:
-  - blog
-  - Green London
+permalink: "/boxpark-unstacked/"
 tags:
-  - East London
-  - shopping
+- East London
+- shopping
+slug: boxpark-unstacked
+
 ---
 <div>
   <p style="text-align: left">

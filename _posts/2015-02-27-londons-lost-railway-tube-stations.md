@@ -1,38 +1,40 @@
 ---
+title: London&#8217;s Lost Railway &#038; Tube Stations
+date: '2015-02-27 10:30:00'
+categories:
+- blog
+- East London
+- London Underground/Tube
+- Quirky, weird and bizarre London
 id: 24819
-title: 'London&#8217;s Lost Railway &#038; Tube Stations'
-date: 2015-02-27T10:30:00+00:00
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=24819
-permalink: /londons-lost-railway-tube-stations/
+permalink: "/londons-lost-railway-tube-stations/"
 s4_url2s:
-  -
+- 
 s4_image2s:
-  -
+- 
 s4_ctitle:
-  -
+- 
 s4_cdes:
-  -
-categories:
-  - blog
-  - East London
-  - London Underground/Tube
-  - Quirky, weird and bizarre London
+- 
 tags:
-  - City of London
-  - Closed Stations
-  - Derelict Stations
-  - London
-  - London Overground
-  - London Underground
-  - National Rail
-  - Railway
-  - railway station
-  - Railways
-  - Regeneration
-  - Shoredtich
-  - Tube
+- City of London
+- Closed Stations
+- Derelict Stations
+- London
+- London Overground
+- London Underground
+- National Rail
+- Railway
+- railway station
+- Railways
+- Regeneration
+- Shoredtich
+- Tube
+slug: londons-lost-railway-tube-stations
+
 ---
 <img class="aligncenter size-full wp-image-24823" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/6071146957_f865da969c_z.jpg" alt="6071146957_f865da969c_z" width="569" height="427" />
 

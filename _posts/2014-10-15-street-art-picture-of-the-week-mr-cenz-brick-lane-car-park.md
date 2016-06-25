@@ -1,29 +1,31 @@
 ---
-id: 23003
 title: 'Street Art Picture of the Week: Mr Cenz, Brick Lane car park'
-date: 2014-10-15T10:30:03+00:00
+date: '2014-10-15 10:30:03'
+categories:
+- blog
+- East London
+- London Street Art &amp; Graffiti
+id: 23003
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=23003
-permalink: /street-art-picture-of-the-week-mr-cenz-brick-lane-car-park/
+permalink: "/street-art-picture-of-the-week-mr-cenz-brick-lane-car-park/"
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
+- 
 s4_url2s:
-  - 
-categories:
-  - blog
-  - East London
-  - 'London Street Art &amp; Graffiti'
+- 
 tags:
-  - East London
-  - East London street art
-  - London Street art
-  - street art and graffiti
-  - street art picture of the week
+- East London
+- East London street art
+- London Street art
+- street art and graffiti
+- street art picture of the week
+slug: street-art-picture-of-the-week-mr-cenz-brick-lane-car-park
+
 ---
 <p style="text-align: center;">
   <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/10/Mr-Cenz-London-street-art_mini.jpg"><img class="aligncenter wp-image-23005 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/10/Mr-Cenz-London-street-art_mini.jpg" alt="mr cenz street art walking tours london" width="569" height="363" /></a><br /> Image credit: <a href="https://www.flickr.com/photos/levien66/15518124352/in/photolist-pBQ3KA-pDRNxa-pmX8HG-pDhrJ9-pmQ8s2-pDjuCV-pmPk2j-pDht4J-pCEXsP-pkCvMV-pC9rwa-pkvexd-pzubW7-pBvxiK-pjRNRT-pBjivd-pziuvs-pizakP-pi6EsK-pyLHxN-pxSEcc-pv4A5f-pfs6hU-peN7Wv-pw7NHp-pumV1o-peUgvJ-pwj3X8-pwhfLu-pe39yA-pdqx2e-psoY1u-pcZzeP-pcXoZV-puaggx-pu214W-pcyAe4-pcytQT-ptLgrP-pcyBXK-pcxxfn-pcxVaq-ptn9C8-pt1jkn-ptg2Zh-pt1pGp-pbNi1W-pcymMe-ptL7TX-pu1Jf1" target="_blank">RHL Images</a>

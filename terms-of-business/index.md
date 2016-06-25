@@ -1,14 +1,15 @@
 ---
-id: 4194
 title: Terms of Business
-date: 2015-05-07T10:43:32+00:00
+date: '2015-05-07 10:43:32'
+id: 4194
 author: london75
 layout: page
-guid: /?page_id=4194
+guid: "/?page_id=4194"
 slide_template:
-  - default
+- default
 vc_teaser:
-  - 'a:2:{s:4:"data";s:115:"[{"name":"title","link":"post"},{"name":"image","image":"featured","link":"none"},{"name":"text","mode":"excerpt"}]";s:7:"bgcolor";s:0:"";}'
+- a:2:{s:4:"data";s:115:"[{"name":"title","link":"post"},{"name":"image","image":"featured","link":"none"},{"name":"text","mode":"excerpt"}]";s:7:"bgcolor";s:0:"";}
+
 ---
 <section class="wpb\_row block vc\_row-fluid">
 

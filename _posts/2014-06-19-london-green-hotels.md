@@ -1,20 +1,22 @@
 ---
-id: 15046
 title: How Green Is Your Hotel? Inside 5 London Hotels
-date: 2014-06-19T11:00:26+00:00
+date: '2014-06-19 11:00:26'
+categories:
+- blog
+- Green London
+- Other
+- Sustainable Architecture
+id: 15046
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=15046
-permalink: /london-green-hotels/
-categories:
-  - blog
-  - Green London
-  - Other
-  - Sustainable Architecture
+permalink: "/london-green-hotels/"
 tags:
-  - architecture
-  - green London
-  - sustainable london
+- architecture
+- green London
+- sustainable london
+slug: london-green-hotels
+
 ---
 The sun is shining and we&#8217;re daydreaming about holidays, but we&#8217;re still thinking about <a href="http://www.insider-london.co.uk/2014/06/13/what-is-sustainable-architecture/" target="_blank">sustainable architecture</a>. Not in the office or the home this time, but on holiday and, more specifically, in hotels. Many of the luxuries that are enjoyable part of a hotel stay are, by their nature, wasteful, so hotels have to address the sustainability question in alternative ways. Just look at these five very different &#8216;green&#8217; London hotels, and see how they compare.
 

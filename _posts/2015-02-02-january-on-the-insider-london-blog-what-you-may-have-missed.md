@@ -1,35 +1,37 @@
 ---
-id: 24627
 title: 'January on the Insider London blog: What You May Have Missed'
-date: 2015-02-02T10:30:22+00:00
+date: '2015-02-02 10:30:22'
+categories:
+- blog
+- Food and drink
+- Green London
+- London Street Art &amp; Graffiti
+- Sustainable Architecture
+id: 24627
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=24627
-permalink: /january-on-the-insider-london-blog-what-you-may-have-missed/
+permalink: "/january-on-the-insider-london-blog-what-you-may-have-missed/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - Food and drink
-  - Green London
-  - 'London Street Art &amp; Graffiti'
-  - Sustainable Architecture
+- 
 tags:
-  - alternative London walking tours
-  - architecture
-  - Cafes
-  - Central London
-  - green London
-  - 'london street art &amp; Graffiti'
-  - skyscrapers
-  - Sustainable Architecture
-  - sustainable london
+- alternative London walking tours
+- architecture
+- Cafes
+- Central London
+- green London
+- london street art &amp; Graffiti
+- skyscrapers
+- Sustainable Architecture
+- sustainable london
+slug: january-on-the-insider-london-blog-what-you-may-have-missed
+
 ---
 Well, we did it &#8211; we made it through January, spirits &#8211; if not all our resolutions &#8211; intact. How are you doing? Why not make the most of the dark February days to do a bit of catching up with some of <a href="http://www.insider-london.co.uk/blog/" target="_blank">Insider London blog posts</a> from January?
 

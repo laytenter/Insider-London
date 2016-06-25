@@ -1,15 +1,17 @@
 ---
-id: 777
 title: The Oldest Bar in London
-date: 2012-07-18T09:46:58+00:00
+date: '2012-07-18 09:46:58'
+categories:
+- London Pubs and nights out
+id: 777
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=777
-permalink: /the-oldest-bar-london-2/
-categories:
-  - London Pubs and nights out
+permalink: "/the-oldest-bar-london-2/"
 tags:
-  - cocktails
+- cocktails
+slug: the-oldest-bar-london-2
+
 ---
 <p style="text-align: center">
   <img class="aligncenter" src="http://insidertrends.squarespace.com/storage/Gordons%20Wine%20Bar.jpg?__SQUARESPACE_CACHEVERSION=1328286145848" alt="The Oldest Bar in London" width="420" height="315" />Gordon’s Wine Bar is the kind of place that one may have thought impossible to find in London nowadays. I certainly did, until I was introduced to it last week.

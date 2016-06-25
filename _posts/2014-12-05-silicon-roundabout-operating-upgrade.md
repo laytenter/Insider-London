@@ -1,33 +1,35 @@
 ---
-id: 23517
 title: 'Silicon Roundabout: Operating Upgrade'
-date: 2014-12-05T10:30:26+00:00
+date: '2014-12-05 10:30:26'
+categories:
+- blog
+- East London
+- Modern Architecture
+- Other
+id: 23517
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=23517
-permalink: /silicon-roundabout-operating-upgrade/
+permalink: "/silicon-roundabout-operating-upgrade/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - East London
-  - Modern Architecture
-  - Other
+- 
 tags:
-  - Alternative London
-  - alternative London walking tours
-  - Design
-  - East London
-  - Old Street Roundabout
-  - renovation
-  - Silicon Roundabout
-  - Tech City
+- Alternative London
+- alternative London walking tours
+- Design
+- East London
+- Old Street Roundabout
+- renovation
+- Silicon Roundabout
+- Tech City
+slug: silicon-roundabout-operating-upgrade
+
 ---
 You might think the new layout of London’s biggest tech centre is all swings and roundabouts – but it turns out it’s more U-bends than anything. Silicon Roundabout has long held its reputation as the hub of the tech start-up scene, but it’s about to undergo a modern-day makeover all of its own.
 

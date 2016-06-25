@@ -1,14 +1,17 @@
 ---
-id: 13974
 title: Ben Slow x Antique Competition Winner
-date: 2014-02-21T12:57:13+00:00
+date: '2014-02-21 12:57:13'
+categories:
+- blog
+- London Street Art &amp; Graffiti
+id: 13974
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=13974
-permalink: /ben-slow-x-antique-competition-winner/
-categories:
-  - blog
-  - 'London Street Art &amp; Graffiti'
+permalink: "/ben-slow-x-antique-competition-winner/"
+slug: ben-slow-x-antique-competition-winner
+tags: []
+
 ---
 <img class="alignnone size-full wp-image-13735" alt="Antique Ben Slow T Shirt" src="http://www.insider-london.co.uk/wp-content/uploads/2014/01/Antique-Ben-Slow-T-Shirt.jpg" width="566" height="337" />
 

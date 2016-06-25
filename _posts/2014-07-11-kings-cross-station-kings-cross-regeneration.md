@@ -1,37 +1,39 @@
 ---
-id: 15147
 title: A King’s Cross Station for the 21st Century
-date: 2014-07-11T11:30:20+00:00
+date: '2014-07-11 11:30:20'
+categories:
+- blog
+- Kings Cross regeneration
+- London Underground/Tube
+- Modern Architecture
+id: 15147
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=15147
-permalink: /kings-cross-station-kings-cross-regeneration/
+permalink: "/kings-cross-station-kings-cross-regeneration/"
 s4_cdes:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_url2s:
-  - 
-categories:
-  - blog
-  - Kings Cross regeneration
-  - London Underground/Tube
-  - Modern Architecture
+- 
 tags:
-  - architecture
-  - crossrail
-  - Eve
-  - Granary Square
-  - Kings Boulevard
-  - Kings Cross Regeneration
-  - Kings Cross St Pancras
-  - London Underground
-  - railway station
-  - Regeneration
-  - St Pancras
-  - St Pancras Square
+- architecture
+- crossrail
+- Eve
+- Granary Square
+- Kings Boulevard
+- Kings Cross Regeneration
+- Kings Cross St Pancras
+- London Underground
+- railway station
+- Regeneration
+- St Pancras
+- St Pancras Square
+slug: kings-cross-station-kings-cross-regeneration
+
 ---
 King’s Cross station’s new, bright and spacious concourse reflects the renewal of the wider area, heralding a renaissance in how railway stations interact with their urban context. The Victorians excelled at creating a sense of arrival, leaving a legacy of grand stations that took pride in railway travel. After a period of decline, London’s railway stations are beginning to scrub up to smart 21st century standards.
 

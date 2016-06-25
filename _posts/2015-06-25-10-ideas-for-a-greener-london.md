@@ -1,14 +1,17 @@
 ---
-id: 27285
 title: 10 Ideas for a Greener London
-date: 2015-06-25T11:57:28+00:00
+date: '2015-06-25 11:57:28'
+categories:
+- blog
+- Uncategorised
+id: 27285
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=27285
-permalink: /10-ideas-for-a-greener-london/
-categories:
-  - blog
-  - Uncategorised
+permalink: "/10-ideas-for-a-greener-london/"
+slug: 10-ideas-for-a-greener-london
+tags: []
+
 ---
 By Angela Lord
 

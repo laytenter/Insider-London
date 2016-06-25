@@ -1,34 +1,36 @@
 ---
-id: 23594
 title: Going Underground
-date: 2014-12-19T10:30:49+00:00
+date: '2014-12-19 10:30:49'
+categories:
+- blog
+- Food and drink
+- London Pubs and nights out
+- London Underground/Tube
+- Other
+- Retail Store Design
+id: 23594
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=23594
-permalink: /going-underground/
+permalink: "/going-underground/"
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
+- 
 s4_url2s:
-  - 
-categories:
-  - blog
-  - Food and drink
-  - London Pubs and nights out
-  - London Underground/Tube
-  - Other
-  - Retail Store Design
+- 
 tags:
-  - ghost stations
-  - London Underground
-  - pop-up restaurant
-  - pop-up retail
-  - shopping
-  - train stations
-  - Tube
+- ghost stations
+- London Underground
+- pop-up restaurant
+- pop-up retail
+- shopping
+- train stations
+- Tube
+slug: going-underground
+
 ---
 <dl id="attachment_23601" class="wp-caption aligncenter" style="width: 579px;">
   <dt class="wp-caption-dt">

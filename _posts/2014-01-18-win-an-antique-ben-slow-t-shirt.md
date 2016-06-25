@@ -1,14 +1,17 @@
 ---
-id: 13743
 title: Win an Antique x Ben Slow T-Shirt!
-date: 2014-01-18T10:00:26+00:00
+date: '2014-01-18 10:00:26'
+categories:
+- blog
+- London Street Art &amp; Graffiti
+id: 13743
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=13743
-permalink: /win-an-antique-ben-slow-t-shirt/
-categories:
-  - blog
-  - 'London Street Art &amp; Graffiti'
+permalink: "/win-an-antique-ben-slow-t-shirt/"
+slug: win-an-antique-ben-slow-t-shirt
+tags: []
+
 ---
 [<img class="alignnone size-full wp-image-13735" alt="Antique Ben Slow T Shirt" src="http://www.insider-london.co.uk/wp-content/uploads/2014/01/Antique-Ben-Slow-T-Shirt.jpg" width="566" height="337" />](http://www.insider-london.co.uk/wp-content/uploads/2014/01/Antique-Ben-Slow-T-Shirt.jpg)
 

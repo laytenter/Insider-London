@@ -1,31 +1,33 @@
 ---
-id: 24864
 title: 'Street Art Picture of the Week: Stik and Otto Schade, Shoreditch'
-date: 2015-03-04T10:30:18+00:00
+date: '2015-03-04 10:30:18'
+categories:
+- blog
+- Food and drink
+- London Street Art &amp; Graffiti
+id: 24864
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=24864
-permalink: /street-art-picture-of-the-week-stik-and-otto-schade-shoreditch/
+permalink: "/street-art-picture-of-the-week-stik-and-otto-schade-shoreditch/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - Food and drink
-  - 'London Street Art &amp; Graffiti'
+- 
 tags:
-  - East London street art
-  - 'london street art &amp; Graffiti'
-  - otto schade
-  - Princelet Street
-  - Shoreditch
-  - Stik
-  - street art picture of the week
+- East London street art
+- london street art &amp; Graffiti
+- otto schade
+- Princelet Street
+- Shoreditch
+- Stik
+- street art picture of the week
+slug: street-art-picture-of-the-week-stik-and-otto-schade-shoreditch
+
 ---
 <img class="aligncenter wp-image-24866 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/03/Stik-Otto-Schade_mini.jpg" alt="London street art and graffiti walking tours stik osch" width="569" height="423" />
 

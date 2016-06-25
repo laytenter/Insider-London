@@ -1,33 +1,35 @@
 ---
-id: 24901
 title: '10 London buildings that never were: Numbers 1 to 5'
-date: 2015-03-13T10:30:15+00:00
+date: '2015-03-13 10:30:15'
+categories:
+- blog
+- Modern Architecture
+- Other
+- Quirky, weird and bizarre London
+- Sustainable Architecture
+id: 24901
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=24901
-permalink: /10-london-buildings-that-never-were-numbers-1-to-5/
+permalink: "/10-london-buildings-that-never-were-numbers-1-to-5/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - Modern Architecture
-  - Other
-  - Quirky, weird and bizarre London
-  - Sustainable Architecture
+- 
 tags:
-  - City of London
-  - London
-  - modern architecture
-  - Quirky
-  - Square Mile
-  - weird and bizarre
-  - Wembley
+- City of London
+- London
+- modern architecture
+- Quirky
+- Square Mile
+- weird and bizarre
+- Wembley
+slug: 10-london-buildings-that-never-were-numbers-1-to-5
+
 ---
 <p style="text-align: left">
   <img class="aligncenter size-full wp-image-24966" src="http://www.insider-london.co.uk/wp-content/uploads/2015/03/5379457132_93c7803345_z.jpg" alt="london modern architecture " width="569" height="381" />

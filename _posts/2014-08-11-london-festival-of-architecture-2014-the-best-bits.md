@@ -1,28 +1,30 @@
 ---
-id: 15862
 title: 'London Festival of Architecture 2014: the best bits'
-date: 2014-08-11T11:30:38+00:00
+date: '2014-08-11 11:30:38'
+categories:
+- blog
+- Modern Architecture
+id: 15862
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=15862
-permalink: /london-festival-of-architecture-2014-the-best-bits/
+permalink: "/london-festival-of-architecture-2014-the-best-bits/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - Modern Architecture
+- 
 tags:
-  - all over London
-  - Alternative London
-  - architecture
-  - festival
-  - Insider London
+- all over London
+- Alternative London
+- architecture
+- festival
+- Insider London
+slug: london-festival-of-architecture-2014-the-best-bits
+
 ---
 Londoners with a keen eye for design will have had plenty to behold this summer, thanks to the Festival of Architecture, a celebration first initiated by The Architecture Foundation ten years ago. From family events to professional competitions, indoor exhibitions to outdoor spaces, there’s been a lot going on in the capital city – ‘Capital’ itself being the theme for 2014 &#8211; with the festival featuring over 150 installations. Check out our round-up of the best bits from this year’s collection.
 

@@ -1,24 +1,26 @@
 ---
-id: 3150
 title: 'London&#8217;s Magnificent Seven Victorian Cemeteries: the Low-Down Part 2'
-date: 2012-12-19T15:07:44+00:00
+date: '2012-12-19 15:07:44'
+categories:
+- blog
+- Green London
+- Quirky, weird and bizarre London
+id: 3150
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=3150
-permalink: /london-magnificent-seven-tours-part-three/
-categories:
-  - blog
-  - Green London
-  - Quirky, weird and bizarre London
+permalink: "/london-magnificent-seven-tours-part-three/"
 tags:
-  - abney park
-  - beatrix potter
-  - brompton cemetery
-  - James Bond
-  - london cemeteries
-  - nunhead cemetery
-  - peter rabbit
-  - victorian london
+- abney park
+- beatrix potter
+- brompton cemetery
+- James Bond
+- london cemeteries
+- nunhead cemetery
+- peter rabbit
+- victorian london
+slug: london-magnificent-seven-tours-part-three
+
 ---
 We come to the last (but not least) part of our Magnificent Seven Victorian Cemeteries series.
 

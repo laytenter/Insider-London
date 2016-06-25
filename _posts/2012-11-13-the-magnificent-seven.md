@@ -1,24 +1,26 @@
 ---
-id: 2594
 title: The Magnificent Seven
-date: 2012-11-13T13:47:53+00:00
+date: '2012-11-13 13:47:53'
+categories:
+- blog
+- Quirky, weird and bizarre London
+id: 2594
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=2594
-permalink: /the-magnificent-seven/
-categories:
-  - blog
-  - Quirky, weird and bizarre London
+permalink: "/the-magnificent-seven/"
 tags:
-  - alternative
-  - london cemeteries
-  - magnificent seven
-  - nunhead cemetery
-  - stroll
-  - sunday
-  - victorian cemeteries
-  - victorian london
-  - walks
+- alternative
+- london cemeteries
+- magnificent seven
+- nunhead cemetery
+- stroll
+- sunday
+- victorian cemeteries
+- victorian london
+- walks
+slug: the-magnificent-seven
+
 ---
 ###### [Insider London Walking Tours](http://www.insider-london.co.uk "Insider London home page") >  [Blog](http://www.insider-london.co.uk/blog/ "Insider London Blog")  >  [The Magnificent Seven](http://www.insider-london.co.uk/blog/2012/11/13/the-magnificent-seven/ "The Magnificent Seven")
 

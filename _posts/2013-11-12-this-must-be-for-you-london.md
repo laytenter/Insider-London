@@ -1,17 +1,20 @@
 ---
-id: 8099
 title: This Must Be For You
-date: 2013-11-12T16:02:43+00:00
+date: '2013-11-12 16:02:43'
+categories:
+- blog
+- Green London
+- London Street Art &amp; Graffiti
+- Other
+- Quirky, weird and bizarre London
+id: 8099
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=8099
-permalink: /this-must-be-for-you-london/
-categories:
-  - blog
-  - Green London
-  - 'London Street Art &amp; Graffiti'
-  - Other
-  - Quirky, weird and bizarre London
+permalink: "/this-must-be-for-you-london/"
+slug: this-must-be-for-you-london
+tags: []
+
 ---
 <p dir="ltr">
   Suspicious packages are a big no-no in Central London, so leaving little white boxes everywhere might not seem wise. But that doesn’t stop Natasha Cuts of This Must Be For You (TMBFY) from doing exactly that.

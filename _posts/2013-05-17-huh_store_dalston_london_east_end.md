@@ -1,21 +1,23 @@
 ---
-id: 2394
 title: 'HUH Store: Dalston Insider'
-date: 2013-05-17T14:30:47+00:00
+date: '2013-05-17 14:30:47'
+categories:
+- blog
+- East London
+- Retail Store Design
+id: 2394
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=2394
-permalink: /huh_store_dalston_london_east_end/
-categories:
-  - blog
-  - East London
-  - Retail Store Design
+permalink: "/huh_store_dalston_london_east_end/"
 tags:
-  - dalston
-  - East London
-  - huh
-  - London
-  - shopping
+- dalston
+- East London
+- huh
+- London
+- shopping
+slug: huh_store_dalston_london_east_end
+
 ---
 **Dalston offers a great selection of coffee shops, bars, resturants and clubs. But the area actually has a few hidden gems when it comes to shopping. This is the first part in a new series that puts the spotlight on those Dalston-based retail havens. This week we&#8217;re starting with the HUH store Dalston.**<figure id="attachment_2399" style="width: 569px" class="wp-caption alignnone">
 

@@ -1,18 +1,20 @@
 ---
+title: One Direction&#8217;s One Thing – a London sightseer&#8217;s guide-map
+date: '2013-02-24 11:36:26'
+categories:
+- blog
+- Quirky, weird and bizarre London
 id: 3582
-title: 'One Direction&#8217;s One Thing – a London sightseer&#8217;s guide-map'
-date: 2013-02-24T11:36:26+00:00
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=3582
-permalink: /one-direction-one-thing-london-video-tour/
-categories:
-  - blog
-  - Quirky, weird and bizarre London
+permalink: "/one-direction-one-thing-london-video-tour/"
 tags:
-  - one direction
-  - one direction london
-  - one direction one thing
+- one direction
+- one direction london
+- one direction one thing
+slug: one-direction-one-thing-london-video-tour
+
 ---
 I have not one but two things to announce in relation to One Direction&#8217;s song &#8216;One Thing&#8217;&#8230;
 

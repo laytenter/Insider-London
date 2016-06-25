@@ -1,28 +1,30 @@
 ---
-id: 23302
 title: The Towers of London
-date: 2014-11-17T10:30:05+00:00
+date: '2014-11-17 10:30:05'
+categories:
+- blog
+- Modern Architecture
+id: 23302
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=23302
-permalink: /the-towers-of-london/
+permalink: "/the-towers-of-london/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - Modern Architecture
+- 
 tags:
-  - alternative London walking tours
-  - architecture
-  - Central London
-  - sightseeing
-  - skyscrapers
+- alternative London walking tours
+- architecture
+- Central London
+- sightseeing
+- skyscrapers
+slug: the-towers-of-london
+
 ---
 The news that London is set to be hit with 230 new towers has been making the headlines recently, but tall buildings are nothing new to the capital. We’re taking a look at some of the city’s tallest towers from throughout the ages, comparing structures from 1100 all the way to the present day. You can check out some of the city&#8217;s most modern additions on our [Modern Architecture walking tour](http://www.insider-london.co.uk/london-architecture-walking-tours/).
 

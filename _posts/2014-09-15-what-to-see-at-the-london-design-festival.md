@@ -1,34 +1,36 @@
 ---
-id: 21324
 title: What to see at the London Design Festival
-date: 2014-09-15T10:30:55+00:00
+date: '2014-09-15 10:30:55'
+categories:
+- blog
+- East London
+- Modern Architecture
+- Other
+- Quirky, weird and bizarre London
+- Sustainable Architecture
+id: 21324
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=21324
-permalink: /what-to-see-at-the-london-design-festival/
+permalink: "/what-to-see-at-the-london-design-festival/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - East London
-  - Modern Architecture
-  - Other
-  - Quirky, weird and bizarre London
-  - Sustainable Architecture
+- 
 tags:
-  - all over London
-  - Alternative London
-  - architecture
-  - Design
-  - London design festival
-  - quirky london
-  - zaha hadid
+- all over London
+- Alternative London
+- architecture
+- Design
+- London design festival
+- quirky london
+- zaha hadid
+slug: what-to-see-at-the-london-design-festival
+
 ---
 The <a href="http://www.londondesignfestival.com/" target="_blank">London Design Festival</a> kicked off at the weekend, showcasing the capital&#8217;s creativity. There are hundreds of events going on, from talks to trade shows and we&#8217;ve waded through the listings so you don&#8217;t have to. Here&#8217;s what we recommend checking out.
 

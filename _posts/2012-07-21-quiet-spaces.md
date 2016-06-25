@@ -1,18 +1,20 @@
 ---
-id: 805
 title: Quiet Spaces in London
-date: 2012-07-21T10:43:24+00:00
+date: '2012-07-21 10:43:24'
+categories:
+- blog
+- Quirky, weird and bizarre London
+id: 805
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=805
-permalink: /quiet-spaces/
-categories:
-  - blog
-  - Quirky, weird and bizarre London
+permalink: "/quiet-spaces/"
 tags:
-  - all over London
-  - parks
-  - places to relax
+- all over London
+- parks
+- places to relax
+slug: quiet-spaces
+
 ---
 ## <img class="aligncenter" src="http://insidertrends.squarespace.com/storage/london-blog-images/IMG_2319.jpg?__SQUARESPACE_CACHEVERSION=1334231254257" alt="Quiet Spaces in london - Insider London" width="455" height="683" />
 

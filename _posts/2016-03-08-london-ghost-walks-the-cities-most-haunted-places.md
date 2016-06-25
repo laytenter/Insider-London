@@ -1,10 +1,13 @@
 ---
 title: London Ghost Walks - The City's Most Haunted Places
-date: 2016-03-08T20:29:24+00:00
-layout: post
-permalink: /london-ghost-walks-the-cities-most-haunted-places/
+date: '2016-03-08 20:29:24'
 categories:
-  - blog
+- blog
+layout: post
+permalink: "/london-ghost-walks-the-cities-most-haunted-places/"
+slug: london-ghost-walks-the-cities-most-haunted-places
+tags: []
+
 ---
 Insider London’s <a href="/product/famous-ghosts-and-infamous-murders/">Ghost Walks around London</a> take you on a spookily spectacular trip around some of the city’s most haunted spots. To get you in the mood to enjoy these supernatural stories, we’ve put together a list of some of the most haunted places in London. Whether you think these ghost stories are just interesting myths or you believe there truly are ghosts walking (or floating…) around London, here are some of the most famous of the capital’s ghost stories.
 

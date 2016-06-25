@@ -1,20 +1,22 @@
 ---
-id: 2290
 title: 'Future London: The Age of the Skyscrapers'
-date: 2012-11-05T11:34:18+00:00
+date: '2012-11-05 11:34:18'
+categories:
+- blog
+- Modern Architecture
+id: 2290
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=2290
-permalink: /skyscrapers-london-development-future-central-london/
-categories:
-  - blog
-  - Modern Architecture
+permalink: "/skyscrapers-london-development-future-central-london/"
 tags:
-  - Central London
-  - Construction
-  - Development
-  - skyscrapers
-  - Tall Towers
+- Central London
+- Construction
+- Development
+- skyscrapers
+- Tall Towers
+slug: skyscrapers-london-development-future-central-london
+
 ---
 [<img class="alignnone size-full wp-image-2385" src="http://www.insider-london.co.uk/wp-content/uploads/2012/11/Shard-London-Skyscraper-tower-future-development.jpg" alt="" width="569" height="406" />](http://www.insider-london.co.uk/wp-content/uploads/2012/11/Shard-London-Skyscraper-tower-future-development.jpg)
 

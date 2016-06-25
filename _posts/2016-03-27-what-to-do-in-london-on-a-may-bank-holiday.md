@@ -1,10 +1,13 @@
 ---
 title: What to do in London on a May bank Holiday
-date: 2016-03-27T22:00:24
-layout: post
-permalink: /what-to-do-in-london-on-a-may-bank-holiday/
+date: '2016-03-27 22:00:24'
 categories:
-  - blog
+- blog
+layout: post
+permalink: "/what-to-do-in-london-on-a-may-bank-holiday/"
+slug: what-to-do-in-london-on-a-may-bank-holiday
+tags: []
+
 ---
 What’s better than a long bank holiday weekend? That’s right – two bank holiday weekends! May has two bank holidays, the early May and the Spring bank holiday, falling on 1st and 30th May respectively in 2016. These holidays celebrate the arrival of Spring and the warm months to come with fun and festivities, and so should you! As the days get longer and the weather gets sweeter, do more than just Netflix & Chill and find out how to make the most of these long weekends with our tips on what to do in London on a May Bank Holiday…
 
@@ -12,13 +15,13 @@ What’s better than a long bank holiday weekend? That’s right – two bank ho
 
 Our fair city is often referred to as the Big Smoke, but did you know that almost fifty percent of London is actually green space? As the days get warmer, get some fresh air and enjoy the greenery, rivers and canals of London’s many beautiful parks, as you sunbathe in Greenwich or picnic in Richmond. During the early May bank holiday weekend we suggest heading to London’s delightfully picturesque Little Venice, where you can see the annual canal cavalcade – a waterway festival that has been running for over 30 years. If that’s got you inspired and wanting for more, head to Hyde Park afterwards and spend the afternoon boating at Serpentine Lake. Swimming is also allowed on weekends at the Serpentine Lido, so dive right in!  
 
-<p><img src="/images/st-martin-in-the-fields-770x1024.jpg" alt="St Martin in the Fields" /></p>
+<p><img src="{{ site.baseurl }}/images/st-martin-in-the-fields-770x1024.jpg" alt="St Martin in the Fields" /></p>
 
 ##Take to the streets
 
 They say that to be tired of London is to be tired of life. However, between long work hours, daily commuting and busy weekends, it’s easy to forget that with world-class museums, stunning architecture, and fabulous attractions London is one of the greatest cities in the world. The May bank holidays make for a great opportunity to take to the streets and see things from a fresh perspective. If you’d like to have a go and be a tourist in your own city, we suggest heading to Buckingham Palace on Monday morning (not too early, we promise!) to see the impressive change of the guard, and spending the afternoon exploring the city. If you enjoy seeing London on foot and are looking to discover something new, we offer a [Quirky London Walking Tour](/product/quirky-tour/) that takes you across the city to discover London’s many quirks and eccentricities.
 
-<p><img src="/images/westminster-abbey-770x1024.jpg" alt="Westminster Abbey" /></p>
+<p><img src="{{ site.baseurl }}/images/westminster-abbey-770x1024.jpg" alt="Westminster Abbey" /></p>
 
 
 ##Keep the children at bay

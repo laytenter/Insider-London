@@ -1,36 +1,38 @@
 ---
-id: 15700
 title: 'Insider Interview: Olivia Ahmad of The House of Illustration'
-date: 2014-07-25T11:30:26+00:00
+date: '2014-07-25 11:30:26'
+categories:
+- blog
+- Kings Cross regeneration
+- Other
+- Quirky, weird and bizarre London
+id: 15700
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=15700
-permalink: /the-house-of-illustration-kings-cross/
+permalink: "/the-house-of-illustration-kings-cross/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - Kings Cross regeneration
-  - Other
-  - Quirky, weird and bizarre London
+- 
 tags:
-  - architecture
-  - art
-  - Design
-  - Education
-  - Events
-  - Fairs
-  - Granary Square
-  - Illustration
-  - Kings Cross Regeneration
-  - Quentin Blake
-  - Workshops
+- architecture
+- art
+- Design
+- Education
+- Events
+- Fairs
+- Granary Square
+- Illustration
+- Kings Cross Regeneration
+- Quentin Blake
+- Workshops
+slug: the-house-of-illustration-kings-cross
+
 ---
 [](http://www.insider-london.co.uk/wp-content/uploads/2014/07/P_KXC_K1_DEV_001_N711.jpg) [<img class="aligncenter wp-image-15703 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/07/P_KXC_K1_DEV_001_N71-e1406188693706.jpg" alt="Kings Cross Regeneration" width="569" height="379" />](http://www.insider-london.co.uk/wp-content/uploads/2014/07/P_KXC_K1_DEV_001_N71.jpg)
 

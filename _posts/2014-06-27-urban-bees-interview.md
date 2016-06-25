@@ -1,21 +1,23 @@
 ---
-id: 15077
 title: 'Insider Interview: Urban Bees'
-date: 2014-06-27T11:30:47+00:00
+date: '2014-06-27 11:30:47'
+categories:
+- blog
+- Green London
+- Kings Cross regeneration
+- Other
+id: 15077
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=15077
-permalink: /urban-bees-interview/
-categories:
-  - blog
-  - Green London
-  - Kings Cross regeneration
-  - Other
+permalink: "/urban-bees-interview/"
 tags:
-  - alternative London walking tours
-  - bees
-  - green London
-  - "king's cross"
+- alternative London walking tours
+- bees
+- green London
+- king's cross
+slug: urban-bees-interview
+
 ---
 <p class="yiv8873166317MsoNormal" style="color: #000000;">
   <a href="http://www.urbanbees.co.uk/" target="_blank">Urban Bees</a> is an organisation that aims to bring bees to cities, promoting sustainable and responsible urban beekeeping. Since starting beekeeping in 2006, they have worked with an impressive range of companies and organisations across London, including the City of London Festival, the Co-Op Group and London Wildlife Trust. Co-founder Alison Benjamin kindly answered some of our questions about their work and the importance of having bees in the city.

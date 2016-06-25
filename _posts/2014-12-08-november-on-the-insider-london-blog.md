@@ -1,36 +1,38 @@
 ---
-id: 23538
 title: November on the Insider London blog
-date: 2014-12-08T10:30:30+00:00
+date: '2014-12-08 10:30:30'
+categories:
+- blog
+- East London
+- London Street Art &amp; Graffiti
+- London Underground/Tube
+- Modern Architecture
+- Other
+- Quirky, weird and bizarre London
+id: 23538
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=23538
-permalink: /november-on-the-insider-london-blog/
+permalink: "/november-on-the-insider-london-blog/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - East London
-  - 'London Street Art &amp; Graffiti'
-  - London Underground/Tube
-  - Modern Architecture
-  - Other
-  - Quirky, weird and bizarre London
+- 
 tags:
-  - all over London
-  - Alternative London
-  - architecture
-  - Central London
-  - London Street art
-  - London Underground
-  - skyscrapers
-  - Tube
+- all over London
+- Alternative London
+- architecture
+- Central London
+- London Street art
+- London Underground
+- skyscrapers
+- Tube
+slug: november-on-the-insider-london-blog
+
 ---
 <img class="aligncenter wp-image-23234 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/11/Outings-Project-Dijon_mini.jpg" alt="Street art dijon" width="569" height="427" />
 

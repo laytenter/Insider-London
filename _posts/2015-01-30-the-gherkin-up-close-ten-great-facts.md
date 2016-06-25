@@ -1,40 +1,42 @@
 ---
-id: 24584
 title: 'The Gherkin Up Close: Ten Great Facts'
-date: 2015-01-30T10:30:06+00:00
+date: '2015-01-30 10:30:06'
+categories:
+- blog
+- East London
+- Food and drink
+- Green London
+- Modern Architecture
+- Other
+- Quirky, weird and bizarre London
+- Sustainable Architecture
+id: 24584
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=24584
-permalink: /the-gherkin-up-close-ten-great-facts/
+permalink: "/the-gherkin-up-close-ten-great-facts/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - East London
-  - Food and drink
-  - Green London
-  - Modern Architecture
-  - Other
-  - Quirky, weird and bizarre London
-  - Sustainable Architecture
+- 
 tags:
-  - City of London
-  - East London
-  - food and drink
-  - Modern
-  - modern architecture
-  - Quirky
-  - quirky london
-  - Sustainable Architecture
-  - sustainable london
-  - sustainibility
-  - The Gherkin
+- City of London
+- East London
+- food and drink
+- Modern
+- modern architecture
+- Quirky
+- quirky london
+- Sustainable Architecture
+- sustainable london
+- sustainibility
+- The Gherkin
+slug: the-gherkin-up-close-ten-great-facts
+
 ---
 <img class="aligncenter size-full wp-image-24623" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/9731562839_c6cc9a63ff_z.jpg" alt="London modern architecture" width="569" height="739" />
 

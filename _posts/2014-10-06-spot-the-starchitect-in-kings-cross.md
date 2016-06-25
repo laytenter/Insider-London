@@ -1,42 +1,44 @@
 ---
-id: 22386
 title: Spot the Starchitect in Kings Cross
-date: 2014-10-06T09:30:07+00:00
+date: '2014-10-06 09:30:07'
+categories:
+- blog
+- Green London
+- Kings Cross regeneration
+- Modern Architecture
+- Sustainable Architecture
+id: 22386
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=22386
-permalink: /spot-the-starchitect-in-kings-cross/
+permalink: "/spot-the-starchitect-in-kings-cross/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - Green London
-  - Kings Cross regeneration
-  - Modern Architecture
-  - Sustainable Architecture
+- 
 tags:
-  - Allies and Morrison
-  - Architects
-  - BREEAM
-  - Cafes
-  - David Chipperfield
-  - Eurostar
-  - Google
-  - green London
-  - "king's cross"
-  - Kings Boulevard
-  - Kings Cross Central
-  - Kings Cross Regeneration
-  - Kings Cross St Pancras
-  - modern architecture
-  - offices
-  - Sustainable Architecture
+- Allies and Morrison
+- Architects
+- BREEAM
+- Cafes
+- David Chipperfield
+- Eurostar
+- Google
+- green London
+- king's cross
+- Kings Boulevard
+- Kings Cross Central
+- Kings Cross Regeneration
+- Kings Cross St Pancras
+- modern architecture
+- offices
+- Sustainable Architecture
+slug: spot-the-starchitect-in-kings-cross
+
 ---
 [<img class="aligncenter wp-image-22841 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/10/IMG_4730.jpg" alt="David Chipperfield modern and sustainable architecture" width="569" height="759" />](http://www.insider-london.co.uk/wp-content/uploads/2014/10/IMG_4730.jpg)
 

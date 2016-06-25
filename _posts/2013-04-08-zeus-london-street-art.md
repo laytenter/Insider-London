@@ -1,19 +1,21 @@
 ---
-id: 4483
 title: London street art in a sweet shop?
-date: 2013-04-08T14:11:07+00:00
+date: '2013-04-08 14:11:07'
+categories:
+- blog
+- London Street Art &amp; Graffiti
+id: 4483
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=4483
-permalink: /zeus-london-street-art/
-categories:
-  - blog
-  - 'London Street Art &amp; Graffiti'
+permalink: "/zeus-london-street-art/"
 tags:
-  - alternative London walking tours
-  - Insider London
-  - London Street art
-  - Zeus
+- alternative London walking tours
+- Insider London
+- London Street art
+- Zeus
+slug: zeus-london-street-art
+
 ---
 ###### [Alternative London walking tours](http://www.insider-london.co.uk/ "Alternative London walking tours") > [Tour blog](http://www.insider-london.co.uk/blog/ "Insider London walking tour blog") > Street art in a sweet shop
 

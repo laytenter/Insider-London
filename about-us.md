@@ -1,10 +1,121 @@
 ---
-id: 25467
-permalink: /about-us/
 title: About Us
-date: 2015-05-12T15:58:43+00:00
+date: '2015-05-12 15:58:00'
+id: 254674
+permalink: "/about-us/"
 author: london75
 layout: page
+
+<<<<<<< HEAD
+<div class="container">
+  <div class="row">
+    <div class="vc_col-sm-12 wpb_column vc_column_container ">
+      <div class="wpb_wrapper">
+        <section class="wpb_row block vc_inner vc_row-fluid">
+
+        <div class="container">
+          <div class="row">
+            <div class="vc_col-sm-4 wpb_column vc_column_container ">
+              <div class="wpb_wrapper">
+                <div class="wpb_single_image wpb_content_element vc_align_center">
+                  <div class="wpb_wrapper">
+                    <div class="vc_single_image-wrapper   vc_box_border_grey">
+                      <img class="vc_single_image-img " src="/wp-content/uploads/2015/04/5103793738_5df66b09ba_o-400x200.jpeg" width="400" height="200" alt="5103793738_5df66b09ba_o" title="5103793738_5df66b09ba_o" />
+                    </div>
+                  </div>
+                </div>
+
+                <div class="vc_custom_heading" >
+                  <h2>
+                    Alternative London Tours
+                  </h2>
+                </div>
+
+                <div class="wpb_text_column wpb_content_element ">
+                  <div class="wpb_wrapper">
+                    <p>
+                      Discover London's most famous sightseeing spots as well as its hidden secrets with Insider London's choice of alternative and quirky walking tours. Suitable for locals, tourists or larger student groups, these premium walking tours can be booked privately to accommodate your needs and specific interests. Prepare to be entertained, informed and surprised!
+                    </p>
+                  </div>
+                </div>
+
+                <div class="vc_btn3-container vc_btn3-inline">
+                  <a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-modern vc_btn3-color-grey"
+	     href="/alternative-london-tours"
+	     title="">Read More</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="vc_col-sm-4 wpb_column vc_column_container ">
+              <div class="wpb_wrapper">
+                <div class="wpb_single_image wpb_content_element vc_align_center">
+                  <div class="wpb_wrapper">
+                    <div class="vc_single_image-wrapper   vc_box_border_grey">
+                      <img class="vc_single_image-img " src="/wp-content/uploads/2015/04/Modern-Architecture-400x200.jpg" width="400" height="200" alt="Moderne Architektur in London" title="Moderne Architektur in London" />
+                    </div>
+                  </div>
+                </div>
+
+                <div class="vc_custom_heading" >
+                  <h2 style="text-align: left;font-family:Abril Fatface;font-weight:400;font-style:normal" >
+                    Corporate Events
+                  </h2>
+                </div>
+
+                <div class="wpb_text_column wpb_content_element ">
+                  <div class="wpb_wrapper">
+                    <p>
+                      Insider London’s corporate events are well known for being innovative, cutting-edge and inspiring. Our private walking tours make fantastic team-building experiences and can be adapted to suit your business needs. In the past, we've run tours for the likes of Google, Eurostar, BBC, Deloitte, TESCO, and many more.
+                    </p>
+                  </div>
+                </div>
+
+                <div class="vc_btn3-container vc_btn3-inline">
+                  <a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-modern vc_btn3-color-grey"
+	     href="/corporate-events/">Read more...</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="vc_col-sm-4 wpb_column vc_column_container ">
+              <div class="wpb_wrapper">
+                <div class="wpb_single_image wpb_content_element vc_align_center">
+                  <div class="wpb_wrapper">
+                    <div class="vc_single_image-wrapper   vc_box_border_grey">
+                      <img class="vc_single_image-img " src="/wp-content/uploads/2015/05/Fotolia_24879531_M-400x200.jpg" width="400" height="200" alt="OLYMPUS DIGITAL CAMERA" title="In der Fabrik" />
+                    </div>
+                  </div>
+                </div>
+
+                <div class="vc_custom_heading" >
+                  <h2 style="text-align: left;font-family:Abril Fatface;font-weight:400;font-style:normal" >
+                    Private Party Packages
+                  </h2>
+                </div>
+
+                <div class="wpb_text_column wpb_content_element ">
+                  <div class="wpb_wrapper">
+                    <p>
+                      We can help you to organise an appropriate walking tour for any event or celebration! From birthdays to wine tastings, or Hen and Stag Parties to seasonal walking tours like our Halloween Ghost Tour, we can accommodate just about any request. Each walking tour is specifically designed to highlight London’s most interesting rare sites and curiosities and to cater to your needs and interests.
+                    </p>
+                  </div>
+                </div>
+
+                <div class="vc_btn3-container vc_btn3-inline">
+                  <a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-modern vc_btn3-color-grey"
+	     href="/special-occasions/"
+	     title="">Read More</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div></section>
+      </div>
+    </div>
+  </div>
+</div></section>
+=======
 ---
 <section class="wpb\_row block vc\_row-fluid vc\_custom\_1431443762184">
 
@@ -244,7 +355,9 @@ layout: page
                 <div class="vc_btn3-container vc_btn3-inline">
                   <a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-modern vc_btn3-color-grey"
 	     href="/special-occasions/"
-	     title="">Read More</a>
+	     title=""
+	     target="_self"
+	>Read More</a>
                 </div>
               </div>
             </div>
@@ -254,3 +367,4 @@ layout: page
     </div>
   </div>
 </div></section>
+>>>>>>> 6ec0de3bb2a688ce254f50334060b17e2b4ef367

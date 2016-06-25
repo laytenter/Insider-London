@@ -1,14 +1,17 @@
 ---
-id: 4496
 title: Spring Festival 2013 at the British Library
-date: 2013-02-21T14:30:51+00:00
+date: '2013-02-21 14:30:51'
+categories:
+- blog
+- Quirky, weird and bizarre London
+id: 4496
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=4496
-permalink: /british-library/
-categories:
-  - blog
-  - Quirky, weird and bizarre London
+permalink: "/british-library/"
+slug: british-library
+tags: []
+
 ---
 **We&#8217;re good friends with the British Library (I&#8217;m not showing off, it&#8217;s just, we are). And their upcoming Spring Festival is going to be fan-bloody-tastic&#8230;**
 

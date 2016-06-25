@@ -1,18 +1,20 @@
 ---
-id: 1101
 title: Squeaky Green
-date: 2012-07-30T10:00:13+00:00
+date: '2012-07-30 10:00:13'
+categories:
+- blog
+- Green London
+id: 1101
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=1101
-permalink: /squeaky-green/
-categories:
-  - blog
-  - Green London
+permalink: "/squeaky-green/"
 tags:
-  - cleaning
-  - East London
-  - green
+- cleaning
+- East London
+- green
+slug: squeaky-green
+
 ---
 <address>
   Our green correspondent Hetty this week takes a look into green cleaning products around London, including where to find them, and if they&#8217;re worth it.

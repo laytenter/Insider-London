@@ -1,34 +1,36 @@
 ---
-id: 21327
 title: 'Insider Interview: Soner Ozenc of MakersCAFE'
-date: 2014-09-19T09:30:56+00:00
+date: '2014-09-19 09:30:56'
+categories:
+- blog
+- East London
+- Other
+- Quirky, weird and bizarre London
+id: 21327
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=21327
-permalink: /insider-interview-makers-cafe/
+permalink: "/insider-interview-makers-cafe/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - East London
-  - Other
-  - Quirky, weird and bizarre London
+- 
 tags:
-  - Alternative London
-  - bars
-  - East London
-  - insider interview
-  - london cafes
-  - Old Street Roundabout
-  - Shoreditch
-  - Technology
-  - unusual bars
+- Alternative London
+- bars
+- East London
+- insider interview
+- london cafes
+- Old Street Roundabout
+- Shoreditch
+- Technology
+- unusual bars
+slug: insider-interview-makers-cafe
+
 ---
 [<img class="aligncenter wp-image-22150 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/makersCAFE_mini.jpg" alt="makesCAFE alternative London" width="569" height="569" />](http://www.insider-london.co.uk/wp-content/uploads/2014/09/makersCAFE_mini.jpg)
 

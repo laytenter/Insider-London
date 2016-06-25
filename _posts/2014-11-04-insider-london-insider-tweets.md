@@ -1,22 +1,25 @@
 ---
-id: 23107
 title: 'Insider London: Insider Tweets'
-date: 2014-11-04T10:30:49+00:00
+date: '2014-11-04 10:30:49'
+categories:
+- blog
+- Other
+id: 23107
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=23107
-permalink: /insider-london-insider-tweets/
+permalink: "/insider-london-insider-tweets/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - Other
+- 
+slug: insider-london-insider-tweets
+tags: []
+
 ---
 [<img class="aligncenter wp-image-23110 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/10/Insider-London.png" alt="Insider London" width="569" height="504" />](http://www.insider-london.co.uk/wp-content/uploads/2014/10/Insider-London.png)
 

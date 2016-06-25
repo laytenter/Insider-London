@@ -1,14 +1,17 @@
 ---
-id: 1571
 title: 'The Knowledge: Your Cabby&#8217;s Brain on London'
-date: 2012-08-17T10:17:59+00:00
+date: '2012-08-17 10:17:59'
+categories:
+- blog
+- Quirky, weird and bizarre London
+id: 1571
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=1571
-permalink: /the-knowledge-your-cabbys-brain-london/
-categories:
-  - blog
-  - Quirky, weird and bizarre London
+permalink: "/the-knowledge-your-cabbys-brain-london/"
+slug: the-knowledge-your-cabbys-brain-london
+tags: []
+
 ---
 [<img class="aligncenter size-full wp-image-1885" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/171686396_9565f2d6df_b.jpg" alt="" width="568" height="176" />](http://www.insider-london.co.uk/wp-content/uploads/2012/08/171686396_9565f2d6df_b.jpg)
 

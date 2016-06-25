@@ -1,21 +1,23 @@
 ---
-id: 13788
 title: Silicon Roundabout – Racing Ahead
-date: 2014-02-03T20:09:23+00:00
+date: '2014-02-03 20:09:23'
+categories:
+- blog
+- East London
+id: 13788
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=13788
-permalink: /silicon-roundabout-racing-ahead/
-categories:
-  - blog
-  - East London
+permalink: "/silicon-roundabout-racing-ahead/"
 tags:
-  - East London
-  - Google Campus
-  - Moo
-  - Old Street Roundabout
-  - Silicon Roundabout
-  - Tech City
+- East London
+- Google Campus
+- Moo
+- Old Street Roundabout
+- Silicon Roundabout
+- Tech City
+slug: silicon-roundabout-racing-ahead
+
 ---
 &nbsp;
 

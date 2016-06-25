@@ -1,20 +1,22 @@
 ---
+title: East London Music Trends &#8211; Soundyoucansee interview (pt1)
+date: '2013-08-27 15:27:55'
+categories:
+- blog
+- East London
 id: 25431
-title: 'East London Music Trends &#8211; Soundyoucansee interview (pt1)'
-date: 2013-08-27T15:27:55+00:00
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=3717
-permalink: /east-london-music-trends/
-categories:
-  - blog
-  - East London
+permalink: "/east-london-music-trends/"
 tags:
-  - East London
-  - london music
-  - London music trends
-  - Shoreditch
-  - Soundyoucansee
+- East London
+- london music
+- London music trends
+- Shoreditch
+- Soundyoucansee
+slug: east-london-music-trends
+
 ---
 ###### [Niche London walking tours](http://www.insider-london.co.uk/ "Insider London Walking Tours") > [Insider Blog](http://www.insider-london.co.uk/blog/ "Insider London Blog") > London Music Trends
 

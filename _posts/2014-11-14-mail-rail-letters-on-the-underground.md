@@ -1,25 +1,27 @@
 ---
-id: 23255
 title: 'Mail Rail: Letters on the Underground'
-date: 2014-11-14T14:50:31+00:00
+date: '2014-11-14 14:50:31'
+categories:
+- blog
+- London Underground/Tube
+id: 23255
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=23255
-permalink: /mail-rail-letters-on-the-underground/
+permalink: "/mail-rail-letters-on-the-underground/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - London Underground/Tube
+- 
 tags:
-  - London Underground
-  - Tube
+- London Underground
+- Tube
+slug: mail-rail-letters-on-the-underground
+
 ---
 [<img class="aligncenter wp-image-23257 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/11/Mail-Rail-1980s_mini.jpg" alt="Mail Rail image C. Royal Mail" width="586" height="569" />](http://www.insider-london.co.uk/wp-content/uploads/2014/11/Mail-Rail-1980s_mini.jpg)
 

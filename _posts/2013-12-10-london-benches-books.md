@@ -1,21 +1,23 @@
 ---
-id: 12227
 title: Art Project to Turn London Benches into Books
-date: 2013-12-10T14:08:49+00:00
+date: '2013-12-10 14:08:49'
+categories:
+- blog
+- London Street Art &amp; Graffiti
+- Quirky, weird and bizarre London
+id: 12227
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=12227
-permalink: /london-benches-books/
-categories:
-  - blog
-  - 'London Street Art &amp; Graffiti'
-  - Quirky, weird and bizarre London
+permalink: "/london-benches-books/"
 tags:
-  - art
-  - book about town
-  - book bench
-  - London
-  - Street Art
+- art
+- book about town
+- book bench
+- London
+- Street Art
+slug: london-benches-books
+
 ---
 <figure style="width: 569px" class="wp-caption aligncenter"><img class="  " title="book bench" alt="book, bench, london" src="http://imageshack.com/a/img560/9451/mvw7.png" width="569" height="357" /><figcaption class="wp-caption-text">Image Credit: Mandii Pope</figcaption></figure> 
 

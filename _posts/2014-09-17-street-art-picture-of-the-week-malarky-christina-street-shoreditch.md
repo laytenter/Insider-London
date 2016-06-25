@@ -1,31 +1,33 @@
 ---
-id: 22032
 title: 'Street Art Picture of the Week: Malarky, Christina Street Shoreditch'
-date: 2014-09-17T11:30:39+00:00
+date: '2014-09-17 11:30:39'
+categories:
+- blog
+- East London
+- London Street Art &amp; Graffiti
+id: 22032
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=22032
-permalink: /street-art-picture-of-the-week-malarky-christina-street-shoreditch/
+permalink: "/street-art-picture-of-the-week-malarky-christina-street-shoreditch/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - East London
-  - 'London Street Art &amp; Graffiti'
+- 
 tags:
-  - Alternative London
-  - East London
-  - East London street art
-  - malarky
-  - Shoreditch
-  - street art and graffiti
-  - street art picture of the week
+- Alternative London
+- East London
+- East London street art
+- malarky
+- Shoreditch
+- street art and graffiti
+- street art picture of the week
+slug: street-art-picture-of-the-week-malarky-christina-street-shoreditch
+
 ---
 [<img class="aligncenter wp-image-22034 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/Malarky-Christina-Street.jpg" alt="Malarky london street art walking tour" width="569" height="759" />](http://www.insider-london.co.uk/wp-content/uploads/2014/09/Malarky-Christina-Street.jpg)
 

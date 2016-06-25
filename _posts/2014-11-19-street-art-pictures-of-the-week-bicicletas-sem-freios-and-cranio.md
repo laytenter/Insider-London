@@ -1,31 +1,33 @@
 ---
-id: 23440
 title: 'Street Art Pictures of the Week: Bicicleta Sem Freio and Cranio'
-date: 2014-11-19T10:30:32+00:00
+date: '2014-11-19 10:30:32'
+categories:
+- blog
+- East London
+- London Street Art &amp; Graffiti
+id: 23440
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=23440
-permalink: /street-art-pictures-of-the-week-bicicletas-sem-freios-and-cranio/
+permalink: "/street-art-pictures-of-the-week-bicicletas-sem-freios-and-cranio/"
 s4_url2s:
-  - 
+- 
 s4_image2s:
-  - 
+- 
 s4_ctitle:
-  - 
+- 
 s4_cdes:
-  - 
-categories:
-  - blog
-  - East London
-  - 'London Street Art &amp; Graffiti'
+- 
 tags:
-  - Alternative London
-  - Bicicletas Sem Freios
-  - Brick Lane
-  - cranio
-  - london street art and graffiti
-  - Street Art
-  - street art picture of the week
+- Alternative London
+- Bicicletas Sem Freios
+- Brick Lane
+- cranio
+- london street art and graffiti
+- Street Art
+- street art picture of the week
+slug: street-art-pictures-of-the-week-bicicletas-sem-freios-and-cranio
+
 ---
 [<img class="aligncenter wp-image-23444 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/11/8a_mini.jpg" alt="Bicicletas Sem Freios alternative street art " width="569" height="427" />](http://www.insider-london.co.uk/wp-content/uploads/2014/11/8a_mini.jpg)
 

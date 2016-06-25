@@ -1,17 +1,19 @@
 ---
-id: 738
 title: Cocktails at Happiness Forgets
-date: 2012-07-14T10:23:24+00:00
+date: '2012-07-14 10:23:24'
+categories:
+- blog
+- London Pubs and nights out
+id: 738
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=738
-permalink: /cocktails-happiness-forgets/
-categories:
-  - blog
-  - London Pubs and nights out
+permalink: "/cocktails-happiness-forgets/"
 tags:
-  - cocktails
-  - East End
+- cocktails
+- East End
+slug: cocktails-happiness-forgets
+
 ---
 <p style="text-align: center">
   <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/06/Happiness-Forgets.jpg"><img class="size-medium wp-image-741 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2012/06/Happiness-Forgets-300x300.jpg" alt="Hoxton Square London Drinks" width="300" height="300" /></a>

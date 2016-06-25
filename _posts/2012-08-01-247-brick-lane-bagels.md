@@ -1,18 +1,20 @@
 ---
-id: 1202
 title: 24/7 Brick Lane Bagels
-date: 2012-08-01T11:30:40+00:00
+date: '2012-08-01 11:30:40'
+categories:
+- blog
+- East London
+id: 1202
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=1202
-permalink: /247-brick-lane-bagels/
-categories:
-  - blog
-  - East London
+permalink: "/247-brick-lane-bagels/"
 tags:
-  - Bagels
-  - Brick Lane
-  - East London
+- Bagels
+- Brick Lane
+- East London
+slug: 247-brick-lane-bagels
+
 ---
 <p style="text-align: center">
   <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/08/beigel-bake.jpg"><img class="size-full wp-image-1212 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/beigel-bake.jpg" alt="beigel bake Brick lane london insider" width="569" height="379" /></a>
