@@ -25,6 +25,7 @@ related:
 - 12345
 slug: quirky-tour
 tags: []
+---
 
 <p class="lede">Insider London's Quirky London Tour is an alternative guided walking tour that will introduce you to the rare, eccentric, comical, and just plain quirky facts about London.</p>
 
