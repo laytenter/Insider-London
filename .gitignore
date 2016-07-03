@@ -3,5 +3,4 @@ _site
 .jekyll-metadata
 /node_modules
 /wp-content
-/assets/css
 /assets/js
