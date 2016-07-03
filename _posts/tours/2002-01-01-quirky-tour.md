@@ -16,9 +16,11 @@ banner: IMGP19091-1168x600.jpg
 hidden: true
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9932.007090001796!2d-0.12702783599357304!3d51.513183477127704!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604cc9188694f%3A0x388b51ab073ca62!2sCovent+Garden!5e0!3m2!1sen!2s!4v1431588532795
 related:
-  - 32143
-  - 29349
-  - 12345
+- 32143
+- 29349
+- 12345
+slug: quirky-tour
+tags: []
 ---
 
 <p class="lede">Insider London's Quirky London Tour is an alternative guided walking tour that will introduce you to the rare, eccentric, comical, and just plain quirky facts about London.</p>
