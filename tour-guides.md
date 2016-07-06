@@ -4,7 +4,7 @@ permalink: "/tour-guides/"
 layout: page
 ---
 
-Insider London's guided walking tours are planned and led by our team of lovely guides. Read on to meet the team!!
+Insider London's guided walking tours are planned and led by our team of lovely guides. Read on to meet the team...
 <div class="media media--responsive palm-mb-- lap-mb- desk-mb">
   <img src="{{ site.baseurl }}/assets/images/Michelle picture-240x240.jpg" class="media__img">
   <div class="media__body">
