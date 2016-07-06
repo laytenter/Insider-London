@@ -1,6 +1,6 @@
 ---
 title: Terms of Business
-date: '2015-05-07 10:43:32'
+date: 2015-05-07 10:43:32 Z
 id: 4194
 author: london75
 layout: page
@@ -9,8 +9,8 @@ slide_template:
 - default
 vc_teaser:
 - a:2:{s:4:"data";s:115:"[{"name":"title","link":"post"},{"name":"image","image":"featured","link":"none"},{"name":"text","mode":"excerpt"}]";s:7:"bgcolor";s:0:"";}
-
 ---
+
 <section class="wpb\_row block vc\_row-fluid">
 
 <div class="container">

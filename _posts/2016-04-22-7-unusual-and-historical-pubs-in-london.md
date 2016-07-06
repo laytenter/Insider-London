@@ -1,14 +1,12 @@
 ---
 title: "\uFEFF7 Unusual and Historical Pubs in London"
-date: '2016-04-22 22:03:24'
+date: 2016-04-22 22:03:24 Z
+permalink: "/7-unusual-and-historical-pubs-in-london/"
 categories:
 - blog
 layout: post
-permalink: "/7-unusual-and-historical-pubs-in-london/"
-slug: 7-unusual-and-historical-pubs-in-london
-tags: []
-
 ---
+
 A guide to pubs in the capital city; discover unusual facts and secrets about some of London’s most historical pubs.
 
 London is well known for its traditional pubs and beer taverns. If you are fanatical about history or just love a good story, we’ve put together a list of the most unusual and historical pubs in London. We have included some quirky and interesting facts that even born and bred Londoners might not know. Here are our insider secrets that will leave you wishing that you were already at the pub…

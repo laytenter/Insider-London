@@ -1,23 +1,22 @@
 ---
 title: High Line
-date: '2012-12-21 13:14:32'
+date: 2012-12-21 13:14:32 Z
+permalink: "/high-line-london-underground/"
 categories:
 - blog
 - Green London
 - London Underground/Tube
-id: 3432
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=3432
-permalink: "/high-line-london-underground/"
 tags:
 - London Underground
 - mushroom garden
 - quirky london
 - Tube
-slug: high-line-london-underground
-
+id: 3432
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=3432
 ---
+
 You may have noticed a petition doing the rounds to open up London’s disused underground railways (we&#8217;ve certainly been tweeting it like mad). It might surprise you to learn that there are no less than _twenty-six_ disused stations underneath London: that&#8217;s a whole lotta disused space for a cramped city. (Who&#8217;s betting you&#8217;ll grumble about this fact the next time you&#8217;re crushed to within an inch of your life on a busy tube platform).
   
 But, encouragingly, there are some plans in the pipeline (very weak, I know) to take on some of these disused railways. These are the Rail Mail tunnels. Originally a pneumatic railway (for those of you who, like me, didn’t know, pneumatic basically means propelling things around with compressed air), the tunnels were used to whiz around post for the Royal Mail. Unfortunately the rail was closed in 2002, after the Mail announced it was making some rather gigantic losses of £1.2m a day.

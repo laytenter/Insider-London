@@ -1,21 +1,20 @@
 ---
 title: An App for Everything Green
-date: '2012-08-17 09:07:58'
+date: 2012-08-17 09:07:58 Z
+permalink: "/an-app-everything-green/"
 categories:
 - blog
 - Green London
-id: 1429
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=1429
-permalink: "/an-app-everything-green/"
 tags:
 - Apps
 - green
 - Technology
-slug: an-app-everything-green
-
+id: 1429
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=1429
 ---
+
 <p style="text-align: center">
   <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/08/main_greeguides.jpg"><img class="aligncenter  wp-image-1431" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/main_greeguides.jpg" alt="" width="569" height="320" /></a>
 </p>

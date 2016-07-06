@@ -1,25 +1,13 @@
 ---
 title: 10 spots to find some peace and quiet in London
-date: '2014-09-22 16:19:55'
+date: 2014-09-22 16:19:55 Z
+permalink: "/10-spots-to-find-some-peace-and-quiet-in-london/"
 categories:
 - blog
 - East London
 - Food and drink
 - Other
 - Quirky, weird and bizarre London
-id: 22159
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=22159
-permalink: "/10-spots-to-find-some-peace-and-quiet-in-london/"
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
 tags:
 - all over London
 - Alternative London
@@ -29,9 +17,20 @@ tags:
 - quiet london
 - quirky london
 - Silicon Roundabout
-slug: 10-spots-to-find-some-peace-and-quiet-in-london
-
+id: 22159
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=22159
+s4_url2s:
+- 
+s4_image2s:
+- 
+s4_ctitle:
+- 
+s4_cdes:
+- 
 ---
+
 Sometimes the pace of London life can all get too much. We all feel it: it&#8217;s why Siobhan Wall&#8217;s <a href="http://www.amazon.co.uk/Quiet-London-Siobhan-Wall/dp/0711231907" target="_blank">Quiet London book</a> was such a success. Its soothing pages directed frazzled Londoners to quiet spots in the capital to meet and talk, and sit and think.
 
 [<img class="size-full wp-image-22163 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/quiet-london-books_mini.jpg" alt="quiet alternative london" width="569" height="451" />](http://www.insider-london.co.uk/wp-content/uploads/2014/09/quiet-london-books_mini.jpg)

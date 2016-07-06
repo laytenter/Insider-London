@@ -1,15 +1,20 @@
 ---
 title: 'Street Art Picture of the Week: 40HK&#8217;s Rainbow, Shoreditch'
-date: '2014-07-23 11:30:55'
+date: 2014-07-23 11:30:55 Z
+permalink: "/street-art-40hk-rainbow-leonard-street-shoreditch/"
 categories:
 - blog
 - East London
 - London Street Art &amp; Graffiti
+tags:
+- alternative London walking tours
+- East London street art
+- Shoreditch
+- Street Art
 id: 15476
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=15476
-permalink: "/street-art-40hk-rainbow-leonard-street-shoreditch/"
 s4_url2s:
 - 
 s4_image2s:
@@ -18,14 +23,8 @@ s4_ctitle:
 - 
 s4_cdes:
 - 
-tags:
-- alternative London walking tours
-- East London street art
-- Shoreditch
-- Street Art
-slug: street-art-40hk-rainbow-leonard-street-shoreditch
-
 ---
+
 <p style="text-align: center;">
   <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/07/40HK-Rainbow.jpg"><img class="alignnone size-full wp-image-15478" src="http://www.insider-london.co.uk/wp-content/uploads/2014/07/40HK-Rainbow.jpg" alt="Shoreditch street art walking tour rainbow" width="569" height="759" /></a>
 </p>

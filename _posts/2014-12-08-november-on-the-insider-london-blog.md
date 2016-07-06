@@ -1,6 +1,7 @@
 ---
 title: November on the Insider London blog
-date: '2014-12-08 10:30:30'
+date: 2014-12-08 10:30:30 Z
+permalink: "/november-on-the-insider-london-blog/"
 categories:
 - blog
 - East London
@@ -9,19 +10,6 @@ categories:
 - Modern Architecture
 - Other
 - Quirky, weird and bizarre London
-id: 23538
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=23538
-permalink: "/november-on-the-insider-london-blog/"
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
 tags:
 - all over London
 - Alternative London
@@ -31,9 +19,20 @@ tags:
 - London Underground
 - skyscrapers
 - Tube
-slug: november-on-the-insider-london-blog
-
+id: 23538
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=23538
+s4_url2s:
+- 
+s4_image2s:
+- 
+s4_ctitle:
+- 
+s4_cdes:
+- 
 ---
+
 <img class="aligncenter wp-image-23234 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/11/Outings-Project-Dijon_mini.jpg" alt="Street art dijon" width="569" height="427" />
 
 As we hurtle towards the end of the year, let&#8217;s take a moment to pause and remind ourselves of some of the things we enjoyed over November.

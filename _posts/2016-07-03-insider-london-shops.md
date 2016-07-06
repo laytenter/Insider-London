@@ -1,10 +1,10 @@
 ---
-title: ﻿Unusual and Historical Shops in London
-date: 2016-07-3T20:16:24+00:00
-layout: post
-permalink: /insider-london-shops/
+title: "\uFEFFUnusual and Historical Shops in London"
+date: 2016-07-03 20:16:24 Z
+permalink: "/insider-london-shops/"
 categories:
-  - blog
+- blog
+layout: post
 ---
 
 Learn about London’s history with this fascinating selection of old, unusual and interesting shops. Find out what to see in London with our historical guide.

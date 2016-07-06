@@ -1,6 +1,7 @@
 ---
 title: 10 Ideas for a Greener London
-date: '2015-06-25 11:57:28'
+date: 2015-06-25 11:57:28 Z
+permalink: "/10-ideas-for-a-greener-london/"
 categories:
 - blog
 - Uncategorised
@@ -8,11 +9,8 @@ id: 27285
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=27285
-permalink: "/10-ideas-for-a-greener-london/"
-slug: 10-ideas-for-a-greener-london
-tags: []
-
 ---
+
 By Angela Lord
 
 You may be surprised to learn that London ranks in second place on the [Arcadis Index of Sustainable Cities](http://www.sustainablecitiesindex.com/). ‘Sustainability’ is a subject very close to our hearts (check out our or [Sustainable Architecture London](http://www.insider-london.co.uk/product/sustainable-london-architecture-tour/) or [Cutting Edge Green London](http://www.insider-london.co.uk/product/cutting-edge-green/) tours for evidence!).

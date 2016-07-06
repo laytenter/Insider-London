@@ -1,23 +1,22 @@
 ---
 title: Banksy Banks It At Sotheby&#8217;s
-date: '2014-06-23 11:30:09'
+date: 2014-06-23 11:30:09 Z
+permalink: "/banksy-london-street-art/"
 categories:
 - blog
 - London Street Art &amp; Graffiti
 - Other
-id: 15065
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=15065
-permalink: "/banksy-london-street-art/"
 tags:
 - Alternative London
 - London
 - London Street art
 - Street Art
-slug: banksy-london-street-art
-
+id: 15065
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=15065
 ---
+
 [<img class="size-full wp-image-15073 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/06/banksy-street-art-london.jpg" alt="banksy London street art walking tour" width="569" height="427" />](http://www.insider-london.co.uk/wp-content/uploads/2014/06/banksy-street-art-london.jpg)
 
 <p style="text-align: center;">

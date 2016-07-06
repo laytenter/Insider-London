@@ -1,15 +1,21 @@
 ---
 title: 'Sherlock Homes: The Great Detective'
-date: '2014-10-13 10:30:05'
+date: 2014-10-13 10:30:05 Z
+permalink: "/sherlock-homes-the-great-detective/"
 categories:
 - blog
 - Other
 - Quirky, weird and bizarre London
+tags:
+- baker street
+- exhibitions
+- fiction
+- museum of London
+- sherlock holmes
 id: 22418
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=22418
-permalink: "/sherlock-homes-the-great-detective/"
 s4_cdes:
 - 
 s4_ctitle:
@@ -18,15 +24,8 @@ s4_image2s:
 - 
 s4_url2s:
 - 
-tags:
-- baker street
-- exhibitions
-- fiction
-- museum of London
-- sherlock holmes
-slug: sherlock-homes-the-great-detective
-
 ---
+
 [<img class="aligncenter size-full wp-image-22962" src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/rsz_sherlock_mini.jpg" alt="Museum of London objects for Sherlock Holmes Exhibition" width="569" height="443" />](http://www.insider-london.co.uk/wp-content/uploads/2014/09/rsz_sherlock_mini.jpg) The great detective Sherlock Holmes is a legendary London figure who has caught the public imagination and been immortalised on film by a number of outstanding actors, from Basil Rathbone to Benedict Cumberbatch. A new exhibition at the Museum of London invites visitors to investigate the life and times of Arthur Conan Doyle’s iconic creation.
 
 Exploring the secret of the character’s enduring attraction, it examines how the stories have made the transition from page to screen and continue to appeal to today’s audiences. Early film, photography, paintings and original artefacts are used to recreate the atmosphere of Victorian London, conjuring up the days when horse-drawn carriages could be seen along the Strand. Conan Doyle wrote his first Sherlock Holmes story, A Study in Scarlet, in 1886, creating a detective famed for his brilliant mind and remarkable powers of deduction. Together with his companion Dr Watson,  who acts as narrator, Holmes investigates and solves baffling cases and battles with his arch enemy, Moriarty.

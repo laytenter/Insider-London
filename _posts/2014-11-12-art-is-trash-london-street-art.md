@@ -1,24 +1,12 @@
 ---
 title: 'Street Art Picture of the Week: Art Is Tra$h, Redchurch Street, London'
-date: '2014-11-12 10:00:46'
+date: 2014-11-12 10:00:46 Z
+permalink: "/art-is-trash-london-street-art/"
 categories:
 - blog
 - East London
 - London Street Art &amp; Graffiti
 - Other
-id: 23288
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=23288
-permalink: "/art-is-trash-london-street-art/"
-s4_cdes:
-- 
-s4_ctitle:
-- 
-s4_image2s:
-- 
-s4_url2s:
-- 
 tags:
 - Brick Lane
 - East London
@@ -28,9 +16,20 @@ tags:
 - redchurch street
 - street art and graffiti
 - street art picture of the week
-slug: art-is-trash-london-street-art
-
+id: 23288
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=23288
+s4_cdes:
+- 
+s4_ctitle:
+- 
+s4_image2s:
+- 
+s4_url2s:
+- 
 ---
+
 <p style="text-align: center;">
   <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/11/21b_mini.jpg"><img class="alignnone size-full wp-image-23294" src="http://www.insider-london.co.uk/wp-content/uploads/2014/11/21b_mini.jpg" alt="art is trash street art london" width="569" height="427" /></a>
 </p>

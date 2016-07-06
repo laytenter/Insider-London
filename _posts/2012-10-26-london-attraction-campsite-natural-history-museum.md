@@ -1,15 +1,11 @@
 ---
 title: Get back to nature at London&#8217;s autumnal campsite
-date: '2012-10-26 13:45:52'
+date: 2012-10-26 13:45:52 Z
+permalink: "/london-attraction-campsite-natural-history-museum/"
 categories:
 - blog
 - Green London
 - Quirky, weird and bizarre London
-id: 2133
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=2133
-permalink: "/london-attraction-campsite-natural-history-museum/"
 tags:
 - Alternative London
 - Camping
@@ -18,9 +14,12 @@ tags:
 - Natural History
 - places to relax
 - sightseeing
-slug: london-attraction-campsite-natural-history-museum
-
+id: 2133
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=2133
 ---
+
 <figure id="attachment_2137" style="width: 569px" class="wp-caption alignnone"><img class="size-full wp-image-2137" src="http://www.insider-london.co.uk/wp-content/uploads/2012/10/London-Campsite-Natural-History-Museum1.jpg" alt="" width="569" height="379" /><figcaption class="wp-caption-text">(Photograph: Natural History Museum)</figcaption></figure> 
 
 <p style="text-align: justify">

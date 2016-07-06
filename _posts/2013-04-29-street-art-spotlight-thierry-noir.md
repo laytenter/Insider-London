@@ -1,15 +1,11 @@
 ---
 title: Street Artist Spotlight &#8211; Thierry Noir
-date: '2013-04-29 11:53:57'
+date: 2013-04-29 11:53:57 Z
+permalink: "/street-art-spotlight-thierry-noir/"
 categories:
 - blog
 - East London
 - London Street Art &amp; Graffiti
-id: 4929
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=4929
-permalink: "/street-art-spotlight-thierry-noir/"
 tags:
 - Insider London
 - London walking tours
@@ -17,9 +13,12 @@ tags:
 - Street Art
 - Thierry Noir
 - Village Underground
-slug: street-art-spotlight-thierry-noir
-
+id: 4929
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=4929
 ---
+
 ###### [Alternative London Walking Tours](http://www.insider-london.co.uk/ "Alternative London Walking Tours") > [Insider Blog](http://www.insider-london.co.uk/blog/ "Insider London blog") > Thierry Noir
 
 **[Thierry Noir](http://www.galerie-noir.de/index.html "Theirry's website") shot to fame in the 80s when he decided the old Berlin Wall was looking a bit shabby and that the whole totalitarian state thing needed a bit of [zhoozh](Thierry and the Berlin Wall "http://www.galerie-noir.de/ArchivesEnglish/LifeNearTheWall.html"). I do not seek to make unnecessary light of such a horror &#8211; thank goodness, frankly, for people like Thierry seeking to demystify the dehumanising effect of the wall. And it was joyous poetry that the man himself was not only there to see it come down but was also one of the first to paint the East side.**

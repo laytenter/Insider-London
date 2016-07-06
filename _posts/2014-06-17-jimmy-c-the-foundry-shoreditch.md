@@ -1,22 +1,21 @@
 ---
 title: 'Street Art Picture of the Week: Jimmy C, The Foundry, Shoreditch'
-date: '2014-06-17 13:00:08'
+date: 2014-06-17 13:00:08 Z
+permalink: "/jimmy-c-the-foundry-shoreditch/"
 categories:
 - blog
 - East London
 - London Street Art &amp; Graffiti
-id: 15016
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=15016
-permalink: "/jimmy-c-the-foundry-shoreditch/"
 tags:
 - East London
 - Shoreditch
 - Street Art
-slug: jimmy-c-the-foundry-shoreditch
-
+id: 15016
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=15016
 ---
+
 <p style="color: #4d4d4d; text-align: center;">
   <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/06/Jimmy-C-Foundry.jpg"><img class="alignnone size-full wp-image-15018" src="http://www.insider-london.co.uk/wp-content/uploads/2014/06/Jimmy-C-Foundry.jpg" alt="Jimmy C street art walking tour london" width="569" height="759" /></a>
 </p>

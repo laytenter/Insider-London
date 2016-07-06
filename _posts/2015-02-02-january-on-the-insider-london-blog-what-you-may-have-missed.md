@@ -1,25 +1,13 @@
 ---
 title: 'January on the Insider London blog: What You May Have Missed'
-date: '2015-02-02 10:30:22'
+date: 2015-02-02 10:30:22 Z
+permalink: "/january-on-the-insider-london-blog-what-you-may-have-missed/"
 categories:
 - blog
 - Food and drink
 - Green London
 - London Street Art &amp; Graffiti
 - Sustainable Architecture
-id: 24627
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=24627
-permalink: "/january-on-the-insider-london-blog-what-you-may-have-missed/"
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
 tags:
 - alternative London walking tours
 - architecture
@@ -30,9 +18,20 @@ tags:
 - skyscrapers
 - Sustainable Architecture
 - sustainable london
-slug: january-on-the-insider-london-blog-what-you-may-have-missed
-
+id: 24627
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=24627
+s4_url2s:
+- 
+s4_image2s:
+- 
+s4_ctitle:
+- 
+s4_cdes:
+- 
 ---
+
 Well, we did it &#8211; we made it through January, spirits &#8211; if not all our resolutions &#8211; intact. How are you doing? Why not make the most of the dark February days to do a bit of catching up with some of <a href="http://www.insider-london.co.uk/blog/" target="_blank">Insider London blog posts</a> from January?
 
 <img class="aligncenter wp-image-24455 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/sky-garden.jpg" alt="sky garden walkie talkie london" width="569" height="339" />

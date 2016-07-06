@@ -1,11 +1,12 @@
 ---
 title: About Us
-date: '2015-05-12 00:00:00'
-id: 2546744
+date: 2015-05-12 00:00:00 Z
 permalink: "/about-us/"
+id: 2546744
 author: london75
 layout: page
 ---
+
 <section class="wpb\_row block vc\_row-fluid vc\_custom\_1431443762184">
 
 <div class="container">

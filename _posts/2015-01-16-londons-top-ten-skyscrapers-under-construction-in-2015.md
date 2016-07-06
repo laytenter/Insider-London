@@ -1,25 +1,13 @@
 ---
 title: London&#8217;s top ten skyscrapers under construction in 2015
-date: '2015-01-16 14:21:35'
+date: 2015-01-16 14:21:35 Z
+permalink: "/londons-top-ten-skyscrapers-under-construction-in-2015/"
 categories:
 - blog
 - East London
 - Modern Architecture
 - Other
 - Sustainable Architecture
-id: 24488
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=24488
-permalink: "/londons-top-ten-skyscrapers-under-construction-in-2015/"
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
 tags:
 - architecture
 - Central London
@@ -31,9 +19,20 @@ tags:
 - residential
 - South london
 - Sustainable Architecture
-slug: londons-top-ten-skyscrapers-under-construction-in-2015
-
+id: 24488
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=24488
+s4_url2s:
+- 
+s4_image2s:
+- 
+s4_ctitle:
+- 
+s4_cdes:
+- 
 ---
+
 <img class="aligncenter wp-image-24504 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/5082944287_70de603291_z.jpg" alt="London's skyscrapers" width="569" height="365" />
 
 <p style="text-align: center">

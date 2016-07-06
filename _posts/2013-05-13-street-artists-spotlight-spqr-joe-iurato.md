@@ -1,23 +1,22 @@
 ---
 title: Street Artist&#8217;s Spotlight &#8211; SPQR &#038; Joe Iurato
-date: '2013-05-13 11:23:55'
+date: 2013-05-13 11:23:55 Z
+permalink: "/street-artists-spotlight-spqr-joe-iurato/"
 categories:
 - blog
 - East London
 - London Street Art &amp; Graffiti
-id: 4959
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=4959
-permalink: "/street-artists-spotlight-spqr-joe-iurato/"
 tags:
 - Insider London
 - Joe Iurato
 - SPQR
 - walking tours
-slug: street-artists-spotlight-spqr-joe-iurato
-
+id: 4959
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=4959
 ---
+
 ###### [Unique London Waling Tours](http://www.insider-london.co.uk/ "Unique London Waling Tours") > [###### [Unique London Waling Tours](http://www.insider-london.co.uk/ "Unique London Waling Tours") >](http://www.insider-london.co.uk/blog/ "London Tour blog ") > Street artists spotlight
 
 <a href="http://www.insider-london.co.uk/blog/2013/05/13/street-artists-spotlight-spqr-joe-iurato/iurato-3/" rel="attachment wp-att-4981"><img class="alignnone size-full wp-image-4981" src="http://www.insider-london.co.uk/wp-content/uploads/2013/03/iurato2.jpg" alt="Joe Iurato, street art, Signal Gallery, London walking tours, Insider London" width="567" height="550" /></a>

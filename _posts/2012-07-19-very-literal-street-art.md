@@ -1,21 +1,20 @@
 ---
 title: Very Literal Street Art
-date: '2012-07-19 11:52:24'
+date: 2012-07-19 11:52:24 Z
+permalink: "/very-literal-street-art/"
 categories:
 - blog
 - London Street Art &amp; Graffiti
-id: 783
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=783
-permalink: "/very-literal-street-art/"
 tags:
 - art
 - East London
 - sightseeing
-slug: very-literal-street-art
-
+id: 783
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=783
 ---
+
 <p style="text-align: center">
   <img class="aligncenter" src="http://www.lifeartworks.com/wp-content/uploads/2011/01/Chewing-Gum-Art-3.jpg" alt="Street art chewing gum" width="448" height="301" />
 </p>

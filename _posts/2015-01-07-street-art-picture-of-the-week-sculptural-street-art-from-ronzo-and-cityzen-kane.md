@@ -1,25 +1,13 @@
 ---
 title: 'Street Art Picture of the Week: Sculptural street art from Ronzo and CityZen
   Kane'
-date: '2015-01-07 10:30:04'
+date: 2015-01-07 10:30:04 Z
+permalink: "/street-art-picture-of-the-week-sculptural-street-art-from-ronzo-and-cityzen-kane/"
 categories:
 - blog
 - East London
 - London Street Art &amp; Graffiti
 - Other
-id: 24442
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=24442
-permalink: "/street-art-picture-of-the-week-sculptural-street-art-from-ronzo-and-cityzen-kane/"
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
 tags:
 - Alternative London
 - Brick Lane
@@ -31,9 +19,20 @@ tags:
 - ronzo
 - Street Art
 - street art picture of the week
-slug: street-art-picture-of-the-week-sculptural-street-art-from-ronzo-and-cityzen-kane
-
+id: 24442
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=24442
+s4_url2s:
+- 
+s4_image2s:
+- 
+s4_ctitle:
+- 
+s4_cdes:
+- 
 ---
+
 <img class="aligncenter wp-image-24445 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/19a_mini.jpg" alt="street art alternative walking tours london" width="569" height="430" />
 
 When you think of street art, you may think of spray cans, but these works by Ronzo and CityZen Kane show it doesn&#8217;t need to look like that: both artists work in a more sculptural form.

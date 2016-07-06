@@ -1,15 +1,19 @@
 ---
 title: Celebrate Chinese New Year in London
-date: '2015-02-16 10:30:40'
+date: 2015-02-16 10:30:40 Z
+permalink: "/celebrate-chinese-new-year-in-london/"
 categories:
 - blog
 - Food and drink
 - Modern Architecture
+tags:
+- activities in London
+- modern architecture
+- Tech City
 id: 24741
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=24741
-permalink: "/celebrate-chinese-new-year-in-london/"
 s4_url2s:
 - 
 s4_image2s:
@@ -18,13 +22,8 @@ s4_ctitle:
 - 
 s4_cdes:
 - 
-tags:
-- activities in London
-- modern architecture
-- Tech City
-slug: celebrate-chinese-new-year-in-london
-
 ---
+
 &nbsp;
 
 <img class="aligncenter wp-image-24778 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/Chinese-New-Year.jpg" alt="Chinese New Year" width="569" height="373" />

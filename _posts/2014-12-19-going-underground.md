@@ -1,6 +1,7 @@
 ---
 title: Going Underground
-date: '2014-12-19 10:30:49'
+date: 2014-12-19 10:30:49 Z
+permalink: "/going-underground/"
 categories:
 - blog
 - Food and drink
@@ -8,19 +9,6 @@ categories:
 - London Underground/Tube
 - Other
 - Retail Store Design
-id: 23594
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=23594
-permalink: "/going-underground/"
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
-s4_url2s:
-- 
 tags:
 - ghost stations
 - London Underground
@@ -29,9 +17,20 @@ tags:
 - shopping
 - train stations
 - Tube
-slug: going-underground
-
+id: 23594
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=23594
+s4_image2s:
+- 
+s4_ctitle:
+- 
+s4_cdes:
+- 
+s4_url2s:
+- 
 ---
+
 <dl id="attachment_23601" class="wp-caption aligncenter" style="width: 579px;">
   <dt class="wp-caption-dt">
     <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/12/Old_street_1-resized.jpg"><img class="size-full wp-image-23601" src="http://www.insider-london.co.uk/wp-content/uploads/2014/12/Old_street_1-resized.jpg" alt="Old Street Station C. Transport for London" width="569" height="360" /></a>

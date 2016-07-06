@@ -1,22 +1,10 @@
 ---
 title: Ecology Volunteering in London
-date: '2014-07-18 11:30:54'
+date: 2014-07-18 11:30:54 Z
+permalink: "/ecology-volunteering-in-london/"
 categories:
 - blog
 - Green London
-id: 15191
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=15191
-permalink: "/ecology-volunteering-in-london/"
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
 tags:
 - Alternative London
 - ecology
@@ -26,9 +14,20 @@ tags:
 - group tours
 - sustainable london
 - volunteering
-slug: ecology-volunteering-in-london
-
+id: 15191
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=15191
+s4_url2s:
+- 
+s4_image2s:
+- 
+s4_ctitle:
+- 
+s4_cdes:
+- 
 ---
+
 You don&#8217;t need to jet off to the Amazon to get to grips with nature. We’ve found some brilliant ecology volunteering opportunities here in London, all within view of your nearest Pret A Manger.
 
 [<img class="aligncenter wp-image-15194 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/07/BeFunky_capital-cleanup.jpg_mini.jpg" alt="London volunteers" width="569" height="378" />](http://www.insider-london.co.uk/wp-content/uploads/2014/07/BeFunky_capital-cleanup.jpg_mini.jpg)

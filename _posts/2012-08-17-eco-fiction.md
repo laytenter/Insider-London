@@ -1,20 +1,19 @@
 ---
 title: Eco Fiction
-date: '2012-08-17 08:28:50'
+date: 2012-08-17 08:28:50 Z
+permalink: "/eco-fiction/"
 categories:
 - blog
 - Green London
+tags:
+- Books
+- green
 id: 1371
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=1371
-permalink: "/eco-fiction/"
-tags:
-- Books
-- green
-slug: eco-fiction
-
 ---
+
 So, I was perusing the internet for some green inspiration this week, checking out some websites and reading my Google alerts (try it out if you haven&#8217;t already &#8211; amazing) when I came across something really unusual. A new craze is set to take the world by STORM (well, maybe, anyway you heard it here first!), a new form of literature if you will. Prepare yourself: the eco book.
 
 <div>

@@ -1,17 +1,24 @@
 ---
 title: 'Street Art Picture of the Week: Pablo Delgado'
-date: '2014-09-10 11:30:45'
+date: 2014-09-10 11:30:45 Z
+permalink: "/pablo-delgado/"
 categories:
 - blog
 - East London
 - London Street Art &amp; Graffiti
 - Other
 - Quirky, weird and bizarre London
+tags:
+- Alternative London
+- East London street art
+- London Street art
+- quirky london
+- street art and graffiti
+- street art picture of the week
 id: 21301
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=21301
-permalink: "/pablo-delgado/"
 s4_cdes:
 - 
 s4_ctitle:
@@ -20,16 +27,8 @@ s4_image2s:
 - 
 s4_url2s:
 - 
-tags:
-- Alternative London
-- East London street art
-- London Street art
-- quirky london
-- street art and graffiti
-- street art picture of the week
-slug: pablo-delgado
-
 ---
+
 [<img class="aligncenter wp-image-21316 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/Pablo-Delgardo.jpg" alt="Pablo Delgardo street art walking tour" width="569" height="427" />](http://www.insider-london.co.uk/wp-content/uploads/2014/09/Pablo-Delgardo.jpg)
 
 You have to look closely if you want to spot the work of Pablo Delgado. This Mexican-born London-based street artists is known for his tiny people, taken from mass media and pasted onto walls in the capital. They&#8217;re even been given their own shadows for added realism.

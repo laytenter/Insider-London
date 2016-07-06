@@ -1,22 +1,21 @@
 ---
 title: London street art in a sweet shop?
-date: '2013-04-08 14:11:07'
+date: 2013-04-08 14:11:07 Z
+permalink: "/zeus-london-street-art/"
 categories:
 - blog
 - London Street Art &amp; Graffiti
-id: 4483
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=4483
-permalink: "/zeus-london-street-art/"
 tags:
 - alternative London walking tours
 - Insider London
 - London Street art
 - Zeus
-slug: zeus-london-street-art
-
+id: 4483
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=4483
 ---
+
 ###### [Alternative London walking tours](http://www.insider-london.co.uk/ "Alternative London walking tours") > [Tour blog](http://www.insider-london.co.uk/blog/ "Insider London walking tour blog") > Street art in a sweet shop
 
 **It’s an ongoing debate – and it won’t go away.  Should street artists put their work in galleries? Do (some) street artists that decide against such a pursuit get too het up about people wanting to earn a living from it? At what stage do you cease to be a street artist?**

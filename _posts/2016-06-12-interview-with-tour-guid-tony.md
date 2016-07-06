@@ -1,10 +1,10 @@
 ---
 title: An interview with an Insider London Tour Guide, Tony Sweet
-date: 2016-06-12T19:31:24+00:00
-layout: post
-permalink: /an-interview-with-an-insider-london-tour-guide-tony-sweet/
+date: 2016-06-12 19:31:24 Z
+permalink: "/an-interview-with-an-insider-london-tour-guide-tony-sweet/"
 categories:
-  - blog
+- blog
+layout: post
 ---
 
 Ever wondered what it’s like to be a London tour guide? We chat to Tony, one of Insider London’s enthusiastic guides about introducing tourists to the city of London.

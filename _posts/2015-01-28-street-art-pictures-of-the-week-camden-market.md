@@ -1,23 +1,11 @@
 ---
 title: 'Street Art Pictures of the Week: Camden Market'
-date: '2015-01-28 10:30:10'
+date: 2015-01-28 10:30:10 Z
+permalink: "/street-art-pictures-of-the-week-camden-market/"
 categories:
 - blog
 - London Street Art &amp; Graffiti
 - Other
-id: 24559
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=24559
-permalink: "/street-art-pictures-of-the-week-camden-market/"
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
 tags:
 - Airborne Mark
 - camden
@@ -27,9 +15,20 @@ tags:
 - mr shiz
 - Street Art
 - street art picture of the week
-slug: street-art-pictures-of-the-week-camden-market
-
+id: 24559
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=24559
+s4_url2s:
+- 
+s4_image2s:
+- 
+s4_ctitle:
+- 
+s4_cdes:
+- 
 ---
+
 <img class="aligncenter wp-image-24577 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/Mr-Cenz-Camden_mini.jpg" alt="mr cenz camden street art" width="569" height="450" />
 
 <p style="text-align: center;">

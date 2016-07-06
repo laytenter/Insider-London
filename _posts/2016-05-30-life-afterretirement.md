@@ -1,10 +1,10 @@
 ---
 title: Life after retirement, exploring London
-date: 2016-05-30T15:56:24
-layout: post
-permalink: /life-after-retirement-exploring-london/
+date: 2016-05-30 15:56:24 Z
+permalink: "/life-after-retirement-exploring-london/"
 categories:
-  - blog
+- blog
+layout: post
 ---
 
 After a lifetime of early starts and long hours, retirement is the perfect opportunity to start living a life of leisure. However, more often than not, after the initial jubilations and feelings of triumph over escaping the dreaded 9 to 5, life after retirement can start to feel a little dull, and keeping busy becomes a struggle. At Insider London, we think the free time is an excellent opportunity to pick up new skills and discover new places and things.

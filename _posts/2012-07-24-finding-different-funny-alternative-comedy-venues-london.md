@@ -1,22 +1,21 @@
 ---
 title: 'Finding a different funny: Alternative comedy venues in London'
-date: '2012-07-24 15:35:37'
+date: 2012-07-24 15:35:37 Z
+permalink: "/finding-different-funny-alternative-comedy-venues-london/"
 categories:
 - blog
 - London Pubs and nights out
-id: 1055
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=1055
-permalink: "/finding-different-funny-alternative-comedy-venues-london/"
 tags:
 - all over London
 - comedy
 - list
 - stand up london
-slug: finding-different-funny-alternative-comedy-venues-london
-
+id: 1055
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=1055
 ---
+
 <p style="text-align: center">
   <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/07/stand-up-1.jpg"><img class=" wp-image-1185 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2012/07/stand-up-1.jpg" alt="stand up London insider" width="570" height="334" /></a>
 </p>

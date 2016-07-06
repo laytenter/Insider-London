@@ -1,23 +1,11 @@
 ---
 title: Shuttlecock and A New Pop-Up Dining Experience
-date: '2014-10-10 10:30:06'
+date: 2014-10-10 10:30:06 Z
+permalink: "/shuttlecock-and-a-new-pop-up-dining-experience/"
 categories:
 - blog
 - Food and drink
 - London Pubs and nights out
-id: 22405
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=22405
-permalink: "/shuttlecock-and-a-new-pop-up-dining-experience/"
-s4_cdes:
-- 
-s4_ctitle:
-- 
-s4_image2s:
-- 
-s4_url2s:
-- 
 tags:
 - Carousel
 - Design
@@ -30,9 +18,20 @@ tags:
 - pop-up restaurant
 - restaurant
 - Shuttlecock
-slug: shuttlecock-and-a-new-pop-up-dining-experience
-
+id: 22405
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=22405
+s4_cdes:
+- 
+s4_ctitle:
+- 
+s4_image2s:
+- 
+s4_url2s:
+- 
 ---
+
 &nbsp;
 
 [<img class="aligncenter wp-image-22967 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/Carousel2.jpg" alt="Pop-Up Restaurant Design" width="569" height="379" />](http://www.insider-london.co.uk/wp-content/uploads/2014/09/Carousel2.jpg)

@@ -1,24 +1,12 @@
 ---
 title: 'Cahoots: Underground drinking'
-date: '2015-03-06 10:30:21'
+date: 2015-03-06 10:30:21 Z
+permalink: "/cahoots-underground-drinking/"
 categories:
 - blog
 - Food and drink
 - London Pubs and nights out
 - London Underground/Tube
-id: 24853
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=24853
-permalink: "/cahoots-underground-drinking/"
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
 tags:
 - Alternative London
 - bars
@@ -28,9 +16,20 @@ tags:
 - london tube
 - London Underground
 - quirky london tube
-slug: cahoots-underground-drinking
-
+id: 24853
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=24853
+s4_url2s:
+- 
+s4_image2s:
+- 
+s4_ctitle:
+- 
+s4_cdes:
+- 
 ---
+
 <img class="aligncenter wp-image-24880 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/03/cahoots-3_mini.jpg" alt="alternative london underground" width="569" height="378" />
   
 We love all things <a href="http://www.insider-london.co.uk/london-underground-tube-tours/" target="_blank">London Underground</a>. We&#8217;re also <a href="http://www.insider-london.co.uk/london-pub-tours-drinking-tour/" target="_blank">fond of a drink or two</a>. So, no surprises that we&#8217;re intrigued by the concepts of [Cahoots](http://cahoots-london.com/) which opened yesterday. The bar has been given a late 1940s theme, inspired by the London Underground stations that were used as air raid shelters in the Second World War.

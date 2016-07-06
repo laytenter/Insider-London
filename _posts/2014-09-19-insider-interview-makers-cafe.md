@@ -1,24 +1,12 @@
 ---
 title: 'Insider Interview: Soner Ozenc of MakersCAFE'
-date: '2014-09-19 09:30:56'
+date: 2014-09-19 09:30:56 Z
+permalink: "/insider-interview-makers-cafe/"
 categories:
 - blog
 - East London
 - Other
 - Quirky, weird and bizarre London
-id: 21327
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=21327
-permalink: "/insider-interview-makers-cafe/"
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
 tags:
 - Alternative London
 - bars
@@ -29,9 +17,20 @@ tags:
 - Shoreditch
 - Technology
 - unusual bars
-slug: insider-interview-makers-cafe
-
+id: 21327
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=21327
+s4_url2s:
+- 
+s4_image2s:
+- 
+s4_ctitle:
+- 
+s4_cdes:
+- 
 ---
+
 [<img class="aligncenter wp-image-22150 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/makersCAFE_mini.jpg" alt="makesCAFE alternative London" width="569" height="569" />](http://www.insider-london.co.uk/wp-content/uploads/2014/09/makersCAFE_mini.jpg)
 
 Anything you like with your coffee? The answer to that question is slightly unexpected if you&#8217;re talking about <a href="http://www.makerscafe.com/" target="_blank">MakersCAFE</a>. This space, which opened in Shoreditch last month, is the UK&#8217;s first 3d printing cafe. An espresso here comes with a side of experimentation. We spoke to founder Soner Ozenc to find out more.

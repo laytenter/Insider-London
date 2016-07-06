@@ -1,23 +1,22 @@
 ---
 title: Ghosts on the London Underground – The Screaming Spectre on the London Underground
-date: '2013-05-15 14:41:25'
+date: 2013-05-15 14:41:25 Z
+permalink: "/ghosts-on-the-london-underground/"
 categories:
 - blog
 - London Underground/Tube
 - Quirky, weird and bizarre London
-id: 3507
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=3507
-permalink: "/ghosts-on-the-london-underground/"
 tags:
 - Death &amp; Debauchery
 - ghosts on the London Underground
 - London walking tours
 - Screaming Spectre
-slug: ghosts-on-the-london-underground
-
+id: 3507
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=3507
 ---
+
 ###### <a title="London Walking Tours" href="http://www.insider-london.co.uk/" target="_blank">Unique London Walking Tours</a> > <a href="http://www.insider-london.co.uk/blog/" target="_blank">London Tour Blog</a> > Ghosts on the Tube
 
 A gruesome murder. A macabre cover up. These things are not uncommon in London, especially in the days of yore. But when I found out about what happened to Anne Naylor, a sickly girl who worked for a milliner in the late eighteenth century, I had to investigate further.  Are there really ghosts on the London Underground? Is there really a _Screaming Spectre_?<figure id="attachment_3509" style="width: 569px" class="wp-caption alignnone">

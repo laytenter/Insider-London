@@ -1,14 +1,10 @@
 ---
 title: Street Artist Roundup
-date: '2013-11-07 11:51:18'
+date: 2013-11-07 11:51:18 Z
+permalink: "/street-art-roundup-london/"
 categories:
 - blog
 - London Street Art &amp; Graffiti
-id: 8985
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=8985
-permalink: "/street-art-roundup-london/"
 tags:
 - 616
 - ben wilson
@@ -21,9 +17,12 @@ tags:
 - street artists
 - the red market
 - Thierry Noir
-slug: street-art-roundup-london
-
+id: 8985
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=8985
 ---
+
 <p style="text-align: left;">
   As 2013 enters its final months, it seemed like a good time to do a quick roundup of our interviews with street artists and street art posts. Are there any street artists that you would like to see featured in the upcoming year?
 </p>

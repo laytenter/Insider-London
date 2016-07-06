@@ -1,14 +1,21 @@
 ---
 title: The Opening of the Walkie Talkie Sky Garden
-date: '2015-01-09 10:30:14'
+date: 2015-01-09 10:30:14 Z
+permalink: "/the-opening-of-the-walkie-talkie-sky-garden/"
 categories:
 - blog
 - Modern Architecture
+tags:
+- 20 fenchurch street
+- architecture
+- modern architecture
+- sky garden
+- skyscrapers
+- the walkie talkie
 id: 24449
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=24449
-permalink: "/the-opening-of-the-walkie-talkie-sky-garden/"
 s4_url2s:
 - 
 s4_image2s:
@@ -17,16 +24,8 @@ s4_ctitle:
 - 
 s4_cdes:
 - 
-tags:
-- 20 fenchurch street
-- architecture
-- modern architecture
-- sky garden
-- skyscrapers
-- the walkie talkie
-slug: the-opening-of-the-walkie-talkie-sky-garden
-
 ---
+
 <img class="aligncenter wp-image-24456 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/walkie-talkie_mini.jpg" alt="20 Fenchurch Street Walkie Talkie" width="569" height="461" />
 
 <p style="text-align: center;">

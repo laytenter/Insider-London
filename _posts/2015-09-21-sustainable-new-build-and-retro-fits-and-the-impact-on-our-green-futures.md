@@ -1,6 +1,7 @@
 ---
 title: Sustainable new build and Retro-fits and the impact on our green futures.
-date: '2015-09-21 14:46:08'
+date: 2015-09-21 14:46:08 Z
+permalink: "/sustainable-new-build-and-retro-fits-and-the-impact-on-our-green-futures/"
 categories:
 - blog
 - Uncategorised
@@ -8,13 +9,10 @@ id: 31156
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=31156
-permalink: "/sustainable-new-build-and-retro-fits-and-the-impact-on-our-green-futures/"
 slide_template:
 - default
-slug: sustainable-new-build-and-retro-fits-and-the-impact-on-our-green-futures
-tags: []
-
 ---
+
 _By Amelia Womack_
 
 There is a current surge of sustainability hitting the skyline of London. Increasing numbers of businesses are seeing that the grass is greener for businesses residing in sustainable buildings, with statistics showing that companies that consistently manage and measure their business activities through a lens of sustainability out performed their FTSE 350 peers in seven out of the last eight years.

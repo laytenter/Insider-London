@@ -1,23 +1,22 @@
 ---
 title: Things to do in London &#8211; art, and lots of it!
-date: '2013-04-11 15:21:29'
+date: 2013-04-11 15:21:29 Z
+permalink: "/things-to-do-in-london-art/"
 categories:
 - blog
 - London Street Art &amp; Graffiti
-id: 4556
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=4556
-permalink: "/things-to-do-in-london-art/"
 tags:
 - art
 - london art galleries
 - strand gallery
 - Street Art
 - vic reeves
-slug: things-to-do-in-london-art
-
+id: 4556
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=4556
 ---
+
 **There aren’t many better things to do in London than see great street art &#8211;** _if you&#8217;ve not been on one of our [street art walking tours](http://www.insider-london.co.uk/london-graffiti-artists-walking-tours/ "London street art walking tour") yet what on earth have you been doing with your life?!?_** &#8211; but that aside, every so often we here at Insider London do have a look at what’s been painted on walls _inside_ buildings. And one bright Wednesday I trotted round the smoke to have a looksee.**
 
 First up was a sojourn to the [Strand Gallery](http://thestrandgallery.wordpress.com/ "Strand Gallery"), at the back end of Charing Cross, to have a gander at the work of that most anarchic of funny men &#8211; Jim Moir, aka [Vic Reeves](https://twitter.com/VicReeves1 "Vic Reeves").

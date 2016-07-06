@@ -1,24 +1,12 @@
 ---
 title: 'Street Art Pictures of the Week: Stik'
-date: '2014-12-03 10:30:37'
+date: 2014-12-03 10:30:37 Z
+permalink: "/street-art-pictures-of-the-week-stik/"
 categories:
 - blog
 - East London
 - London Street Art &amp; Graffiti
 - Other
-id: 23541
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=23541
-permalink: "/street-art-pictures-of-the-week-stik/"
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
 tags:
 - alternative London walking tours
 - Brick Lane
@@ -29,9 +17,20 @@ tags:
 - Stik
 - street art and graffiti
 - street art picture of the week
-slug: street-art-pictures-of-the-week-stik
-
+id: 23541
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=23541
+s4_url2s:
+- 
+s4_image2s:
+- 
+s4_ctitle:
+- 
+s4_cdes:
+- 
 ---
+
 Stik is one of the best known street artist &#8211; instantly recognised for his stick-like figures. At home on the streets of London, you can now find works by Stik all over the world.
 
 <p style="text-align: center;">

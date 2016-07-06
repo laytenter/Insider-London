@@ -1,14 +1,10 @@
 ---
 title: 'The Future of British Film: Interview with Rob Savage'
-date: '2013-03-04 15:09:43'
+date: 2013-03-04 15:09:43 Z
+permalink: "/future-film-bfi-london/"
 categories:
 - blog
 - Quirky, weird and bizarre London
-id: 4486
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=4486
-permalink: "/future-film-bfi-london/"
 tags:
 - BFI
 - BFI Future Film Festival
@@ -18,9 +14,12 @@ tags:
 - Requiem
 - Rob Savage
 - Strings
-slug: future-film-bfi-london
-
+id: 4486
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=4486
 ---
+
 <p style="text-align: center;">
   <a href="http://www.insider-london.co.uk/blog/2013/03/04/future-film-bfi-london/strings/" target="_blank" rel="attachment wp-att-4584"><img class="aligncenter size-full wp-image-4584" alt="Strings" src="http://www.insider-london.co.uk/wp-content/uploads/2013/02/Strings.jpg" width="569" height="320" /></a>
 </p>

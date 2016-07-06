@@ -1,23 +1,11 @@
 ---
 title: Win! A Copy of CitySketch London!
-date: '2014-09-01 10:30:43'
+date: 2014-09-01 10:30:43 Z
+permalink: "/win-a-copy-of-citysketch-london/"
 categories:
 - blog
 - Other
 - Quirky, weird and bizarre London
-id: 20946
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=20946
-permalink: "/win-a-copy-of-citysketch-london/"
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
 tags:
 - all over London
 - Alternative London
@@ -26,9 +14,20 @@ tags:
 - Illustration
 - insider interview
 - quirky london
-slug: win-a-copy-of-citysketch-london
-
+id: 20946
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=20946
+s4_url2s:
+- 
+s4_image2s:
+- 
+s4_ctitle:
+- 
+s4_cdes:
+- 
 ---
+
 [<img class="aligncenter wp-image-16977 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/08/Citysketch-London-book.jpg" alt="Citysketch London alternative London walking tours" width="569" height="743" />](http://www.insider-london.co.uk/wp-content/uploads/2014/08/Citysketch-London-book.jpg)
 
 We spoke to its <a href="http://www.insider-london.co.uk/2014/08/22/melissa-wood-illustrator-citysketch-london/" target="_blank">illustrator Melissa Wood</a> a couple of weeks ago, now we&#8217;re delighted to say we&#8217;ve got a copy of <a href="http://www.amazon.co.uk/Citysketch-London-Creative-Prompts-Sketching/dp/1937994554/ref=sr_1_1?s=books&ie=UTF8&qid=1409316169&sr=1-1&keywords=citysketch+london" target="_blank">CitySketch London</a> to give away. This gorgeous book features 100 creative prompts to help you explore the city, including drawing lessons on its history, fashion and landmarks.

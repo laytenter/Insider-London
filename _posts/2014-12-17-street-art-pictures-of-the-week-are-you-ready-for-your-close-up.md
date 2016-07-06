@@ -1,23 +1,11 @@
 ---
 title: 'Street Art Pictures of the Week: Are you ready for your close-up?'
-date: '2014-12-17 10:30:52'
+date: 2014-12-17 10:30:52 Z
+permalink: "/street-art-pictures-of-the-week-are-you-ready-for-your-close-up/"
 categories:
 - blog
 - East London
 - London Street Art &amp; Graffiti
-id: 23974
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=23974
-permalink: "/street-art-pictures-of-the-week-are-you-ready-for-your-close-up/"
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
 tags:
 - Alternative London
 - Brick Lane
@@ -30,9 +18,20 @@ tags:
 - street art and graffiti
 - street art picture of the week
 - walking tours
-slug: street-art-pictures-of-the-week-are-you-ready-for-your-close-up
-
+id: 23974
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=23974
+s4_url2s:
+- 
+s4_image2s:
+- 
+s4_ctitle:
+- 
+s4_cdes:
+- 
 ---
+
 Portraits have been a form of art for centuries so perhaps it&#8217;s not surprising that faces are a common theme for street art too. Shoreditch, especially, seems to specialise in close-up faces, which can be spotted in a huge range of styles. We&#8217;ve captured three examples of the phenomenon here &#8211; do let us know in the comments if you have more examples you&#8217;d like to share.
 
 <img class="aligncenter wp-image-23976 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/12/5_mini-1.jpg" alt="street art and graffiti walking tours London" width="569" height="427" />

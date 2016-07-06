@@ -1,6 +1,7 @@
 ---
 title: BFI Future Film Festival 2013
-date: '2013-02-11 16:43:18'
+date: 2013-02-11 16:43:18 Z
+permalink: "/bfi-future-film-festival-london-tours/"
 categories:
 - blog
 - Quirky, weird and bizarre London
@@ -8,11 +9,8 @@ id: 4395
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=4395
-permalink: "/bfi-future-film-festival-london-tours/"
-slug: bfi-future-film-festival-london-tours
-tags: []
-
 ---
+
 <a href="http://www.insider-london.co.uk/blog/2013/02/11/bfi-future-film-festival-london-tours/bfi-image/" rel="attachment wp-att-4403"><img class="aligncenter size-full wp-image-4403" alt="" src="http://www.insider-london.co.uk/wp-content/uploads/2013/02/BFI-image.jpg" width="569" height="320" /></a>
 
 **Dear all Young Budding Film-Makers and Fervent Film Fanatics,**

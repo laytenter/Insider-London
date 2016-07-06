@@ -1,14 +1,13 @@
 ---
 title: Famous Ghosts and Infamous Murders London Walking Tour
-date: '2008-01-01 17:30:14'
+date: 2008-01-01 17:30:14 Z
+permalink: "/product/famous-ghosts-and-infamous-murders/"
 categories:
 - tours
 - hidden
 id: 12345
 author: london75
 layout: tour
-permalink: /product/famous-ghosts-and-infamous-murders/
-categories: [tours,hidden]
 tour_id: 50196
 show_book: true
 price: 12
@@ -20,10 +19,8 @@ related:
 - 32342
 - 29349
 - 32336
-slug: famous-ghosts-and-infamous-murders
-tags: []
-
 ---
+
 <p class="lede">London towne is no stranger to ghost stories, the city has its fair share and our Insider guides will tell you who they are, what they are and where they hide. Walking down the back streets and alleyways of London’s West End, we will bring to light its history and the lives of those who are still known to haunt the area today.</p>
 
 Some ghosts are friendly wanderers who never wanted to leave and others more frightening that will make you want to leave in haste! The Nocturnal London walking tour will shed light on the history of the streets in which some of the ghosts lived in their lifetime and their day-to-day hardships. The Victorian era saw a heightened period of interest in the world beyond- spirits, ghosts and the odd unsolved murder. Although our ghosts cross the centuries, after a stroll through the West End’s darker side, you'll understand why the subject excited the prim and proper Victorians…

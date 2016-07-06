@@ -1,15 +1,19 @@
 ---
 title: The Rubbish Collection at the Science Museum
-date: '2014-08-15 11:30:48'
+date: 2014-08-15 11:30:48 Z
+permalink: "/the-rubbish-collection-at-the-science-museum/"
 categories:
 - blog
 - Green London
 - Quirky, weird and bizarre London
+tags:
+- green London
+- recycling
+- sustainable london
 id: 15818
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=15818
-permalink: "/the-rubbish-collection-at-the-science-museum/"
 s4_url2s:
 - 
 s4_image2s:
@@ -18,13 +22,8 @@ s4_ctitle:
 - 
 s4_cdes:
 - 
-tags:
-- green London
-- recycling
-- sustainable london
-slug: the-rubbish-collection-at-the-science-museum
-
 ---
+
 [<img class="aligncenter size-full wp-image-15833" src="http://www.insider-london.co.uk/wp-content/uploads/2014/07/The_Rubbish_Collection_at_the_Science_Museum_C_Katherine_Lee-dale_mini.jpg" alt="The_Rubbish_Collection_at_the_Science_Museum_C_Katherine_Lee dale_mini" width="569" height="379" />](http://www.insider-london.co.uk/wp-content/uploads/2014/07/The_Rubbish_Collection_at_the_Science_Museum_C_Katherine_Lee-dale_mini.jpg)
 
 At first glance, the latest exhibition at the Science Museum may look like a load of old rubbish – but it aims to be much more than that.  <a title="The Rubbish Collection" href="http://www.sciencemuseum.org.uk/rubbishcollection" target="_blank">The Rubbish Collection</a> takes a closer look at the dumping grounds of our throw-away society, and highlights the second-hand art of recycling.  This behind-the-scenes guide to what happens to our waste invites visitors to appreciate the impact of everyday things they throw away.

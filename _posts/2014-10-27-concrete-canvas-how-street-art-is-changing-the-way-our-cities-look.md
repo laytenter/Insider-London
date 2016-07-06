@@ -1,14 +1,20 @@
 ---
 title: 'Concrete Canvas: How street art is changing the way our cities look'
-date: '2014-10-27 10:30:47'
+date: 2014-10-27 10:30:47 Z
+permalink: "/concrete-canvas-how-street-art-is-changing-the-way-our-cities-look/"
 categories:
 - blog
 - London Street Art &amp; Graffiti
+tags:
+- book
+- concrete canvas
+- East London street art
+- london street art &amp; Graffiti
+- street art and graffiti
 id: 23070
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=23070
-permalink: "/concrete-canvas-how-street-art-is-changing-the-way-our-cities-look/"
 s4_cdes:
 - 
 s4_ctitle:
@@ -17,15 +23,8 @@ s4_image2s:
 - 
 s4_url2s:
 - 
-tags:
-- book
-- concrete canvas
-- East London street art
-- london street art &amp; Graffiti
-- street art and graffiti
-slug: concrete-canvas-how-street-art-is-changing-the-way-our-cities-look
-
 ---
+
 [<img class="size-full wp-image-23076 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/10/Concrete-Canvas-book_mini.jpg" alt="street art london" width="569" height="735" />](http://www.insider-london.co.uk/wp-content/uploads/2014/10/Concrete-Canvas-book_mini.jpg)
 
 We say it all the time but it&#8217;s true &#8211; there&#8217;s always some new artwork to spot when you go on one of our <a href="http://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">London street art and graffiti walking tours</a>. How can you keep track of it all? Perhaps more importantly, how do you make sense of it?

@@ -1,23 +1,22 @@
 ---
 title: 'PopUp, PitchUp and payment: how to make sales on the High Street and beyond'
-date: '2013-03-21 11:41:15'
+date: 2013-03-21 11:41:15 Z
+permalink: "/pop-up-retail/"
 categories:
 - blog
 - Retail Store Design
-id: 4904
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=4904
-permalink: "/pop-up-retail/"
 tags:
 - emma jones
 - enterprise nation
 - pop-up retail
 - retail
 - retail event
-slug: pop-up-retail
-
+id: 4904
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=4904
 ---
+
 At a time when the High Street is struggling, small businesses are looking for routes to market and the opportunity to meet customers face to face. This is why I believe small businesses have a vital role to play in bringing High Streets back to life, and customers onto the streets.
 
 <a href="http://www.insider-london.co.uk/blog/2013/03/21/pop-up-retail/e152pub-16/" rel="attachment wp-att-4906"><img class="alignleft size-full wp-image-4906" title="E152PUB-16" alt="" src="http://www.insider-london.co.uk/wp-content/uploads/2013/03/E152PUB-16.jpg" width="569" height="379" /></a>

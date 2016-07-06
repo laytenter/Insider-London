@@ -1,24 +1,23 @@
 ---
 title: London Olympics Legacy &#8211; a few easy steps to an eco capital
-date: '2012-11-20 16:00:36'
+date: 2012-11-20 16:00:36 Z
+permalink: "/green-london-olympics-legacy/"
 categories:
 - blog
 - East London
 - Green London
-id: 3030
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=3030
-permalink: "/green-london-olympics-legacy/"
 tags:
 - cycling
 - green London
 - London Olympics
 - Olympics legacy
 - sustainibility
-slug: green-london-olympics-legacy
-
+id: 3030
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=3030
 ---
+
 ###### [London walking tours](http://http://www.insider-london.co.uk/ "London walking tours") > [Insider London blog](http://http://www.insider-london.co.uk/blog/ "Insider London blog") > London Olympics Legacy
 
 &nbsp;

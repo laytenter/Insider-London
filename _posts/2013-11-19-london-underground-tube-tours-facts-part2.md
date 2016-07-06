@@ -1,15 +1,11 @@
 ---
 title: Quirky Underground Facts (part 2)
-date: '2013-11-19 12:34:28'
+date: 2013-11-19 12:34:28 Z
+permalink: "/london-underground-tube-tours-facts-part2/"
 categories:
 - blog
 - London Underground/Tube
 - Quirky, weird and bizarre London
-id: 7638
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=7638
-permalink: "/london-underground-tube-tours-facts-part2/"
 tags:
 - london tube
 - London Underground
@@ -18,9 +14,12 @@ tags:
 - Tube Facts
 - Underground
 - Underground Facts
-slug: london-underground-tube-tours-facts-part2
-
+id: 7638
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=7638
 ---
+
 Round two of interesting and/or quirky facts includes how the Oyster Card got its name and interesting statistics about London’s most important mode of transportation.
 
 This is only part two of four, so make sure to keep your eyes peeled for more interesting facts!

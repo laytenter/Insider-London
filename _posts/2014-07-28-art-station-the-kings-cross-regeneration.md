@@ -1,23 +1,11 @@
 ---
 title: 'Art Station: The King&#8217;s Cross Regeneration'
-date: '2014-07-28 12:13:25'
+date: 2014-07-28 12:13:25 Z
+permalink: "/art-station-the-kings-cross-regeneration/"
 categories:
 - blog
 - Kings Cross regeneration
 - London Street Art &amp; Graffiti
-id: 15793
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=15793
-permalink: "/art-station-the-kings-cross-regeneration/"
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
 tags:
 - Alternative London
 - art
@@ -27,9 +15,20 @@ tags:
 - London walking tours
 - sightseeing
 - walking tours
-slug: art-station-the-kings-cross-regeneration
-
+id: 15793
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=15793
+s4_url2s:
+- 
+s4_image2s:
+- 
+s4_ctitle:
+- 
+s4_cdes:
+- 
 ---
+
 It’s tough to find time to stop and smell the roses in a city dictated by train times, but the art scene in King’s Cross has come into bloom. As busy crowds rush across platforms, these installations are stopping commuters in their tracks.
 
 With the regeneration of King’s Cross comes [RELAY](http://www.kingscross.co.uk/relay-and-the-kings-cross-curators) – the area’s first dedicated arts program. Exploring the idea of the human chain and working to the theme of transportation and progression, each of their artworks highlights an area of the emerging cityscape.

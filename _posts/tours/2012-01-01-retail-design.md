@@ -1,14 +1,14 @@
 ---
 title: Retail Design Tour
-date: '2012-01-01 10:44:00'
-categories: tours
+date: 2012-01-01 10:44:00 Z
+permalink: "/product/retail-design/"
+categories:
+- tours
+- educational
 id: 29334
 author: london75
 layout: tour
-category: tours
-guid: '/?post_type=product&#038;p=29334'
-permalink: /product/retail-design/
-categories: [tours,educational]
+guid: "/?post_type=product&#038;p=29334"
 show_book: false
 thumb: la-duree-420x287.jpg
 banner: la-duree1-772x528.jpg
@@ -18,9 +18,6 @@ related:
 - 29347
 - 29332
 - 29344
-slug: retail-design
-tags: []
-
 ---
 
 ##A Masterclass in Merchandising

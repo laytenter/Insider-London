@@ -1,16 +1,23 @@
 ---
 title: Go crazy golf crazy at Shoreditch&#8217;s new Swingers
-date: '2014-09-05 11:30:25'
+date: 2014-09-05 11:30:25 Z
+permalink: "/swingers-crazy-golf-shoreditch/"
 categories:
 - blog
 - East London
 - London Pubs and nights out
 - Quirky, weird and bizarre London
+tags:
+- Alternative London
+- East London
+- pop-up
+- quirky london
+- Shoreditch
+- street food
 id: 21284
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=21284
-permalink: "/swingers-crazy-golf-shoreditch/"
 s4_cdes:
 - 
 s4_ctitle:
@@ -19,16 +26,8 @@ s4_image2s:
 - 
 s4_url2s:
 - 
-tags:
-- Alternative London
-- East London
-- pop-up
-- quirky london
-- Shoreditch
-- street food
-slug: swingers-crazy-golf-shoreditch
-
 ---
+
 [<img class="aligncenter wp-image-21287 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/Swingers-course-illustration1.jpg" alt="Swingers crazy golf shoreditch" width="569" height="403" />](http://www.insider-london.co.uk/wp-content/uploads/2014/09/Swingers-course-illustration1.jpg)
 
 Looking for somewhere to go out Shoreditch way? Well, we&#8217;ve complied a list of some of our favourite bars <a href="http://www.insider-london.co.uk/2012/10/30/shoreditch-bars-drinking-guide-london/" target="_blank">here</a>, but for something really different, check out <a href="http://swingersldn.co.uk/" target="_blank">Swingers</a>, a new crazy golf course that will be opening in a Warehouse near Old Street on the 25 September.

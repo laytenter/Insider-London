@@ -1,23 +1,11 @@
 ---
 title: 'Street Art Pictures of the Week: The Paint Brush'
-date: '2015-01-14 10:30:28'
+date: 2015-01-14 10:30:28 Z
+permalink: "/street-art-pictures-of-the-week-the-paint-brush/"
 categories:
 - blog
 - East London
 - London Street Art &amp; Graffiti
-id: 24468
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=24468
-permalink: "/street-art-pictures-of-the-week-the-paint-brush/"
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
 tags:
 - alex diaz
 - ALO
@@ -27,9 +15,20 @@ tags:
 - phlegm
 - street art and graffiti
 - street art picture of the week
-slug: street-art-pictures-of-the-week-the-paint-brush
-
+id: 24468
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=24468
+s4_url2s:
+- 
+s4_image2s:
+- 
+s4_ctitle:
+- 
+s4_cdes:
+- 
 ---
+
 <img class="aligncenter wp-image-24470 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/17a_mini.jpg" alt="London street art and graffiti walking tours" width="569" height="759" />
 
 Sometimes street art is considered synonymous with spray cans. This week&#8217;s street art pictures celebrate artists who work with paint brushes.

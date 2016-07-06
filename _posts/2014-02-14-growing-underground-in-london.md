@@ -1,6 +1,7 @@
 ---
 title: Growing Underground in London
-date: '2014-02-14 11:00:43'
+date: 2014-02-14 11:00:43 Z
+permalink: "/growing-underground-in-london/"
 categories:
 - blog
 - Other
@@ -8,11 +9,8 @@ id: 13914
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=13914
-permalink: "/growing-underground-in-london/"
-slug: growing-underground-in-london
-tags: []
-
 ---
+
 [<img class="alignnone size-full wp-image-13918" alt="Growing Underground Founders" src="http://www.insider-london.co.uk/wp-content/uploads/2014/02/Growing-Underground-Founders.jpg" width="569" height="379" />](http://www.insider-london.co.uk/wp-content/uploads/2014/02/Growing-Underground-Founders.jpg)
 
 Bristol-based entrepreneurial duo Steven Dring and Richard Ballard have recently made the news for their latest subterranean vegetable project, Growing Underground. The pair have teamed up with Michelin-starred chef Michel Roux Jr to convert an old World War Two air raid shelter underneath the Northern Line into a large scale underground garden, for the growing of herbs, vegetables and flowers.

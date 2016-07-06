@@ -1,26 +1,22 @@
 ---
 title: Cutting Edge Green Tour
-date: '2014-01-01 10:48:25'
+date: 2014-01-01 10:48:25 Z
+permalink: "/product/cutting-edge-green-tour/"
 categories:
 - tours
 - educational
 id: 29340
 author: london75
 layout: tour
-categories: [tours,educational]
-permalink: /product/cutting-edge-green-tour/
 show_book: false
 hidden: true
 thumb: Cutting-Edge-Green-78-568x388.jpg
-banner: /assets/images/Cutting-Edge-Green-78-772x528.jpg
+banner: "/assets/images/Cutting-Edge-Green-78-772x528.jpg"
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9931.147643617802!2d-0.13702672623145995!3d51.51712525905672!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b2d6954b527%3A0xa11d7ff34a8e1347!2sDominion+Theatre!5e0!3m2!1sen!2s!4v1431588850046
 related:
 - 29338
 - 29342
 - 29332
-slug: cutting-edge-green-tour
-tags: []
-
 ---
 
 <p class="lede">Insider London’s Cutting Edge Green Tour – London’s only Sustainability Tour**</p>

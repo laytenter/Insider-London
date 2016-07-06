@@ -1,14 +1,12 @@
 ---
 title: "\uFEFFLondon, City of Modern Architecture and Historic Sights"
-date: '2016-04-29 21:56:24'
+date: 2016-04-29 21:56:24 Z
+permalink: "/london-city-of-modern-architecture-and-historic-sights/"
 categories:
 - blog
 layout: post
-permalink: "/london-city-of-modern-architecture-and-historic-sights/"
-slug: london-architecture-old-and-new
-tags: []
-
 ---
+
 A tourist’s guide to the architecture of London; a city that combines ancient buildings and important historic sights with ground-breaking contemporary architecture and modern skyscrapers
 
 London attracts tourists and sightseers from all over the world, and with good reason! It is a fascinating city to explore, with a striking, surprising and sublime selection of architectural sights both modern and historic. Unlike many of Europe’s other big tourist-destination cities, London’s ancient and historic sights can be found jostling for space right next to the city’s cutting-edge new skyscrapers and modern architecture. Go for a walk around the city and you will see that there is no clear separation between ‘old town’ and ‘new town’. Instead, London is a patchwork of architectural styles and everything is mixed together to create a surprising cocktail of historic sights and contemporary architectural design.

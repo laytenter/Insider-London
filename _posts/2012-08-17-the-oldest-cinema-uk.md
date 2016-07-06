@@ -1,6 +1,7 @@
 ---
 title: The Oldest Cinema in the UK
-date: '2012-08-17 10:12:57'
+date: 2012-08-17 10:12:57 Z
+permalink: "/the-oldest-cinema-uk/"
 categories:
 - blog
 - Other
@@ -8,11 +9,8 @@ id: 1559
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=1559
-permalink: "/the-oldest-cinema-uk/"
-slug: the-oldest-cinema-uk
-tags: []
-
 ---
+
 ## 
 
 <div>

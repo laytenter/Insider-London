@@ -1,16 +1,12 @@
 ---
 title: 'Street Art Picture of the Week: Cranio, Rivington Street, Shoreditch'
-date: '2014-06-25 11:30:04'
+date: 2014-06-25 11:30:04 Z
+permalink: "/cranio-street-art-rivington-street-shoreditch/"
 categories:
 - blog
 - East London
 - London Street Art &amp; Graffiti
 - Other
-id: 15083
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=15083
-permalink: "/cranio-street-art-rivington-street-shoreditch/"
 tags:
 - Alternative London
 - cranio
@@ -18,9 +14,12 @@ tags:
 - East London street art
 - London Street art
 - London walking tours
-slug: cranio-street-art-rivington-street-shoreditch
-
+id: 15083
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=15083
 ---
+
 [<img class="size-full wp-image-15085 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/06/Cranio.jpg" alt="Cranio London street art" width="569" height="759" />](http://www.insider-london.co.uk/wp-content/uploads/2014/06/Cranio.jpg)
   
 With the world&#8217;s eyes on Brazil at the moment, who better to feature as our street art picture of the week than Cranio? Born in Sao Paulo, Cranio developed his distinctive blue &#8216;Indians&#8217; as a way of depicting the indigenous people of Brazil. His work frequently has a political edge: you can see an example of his anti-World Cup street art <a href="http://www.theguardian.com/artanddesign/gallery/2014/jun/09/brazils-anti-world-cup-street-art-in-pictures" target="_blank">here</a>. This photograph was taken on Rivington Street in Shoreditch, London, near Cargo.

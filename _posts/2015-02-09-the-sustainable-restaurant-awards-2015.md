@@ -1,15 +1,22 @@
 ---
 title: London picks in the Sustainable Restaurant Awards 2015
-date: '2015-02-09 10:37:09'
+date: 2015-02-09 10:37:09 Z
+permalink: "/the-sustainable-restaurant-awards-2015/"
 categories:
 - blog
 - Food and drink
 - Green London
+tags:
+- all over London
+- Alternative London
+- eating
+- green
+- green London
+- sustainable london
 id: 24673
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=24673
-permalink: "/the-sustainable-restaurant-awards-2015/"
 s4_url2s:
 - 
 s4_image2s:
@@ -18,16 +25,8 @@ s4_ctitle:
 - 
 s4_cdes:
 - 
-tags:
-- all over London
-- Alternative London
-- eating
-- green
-- green London
-- sustainable london
-slug: the-sustainable-restaurant-awards-2015
-
 ---
+
 It’s award season – and not just for the film stars. The Sustainable Restaurant Association is hosting their annual awards on 23 February. With the shortlist announced, we’ve profiled their London picks.
 
 [<img class="aligncenter size-full wp-image-24682" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/BeFunky_sra.jpg_mini.jpg" alt="The Sustainable Restaurant Awards" width="569" height="290" />](http://www.insider-london.co.uk/wp-content/uploads/2015/02/BeFunky_sra.jpg_mini.jpg)

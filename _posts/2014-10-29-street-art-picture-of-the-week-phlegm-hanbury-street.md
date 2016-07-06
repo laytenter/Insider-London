@@ -1,15 +1,21 @@
 ---
 title: 'Street Art Picture of the Week: Phlegm, Hanbury Street'
-date: '2014-10-29 10:30:40'
+date: 2014-10-29 10:30:40 Z
+permalink: "/street-art-picture-of-the-week-phlegm-hanbury-street/"
 categories:
 - blog
 - London Street Art &amp; Graffiti
 - Other
+tags:
+- East London street art
+- hanbury street
+- london street art &amp; Graffiti
+- phlegm
+- street art picture of the week
 id: 23090
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=23090
-permalink: "/street-art-picture-of-the-week-phlegm-hanbury-street/"
 s4_cdes:
 - 
 s4_ctitle:
@@ -18,15 +24,8 @@ s4_image2s:
 - 
 s4_url2s:
 - 
-tags:
-- East London street art
-- hanbury street
-- london street art &amp; Graffiti
-- phlegm
-- street art picture of the week
-slug: street-art-picture-of-the-week-phlegm-hanbury-street
-
 ---
+
 [<img class="size-full wp-image-23093 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/10/Monster-Mural_mini.jpg" alt="Phlegm street art london" width="569" height="427" />](http://www.insider-london.co.uk/wp-content/uploads/2014/10/Monster-Mural_mini.jpg)
 
 <p style="text-align: center;">

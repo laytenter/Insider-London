@@ -1,14 +1,12 @@
 ---
 title: The London Underground - 5 Secrets from The Tube's History
-date: '2016-03-08 20:49:24'
+date: 2016-03-08 20:49:24 Z
+permalink: "/the-london-underground-5-secrets-from-the-tubes-history/"
 categories:
 - blog
 layout: post
-permalink: "/the-london-underground-5-secrets-from-the-tubes-history/"
-slug: the-london-underground-5-secrets-from-the-tubes-history
-tags: []
-
 ---
+
 The London Underground is a unique and iconic institution famous across the world. As you might expect, London’s underground train network has a fascinating history, which stretches back more than 150 years. At Insider London, we know all about the hard work, rivalries, and scandals that went into creating today’s underground network (after all, our <a href="/product/london-underground-and-tube-tour/">London Underground Tour</a> is all about these juicy details!) To whet your appetite, here are five little-known facts about the history of the Tube. Whether you’re a tourist or a Londoner born and bred we bet you didn’t know all this about the London Underground…
 
 1. **“Ankle Watching” was a scandalous problem associated with the early London Underground.** The first trains that ran underground in London produced huge amounts of unpleasant and dangerous steam. To combat this, ventilation vents were introduced above the underground platforms at street level. This meant that when a train entered the station, wind would rush out of the vents on the streets, blowing up women’s skirts and showing off a shockingly indecent amount of ankle. At the time, this was considered so provocative that men began to loiter around the stations to catch a glimpse of lady’s ankles – so much so that policemen sometimes had to be stationed outside to keep ankle-watchers away!

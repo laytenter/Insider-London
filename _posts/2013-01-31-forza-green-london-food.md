@@ -1,16 +1,12 @@
 ---
 title: Forza Win(ter)
-date: '2013-01-31 10:56:53'
+date: 2013-01-31 10:56:53 Z
+permalink: "/forza-green-london-food/"
 categories:
 - blog
 - East London
 - Green London
 - London Pubs and nights out
-id: 4007
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=4007
-permalink: "/forza-green-london-food/"
 tags:
 - Fonduza
 - Forza Win
@@ -21,9 +17,12 @@ tags:
 - pop-up restaurant
 - rooftop dining
 - supper club
-slug: forza-green-london-food
-
+id: 4007
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=4007
 ---
+
 **So it&#8217;s definitely really cold outside at the moment. And I don&#8217;t know about you, but I can&#8217;t say I&#8217;ve been out raving much of late, due to a strong desire to just sit in bed and do absolutely nothing. What I _have_ done, however, is sit on a rooftop for several hours, at night, having dinner.** **Not as barmy as it sounds, my friends: for this was a night at Forza Win(ter), and it was a rooftop full of hot cocktails, blankets, music, incredible food, a whole load of very happy, chatting (and singing) people and, most importantly- big-ass heaters.**
 
 Forza Wint(ter) is the wintry sibling of Forza Win, a rooftop pop-up pizza restaurant that kicked up a fuss this summer on the supper-club scene. _Fonduta_ is the word on the street this season, however, (_not_ to be mistaken for _Fondue,_ albeit v. similar), with Sebastian (Bash) Redford and his team of chefs whipping up bowls of delicious molten cheese and all sorts of wonderful dishes of dippy food-stuffs. A &#8220;Buttered Rum&#8221;, served to us by resident musician-turned-waiter for the evening Josh, was a wonderful warming greeting in a glass, of Harry Potter-ish magic. Once seated at large, round, conversation-making tables, big steaming pots of creamy Fonduta were placed ceremoniously in the centre, and the dipping commenced!

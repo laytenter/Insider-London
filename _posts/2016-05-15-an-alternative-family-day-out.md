@@ -1,10 +1,10 @@
 ---
-title: ﻿An alternative family day out in London
-date: 2016-05-15T15:56:24
-layout: post
-permalink: /an-alternative-family-day-out-in-london/
+title: "\uFEFFAn alternative family day out in London"
+date: 2016-05-15 15:56:24 Z
+permalink: "/an-alternative-family-day-out-in-london/"
 categories:
-  - blog
+- blog
+layout: post
 ---
 
 London is bursting with great museums, galleries, theatres, and parks, perfect for families with young children. However, many of these can be full to the brim with people, particularly during the school holidays. If you are looking to get away from the hustle and bustle or even looking to try something new, here are our top tips for an alternative family day out.

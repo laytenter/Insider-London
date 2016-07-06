@@ -1,14 +1,19 @@
 ---
 title: Win a copy of Street Art by Riika Kuittinen!
-date: '2014-08-04 09:57:23'
+date: 2014-08-04 09:57:23 Z
+permalink: "/win-a-copy-of-street-art-by-riika-kuittinen/"
 categories:
 - blog
 - London Street Art &amp; Graffiti
+tags:
+- competition
+- East London street art
+- Insider London
+- Street Art
 id: 15872
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=15872
-permalink: "/win-a-copy-of-street-art-by-riika-kuittinen/"
 s4_url2s:
 - 
 s4_image2s:
@@ -17,14 +22,8 @@ s4_ctitle:
 - 
 s4_cdes:
 - 
-tags:
-- competition
-- East London street art
-- Insider London
-- Street Art
-slug: win-a-copy-of-street-art-by-riika-kuittinen
-
 ---
+
 <div class="yiv9508434385" style="color: #000000;">
   <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/08/Street-Art-spread-4_mini.jpg"><img class="size-full wp-image-15874 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/08/Street-Art-spread-4_mini.jpg" alt="street art london book" width="569" height="380" /></a>
 </div>

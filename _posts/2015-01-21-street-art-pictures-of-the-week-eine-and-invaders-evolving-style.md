@@ -1,23 +1,11 @@
 ---
 title: 'Street Art Pictures of the Week: Eine and Invader&#8217;s evolving style'
-date: '2015-01-21 10:30:09'
+date: 2015-01-21 10:30:09 Z
+permalink: "/street-art-pictures-of-the-week-eine-and-invaders-evolving-style/"
 categories:
 - blog
 - East London
 - London Street Art &amp; Graffiti
-id: 24533
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=24533
-permalink: "/street-art-pictures-of-the-week-eine-and-invaders-evolving-style/"
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
 tags:
 - alternative London walking tours
 - East London
@@ -26,9 +14,20 @@ tags:
 - Shoreditch
 - street art and graffiti
 - street art picture of the week
-slug: street-art-pictures-of-the-week-eine-and-invaders-evolving-style
-
+id: 24533
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=24533
+s4_url2s:
+- 
+s4_image2s:
+- 
+s4_ctitle:
+- 
+s4_cdes:
+- 
 ---
+
 <img class="aligncenter wp-image-24536 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/27b_mini.jpg" alt="Invader street art picture London walking tour" width="560" height="475" />
 
 Street artists become household names thanks to an easily identifiable style, so this week we&#8217;re looking at a couple of street art heavyweights over the past two decades, and how they&#8217;ve adapted their work.

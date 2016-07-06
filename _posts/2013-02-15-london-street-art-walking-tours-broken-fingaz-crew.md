@@ -1,23 +1,22 @@
 ---
 title: London street art &#8211; Broken Fingaz Crew interview
-date: '2013-02-15 15:09:26'
+date: 2013-02-15 15:09:26 Z
+permalink: "/london-street-art-walking-tours-broken-fingaz-crew/"
 categories:
 - blog
 - East London
 - London Street Art &amp; Graffiti
-id: 4296
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=4296
-permalink: "/london-street-art-walking-tours-broken-fingaz-crew/"
 tags:
 - alternative London walking tours
 - Broken Fingaz crew
 - East London street art
 - Insider London
-slug: london-street-art-walking-tours-broken-fingaz-crew
-
+id: 4296
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=4296
 ---
+
 ###### [######](http://www.insider-london.co.uk/ "Alternative London walking tours") > [London walking tour blog](http://www.insider-london.co.uk/blog/ "London walking tour blog") > Broken Fingaz Crew interview
 
 ****Despite their name suggesting a problem with actually holding their necessary tools, **[ ](http://brokenfingaz.com/ "Broken Fingaz Crew")****_[Broken Fingaz Crew](http://brokenfingaz.com/ "Broken Fingaz Crew") &#8211; _Israel&#8217;s pre-eminent street artists &#8211; have been conquering walls throughout the world for nigh-on twelve years. And recently t****hey returned to the smoke  to contribute some of their unique work ****to the East London street art scene (****including down the road from my old house in Dalston). ******Being lovely people ****they also agreed to answer a few of our questions.****

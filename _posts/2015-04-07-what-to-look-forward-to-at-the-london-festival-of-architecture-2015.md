@@ -1,26 +1,12 @@
 ---
 title: What to look forward to at the London Festival of Architecture 2015
-date: '2015-04-07 10:30:39'
+date: 2015-04-07 10:30:39 Z
+permalink: "/what-to-look-forward-to-at-the-london-festival-of-architecture-2015/"
 categories:
 - blog
 - Green London
 - Modern Architecture
 - Sustainable Architecture
-id: 25054
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=25054
-permalink: "/what-to-look-forward-to-at-the-london-festival-of-architecture-2015/"
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
-slide_template:
-- default
 tags:
 - architecture
 - Central London
@@ -31,9 +17,22 @@ tags:
 - modern architecture
 - Sustainable Architecture
 - sustainable london
-slug: what-to-look-forward-to-at-the-london-festival-of-architecture-2015
-
+id: 25054
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=25054
+s4_url2s:
+- 
+s4_image2s:
+- 
+s4_ctitle:
+- 
+s4_cdes:
+- 
+slide_template:
+- default
 ---
+
 Throughout June 2015, London will play host to a month-long, city-wide celebration of innovation and experimentation in architecture. The London Festival of Architecture was set up more than ten years ago by The Architecture Foundation, and each year introduces a new theme – with “Work in Progress” being the focus for 2015.
 
 [<img class="aligncenter size-full wp-image-25058" src="http://www.insider-london.co.uk/wp-content/uploads/2015/04/lfa_mini.jpg" alt="LFA 2014" width="569" height="379" />](http://www.insider-london.co.uk/wp-content/uploads/2015/04/lfa_mini.jpg)

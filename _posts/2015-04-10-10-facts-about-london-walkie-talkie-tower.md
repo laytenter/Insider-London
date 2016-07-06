@@ -1,6 +1,7 @@
 ---
 title: 10 Great Facts about the Walkie-Talkie Tower
-date: '2015-04-10 09:55:33'
+date: 2015-04-10 09:55:33 Z
+permalink: "/10-facts-about-london-walkie-talkie-tower/"
 categories:
 - blog
 - East London
@@ -8,21 +9,6 @@ categories:
 - Modern Architecture
 - Other
 - Sustainable Architecture
-id: 25065
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=25065
-permalink: "/10-facts-about-london-walkie-talkie-tower/"
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
-slide_template:
-- default
 tags:
 - City of London
 - London
@@ -34,9 +20,22 @@ tags:
 - Skyscraper
 - towers
 - walkie-talkie
-slug: 10-facts-about-london-walkie-talkie-tower
-
+id: 25065
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=25065
+s4_url2s:
+- 
+s4_image2s:
+- 
+s4_ctitle:
+- 
+s4_cdes:
+- 
+slide_template:
+- default
 ---
+
 <img class="aligncenter size-full wp-image-25088" src="http://www.insider-london.co.uk/wp-content/uploads/2015/04/15241123698_31e9e0d8c9_z.jpg" alt="15241123698_31e9e0d8c9_z" width="569" height="618" />
 
 <p style="text-align: center;">

@@ -1,6 +1,7 @@
 ---
 title: My favourite &#8216;big&#8217; London gigs
-date: '2012-08-17 09:30:01'
+date: 2012-08-17 09:30:01 Z
+permalink: "/my-favourite-big-london-gigs/"
 categories:
 - blog
 - London Pubs and nights out
@@ -8,11 +9,8 @@ id: 1464
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=1464
-permalink: "/my-favourite-big-london-gigs/"
-slug: my-favourite-big-london-gigs
-tags: []
-
 ---
+
 There are certain venues in London that I associate distinctly with the bands that I&#8217;ve seen perform inside them. Do I love these particular venues simply because my favourite bands played there? Probably. Does that mean they are actually my favourite venues? I don&#8217;t know. Are introductions full of rhetorical questions slightly irritating? Absolutely.
 
 <div>

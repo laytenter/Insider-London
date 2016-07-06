@@ -1,24 +1,12 @@
 ---
 title: 'London Bridges: The Old &#038; New'
-date: '2015-03-23 10:30:31'
+date: 2015-03-23 10:30:31 Z
+permalink: "/london-bridges-the-old-new/"
 categories:
 - blog
 - Green London
 - Modern Architecture
 - Sustainable Architecture
-id: 25021
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=25021
-permalink: "/london-bridges-the-old-new/"
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
 tags:
 - Alternative London
 - alternative London walking tours
@@ -30,9 +18,20 @@ tags:
 - sightseeing
 - Sustainable Architecture
 - sustainable london
-slug: london-bridges-the-old-new
-
+id: 25021
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=25021
+s4_url2s:
+- 
+s4_image2s:
+- 
+s4_ctitle:
+- 
+s4_cdes:
+- 
 ---
+
 [<img class="aligncenter size-full wp-image-25029" src="http://www.insider-london.co.uk/wp-content/uploads/2015/03/BeFunky_Garden-Bridge.jpg.jpg" alt="Garden Bridge" width="569" height="163" />](http://www.insider-london.co.uk/wp-content/uploads/2015/03/BeFunky_Garden-Bridge.jpg.jpg)
 
 <p style="text-align: center;">

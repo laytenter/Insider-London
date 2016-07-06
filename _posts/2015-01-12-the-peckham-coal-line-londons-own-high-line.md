@@ -1,23 +1,11 @@
 ---
 title: 'The Peckham Coal Line: London&#8217;s own &#8216;High Line&#8217;?'
-date: '2015-01-12 10:30:43'
+date: 2015-01-12 10:30:43 Z
+permalink: "/the-peckham-coal-line-londons-own-high-line/"
 categories:
 - blog
 - Green London
 - London Underground/Tube
-id: 24461
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=24461
-permalink: "/the-peckham-coal-line-londons-own-high-line/"
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
 tags:
 - Alternative London
 - alternative London walking tours
@@ -29,9 +17,20 @@ tags:
 - South london
 - Sustainable Architecture
 - sustainable london
-slug: the-peckham-coal-line-londons-own-high-line
-
+id: 24461
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=24461
+s4_url2s:
+- 
+s4_image2s:
+- 
+s4_ctitle:
+- 
+s4_cdes:
+- 
 ---
+
 <img class="aligncenter wp-image-24464 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/Peckham-coal-line-artists-impression.jpg" alt="alternative green london walking" width="569" height="367" />
 
 <p style="text-align: center;">

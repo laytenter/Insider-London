@@ -1,15 +1,14 @@
 ---
 title: Silicon Roundabout and Tech City Tour
-date: '2010-01-01 10:55:30'
+date: 2010-01-01 10:55:30 Z
+permalink: "/product/silicon-roundabout-and-tech-city-tour/"
 categories:
 - tours
 - educational
 id: 29347
 author: london75
 layout: tour
-guid: '/?post_type=product&#038;p=29347'
-permalink: /product/silicon-roundabout-and-tech-city-tour/
-categories: [tours,educational]
+guid: "/?post_type=product&#038;p=29347"
 show_book: false
 thumb: bigstock-Office-Building-841178-420x287.jpg
 banner: bigstock-Office-Building-841178-772x528.jpg
@@ -19,10 +18,8 @@ related:
 - 29332
 - 29334
 - 29344
-slug: silicon-roundabout-and-tech-city-tour
-tags: []
-
 ---
+
 ##Silicon Roundabout and Tech City – London Walking Tour
 
 <p class="lede">The UK’s Digital industry is booming. It’s epicentre – an unassuming roundabout in East London.

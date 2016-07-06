@@ -1,6 +1,7 @@
 ---
 title: 'You May Have Missed: June on the Insider London blog'
-date: '2014-07-14 12:33:03'
+date: 2014-07-14 12:33:03 Z
+permalink: "/june-on-the-insider-london-blog/"
 categories:
 - blog
 - Green London
@@ -8,19 +9,6 @@ categories:
 - London Street Art &amp; Graffiti
 - Modern Architecture
 - Sustainable Architecture
-id: 15182
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=15182
-permalink: "/june-on-the-insider-london-blog/"
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
 tags:
 - all over London
 - alternative London walking tours
@@ -32,9 +20,20 @@ tags:
 - Street Art
 - sustainable london
 - you may have missed
-slug: june-on-the-insider-london-blog
-
+id: 15182
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=15182
+s4_url2s:
+- 
+s4_image2s:
+- 
+s4_ctitle:
+- 
+s4_cdes:
+- 
 ---
+
 June was a busy month at Insider London. We&#8217;ve been exploring lesser known corners of the city, speaking to people changing the capital in unique ways and getting to grips with London&#8217;s ever evolving skyline. Here&#8217;s what you may have missed.
 
 <p style="text-align: center;">

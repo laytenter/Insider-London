@@ -1,22 +1,21 @@
 ---
 title: The Death and Debauchery Tour
-date: '2004-01-01 10:58:12'
+date: 2004-01-01 10:58:12 Z
+permalink: "/product/the-death-and-debauchery-tour/"
 categories:
 - tours
 - featured
 - hidden
 id: 29349
 tour_id: 50197
-author: london75
- HEAD
+author: london75 HEAD
 layout: tour
-guid: '/?post_type=product&#038;p=29349'
-permalink: /product/the-death-and-debauchery-tour/
-categories: [tours,featured,hidden]
+guid: "/?post_type=product&#038;p=29349"
 show_book: true
 price: 12
 thumb: Death-and-Debauchery-print-1-300x200.jpg
-thumbsrcset: /assets/images/Death-and-Debauchery-print-1-445x304.jpg 445w, /assets/images/Death-and-Debauchery-print-1-568x388.jpg 568w
+thumbsrcset: "/assets/images/Death-and-Debauchery-print-1-445x304.jpg 445w, /assets/images/Death-and-Debauchery-print-1-568x388.jpg
+  568w"
 banner: Death-and-Debauchery_banner_crop-772x528.jpg
 hidden: true
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9931.27315116613!2d-0.132637911781476!3d51.51654964219215!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b2d6954b527%3A0xa11d7ff34a8e1347!2sDominion+Theatre!5e0!3m2!1sen!2s!4v1431588707092
@@ -24,9 +23,6 @@ related:
 - 32342
 - 12345
 - 32569
-slug: the-death-and-debauchery-tour
-tags: []
-
 ---
 
 <p class="lede">The days are getting colder and evening is creeping in earlier, but there is still much to be found in London town! The history of London is riddled with death and debauchery, and such topics have always caught the interest of Londoners and visitors alike. On Insider London’s Death and Debauchery Tour, you will hear stories of famous murders, executions, ghostly happenings and lecherous coffeehouses whilst walking through atmospheric streets and popping into historical pub treasures for a bit of warmth.</p>

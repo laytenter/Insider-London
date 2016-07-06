@@ -1,6 +1,7 @@
 ---
 title: Spring Festival 2013 at the British Library
-date: '2013-02-21 14:30:51'
+date: 2013-02-21 14:30:51 Z
+permalink: "/british-library/"
 categories:
 - blog
 - Quirky, weird and bizarre London
@@ -8,11 +9,8 @@ id: 4496
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=4496
-permalink: "/british-library/"
-slug: british-library
-tags: []
-
 ---
+
 **We&#8217;re good friends with the British Library (I&#8217;m not showing off, it&#8217;s just, we are). And their upcoming Spring Festival is going to be fan-bloody-tastic&#8230;**
 
 Running from 1 – 5 March, this year’s Festival is a celebration of fashion, design and film. It has the Library’s collections at its heart, and you can see creative work &#8211; from short films to dresses &#8211; inspired by everything from Russian postcards to rainforest sound recordings

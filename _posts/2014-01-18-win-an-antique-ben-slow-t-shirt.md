@@ -1,6 +1,7 @@
 ---
 title: Win an Antique x Ben Slow T-Shirt!
-date: '2014-01-18 10:00:26'
+date: 2014-01-18 10:00:26 Z
+permalink: "/win-an-antique-ben-slow-t-shirt/"
 categories:
 - blog
 - London Street Art &amp; Graffiti
@@ -8,11 +9,8 @@ id: 13743
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=13743
-permalink: "/win-an-antique-ben-slow-t-shirt/"
-slug: win-an-antique-ben-slow-t-shirt
-tags: []
-
 ---
+
 [<img class="alignnone size-full wp-image-13735" alt="Antique Ben Slow T Shirt" src="http://www.insider-london.co.uk/wp-content/uploads/2014/01/Antique-Ben-Slow-T-Shirt.jpg" width="566" height="337" />](http://www.insider-london.co.uk/wp-content/uploads/2014/01/Antique-Ben-Slow-T-Shirt.jpg)
 
 Here at Insider London, we recently caught up with Antique Clothing to discuss their exciting new collaborative project with London street artist Ben Slow. You can [read the interview here](http://www.insider-london.co.uk/2014/01/17/antique-ben-slow-collaboration/ ‎), but if you&#8217;ve already done so, you may have noticed our mention of a free t-shirt giveaway.

@@ -1,22 +1,10 @@
 ---
 title: 'Global Generation: The Skip Garden'
-date: '2014-07-09 11:30:45'
+date: 2014-07-09 11:30:45 Z
+permalink: "/global-generation-the-skip-garden/"
 categories:
 - blog
 - Green London
-id: 15133
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=15133
-permalink: "/global-generation-the-skip-garden/"
-s4_cdes:
-- 
-s4_ctitle:
-- 
-s4_image2s:
-- 
-s4_url2s:
-- 
 tags:
 - Alternative London
 - community
@@ -28,9 +16,20 @@ tags:
 - locals
 - London walking tours
 - sustainable london
-slug: global-generation-the-skip-garden
-
+id: 15133
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=15133
+s4_cdes:
+- 
+s4_ctitle:
+- 
+s4_image2s:
+- 
+s4_url2s:
+- 
 ---
+
 When’s it okay to eat out of a skip? When it’s an organic vegetable garden!
 
 [<img class="wp-image-15137 size-full aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/07/skip-garden.jpg_mini.jpg" alt="Kings Cross Regeneration Skip Garden" width="569" height="120" />](http://www.insider-london.co.uk/wp-content/uploads/2014/07/skip-garden.jpg_mini.jpg)

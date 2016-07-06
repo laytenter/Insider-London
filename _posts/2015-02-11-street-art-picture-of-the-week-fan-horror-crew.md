@@ -1,23 +1,11 @@
 ---
 title: 'Street Art Picture of the Week: Fan, Horror Crew'
-date: '2015-02-11 11:00:29'
+date: 2015-02-11 11:00:29 Z
+permalink: "/street-art-picture-of-the-week-fan-horror-crew/"
 categories:
 - blog
 - East London
 - London Street Art &amp; Graffiti
-id: 24694
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=24694
-permalink: "/street-art-picture-of-the-week-fan-horror-crew/"
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
 tags:
 - alternative London walking tours
 - Brick Lane
@@ -27,9 +15,20 @@ tags:
 - london street art &amp; Graffiti
 - street art and graffiti
 - street art picture of the week
-slug: street-art-picture-of-the-week-fan-horror-crew
-
+id: 24694
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=24694
+s4_url2s:
+- 
+s4_image2s:
+- 
+s4_ctitle:
+- 
+s4_cdes:
+- 
 ---
+
 <img class="aligncenter wp-image-24697 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/7_mini.jpg" alt="7_mini" width="569" height="427" />
 
 This week&#8217;s street art picture is the work of Fan of the UK&#8217;s Horror Crew. We love these balloon animals &#8211; if only our animal sculpting skills were so good!

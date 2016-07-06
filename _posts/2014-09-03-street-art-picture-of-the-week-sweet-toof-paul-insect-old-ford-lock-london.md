@@ -1,25 +1,13 @@
 ---
 title: 'Street Art Picture of the Week: Sweet Toof &#038; Paul Insect, Old Ford Lock,
   London'
-date: '2014-09-03 11:30:03'
+date: 2014-09-03 11:30:03 Z
+permalink: "/street-art-picture-of-the-week-sweet-toof-paul-insect-old-ford-lock-london/"
 categories:
 - blog
 - London Street Art &amp; Graffiti
 - Other
 - Quirky, weird and bizarre London
-id: 17033
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=17033
-permalink: "/street-art-picture-of-the-week-sweet-toof-paul-insect-old-ford-lock-london/"
-s4_cdes:
-- 
-s4_ctitle:
-- 
-s4_image2s:
-- 
-s4_url2s:
-- 
 tags:
 - East London street art
 - London Street art
@@ -30,9 +18,20 @@ tags:
 - street art and graffiti
 - street art picture of the week
 - sweet toof
-slug: street-art-picture-of-the-week-sweet-toof-paul-insect-old-ford-lock-london
-
+id: 17033
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=17033
+s4_cdes:
+- 
+s4_ctitle:
+- 
+s4_image2s:
+- 
+s4_url2s:
+- 
 ---
+
 <p style="text-align: center;">
   <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/08/Sweet-Toof-barge.jpg"><img class="size-full wp-image-18526 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/08/Sweet-Toof-barge.jpg" alt="Sweet Toof London barge" width="569" height="776" /></a><em>Image courtesy of Andy Winter </em>
 </p>

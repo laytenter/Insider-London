@@ -1,20 +1,19 @@
 ---
 title: The Art Of Signwriting
-date: '2012-09-28 15:17:28'
+date: 2012-09-28 15:17:28 Z
+permalink: "/the-art-of-signwriting/"
 categories:
 - blog
 - Retail Store Design
+tags:
+- Alternative London
+- London shops
 id: 1657
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=1657
-permalink: "/the-art-of-signwriting/"
-tags:
-- Alternative London
-- London shops
-slug: the-art-of-signwriting
-
 ---
+
 ## [<img class="aligncenter size-full wp-image-1659" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/retail_sign5.jpg" alt="" width="560" height="373" />](http://www.insider-london.co.uk/wp-content/uploads/2012/08/retail_sign5.jpg)
 
 <div>

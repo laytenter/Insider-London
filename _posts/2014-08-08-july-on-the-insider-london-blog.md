@@ -1,16 +1,23 @@
 ---
 title: 'You May Have Missed: July on the Insider London blog'
-date: '2014-08-08 11:30:55'
+date: 2014-08-08 11:30:55 Z
+permalink: "/july-on-the-insider-london-blog/"
 categories:
 - blog
 - Green London
 - Kings Cross regeneration
 - London Street Art &amp; Graffiti
+tags:
+- all over London
+- alternative London walking tours
+- green London
+- Kings Cross Regeneration
+- London Street art
+- London Underground
 id: 15919
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=15919
-permalink: "/july-on-the-insider-london-blog/"
 s4_url2s:
 - 
 s4_image2s:
@@ -19,16 +26,8 @@ s4_ctitle:
 - 
 s4_cdes:
 - 
-tags:
-- all over London
-- alternative London walking tours
-- green London
-- Kings Cross Regeneration
-- London Street art
-- London Underground
-slug: july-on-the-insider-london-blog
-
 ---
+
 Summer is the perfect time to explore London and we&#8217;ve been all over the city this July, from skips to subterranean tunnels. Been too busy eating ice creams to read our blog? Here&#8217;s what you have missed.
 
 <p style="text-align: center;">

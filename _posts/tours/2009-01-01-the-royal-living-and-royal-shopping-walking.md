@@ -1,6 +1,7 @@
 ---
 title: The Royal Living and Royal Shopping
-date: '2009-01-01 11:02:28'
+date: 2009-01-01 11:02:28 Z
+permalink: "/product/the-royal-living-and-royal-shopping-walking/"
 categories:
 - hidden
 - tours
@@ -8,8 +9,6 @@ id: 32334
 tour_id: 50200
 author: london75
 layout: tour
-permalink: /product/the-royal-living-and-royal-shopping-walking/
-categories: [hidden,tours]
 show_book: true
 price: 15
 thumb: 31-420x287.jpg
@@ -20,9 +19,6 @@ related:
 - 32143
 - 32342
 - 32336
-slug: the-royal-living-and-royal-shopping-walking
-tags: []
-
 ---
 
 <p class="lede">The Royal Living and Royal Shopping Walking Tour<br /> In celebration of Queen Elizabeth II</p>

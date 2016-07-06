@@ -1,15 +1,22 @@
 ---
 title: 'Street Art Picture of the Week: RUN at Ram Place Fashion Market, Hackney'
-date: '2014-07-08 14:30:07'
+date: 2014-07-08 14:30:07 Z
+permalink: "/street-art-london-run-at-ram-place-fashion-market-hackney/"
 categories:
 - blog
 - East London
 - London Street Art &amp; Graffiti
+tags:
+- Alternative London
+- East London
+- East London street art
+- pop-up
+- shopping
+- Street Art
 id: 15125
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=15125
-permalink: "/street-art-london-run-at-ram-place-fashion-market-hackney/"
 s4_cdes:
 - 
 s4_ctitle:
@@ -18,16 +25,8 @@ s4_image2s:
 - 
 s4_url2s:
 - 
-tags:
-- Alternative London
-- East London
-- East London street art
-- pop-up
-- shopping
-- Street Art
-slug: street-art-london-run-at-ram-place-fashion-market-hackney
-
 ---
+
 [<img class="size-full wp-image-15127 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/07/13.-RUN.jpg" alt="RUN street art london" width="569" height="320" />](http://www.insider-london.co.uk/wp-content/uploads/2014/07/13.-RUN.jpg)
 
 <p style="text-align: center;">

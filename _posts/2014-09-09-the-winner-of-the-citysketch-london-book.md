@@ -1,15 +1,21 @@
 ---
 title: The winner of the CitySketch London book!
-date: '2014-09-09 11:30:04'
+date: 2014-09-09 11:30:04 Z
+permalink: "/the-winner-of-the-citysketch-london-book/"
 categories:
 - blog
 - Other
 - Quirky, weird and bizarre London
+tags:
+- all over London
+- Alternative London
+- CitySketch
+- competition
+- Illustration
 id: 21291
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=21291
-permalink: "/the-winner-of-the-citysketch-london-book/"
 s4_cdes:
 - 
 s4_ctitle:
@@ -18,15 +24,8 @@ s4_image2s:
 - 
 s4_url2s:
 - 
-tags:
-- all over London
-- Alternative London
-- CitySketch
-- competition
-- Illustration
-slug: the-winner-of-the-citysketch-london-book
-
 ---
+
 [<img class="size-full wp-image-16977 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/08/Citysketch-London-book.jpg" alt="Citysketch London alternative London walking tours" width="569" height="743" />](http://www.insider-london.co.uk/wp-content/uploads/2014/08/Citysketch-London-book.jpg)
   
 We&#8217;re very pleased to announce that twitter user @surreysunshine is the lucky winner of a copy of CitySketch London. Congratulations and we&#8217;d love to see any of your doodles inspired by the book!

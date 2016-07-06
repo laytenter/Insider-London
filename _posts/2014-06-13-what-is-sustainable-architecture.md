@@ -1,25 +1,24 @@
 ---
 title: What is sustainable architecture?
-date: '2014-06-13 14:26:39'
+date: 2014-06-13 14:26:39 Z
+permalink: "/what-is-sustainable-architecture/"
 categories:
 - blog
 - Green London
 - Modern Architecture
 - Other
 - Sustainable Architecture
-id: 14921
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=14921
-permalink: "/what-is-sustainable-architecture/"
 tags:
 - architecture
 - green London
 - sustainable london
 - walking tours
-slug: what-is-sustainable-architecture
-
+id: 14921
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=14921
 ---
+
 _Is it always lean, clean or green?_
 
 What sort of thing do you picture when you think of sustainable architecture? Is it &#8211;

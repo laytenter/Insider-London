@@ -1,23 +1,11 @@
 ---
 title: 'Street Art Pictures of the Week: Bicicleta Sem Freio and Cranio'
-date: '2014-11-19 10:30:32'
+date: 2014-11-19 10:30:32 Z
+permalink: "/street-art-pictures-of-the-week-bicicletas-sem-freios-and-cranio/"
 categories:
 - blog
 - East London
 - London Street Art &amp; Graffiti
-id: 23440
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=23440
-permalink: "/street-art-pictures-of-the-week-bicicletas-sem-freios-and-cranio/"
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
 tags:
 - Alternative London
 - Bicicletas Sem Freios
@@ -26,9 +14,20 @@ tags:
 - london street art and graffiti
 - Street Art
 - street art picture of the week
-slug: street-art-pictures-of-the-week-bicicletas-sem-freios-and-cranio
-
+id: 23440
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=23440
+s4_url2s:
+- 
+s4_image2s:
+- 
+s4_ctitle:
+- 
+s4_cdes:
+- 
 ---
+
 [<img class="aligncenter wp-image-23444 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/11/8a_mini.jpg" alt="Bicicletas Sem Freios alternative street art " width="569" height="427" />](http://www.insider-london.co.uk/wp-content/uploads/2014/11/8a_mini.jpg)
 
 We&#8217;re heading to Brazil for this week&#8217;s street art pictures &#8211; well, as close as you can get to South America without leaving London, that is. And these pictures live up to their county&#8217;s reputation for colourful, expressive work.

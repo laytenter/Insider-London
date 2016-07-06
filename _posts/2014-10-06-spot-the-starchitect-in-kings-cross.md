@@ -1,25 +1,13 @@
 ---
 title: Spot the Starchitect in Kings Cross
-date: '2014-10-06 09:30:07'
+date: 2014-10-06 09:30:07 Z
+permalink: "/spot-the-starchitect-in-kings-cross/"
 categories:
 - blog
 - Green London
 - Kings Cross regeneration
 - Modern Architecture
 - Sustainable Architecture
-id: 22386
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=22386
-permalink: "/spot-the-starchitect-in-kings-cross/"
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
 tags:
 - Allies and Morrison
 - Architects
@@ -37,9 +25,20 @@ tags:
 - modern architecture
 - offices
 - Sustainable Architecture
-slug: spot-the-starchitect-in-kings-cross
-
+id: 22386
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=22386
+s4_url2s:
+- 
+s4_image2s:
+- 
+s4_ctitle:
+- 
+s4_cdes:
+- 
 ---
+
 [<img class="aligncenter wp-image-22841 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/10/IMG_4730.jpg" alt="David Chipperfield modern and sustainable architecture" width="569" height="759" />](http://www.insider-london.co.uk/wp-content/uploads/2014/10/IMG_4730.jpg)
 
 As the Kings Cross Regeneration project continues apace, a new breed of office developments are emerging from the formerly industrial area. Behind the scenes are some of the best architectural practices in the country at present, many that have cut their teeth on prominent regeneration projects. Some are so prolific that they are dubbed starchitects, architects that throw up statement buildings worldwide. While King&#8217;s Cross may not be getting a Norman Foster or Richard Rogers landmark anytime soon, the names involved are undoubtedly big and masterplanners are keen to work with.

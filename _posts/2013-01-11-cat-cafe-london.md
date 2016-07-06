@@ -1,22 +1,21 @@
 ---
 title: 'Pussy(s) Galore: cat cafe comes to London'
-date: '2013-01-11 15:34:58'
+date: 2013-01-11 15:34:58 Z
+permalink: "/cat-cafe-london/"
 categories:
 - blog
 - Quirky, weird and bizarre London
-id: 25427
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=3880
-permalink: "/cat-cafe-london/"
 tags:
 - cats
 - crowd-funding
 - london cafes
 - london cats
-slug: cat-cafe-london
-
+id: 25427
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=3880
 ---
+
 <figure style="width: 569px" class="wp-caption aligncenter"><a href="http://www.insider-london.co.uk/blog/2013/01/11/cat-cafe-london/kitteninteacup-2/" rel="attachment wp-att-3885"><img class=" " alt="london-cafes-quirky-cats" src="http://www.insider-london.co.uk/wp-content/uploads/2013/01/kitteninteacup1.jpg" width="569" height="379" /></a><figcaption class="wp-caption-text">Persian kitten by Shutterstock</figcaption></figure> 
 
 **I live in a seven person house in South London. It’s a nice but fairly old house, and things fall off it, fall apart in it and generally just break in it quite often. We also have mice, and have had mice for three years. I’m ashamed to say we’ve gone to town on them over the years, gradually building from gentle hints with steel wool, peppermint and incense (I read it on the internet), to finally bringing out the big guns with horrible, snappy, don’t-want-to-check-it-but-have-to traps&#8230;**

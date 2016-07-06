@@ -1,14 +1,12 @@
 ---
 title: What to do in London on a May bank Holiday
-date: '2016-03-27 22:00:24'
+date: 2016-03-27 22:00:24 Z
+permalink: "/what-to-do-in-london-on-a-may-bank-holiday/"
 categories:
 - blog
 layout: post
-permalink: "/what-to-do-in-london-on-a-may-bank-holiday/"
-slug: what-to-do-in-london-on-a-may-bank-holiday
-tags: []
-
 ---
+
 What’s better than a long bank holiday weekend? That’s right – two bank holiday weekends! May has two bank holidays, the early May and the Spring bank holiday, falling on 1st and 30th May respectively in 2016. These holidays celebrate the arrival of Spring and the warm months to come with fun and festivities, and so should you! As the days get longer and the weather gets sweeter, do more than just Netflix & Chill and find out how to make the most of these long weekends with our tips on what to do in London on a May Bank Holiday…
 
 ##Take a walk through London’s Gardens

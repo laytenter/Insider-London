@@ -1,15 +1,21 @@
 ---
 title: 'Street Art Picture of the Week: Roa&#8217;s flea, Shoreditch'
-date: '2014-07-16 11:30:12'
+date: 2014-07-16 11:30:12 Z
+permalink: "/roa-flea-shoreditch/"
 categories:
 - blog
 - East London
 - London Street Art &amp; Graffiti
+tags:
+- East London street art
+- roa
+- Shoreditch
+- Street Art
+- street art and graffiti
 id: 15186
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=15186
-permalink: "/roa-flea-shoreditch/"
 s4_url2s:
 - 
 s4_image2s:
@@ -18,15 +24,8 @@ s4_ctitle:
 - 
 s4_cdes:
 - 
-tags:
-- East London street art
-- roa
-- Shoreditch
-- Street Art
-- street art and graffiti
-slug: roa-flea-shoreditch
-
 ---
+
 <p style="text-align: center;">
   <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/07/roa-flea-street-art-london.jpg"><img class="size-full wp-image-15188 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/07/roa-flea-street-art-london.jpg" alt="roa flea London street art and graffiti " width="569" height="379" /></a><br /> Image credit: <a href="www.flickr.com/photos/londonmatt/14364150339" target="_blank">MattFromLondon</a>
 </p>

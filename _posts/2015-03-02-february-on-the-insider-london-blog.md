@@ -1,6 +1,7 @@
 ---
 title: 'You May Have Missed: February on the Insider London blog'
-date: '2015-03-02 10:30:16'
+date: 2015-03-02 10:30:16 Z
+permalink: "/february-on-the-insider-london-blog/"
 categories:
 - blog
 - Food and drink
@@ -8,19 +9,6 @@ categories:
 - London Underground/Tube
 - Modern Architecture
 - Quirky, weird and bizarre London
-id: 24860
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=24860
-permalink: "/february-on-the-insider-london-blog/"
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
 tags:
 - all over London
 - Alternative London
@@ -32,9 +20,20 @@ tags:
 - phone boxes
 - sustainable london
 - what you've missed
-slug: february-on-the-insider-london-blog
-
+id: 24860
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=24860
+s4_url2s:
+- 
+s4_image2s:
+- 
+s4_ctitle:
+- 
+s4_cdes:
+- 
 ---
+
 February is the cruellest month &#8211; or so the poem goes. Well, it&#8217;s certainly one of the coolest. We&#8217;ve been keeping ourselves busy, however. Here are our favourite posts from the last month.
 
 <img class="aligncenter wp-image-24778 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/Chinese-New-Year.jpg" alt="Chinese New Year" width="569" height="373" />

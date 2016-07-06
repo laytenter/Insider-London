@@ -1,21 +1,20 @@
 ---
 title: London Needs Many More Tall Buildings
-date: '2014-06-02 14:45:11'
+date: 2014-06-02 14:45:11 Z
+permalink: "/london-needs-many-more-tall-buildings/"
 categories:
 - blog
 - Modern Architecture
-id: 14842
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=14842
-permalink: "/london-needs-many-more-tall-buildings/"
 tags:
 - architecture
 - London
 - skyscrapers
-slug: london-needs-many-more-tall-buildings
-
+id: 14842
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=14842
 ---
+
 &nbsp;
 
 <p style="text-align: center;">

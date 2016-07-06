@@ -1,16 +1,23 @@
 ---
 title: Mapping London
-date: '2014-08-29 11:30:51'
+date: 2014-08-29 11:30:51 Z
+permalink: "/mapping-london/"
 categories:
 - blog
 - London Underground/Tube
 - Other
 - Quirky, weird and bizarre London
+tags:
+- geography
+- landscape
+- London history
+- London Underground
+- maps
+- Thames
 id: 16998
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=16998
-permalink: "/mapping-london/"
 s4_url2s:
 - 
 s4_image2s:
@@ -19,16 +26,8 @@ s4_ctitle:
 - 
 s4_cdes:
 - 
-tags:
-- geography
-- landscape
-- London history
-- London Underground
-- maps
-- Thames
-slug: mapping-london
-
 ---
+
 [<img class="aligncenter wp-image-17001 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/08/reduced-image-George_Braun_and_Franz_Hogenberg_1572_768_460_90_s_c1.jpg" alt="Braun and Hogenberg 1572 Copyright Daniel Crouch " width="569" height="341" />](http://www.insider-london.co.uk/wp-content/uploads/2014/08/reduced-image-George_Braun_and_Franz_Hogenberg_1572_768_460_90_s_c1.jpg)
 
 <p style="text-align: center;">

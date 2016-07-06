@@ -1,6 +1,7 @@
 ---
 title: 'Insider London: Best of 2014 on the blog'
-date: '2015-01-05 10:30:09'
+date: 2015-01-05 10:30:09 Z
+permalink: "/insider-london-best-of-2014-on-the-blog/"
 categories:
 - blog
 - East London
@@ -12,19 +13,6 @@ categories:
 - Modern Architecture
 - Quirky, weird and bizarre London
 - Sustainable Architecture
-id: 24432
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=24432
-permalink: "/insider-london-best-of-2014-on-the-blog/"
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
 tags:
 - all over London
 - Alternative London
@@ -36,9 +24,20 @@ tags:
 - london street art &amp; Graffiti
 - London Underground
 - Old Street Roundabout
-slug: insider-london-best-of-2014-on-the-blog
-
+id: 24432
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=24432
+s4_url2s:
+- 
+s4_image2s:
+- 
+s4_ctitle:
+- 
+s4_cdes:
+- 
 ---
+
 Happy new year from Insider London! Before we plunge straight into another year of bringing you the finest London finds and facts, let&#8217;s look back over some of our favourite posts of last year.
 
 **We&#8217;ve been Underground: **

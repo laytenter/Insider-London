@@ -1,22 +1,10 @@
 ---
 title: 'Street Art Picture of the Week: El Mac&#8217;s Cowboy, Hewett Street, Shoreditch'
-date: '2014-08-27 11:30:05'
+date: 2014-08-27 11:30:05 Z
+permalink: "/street-art-el-mac-cowboy-hewett-street-shoreditch/"
 categories:
 - blog
 - London Street Art &amp; Graffiti
-id: 18598
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=18598
-permalink: "/street-art-el-mac-cowboy-hewett-street-shoreditch/"
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
 tags:
 - alternative London walking tours
 - East London street art
@@ -25,9 +13,20 @@ tags:
 - Shoreditch
 - street art and graffiti
 - street art picture of the week
-slug: street-art-el-mac-cowboy-hewett-street-shoreditch
-
+id: 18598
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=18598
+s4_url2s:
+- 
+s4_image2s:
+- 
+s4_ctitle:
+- 
+s4_cdes:
+- 
 ---
+
 [<img class="size-full wp-image-18600 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/08/El-Mac-cowboy.jpg" alt="Street art walking tour cowboy " width="569" height="656" />](http://www.insider-london.co.uk/wp-content/uploads/2014/08/El-Mac-cowboy.jpg)
   
 Howdy! Our street art picture this week is this rather handsome cowboy. London isn&#8217;t really known for its stetson-wearing cowboys, so perhaps it comes as no surprise that this one comes courtesy of an LA-based graffiti artist, El Mac. You can read more about <a href="http://elmac.net/" target="_blank">his work here</a>.

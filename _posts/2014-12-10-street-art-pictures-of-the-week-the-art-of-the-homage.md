@@ -1,23 +1,11 @@
 ---
 title: 'Street Art Pictures of the Week: The Art of the Homage'
-date: '2014-12-10 10:30:56'
+date: 2014-12-10 10:30:56 Z
+permalink: "/street-art-pictures-of-the-week-the-art-of-the-homage/"
 categories:
 - blog
 - London Street Art &amp; Graffiti
 - Other
-id: 23558
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=23558
-permalink: "/street-art-pictures-of-the-week-the-art-of-the-homage/"
-s4_cdes:
-- 
-s4_ctitle:
-- 
-s4_image2s:
-- 
-s4_url2s:
-- 
 tags:
 - allen gardens
 - Alternative London
@@ -31,9 +19,20 @@ tags:
 - london street art &amp; Graffiti
 - Shoreditch
 - street art picture of the week
-slug: street-art-pictures-of-the-week-the-art-of-the-homage
-
+id: 23558
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=23558
+s4_cdes:
+- 
+s4_ctitle:
+- 
+s4_image2s:
+- 
+s4_url2s:
+- 
 ---
+
 <img class="aligncenter wp-image-23561 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/12/13b_mini.jpg" alt="street art Grimsby street" width="569" height="427" />
 
 We&#8217;re used to street art for various purposes: to mark territory, to brighten up the street maybe, or perhaps for commercial purposes. But using street art to eulogise is more unconventional. This week&#8217;s street art pictures do exactly that &#8211; in their own colourful, unique way.

@@ -1,17 +1,24 @@
 ---
 title: 'London The Information Capital: Infographics that will change the way you
   view the city'
-date: '2014-11-10 10:00:15'
+date: 2014-11-10 10:00:15 Z
+permalink: "/london-the-information-project-infographics-that-will-change-the-way-you-view-the-city/"
 categories:
 - blog
 - London Underground/Tube
 - Other
 - Quirky, weird and bizarre London
+tags:
+- all over London
+- Alternative London
+- Central London
+- London Underground
+- quirky london
+- shopping
 id: 23122
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=23122
-permalink: "/london-the-information-project-infographics-that-will-change-the-way-you-view-the-city/"
 s4_url2s:
 - 
 s4_image2s:
@@ -20,16 +27,8 @@ s4_ctitle:
 - 
 s4_cdes:
 - 
-tags:
-- all over London
-- Alternative London
-- Central London
-- London Underground
-- quirky london
-- shopping
-slug: london-the-information-project-infographics-that-will-change-the-way-you-view-the-city
-
 ---
+
 <div class="page" title="Page 1">
   <div class="layoutArea">
     <div class="column">

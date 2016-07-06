@@ -1,23 +1,22 @@
 ---
 title: Around the World in 80 Minutes &#8211; Excuse my French &#8211; a trip to South
   Kensington
-date: '2012-07-23 07:07:58'
+date: 2012-07-23 07:07:58 Z
+permalink: "/around-world-80-minutes-excuse-french-trip-south-kensington/"
 categories:
 - blog
 - Around the World in 80 Minutes
-id: 1044
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=1044
-permalink: "/around-world-80-minutes-excuse-french-trip-south-kensington/"
 tags:
 - Central London
 - eating
 - french
 - sightseeing
-slug: around-world-80-minutes-excuse-french-trip-south-kensington
-
+id: 1044
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=1044
 ---
+
 <div>
 </div>
 

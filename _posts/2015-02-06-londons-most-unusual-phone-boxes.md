@@ -1,25 +1,13 @@
 ---
 title: London&#8217;s most unusual phone boxes
-date: '2015-02-06 10:30:00'
+date: 2015-02-06 10:30:00 Z
+permalink: "/londons-most-unusual-phone-boxes/"
 categories:
 - blog
 - Green London
 - London Street Art &amp; Graffiti
 - Other
 - Quirky, weird and bizarre London
-id: 24653
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=24653
-permalink: "/londons-most-unusual-phone-boxes/"
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
 tags:
 - all over London
 - Alternative London
@@ -31,9 +19,20 @@ tags:
 - solar power
 - Street Art
 - walking tours
-slug: londons-most-unusual-phone-boxes
-
+id: 24653
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=24653
+s4_url2s:
+- 
+s4_image2s:
+- 
+s4_ctitle:
+- 
+s4_cdes:
+- 
 ---
+
 <p style="text-align: left;">
   It&#8217;s one of London&#8217;s most famous sights. But &#8211; in the days of mobile phones &#8211; what purpose does the red phone box have, other than being a distinctive backdrop to tourists photos? However, there are plenty of ways these boxes still brighten our London lives &#8211; here are just a few of London&#8217;s most unusual phone boxes.
 </p>

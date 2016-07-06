@@ -1,6 +1,7 @@
 ---
 title: New London Street Artists &#8211; 616
-date: '2012-12-13 11:59:50'
+date: 2012-12-13 11:59:50 Z
+permalink: "/new-london-street-artists-616/"
 categories:
 - blog
 - London Street Art &amp; Graffiti
@@ -8,11 +9,8 @@ id: 3625
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=3625
-permalink: "/new-london-street-artists-616/"
-slug: new-london-street-artists-616
-tags: []
-
 ---
+
 ### This post is part of an ongoing series that will keep you up to speed with London&#8217;s newest and most engaging street artists. Here we&#8217;ve been looking at 616&#8230;
 
 616 is an up and coming street artist based right here in London. He follows the trend of many other artists, utilising a wide range of materials in each of their pieces of work. His pieces often feature at least a wallpaper-pasted illustration, with ink pens or spray-paint to create the finishing touches.

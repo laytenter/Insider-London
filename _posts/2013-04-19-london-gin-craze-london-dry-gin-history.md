@@ -1,15 +1,11 @@
 ---
 title: The evolution of gin in London, 1750 &#8211; 1850
-date: '2013-04-19 15:45:34'
+date: 2013-04-19 15:45:34 Z
+permalink: "/london-gin-craze-london-dry-gin-history/"
 categories:
 - blog
 - London Pubs and nights out
 - Quirky, weird and bizarre London
-id: 4921
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=4921
-permalink: "/london-gin-craze-london-dry-gin-history/"
 tags:
 - Death and Debauchery Tour
 - Drinking in London
@@ -19,9 +15,12 @@ tags:
 - London gin
 - London history
 - missing history
-slug: london-gin-craze-london-dry-gin-history
-
+id: 4921
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=4921
 ---
+
 <img title="gin-palaces-london-gin-history-tour" alt="London gin palace" src="http://www.insider-london.co.uk/wp-content/uploads/2013/03/gin-palaces-london-gin-history-tour.jpg" width="569" height="339" />
 
 _London&#8217;s gin palaces – convivial, glamorous environments. But how did gin reinvent itself from being something drunk by children in slums just 80 years prior?_

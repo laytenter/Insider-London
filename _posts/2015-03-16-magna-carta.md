@@ -1,15 +1,20 @@
 ---
 title: 'Quirky London: King John&#8217;s Teeth and the Magna Carta'
-date: '2015-03-16 10:30:13'
+date: 2015-03-16 10:30:13 Z
+permalink: "/magna-carta/"
 categories:
 - blog
 - Other
 - Quirky, weird and bizarre London
+tags:
+- Alternative London
+- exhibitions
+- London history
+- quirky london
 id: 24909
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=24909
-permalink: "/magna-carta/"
 s4_url2s:
 - 
 s4_image2s:
@@ -18,14 +23,8 @@ s4_ctitle:
 - 
 s4_cdes:
 - 
-tags:
-- Alternative London
-- exhibitions
-- London history
-- quirky london
-slug: magna-carta
-
 ---
+
 [<img class="aligncenter wp-image-24911 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/03/king-john-teeth-worcester-museum-thumb-bone-cathedral-magna-carta-law-liberty-legacy-library-british-2.jpg" alt="king-john-teeth-worcester-museum-thumb-bone-cathedral-magna-carta-law-liberty-legacy-library-british (2)" width="569" height="395" />](http://www.insider-london.co.uk/wp-content/uploads/2015/03/king-john-teeth-worcester-museum-thumb-bone-cathedral-magna-carta-law-liberty-legacy-library-british-2.jpg)
 
 <p style="text-align: center;">

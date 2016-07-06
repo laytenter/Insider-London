@@ -1,16 +1,12 @@
 ---
 title: How Street Art and Architecture can Improve City Life and Politics
-date: '2013-02-26 13:22:59'
+date: 2013-02-26 13:22:59 Z
+permalink: "/street-art-architecture-can-improve-city-life-politics/"
 categories:
 - blog
 - London Street Art &amp; Graffiti
 - Modern Architecture
 - Sustainable Architecture
-id: 4656
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=4656
-permalink: "/street-art-architecture-can-improve-city-life-politics/"
 tags:
 - architecture
 - politics
@@ -18,9 +14,12 @@ tags:
 - social design
 - Street Art
 - TED talks
-slug: street-art-architecture-can-improve-city-life-politics
-
+id: 4656
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=4656
 ---
+
 If you&#8217;re interested the tangible benefits of street art and architecture, check out this TED talk from Edi Rama. Rama was mayor of Tirana in Albania from 2000 to 2011, during which time his team covered many buildings in bright, bold colours and patterns.
   
 

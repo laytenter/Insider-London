@@ -1,14 +1,12 @@
 ---
 title: "\uFEFFStudents! Discover the Secrets of Business"
-date: '2016-04-06 08:37:24'
+date: 2016-04-06 08:37:24 Z
+permalink: "/students-discover-the-secrets-of-business/"
 categories:
 - blog
 layout: post
-permalink: "/students-discover-the-secrets-of-business/"
-slug: students-discover-the-secrets-of-business
-tags: []
-
 ---
+
 Looking for an in-depth experience for school, college or university students? Take a trip to London and discover the most useful business secrets with Insider London.
 
 At Insider London, our guided walking tours and behind-the-scenes business visits are very popular among students, schools and universities from both the UK and abroad. If you are a teacher or educator looking to book a trip, Insider London walking tours will introduce your students to the world of business and can be adapted to fit your precise needs.

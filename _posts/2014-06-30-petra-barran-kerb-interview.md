@@ -1,23 +1,22 @@
 ---
 title: 'Insider Interview: Petra Barran of KERB'
-date: '2014-06-30 12:30:25'
+date: 2014-06-30 12:30:25 Z
+permalink: "/petra-barran-kerb-interview/"
 categories:
 - blog
 - Food and drink
 - Kings Cross regeneration
-id: 15094
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=15094
-permalink: "/petra-barran-kerb-interview/"
 tags:
 - Alternative London
 - eating
 - Insider London
 - king's cross
-slug: petra-barran-kerb-interview
-
+id: 15094
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=15094
 ---
+
 <p style="text-align: center;">
   <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/06/KERB-kings-cross-regeneration1.jpg"><img class="alignnone size-full wp-image-15098" src="http://www.insider-london.co.uk/wp-content/uploads/2014/06/KERB-kings-cross-regeneration1.jpg" alt="KERB kings cross regeneration" width="569" height="380" /></a>
 </p>

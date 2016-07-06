@@ -1,22 +1,21 @@
 ---
 title: 'From whitewash etchings to yarn bombing: The many forms of London&#8217;s
   Street Art'
-date: '2014-06-06 10:30:18'
+date: 2014-06-06 10:30:18 Z
+permalink: "/the-many-forms-of-street-art/"
 categories:
 - blog
 - London Street Art &amp; Graffiti
-id: 14855
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=14855
-permalink: "/the-many-forms-of-street-art/"
 tags:
 - East London street art
 - London street art walking tours
 - Street Art
-slug: the-many-forms-of-street-art
-
+id: 14855
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=14855
 ---
+
 &nbsp;
 
 <p style="text-align: center;">

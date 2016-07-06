@@ -1,23 +1,22 @@
 ---
 title: Things to do in London &#8211; street art larceny!
-date: '2013-03-25 15:05:54'
+date: 2013-03-25 15:05:54 Z
+permalink: "/things-to-do-london-street-art/"
 categories:
 - blog
 - London Street Art &amp; Graffiti
-id: 4822
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=4822
-permalink: "/things-to-do-london-street-art/"
 tags:
 - Banksy
 - London Street art
 - London walking tours
 - Poundland
 - Shepard Fairey
-slug: things-to-do-london-street-art
-
+id: 4822
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=4822
 ---
+
 ###### [Alternative walking tours](http://www.insider-london.co.uk/ "London walking tours") > [tour blog](http://www.insider-london.co.uk/blog/ "Insider London blog") > street art larceny
 
 **So after all the furore of the ‘will they or won’t they’, the auction of the _[stolen Banksy](http://www.independent.co.uk/arts-entertainment/art/news/arts-council-unable-to-prevent-banksy-poundland-mural-from-being-sold-overseas-8503155.html "stolen Banksy")_ was finally prevented. But what realistically is the next move? What are they gonna do &#8211; bring it back and slap it back up there?**

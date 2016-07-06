@@ -1,15 +1,14 @@
 ---
 title: London Finance Walking Tour
-date: '2011-01-01 10:43:16'
+date: 2011-01-01 10:43:16 Z
+permalink: "/product/london-finance-walking-tour/"
 categories:
 - tours
 - educational
 id: 29332
 author: london75
 layout: tour
-guid: '/?post_type=product&#038;p=29332'
-permalink: /product/london-finance-walking-tour/
-categories: [tours,educational]
+guid: "/?post_type=product&#038;p=29332"
 show_book: false
 thumb: bigstock-Bank-of-England-in-London-72296731-420x287.jpg
 banner: bigstock-Bank-of-England-in-London-72296731-772x528.jpg
@@ -19,10 +18,8 @@ related:
 - 29347
 - 29334
 - 29344
-slug: london-finance-walking-tour
-tags: []
-
 ---
+
 <p class="lede">The City of London is a leading financial hub and home to some of the biggest banking and insurance institutions in the world.</p>
 
 Join us on our award-winning walking tour of The City as we take you on a fascinating journey to discover the origins of London’s financial centre &#8211; from its humble beginnings in 17<sup>th</sup> century coffee houses to its ancient and unusual governance and voting system that’s still in use today.

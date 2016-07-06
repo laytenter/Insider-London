@@ -1,24 +1,12 @@
 ---
 title: 10 Great Facts About Tower 42
-date: '2015-02-13 14:37:55'
+date: 2015-02-13 14:37:55 Z
+permalink: "/10-great-facts-about-tower-42/"
 categories:
 - blog
 - Modern Architecture
 - Other
 - Quirky, weird and bizarre London
-id: 24713
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=24713
-permalink: "/10-great-facts-about-tower-42/"
-s4_ctitle:
-- 
-s4_image2s:
-- 
-s4_url2s:
-- 
-s4_cdes:
-- 
 tags:
 - architecture
 - bars
@@ -36,9 +24,20 @@ tags:
 - skyscrapers
 - tower 42
 - towers
-slug: 10-great-facts-about-tower-42
-
+id: 24713
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=24713
+s4_ctitle:
+- 
+s4_image2s:
+- 
+s4_url2s:
+- 
+s4_cdes:
+- 
 ---
+
 <img class="aligncenter size-full wp-image-24772" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/3075715534_f4c33b3ff4_z.jpg" alt="London architecture " width="569" height="427" />
 
 <p style="text-align: center">

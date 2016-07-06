@@ -1,14 +1,12 @@
 ---
 title: "\uFEFFArt on every Corner"
-date: '2016-04-14 19:47:24'
+date: 2016-04-14 19:47:24 Z
+permalink: "/art-on-every-corner/"
 categories:
 - blog
 layout: post
-permalink: "/art-on-every-corner/"
-slug: art-on-every-corner
-tags: []
-
 ---
+
 Explore London’s vibrant street art scene, catch a glimpse of some of these hidden treasures and discover some new works
 
 Street art became popular in the 1990s, after graffiti art became a phenomenon and now you’ll see new works popping up on every street corner of London. Like Berlin, São Paulo and Melbourne, London has made a name for itself as a city which celebrates this form of public art and a place where emerging artists become international superstars.

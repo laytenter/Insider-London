@@ -1,23 +1,22 @@
 ---
 title: East London Music Trends &#8211; Soundyoucansee interview (pt1)
-date: '2013-08-27 15:27:55'
+date: 2013-08-27 15:27:55 Z
+permalink: "/east-london-music-trends/"
 categories:
 - blog
 - East London
-id: 25431
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=3717
-permalink: "/east-london-music-trends/"
 tags:
 - East London
 - london music
 - London music trends
 - Shoreditch
 - Soundyoucansee
-slug: east-london-music-trends
-
+id: 25431
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=3717
 ---
+
 ###### [Niche London walking tours](http://www.insider-london.co.uk/ "Insider London Walking Tours") > [Insider Blog](http://www.insider-london.co.uk/blog/ "Insider London Blog") > London Music Trends
 
 **Barry Hoffman and Paddy Banks want to change the way you listen to music. They want to change the way you see music. They are [Soundyoucansee](http://soundyoucansee.com/ "Soundyoucansee").**<figure id="attachment_3781" style="width: 569px" class="wp-caption alignnone">

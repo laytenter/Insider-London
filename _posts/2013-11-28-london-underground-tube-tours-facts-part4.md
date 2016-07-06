@@ -1,15 +1,11 @@
 ---
 title: Quirky Tube Facts (part 4)
-date: '2013-11-28 14:14:05'
+date: 2013-11-28 14:14:05 Z
+permalink: "/london-underground-tube-tours-facts-part4/"
 categories:
 - blog
 - London Underground/Tube
 - Quirky, weird and bizarre London
-id: 7679
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=7679
-permalink: "/london-underground-tube-tours-facts-part4/"
 tags:
 - london tube
 - london tube facts
@@ -18,9 +14,12 @@ tags:
 - tube maps
 - Underground Facts
 - underground maps
-slug: london-underground-tube-tours-facts-part4
-
+id: 7679
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=7679
 ---
+
 Our final installment of interesting and quirky facts features how the Underground was funded and how London’s most important mode of transportation received its nicknames.
 
 &nbsp;<figure id="attachment_12080" style="width: 569px" class="wp-caption aligncenter">

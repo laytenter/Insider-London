@@ -1,21 +1,20 @@
 ---
 title: 'Pollock&#8217;s: A central London toy shop that isn&#8217;t terrifying'
-date: '2012-08-29 11:19:11'
+date: 2012-08-29 11:19:11 Z
+permalink: "/pollocks-a-central-london-toy-shop-isnt-terrifying/"
 categories:
 - blog
 - Quirky, weird and bizarre London
-id: 1523
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=1523
-permalink: "/pollocks-a-central-london-toy-shop-isnt-terrifying/"
 tags:
 - covent garden
 - old london
 - Toy shops
-slug: pollocks-a-central-london-toy-shop-isnt-terrifying
-
+id: 1523
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=1523
 ---
+
 So I took my niece to Hamleys recently. Hamleys in Regent Street is the world&#8217;s largest toy store. It is a beautiful and historic building, established as a toy store by William Hamley in 1881. It was bombed five times during the second world war. It brings in up to five million people a year, and is a major tourist attraction. My thanks to the good people at Wikipedia for that short introduction.
 
 <p style="text-align: center">

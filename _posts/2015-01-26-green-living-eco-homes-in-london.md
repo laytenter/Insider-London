@@ -1,24 +1,12 @@
 ---
 title: 'Green Living: Eco Homes in London'
-date: '2015-01-26 10:00:26'
+date: 2015-01-26 10:00:26 Z
+permalink: "/green-living-eco-homes-in-london/"
 categories:
 - blog
 - Modern Architecture
 - Other
 - Sustainable Architecture
-id: 24562
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=24562
-permalink: "/green-living-eco-homes-in-london/"
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
 tags:
 - Alternative London
 - alternative London walking tours
@@ -28,9 +16,20 @@ tags:
 - modern architecture
 - Sustainable Architecture
 - sustainable london
-slug: green-living-eco-homes-in-london
-
+id: 24562
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=24562
+s4_url2s:
+- 
+s4_image2s:
+- 
+s4_ctitle:
+- 
+s4_cdes:
+- 
 ---
+
 With rent, gas prices and eco-awareness on the rise, there’s never been a better time to seek out alternative accommodations in London. We’ve pulled together a list of some quirky homes in the capital that are as innovative as they are environmentally-friendly.
 
 **Micro-homes**

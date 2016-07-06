@@ -1,24 +1,23 @@
 ---
 title: Street Art&#8230;. Mushrooms
-date: '2013-01-29 13:05:46'
+date: 2013-01-29 13:05:46 Z
+permalink: "/london-street-art-tours-christiaan-nage/"
 categories:
 - blog
 - East London
 - London Street Art &amp; Graffiti
-id: 25429
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=4045
-permalink: "/london-street-art-tours-christiaan-nage/"
 tags:
 - Broken Fingaz crew
 - Christiaan Nagel
 - East London street art
 - London Street art
 - London street art walking tours
-slug: london-street-art-tours-christiaan-nage
-
+id: 25429
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=4045
 ---
+
 ###### [Unique London walking tours](http://www.insider-london.co.uk/ "Unique London Walking Tours") > [Insider London Blog](http://www.insider-london.co.uk/blog/ "Tour blog") > Christiaan Nagel street art
 
 **Mushrooms. Street art. Know what I mean? Chances are, if you’ve spent any time walking round East London and looked heavenwards for inspiration, you will have been greeted by… mushrooms. Christiaan Nagel is the man behind them, on a one-man mushroom, sorry _mission_, __to ‘cover the world in mushrooms’.**

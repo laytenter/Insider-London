@@ -1,10 +1,10 @@
 ---
 title: Planning a school trip to London
-date: 2016-06-19T18:18:24+00:00
-layout: post
-permalink: /planning-a-school-trip-to-london/
+date: 2016-06-19 18:18:24 Z
+permalink: "/planning-a-school-trip-to-london/"
 categories:
-  - blog
+- blog
+layout: post
 ---
 
 If you’re planning a school trip to London for primary, secondary, college or sixth form students – here are some great tips and ideas for what to do on the day.

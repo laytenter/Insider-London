@@ -1,15 +1,11 @@
 ---
 title: 31 Terrifying London Events for Halloween
-date: '2013-10-14 14:27:57'
+date: 2013-10-14 14:27:57 Z
+permalink: "/halloween-in-london/"
 categories:
 - blog
 - London Pubs and nights out
 - Quirky, weird and bizarre London
-id: 8123
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=8123
-permalink: "/halloween-in-london/"
 tags:
 - creepy london
 - Halloween
@@ -18,9 +14,12 @@ tags:
 - haunted london
 - quirky london
 - spooky london
-slug: halloween-in-london
-
+id: 8123
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=8123
 ---
+
 <p dir="ltr">
   Looking for something to do to celebrate the creepiest season of the year? We&#8217;ve created a list of 31 creepy and terrifying things to do in London that will surely keep you terrified all month long.
 </p>

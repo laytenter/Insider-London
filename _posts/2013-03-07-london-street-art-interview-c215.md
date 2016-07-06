@@ -1,24 +1,23 @@
 ---
 title: London Street Art &#8211; C215 interview
-date: '2013-03-07 11:59:19'
+date: 2013-03-07 11:59:19 Z
+permalink: "/london-street-art-interview-c215/"
 categories:
 - blog
 - East London
 - London Street Art &amp; Graffiti
-id: 25430
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=4104
-permalink: "/london-street-art-interview-c215/"
 tags:
 - C215
 - Eastend street art
 - Insider London
 - Street Art
 - walking tours
-slug: london-street-art-interview-c215
-
+id: 25430
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=4104
 ---
+
 ###### [Alternative walking tours](http://www.insider-london.co.uk/ "Insider London walking tours") > [Walking tour blog](http://www.insider-london.co.uk/blog/ "Insider London blog") > Eastend street art interview
 
 **C215 is one of the doyens of street art &#8211; a grand old master, and a man who has been back in the smoke recently,  plastering our walls with his iconic work. As you can see from these images, the man has been BUSY!**

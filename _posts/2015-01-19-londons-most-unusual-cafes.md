@@ -1,23 +1,11 @@
 ---
 title: London&#8217;s most unusual cafes
-date: '2015-01-19 10:30:06'
+date: 2015-01-19 10:30:06 Z
+permalink: "/londons-most-unusual-cafes/"
 categories:
 - blog
 - Food and drink
 - Quirky, weird and bizarre London
-id: 24495
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=24495
-permalink: "/londons-most-unusual-cafes/"
-s4_cdes:
-- 
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
 tags:
 - Alternative London
 - arty
@@ -26,9 +14,20 @@ tags:
 - london cafes
 - Quirky
 - Shoreditch
-slug: londons-most-unusual-cafes
-
+id: 24495
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=24495
+s4_cdes:
+- 
+s4_url2s:
+- 
+s4_image2s:
+- 
+s4_ctitle:
+- 
 ---
+
 [<img class="aligncenter size-full wp-image-24499" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/coffee-569.jpg" alt="coffee " width="569" height="569" />](http://www.insider-london.co.uk/wp-content/uploads/2015/01/coffee-569.jpg)
 
 The first coffee houses to open in London were brewing grounds for novel ideas in the fields of science and culture. People from all walks of life gathered to socialise, read newspapers and discuss current affairs: it was here that the physicist Isaac Newton debated with astronomer Edmund Halley about the orbits of the planets.

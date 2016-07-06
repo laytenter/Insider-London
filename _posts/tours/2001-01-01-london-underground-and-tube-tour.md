@@ -1,21 +1,19 @@
 ---
 title: London Underground and Tube Tour
-date: '2001-01-01 17:41:41'
+date: 2001-01-01 17:41:41 Z
+permalink: "/product/london-underground-and-tube-tour/"
 categories:
 - tours
 - featured
 - hidden
 id: 32143
 tour_id: 50159
-title: London Underground and Tube Tour
-date: 2001-01-01T17:41:41+00:00
 layout: tour
-permalink: /product/london-underground-and-tube-tour/
-categories: [tours,featured,hidden]
 show_book: true
 price: 20
 thumb: Fotolia_1929995_L-300x200.jpg
-thumbsrcset: /assets/images/Fotolia_1929995_L-445x304.jpg 445w, /assets/images/Fotolia_1929995_L-568x388.jpg 568w
+thumbsrcset: "/assets/images/Fotolia_1929995_L-445x304.jpg 445w, /assets/images/Fotolia_1929995_L-568x388.jpg
+  568w"
 banner: underground-tour-banner-2000x720.jpg
 hidden: true
 map: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19861.205229168765!2d-0.18037695633981765!3d51.519624879316524!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761aad72f39303%3A0x74926f3ec36c2314!2sPaddington+Station!5e0!3m2!1sen!2s!4v1431588473892
@@ -23,9 +21,6 @@ related:
 - 32342
 - 29349
 - 32336
-slug: london-underground-and-tube-tour
-tags: []
-
 ---
 
 <p class="lede palm-mt0 lap-and-up-mt0">The Original London Underground and Tube Tour</p>

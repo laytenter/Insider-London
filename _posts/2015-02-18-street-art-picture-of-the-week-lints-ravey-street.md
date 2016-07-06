@@ -1,15 +1,22 @@
 ---
 title: 'Street Art Picture of the Week: Lints, Ravey Street'
-date: '2015-02-18 10:30:49'
+date: 2015-02-18 10:30:49 Z
+permalink: "/street-art-picture-of-the-week-lints-ravey-street/"
 categories:
 - blog
 - East London
 - London Street Art &amp; Graffiti
+tags:
+- East London street art
+- lints
+- ravey street
+- Shoreditch
+- street art and graffiti
+- street art picture of the week
 id: 24780
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=24780
-permalink: "/street-art-picture-of-the-week-lints-ravey-street/"
 s4_url2s:
 - 
 s4_image2s:
@@ -18,16 +25,8 @@ s4_ctitle:
 - 
 s4_cdes:
 - 
-tags:
-- East London street art
-- lints
-- ravey street
-- Shoreditch
-- street art and graffiti
-- street art picture of the week
-slug: street-art-picture-of-the-week-lints-ravey-street
-
 ---
+
 <img class="aligncenter wp-image-24782 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/20140424_140424_mini.jpg" alt="lints street art london" width="569" height="427" />
 
 Our street art picture of the week comes courtesy of Lints and this piece that was spotted on Ravey Street last year. Lints is a Danish artist who enjoys creating new characters &#8211; both good and evil. You can see more work on the Lints <a href="www.facebook.com/lints.dk" target="_blank">Facebook</a> page.

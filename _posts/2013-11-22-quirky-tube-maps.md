@@ -1,23 +1,22 @@
 ---
 title: Quirky Tube Maps
-date: '2013-11-22 14:58:46'
+date: 2013-11-22 14:58:46 Z
+permalink: "/quirky-tube-maps/"
 categories:
 - blog
 - London Underground/Tube
 - Other
-id: 7766
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=7766
-permalink: "/quirky-tube-maps/"
 tags:
 - quirky tube
 - quirky underground
 - tube maps
 - underground maps
-slug: quirky-tube-maps
-
+id: 7766
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=7766
 ---
+
 To accompany our Quirky Tube Facts blog posts (you can read part 1 [here](http://www.insider-london.co.uk/2013/09/11/london-underground-tube-tours-facts/)) we&#8217;ve decided to share some of the most interesting recreations of the Tube map.
 
 The original Tube map was designed in 1931 by Harry Beck, an Underground employee who realised that travellers would have a difficult time getting from station to station without an understanding of topology. While his original design has been altered to make room for additions, today&#8217;s map still follows his basic idea. If you don&#8217;t see your favourite below, feel free to leave a comment pointing us in the right direction!<figure id="attachment_7683" style="width: 569px" class="wp-caption aligncenter">

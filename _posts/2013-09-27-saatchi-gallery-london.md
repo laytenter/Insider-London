@@ -1,14 +1,10 @@
 ---
 title: Fresh faces at the Saatchi Gallery London
-date: '2013-09-27 10:41:13'
+date: 2013-09-27 10:41:13 Z
+permalink: "/saatchi-gallery-london/"
 categories:
 - blog
 - Quirky, weird and bizarre London
-id: 7971
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=7971
-permalink: "/saatchi-gallery-london/"
 tags:
 - art gallery
 - art london
@@ -18,9 +14,12 @@ tags:
 - quirky art galleries
 - saatchi
 - saatchi gallery
-slug: saatchi-gallery-london
-
+id: 7971
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=7971
 ---
+
 Getting one’s bearings in a gallery or museum that doesn’t offer up a single bowl of fruit may be a bit disconcerting for the uninitiated. Such establishments can often be intimidating for the casual visitor. While the renowned Mr. So-and-So may have positively rocked the avant-garde movement of a particular decade in the last century, his work may not have entered the sphere of discussion for John Q. Public. The <a href="http://www.saatchigallery.com/" target="_blank">Saatchi Gallery of London</a> doesn’t come with any baggage whatsoever and gives each and every visitor, both the experienced gallery hopper and the novice viewer, the opportunity to discover new artists and their works.
 
 <a href="http://www.insider-london.co.uk/2013/09/27/saatchi-gallery-london/saatchi-1/" rel="attachment wp-att-7975"><img class="alignleft size-full wp-image-7975" title="Saatchi 1" alt="saatchi-london-art" src="http://www.insider-london.co.uk/wp-content/uploads/2013/09/Saatchi-1.jpg" width="569" height="323" /></a>

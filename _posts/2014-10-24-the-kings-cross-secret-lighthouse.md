@@ -1,24 +1,12 @@
 ---
 title: The King&#8217;s Cross Secret Lighthouse
-date: '2014-10-24 10:30:06'
+date: 2014-10-24 10:30:06 Z
+permalink: "/the-kings-cross-secret-lighthouse/"
 categories:
 - blog
 - Kings Cross regeneration
 - Other
 - Quirky, weird and bizarre London
-id: 23052
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=23052
-permalink: "/the-kings-cross-secret-lighthouse/"
-s4_cdes:
-- 
-s4_ctitle:
-- 
-s4_image2s:
-- 
-s4_url2s:
-- 
 tags:
 - alternative London walking tours
 - Kings Cross Regeneration
@@ -27,9 +15,20 @@ tags:
 - London walking tours
 - quirky london
 - weird
-slug: the-kings-cross-secret-lighthouse
-
+id: 23052
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=23052
+s4_cdes:
+- 
+s4_ctitle:
+- 
+s4_image2s:
+- 
+s4_url2s:
+- 
 ---
+
 <img class="aligncenter size-full wp-image-23061" src="http://www.insider-london.co.uk/wp-content/uploads/2014/10/kings-cross-lighthouse-01.jpg" alt="kings cross lighthouse quirky london" width="569" height="380" />
 
 <p style="text-align: center;">

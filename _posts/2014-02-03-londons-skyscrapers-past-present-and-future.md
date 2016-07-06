@@ -1,14 +1,10 @@
 ---
 title: London’s Skyscrapers – Past Present and Future
-date: '2014-02-03 19:57:44'
+date: 2014-02-03 19:57:44 Z
+permalink: "/londons-skyscrapers-past-present-and-future/"
 categories:
 - blog
 - Modern Architecture
-id: 13783
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=13783
-permalink: "/londons-skyscrapers-past-present-and-future/"
 tags:
 - architecture
 - Centrepoint
@@ -19,9 +15,12 @@ tags:
 - sky scraper
 - The Octopus
 - Walking
-slug: londons-skyscrapers-past-present-and-future
-
+id: 13783
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=13783
 ---
+
 &nbsp;
 
 &nbsp;

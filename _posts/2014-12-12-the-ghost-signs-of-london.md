@@ -1,6 +1,7 @@
 ---
 title: The Ghost Signs of London
-date: '2014-12-12 10:30:00'
+date: 2014-12-12 10:30:00 Z
+permalink: "/the-ghost-signs-of-london/"
 categories:
 - blog
 - East London
@@ -8,19 +9,6 @@ categories:
 - London Street Art &amp; Graffiti
 - Other
 - Quirky, weird and bizarre London
-id: 23567
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=23567
-permalink: "/the-ghost-signs-of-london/"
-s4_cdes:
-- 
-s4_ctitle:
-- 
-s4_image2s:
-- 
-s4_url2s:
-- 
 tags:
 - art
 - East London
@@ -34,9 +22,20 @@ tags:
 - Silicon Roundabout
 - Street Art
 - weird and bizarre
-slug: the-ghost-signs-of-london
-
+id: 23567
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=23567
+s4_cdes:
+- 
+s4_ctitle:
+- 
+s4_image2s:
+- 
+s4_url2s:
+- 
 ---
+
 <img class="aligncenter size-full wp-image-23573" src="http://www.insider-london.co.uk/wp-content/uploads/2014/12/dscf3716.jpg" alt="london street art alternative walking tour" width="569" height="427" />
 
 <p style="text-align: center;">

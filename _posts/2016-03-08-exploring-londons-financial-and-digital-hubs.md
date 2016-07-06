@@ -1,14 +1,12 @@
 ---
 title: Exploring London's Financial and Digital Hubs
-date: '2016-03-08 10:23:24'
+date: 2016-03-08 10:23:24 Z
+permalink: "/exploring-londons-financial-and-digital-hubs/"
 categories:
 - blog
 layout: post
-permalink: "/exploring-londons-financial-and-digital-hubs/"
-slug: exploring-londons-financial-and-digital-hubs
-tags: []
-
 ---
+
 The City of London is a leading financial hub and home to some of the world's largest banking and insurance organisations. Five minutes walk from Old Street you will find Silicon Roundabout, more commonly known today as Tech City.
 
 The City of London was constituted by the Romans in the 1st century, however the City is now only a tiny area of London. During the 18th century, there was a period of extensive growth across the City due to an increasing population, the early beginnings of the Industrial Revolution, and London’s role in the British Empire. This rise in growth continued throughout the 19th Century when the City became the world’s primary business centre. Today, only New York City rivals the City of London as financial capital of the world.

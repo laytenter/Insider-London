@@ -1,6 +1,7 @@
 ---
 title: 'The Regent&#8217;s Canal in King&#8217;s Cross: Past, Present and Future'
-date: '2014-08-26 11:30:27'
+date: 2014-08-26 11:30:27 Z
+permalink: "/the-regents-canal-in-kings-cross-past-present-and-future/"
 categories:
 - blog
 - Food and drink
@@ -11,19 +12,6 @@ categories:
 - Quirky, weird and bizarre London
 - Retail Store Design
 - Sustainable Architecture
-id: 16981
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=16981
-permalink: "/the-regents-canal-in-kings-cross-past-present-and-future/"
-s4_cdes:
-- 
-s4_ctitle:
-- 
-s4_image2s:
-- 
-s4_url2s:
-- 
 tags:
 - art
 - Coal Drops
@@ -35,9 +23,20 @@ tags:
 - Kings Cross Regeneration
 - Regents Canal
 - Sustainable Architecture
-slug: the-regents-canal-in-kings-cross-past-present-and-future
-
+id: 16981
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=16981
+s4_cdes:
+- 
+s4_ctitle:
+- 
+s4_image2s:
+- 
+s4_url2s:
+- 
 ---
+
 For over 140 years the Regents Canal linked King&#8217;s Cross, one of the industrial heartlands of north London, to the major industrial cities of the North. The waterways no longer form a vital industrial transport artery, but after a period of decline and dereliction, they are seeing a renaissance, as the Kings Cross Regeneration enters an exciting new stage.
 
 **Past**

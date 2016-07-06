@@ -1,6 +1,7 @@
 ---
 title: Antique x Ben Slow Collaboration
-date: '2014-01-17 10:00:22'
+date: 2014-01-17 10:00:22 Z
+permalink: "/antique-x-ben-slow-collaboration/"
 categories:
 - blog
 - London Street Art &amp; Graffiti
@@ -8,11 +9,8 @@ id: 13725
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=13725
-permalink: "/antique-x-ben-slow-collaboration/"
-slug: antique-x-ben-slow-collaboration
-tags: []
-
 ---
+
 [<img class="alignnone size-full wp-image-13735" alt="Antique Ben Slow T Shirt" src="http://www.insider-london.co.uk/wp-content/uploads/2014/01/Antique-Ben-Slow-T-Shirt.jpg" width="566" height="337" />](http://www.insider-london.co.uk/wp-content/uploads/2014/01/Antique-Ben-Slow-T-Shirt.jpg)
 
 Here at Insider London we recently spoke to [Antique Clothing](http://www.becomeantique.com/), a unique clothing company based here in London. They’ve recently made waves with the release of [a collaborative t-shirt](http://www.becomeantique.com/product/ben-slow-x-antique-collab-t-shirt-white/) with popular London street artist Ben Slow, and we have one of these limited edition t-shirts to give away to a lucky reader.

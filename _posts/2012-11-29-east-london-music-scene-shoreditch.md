@@ -1,24 +1,23 @@
 ---
 title: What&#8217;s new on the East London music scene?
-date: '2012-11-29 14:18:18'
+date: 2012-11-29 14:18:18 Z
+permalink: "/east-london-music-scene-shoreditch/"
 categories:
 - blog
 - East London
 - London Pubs and nights out
-id: 3344
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=3344
-permalink: "/east-london-music-scene-shoreditch/"
 tags:
 - Insider London
 - music trends
 - The Macbeth
 - things to do in East London
 - walking tours
-slug: east-london-music-scene-shoreditch
-
+id: 3344
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=3344
 ---
+
 ###### [Alternative London Walking Tours](http://www.insider-london.co.uk/ "Insider London Walking Tours") > [Essential London Blog](http://www.insider-london.co.uk/blog/ "Insider London Blog") > East London music scene
 
 If you’ve been on our East London tour, or if you follow trends in East London, you’ll be familiar with The Macbeth in Hoxton. It is a place famous for kick-starting many a music career (Florence and Pete Doherty to name but two). Now there’s a new eclectic night for your musical delectation.<figure id="attachment_3363" style="width: 569px" class="wp-caption alignnone">

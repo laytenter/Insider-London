@@ -1,15 +1,11 @@
 ---
 title: 'Shoreditch Bars: A drinker&#8217;s guide'
-date: '2012-10-30 11:21:40'
+date: 2012-10-30 11:21:40 Z
+permalink: "/shoreditch-bars-drinking-guide-london/"
 categories:
 - blog
 - East London
 - London Pubs and nights out
-id: 2149
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=2149
-permalink: "/shoreditch-bars-drinking-guide-london/"
 tags:
 - bars
 - cocktails
@@ -19,9 +15,12 @@ tags:
 - pubs
 - Shoreditch
 - unusual bars
-slug: shoreditch-bars-drinking-guide-london
-
+id: 2149
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=2149
 ---
+
 <p style="text-align: justify">
   <strong>Shoreditch has in recent years been overshadowed by its near neighbours. But if you&#8217;re sick of Dalston and fancy an after work drink, an interesting place to take a date or a full blown night out, why not give Shoreditch another chance? This part of London is packed with pubs and bars, and still has an enviable offering for the urban explorer inside us who is striving to find something different and less over-subscribed.</strong>
 </p>

@@ -1,6 +1,7 @@
 ---
 title: 'You may have missed: August on the Insider London blog'
-date: '2014-09-12 11:30:48'
+date: 2014-09-12 11:30:48 Z
+permalink: "/august-on-the-insider-london-blog/"
 categories:
 - blog
 - East London
@@ -8,19 +9,6 @@ categories:
 - London Street Art &amp; Graffiti
 - Other
 - Quirky, weird and bizarre London
-id: 21294
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=21294
-permalink: "/august-on-the-insider-london-blog/"
-s4_cdes:
-- 
-s4_ctitle:
-- 
-s4_image2s:
-- 
-s4_url2s:
-- 
 tags:
 - all over London
 - Alternative London
@@ -29,9 +17,20 @@ tags:
 - maps
 - Regents Canal
 - street art and graffiti
-slug: august-on-the-insider-london-blog
-
+id: 21294
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=21294
+s4_cdes:
+- 
+s4_ctitle:
+- 
+s4_image2s:
+- 
+s4_url2s:
+- 
 ---
+
 Well, we&#8217;re not quite sure how it happened but apparently it&#8217;s already September. We&#8217;ve bought ourselves a new notebook and pencil in readiness for the excitement of autumn in London but, before we start with that, let&#8217;s celebrate some of the best bits of August.
 
 [<img class="aligncenter wp-image-15869 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/08/BeFunky_lfa-serpentine-pavillion.jpg_mini.jpg" alt="LFA" width="569" height="378" />](http://www.insider-london.co.uk/wp-content/uploads/2014/08/BeFunky_lfa-serpentine-pavillion.jpg_mini.jpg)

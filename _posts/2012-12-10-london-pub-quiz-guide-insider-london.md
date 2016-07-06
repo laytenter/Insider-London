@@ -1,23 +1,22 @@
 ---
 title: London&#8217;s Quizzical Eyebrow &#8211; the essential London pub quiz guide
-date: '2012-12-10 16:10:38'
+date: 2012-12-10 16:10:38 Z
+permalink: "/london-pub-quiz-guide-insider-london/"
 categories:
 - blog
 - London Pubs and nights out
 - Quirky, weird and bizarre London
-id: 2920
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=2920
-permalink: "/london-pub-quiz-guide-insider-london/"
 tags:
 - activities in London
 - London pub quizzes
 - London walking tours
 - things to do in London
-slug: london-pub-quiz-guide-insider-london
-
+id: 2920
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=2920
 ---
+
 ###### [Essential London Walking Tours](http://www.insider-london.co.uk/ "Insider London Walking Tours") > [Tour Blog](http://www.insider-london.co.uk/blog/ "Insider London Blog") > Best London Pub Quizzes
 
 **As activities in London go, testing your brainpower as a stranger in a garish jacket pummels you with tantalising nuggets is up there with the best of them. Here, we’ve picked the best pub quizzes London has to offer. But be warned, this is not only about mental muscle…**

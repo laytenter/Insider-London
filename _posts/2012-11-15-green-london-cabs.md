@@ -1,14 +1,10 @@
 ---
 title: Green London Cabs
-date: '2012-11-15 16:57:48'
+date: 2012-11-15 16:57:48 Z
+permalink: "/green-london-cabs/"
 categories:
 - blog
 - Green London
-id: 2496
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=2496
-permalink: "/green-london-cabs/"
 tags:
 - cab
 - green
@@ -16,9 +12,12 @@ tags:
 - London
 - pollution
 - taxi
-slug: green-london-cabs
-
+id: 2496
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=2496
 ---
+
 [<img class="alignnone  wp-image-2498" src="http://www.insider-london.co.uk/wp-content/uploads/2012/11/Green-tomato-cabs-1024x662.jpg" alt="" width="569" height="400" />](http://www.insider-london.co.uk/wp-content/uploads/2012/11/Green-tomato-cabs.jpg)
 
 The black cab. Is there a more iconic symbol for fast-paced London life?  There when you’re stranded, lost, or too just too lazy to walk, these nuggets of London history date back to 1662, when they were horse-drawn Hackney carriages for hire. Today however, the London black cab is having a make-over.

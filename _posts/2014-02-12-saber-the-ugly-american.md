@@ -1,6 +1,7 @@
 ---
 title: 'Saber: The Ugly American'
-date: '2014-02-12 09:00:19'
+date: 2014-02-12 09:00:19 Z
+permalink: "/saber-the-ugly-american/"
 categories:
 - blog
 - London Street Art &amp; Graffiti
@@ -8,11 +9,8 @@ id: 13905
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=13905
-permalink: "/saber-the-ugly-american/"
-slug: saber-the-ugly-american
-tags: []
-
 ---
+
 [<img class="alignnone size-full wp-image-13910" alt="Saber Ugly American Front" src="http://www.insider-london.co.uk/wp-content/uploads/2014/02/Saber-Ugly-American-Front.jpg" width="569" height="379" />](http://www.insider-london.co.uk/wp-content/uploads/2014/02/Saber-Ugly-American-Front.jpg)
 
 For the past few weeks, visitors to The Outsiders art gallery in Soho, London, have been treated to an exciting new street art exhibition. Saber: The Ugly American is the latest show put together by Saber, the Californian graffiti legend who needs little in the way of an introduction.

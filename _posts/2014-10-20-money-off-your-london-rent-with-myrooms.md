@@ -1,15 +1,22 @@
 ---
 title: Money off your London rent with Myrooms
-date: '2014-10-20 10:30:59'
+date: 2014-10-20 10:30:59 Z
+permalink: "/money-off-your-london-rent-with-myrooms/"
 categories:
 - blog
 - Other
 - Sponsored posts
+tags:
+- Brick Lane
+- East London
+- Kings Cross Regeneration
+- London accomodation
+- Old Street Roundabout
+- sponsored posts
 id: 22400
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=22400
-permalink: "/money-off-your-london-rent-with-myrooms/"
 s4_cdes:
 - 
 s4_ctitle:
@@ -18,16 +25,8 @@ s4_image2s:
 - 
 s4_url2s:
 - 
-tags:
-- Brick Lane
-- East London
-- Kings Cross Regeneration
-- London accomodation
-- Old Street Roundabout
-- sponsored posts
-slug: money-off-your-london-rent-with-myrooms
-
 ---
+
 <p class="yiv8098260952MsoNormal">
   London is a stat lover&#8217;s dream. Did you know that e<span style="color: #4d4d4d;">very year, <a href="http://www.insider-london.co.uk/2013/11/19/london-underground-tube-tours-facts-part2/" target="_blank">Underground trains travel the equivalent of a total of 1,735 times around the world</a> (or 90 trips to the moon and back), and that</span> the <a href="http://www.insider-london.co.uk/category/london-underground-tube/" target="_blank">average Londoner spends 11.5 days each year on the Underground</a>? Or that <a href="http://www.londoncouncils.gov.uk/londonfacts/default.htm?category=10" target="_blank">around 670,000 households in London,  live in the private rented sector</a>, a higher proportion than the national average of 14.2%?
 </p>

@@ -1,22 +1,21 @@
 ---
 title: 25 Wonderful London Events for Christmas
-date: '2013-11-30 10:56:06'
+date: 2013-11-30 10:56:06 Z
+permalink: "/christmas-london-events/"
 categories:
 - blog
 - Other
 - Quirky, weird and bizarre London
-id: 12084
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=12084
-permalink: "/christmas-london-events/"
 tags:
 - christmas
 - christmas in london
 - London
-slug: christmas-london-events
-
+id: 12084
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=12084
 ---
+
 <p dir="ltr">
   London sure is a sight to see during the winter months, if you can get past the chill-your-bones air. And regardless of whether you celebrate Christmas or not, it is worth getting out and seeing the festive decorations. But maybe you’re not sure where to start!
 </p>

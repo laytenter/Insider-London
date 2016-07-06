@@ -1,23 +1,22 @@
 ---
 title: East London street art &#8211; RAE exhibition @ Signal Gallery
-date: '2013-02-05 14:16:26'
+date: 2013-02-05 14:16:26 Z
+permalink: "/london-street-art-rae-signal-gallery/"
 categories:
 - blog
 - East London
 - London Street Art &amp; Graffiti
-id: 4188
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=4188
-permalink: "/london-street-art-rae-signal-gallery/"
 tags:
 - East London street art
 - RAE
 - Signal Gallery
 - walking tours
-slug: london-street-art-rae-signal-gallery
-
+id: 4188
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=4188
 ---
+
 ###### **[Alternative walking tours](http://www.insider-london.co.uk/ "Insider London alternative walking tours") > [Tour Blog](http://www.insider-london.co.uk/blog/ "Insider London tours blog") > RAE exhibition**
 
 **RAE &#8211; the Brooklyn street artist &#8211; is always playful, always fun; there’s a zest and sense of light-heartedness to his work. He’s even been quoted as saying he takes his cues from “the person who makes the misspelled signs at the corner deli, people who produce really bad local TV commercials [and] fashionable homeless men”. Not a bad starting point.**

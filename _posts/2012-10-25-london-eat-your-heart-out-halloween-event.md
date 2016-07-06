@@ -1,22 +1,21 @@
 ---
 title: Eat Your Heart Out in London this Halloween
-date: '2012-10-25 11:26:12'
+date: 2012-10-25 11:26:12 Z
+permalink: "/london-eat-your-heart-out-halloween-event/"
 categories:
 - blog
 - Quirky, weird and bizarre London
-id: 25425
-author: london75
-layout: post
-guid: http://www.insider-london.co.uk/?p=2142
-permalink: "/london-eat-your-heart-out-halloween-event/"
 tags:
 - Alternative London
 - Halloween
 - healthy
 - Pathology Museum
-slug: london-eat-your-heart-out-halloween-event
-
+id: 25425
+author: london75
+layout: post
+guid: http://www.insider-london.co.uk/?p=2142
 ---
+
 <figure id="attachment_2145" style="width: 569px" class="wp-caption alignnone">[<img class=" wp-image-2145 " src="http://www.insider-london.co.uk/wp-content/uploads/2012/10/Eat-Your-Heart-Out-Weird-Halloween-London-Gory-cake.jpg" alt="Eat Your Heart Out London" width="569" height="500" />](http://www.insider-london.co.uk/wp-content/uploads/2012/10/Eat-Your-Heart-Out-Weird-Halloween-London-Gory-cake.jpg)<figcaption class="wp-caption-text">This hunk of flesh is actually chocolate truffle and rum buttercream frosting (Photo: Eat Your Heart Out)</figcaption></figure> 
 
 <p style="text-align: justify">

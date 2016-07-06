@@ -1,16 +1,22 @@
 ---
 title: 'Street Art Picture of The Week: Oh wow look it&#8217;s some street art by
   Mobstr'
-date: '2014-07-30 14:39:15'
+date: 2014-07-30 14:39:15 Z
+permalink: "/oh-wow-look-its-some-street-art-by-mobstr/"
 categories:
 - blog
 - East London
 - London Street Art &amp; Graffiti
+tags:
+- East London
+- East London street art
+- London Street art
+- mobstr
+- street art picture of the week
 id: 15823
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=15823
-permalink: "/oh-wow-look-its-some-street-art-by-mobstr/"
 s4_url2s:
 - 
 s4_image2s:
@@ -19,15 +25,8 @@ s4_ctitle:
 - 
 s4_cdes:
 - 
-tags:
-- East London
-- East London street art
-- London Street art
-- mobstr
-- street art picture of the week
-slug: oh-wow-look-its-some-street-art-by-mobstr
-
 ---
+
 [<img class="size-full wp-image-15826 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/07/Mobstr.jpg" alt="Mobstr London street art walking tour" width="569" height="427" />](http://www.insider-london.co.uk/wp-content/uploads/2014/07/Mobstr.jpg)
   
 Oh wow, look it&#8217;s some street art by Mobstr. This particular piece was spotted on the Hackney Road in East London. Mobstr is known for his text-based pieces: his witty stencil statements are instantly recognisable. You can find out <a href="http://mobstr.org/" target="_blank">more about him here</a>.

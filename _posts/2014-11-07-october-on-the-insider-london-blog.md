@@ -1,6 +1,7 @@
 ---
 title: October on the Insider London blog
-date: '2014-11-07 09:30:42'
+date: 2014-11-07 09:30:42 Z
+permalink: "/october-on-the-insider-london-blog/"
 categories:
 - blog
 - East London
@@ -13,7 +14,6 @@ id: 23118
 author: london75
 layout: post
 guid: http://www.insider-london.co.uk/?p=23118
-permalink: "/october-on-the-insider-london-blog/"
 s4_url2s:
 - 
 s4_image2s:
@@ -22,10 +22,8 @@ s4_ctitle:
 - 
 s4_cdes:
 - 
-slug: october-on-the-insider-london-blog
-tags: []
-
 ---
+
 You may have remember remembered the 5th of November, but what did you miss on the Insider London blog over October? No gunpowder, treason and plot around these parts, but we do have <a href="http://www.insider-london.co.uk/2014/10/13/sherlock-homes-the-great-detective/" target="_blank">Sherlock Holmes</a>, <a href="http://www.insider-london.co.uk/2014/10/17/the-next-generation-of-london-underground-trains/" target="_blank">tube trains</a> and <a href="http://www.insider-london.co.uk/2014/10/10/shuttlecock-and-a-new-pop-up-dining-experience/" target="_blank">Shuttlecock pop-ups</a>. Read on to find out how we really marked the month with a bang&#8230;
 
 [<img class="aligncenter wp-image-23061 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/10/kings-cross-lighthouse-01.jpg" alt="kings cross lighthouse quirky london" width="569" height="380" />](http://www.insider-london.co.uk/wp-content/uploads/2014/10/kings-cross-lighthouse-01.jpg)
