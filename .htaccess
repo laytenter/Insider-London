@@ -77,9 +77,10 @@ RewriteRule ^(category|tag)/(.*) /blog/ [R=301,L]
 RewriteCond %{REQUEST_URI} ^/[0-9]+/[0-9]+/[0-9]+
 RewriteRule ^[0-9]+/[0-9]+/[0-9]+/([^/]+)/?$ /$1 [R=301,L]
 
-RewriteCond %{REQUEST_URI} ^/blog/[0-9a-z\-]
-RewriteCond %{REQUEST_URI} !^blog/page
-RewriteRule ^blog/(.+) /$1 [R=301,L]
+# Removed this as block blog pagination 
+#RewriteCond %{REQUEST_URI} ^/blog/[0-9a-z\-]
+#RewriteCond %{REQUEST_URI} !^blog/page
+#RewriteRule ^blog/(.+) /$1 [R=301,L]
 
 RewriteCond %{THE_REQUEST} ^(GET|HEAD)\ /.+\.html\ HTTP
 RewriteCond %{REQUEST_FILENAME} !^google
