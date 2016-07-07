@@ -23,7 +23,6 @@ exclude:
 - bower.json
 - package.json
 - node_modules
-- bower_components
 - wp-content
 - ".htaccess"
 future: true
