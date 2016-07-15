@@ -1,5 +1,5 @@
 ---
-title: 5 Secrets You Never Knew About the East End
+title: London’s East End Secrets
 date: 2016-07-15 11:25:00 Z
 permalink: "/5-secrets-you-never-knew-about-the-east-end/"
 categories:
@@ -8,7 +8,9 @@ Key:
 layout: post
 ---
 
-What you associate with London’s East End will probably depend on your age. Younger people instantly tie the area to hipsters, beards and flannel shirts. A little while ago it was primarily the home of London’s immigrant population, which has now spread more evenly across the capital. Stretch further back and the East End was the city’s capital of trade and crime, where the factories squatted and the gangs ran free. Today, London’s East End is not any one of these things; it’s a mixture of them all. Join us on a guide to some of its most unusual features.
+We’ve uncovered some of East London’s best-kept secrets. Find the best shops, markets and museums with our East End guide.
+
+What you associate with **London’s East End** will probably depend on your age. Younger people instantly tie the area to hipsters, beards and flannel shirts. A little while ago it was primarily the home of London’s immigrant population, which has now spread more evenly across the capital. Stretch further back and the East End was the city’s capital of trade and crime, where the factories squatted and the gangs ran free. Today, London’s East End is not any one of these things; it’s a mixture of them all. Join us on a guide to some of its most unusual features.
 
 ##Behind Closed Doors
 
