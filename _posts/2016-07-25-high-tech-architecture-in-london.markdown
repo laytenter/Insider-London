@@ -1,7 +1,7 @@
 ---
 title: High tech architecture in London
 date: 2016-07-25 11:50:00 Z
-permalink: "/high-tech-architecture-in-london"
+permalink: "/high-tech-architecture-in-london/"
 categories:
 - blog
 layout: post
