@@ -4,7 +4,6 @@ date: 2016-08-08 19:53:00 Z
 permalink: "/a-short-history-of-the-tube/"
 categories:
 - blog
-Field name: 
 layout: post
 ---
 
