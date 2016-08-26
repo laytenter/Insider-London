@@ -4,6 +4,7 @@ date: 2016-08-26 07:48:00 Z
 permalink: "/londons-most-haunted-theatres/"
 categories:
 - blog
+layout: post
 ---
 
 Alongside New York’s Broadway, the West-End in London is renowned for producing the best in commercial theatre. Head to the West-End and you’ll see historic, grade-listed theatres on every corner. These theatres are steeped in history, some dating back as far as the 17th century. With a theatre district full of old buildings with long histories, there are bound to be some ghost and ghouls lurking in the dressing rooms at night. 
