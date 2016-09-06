@@ -1,13 +1,12 @@
 ---
 title: History of Drinking and Pubs Tours
-date: 2006-01-01 11:24:08 Z
+date: 2006-01-01 11:24:00 Z
 permalink: "/product/history-of-drinking-and-pubs/"
 categories:
 - tours
 - hidden
 id: 32336
 author: london75
-layout: tour
 guid: "/?post_type=product&#038;p=32336"
 show_book: true
 price: 20
@@ -20,6 +19,7 @@ related:
 - 32143
 - 29349
 - 12345
+layout: tour
 ---
 
 <p class="lede">Insider London’s History of Drinking and Pubs Tour will have you raising your glass to this city’s historical pubs treasures and its famous drinking culture. Whether you are visiting London for the first time or you’re a local who enjoys discovering its hidden gems, our experienced tour guides will help you uncover the history of the English pub.</p>
@@ -51,7 +51,7 @@ The London pub is a great place to learn about one of England’s oldest drinkin
 
 **Where do we meet?**
 
-North side entrance of Blackfriars Station
+By Blue Pole, North side entrance of Blackfriars Station
 
 **How long is the Tour?**
 
@@ -64,7 +64,9 @@ Approximately two hours
 
 **When does the Tour run?**
 
-The Tour runs weekly on Friday, Saturday and UK Bank Holidays. The History of Drinking and Pubs Tour may also be booked as a private tour at a time suitable for you and your party, <a href="/contact-us/">please send us an email to make an enquiry.</a>
+The Tour runs weekly: 7pm Saturday
+
+The History of Drinking and Pubs Tour may also be booked as a private tour at a time suitable for you and your party, <a href="/contact-us/">please send us an email to make an enquiry.</a>
 
 **Where does the Tour finish?**
 
