@@ -1,6 +1,6 @@
 ---
 title: Quirky Tour
-date: 2002-01-01 11:31:32 Z
+date: 2002-01-01 11:31:00 Z
 permalink: "/product/quirky-tour/"
 categories:
 - tours
@@ -8,7 +8,6 @@ categories:
 - hidden
 id: 32342
 tour_id: 50184
-layout: tour
 show_book: true
 price: 12
 thumb: IMGP1909-300x200.jpg
@@ -21,6 +20,7 @@ related:
 - 32143
 - 29349
 - 12345
+layout: tour
 ---
 
 <p class="lede">Insider London's Quirky London Tour is an alternative guided walking tour that will introduce you to the rare, eccentric, comical, and just plain quirky facts about London.</p>
@@ -63,7 +63,7 @@ Approximately 2 hours
 
 **When does the tour run?**
 
-The tour runs weekly: November – March 11am Saturday, Sunday and UK Bank Holiday; April – October on 11am Friday, Saturday, Sunday and UK Bank Holiday.
+The tour runs weekly: 11am Saturday and Sunday
 
 The Quirky London Tour may also be booked as a private tour at a time suitable for you and your party, <a href="/contact-us/">please send us an email to make an enquiry.</a>
 
