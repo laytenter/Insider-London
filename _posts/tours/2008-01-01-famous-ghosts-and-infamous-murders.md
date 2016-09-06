@@ -1,13 +1,12 @@
 ---
 title: Famous Ghosts and Infamous Murders London Walking Tour
-date: 2008-01-01 17:30:14 Z
+date: 2008-01-01 17:30:00 Z
 permalink: "/product/famous-ghosts-and-infamous-murders/"
 categories:
 - tours
 - hidden
 id: 12345
 author: london75
-layout: tour
 tour_id: 50196
 show_book: true
 price: 12
@@ -19,6 +18,7 @@ related:
 - 32342
 - 29349
 - 32336
+layout: tour
 ---
 
 <p class="lede">London towne is no stranger to ghost stories, the city has its fair share and our Insider guides will tell you who they are, what they are and where they hide. Walking down the back streets and alleyways of London’s West End, we will bring to light its history and the lives of those who are still known to haunt the area today.</p>
@@ -60,7 +60,7 @@ Approximately 2 hours
 
 **When does the tour run?**
 
-The tour runs weekly: November – March 7pm on Saturday, April – October 7pm on Friday and Saturday.
+The tour runs weekly: 7pm Saturday
 
 The Famous Ghost and Infamous Murders Tour may also be booked as a private tour at a time suitable for you and your party, please send us an email to <a href="mailto:contact@insider-london.co.uk">contact@insider-london.co.uk</a> make an enquiry
 
