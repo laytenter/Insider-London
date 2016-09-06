@@ -13,13 +13,6 @@ Insider London's guided walking tours are planned and led by our team of lovely 
   </div>
 </div>
 <div class="media media--responsive palm-mb-- lap-mb- desk-mb">
-  <img src="{{ site.baseurl }}/assets/images/Tony -240x240.jpg" class="media__img">
-  <div class="media__body">
-    <h3>Tony</h3>
-    <p>Tony was born and raised in Greenwich. Having travelled for many years to many different countries, he has developed a love for culture and knowledge and more importantly, how to see the world in a different way. Tony brings his passion, wealth of experience and extensive knowledge of London on all of his Insider London walking tours.</p>
-</div>
-</div>
-<div class="media media--responsive palm-mb-- lap-mb- desk-mb">
   <img src="{{ site.baseurl }}/assets/images/Amelia-240x240.jpg" class="media__img">
   <div class="media__body">
 <h3>Amelia</h3>
