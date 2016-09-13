@@ -1,6 +1,6 @@
 ---
 title: Street Art Tour
-date: 2005-01-01 10:39:50 Z
+date: 2005-01-01 10:39:00 Z
 permalink: "/product/street-art/"
 categories:
 - tours
@@ -9,7 +9,6 @@ categories:
 id: 29326
 tour_id: 50188
 author: london75
-layout: tour
 show_book: true
 price: 20
 thumb: 5103793738_5df66b09ba_o-300x200.jpeg
@@ -22,6 +21,7 @@ related:
 - 32569
 - 32334
 - 32336
+layout: tour
 ---
 
 <p class="lede">London is filled with street art and graffiti hotspots with artists from around the world leaving their mark. Whether you are a seasoned visitor, on your very first trip, or have called this city home for years, it can be sometimes difficult to spot the hidden treasures London has to offer.
@@ -61,7 +61,7 @@ Approximately two hours
 
 **When does the tour run?**
 
-The tour runs weekly: November – March 2pm Saturday, April – Oct 2pm Saturday, Sunday and UK Bank Holiday.
+The tour runs weekly: 2pm Saturday
 
 The London Street Art Tour may also be booked as a private tour at a time suitable for you and your party, <a href="/contact-us/">please send us an email to make an enquiry.</a>
 

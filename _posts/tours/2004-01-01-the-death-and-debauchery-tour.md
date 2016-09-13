@@ -1,6 +1,6 @@
 ---
 title: The Death and Debauchery Tour
-date: 2004-01-01 10:58:12 Z
+date: 2004-01-01 10:58:00 Z
 permalink: "/product/the-death-and-debauchery-tour/"
 categories:
 - tours
@@ -9,7 +9,6 @@ categories:
 id: 29349
 tour_id: 50197
 author: london75 HEAD
-layout: tour
 guid: "/?post_type=product&#038;p=29349"
 show_book: true
 price: 12
@@ -23,6 +22,7 @@ related:
 - 32342
 - 12345
 - 32569
+layout: tour
 ---
 
 <p class="lede">The days are getting colder and evening is creeping in earlier, but there is still much to be found in London town! The history of London is riddled with death and debauchery, and such topics have always caught the interest of Londoners and visitors alike. On Insider London’s Death and Debauchery Tour, you will hear stories of famous murders, executions, ghostly happenings and lecherous coffeehouses whilst walking through atmospheric streets and popping into historical pub treasures for a bit of warmth.</p>
@@ -62,7 +62,7 @@ Approximately two hours
 
 **When does the tour run?**
 
-The tour runs weekly: November – March 5pm Friday, April – October 5pm Friday and Saturday.
+The tour runs weekly: 5pm Friday
 
 The Death and Debauchery Tour may also be booked as a private tour at a time suitable for you and your party, please send us an email to make the enquiry: contact@insider-london.co.uk
 
