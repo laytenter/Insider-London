@@ -10,7 +10,7 @@ collections:
     output: true
 name: Insider London
 description: Insider London
-baseurl: 
+baseurl:
 lsi: false
 paginate: 10
 paginate_path: "/blog/page/:num/"
@@ -27,5 +27,5 @@ exclude:
 - ".htaccess"
 future: true
 markdown: redcarpet
-env: prod
+env: dev
 imagepath: "/assets/images/"

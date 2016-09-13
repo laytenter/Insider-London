@@ -98,13 +98,12 @@ module.exports = function(grunt) {
             height: 240,
             quality: 70,
             aspectRatio: false,
-            quality: 80,
             gravity: 'NorthWest'
           }]
         },
         files: [{
           expand: true,
-          src: ['/home/adam/Documents/InsiderLondon/guides/**.{JPG,jpg,gif,png,jpeg}']
+          src: ['/home/adam/public_html/hastings-round-table/images/mugshots/**.{JPG,jpg,gif,png,jpeg}']
                 }]
       }
     }
