@@ -1,10 +1,7 @@
 ---
 title: Tour of East End - Gangs, Crimes and Hasher Times
 date: 2007-01-01 16:41:56 Z
-permalink: "/product/tour-of-east-end-gangs-crimes-and-hasher-times/"
-categories:
-- hidden
-- tours
+category: 'hidden'
 id: 32569
 tour_id: 50202
 author: london75

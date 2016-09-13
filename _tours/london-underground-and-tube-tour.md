@@ -1,15 +1,12 @@
 ---
 title: London Underground and Tube Tour
 date: 2001-01-01 17:41:41 Z
-permalink: "/product/london-underground-and-tube-tour/"
-categories:
-- tours
-- featured
-- hidden
+category: 'hidden'
 id: 32143
 tour_id: 50159
 layout: tour
 show_book: true
+featured: true
 price: 20
 thumb: Fotolia_1929995_L-300x200.jpg
 thumbsrcset: "/assets/images/Fotolia_1929995_L-445x304.jpg 445w, /assets/images/Fotolia_1929995_L-568x388.jpg

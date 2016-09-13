@@ -1,4 +1,7 @@
 # Legacy IL 301 redirects
+redirect 301 /product-category/tours/ /tours/
+redirect 301 /product-category/hidden-tours/ /tours/hidden-tours/
+redirect 301 /product-category/educational-tours/ /tours/educational-tours/
 redirect 301 /faqs/ http://www.insider-london.co.uk/
 redirect 301 /silicon-roundabout/ http://www.insider-london.co.uk/product/silicon-roundabout-and-tech-city/
 redirect 301 /submit-tip/ http://www.insider-london.co.uk/
@@ -74,10 +77,15 @@ RewriteRule ^google3d11bb01af91a5dc.html$ - [L]
 RewriteCond %{REQUEST_URI} ^/(category|tag)
 RewriteRule ^(category|tag)/(.*) /blog/ [R=301,L]
 
+# Redirect product pages to tours
+RewriteCond %{REQUEST_URI} ^/product
+RewriteRule ^product/(.*) /tours/$1 [R=301,L]
+
+# Redirect old WP 'archive' pages
 RewriteCond %{REQUEST_URI} ^/[0-9]+/[0-9]+/[0-9]+
 RewriteRule ^[0-9]+/[0-9]+/[0-9]+/([^/]+)/?$ /$1 [R=301,L]
 
-# Removed this as block blog pagination 
+# Removed this as block blog pagination
 #RewriteCond %{REQUEST_URI} ^/blog/[0-9a-z\-]
 #RewriteCond %{REQUEST_URI} !^blog/page
 #RewriteRule ^blog/(.+) /$1 [R=301,L]

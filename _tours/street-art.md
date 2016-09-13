@@ -1,11 +1,8 @@
 ---
 title: Street Art Tour
 date: 2005-01-01 10:39:00 Z
-permalink: "/product/street-art/"
-categories:
-- tours
-- hidden
-- featured
+category: 'hidden'
+featured: true
 id: 29326
 tour_id: 50188
 author: london75

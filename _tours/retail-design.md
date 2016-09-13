@@ -1,10 +1,7 @@
 ---
 title: Retail Design Tour
 date: 2012-01-01 10:44:00 Z
-permalink: "/product/retail-design/"
-categories:
-- tours
-- educational
+category: 'educational'
 id: 29334
 author: london75
 layout: tour

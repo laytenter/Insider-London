@@ -11,36 +11,36 @@ layout: default
               <small>COME AND DISCOVER THE WORLD OF</small><br /> LONDON’S HIDDEN
               <br /><small>TOURS</small>
             </h1>
-              <a class="btn btn--red btn--small" href="/product-category/tours/">
+              <a class="btn btn--red btn--small" href="/tours/">
                 VIEW ALL TOURS
               </a>
         </div>
       </div>
       <h2 style="text-align: center;">FEATURED TOURS</h2>
   <section class="wrapper">
-      <div class="layout">{% for post in site.categories.featured %}<div class="layout__item u-1/4-desk u-1/2-lap u-1/2-palm">
+      <div class="layout">{% for tour in site.tours %}{% if tour.featured %}<div class="layout__item u-1/4-desk u-1/2-lap u-1/2-palm">
           <div class="block block--flush lap-mb palm-mb">
-                  <a class="block__image" href="{{ post.permalink }}" title="{{ post.title }}">
-                    {% include image.html src=post.thumb srcset=post.thumbsrcset  caption="" %}
+                  <a class="block__image" href="{{ tour.url }}" title="{{ tour.title }}">
+                    {% include image.html src=tour.thumb srcset=tour.thumbsrcset  caption="" %}
                   </a>
               <div class="block__body red-bg palm-p- lap-p- desk-p-">
                   <div class="block__tour">
-                <h2 class="white">{{ post.title }}</h2>
-                {% if post.price %}
-                <p class="blue">£{{ post.price }} per person</p>
+                <h2 class="white">{{ tour.title }}</h2>
+                {% if tour.price %}
+                <p class="blue">£{{ tour.price }} per person</p>
                 {% endif %}
                 <p>
-                  <a class="btn btn--small" title="View details of the {{ post.title }} tour" href="{{ post.permalink }}">VIEW TOUR</a>
+                  <a class="btn btn--small" title="View details of the {{ tour.title }} tour" href="{{ tour.url }}">VIEW TOUR</a>
                 </p>
               </div>
             </div>
           </div>
-        </div><!-- -->{% endfor %}</div>
+        </div><!-- -->{% endif %}{% endfor %}</div>
         <div class="text-centre palm-mb lap-and-up-mb">
           <!--<img src="/assets/images/img-tour.png" alt="">
           <br />-->
           <p>
-            <a class="btn btn--view-all text-center" title="Tours" href="/product-category/tours/">
+            <a class="btn btn--view-all text-center" title="Tours" href="/tours/">
             VIEW ALL TOURS
             </a>
         </p>

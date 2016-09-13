@@ -1,11 +1,8 @@
 ---
 title: Quirky Tour
 date: 2002-01-01 11:31:00 Z
-permalink: "/product/quirky-tour/"
-categories:
-- tours
-- featured
-- hidden
+category: 'hidden'
+featured: true
 id: 32342
 tour_id: 50184
 show_book: true

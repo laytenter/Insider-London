@@ -1,10 +1,7 @@
 ---
 title: Cutting Edge Green Tour
 date: 2014-01-01 10:48:25 Z
-permalink: "/product/cutting-edge-green-tour/"
-categories:
-- tours
-- educational
+category: 'educational'
 id: 29340
 author: london75
 layout: tour

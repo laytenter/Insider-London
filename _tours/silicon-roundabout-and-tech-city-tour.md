@@ -1,10 +1,7 @@
 ---
 title: Silicon Roundabout and Tech City Tour
 date: 2010-01-01 10:55:30 Z
-permalink: "/product/silicon-roundabout-and-tech-city-tour/"
-categories:
-- tours
-- educational
+category: 'educational'
 id: 29347
 author: london75
 layout: tour

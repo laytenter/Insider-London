@@ -2,12 +2,9 @@
 title: Insider London
 timezone: UTC
 collections:
-  posts:
-    title: Posts
+  tours:
     output: true
-  uploads:
-    title: Uploads
-    output: true
+    permalink: /tours/:path/
 name: Insider London
 description: Insider London
 baseurl:

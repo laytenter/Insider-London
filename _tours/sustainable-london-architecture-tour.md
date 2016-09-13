@@ -1,10 +1,7 @@
 ---
 title: Sustainable Architecture Tour
 date: 2013-01-01 10:50:40 Z
-permalink: "/product/sustainable-london-architecture-tour/"
-categories:
-- tours
-- educational
+category: 'educational'
 id: 29342
 author: london75
 layout: tour

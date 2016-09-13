@@ -1,7 +1,7 @@
 ---
 title: Educational Tours
 date: 2015-05-11 15:47:17 Z
-permalink: "/product-category/educational-tours/"
+permalink: "/tours/educational-tours/"
 id: 25099
 author: london75
 layout: page
@@ -22,8 +22,8 @@ layout: page
 </div>
 </div>
 <div class="layout">
-{% assign posts = (site.categories.educational | sort: 'date') %}
-{% for post in posts %}
+{% assign tours = site.tours | where: "category", "educational" %}
+{% for tour in tours %}
   {% assign loopindex = forloop.index | modulo: 4 %}
   {% if forloop.index > 1 %}-->{% endif %}<div class="layout__item u-1/4 u-1/3-lap u-1/2-palm">
     {% include tour-block.html %}

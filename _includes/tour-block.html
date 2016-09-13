@@ -1,18 +1,18 @@
 <div class="block block--flush lap-mb palm-mb desk-mb">
-  <a class="block__image" href="{{ post.permalink }}">
-    {% include image.html src=post.thumb srcset=post.thumbsrcset  caption="" %}
+  <a class="block__image" href="{{ tour.url }}">
+    {% include image.html src=tour.thumb srcset=tour.thumbsrcset  caption="" %}
   </a>
   <div class="block__body red-bg palm-p-- lap-p- desk-p-">
     <div class="block__tour palm-p-- lap-p- desk-p-">
-      <h2 class="white">{{ post.title }}</h2>
-      {% if post.price %}
+      <h2 class="white">{{ tour.title }}</h2>
+      {% if tour.price %}
       <p class="product-price">
         <strong>
-          From: £{{ post.price }}
+          From: £{{ tour.price }}
         </strong>
       </p>
       {% endif %}
-      <a class="btn btn--small" href="{{ post.permalink }}">View Tour</a>
+      <a class="btn btn--small" href="{{ tour.url }}">View Tour</a>
     </div>
   </div>
 </div>

@@ -31,5 +31,7 @@ layout: default
       {% include trip-advisor-widget.html %}
     </div>
   </div>
-  {% include related-tours.html %}
+  {% if page.related %}
+    {% include related-tours.html %}
+  {% endif %}
 </div>
