@@ -2,12 +2,19 @@
 title: Insider London
 timezone: UTC
 collections:
-  tours:
+  posts:
+    title: Posts
     output: true
-    permalink: /tours/:path/
+  tours:
+    title: Tours
+    output: true
+    permalink: "/tours/:path/"
+  uploads:
+    title: Uploads
+    output: true
 name: Insider London
 description: Insider London
-baseurl:
+baseurl: 
 lsi: false
 paginate: 10
 paginate_path: "/blog/page/:num/"
