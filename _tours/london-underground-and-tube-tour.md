@@ -1,7 +1,8 @@
 ---
 title: London Underground and Tube Tour
 date: 2001-01-01 17:41:41 Z
-category: "hidden"
+categories:
+- hidden
 id: 32143
 tour_id: 50159
 layout: tour

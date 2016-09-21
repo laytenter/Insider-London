@@ -2,7 +2,8 @@
 title: The Royal Living and Royal Shopping
 date: 2009-01-01 11:02:00 Z
 published: false
-category: "hidden"
+categories:
+- hidden
 id: 32334
 tour_id: 50200
 author: london75

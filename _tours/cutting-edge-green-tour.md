@@ -1,7 +1,8 @@
 ---
 title: Cutting Edge Green Tour
 date: 2014-01-01 10:48:25 Z
-category: "educational"
+categories:
+- educational
 id: 29340
 author: london75
 layout: tour
