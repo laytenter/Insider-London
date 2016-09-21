@@ -1,13 +1,12 @@
 ---
 title: Modern Architecture Walking Tour
-date: 2003-01-01 10:46:21 Z
+date: 2003-01-01 10:46:00 Z
 categories:
 - educational
 id: 29338
 tour_id: 50198
 price: 40
 author: london75
-layout: tour
 show_book: true
 thumb: Fotolia_13198648_S-420x287.jpg
 banner: Fotolia_13198648_S-772x528.jpg
@@ -17,6 +16,8 @@ related:
 - 29342
 - 29340
 - 29332
+category: educational
+layout: tour
 ---
 
 <p class="lede">London’s modern architecture is like marmite for the eyes – you either love it or hate it.</p>  
