@@ -1,11 +1,10 @@
 ---
 title: Educational In-depth Business Tour
-date: 2015-08-28 10:51:45 Z
+date: 2015-08-28 10:51:00 Z
 categories:
 - educational
 id: 29344
 author: london75
-layout: tour
 guid: "/?post_type=product&#038;p=29344"
 show_book: false
 thumb: Fotolia_24879531_M-568x388.jpg
@@ -16,6 +15,8 @@ related:
 - 29347
 - 29332
 - 29334
+category: educational
+layout: tour
 ---
 
 <p class="lede">London is home to some of the most powerful and important companies in the world as well as influential entrepreneurs and exciting start-ups and small businesses.</p>
