@@ -1,11 +1,10 @@
 ---
 title: Silicon Roundabout and Tech City Tour
-date: 2010-01-01 10:55:30 Z
+date: 2010-01-01 10:55:00 Z
 categories:
 - educational
 id: 29347
 author: london75
-layout: tour
 guid: "/?post_type=product&#038;p=29347"
 show_book: false
 thumb: bigstock-Office-Building-841178-420x287.jpg
@@ -16,6 +15,8 @@ related:
 - 29332
 - 29334
 - 29344
+category: educational
+layout: tour
 ---
 
 ##Silicon Roundabout and Tech City – London Walking Tour
