@@ -1,11 +1,10 @@
 ---
 title: Cutting Edge Green Tour
-date: 2014-01-01 10:48:25 Z
+date: 2014-01-01 10:48:00 Z
 categories:
 - educational
 id: 29340
 author: london75
-layout: tour
 show_book: false
 hidden: true
 thumb: Cutting-Edge-Green-78-568x388.jpg
@@ -15,6 +14,8 @@ related:
 - 29338
 - 29342
 - 29332
+category: educational
+layout: tour
 ---
 
 <p class="lede">Insider London’s Cutting Edge Green Tour – London’s only Sustainability Tour**</p>
