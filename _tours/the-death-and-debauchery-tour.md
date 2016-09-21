@@ -1,8 +1,7 @@
 ---
 title: The Death and Debauchery Tour
 date: 2004-01-01 10:58:00 Z
-categories:
-- hidden
+category: "hidden"
 featured: true
 id: 29349
 tour_id: 50197

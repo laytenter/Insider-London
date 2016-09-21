@@ -1,8 +1,7 @@
 ---
 title: Quirky Tour
 date: 2002-01-01 11:31:00 Z
-categories:
-- hidden
+category: "hidden"
 featured: true
 id: 32342
 tour_id: 50184

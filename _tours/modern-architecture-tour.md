@@ -1,8 +1,7 @@
 ---
 title: Modern Architecture Walking Tour
 date: 2003-01-01 10:46:21 Z
-categories:
-- educational
+category: "educational"
 id: 29338
 tour_id: 50198
 price: 40

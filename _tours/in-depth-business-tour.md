@@ -1,8 +1,7 @@
 ---
 title: Educational In-depth Business Tour
 date: 2015-08-28 10:51:45 Z
-categories:
-- educational
+category: "educational"
 id: 29344
 author: london75
 layout: tour
@@ -10,7 +9,7 @@ guid: "/?post_type=product&#038;p=29344"
 show_book: false
 thumb: Fotolia_24879531_M-568x388.jpg
 banner: Fotolia_24879531_M-772x528.jpg
-map: 
+map:
 hidden: true
 related:
 - 29347
