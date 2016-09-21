@@ -1,6 +1,6 @@
 # Legacy IL 301 redirects
 redirect 301 /product-category/tours/ /tours/
-redirect 301 /product-category/hidden-tours/ /tours/hidden-tours/
+redirect 301 /product-category/hidden-tours/ /tours/historical-tours/
 redirect 301 /product-category/educational-tours/ /tours/educational-tours/
 redirect 301 /faqs/ http://www.insider-london.co.uk/
 redirect 301 /silicon-roundabout/ http://www.insider-london.co.uk/product/silicon-roundabout-and-tech-city/
