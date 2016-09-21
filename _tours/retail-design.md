@@ -5,7 +5,6 @@ categories:
 - educational
 id: 29334
 author: london75
-layout: tour
 guid: "/?post_type=product&#038;p=29334"
 show_book: false
 thumb: la-duree-420x287.jpg
@@ -16,6 +15,8 @@ related:
 - 29347
 - 29332
 - 29344
+category: educational
+layout: tour
 ---
 
 ##A Masterclass in Merchandising
