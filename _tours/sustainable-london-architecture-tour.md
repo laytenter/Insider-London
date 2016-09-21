@@ -1,11 +1,10 @@
 ---
 title: Sustainable Architecture Tour
-date: 2013-01-01 10:50:40 Z
+date: 2013-01-01 10:50:00 Z
 categories:
 - educational
 id: 29342
 author: london75
-layout: tour
 show_book: false
 thumb: sust_arch_1-420x287.jpg
 banner: sust_arch_1-772x528.jpg
@@ -15,6 +14,8 @@ related:
 - 29338
 - 29340
 - 29332
+category: educational
+layout: tour
 ---
 
 <p class="lede">Sustainable Architecture London – Alternative London Walking Tour</p>
