@@ -4,8 +4,7 @@ date: 2002-01-01 11:31:00 Z
 categories:
 - hidden
 featured: true
-id: 32342
-tour_id: 50184
+tour_id: 32342
 show_book: true
 price: 12
 thumb: IMGP1909-300x200.jpg

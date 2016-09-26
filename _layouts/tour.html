@@ -30,9 +30,10 @@ layout: default
       {% if page.show_book %}
         {% include tour-side-bar.html %}
         {% endif %}
+
+        {% if page.related %}
+        {% include related-tours.html %}
+        {% endif %}
     </div>
   </div>
-  {% if page.related %}
-    {% include related-tours.html %}
-  {% endif %}
 </div>

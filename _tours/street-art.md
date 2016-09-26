@@ -4,8 +4,7 @@ date: 2005-01-01 10:39:00 Z
 categories:
 - hidden
 featured: true
-id: 29326
-tour_id: 50188
+tour_id: 29326
 author: london75
 show_book: true
 price: 20

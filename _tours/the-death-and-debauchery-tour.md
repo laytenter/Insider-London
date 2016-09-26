@@ -4,8 +4,7 @@ date: 2004-01-01 10:58:00 Z
 categories:
 - hidden
 featured: true
-id: 29349
-tour_id: 50197
+tour_id: 29349
 author: london75 HEAD
 guid: "/?post_type=product&#038;p=29349"
 show_book: true

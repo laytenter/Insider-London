@@ -3,8 +3,7 @@ title: Tour of East End - Gangs, Crimes and Hasher Times
 date: 2007-01-01 16:41:00 Z
 categories:
 - hidden
-id: 32569
-tour_id: 50202
+tour_id: 32569
 author: london75
 show_book: true
 price: 20
