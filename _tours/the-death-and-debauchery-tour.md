@@ -19,7 +19,6 @@ related:
 - 32342
 - 12345
 - 32569
-category: hidden
 layout: tour
 ---
 

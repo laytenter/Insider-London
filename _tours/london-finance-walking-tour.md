@@ -15,7 +15,6 @@ related:
 - 29347
 - 29334
 - 29344
-category: educational
 layout: tour
 ---
 

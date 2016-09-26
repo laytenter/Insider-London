@@ -9,13 +9,12 @@ guid: "/?post_type=product&#038;p=29344"
 show_book: false
 thumb: Fotolia_24879531_M-568x388.jpg
 banner: Fotolia_24879531_M-772x528.jpg
-map:
+map: 
 hidden: true
 related:
 - 29347
 - 29332
 - 29334
-category: educational
 layout: tour
 ---
 
