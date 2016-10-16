@@ -3,7 +3,7 @@ title: The Royal Living and Royal Shopping
 date: 2009-01-01 11:02:00 Z
 published: false
 categories:
-- hidden
+- educational
 tour-id: 32334
 trekksoft-tour-id: 50200
 author: london75
