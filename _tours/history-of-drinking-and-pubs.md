@@ -8,7 +8,10 @@ author: london75
 guid: "/?post_type=product&#038;p=32336"
 show_book: true
 price: 20
+<<<<<<< HEAD
 trekksoft-tour-id: 50195
+=======
+>>>>>>> be79e599e6c784a5adcebcade8345bb3cea6ca2c
 thumb: DSC_0129-568x388.jpg
 banner: DSC_0133-772x528.jpg
 hidden: true

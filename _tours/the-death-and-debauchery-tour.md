@@ -2,13 +2,9 @@
 title: The Death and Debauchery Tour
 date: 2004-01-01 10:58:00 Z
 featured: true
-<<<<<<< HEAD
 tour-id: 29349
 trekksoft-tour-id: 50197
-=======
-tour_id: 29349
->>>>>>> be79e599e6c784a5adcebcade8345bb3cea6ca2c
-author: london75 HEAD
+author: london75
 guid: "/?post_type=product&#038;p=29349"
 show_book: true
 price: 12
