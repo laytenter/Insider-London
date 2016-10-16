@@ -1,10 +1,8 @@
 ---
 title: London Underground and Tube Tour
 date: 2001-01-01 17:41:00 Z
-categories:
-- hidden
-id: 32143
-tour_id: 50159
+tour-id: 32143
+trekksoft-tour-id: 50159
 show_book: true
 featured: true
 price: 20

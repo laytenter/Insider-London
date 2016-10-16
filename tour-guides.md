@@ -6,6 +6,14 @@ layout: page
 
 Insider London's guided walking tours are planned and led by our team of lovely guides. Read on to meet the team...
 <div class="media media--responsive palm-mb-- lap-mb- desk-mb">
+  <img src="{{ site.baseurl }}/assets/images/julia-240x240.jpg" class="media__img">
+  <div class="media__body">
+    <h3>Julia</h3>
+    <p>Julia is a qualified City of London and City of Westminster Guide. A native Austrian, she made London her home more than 10 years ago and still finds it exciting to explore, question and dig just that little bit deeper. Sometimes she even finds a geocache while out and about!</p>
+    <p>Her favourite tour to lead for Insider London are the Retail Design tour and Modern Architecture Tour.</p>    
+  </div>
+</div>
+<div class="media media--responsive palm-mb-- lap-mb- desk-mb">
   <img src="{{ site.baseurl }}/assets/images/Michelle picture-240x240.jpg" class="media__img">
   <div class="media__body">
     <h3>Michelle</h3>

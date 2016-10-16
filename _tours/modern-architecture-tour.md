@@ -1,10 +1,8 @@
 ---
 title: Modern Architecture Walking Tour
 date: 2003-01-01 10:46:00 Z
-categories:
-- educational
-id: 29338
-tour_id: 50198
+tour-id: 29338
+trekksoft-tour-id: 50198
 price: 40
 author: london75
 show_book: true

@@ -1,9 +1,7 @@
 ---
 title: Silicon Roundabout and Tech City Tour
 date: 2010-01-01 10:55:00 Z
-categories:
-- educational
-id: 29347
+tour-id: 29347
 author: london75
 guid: "/?post_type=product&#038;p=29347"
 show_book: false
