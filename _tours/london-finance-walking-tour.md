@@ -1,8 +1,9 @@
 ---
 title: London Finance Walking Tour
 date: 2011-01-01 10:43:00 Z
+categories:
+- educational
 tour-id: 29332
-category: educational
 author: london75
 guid: "/?post_type=product&#038;p=29332"
 show_book: false

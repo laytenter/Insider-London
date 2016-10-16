@@ -1,6 +1,8 @@
 ---
 title: Street Art Tour
 date: 2005-01-01 10:39:00 Z
+categories:
+- hidden
 featured: true
 tour-id: 29326
 trekksoft-tour-id: 50188
@@ -18,7 +20,6 @@ related:
 - 32334
 - 32336
 layout: tour
-category: hidden
 ---
 
 <p class="lede">London is filled with street art and graffiti hotspots with artists from around the world leaving their mark. Whether you are a seasoned visitor, on your very first trip, or have called this city home for years, it can be sometimes difficult to spot the hidden treasures London has to offer.
