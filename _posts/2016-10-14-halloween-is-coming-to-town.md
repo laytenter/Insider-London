@@ -1,5 +1,5 @@
 ---
-title: Halloween Is Coming to Town
+title: Haunted London
 date: 2016-10-14 17:11:00 Z
 permalink: "/halloween-is-coming-to-town/"
 categories:
