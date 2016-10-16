@@ -11,7 +11,6 @@ show_book: true
 price: 15
 thumb: 31-420x287.jpg
 banner: 31-772x528.jpg
-hidden: true
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4967.301983362017!2d-0.12494109999997158!3d51.5012718!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604bfa8d669d7%3A0x4c6356d8fd0d58a4!2sWestminster+Tube+Station%2C+Bridge+St%2C+London+SW1A+2JR%2C+United+Kingdom!5e0!3m2!1sen!2sus!4v1440407979812
 related:
 - 32143
