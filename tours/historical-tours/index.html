@@ -8,7 +8,7 @@ layout: page
 
   <p>Insider London offers a medley of alternative and unusual walking tours of London. Our Street Art Tour includes a wonderful collection of murals and street art in East London while our historical guided tours delve into the history of drinking, gangs, and debauchery in the city. The original London Underground tour is perfect for those interested in the stories behind this 150 year old British institution while our Royal Living and Royal Shopping Tour is for those who have a fascination with the lives of London’s aristocrats. </p>
 <div class="layout">
-{% assign tours = site.tours | where: "category", "hidden" %}
+{% assign tours = site.tours | where: "categories", "hidden" %}
 {% for tour in tours %}
   {% assign loopindex = forloop.index | modulo: 4 %}
   {% if forloop.index > 1 %}-->{% endif %}<div class="layout__item u-1/4 u-1/3-lap u-1/2-palm">
