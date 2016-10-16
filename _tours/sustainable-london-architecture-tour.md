@@ -2,6 +2,8 @@
 title: Sustainable Architecture Tour
 date: 2013-01-01 10:50:00 Z
 tour-id: 29342
+categories:
+- educational
 author: london75
 show_book: false
 thumb: sust_arch_1-420x287.jpg
@@ -12,7 +14,6 @@ related:
 - 29338
 - 29340
 - 29332
-category: educational
 layout: tour
 ---
 

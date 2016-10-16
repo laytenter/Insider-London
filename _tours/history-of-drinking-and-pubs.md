@@ -2,6 +2,8 @@
 title: History of Drinking and Pubs Tours
 date: 2006-01-01 11:24:00 Z
 tour-id: 32336
+categories:
+- hidden
 author: london75
 guid: "/?post_type=product&#038;p=32336"
 show_book: true
@@ -15,7 +17,6 @@ related:
 - 32143
 - 29349
 - 12345
-category: hidden
 layout: tour
 ---
 

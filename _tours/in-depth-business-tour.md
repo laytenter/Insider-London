@@ -2,6 +2,8 @@
 title: Educational In-depth Business Tour
 date: 2015-08-28 10:51:00 Z
 tour-id: 29344
+categories:
+- educational
 author: london75
 guid: "/?post_type=product&#038;p=29344"
 show_book: false
@@ -13,7 +15,6 @@ related:
 - 29347
 - 29332
 - 29334
-category: educational
 layout: tour
 ---
 
