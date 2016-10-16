@@ -2,8 +2,7 @@
 title: Retail Design Tour
 date: 2012-01-01 10:44:00 Z
 tour-id: 29334
-categories:
-- educational
+category: educational
 author: london75
 guid: "/?post_type=product&#038;p=29334"
 show_book: false

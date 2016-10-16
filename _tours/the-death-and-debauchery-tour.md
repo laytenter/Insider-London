@@ -7,6 +7,7 @@ trekksoft-tour-id: 50197
 author: london75
 guid: "/?post_type=product&#038;p=29349"
 show_book: true
+category: hidden
 price: 12
 thumb: Death-and-Debauchery-print-1-300x200.jpg
 thumbsrcset: "/assets/images/Death-and-Debauchery-print-1-445x304.jpg 445w, /assets/images/Death-and-Debauchery-print-1-568x388.jpg
