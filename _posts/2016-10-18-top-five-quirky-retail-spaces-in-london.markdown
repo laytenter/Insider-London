@@ -11,24 +11,28 @@ London is home to quirky fashion, unique individuals and a number of distinct re
 When you think of Regent Street, you may think high fashion, as opposed to quirky retail spaces. But Burberry’s unique shopping experience at the Regent Street store is definitely a quirky experience. Shoppers are encouraged to watch the catwalks that are screened in the store, and if an item catches your eye, you can make a purchase using the many iPads’ around the store. What also makes this store quirky is the huge juxtaposition between the historic building that Burberry calls its home and the modern ‘online’ shopping experience offered to customers. 
 
 ![Burberry-800x320.png](/uploads/Burberry-800x320.png)
+
 Image Credit: Franklin Heijnen/ Flickr
 
 ## 2. Boxpark
 Another quirky retail space that has made London it’s home is the iconic Boxpark. The Shoreditch branch was a retail revolution and when it open in 2011 and became the world’s first pop-up mall. Constructed of shipping containers, Boxpark was a unique and very low cost pop-up store. Each container is filled with a range of lifestyle and fashion brands, as well as cafes, restaurants and bars. This innovative shopping and dining experience has lead to the creation of another branch in the Croydon area. Opening at the end of October with a whole weekend of music performances, Boxpark Croydon will be home to the likes of The Breakfast Club, Meat Liquor and many many more. These shopping centers strive to create a community of talented brands whilst displaying some amazing fashion and innovative ideas. 
 
 ![Boxpark-800x320.png](/uploads/Boxpark-800x320.png)
+
 Image Credit: La Citta Vita/ Flickr
 
 ## 3. Dover Street Market
 This groundbreaking retail space, founded by Comme des Garçons designer Rei Kawakubo, had for twelve long years, spent its time in Mayfair. In it’s time this six-storey building broke many traditional retail rules and crafted a uniquely beautiful and creative shopping space, making it a distinctive shopping experience for all those who visited. And in March of this year the Dover Street Market relocated from Mayfair to Haymarket. The much larger store is home to all 14 Commes labels, as well as collections from the likes of Molly Goddard, Elena Dawson and Raf Simons. 
 
 ![Dover Street Market-800x320.png](/uploads/Dover%20Street%20Market-800x320.png)
+
 Image Credit: Denna Jones
 
 ## 4. Choccywoccydoodah
 With a name like that you expect nothing less than quirky from the Brighton born chocolaterie. Whether you visit their mothership store in Brighton or their flagship in London’s Soho, shoppers will notice how the shop functions as more of an immersive gallery than a shop. The stunning products blend in with the elaborate decorations, creating an immersive atmosphere that serves more in an art gallery than a chocolate shop. 
 
 ![Choccywokkydoodah-800x320.png](/uploads/Choccywokkydoodah-800x320.png)
+
 Image Credit: Martin Pettitt/ Flickr
 
 ## 5. Cyberdog
