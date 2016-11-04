@@ -5,6 +5,8 @@ permalink: "/7-facts-about-londons-silicon-roundabout"
 layout: post
 ---
 
+![Insider London Images-2.png](/uploads/Insider%20London%20Images-2.png)
+
 On London’s Old Street you’ll find Silicon Roundabout. It’s East London’s version of Silicon Valley and a technological hub that is home to an array of London start-ups, tech heavyweights and the ‘flat white economy’. And if you don’t know too much about London’s Silicon Roundabout here are seven facts about the area to get you on your way…
 
 1. Silicon Roundabout is home to around 1,300 businesses. These range from small pioneering companies to major players in the tech industry (including Google and Amazon). 
