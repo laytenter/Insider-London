@@ -1,7 +1,7 @@
 ---
 title: 7 Facts About London’s Silicon Roundabout
 date: 2016-11-04 19:56:00 Z
-permalink: 7-facts-about-londons-silicon-roundabout
+permalink: "/7-facts-about-londons-silicon-roundabout"
 layout: post
 ---
 
