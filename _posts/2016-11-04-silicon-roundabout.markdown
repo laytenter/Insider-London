@@ -19,4 +19,4 @@ On London’s Old Street you’ll find Silicon Roundabout. It’s East London’
 
 7. Silicon Roundabout is home to one of the first ever Bitcoin ATMs. 
 
-And if these facts weren’t enough for you, booking a space on our Silicon Roundabout and Tech City Tour is a great opportunity to learn more about Silicon Roundabout and the businesses that call it home. So if you want to discover more exciting facts about the area from our knowledgeable guides book your place here. 
+And if these facts weren’t enough for you, booking a space on our Silicon Roundabout and Tech City Tour is a great opportunity to learn more about Silicon Roundabout and the businesses that call it home. So if you want to discover more exciting facts about the area from our knowledgeable guides book your place [here](http://www.insider-london.co.uk). 
