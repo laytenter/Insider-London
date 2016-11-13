@@ -23,3 +23,6 @@ On the 10 and 11 December make sure you plan a visit to the Mile End Ecology Pav
 
 **Southbank Markets**\
 Christmas has once again returned to the [Southbank](http://www.southbankcentre.co.uk/whatson/winter-market-1002058). Dotted along the River Thames will be an array of quaint, wooden chalets, each filled with vendors selling trinkets and food stuffs to get you in the spirit of Christmas. You’ll find festive foods, mulled wines and homemade crafts on offer. Enjoy the magical views of Big Ben and the London Eye whilst wandering along the riverbank accompanied by fairy lights and Christmas cheer.
+
+**Kingston Christmas Markets**\
+From 19 November Kingston’s Ancient Market Place will be transformed into a magical [Christmas Market.](http://www.visitkingston.co.uk/events/kingston-christmas-market) Whether you’re on the hunt for that perfect present, or you just want to get yourself into the Christmas spirit, this market is an excellent place to visit. With 100 traditional wooden chalets selling unique giftware and decorations, as well as festive food and drink (plus entertainment), this market is sure to put you in the mood for Christmas. And if that wasn’t enough there will also be a beautifully decorated Christmas tree, a traditional merry-go-round and a large scale Nutcracker King and Soldiers.
