@@ -7,6 +7,9 @@ layout: post
 
 Christmas has now arrived in London. Oxford Street has turned on it’s Christmas lights and the Coca Cola truck has announced it’s tour. Even John Lewis has released it’s new Christmas advert. This also means one thing in London. Christmas Markets. London plays host to a number of amazing markets this time of year and to help you make the most of the city this winter, we’ve compiled a list of the best.
 
+**Leicester Square Christmas Market**\
+New for 2016 is [Leicester Square’s Christmas Market](http://www.christmasinleicestersquare.com/about). This bustling square has been transformed into a magical Christmas wonderland. You’ll find Santa’s Grotto and a traditional market, selling food and drinks, plus beautiful hand-crafted gifts. What’s more the square has also added a vintage Spiegeltent, which will be bringing you shows from the Underbelly team, including the Olivier Award-winning show La Soirée.
+
 ![Untitled design-6.png](/uploads/Untitled%20design-6.png)
 
 *[Image Credit: Ruth Johnston/ Flickr](https://www.flickr.com/photos/rejohnston/16114900895/in/photolist-qy25AT-qgstv5-qgsvQA-qxRhb2-qgBny6-qxXfkh-qgtrRJ-qvKenL-qgBjF2-qxRett-pBghLp-qxRySt-qxXyvf-b2HWKX-b2JdCz-pB2uAL-qgzH2R-qxRx1x-qgsu7L-qy2kqH-pB2Mjq-qgt7c3-qgBkkP-qvJUv7-qgzsmZ-qgt6W3-qgsssJ-91e3iT-qy25TM-pBfWu2-qgzuhx-91e3wn-pBgcMg-b2Jt2X-b2HZZZ-b2Hzyx-b2HQr8-b2HEda-b2HBMV-91e35n-b2J7PM-91e3p8-91hapG-91e3o6-6ouBxY-aXUKKM-7bSFda-dJruBP-93BHap-93BHcB)*
