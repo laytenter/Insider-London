@@ -11,11 +11,7 @@ vc_teaser:
 layout: page
 ---
 
-        
-                    <h3>
-                      Insider London
-                    </h3>
-                    
-                    <p>
-                      <strong>T</strong>   +44 (0) 20 7183 1055<br /> <strong>E</strong>   contact@insider-london.co.uk
-    
+### Insider London
+
+**T** \+44 (0) 20 7183 1055
+**E** contact@insider-london.co.uk
