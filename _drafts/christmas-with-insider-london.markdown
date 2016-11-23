@@ -6,6 +6,7 @@ layout: post
 ---
 
 ![Untitled design-13.png](/uploads/Untitled%20design-13.png)
+
 Office parties, whether they're celebrating Christmas, winter or the break away from work, should be fun. But sometimes you can get stuck organising the same thing you've done every year for the last five years. Well this year can be different. Why not turn your office party into an exciting walking tour of London? We offer [bespoke walking tours](http://www.insider-london.co.uk/special-occasions/) for large groups, which is perfect for this type of celebration.  
  
 All of your tours can be booked privately, allowing you and your work colleagues a more tailored, unique experience, that fits your needs and interests. From past experience booking these types of tours we can recommend that our [London Underground and Tube](http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/) tour, [History of Drinking and Pubs](http://www.insider-london.co.uk/tours/history-of-drinking-and-pubs/) tour and our D[eath and Debauchery](http://www.insider-london.co.uk/tours/the-death-and-debauchery-tour/) tour, are especially popular for Christmas office parties.  
