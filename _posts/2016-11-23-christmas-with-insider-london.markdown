@@ -15,4 +15,4 @@ With the London Underground and Tube tour you'll learn about the 150 years worth
  
 These tours are not only popular with office parties, they're also perfect for this time of year. We know the idea of walking around London for almost two hours in the winter weather is not appealing to many people, that's why these tours take place mostly inside. You'll spend most of your time inside pubs or underground (depending on which tour you choose) and will only spend a little time outside walking from venue to venue.  
  
-If you're interested in turning your Christmas office party into a walking tour, please visit our [website](http://www.insider-london.co.uk) for more details and to book with us now. What better way to explore London and celebrate the holidays with your wok colleagues than this?
+If you're interested in turning your Christmas office party into a walking tour, please visit our [website](http://www.insider-london.co.uk) for more details and to book with us now. What better way to explore London and celebrate the holidays with your work colleagues than this?
