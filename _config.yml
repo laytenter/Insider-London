@@ -14,8 +14,8 @@ collections:
     output: true
 name: Insider London
 description: Insider London
-baseurl:
-url: "http://www.insider-london.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: 
+url: http://www.insider-london.co.uk
 lsi: false
 paginate: 10
 paginate_path: "/blog/page/:num/"
