@@ -94,16 +94,16 @@ module.exports = function(grunt) {
       myTask: {
         options: {
           sizes: [{
-            width: 240,
-            height: 240,
-            quality: 70,
-            aspectRatio: false,
-            gravity: 'NorthWest'
+            width: 800,
+            height: 320,
+            quality: 65,
+            aspectRatio: true,
+            gravity: 'Center'
           }]
         },
         files: [{
           expand: true,
-          src: ['/home/adam/public_html/hastings-round-table/images/mugshots/**.{JPG,jpg,gif,png,jpeg}']
+          src: ['/home/adam/Documents/InsiderLondon/Top5RetailDesign/**.{JPG,jpg,gif,png,jpeg}']
                 }]
       }
     }
