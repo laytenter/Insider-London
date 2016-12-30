@@ -1,0 +1,8 @@
+---
+title: History of Drinking in London
+date: 2016-12-30 20:01:00 Z
+---
+
+The UK and London has a long and varied history when it comes to it's drinking culture. And sometimes, when out for a drink in the city, it's easy to forget that some of our local pubs have a long and interesting history behind them. So here at Insider London we wanted to give you the run down of some of the best London pubs in terms of historical value.  
+
+We'll work in chronological order, so the first of the London pubs to keep your eye out for is the Ye Olde Cheshire Cheese. Sometimes cited as the oldest pub in the UK, Ye Olde Cheshire Cheese was rebuilt in 1667, following the Great Fire of London and has been known to play host to iconic literary legends such as Charles Dickens, Dr Samuel Johnson and Sir Arthur Conan Doyle. This pub provides an atmosphere of what an early coaching inn would have been like. And with the architecture, in the chop room of the pub, having remained unchanged since the late 1600s you'll even get to witness what the pub would have looked like all those years ago. The smaller rooms would have once been used by local business to sell their wears to travellers and the wealthy, whilst also providing a quite place to discuss private business. Two other historical features to be retained by the Ye Olde Cheshire Cheese is that of sawdust and Polly the parrot. The sawdust was used before the days of mops and buckets to soke up any spilt liquid and is still used today. Polly the parrot was known to entertain punters with her foul mouth and since her passing she has been stuffed and still resides over the goings on from her spot behind the front bar.  
