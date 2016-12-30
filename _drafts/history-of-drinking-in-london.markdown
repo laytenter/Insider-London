@@ -1,6 +1,8 @@
 ---
 title: History of Drinking in London
 date: 2016-12-30 20:01:00 Z
+permalink: "/history-of-drinking-in-london/"
+layout: post
 ---
 
 The UK and London has a long and varied history when it comes to it's drinking culture. And sometimes, when out for a drink in the city, it's easy to forget that some of our local pubs have a long and interesting history behind them. So here at Insider London we wanted to give you the run down of some of the best London pubs in terms of historical value.
