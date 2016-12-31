@@ -5,6 +5,7 @@ permalink: "/history-of-drinking-in-london/"
 layout: post
 ---
 
+![Untitled design-23.png](/uploads/Untitled%20design-23.png)
 
 The UK and London has a long and varied history when it comes to it's drinking culture. And sometimes, when out for a drink in the city, it's easy to forget that some of our local pubs have a long and interesting history behind them. So here at Insider London we wanted to give you the run down of some of the best London pubs in terms of historical value, whilst also running through a brief history of drinking in London.
 
@@ -24,7 +25,7 @@ Moving to the 17th Century now and with that another iconic London pub, the [Old
 
 Image Credit: [Tony Hisgett/ Flickr](https://www.flickr.com/photos/hisgett/4867910999/in/photolist-8qajkZ-dx9ZNr-7rp1CE-4Zj7aM-bqWtSX-4FxTRr-8PuGdC-4NgzP4-6bnX1P-4H3XX9-4L8Wbx-g7p2CU-7rVSSb-6aohhQ-7sQxQU-nxCp4Q-4PqDBX-5Rhy7E-ehZbcH-dWcPRN-kMDhQa-83Zf2g-58CWXb-d8Kjzq-4LTBAS-8hBZhu-mFXpWi-4BP7vD-rG6Gaz-bPUxVg-8jmrRT-o1ghE9-rYc7E3-eJBEAy-hhvNRr-72NHHy-fEBcHy-82cF6i-95UV4P-4WE8Px-nQ4i1q-4AGSH4-3cwHQB-6X2z9x-cZEH3N-nQ3WvN-51qpvZ-hs7HJE-dSfcP1-NT4Jb)
 
-The [Punch Tavern](http://www.punchtavern.com) is the next London pub, with lots of history behind it. This pub represents the drinking culture of the 19th century and with that comes gin. In 1893 the pub began its refurbishment into a Gin Palace, by the famous Baker Brothers. For those of you who aren't aware a gin palace is just the English name for a lavish bar which sold gin. Although hugely popular with the locals, not everyone agreed that they were 'lavish' establishments and some even went as far to call them vulgar. As much as the gin palaces looked divine, with their beautiful gas lamps and ornamented facades, the alcohol was cheap and strong, which meant the poor arrived in their masses to escape the struggles of daily life.  
+The [Punch Tavern](http://www.punchtavern.com) is the next London pub, with lots of history behind it. This pub represents the drinking culture of the 19th century and with that comes gin. In 1893 the pub began its refurbishment into a Gin Palace, by the famous Baker Brothers. For those of you who aren't aware a gin palace is just the English name for a lavish bar which sold gin. Although hugely popular with the locals, not everyone agreed that they were 'lavish' establishments and some even went as far to call them vulgar. As much as the gin palaces looked divine, with their beautiful gas lamps and ornamented facades, the alcohol was cheap and strong, which meant the poor arrived in their masses to escape the struggles of daily life.
 
 \
 And if you want to discover more about the history of drinking in London, whilst also getting to visit some of the pubs mentioned in this post, why not book a place on our [History of Dinking and Pubs Tour](http://www.insider-london.co.uk/tours/history-of-drinking-and-pubs/)? The tour runs every Saturday evening and can also be booked as a private tour for a time that's more convenient for you. Just visit our [website](http://www.insider-london.co.uk) for more informaiton.
