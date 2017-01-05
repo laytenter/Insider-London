@@ -16,10 +16,22 @@ When: Sunday 29th January 2017: 11am- 4pm and Saturday 4th and Sunday 5th Februa
 ![Untitled design-26.png](/uploads/Untitled%20design-26.png)
 
 **Magical Lantern Festival **\
-If you want to spend a spectacular evening admiring a beautiful, outdoor lantern installation, head to Chiswick House and Gardens for the Magical Lantern Festival. Last years festival included pandas, enormous dragons and even London telephone boxes. The theme for this year is 'Explore The Silk Road' and is set to include a lantern Houses of Parliament, as well as other iconic figires from Europe, Asia, India and Ancient China.
+If you want to spend a spectacular evening admiring a beautiful, outdoor lantern installation, head to Chiswick House and Gardens for the [Magical Lantern Festival.](http://www.magicallantern.uk/London/) Last years festival included pandas, enormous dragons and even London telephone boxes. The theme for this year is 'Explore The Silk Road' and is set to include a lantern Houses of Parliament, as well as other iconic figures from Europe, Asia, India and Ancient China.
 
 *Where: Chiswick House and Gardens \
 When: Thursday 19th January to Sunday 26th February 2017*
+
+**Dine at a Chinese Restaurant**\
+To celebrate Chinese New Year, you may just choose to have a relaxing meal with friends and family. And where best to go in the city for Chinese food than China Town itself. If you haven't visited the area before it is only a short walk from Soho and Leicester Square. But remember this area will be very busy, so do book ahead to avoid disappointment. If you need recommendations for restaurants in the area [Time Out](http://www.timeout.com/london/restaurants/where-to-eat-in-chinatown) have compiled a list of places to eat out at when in Chinatown.
+
+![Untitled design-27.png](/uploads/Untitled%20design-27.png)
+
+**Chinese New Year Parade **\
+And finally, one of the largest celebrations of Chinese New Year in London. That's right it is the Chinese New Year Parade. The celebrations usually begin with a stunning parade which winds throught the streets around the West End, Trafalgar Square and of course Chinatown. Throught the day there are also live stage performances, dragon and lion dances, acrobats and martial arts. More details will be announced closer to the time, so do keep checking online for further details. 
+
+\
+*Where: Various \
+When: Sunday 29th January 2017*
 
 However you decide to celebrate, we wish you a wonderful new year and lots of luck and good fortune for the future.
 
