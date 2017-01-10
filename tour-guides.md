@@ -53,7 +53,7 @@ Insider London's guided walking tours are planned and led by our team of lovely 
 </div>
 
 <div class="media media--responsive palm-mb-- lap-mb- desk-mb">
-  <img src="{{ site.baseurl }}/assets/images/Danny-240x240.jpg" class="media__img">
+  <img src="/uploads/Danny-240x240.jpg" class="media__img">
   <div class="media__body">
   <h3>Danny</h3>
   <p>Danny is a Londoner, a Blue Badge Tourist Guide and a qualified lawyer.  The whole of London is his office and he loves showing visitors around.  Special interests include the City – its finance and its architecture - the River Thames and Royal London (including the Tower of London and its bloody history). Danny’s Classic Day Out in London guides visitors past the sites that are the most symbolic of London - and for Harry Potter fans can include the main Harry Potter London film locations.</p>
