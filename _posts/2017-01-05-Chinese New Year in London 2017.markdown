@@ -33,6 +33,6 @@ And finally, one of the largest celebrations of Chinese New Year in London. That
 *Where: Various
 When: Sunday 29th January 2017*
 
-However you decide to celebrate, we wish you a wonderful new year and lots of luck and good fortune for the future.
+For an update on all things Chinese New Year head to the [Visit London](http://visitlondon.com/china) website. However you decide to celebrate, we wish you a wonderful new year and lots of luck and good fortune for the future.
 
 By Sage Fitzpatrick
