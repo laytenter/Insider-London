@@ -7,8 +7,8 @@ layout: post
 
 ![Untitled design-38.png](/uploads/Untitled%20design-38.png)
 
-Visiting London is a perfect opportunity to experience new things. From the food and drink, to the music and art, it's a city of endless discovery. For some, London offers the chance to explore the street art around the city. So here are some of the best places to spot street art whilst in London.  \
- \
+Visiting London is a perfect opportunity to experience new things. From the food and drink, to the music and art, it's a city of endless discovery. For some, London offers the chance to explore the street art around the city. So here are some of the best places to spot street art whilst in London.  
+ 
 For those wanting to see street art in the capital, Shoreditch is always the first suggestion. And with good reason. You'll find street art everywhere you look; on store fronts, on walls, on the ground and even on tube carriages.
 
 ![Untitled design-37.png](/uploads/Untitled%20design-37.png)
