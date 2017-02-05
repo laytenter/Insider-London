@@ -5,8 +5,8 @@ published: false
 categories:
 - educational
 show_book: false
-thumb: uploads/canary-wharf-420x287.jpg
-banner: uploads/HSBC-canary-wharf-772x579.jpg
+thumb: canary-wharf-420x287.jpg
+banner: HSBC-canary-wharf-772x579.jpg
 layout: tour
 ---
 
