@@ -4,6 +4,8 @@ date: 2017-02-05 10:15:00 Z
 published: false
 categories:
 - educational
+show_book: false
+layout: tour
 ---
 
 Tour of Canary Wharf – the New Finance Centre of London takes you around and inside the amazing development that is east London’s most pivotal, and important, business district CANARY WHARF. 
