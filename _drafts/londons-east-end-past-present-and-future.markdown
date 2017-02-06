@@ -13,4 +13,14 @@ The histroy of London's East End is often tainted by the many gruesome events th
 
 *[Image Credit: James Cridland/ Flickr](https://www.flickr.com/photos/jamescridland/460198209/in/photolist-GECTT-cZANRC-bPeVsT-8HV1BY-bh5Q8a-nMzj11-cZALnb-cZAWxf-9C5rxh-dMcSBq-cZAWUW-mU2oLS-nx8na7-nx7ST4-9H6BoJ-bh5PJk-6bjYgL-cVkCfJ-nRoAwc-pDjuCV-5w8LZ-9hy2ix-fDtTcr-nPsTEU-bRk6Fx-Ey8mh7-nPiFAv-nx7qjf-8NUYjj-kKUzUn-nx7U9c-dhzhq8-8BeAfV-6J7rDv-8k3PUo-fbKaru-nPs2RW-8jZBkg-bh5NWM-nRoWne-nPxMsW-nMzeRE-7uCLDT-nx8Leo-bxYPAK-9QeGhh-nRoSPn-4psWSk-nPBifg-8BeCfp)*
 
+The East End has always been recognised for the diversity of it’s residence and the variety of different cultures that it represents. 
+
+The first step in it's history of diversity came in 1682 when King Charles II granted a Royal Charter for the Spitafields Market to be held. Huguenots feeling France, bought their silk weaving skills to the area, following the markets success since its establishment years before and made the area home. 
+
+The proximity of London docks and the decline in the Irish linen industry also bought many Irish to the area, followed by East European Jews. From the late 19th century to the 20th century the area of Spitafields was largely Jewish. With over 40 synagogues it was only of the largest communities of Jews in Europe. 
+
+Since then the Bangladeshi community, that we know and love today, have established itself and has turned the Brick Lane area into an bustling restaurant district that many people flock to visit. 
+
+What we are seeing now is the mass regeneration and modernisation of the area. Shoreditch for example is a hub of modern activity. From the huge street art scene that has seen the likes of Bambi, Thierry Noir, Roa and Banksy paint the streets with their work. To the creation of BoxPark, the world' first pop up mall, which uses repurposed shipping containers to create an eating, drinking and shopping experience.
+
 If you would like to learn about the London’s East End, we have a number of different tours you can choose from. Do you want to learn more about the dark and gruesome past of the area? Then our [Tour of Eat End- Gangs, Crimes and Harsher Times](http://www.insider-london.co.uk/tours/tour-of-east-end-gangs-crimes-and-hasher-times/) is the perfect choice for you. But if you are more interested in the future of East End, take a look at Shoreditch’s [Street Art](http://www.insider-london.co.uk/tours/street-art/) or the tech hub that is [Silicon Roundabout](http://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/).
