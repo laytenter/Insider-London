@@ -23,4 +23,6 @@ Since then the Bangladeshi community, that we know and love today, have establis
 
 What we are seeing now is the mass regeneration and modernisation of the area. Shoreditch for example is a hub of modern activity. From the huge street art scene that has seen the likes of Bambi, Thierry Noir, Roa and Banksy paint the streets with their work. To the creation of BoxPark, the world' first pop up mall, which uses repurposed shipping containers to create an eating, drinking and shopping experience.
 
+And there is no discussing the East End without mentioning the hub of activity, business and enterprise in Old Street's Silicon Roundabout. 
+
 If you would like to learn about the London’s East End, we have a number of different tours you can choose from. Do you want to learn more about the dark and gruesome past of the area? Then our [Tour of Eat End- Gangs, Crimes and Harsher Times](http://www.insider-london.co.uk/tours/tour-of-east-end-gangs-crimes-and-hasher-times/) is the perfect choice for you. But if you are more interested in the future of East End, take a look at Shoreditch’s [Street Art](http://www.insider-london.co.uk/tours/street-art/) or the tech hub that is [Silicon Roundabout](http://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/).
