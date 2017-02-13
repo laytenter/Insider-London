@@ -21,7 +21,7 @@ In February 1665, the Great Plague- one of the last major plagues in the country
 
 ![Untitled design-49.png](/uploads/Untitled%20design-49.png)
 
-*[Image Credit: Ben Sutherland/ Flickr](https://www.flickr.com/photos/bensutherland/6937524254/in/photolist-bz3Cg9-hE5oza-9LfWZD-5ngYqB-dCmJ9E-cGk1vq-6Z9Mfg-8F1Adr-f6eFzd-rcVN4r-7i4rSM-dXQci5-ffWfRN-dmDLEi-bz3BVd-q9yZV-atwx6x-r8WdWF-cjkX8E-bWUDNP-g1kZhk-dSXLGm-r6TrJF-mBMkFi-oHM5VX-9Ljrbh-q4uBBp-bUVBLn-6Z7Fs8-7pDs4K-9MdhXf-dF8Rsh-5c3Zig-8ypbG6-cwGzH3-am7ALL-nDGRjp-axQk81-cigA5u-ietpvH-fEdSCh-oZg4gb-9SixPE-ChxrGa-cC9cKf-do3WMn-85mZ1w-asraK-pFaWzf-iGvtUs/)*\
+*[Image Credit: Ben Sutherland/ Flickr](https://www.flickr.com/photos/bensutherland/6937524254/in/photolist-bz3Cg9-hE5oza-9LfWZD-5ngYqB-dCmJ9E-cGk1vq-6Z9Mfg-8F1Adr-f6eFzd-rcVN4r-7i4rSM-dXQci5-ffWfRN-dmDLEi-bz3BVd-q9yZV-atwx6x-r8WdWF-cjkX8E-bWUDNP-g1kZhk-dSXLGm-r6TrJF-mBMkFi-oHM5VX-9Ljrbh-q4uBBp-bUVBLn-6Z7Fs8-7pDs4K-9MdhXf-dF8Rsh-5c3Zig-8ypbG6-cwGzH3-am7ALL-nDGRjp-axQk81-cigA5u-ietpvH-fEdSCh-oZg4gb-9SixPE-ChxrGa-cC9cKf-do3WMn-85mZ1w-asraK-pFaWzf-iGvtUs/)*
 
 **Great Fire of London**
 
