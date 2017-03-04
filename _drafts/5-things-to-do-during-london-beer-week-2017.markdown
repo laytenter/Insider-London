@@ -1,6 +1,8 @@
 ---
 title: 5 Things To Do During London Beer Week 2017
 date: 2017-03-04 20:18:00 Z
+permalink: "/london-beer-week-2017/"
+layout: post
 ---
 
 ![Untitled design-55.png](/uploads/Untitled%20design-55.png)
