@@ -25,7 +25,7 @@ Get yourself down to the Truman Brewery in Shoreditch for this Czech inspired be
 
 **4. Visit a brewery**
 
-With the craft beer scene in the UK picking up pace over the last few years, the capital have jumped on board to allow punters to visit their breweries. 
+With the craft beer scene in the UK picking up pace over the last few years, the capital have jumped on board to allow punters to visit their breweries. Heading north of London? Check out Beavertown Brewery or the London Brewing Co.  Or if you're looking for a brewery in the east why not try Walthamstow's Wild Card Brewery? The Big Smoke Brew Co is great for those in the south and looking for a vegan friendly beer and those in the west should head to Fuller's Brewery. 
 
 **5. Sample a beer or two**
 
