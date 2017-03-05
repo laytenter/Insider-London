@@ -1,5 +1,5 @@
 ---
-title: 5 Things To Do During London Beer Week 2017
+title: 5 Things To Do During London Beer Week
 date: 2017-03-04 20:18:00 Z
 permalink: "/london-beer-week-2017/"
 layout: post
@@ -13,15 +13,13 @@ Next week Londoners will begin celebrating one of their favourite tipples, which
 
 This two hour tour will give you a chance to not only celebrate and drink a pint or two of beer, but to learn about the history behind it. Visit some historic pubs, discover the techniques behind medieval brewing and travel through London's drinking history. Book your place [here](http://www.insider-london.co.uk/tours/history-of-drinking-and-pubs/). 
 
-**2. The Beer Edit**
-
-For three days (Thursday 16th- Saturday 18th March) this fantastic beer village will be taking over the Oval Space in East London. [The Beer Edit ](https://drinkup.london/beerweek/events/12461/the-beer-edit/)is a great way to celebrate London Beer Week. You'll have a chance to savour a whole host of different beers, and it'll play hostto a number of exciting parties throughout the week too. 
-
-![Untitled design-53.png](/uploads/Untitled%20design-53.png)
-
-**3. Spirit of Prague**
+**2. Spirit of Prague**
 
 Get yourself down to the Truman Brewery in Shoreditch for this Czech inspired beer hall pop-up. From Thursday 16th- Sunday 19th March you'll have the opportunity to discover the tastes of the new Pravha and Staropramen, which is the number one Czech beer in the UK. This event is free to enter, where you'll enjoy free tastings, pretzels and discounted drinks. With a secred code word you'll be able to purchade a Prague priced beer for just 70p. For more information take a look [here](https://drinkup.london/beerweek/events/12719/spirit-of-prague/). 
+
+![Untitled design-53.png](/uploads/Untitled%20design-53.png)**3. The Beer Edit**
+
+For three days (Thursday 16th- Saturday 18th March) this fantastic beer village will be taking over the Oval Space in East London. [The Beer Edit ](https://drinkup.london/beerweek/events/12461/the-beer-edit/)is a great way to celebrate London Beer Week. You'll have a chance to savour a whole host of different beers, and it'll play hostto a number of exciting parties throughout the week too. 
 
 **4. Visit a brewery**
 
