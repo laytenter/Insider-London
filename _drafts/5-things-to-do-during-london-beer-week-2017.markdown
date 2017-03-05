@@ -25,7 +25,7 @@ Get yourself down to the Truman Brewery in Shoreditch for this Czech inspired be
 
 **4. Visit a brewery**
 
- https://www.timeout.com/london/bars-and-pubs/the-best-london-breweries
+With the craft beer scene in the UK picking up pace over the last few years, the capital have jumped on board to allow punters to visit their breweries. 
 
 **5. Sample a beer or two**
 
