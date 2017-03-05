@@ -21,7 +21,7 @@ For three days (Thursday 16th- Saturday 18th March) this fantastic beer village 
 
 **3. Spirit of Prague**
 
-Get yourself down to the Truman Brewery in Shoreditch
+Get yourself down to the Truman Brewery in Shoreditch for this Czech inspired beer hall pop-up. From Thursday 16th- Sunday 19th March you'll have the opportunity to discover the tastes of the new Pravha and Staropramen, which is the number one Czech beer in the UK. This event is free to enter, where you'll enjoy free tastings, pretzels and discounted drinks. With a secred code word you'll be able to purchade a Prague priced beer for just 70p. For more information take a look [here](https://drinkup.london/beerweek/events/12719/spirit-of-prague/). 
 
 **4. Visit a brewery**
 
