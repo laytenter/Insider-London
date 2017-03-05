@@ -25,14 +25,12 @@ Get yourself down to the Truman Brewery in Shoreditch for this Czech inspired be
 
 **4. Visit a brewery**
 
-With the craft beer scene in the UK picking up pace over the last few years, the capital have jumped on board to allow punters to visit their breweries. Heading north of London? Check out Beavertown Brewery or the London Brewing Co.  Or if you're looking for a brewery in the east why not try Walthamstow's Wild Card Brewery? The Big Smoke Brew Co is great for those in the south and looking for a vegan friendly beer and those in the west should head to Fuller's Brewery. 
+With the craft beer scene in the UK picking up pace over the last few years, the capital have jumped on board and have opened the doors to a number of breweries around the city. Heading north of London? Check out Beavertown Brewery or the London Brewing Co.  Or if you're looking for a brewery in the east why not try Walthamstow's Wild Card Brewery? The Big Smoke Brew Co is great for those in the south and looking for a vegan friendly beer and those in the west you should head to Fuller's Brewery. 
 
 **5. Sample a beer or two**
 
-As part of London Beer Week a number of bars around the city will be offering drinks deals for the entire week.
+As part of London Beer Week a number of bars around the city will be offering drinks deals for the entire week. From pints of cask ale at St Barts Brewery to a beer based cocktail menu at Company Below. For the full list of offers and bars taking part in London Beer Week please visit the official [DrinkUp London ](https://drinkup.london/beerweek/bars/)website. 
 
-https://drinkup.london/beerweek/bars/
-
-For more information and to book a place on the tour visit our website. And don't forget to follow us on Facebook, Twitter and Instagram to keep up to date with Insider London.
+For anyone taking part in London Beer Week, we hope you have a great time! Just remember always drink responsibly. Don't forget to follow us on [Facebook](http://facebook.com/insiderlondon/?fref=ts), [Twitter](https://twitter.com/insiderlondon) and [Instagram](http://instagram.com/insiderlondontours/) to keep up to date with Insider London.
 
 By Sage Fitzpatrick
