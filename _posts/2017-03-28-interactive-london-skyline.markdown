@@ -5,6 +5,8 @@ permalink: "/interactive-london-skyline/"
 layout: post
 ---
 
+![Untitled design-8-d35120.png](/uploads/Untitled%20design-8-d35120.png)
+
 The skyline of London is world famous. With buildings such as The Shard, The Gherkin and the Walkie Talkie dominating London's skies it's hard to imagine how the city looked in the past, how it could have looked in the present or how it may develop in the future.
 
 \
@@ -18,6 +20,5 @@ And that's just once of the many examples of how London's skyline could have dev
 
 \
 If you want to learn more about the cities architecture, why not join one of our many London walking tours? Discover some of the cities greenest buildings on our [Sustainable Architecture Tour](http://www.insider-london.co.uk/tours/sustainable-london-architecture-tour/) or learn more about the buildings that decorate London's skies on our [Modern Architecture Tour](http://www.insider-london.co.uk/tours/modern-architecture-tour/). Also don't forget to follow us on [Facebook](https://www.facebook.com/insiderlondon/?fref=ts), [Twitter](http://twitter.com/insiderlondon) and [Instagram](http://instagram.com/insiderlondontours/) to keep up to date with Insider London.
-
 
 By Sage Fitzpatrick
