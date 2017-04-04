@@ -9,7 +9,7 @@ layout: post
 
 If you're visiting London this Easter, you'll be spoilt for choice when deciding what to do. So here at Insider London we thought we'd give you a helping hand. We've come up with five things for you to do when in the city.
 
-London is know for it's quirky past, its unusual neighbourhoods and quiet frankly weird stories. And our Quirky London walking tour, will give you a little insight into just that. You'll explore some well known sites suc
+London is know for it's quirky past, its unusual neighbourhoods and quiet frankly weird stories. And our Quirky London walking tour, will give you a little insight into just that. You'll explore some well known sites such as Trafalgar Square, the Royal Opera House and Covent Garden, as well as some lesser known ones along the way. You can find out more information and can book a place on the tour [here](http://www.insider-london.co.uk/tours/quirky-tour/).
 
 Fingers crossed the weather in London stays nice over the break. And if it does, we suggest heading outside to see what [London's Royal Parks](https://www.royalparks.org.uk) have to offer. For those wishing to catch a glimpse of some local deer, Richmond Park is the natural choice. Or if you want to keep it a little more central why not take a stroll around the beautiful Hyde Park, where you can feed the swans in Serpentine Lake or visit the Diana, Princess of Wales Memorial Fountain. 
 
