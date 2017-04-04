@@ -1,5 +1,5 @@
 ---
-title: Easter in London 2017
+title: Easter in London
 date: 2017-04-02 16:21:00 Z
 permalink: "/easter-in-london-2017/"
 layout: post
