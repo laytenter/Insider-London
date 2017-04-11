@@ -5,7 +5,7 @@ categories:
 - blog
 tags:
 - walking tours London
-layout: default
+layout: post
 ---
 
 ![London skyline sunset.jpg](/uploads/London%20skyline%20sunset.jpg)
