@@ -2,7 +2,6 @@
 title: Will London Get Its Garden Bridge?
 date: 2017-04-22 14:51:00 Z
 permalink: london-tours-will-london-get-garden-bridge
-published: false
 categories:
 - blog
 tags:
