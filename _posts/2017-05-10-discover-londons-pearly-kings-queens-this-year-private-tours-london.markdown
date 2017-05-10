@@ -9,6 +9,8 @@ tags:
 layout: post
 ---
 
+/uploads/bigstock-Pearly-Kings-And-Queens-And-Ma-9516110.jpg
+
 While you’re off enjoying private tours of London, you might well spot a few people dressed up to the nines in very interesting outfits, covered with lots of beautiful pearl buttons. These are the Pearly Kings and Queens, an organisation that first started way back in 1875.
 
 It was [started by Henry Croft](http://thepearlies.co.uk/), who was raised in a Victorian workhouse orphanage. He left the orphanage at the tender age of 13, finding work as a road sweeper and rat catcher. The apple sellers working on stalls in local markets soon caught his eye, in particular the outfits they wore which were decorated with a row of pearl buttons down the outside legs of their trousers, as well as on their waistcoats and the fronts of their caps.
