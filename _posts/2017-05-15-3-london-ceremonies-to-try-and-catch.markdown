@@ -1,7 +1,7 @@
 ---
 title: 3 London Ceremonies To Try And Catch
 date: 2017-05-15 11:12:00 Z
-permalink: london-ceremonies-to-try-to-catch-walking-tours-london
+permalink: "/london-ceremonies-to-try-to-catch-walking-tours-london/"
 categories:
 - blog
 tags:
