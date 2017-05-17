@@ -15,4 +15,4 @@ Ans Vaessen, one of the Insider London tour guides, was diagnosed with MS nearly
 \
 If you want to take part and help Ans and Heleen raise £20,000 in just 20 hours all you have to do is [book a tour](https://www.20in20.london/index.html#walks) now. From morning, afternoon and evening walks, to cycle, private and bespoke tours there's something for everyone. There will also be accessible tours throughout the day for those in wheelchairs or with visual impairments.
 
-\
+If you're taking part in this event we would love to hear about it so please do let us know on [Facebook](http://facebook.com/insiderlondon/?fref=ts), [Twitter ](https://twitter.com/insiderlondon)and [Instagram.](https://www.instagram.com/insiderlondontours/)\
