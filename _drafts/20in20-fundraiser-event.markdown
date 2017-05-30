@@ -5,6 +5,8 @@ permalink: "/20in20fundraiserevent/"
 layout: post
 ---
 
+![Untitled design-19.png](/uploads/Untitled%20design-19.png)
+
 Last Thursday we joined 20in20, along with a number of other companies, in raising money and awareness for MS Trust. The aim was to raise  £20,000 for the trust in just 20 hours, by offering guided tours around the London for a small fee.
 
 Ans Vaessen, one of the Insider London tour guides, who was diagnosed with MS nearly ten years ago started this initiative, speaking about the event she said, 
