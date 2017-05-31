@@ -1,7 +1,7 @@
 ---
 title: What Makes Canary Wharf So Special?
 date: 2017-05-31 09:19:00 Z
-permalink: what-makes-caary-wharf-so-special-tours-london-fascinating-history
+permalink: "/what-makes-canary-wharf-so-special-tours-london-fascinating-history/"
 categories:
 - blog
 tags:
