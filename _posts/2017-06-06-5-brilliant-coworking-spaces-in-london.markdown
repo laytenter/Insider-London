@@ -21,6 +21,8 @@ Located on top of Smithfield Market and a ten minute walk away from Old Street's
 
 **5. Rainmaking Loft**
 
+You'll find this trendy coworking space overlooking a marina near the Tower of London and Tower Bridge. It aims to help start up businesses by providing a creative and inspring working environment. You'll also find it's other offices around Europe in Germany's Berlin and Denmark's Copenhagen. 
+
 And if you're interested in knowing more about coworkign spaces and the tech side to London join our [Silicon Roundabout and Tech City ](http://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/)walking tour. Also don't forget to follow us on[Facebook](http://facebook.com/insiderlondon/?fref=ts), [Twitter](https://twitter.com/insiderlondon)and [Instagram ](https://www.instagram.com/insiderlondontours/)to keep up to date with Insider London.
 
 By Sage Fitzpatrick
