@@ -9,9 +9,17 @@ layout: post
 
 London, it's a city of tech-start ups and coworking spaces. For those of you not in the know, coworking is a new style of working- employees share the same environment but work independently from one another. It's said to boost creativity and workers are reportedly happier and more confident. So if you're looking for a coworking space in London here are five of the best.
 
-innovation warehouse
-the collective
-tech hub
+**1. Innovation Warehouse**
+
+Located on top of Smithfield Market and a ten minute walk away from Old Street's Silicon Roundabout, this coworking space has been about since 2010. It's an inncubator and coworking society, which has been home to a number of London's digital start up businesses through the years. 
+
+**2. The Collective**
+
+**3. TechHub**
+
+**4. Huckletree**
+
+**5. Rainmaking Loft**
 
 And if you're interested in knowing more about coworkign spaces and the tech side to London join our [Silicon Roundabout and Tech City ](http://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/)walking tour. Also don't forget to follow us on[Facebook](http://facebook.com/insiderlondon/?fref=ts), [Twitter](https://twitter.com/insiderlondon)and [Instagram ](https://www.instagram.com/insiderlondontours/)to keep up to date with Insider London.
 
