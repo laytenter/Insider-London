@@ -1,7 +1,7 @@
 ---
 title: London – The Museum Capital Of The World!
 date: 2017-06-09 12:27:00 Z
-permalink: "/London The Museum Capital Of The World walking tours in London/"
+permalink: "/london-the-museum-capital-of-the-world/"
 categories:
 - blog
 tags:
