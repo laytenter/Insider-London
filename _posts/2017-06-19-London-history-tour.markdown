@@ -10,6 +10,8 @@ Field name:
 layout: post
 ---
 
+![bigstock--142309118.jpg](/uploads/bigstock--142309118.jpg)
+
 There are a lot of big changes happening in the UK at the moment, and while Brexit is rumbling on, there are now other things to be sorted out in the House of Commons before the UK’s negotiations over leaving the EU can begin properly.
 
 Every sector is likely to be affected by Brexit in one way or another, but one area that could see a raft of changes is London’s banking sector, which is typically associated with the City of London.
