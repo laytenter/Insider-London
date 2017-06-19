@@ -1,5 +1,5 @@
 ---
-title: Interview with Innovation Warehouses Bianca Anason
+title: Interview with Innovation Warehouse's Bianca Anason
 date: 2017-06-19 20:13:00 Z
 permalink: "/interview-with-innovation-warehouses-bianca-anason/"
 layout: post
