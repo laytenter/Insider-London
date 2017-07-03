@@ -48,17 +48,7 @@ layout: page
                 </div>
               </div>
             </div>
-            <div class="vc_col-sm-6 wpb_column vc_column_container ">
-              <div class="wpb_wrapper">
-                <div class="wpb_single_image wpb_content_element vc_align_right">
-                  <div class="wpb_wrapper">
-                    <div class="vc_single_image-wrapper   vc_box_border_grey">
-                      <img width="1425" height="1090" src="/wp-content/uploads/2015/04/barbican.jpg" class="vc_single_image-img attachment-full" alt="barbican" srcset="/wp-content/uploads/2015/04/barbican-300x229.jpg 300w,/wp-content/uploads/2015/04/barbican-1024x783.jpg 1024w, /wp-content/uploads/2015/04/barbican.jpg 1425w" sizes="(max-width: 1425px) 100vw, 1425px" />
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
+
           </div>
         </div>
         </section>
@@ -80,18 +70,6 @@ layout: page
 
         <div class="container">
           <div class="row">
-            <div class="vc_col-sm-4 wpb_column vc_column_container ">
-              <div class="wpb_wrapper">
-                <div class="wpb_single_image wpb_content_element vc_align_left">
-                  <div class="wpb_wrapper">
-                    <div class="vc_single_image-wrapper   vc_box_border_grey">
-                      <img width="768" height="1024" src="/wp-content/uploads/2015/04/Fotolia_6442359_M_2_1024.jpg" class="vc_single_image-img attachment-full" alt="Fotolia_6442359_M_2_1024" srcset="/wp-content/uploads/2015/04/Fotolia_6442359_M_2_1024-225x300.jpg 225w, /wp-content/uploads/2015/04/Fotolia_6442359_M_2_1024.jpg 768w" sizes="(max-width: 768px) 100vw, 768px" />
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
             <div class="vc_col-sm-8 wpb_column vc_column_container ">
               <div class="wpb_wrapper">
                 <div class="vc_custom_heading" >
