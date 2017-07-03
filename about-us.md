@@ -22,7 +22,7 @@ layout: page
                 <div class="wpb_single_image wpb_content_element vc_align_left">
                   <div class="wpb_wrapper">
                     <div class="vc_single_image-wrapper   vc_box_border_grey">
-                      <img width="180" height="139" src="/wp-content/uploads/2015/02/trip-advisor-2014-award.png" class="vc_single_image-img attachment-full" alt="trip-advisor-2017-award" />
+                      <img src="/assets/images/2017_COE_Logos_API_283x286_en-US-UK.jpg" class="vc_single_image-img attachment-full" alt="trip-advisor-2017-award" />
                     </div>
                   </div>
                 </div>
