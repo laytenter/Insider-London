@@ -7,12 +7,12 @@ author: london75
 layout: page
 ---
 
-<!--- Certificate of Excellence --->
+<!-- Certificate of Excellence -->
 <div>
 	<img src="/uploads/2017_COE_Logos_API_178x180_en-US-UK.jpg" alt="Trip Advisor Certificate of Excellence 2017" />
 </div>
 
-<!--- Text --->
+<!-- Text -->
 <div>
 	<h2>Award-Winning London Walking Tours</h2>
 
