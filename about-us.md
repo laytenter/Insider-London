@@ -7,13 +7,13 @@ author: london75
 layout: page
 ---
 
-<section class="wpb\_row block vc\_row-fluid vc\_custom\_1431443762184">
+<section class="wpb_row block vc_row-fluid vc_custom_1431443762184">
 
 <div class="container">
-  <div class="row">
-    <div class="vc_col-sm-12 wpb_column vc_column_container ">
-      <div class="wpb_wrapper">
-        <section class="wpb_row block vc_inner vc_row-fluid">
+<div class="row">
+<div class="vc_col-sm-12 wpb_column vc_column_container ">
+<div class="wpb_wrapper">
+<section class="wpb_row block vc_inner vc_row-fluid">
 
         <div class="container">
           <div class="row">
@@ -26,13 +26,13 @@ layout: page
                     </div>
                   </div>
                 </div>
-
+    
                 <div class="vc_custom_heading" >
                   <h2 style="text-align: left;font-family:Abril Fatface;font-weight:400;font-style:normal" >
                     Award-Winning London Walking Tours
                   </h2>
                 </div>
-
+    
                 <div class="wpb_text_column wpb_content_element ">
                   <div class="wpb_wrapper">
                   <p>
@@ -48,26 +48,26 @@ layout: page
                 </div>
               </div>
             </div>
-
+    
           </div>
         </div>
         </section>
-
+    
         <div class="vc_custom_heading" >
           <h2>
             Meet our Lovely Local Guides      
           </h2>
         </div>
-
+    
         <div class="wpb_text_column wpb_content_element ">
           <div class="wpb_wrapper">
           <p>Each of our walking tours stems from a love of the vibrant and individual neighbourhoods that make up London. Our <a href="/tour-guides">lovely tour guides</a> live in London or on its doorstep and are often part of its creative community, working as artists and performers in the capital. This ensures the details you hear are not only juicy but spot-on accurate too!</p>
-
+    
           <p>We believe that our <a href="/tour-guides">guides'</a> enthusiasm and insider knowledge makes Insider London's tours the best in London (and the fantastic feedback we get from our customers suggests they agree.) So tear up that guide book and let’s unearth the best bits of London!</p>
           </div>
         </div>
         <section class="wpb_row block vc_inner vc_row-fluid">
-
+    
         <div class="container">
           <div class="row">
             <div class="vc_col-sm-8 wpb_column vc_column_container ">
@@ -77,7 +77,7 @@ layout: page
                     Alternative Walking Tours and Unique Educational Tours
                   </h2>
                 </div>
-
+    
                 <div class="wpb_text_column wpb_content_element ">
                   <div class="wpb_wrapper">
                     <p>
@@ -89,10 +89,10 @@ layout: page
                     <p>
                       Our educational guided tours are perfect for corporate events or student groups. These unique tours include an exploration of East London’s Tech hub at Silicon Roundabout and an introduction to London’s coolest modern architecture. If you're keen to discover more about London's dynamic financial and business centre, check out our original in-depth business experience and finance tour based in the bustling City of London. Insider London’s in-depth business visits are incredibly popular, especially among student groups, and involve a behind-the-scenes visit to one of London’s fascinating businesses to hear from the senior management about how the company works.
                     </p>
-
+    
                   </div>
                 </div>
-
+    
                 <div class="vc_custom_heading" >
                   <h2>
                     Bespoke and Tailored Walking Tours
@@ -110,7 +110,7 @@ layout: page
                       We’ve created many weird and wonderful private walking tours in the past. Just let us know what you’re looking for and we can whip one up for you!
                     </p>
                     <p></p>
-
+    
                   </div>
                 </div>
               </div>
@@ -120,16 +120,17 @@ layout: page
         </section>
       </div>
     </div>
-  </div>
+
+</div>
 </div>
 </section>
 <section class="wpb_row block vc_row-fluid">
 
 <div class="container">
-  <div class="row">
-    <div class="vc_col-sm-12 wpb_column vc_column_container ">
-      <div class="wpb_wrapper">
-        <section class="wpb_row block vc_inner vc_row-fluid">
+<div class="row">
+<div class="vc_col-sm-12 wpb_column vc_column_container ">
+<div class="wpb_wrapper">
+<section class="wpb_row block vc_inner vc_row-fluid">
 
         <div class="container">
           <div class="row">
@@ -142,13 +143,13 @@ layout: page
                     </div>
                   </div>
                 </div>
-
+    
                 <div class="vc_custom_heading" >
                   <h2>
                     Alternative London Tours
                   </h2>
                 </div>
-
+    
                 <div class="wpb_text_column wpb_content_element ">
                   <div class="wpb_wrapper">
                     <p>
@@ -156,15 +157,15 @@ layout: page
                     </p>
                   </div>
                 </div>
-
+    
                 <div class="vc_btn3-container vc_btn3-inline">
                   <a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-modern vc_btn3-color-grey"
-	     href="/alternative-london-tours"
-	     title="">Read More</a>
+         href="/alternative-london-tours"
+         title="">Read More</a>
                 </div>
               </div>
             </div>
-
+    
             <div class="vc_col-sm-4 wpb_column vc_column_container ">
               <div class="wpb_wrapper">
                 <div class="wpb_single_image wpb_content_element vc_align_center">
@@ -174,13 +175,13 @@ layout: page
                     </div>
                   </div>
                 </div>
-
+    
                 <div class="vc_custom_heading" >
                   <h2 style="text-align: left;font-family:Abril Fatface;font-weight:400;font-style:normal" >
                     Corporate Events
                   </h2>
                 </div>
-
+    
                 <div class="wpb_text_column wpb_content_element ">
                   <div class="wpb_wrapper">
                     <p>
@@ -188,14 +189,14 @@ layout: page
                     </p>
                   </div>
                 </div>
-
+    
                 <div class="vc_btn3-container vc_btn3-inline">
                   <a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-modern vc_btn3-color-grey"
-	     href="/corporate-events/">Read more...</a>
+         href="/corporate-events/">Read more...</a>
                 </div>
               </div>
             </div>
-
+    
             <div class="vc_col-sm-4 wpb_column vc_column_container ">
               <div class="wpb_wrapper">
                 <div class="wpb_single_image wpb_content_element vc_align_center">
@@ -205,13 +206,13 @@ layout: page
                     </div>
                   </div>
                 </div>
-
+    
                 <div class="vc_custom_heading" >
                   <h2 style="text-align: left;font-family:Abril Fatface;font-weight:400;font-style:normal" >
                     Private Party Packages
                   </h2>
                 </div>
-
+    
                 <div class="wpb_text_column wpb_content_element ">
                   <div class="wpb_wrapper">
                     <p>
@@ -219,19 +220,18 @@ layout: page
                     </p>
                   </div>
                 </div>
-
+    
                 <div class="vc_btn3-container vc_btn3-inline">
                   <a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-modern vc_btn3-color-grey"
-	     href="/special-occasions/"
-	     title=""
-	     target="_self"
-	>Read More</a>
-                </div>
-              </div>
+         href="/special-occasions/"
+         title=""
+         target="_self"
+    >Read More</a>
             </div>
           </div>
         </div></section>
       </div>
     </div>
-  </div>
+
+</div>
 </div></section>
