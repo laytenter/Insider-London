@@ -9,7 +9,7 @@ layout: page
 
 <!--- Certificate of Excellence --->
 <div>
-	<img src="/assets/images/2017_COE_Logos_API_178x180_en-US-UK.jpg" alt="Trip Advisor Certificate of Excellence 2017" />
+	<img src="/uploads/2017_COE_Logos_API_178x180_en-US-UK.jpg" alt="Trip Advisor Certificate of Excellence 2017" />
 </div>
 
 <!--- Text --->
