@@ -1,5 +1,5 @@
 ---
-title: The Death and Debauchery Tour
+title: Death and Debauchery Tour
 date: 2004-01-01 10:58:00 Z
 categories:
 - hidden
