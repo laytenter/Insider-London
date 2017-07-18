@@ -9,6 +9,8 @@ tags:
 layout: post
 ---
 
+![bigstock-London-At-Sunset-yellow-sun-l-131894576.jpg](/uploads/bigstock-London-At-Sunset-yellow-sun-l-131894576.jpg)
+
 London’s ever-evolving street art scene is set to take on a new charitable project as a local arts organisation sets up a campaign involving homeless people.
 
 [The Big Issue reports](https://www.bigissue.com/news/street-art-project-aims-capture-homeless-voices/) that East London arts organisation Made Public - which has links to renowned street artist Ben Eine - has launched a crowdfunding campaign for a new street art campaign that illustrates the stories of local homeless people. 
