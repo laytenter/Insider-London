@@ -11,7 +11,7 @@ Image credit: [Flickr/Jimmy Baikovicius](https://www.flickr.com/photos/jikatu/33
 
 During the [World Architecture Festival ](https://www.worldarchitecturefestival.com/)people from across the globe gather to decide upon some of the best buildings in the world. These range from completed buildings, as well as those future projects from a range of categories. This year marks the tenth year of the festival and the shortlist of contenders for the World Building of the Year 2017 have now been announced. And here are just four of our favourites.
 
-**1. The Smile (London, United Kingdom) **Who could have guessed that one of our favourite buildings from the list turned out to be from London? The Smile created by Allison Brooks Architects, was originally revealed as part of the London Design Festival- which takes place every year. The material made to erect the building- American Tulipwood, is said to be stronger than concrete.
+**1. The Smile (London, United Kingdom)** Who could have guessed that one of our favourite buildings from the list turned out to be from London? The Smile created by Allison Brooks Architects, was originally revealed as part of the London Design Festival- which takes place every year. The material made to erect the building- American Tulipwood, is said to be stronger than concrete.
 
 **2. Urban Digger (Copenhagen, Denmark)** Created by BIG (Bjarke Ingels Group) the Urban Rigger is a property made from shipping containers, very similar to BoxPark in London. This carbon neutral property provides affordable and sustainable homes for university students.
 
