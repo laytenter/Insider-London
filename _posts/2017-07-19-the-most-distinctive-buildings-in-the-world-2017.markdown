@@ -5,7 +5,7 @@ permalink: "/the-most-distinctive-buildings-in-the-world-2017/"
 layout: post
 ---
 
-![Untitled design (3).png](/uploads/Untitled%20design%20(3).png)
+![Untitled design (3)-4105b0.png](/uploads/Untitled%20design%20(3)-4105b0.png)
 
 Image credit: [Flickr/Jimmy Baikovicius](https://www.flickr.com/photos/jikatu/33694064563/in/photolist-TkqTvD-9hND5W-TgWRcf-TjNb3v-qdR6ym-uk3rf-qe3XpR-qdRUj7-qdRUp7-qt8xD9/)
 
