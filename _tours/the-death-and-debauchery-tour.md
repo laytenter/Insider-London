@@ -23,26 +23,34 @@ related:
 layout: tour
 ---
 
-<p class="lede">The days are getting colder and evening is creeping in earlier, but there is still much to be found in London town! The history of London is riddled with death and debauchery, and such topics have always caught the interest of Londoners and visitors alike. On Insider London’s Death and Debauchery Tour, you will hear stories of famous murders, executions, ghostly happenings and lecherous coffeehouses whilst walking through atmospheric streets and popping into historical pub treasures for a bit of warmth.</p>
+<p>The history of London is riddled with death and debauchery, and such topics have always caught the interest of both Londoners and visitors.  Insider London’s Death and Debauchery Tour is a walking tour that will leave you reeling after two hours of recounting famous murders, executions, ghostly happenings, and lecherous coffeehouses. </p>
 
-Left aghast we are with thoughts of crowds pushing and shoving to see a ‘good hanging’ and yet here you are in search of a tour with such tales! We will even visit a pub jewel which stands on the site where the condemned would enjoy their last drink. Look no further, for The Death and Debauchery Tour will bring back to life the hard streets of London and the despicable lengths people would go to just to see another day.
+<p>Left aghast we are with thoughts of crowds pushing and shoving to see a ‘good hanging’ and yet here you are in search of a walking tour with such tales!  Look no further, for Death and Debauchery Tour will bring back to life the hard streets of London and the despicable lengths people would go to just to see another day.</p>
 
-##Highlights
+\##Highlights
 
 On this tour you will:
 
-- A walking tour through the ‘great square of Venus’, according to Sir John Fielding.
-- The story of a young criminal whose name was banned from all London theatrical works for over 40 years after his death.
-- One of the most haunted theatres in the West End and its connection to a lover of Charles II.
-- A vivid description of the punishments for high treason, for both men and women, and the sites on which they took place.
-- The descriptive annual guide offering the ‘who, where, and how’ to London’s debauchery.
-- Visit pubs which witnessed some of the horrors discussed and were the watering holes for some of London’s darker characters.
+* A walking tour through the ‘great square of Venus’, according to Sir John Fielding. 
 
-The Death and Debauchery Tour is a ‘Winter Warmer’, a walking tour which spends half the time in the streets and the other half in atmospheric pubs. Your Insider guide will open your eyes to the horrors that once engulfed the city, covering the horrid, grotesque, provocative and sometimes laughable stories of London’s most well-known streets. Escaping the wintry chill, treat yourself to a nice ale in some of London’s historic pubs as we make our way through the centuries.
+* The story of a young criminal whose name was banned from all London theatrical works for over 40 years after his death.
+
+* A visit to one of the many plague pits of London and the site of the city’s earliest leper hospital.
+
+* One of the most haunted theatres in the West End and its connection to a lover of Charles II.
+
+* A vivid description of the punishments for high treason, for both men and women, and the sites on which they took place.
+
+* The descriptive annual guide offering the ‘who, where, and how’ to London’s debauchery
+
+
+<p>Strolling through the heart of London, your Insider guide will open your eyes to the death and debauchery that once engulfed the city.  The tour visits the grounds of the old Rookery, the famous Covent Garden and its neighbouring streets.  Today the piazza is filled with lovely shops and theatres that have people traveling across the world for their wares; one may be surprised to hear what visitors of days gone by would come looking for in the market.</p>
+
+<p>Death and Debauchery Tour will cover the horrid, grotesque, provocative and sometimes laughable stories of London’s most well-known streets.</p>
 
 <img width="693" height="1024" src="/wp-content/uploads/2015/05/Death-and-Debauchery-print-2-693x1024.jpg" class="vc_single_image-img attachment-large" alt="Death and Debauchery print 2" srcset="/wp-content/uploads/2015/05/Death-and-Debauchery-print-2-203x300.jpg 203w, /wp-content/uploads/2015/05/Death-and-Debauchery-print-2-693x1024.jpg 693w, /wp-content/uploads/2015/05/Death-and-Debauchery-print-2.jpg 1353w" sizes="(max-width: 693px) 100vw, 693px" />
 
-###What you need to know
+\###What you need to know
 
 **Where do we meet?**
 
@@ -54,9 +62,11 @@ Approximately two hours
 
 **Price:**
 
-- Adult: £12
-- Child (under age 12): £10
-- Senior (60+): £10
+* Adult: £12
+
+* Child (under age 12): £10
+
+* Senior (60\+): £10
 
 **When does the tour run?**
 
