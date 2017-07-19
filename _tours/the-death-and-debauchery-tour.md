@@ -27,7 +27,7 @@ layout: tour
 
 <p>Left aghast we are with thoughts of crowds pushing and shoving to see a ‘good hanging’ and yet here you are in search of a walking tour with such tales!  Look no further, for Death and Debauchery Tour will bring back to life the hard streets of London and the despicable lengths people would go to just to see another day.</p>
 
-<h2>Highlights</h2>
+**Highlights**
 
 On this tour you will:
 
