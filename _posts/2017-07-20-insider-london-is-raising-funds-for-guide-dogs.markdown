@@ -3,6 +3,8 @@ title: Insider London is raising funds for Guide Dogs
 date: 2017-07-20 20:17:00 Z
 ---
 
+![GuideDogPuppy.jpg](/uploads/GuideDogPuppy.jpg)
+
 We are excited to announce that we have partnered with the **[Guide Dogs for the Blind Association](http://www.guidedogs.org.uk)** in order to raise at least £700 for them! At Insider London, we love to show people the more unusual sides of London. We also believe in the concept of an inclusive society, where everyone can enjoy exploring this wonderful City freely. That’s why we’re very happy to support Guide Dogs in their aim for equal mobility of people with sight loss!
 
 This August, we will run four special tours, the proceeds of which will fully go to Guide Dogs. In order to raise as much money as possible, **we have something special up our sleeves**: Normally, our educational tours are only available to private parties. For this fundraiser, we have decided to open up two very popular educational tours for individual guests as well!
