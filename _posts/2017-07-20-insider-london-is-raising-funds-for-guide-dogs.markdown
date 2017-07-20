@@ -9,9 +9,13 @@ We are excited to announce that we have partnered with the **[Guide Dogs for the
 This August, we will run four special tours, the proceeds of which will fully go to Guide Dogs. In order to raise as much money as possible, **we have something special up our sleeves**: Normally, our educational tours are only available to private parties. For this fundraiser, we have decided to open up two very popular educational tours for individual guests as well!
 
 If you are interested in booking, please get in touch with Jonas at [jonas@insider-london.co.uk](mailto:jonas@insider-london.co.uk). The tours are:
-* 19th August, 2pm - The hidden history of the [London Underground and Tube](http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/) 
+
+* 19th August, 2pm - The hidden history of the [London Underground and Tube](http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/)
+
 * 20th August, 2pm - The [Death and Debauchery Tour](http://www.insider-london.co.uk/tours/the-death-and-debauchery-tour/) through London’s darker past
+
 * 26th August, 2pm - The [Silicon Roundabout Tour](http://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/) around Shoreditch’s start-up scene
+
 * 27th August, 2pm - The [City of London Finance Tour](http://www.insider-london.co.uk/tours/london-finance-walking-tour/)
 
 ## What is Guide Dogs
