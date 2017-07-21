@@ -1,6 +1,8 @@
 ---
 title: Insider London is raising funds for Guide Dogs
 date: 2017-07-20 20:17:00 Z
+permalink: "/insider-london-is-raising-funds-for-guide-dogs/"
+layout: post
 ---
 
 ![GuideDogPuppy.jpg](/uploads/GuideDogPuppy.jpg)
@@ -27,6 +29,6 @@ Guide Dogs is a charity that aims to provide people with sight loss with the sup
 
 We wholeheartedly believe that this world is for everyone. In September, a team of Guide Dogs employees and supporters will tackle the Coniston Challenge, a fundraising challenge that will take them to the Lake District to hike, cycle and kayak a total of more than 22km. They do this to raise awareness for their cause and funds for their charity. We are impressed by their dedication and passion, and will support them.
 
-If you are interested in booking or have any questions, please get in touch with our Jonas at [jonas@insider-london.co.uk](mailto:jonas@insider-london.co.uk). If you like what we’re doing, please make sure to follow us on [Facebook](http://www.facebook.com/insiderlondon), [Twitter](https://twitter.com/insiderlondon) and [Instagram](https://www.instagram.com/insiderlondontours/). 
+If you are interested in booking or have any questions, please get in touch with our Jonas at [jonas@insider-london.co.uk](mailto:jonas@insider-london.co.uk). If you like what we’re doing, please make sure to follow us on [Facebook](http://www.facebook.com/insiderlondon), [Twitter](https://twitter.com/insiderlondon) and [Instagram](https://www.instagram.com/insiderlondontours/).
 
 For more information on the Coniston Challenge, please visit the team’s fundraising page at [http://uk.virginmoneygiving.com/TheInsiders](http://uk.virginmoneygiving.com/TheInsiders).

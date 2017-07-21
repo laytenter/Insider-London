@@ -4,7 +4,6 @@ date: 2017-06-30 13:26:00 Z
 permalink: "/the-biggest-city-zip-wire-coming-to-london/"
 categories:
 - blog
-Field name: 
 layout: post
 ---
 
