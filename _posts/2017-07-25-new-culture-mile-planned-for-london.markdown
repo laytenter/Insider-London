@@ -11,7 +11,7 @@ layout: post
 
 ![bigstock-London-Guildhall-And-Guildhall-36879619.jpg](/uploads/bigstock-London-Guildhall-And-Guildhall-36879619.jpg)
 
-Plans have been unveiled to create a ‘Culture Mile’ in London’s Square Mile, with the City of London Corporation working with the Barbican, Guildhall School of Music & Drama, London Symphony Orchestra, and Museum of London.
+Plans have been unveiled to create a ‘Culture Mile’ in London’s Square Mile, with the [City of London Corporation](http://news.cityoflondon.gov.uk/culture-mile--a-major-destination-for-culture-and-creativity-in-the-heart-of-the-square-mile/) working with the Barbican, Guildhall School of Music & Drama, London Symphony Orchestra, and Museum of London.
 
 The aim is to transform the Square Mile into “a vibrant cultural area” that will foster creative exchange and cultural collaboration. The so-called Culture Mile is set to stretch from Farringdon to Moorgate and will feature three new building projects.
 
