@@ -18,14 +18,13 @@ While we are unsure of the existence of ghosts, there have indeed been a number 
 
 But there are still a number of myths that abound that are just not true, so read on to become an expert in this mysterious 1,000 year old building. 
 
-**1. It was used for torture**
+**It was used for torture**
 While Guy Fawkes and other people involved in the gunpowder plot were tortured in the Tower, very few, if any others were. There wasn’t much torture carried out in the UK, with it technically being illegal in England since the dark ages. Most torture carried out was sanctioned by the Church, who didn’t usually hold their prisoners in the Tower. 
 
 There is a ‘dungeon’ display at the Tower, but as you will learn if you visit, only the most politically significant prisoners went to the Tower, and they were treated comparably well. 
-**
-2. If the ravens will leave the Tower, London will fall**
-Though this is a well known myth, and some claim it to originate from the time of Charles II it is likely to be a Victorian flight of fancy rather than old mythology.
-**
-3. Polar bears went fishing in the Thames**
-Though many animals have been kept as part of the royal menagerie at the Tower of London, there is actually no record of a polar bear being kept there.  
 
+**If the ravens will leave the Tower, London will fall**
+Though this is a well known myth, and some claim it to originate from the time of Charles II it is likely to be a Victorian flight of fancy rather than old mythology.
+
+**Polar bears went fishing in the Thames**
+Though many animals have been kept as part of the royal menagerie at the Tower of London, there is actually no record of a polar bear being kept there.  
