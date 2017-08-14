@@ -18,8 +18,6 @@ related:
 layout: tour
 ---
 
-##Silicon Roundabout and Tech City – London Walking Tour
-
 <p class="lede">The UK’s Digital industry is booming. It’s epicentre – an unassuming roundabout in East London.
 </p>
 
