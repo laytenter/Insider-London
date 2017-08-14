@@ -23,6 +23,11 @@ related:
 layout: tour
 ---
 
+### Special: Book a tour and support charity
+On **Sunday, 20th August, 2pm** we will run a special Death and Debauchery Tour, the revenue of which will fully go to the **Guide Dogs for the Blind Association**. Please contact [jonas@insider-london.co.uk](mailto:jonas@insider-london.co.uk) for booking (please do not use the on-page booking system, otherwise it won't contribute to the fundraiser). For more information on the fundraiser, please visit our blog at [http://www.insider-london.co.uk/insider-london-is-raising-funds-for-guide-dogs/](http://www.insider-london.co.uk/insider-london-is-raising-funds-for-guide-dogs/).
+
+## The Tour
+
 <p>The history of London is riddled with death and debauchery, and such topics have always caught the interest of both Londoners and visitors.  Insider London’s Death and Debauchery Tour is a walking tour that will leave you reeling after two hours of recounting famous murders, executions, ghostly happenings, and lecherous coffeehouses. </p>
 
 <p>Left aghast we are with thoughts of crowds pushing and shoving to see a ‘good hanging’ and yet here you are in search of a walking tour with such tales!  Look no further, for Death and Debauchery Tour will bring back to life the hard streets of London and the despicable lengths people would go to just to see another day.</p>
