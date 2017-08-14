@@ -25,11 +25,16 @@ layout: tour
 
 Travel across 150 years in just two hours aboard our awesome London Underground and Tube Tour!
 
+## Special: Book a tour and support charity - Guide Dogs Fundraiser
+If you're interested in booking a London Underground and Tube Tour and support charity, on Saturday, 19th August, 2pm we will run a special fundraising tour for the Guide Dogs for the Blind Association. Please contact [jonas@insider-london.co.uk](mailto:jonas@insider-london.co.uk) for booking (please do not use the on page booking system, otherwise it won't contribute to the fundraiser). For more information on the fundraiser, please visit our blog at [http://www.insider-london.co.uk/insider-london-is-raising-funds-for-guide-dogs/](http://www.insider-london.co.uk/insider-london-is-raising-funds-for-guide-dogs/)
+
+## The Tour
+
 Starting at London's first ever underground station and finishing at one of London's futuristic space-age tube stations, you'll hear first-hand the captivating twists and turns of the Tube's history on this fun, fact-packed two-hour tour.
 
 The London Underground Tour takes you under the skin of the world's oldest and most iconic underground system. From learning about the Tube's origins, construction and design, to catching a glimpse of one of London's abandoned 'ghost stations', our experienced tour guides will illuminate another side of the London Underground network.
 
-##Highlights
+## Highlights
 
 On this tour you will:
 
