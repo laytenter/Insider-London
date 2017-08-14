@@ -20,6 +20,11 @@ layout: tour
 
 <p class="lede">The City of London is a leading financial hub and home to some of the biggest banking and insurance institutions in the world.</p>
 
+### Special: Book a tour and support charity
+On **Sunday, 27th August, 2pm** we will run a special London Finance Tour, the revenue of which will fully go to the **Guide Dogs for the Blind Association**. Please contact [jonas@insider-london.co.uk](mailto:jonas@insider-london.co.uk) for booking (please do not use the on-page booking system, otherwise it won't contribute to the fundraiser). For more information on the fundraiser, please visit our blog at [http://www.insider-london.co.uk/insider-london-is-raising-funds-for-guide-dogs/](http://www.insider-london.co.uk/insider-london-is-raising-funds-for-guide-dogs/).
+
+## The Tour
+
 Join us on our award-winning walking tour of The City as we take you on a fascinating journey to discover the origins of London’s financial centre &#8211; from its humble beginnings in 17<sup>th</sup> century coffee houses to its ancient and unusual governance and voting system that’s still in use today.
 
 Starting at Panyer Alley, our expert guide will show you how the City of London developed into a global financial centre, taking in key buildings such as, the London Stock Exchange, Guildhall, the Bank of England, Lloyds of London and Rothschild’s, before finishing at Willis, the world’s oldest insurance broker.
