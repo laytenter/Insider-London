@@ -24,7 +24,7 @@ layout: tour
 The original London Underground and Tube Tour: Travel across 150 years in just two hours aboard our awesome London Underground and Tube Tour!
 
 ### Special: Book a tour and support charity
-On **Saturday, 19th August, 2pm** we will run a special London Underground and Tube Tour, the revenue of which will fully go to the **Guide Dogs for the Blind Association**. Please contact [jonas@insider-london.co.uk](mailto:jonas@insider-london.co.uk) for booking (please do not use the on page booking system, otherwise it won't contribute to the fundraiser). For more information on the fundraiser, please visit our blog at [http://www.insider-london.co.uk/insider-london-is-raising-funds-for-guide-dogs/](http://www.insider-london.co.uk/insider-london-is-raising-funds-for-guide-dogs/).
+On **Saturday, 19th August, 2pm** we will run a special London Underground and Tube Tour, the revenue of which will fully go to the **Guide Dogs for the Blind Association**. Please contact [jonas@insider-london.co.uk](mailto:jonas@insider-london.co.uk) for booking (please do not use the on-page booking system, otherwise it won't contribute to the fundraiser). For more information on the fundraiser, please visit our blog at [http://www.insider-london.co.uk/insider-london-is-raising-funds-for-guide-dogs/](http://www.insider-london.co.uk/insider-london-is-raising-funds-for-guide-dogs/).
 
 ## The Tour
 
