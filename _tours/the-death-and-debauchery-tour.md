@@ -24,7 +24,7 @@ layout: tour
 ---
 
 ### Special: Book a tour and support charity
-On **Sunday, 20th August, 2pm** we will run a special Death and Debauchery Tour, the revenue of which will fully go to the **Guide Dogs for the Blind Association**. Please contact [jonas@insider-london.co.uk](mailto:jonas@insider-london.co.uk) for booking (please do not use the on-page booking system, otherwise it won't contribute to the fundraiser) or more information. You can also read more about the fundraiser on our blog at [http://www.insider-london.co.uk/insider-london-is-raising-funds-for-guide-dogs/](http://www.insider-london.co.uk/insider-london-is-raising-funds-for-guide-dogs/).
+**Still spaces left:** On **Sunday, 20th August, 2pm** we will run a special Death and Debauchery Tour, the revenue of which will fully go to the **Guide Dogs for the Blind Association**. Please contact [jonas@insider-london.co.uk](mailto:jonas@insider-london.co.uk) for booking (please do not use the on-page booking system, otherwise it won't contribute to the fundraiser) or more information. You can also read more about the fundraiser on our blog at [http://www.insider-london.co.uk/insider-london-is-raising-funds-for-guide-dogs/](http://www.insider-london.co.uk/insider-london-is-raising-funds-for-guide-dogs/).
 
 ## The Tour
 
