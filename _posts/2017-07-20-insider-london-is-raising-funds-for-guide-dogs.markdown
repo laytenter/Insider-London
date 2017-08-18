@@ -13,8 +13,8 @@ We are excited to announce that we have partnered with the **[Guide Dogs for the
 <h3>Special Announcement</h3>
 <p>Due to popular demand, we have added two more London Underground and Tube Tours to the fundraiser. The available tours now are:</p>
 <ul>
-<li>Sat, 19 Aug, 11am - The <a href="http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a></li>
-<li>Sat, 19 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a></li>
+<li>Sat, 19 Aug, 11am - The <a href="http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a> <strong>(sold out)</strong></li>
+<li>Sat, 19 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a> <strong>(sold out)</strong></li>
 <li>Sun, 20 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/the-death-and-debauchery-tour/">Death and Debauchery Tour</a></li>
 <li>Sat, 26 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/">Silicon Roundabout and Tech City Tour</a></li>
 <li>Sun, 27 Aug, 11am - The <a href="http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a></li>
