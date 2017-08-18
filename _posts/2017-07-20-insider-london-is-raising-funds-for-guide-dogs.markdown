@@ -7,7 +7,23 @@ layout: post
 
 ![GuideDogPuppy.jpg](/uploads/GuideDogPuppy.jpg)
 
-We are excited to announce that we have partnered with the **[Guide Dogs for the Blind Association](http://www.guidedogs.org.uk)** in order to raise at least £700 for them! At Insider London, we love to show people the more unusual sides of London. We also believe in the concept of an inclusive society, where everyone can enjoy exploring this wonderful City freely. That’s why we’re very happy to support Guide Dogs in their aim for equal mobility of people with sight loss!
+We are excited to announce that we have partnered with the **[Guide Dogs for the Blind Association](http://www.guidedogs.org.uk)** in order to raise at least £700 for them! 
+
+<div style="padding: .5em; border: .35em solid #EE3348;">
+<h3>Special Announcement</h3>
+<p>Due to popular demand, we have added two more London Underground and Tube Tours to the fundraiser. The available tours now are:</p>
+<ul>
+<li>Sat, 19 Aug, 11am - The <a href="http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a></li>
+<li>Sat, 19 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a></li>
+<li>Sun, 20 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/the-death-and-debauchery-tour/">Death and Debauchery Tour</a></li>
+<li>Sat, 26 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/">Silicon Roundabout and Tech City Tour</a></li>
+<li>Sun, 27 Aug, 11am - The <a href="http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a></li>
+<li>Sun, 27 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/london-finance-walking-tour/">City of London Finance Tour</a></li>
+</ul>
+<p>Please contact <a href="mailto:jonas@insider-london.co.uk">jonas@insider-london.co.uk</a> for booking (please do not use the on-page booking system, otherwise it won’t contribute to the fundraiser) or more information. You can also read more about the fundraiser on our <a href="http://www.insider-london.co.uk/insider-london-is-raising-funds-for-guide-dogs/">blog here</a>.</p>
+</div>
+
+At Insider London, we love to show people the more unusual sides of London. We also believe in the concept of an inclusive society, where everyone can enjoy exploring this wonderful City freely. That’s why we’re very happy to support Guide Dogs in their aim for equal mobility of people with sight loss!
 
 This August, we will run four special tours, the proceeds of which will fully go to Guide Dogs. In order to raise as much money as possible, **we have something special up our sleeves**: Normally, our educational tours are only available to private parties. For this fundraiser, we have decided to open up two very popular educational tours for individual guests as well!
 
