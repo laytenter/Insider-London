@@ -11,7 +11,7 @@ layout: tour
 
 Tour of Canary Wharf – the New Finance Centre of London takes you around and inside the amazing development that is east London’s most pivotal, and important, business district CANARY WHARF. 
 
-<div style="padding: .5em; border: .5em solid #EE3348;">
+<div style="padding: .5em; border: .35em solid #EE3348;">
 <h3>Special: Book a tour and support charity</h3>
 <p>We're currently running specific tours, the revenue of which will fully go to the <strong>Guide Dogs for the Blind Association</strong>. The tours are:</p>
 <ul>
