@@ -11,6 +11,20 @@ layout: tour
 
 Tour of Canary Wharf – the New Finance Centre of London takes you around and inside the amazing development that is east London’s most pivotal, and important, business district CANARY WHARF. 
 
+<div style="padding: .5em; border: .5em solid #EE3348;">
+<h3>Special: Book a tour and support charity</h3>
+<p>We're currently running specific tours, the revenue of which will fully go to the <strong>Guide Dogs for the Blind Association</strong>. The tours are:</p>
+<ul>
+<li>Sat, 19 Aug, 11am - The <a href="http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a></li>
+<li>Sat, 19 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a></li>
+<li>Sun, 20 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/the-death-and-debauchery-tour/">Death and Debauchery Tour</a></li>
+<li>Sat, 26 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/">Silicon Roundabout and Tech City Tour</a></li>
+<li>Sun, 27 Aug, 11am - The <a href="http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a></li>
+<li>Sun, 27 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/london-finance-walking-tour/">City of London Finance Tour</a></li>
+</ul>
+<p>Please contact <a href="mailto:jonas@insider-london.co.uk">jonas@insider-london.co.uk</a> for booking (please do not use the on-page booking system, otherwise it won’t contribute to the fundraiser) or more information. You can also read more about the fundraiser on our <a href="http://www.insider-london.co.uk/insider-london-is-raising-funds-for-guide-dogs/">blog here</a>.</p>
+</div>
+
 After the traditional City of London, Canary Wharf is the second main financial centre within the United Kingdom and contains many of Europe's tallest buildings, including the second-tallest in the UK - One Canada Square. 
 
 Whilst mighty on its effects on the UK and European economy Canary Wharf is contained in a relatively small area, an area which represents a fascinating example of on-going urban regeneration. The fact is over the last 30 years Canary Wharf has been transformed from a run-down disregarded part of London to become one of the world’s leading financial centres. Comprising originally of nothing more than unwanted marshland and redundant nineteenth century docks Canary Wharf now boast some of the most expensive real-estate in the world. 
