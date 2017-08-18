@@ -18,7 +18,7 @@ related:
 layout: tour
 ---
 
-##A Masterclass in Merchandising
+## A Masterclass in Merchandising
 <p>Are you seeking design inspiration for your enterprise? Or maybe you want to sample the coolest and most luxurious shops London has to offer? Award-winning Insider London’s tour of beautiful and unusual hand-picked retail spaces is the ultimate masterclass in shopping, store design and visual merchandising.</p>
 
 <div style="padding: .5em; border: .35em solid #EE3348;">
