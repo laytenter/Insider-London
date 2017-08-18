@@ -11,6 +11,8 @@ layout: tour
 
 Tour of Canary Wharf – the New Finance Centre of London takes you around and inside the amazing development that is east London’s most pivotal, and important, business district CANARY WHARF. 
 
+<div style="background: red; font-color: white">This is a test field.</div>
+
 After the traditional City of London, Canary Wharf is the second main financial centre within the United Kingdom and contains many of Europe's tallest buildings, including the second-tallest in the UK - One Canada Square. 
 
 Whilst mighty on its effects on the UK and European economy Canary Wharf is contained in a relatively small area, an area which represents a fascinating example of on-going urban regeneration. The fact is over the last 30 years Canary Wharf has been transformed from a run-down disregarded part of London to become one of the world’s leading financial centres. Comprising originally of nothing more than unwanted marshland and redundant nineteenth century docks Canary Wharf now boast some of the most expensive real-estate in the world. 
