@@ -23,8 +23,8 @@ layout: tour
 
 The original London Underground and Tube Tour: Travel across 150 years in just two hours aboard our awesome London Underground and Tube Tour!
 <div style="padding: .5em; border: .35em solid #EE3348;">
-<h3>Special Announcement</h3>
-<p>Due to popular demand, we have added two more London Underground and Tube Tours to the fundraiser. The available tours now are:</p>
+<h3>Special: Book a tour and support charity</h3>
+<p>We're currently running specific tours, the revenue of which will fully go to the <a href="http://www.guidedogs.org.uk/"><strong>Guide Dogs for the Blind Association</strong></a>. The tours are</p>
 <ul>
 <li>Sat, 19 Aug, 11am - The <a href="http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a> <strong>(sold out)</strong></li>
 <li>Sat, 19 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a> <strong>(sold out)</strong></li>
