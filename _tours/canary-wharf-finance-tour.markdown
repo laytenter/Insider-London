@@ -13,7 +13,7 @@ Tour of Canary Wharf – the New Finance Centre of London takes you around and i
 
 <div style="padding: .5em; border: .35em solid #EE3348;">
 <h3>Special: Book a tour and support charity</h3>
-<p>We're currently running specific tours, the revenue of which will fully go to the <strong>Guide Dogs for the Blind Association</strong>. The tours are:</p>
+<p>We're currently running specific tours, the revenue of which will fully go to the <a href="http://www.guidedogs.org.uk/"><strong>Guide Dogs for the Blind Association</strong></a>. The tours are:</p>
 <ul>
 <li>Sat, 19 Aug, 11am - The <a href="http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a></li>
 <li>Sat, 19 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a></li>
