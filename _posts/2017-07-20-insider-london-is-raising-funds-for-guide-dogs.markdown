@@ -20,7 +20,7 @@ We are excited to announce that we have partnered with the **[Guide Dogs for the
 <li>Sun, 27 Aug, 11am - The <a href="http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a></li>
 <li>Sun, 27 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/london-finance-walking-tour/">City of London Finance Tour</a></li>
 </ul>
-<p>Please contact <a href="mailto:jonas@insider-london.co.uk">jonas@insider-london.co.uk</a> for booking (please do not use the on-page booking system, otherwise it won’t contribute to the fundraiser) or more information. You can also read more about the fundraiser on our <a href="http://www.insider-london.co.uk/insider-london-is-raising-funds-for-guide-dogs/">blog here</a>.</p>
+<p>Please contact <a href="mailto:jonas@insider-london.co.uk">jonas@insider-london.co.uk</a> for booking (please do not use the on-page booking system, otherwise it won’t contribute to the fundraiser) or more information. You can also read more about the fundraiser in the article below.</p>
 </div>
 
 At Insider London, we love to show people the more unusual sides of London. We also believe in the concept of an inclusive society, where everyone can enjoy exploring this wonderful City freely. That’s why we’re very happy to support Guide Dogs in their aim for equal mobility of people with sight loss!
