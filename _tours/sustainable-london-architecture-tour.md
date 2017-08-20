@@ -23,9 +23,6 @@ layout: tour
 <h3>Special: Book a tour and support charity</h3>
 <p>We're currently running specific tours, the revenue of which will fully go to the <a href="http://www.guidedogs.org.uk/"><strong>Guide Dogs for the Blind Association</strong></a>. The tours are:</p>
 <ul>
-<li>Sat, 19 Aug, 11am - The <a href="http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a> <strong>(sold out)</strong></li>
-<li>Sat, 19 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a> <strong>(sold out)</strong></li>
-<li>Sun, 20 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/the-death-and-debauchery-tour/">Death and Debauchery Tour</a> <strong>(sold out)</strong></li> 
 <li>Sat, 26 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/">Silicon Roundabout and Tech City Tour</a> (£20 pp; con £12)</li>
 <li>Sun, 27 Aug, 11am - The <a href="http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a> (£20 pp; con £12)</li>
 <li>Sun, 27 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/london-finance-walking-tour/">City of London Finance Tour</a> (£20 pp; con £12)</li>
