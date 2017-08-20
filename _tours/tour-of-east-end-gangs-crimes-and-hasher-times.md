@@ -21,7 +21,7 @@ layout: tour
 
 <p class="lede">The days are getting colder and evening is creeping in earlier, but there is still much to be found in London town, especially the famous East End. Insider London would like to take you into the depths of the East End of London and its incredible history on the <em>East End: Gangs, Crimes and Harsher Times </em>walking tour. The East End is more than Street Art and Jack the Ripper murder sites, it has been coloured by the numerous waves of immigrants who made the area their home. This part of London was notoriously stricken with poverty for centuries which resulted in hardened criminals terrorising the streets. The rookeries, filled to the brim with impoverished workers who often turned to crime just to get by, surrounded the infamous Spitalfields Market. From the early riots of the silkweavers to the foul living conditions of the Victorian era when gangs of pick-pockets ran rife; from the more commonly known gangs of the early 20th Century to the recent gentrification which made it a favourite haunt for Londoners. The architecture, alleys, the Spitalfields Market have all been touched by the residents, as well as the pubs. We will duck into some of these famous drinking holes to hear more about the gangs, crime, and harsher times of the East End.
 
-###Highlights of the Quirky London Tour
+###Highlights of the East End Crime Tour
 
 - The site of Bedlam, the people thrown in for living a life of crime and the criminal methods used by the institution
 - Find out the darker history of what ties a saint, a wheel and an alley together
