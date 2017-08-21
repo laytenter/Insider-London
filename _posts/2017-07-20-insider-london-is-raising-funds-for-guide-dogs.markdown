@@ -10,8 +10,8 @@ layout: post
 We are excited to announce that we have partnered with the **[Guide Dogs for the Blind Association](http://www.guidedogs.org.uk)** in order to raise at least £700 for them! 
 
 <div style="padding: .5em; border: .35em solid #EE3348;">
-<h3>Special Announcement</h3>
-<p>Due to popular demand, we have added two more London Underground and Tube Tours to the fundraiser. The available tours now are:</p>
+<h3>Another special announcement!</h3>
+<p>Due to popular demand and to raise as much money as possible, we have not only added two more London Underground and Tube Tours to the fundraiser, but also another Death & Debauchery Tour! The available tours now are:</p>
 <ul>
 <li>Sat, 19 Aug, 11am - The <a href="http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a> <strong>(sold out)</strong></li>
 <li>Sat, 19 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a> <strong>(sold out)</strong></li>
@@ -19,6 +19,7 @@ We are excited to announce that we have partnered with the **[Guide Dogs for the
 <li>Sat, 26 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/">Silicon Roundabout and Tech City Tour</a></li>
 <li>Sun, 27 Aug, 11am - The <a href="http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a></li>
 <li>Sun, 27 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/london-finance-walking-tour/">City of London Finance Tour</a></li>
+<li>Mon, 28 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/the-death-and-debauchery-tour/">Death and Debauchery Tour</a> (£12 pp; con £10)</li>
 </ul>
 <p>Please contact <a href="mailto:jonas@insider-london.co.uk">jonas@insider-london.co.uk</a> for booking (please do not use the on-page booking system, otherwise it won’t contribute to the fundraiser) or more information. You can also read more about the fundraiser in the article below.</p>
 </div>
