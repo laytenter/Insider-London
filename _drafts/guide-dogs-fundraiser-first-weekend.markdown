@@ -27,6 +27,6 @@ Dave Kent, Community Engagement Officer at Guide Dogs’ London office and a gui
 
 And we do so happily! If you want to support Guide Dogs as well, make sure to subscribe to their newsletter [here](http://www.guidedogs.org.uk/aboutus/staying-in-touch/email-updates), and join us on one of our fundraising tours. If you like what we’re doing, please also make sure to follow us on [Facebook](http://www.facebook.com/insiderlondon), [Twitter](https://twitter.com/insiderlondon) and [Instagram](https://www.instagram.com/insiderlondontours/). 
 
-# We’re looking forward to showing you around! 
+### We’re looking forward to showing you around! 
 
 ![Our group from last Saturday's Tube Tour, 11am.](/uploads/Group%20Tube%2011am_web.jpg)
