@@ -1,7 +1,7 @@
 ---
 title: Guide Dogs Fundraiser Weekend One
 date: 2017-08-22 09:51:00 Z
-permalink: "/guide-dogs-fundraiser-weekend-one"
+permalink: "/guide-dogs-fundraiser-weekend-one/"
 layout: post
 ---
 
