@@ -19,7 +19,7 @@ Last Saturday and Sunday, 19th and 20th of August, we ran our first tours for th
 <p>Please contact <a href="mailto:jonas@insider-london.co.uk">jonas@insider-london.co.uk</a> for booking (please do not use the on-page booking system, otherwise it won’t contribute to the fundraiser).</p>
 </div>
 
-Jonas, tour guide and organiser of the fundraiser, said: “It’s great to see how our guests enjoy our tours! To know, that every penny they paid goes to a good cause – Guide Dogs’ services and their great campaigns – makes it even more rewarding!”
+Richard, tour guide with Insider London and the one that lead Sunday's Death and Debauchery Tour, said: “It’s great to see how our guests enjoy our tours! To know, that every penny they paid goes to a good cause – Guide Dogs’ services and their great campaigns – makes it even more rewarding!”
 
 ![Our group from last Saturday's Tube Tour, 2pm.](/uploads/Group%20Tube%202pm_web.jpg)
 
