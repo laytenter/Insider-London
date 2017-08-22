@@ -1,6 +1,8 @@
 ---
 title: Guide Dogs Fundraiser Weekend One
 date: 2017-08-22 09:51:00 Z
+permalink: "/guide-dogs-fundraiser-weekend-one"
+layout: post
 ---
 
 ![Our group from last Sunday's Death and Debauchery Tour.](/uploads/Group%20DnD%202pm_web.jpg)
