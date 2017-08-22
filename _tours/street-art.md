@@ -22,9 +22,10 @@ related:
 layout: tour
 ---
 
-<p class="lede">London is filled with street art and graffiti hotspots with artists from around the world leaving their mark. Whether you are a seasoned visitor, on your very first trip, or have called this city home for years, it can be sometimes difficult to spot the hidden treasures London has to offer.
+<p class="lede">London is filled with street art and graffiti hotspots with artists from around the world leaving their mark. Whether you are a seasoned visitor, on your very first trip, or have called this city home for years, it can be sometimes difficult to spot the hidden treasures London has to offer.</p>
 
-## Highlights of the London Street Tour include:
+
+## Highlights of the London Street Art Tour include:
 
 - Discover one of the earliest (now protected) works by world-famous graffiti artist Banksy.
 
