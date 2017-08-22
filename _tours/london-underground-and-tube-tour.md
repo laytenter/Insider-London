@@ -23,8 +23,6 @@ layout: tour
 
 The original London Underground and Tube Tour: Travel across 150 years in just two hours aboard our awesome London Underground and Tube Tour!
 
-## The Tour
-
 Starting at London's first ever underground station and finishing at one of London's futuristic space-age tube stations, you'll hear first-hand the captivating twists and turns of the Tube's history on this fun, fact-packed two-hour tour.
 
 The London Underground Tour takes you under the skin of the world's oldest and most iconic underground system. From learning about the Tube's origins, construction and design, to catching a glimpse of one of London's abandoned 'ghost stations', our experienced tour guides will illuminate another side of the London Underground network.
