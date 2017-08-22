@@ -1,7 +1,6 @@
 ---
 title: 'Guide Dogs Fundraiser: First Weekend'
 date: 2017-08-22 08:02:00 Z
-published: false
 ---
 
 ## We raised £600 so far!
