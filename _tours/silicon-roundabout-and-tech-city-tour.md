@@ -21,20 +21,6 @@ layout: tour
 <p class="lede">The UK’s Digital industry is booming. It’s epicentre – an unassuming roundabout in East London.
 </p>
 
-<div style="padding: .5em; border: .35em solid #EE3348;">
-<h3>Special: Book a tour and support charity</h3>
-<p>We're currently running specific tours, the revenue of which will fully go to the <a href="http://www.guidedogs.org.uk/"><strong>Guide Dogs for the Blind Association</strong></a>. The tours are:</p>
-<ul>
-<li>Sat, 26 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/">Silicon Roundabout and Tech City Tour</a> (£20 pp; con £12)</li>
-<li>Sun, 27 Aug, 11am - The <a href="http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a> (£20 pp; con £12)</li>
-<li>Sun, 27 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/london-finance-walking-tour/">City of London Finance Tour</a> (£20 pp; con £12)</li>
-<li>Mon, 28 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/the-death-and-debauchery-tour/">Death and Debauchery Tour</a> (£12 pp; con £10)</li>
-</ul>
-<p>Please contact <a href="mailto:jonas@insider-london.co.uk">jonas@insider-london.co.uk</a> for booking (please do not use the on-page booking system, otherwise it won’t contribute to the fundraiser) or more information. You can also read more about the fundraiser on our <a href="http://www.insider-london.co.uk/insider-london-is-raising-funds-for-guide-dogs/">blog here</a>.</p>
-</div>
-
-## The Tour
-
 Known as Silicon Roundabout or Tech City, this area of London is home to the world’s third biggest start-up tech cluster and is currently snapping at the heels of New York City and San Francisco’s tech scene.
 
 Last year Silicon Roundabout launched over 15,500 new businesses – nearly five times as many launched in Canary Wharf. It is also where some of the biggest tech companies in the world have put down roots, including heavy hitters Google and Amazon, alongside Zoopla, Asos, Moo, Spotify, Songkick.com, Mind Candy and more.
