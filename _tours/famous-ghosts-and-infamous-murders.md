@@ -21,20 +21,6 @@ layout: tour
 
 <p class="lede">London towne is no stranger to ghost stories, the city has its fair share and our Insider guides will tell you who they are, what they are and where they hide. Walking down the back streets and alleyways of London’s West End, we will bring to light its history and the lives of those who are still known to haunt the area today.</p>
 
-<div style="padding: .5em; border: .35em solid #EE3348;">
-<h3>Special: Book a tour and support charity</h3>
-<p>We're currently running specific tours, the revenue of which will fully go to the <a href="http://www.guidedogs.org.uk/"><strong>Guide Dogs for the Blind Association</strong></a>. The upcoming tours are:</p>
-<ul>
-<li>Sat, 26 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/">Silicon Roundabout and Tech City Tour</a> (£20 pp; con £12)</li>
-<li>Sun, 27 Aug, 11am - The <a href="http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a> (£20 pp; con £12)</li>
-<li>Sun, 27 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/london-finance-walking-tour/">City of London Finance Tour</a> (£20 pp; con £12)</li>
-<li>Mon, 28 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/the-death-and-debauchery-tour/">Death and Debauchery Tour</a> (£12 pp; con £10)</li>
-</ul>
-<p>Please contact <a href="mailto:jonas@insider-london.co.uk">jonas@insider-london.co.uk</a> for booking (please do not use the on-page booking system, otherwise it won’t contribute to the fundraiser) or more information. You can also read more about the fundraiser on our <a href="http://www.insider-london.co.uk/insider-london-is-raising-funds-for-guide-dogs/">blog here</a>.</p>
-</div>
-
-## The Tour
-
 Some ghosts are friendly wanderers who never wanted to leave and others more frightening that will make you want to leave in haste! The Nocturnal London walking tour will shed light on the history of the streets in which some of the ghosts lived in their lifetime and their day-to-day hardships. The Victorian era saw a heightened period of interest in the world beyond- spirits, ghosts and the odd unsolved murder. Although our ghosts cross the centuries, after a stroll through the West End’s darker side, you'll understand why the subject excited the prim and proper Victorians…
 
 ##Highlights
