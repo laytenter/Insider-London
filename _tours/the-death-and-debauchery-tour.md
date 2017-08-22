@@ -23,20 +23,6 @@ related:
 layout: tour
 ---
 
-<div style="padding: .5em; border: .35em solid #EE3348;">
-<h3>Special: Book a tour and support charity</h3>
-<p>We're currently running specific tours, the revenue of which will fully go to the <a href="http://www.guidedogs.org.uk/"><strong>Guide Dogs for the Blind Association</strong></a>. The upcoming tours are:</p>
-<ul>
-<li>Sat, 26 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/">Silicon Roundabout and Tech City Tour</a> (£20 pp; con £12)</li>
-<li>Sun, 27 Aug, 11am - The <a href="http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a> (£20 pp; con £12)</li>
-<li>Sun, 27 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/london-finance-walking-tour/">City of London Finance Tour</a> (£20 pp; con £12)</li>
-<li>Mon, 28 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/the-death-and-debauchery-tour/">Death and Debauchery Tour</a> (£12 pp; con £10)</li>
-</ul>
-<p>Please contact <a href="mailto:jonas@insider-london.co.uk">jonas@insider-london.co.uk</a> for booking (please do not use the on-page booking system, otherwise it won’t contribute to the fundraiser) or more information. You can also read more about the fundraiser on our <a href="http://www.insider-london.co.uk/insider-london-is-raising-funds-for-guide-dogs/">blog here</a>.</p>
-</div>
-
-## The Tour
-
 <p>The history of London is riddled with death and debauchery, and such topics have always caught the interest of both Londoners and visitors.  Insider London’s Death and Debauchery Tour is a walking tour that will leave you reeling after two hours of recounting famous murders, executions, ghostly happenings, and lecherous coffeehouses. </p>
 
 <p>Left aghast we are with thoughts of crowds pushing and shoving to see a ‘good hanging’ and yet here you are in search of a walking tour with such tales!  Look no further, for Death and Debauchery Tour will bring back to life the hard streets of London and the despicable lengths people would go to just to see another day.</p>
