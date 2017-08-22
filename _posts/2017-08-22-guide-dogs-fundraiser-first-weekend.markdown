@@ -1,6 +1,8 @@
 ---
 title: 'Guide Dogs Fundraiser: First Weekend'
 date: 2017-08-22 21:27:00 Z
+categories:
+- blog
 layout: post
 ---
 
