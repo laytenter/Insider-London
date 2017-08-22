@@ -19,7 +19,9 @@ Last Saturday and Sunday, 19th and 20th of August, we ran our first tours for th
 <p>Please contact <a href="mailto:jonas@insider-london.co.uk">jonas@insider-london.co.uk</a> for booking (please do not use the on-page booking system, otherwise it won’t contribute to the fundraiser).</p>
 </div>
 
-Richard, tour guide with Insider London and the one that lead Sunday's Death and Debauchery Tour, said: “It’s great to see how our guests enjoy our tours! To know, that every penny they paid goes to a good cause – Guide Dogs’ services and their great campaigns – makes it even more rewarding!”
+Richard, tour guide with Insider London, said: “It’s great to see how our guests enjoy our tours! To know, that every penny they paid goes to a good cause – Guide Dogs’ services and their great campaigns – makes it even more rewarding!”
+
+With his enthusiastic and personable style, Richard had captivated our guests minds and fantasy, when he led the [Death and Debauchery Tour](http://www.insider-london.co.uk/tours/the-death-and-debauchery-tour/) on Sunday. He will do so again on the added tour on Monday, 28th August. The [City of London Finance Tour](http://www.insider-london.co.uk/tours/london-finance-walking-tour/) will be led by Andy Catto, a certified City of London Guide and former banker, whose expertise never ceases to amaze. Both the [Silicon Roundabout Tour](http://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/) and the [London Underground and Tube Tour](http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/) will be led by Jonas, a London enthusiast and the organiser of the fundraiser.
 
 ![Our group from last Saturday's Tube Tour, 2pm.](/uploads/Group%20Tube%202pm_web.jpg)
 
