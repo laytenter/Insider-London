@@ -5,7 +5,7 @@ date: 2017-08-22 08:02:00 Z
 
 Last Saturday and Sunday, 19th and 20th of August, we ran our first tours for the fundraiser for Guide Dogs. So far, we ran three tours and thanks to our great guests, we were able to **raise over £600**! Due to the popularity of the tours, and to raise as much money as possible, we decided to add even more tours to the fundraiser than previously planned. If you want to explore London and support charity at the same time, make sure to book a space on one of the tours on the bank holiday weekend by sending an email to [jonas@insider-london.co.uk](mailto:jonas@insider-london.co.uk). The upcoming tours are:
 
-<div style="padding: .5em; border: .35em solid #EE3348;">
+<div style="padding: .5em; border: .35em dotted #EE3348;">
 <ul>
 <li>Sat, 26 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/">Silicon Roundabout and Tech City Tour</a> (£20 pp; con £12)</li>
 <li>Sun, 27 Aug, 11am - The <a href="http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a> (£20 pp; con £12)</li>
