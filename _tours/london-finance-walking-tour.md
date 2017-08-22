@@ -20,20 +20,6 @@ layout: tour
 
 <p class="lede">The City of London is a leading financial hub and home to some of the biggest banking and insurance institutions in the world.</p>
 
-<div style="padding: .5em; border: .35em solid #EE3348;">
-<h3>Special: Book a tour and support charity</h3>
-<p>We're currently running specific tours, the revenue of which will fully go to the <a href="http://www.guidedogs.org.uk/"><strong>Guide Dogs for the Blind Association</strong></a>. The upcoming tours are:</p>
-<ul>
-<li>Sat, 26 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/">Silicon Roundabout and Tech City Tour</a> (£20 pp; con £12)</li>
-<li>Sun, 27 Aug, 11am - The <a href="http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a> (£20 pp; con £12)</li>
-<li>Sun, 27 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/london-finance-walking-tour/">City of London Finance Tour</a> (£20 pp; con £12)</li>
-<li>Mon, 28 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/the-death-and-debauchery-tour/">Death and Debauchery Tour</a> (£12 pp; con £10)</li>
-</ul>
-<p>Please contact <a href="mailto:jonas@insider-london.co.uk">jonas@insider-london.co.uk</a> for booking (please do not use the on-page booking system, otherwise it won’t contribute to the fundraiser) or more information. You can also read more about the fundraiser on our <a href="http://www.insider-london.co.uk/insider-london-is-raising-funds-for-guide-dogs/">blog here</a>.</p>
-</div>
-
-## The Tour
-
 Join us on our award-winning walking tour of The City as we take you on a fascinating journey to discover the origins of London’s financial centre &#8211; from its humble beginnings in 17<sup>th</sup> century coffee houses to its ancient and unusual governance and voting system that’s still in use today.
 
 Starting at Panyer Alley, our expert guide will show you how the City of London developed into a global financial centre, taking in key buildings such as, the London Stock Exchange, Guildhall, the Bank of England, Lloyds of London and Rothschild’s, before finishing at Willis, the world’s oldest insurance broker.
