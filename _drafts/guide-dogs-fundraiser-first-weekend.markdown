@@ -3,7 +3,7 @@ title: 'Guide Dogs Fundraiser: First Weekend'
 date: 2017-08-22 08:02:00 Z
 ---
 
-![Group DnD 2pm_web.jpg](/uploads/Group%20DnD%202pm_web.jpg)
+![Our group from last Sunday's Death and Debauchery Tour](/uploads/Group%20DnD%202pm_web.jpg)
 
 Last Saturday and Sunday, 19th and 20th of August, we ran our first tours for the fundraiser for Guide Dogs. So far, we ran three tours and thanks to our great guests, we were able to **raise over £600**! Due to the popularity of the tours, and to raise as much money as possible, we decided to add even more tours to the fundraiser than previously planned. If you want to explore London and support charity at the same time, make sure to book a space on one of the tours on the bank holiday weekend by sending an email to [jonas@insider-london.co.uk](mailto:jonas@insider-london.co.uk). The upcoming tours are:
 
