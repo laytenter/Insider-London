@@ -9,7 +9,7 @@ layout: post
 
 We are excited to announce that we have partnered with the **[Guide Dogs for the Blind Association](http://www.guidedogs.org.uk)** in order to raise at least £700 for them! 
 
-<div style="padding: .5em; border: .35em dotted #EE3348;">
+<div style="padding: .5em; border: .35em dashed #EE3348;">
 <h3>Another special announcement!</h3>
 <p>Due to popular demand and to raise as much money as possible, we have not only added two more London Underground and Tube Tours to the fundraiser, but also another Death & Debauchery Tour! The available tours now are:</p>
 <ul>
