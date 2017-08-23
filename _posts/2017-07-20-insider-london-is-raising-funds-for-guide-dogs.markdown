@@ -42,6 +42,8 @@ If you are interested in booking, please get in touch with Jonas at [jonas@insid
 
 Guide Dogs is a charity that aims to provide people with sight loss with the support they need to be able to move around safely and confidently, to get out of their homes and be able to live life the way they choose. They achieve this not only through their world-famous guide dogs, but also through campaigning passionately for improvements to mobility opportunities for blind and partially sighted people. In doing so, they tackle problems that affect everyone, for example the lack of audio-visual announcements in buses (which is a standard in London - thank you TfL! - but hardly anywhere else), or the hindrances created by cars that unnecessarily park on the pavement and force parents with prams, wheelchair users, and guide dog owners onto the streets.
 
+[Retired Guide Dog Vargo (c) Pete Mills.JPG](/uploads/Retired%20Guide%20Dog%20Vargo%20(c)%20Pete%20Mills.JPG)
+
 ## Why we do it
 
 We wholeheartedly believe that this world is for everyone. In September, a team of Guide Dogs employees and supporters will tackle the Coniston Challenge, a fundraising challenge that will take them to the Lake District to hike, cycle and kayak a total of more than 22km. They do this to raise awareness for their cause and funds for their charity. We are impressed by their dedication and passion, and will support them.
