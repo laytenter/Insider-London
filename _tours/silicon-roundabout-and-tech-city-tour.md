@@ -21,6 +21,11 @@ layout: tour
 <p class="lede">The UK’s Digital industry is booming. It’s epicentre – an unassuming roundabout in East London.
 </p>
 
+<div style="padding: .5em; border: .35em dotted #EE3348;">
+<h3>Special: Book a tour and support charity</h3>
+<p>We're currently running specific tours, the revenue of which will fully go to the <a href="http://www.guidedogs.org.uk/"><strong>Guide Dogs</strong></a>. Learn more on our <a href="http://www.insider-london.co.uk/insider-london-is-raising-funds-for-guide-dogs/">blog here</a></p>
+</div>
+
 Known as Silicon Roundabout or Tech City, this area of London is home to the world’s third biggest start-up tech cluster and is currently snapping at the heels of New York City and San Francisco’s tech scene.
 
 Last year Silicon Roundabout launched over 15,500 new businesses – nearly five times as many launched in Canary Wharf. It is also where some of the biggest tech companies in the world have put down roots, including heavy hitters Google and Amazon, alongside Zoopla, Asos, Moo, Spotify, Songkick.com, Mind Candy and more.
