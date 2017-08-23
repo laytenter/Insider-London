@@ -21,7 +21,7 @@ layout: tour
 <p class="lede">The UK’s Digital industry is booming. It’s epicentre – an unassuming roundabout in East London.
 </p>
 
-<div style="padding: .5em; border: .35em dotted #EE3348;">
+<div style="padding: .5em; border: .35em dashed #EE3348;">
 <h3>Special: Book a tour and support charity</h3>
 <p>We're currently running specific tours, the revenue of which will fully go to <a href="http://www.guidedogs.org.uk/"><strong>Guide Dogs</strong></a>. Learn more on our <a href="http://www.insider-london.co.uk/insider-london-is-raising-funds-for-guide-dogs/">blog here</a></p>
 </div>
