@@ -5,7 +5,7 @@ permalink: "/insider-london-is-raising-funds-for-guide-dogs/"
 layout: post
 ---
 
-![GuideDogPuppy.jpg](/uploads/GuideDogPuppy.jpg)
+![Our Tube tour guests from Saturday ask you to support Guide Dogs!](/uploads/Group%20Tube%2011am_web.jpg)
 
 We are excited to announce that we have partnered with the **[Guide Dogs for the Blind Association](http://www.guidedogs.org.uk)** in order to raise at least £700 for them! 
 
