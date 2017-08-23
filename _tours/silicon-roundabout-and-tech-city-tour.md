@@ -23,7 +23,8 @@ layout: tour
 
 <div style="padding: .5em; border: .35em dashed #EE3348;">
 <h3>Special: Book a tour and support charity</h3>
-<p>We're currently running specific tours, their revenue will fully go to <a href="http://www.guidedogs.org.uk/"><strong>Guide Dogs</strong></a>. Learn more on the tours and how to book on our <a href="http://www.insider-london.co.uk/insider-london-is-raising-funds-for-guide-dogs/">blog</a>.</p>
+<p>We're currently running specific tours, their revenue will fully go to <a href="http://www.guidedogs.org.uk/"><strong>Guide Dogs</strong></a>. </br>
+Learn more on the tours and how to book on our <a href="http://www.insider-london.co.uk/insider-london-is-raising-funds-for-guide-dogs/">blog</a>.</p>
 </div>
 
 Known as Silicon Roundabout or Tech City, this area of London is home to the world’s third biggest start-up tech cluster and is currently snapping at the heels of New York City and San Francisco’s tech scene.
