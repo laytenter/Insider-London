@@ -3,7 +3,9 @@ title: Guide Dogs Fundraiser Event
 date: 2017-08-29 20:23:00 Z
 ---
 
-This month we've been trying to raise as much money as possible for the \*\*[Guide Dogs for the Blind Association](http://www.guidedogs.org.uk/)\*\*in order to raise at least £700 for them. And with your help we've done just that. Over two weekends, five tours, and with forty guests, we have raised a staggering £800 for the charity.
+![Group Tube 11am_web.jpg](/uploads/Group%20Tube%2011am_web.jpg)
+
+This month we've been trying to raise as much money as possible for the [Guide Dogs for the Blind Association ](http://www.guidedogs.org.uk/)in order to raise at least £700 for them. And with your help we've done just that. Over two weekends, five tours, and with forty guests, we have raised a staggering £800 for the charity.
 
 Richard, one of the Insider London tour guides, found the fundraising experience an enjoyable one, 'It’s great to see how our guests enjoy our tours! To know, that every penny they paid goes to a good cause – Guide Dogs’ services and their great campaigns – makes it even more rewarding'.
 
