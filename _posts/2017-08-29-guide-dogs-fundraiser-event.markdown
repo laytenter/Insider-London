@@ -15,6 +15,6 @@ And it wasn't just the tour guides who enjoyed themselves, each one of our guest
 
 After such a great few weekends Insider London is looking forward to holding more fundraisers in the future, Jonas, an Insider London tour guide and organiser of this event wants to say 'thanks to all our great guests, we were able to hit our target and deliver five great tours. Many people gave more than what we asked for to join the tours, and everyone was so supportive - it was a great event for us'. 
 
-If you want to support Guide Dogs as well, make sure to subscribe to their newsletter [here. ](http://www.guidedogs.org.uk/aboutus/staying-in-touch/email-updates)Please also make sure to follow us on[Facebook](http://www.facebook.com/insiderlondon), [Twitter](https://twitter.com/insiderlondon)and [Instagram ](https://www.instagram.com/insiderlondontours/)to keep up to date with everything to do with Insider London.
+If you want to support Guide Dogs as well, make sure to subscribe to their newsletter [here. ](http://www.guidedogs.org.uk/aboutus/staying-in-touch/email-updates)Please also make sure to follow us on [Facebook](http://www.facebook.com/insiderlondon), [Twitter](https://twitter.com/insiderlondon)and [Instagram ](https://www.instagram.com/insiderlondontours/)to keep up to date with everything to do with Insider London.
 
 By Sage Fitzpatrick
