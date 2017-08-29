@@ -1,7 +1,7 @@
 ---
 title: Guide Dogs Fundraiser Event
 date: 2017-08-29 20:23:00 Z
-permalink: "/guide-dogs-fundraiser-event"
+permalink: "/guide-dogs-fundraiser-event/"
 layout: post
 ---
 
