@@ -36,3 +36,5 @@ And we do so happily! If you want to support Guide Dogs as well, make sure to su
 ### We’re looking forward to showing you around! 
 
 ![Our group from last Saturday's Tube Tour, 11am.](/uploads/Group%20Tube%2011am_web.jpg)
+
+by Jonas Fathy
