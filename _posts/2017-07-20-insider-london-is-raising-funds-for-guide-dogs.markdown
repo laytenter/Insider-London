@@ -51,3 +51,5 @@ We wholeheartedly believe that this world is for everyone. In September, a team 
 If you are interested in booking or have any questions, please get in touch with our Jonas at [jonas@insider-london.co.uk](mailto:jonas@insider-london.co.uk). If you like what we’re doing, please make sure to follow us on [Facebook](http://www.facebook.com/insiderlondon), [Twitter](https://twitter.com/insiderlondon) and [Instagram](https://www.instagram.com/insiderlondontours/).
 
 For more information on the Coniston Challenge, please visit the team’s fundraising page at [http://uk.virginmoneygiving.com/TheInsiders](http://uk.virginmoneygiving.com/TheInsiders).
+
+by Jonas Fathy
