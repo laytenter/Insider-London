@@ -1,5 +1,5 @@
 ---
-title: London Finance Walking Tour
+title: London Finance Tour
 date: 2011-01-01 10:43:00 Z
 categories:
 - educational
