@@ -3,11 +3,7 @@ title: Tech City Shoreditch
 date: 2017-09-03 10:45:00 Z
 ---
 
-INTRO ABOUT SHOREDITCH- diversity of business and enterprise in Shoreditch. INTRO ABOUT SHOREDITCH- diversity of business and enterprise in Shoreditch. INTRO ABOUT SHOREDITCH- diversity of business and enterprise in Shoreditch.
-
-**TechCity***Shoreditch*
-
-East London is the corner of the capital known to be the hub of digital and technological innovation. The companies and start-ups who have made it home enjoy financial investment and world-class talent, along with all the trappings of a global city. We’ve mapped these organisations to show how versatile the area surrounding Silicon Roundabout really is.
+Over the past few years, East London or more specifically Shoreditch, has become know as the hub of technological and digital innovation. Thea area otherwise known as Silicon Roundabout has become home to a whole host of diverse business ventures and startups. 
 
 And to represent this, The Stage Shoreditch have now designed this [interactive map](http://www.thestageshoreditch.com/tech-city-shoreditch) of the area. Each mark on the map represents an HQ or main office of a company. By looking at the photo above, you'll see in the photo above that each pin point marks a notable business or start up from this area. To make it easier for you to search, you can filter companies by sector, type, size, founded and startup. 
 
