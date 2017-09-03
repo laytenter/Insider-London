@@ -5,7 +5,7 @@ permalink: "/tech-city-shoreditch/"
 layout: post
 ---
 
-![Untitled design-6-4b2d4c.png](/uploads/Untitled%20design-6-4b2d4c.png)
+![Untitled design-7-0dc9a0.png](/uploads/Untitled%20design-7-0dc9a0.png)
 
 Over the past few years, East London or more specifically Shoreditch, has become know as the hub of technological and digital innovation. Thea area otherwise known as Silicon Roundabout has become home to a whole host of diverse business ventures and startups. 
 
