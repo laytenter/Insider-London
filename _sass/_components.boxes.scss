@@ -7,13 +7,32 @@
 }
 
 .box--highlight {
-    background-color: $color-box-highlight-background;
-    border: 1px solid $color-box-highlight-border;
-    p:last-child {
-      margin-bottom:0;
-    }
+  background-color: $color-box-highlight-background;
+  border: 1px solid $color-box-highlight-border;
+
+  p:last-child {
+    margin-bottom:0;
+  }
 }
 
 .box--tint {
-    background-color: $color-box-tint-background;
+  background-color: $color-box-tint-background;
+}
+
+
+.box {
+    border-radius: $base-round
+}
+
+.box--highlight {
+  background-color: $color-box-highlight-background;
+  border: 1px solid $color-box-highlight-border;
+
+  p:last-child {
+    margin-bottom:0;
+  }
+}
+
+.box--tint {
+  background-color: $color-box-tint-background;
 }

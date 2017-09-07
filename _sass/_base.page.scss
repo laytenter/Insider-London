@@ -15,6 +15,11 @@ figure {
     display:none;
   }
 }
+.hidden-wide {
+  @include media-query(lap-and-up) {
+    display:none;
+  }
+}
 
 #CDSWIDSSP {
   width: 100% !important;

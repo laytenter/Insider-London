@@ -75,10 +75,10 @@
 
     border-color: $color-blue;
     color: $color-white;
-    background: $color-blue;; /* fallback */
 
     @include media-query(lap-and-up) {
       // Woot - http://lea.verou.me/2011/03/beveled-corners-negative-border-radius-with-css3-gradients/
+      background-color: $color-blue; /* fallback */
     	background:
     		linear-gradient(135deg, transparent 5px, $color-blue 0) top left,
     		linear-gradient(225deg, transparent 5px, $color-blue 0) top right,

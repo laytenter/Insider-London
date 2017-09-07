@@ -22,6 +22,10 @@ a {
   background-color: transparent;
 }
 
+b {
+  font-weight: bold;
+}
+
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
@@ -29,6 +33,17 @@ h1 {
 
 small {
   font-size: 80%;
+}
+
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+sup {
+  top: -0.5em;
 }
 
 img {
@@ -112,6 +127,10 @@ html {
   }
 }
 
+#CDSWIDSSP {
+  width: 100% !important;
+}
+
 a {
   text-decoration: none;
   color: #e4162f;
@@ -120,13 +139,19 @@ a {
 h1 {
   font-size: 36px;
   font-size: 2.25rem;
-  line-height: 1.33333;
+  line-height: 1.3333333333;
 }
 
 h2 {
   font-size: 30px;
   font-size: 1.875rem;
   line-height: 1.6;
+}
+
+h3 {
+  font-size: 24px;
+  font-size: 1.5rem;
+  line-height: 1;
 }
 
 li > ul {
@@ -142,12 +167,6 @@ img {
   /* [3] */
 }
 
-.lede {
-  font-size: 18px;
-  font-size: 1.125rem;
-  line-height: 1.33333;
-}
-
 @font-face {
   font-family: '33535gillsansmt';
   src: url("/assets/fonts/33535gillsansmt.eot");
@@ -155,10 +174,19 @@ img {
 }
 
 h1,
-h2 {
+h2,
+h3 {
   color: #192e51;
   text-transform: uppercase;
   font-family: '33535gillsansmt';
+}
+
+.blue-twitter-bg {
+  background: #009fe3;
+}
+
+.blue-facebook-bg {
+  background: #273583;
 }
 
 .btn {
@@ -269,7 +297,7 @@ h2 {
   position: relative;
   font-size: 14px;
   font-size: 0.875rem;
-  line-height: 1.71429;
+  line-height: 1.7142857143;
   height: 60px;
   position: relative;
   z-index: 10;
@@ -375,7 +403,7 @@ h2 {
   text-transform: capitalize;
   font-size: 14px;
   font-size: 0.875rem;
-  line-height: 1.71429;
+  line-height: 1.7142857143;
   display: block;
   padding: 12px;
 }
@@ -465,6 +493,19 @@ h2 {
   .telephone__landline {
     padding-right: 12px;
   }
+}
+
+.share {
+  padding: 12px;
+  display: inline-block;
+}
+
+.share__icon {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  fill: #fff;
+  vertical-align: middle;
 }
 
 .box:after,

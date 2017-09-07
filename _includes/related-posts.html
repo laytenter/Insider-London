@@ -1,0 +1,46 @@
+{% comment %} Default to show the title {% endcomment %}
+{% assign showtitle = true %}
+{% assign maxRelated = 5 %}
+
+{% comment %} Loop over all posts {% endcomment %}
+{% for post in site.posts %}
+
+{% assign sameTagCount = 0 %}
+
+{% comment %} Loop over the tags for this post {% endcomment %}
+  {% for tag in post.tags %}
+    {% comment %} If this page (i.e. tour) has the same tag then we show it  {% endcomment %}
+    {% if page.tags contains tag %}
+      {% assign sameTagCount = sameTagCount | plus: 1 %}
+      {% comment %} Store the markup so we can spit it out later {% endcomment %}
+      {% capture tagmarkup %}
+        <li class="palm-mb lap-and-up-mb">
+          {% if post.description %}
+            {{ post.description }}
+          {% endif %}
+          <a href="{{ post.permalink }}">
+            {{ post.title }}
+          </a>
+        </li>
+      {% endcapture %}
+      {% assign commonTags = commonTags | append: tagmarkup %}
+
+    {% endif %}
+  {% endfor %}
+  {% comment %} If there are some actual related tags...{% endcomment %}
+  {% if sameTagCount > 0 %}
+      {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+      {% if maxRelatedCounter >= maxRelated %}
+        {% break %}
+      {% endif %}
+  {% endif %}
+
+{% endfor %}
+{% if commonTags %}
+  <div class="box box--highlight palm-mb lap-mb desk-mb">
+    <h3 class="palm-mt0 lap-and-up-mt0">News and Insights</h3>
+    <ul class="list-bare">
+      {{ commonTags }}
+    </ul>
+  </div>
+{% endif %}
