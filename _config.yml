@@ -12,9 +12,15 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    description: ''
 name: Insider London
 description: Insider London
-baseurl:
+baseurl: 
 url: http://www.insider-london.co.uk
 lsi: false
 paginate: 10
@@ -34,10 +40,3 @@ future: true
 markdown: redcarpet
 env: prod
 imagepath: "/assets/images/"
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      description: ""

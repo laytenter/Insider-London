@@ -3,6 +3,8 @@ title: History of Drinking and Pubs Tours
 date: 2006-01-01 11:24:00 Z
 categories:
 - hidden
+tags:
+- drinking
 tour-id: 32336
 author: london75
 guid: "/?post_type=product&#038;p=32336"
@@ -18,7 +20,6 @@ related:
 - 29349
 - 12345
 layout: tour
-tags: drinking
 ---
 
 <p class="lede">Insider London’s History of Drinking and Pubs Tour will have you raising your glass to this city’s historical pubs treasures and its famous drinking culture. Whether you are visiting London for the first time or you’re a local who enjoys discovering its hidden gems, our experienced tour guides will help you uncover the history of the English pub.</p>

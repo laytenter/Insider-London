@@ -2,8 +2,9 @@
 title: Tech City Shoreditch
 date: 2017-09-03 10:45:00 Z
 permalink: "/tech-city-shoreditch/"
+tags:
+- drinking
 layout: post
-tags: drinking
 ---
 
 ![Untitled design-7-0dc9a0.png](/uploads/Untitled%20design-7-0dc9a0.png)
