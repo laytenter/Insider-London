@@ -46,7 +46,7 @@ Insider London's award winning London Underground and Tube Tour limits group siz
 
 **Where is the meeting point?**
 
-Paddington Mainline Concourse, by the Bagel Factory**
+Paddington Mainline Concourse, by the Bagel Factory (platform 1)**
 
 **How long will The London Underground and Tube Tour take?**
 
