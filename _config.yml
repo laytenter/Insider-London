@@ -32,7 +32,7 @@ exclude:
 - ".htaccess"
 future: true
 markdown: redcarpet
-env: dev
+env: prod
 imagepath: "/assets/images/"
 defaults:
   -
