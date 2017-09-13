@@ -6,6 +6,8 @@ categories:
 - blog
 tags:
 - all
+description: Over £600 for Guide Dogs, just on the first weekend! Find out what happened,
+  and what our guides and guests say.
 layout: post
 ---
 
