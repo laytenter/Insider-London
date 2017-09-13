@@ -74,8 +74,9 @@ redirect 301 /tours/educational-tours/ http://www.insider-london.co.uk/tours/edu
 
 RewriteEngine On
 
-RewriteCond %{SERVER_PORT} 80
-RewriteRule ^(.*)$ https://www.insider-london.com/$1 [R=301,L]
+RewriteCond %{HTTPS} !=on
+RewriteCond %{HTTP_HOST} ^www\.insider-london\.co.uk$
+RewriteRule ^(.*)$ https://www.insider-london.co.uk/$1 [R=301,L]
 
 #Ignore Google verification file
 RewriteRule ^google3d11bb01af91a5dc.html$ - [L]
