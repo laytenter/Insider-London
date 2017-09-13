@@ -27,7 +27,7 @@ layout: tour
 
 Some ghosts are friendly wanderers who never wanted to leave and others more frightening that will make you want to leave in haste! The Nocturnal London walking tour will shed light on the history of the streets in which some of the ghosts lived in their lifetime and their day-to-day hardships. The Victorian era saw a heightened period of interest in the world beyond- spirits, ghosts and the odd unsolved murder. Although our ghosts cross the centuries, after a stroll through the West End’s darker side, you'll understand why the subject excited the prim and proper Victorians…
 
-##Highlights
+## Highlights
 
 On this tour you will:
 
@@ -42,7 +42,7 @@ On this tour you will:
 
 Famous Ghosts and Infamous Murders is a walking tour that will have you discovering new haunts of your own, making you look over your shoulder at every twist and turn. If you are looking for a guided ghost tour filled with history but peppered with spooky stories, look no further!
 
-###What you need to know:
+### What you need to know:
 
 **Where do we meet?**
 
