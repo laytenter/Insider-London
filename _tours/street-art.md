@@ -3,6 +3,9 @@ title: Street Art Tour
 date: 2005-01-01 10:39:00 Z
 categories:
 - hidden
+- historical
+- streetart
+- all
 featured: true
 tour-id: 29326
 trekksoft-tour-id: 50188
