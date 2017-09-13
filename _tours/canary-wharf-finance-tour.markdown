@@ -3,6 +3,8 @@ title: Canary Wharf Finance Tour
 date: 2017-02-05 10:15:00 Z
 categories:
 - educational
+- all
+- canary
 show_book: false
 thumb: canary-wharf-420x287.jpg
 banner: HSBC-canary-wharf-772x579.jpg
