@@ -2,9 +2,10 @@
 title: Quirky Tour
 date: 2002-01-01 11:31:00 Z
 categories:
-- historical
 - quirky
 - all
+- hidden
+- historical
 featured: true
 tour-id: 32342
 trekksoft-tour-id: 50184
