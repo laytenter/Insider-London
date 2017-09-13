@@ -5,6 +5,7 @@ categories:
 - historical
 - d&d
 - all
+- hidden
 featured: true
 tour-id: 29349
 trekksoft-tour-id: 50197
