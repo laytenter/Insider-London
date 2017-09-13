@@ -5,6 +5,7 @@ categories:
 - tube
 - all
 - hidden
+- historical
 tour-id: 32143
 trekksoft-tour-id: 50159
 show_book: true
