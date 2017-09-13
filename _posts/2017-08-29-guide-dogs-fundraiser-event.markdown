@@ -4,6 +4,8 @@ date: 2017-08-29 20:23:00 Z
 permalink: "/guide-dogs-fundraiser-event/"
 tags:
 - all
+description: With the help of our guests, we have raised £800 for Guide Dogs! A short
+  summary of the experiences and feedbacks.
 layout: post
 ---
 
