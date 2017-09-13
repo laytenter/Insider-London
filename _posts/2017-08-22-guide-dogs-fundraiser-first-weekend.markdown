@@ -4,6 +4,8 @@ date: 2017-08-22 21:27:00 Z
 permalink: "/guide-dogs-fundraiser-first-weekend/"
 categories:
 - blog
+tags:
+- all
 layout: post
 ---
 
