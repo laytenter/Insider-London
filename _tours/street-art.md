@@ -45,7 +45,7 @@ layout: tour
 
 The Street Art Tour is a hit for all kinds of people and since the street art scene is ever-evolving, our tour guides continually update their own knowledge so that you don’t miss out on the exclusives. The Street Art Tour of London is a walking tour that keeps continuing, with new art to find around every corner.
 
-###What you need to know
+### What you need to know
 
 **Where do we meet?**
 
