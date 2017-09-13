@@ -5,6 +5,10 @@ categories:
 - educational
 - finance
 - all
+tags:
+- educational
+- finance
+- all
 tour-id: 29332
 author: london75
 guid: "/?post_type=product&#038;p=29332"
