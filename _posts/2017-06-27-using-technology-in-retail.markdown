@@ -2,6 +2,11 @@
 title: Using Technology in Retail
 date: 2017-06-27 20:13:00 Z
 permalink: "/using-technology-in-retail/"
+tags:
+- retail
+- SR
+description: The world of shopping and retail design is changing and evolving. Here
+  are some things we came across.
 layout: post
 ---
 
