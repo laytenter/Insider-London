@@ -2,10 +2,11 @@
 title: Tour of East End - Gangs, Crimes and Harsher Times
 date: 2007-01-01 16:41:00 Z
 categories:
-- historical
-- crime
-- all
 - hidden
+tags:
+- historical
+- all
+- crime
 tour-id: 32569
 trekksoft-tour-id: 50202
 author: london75
