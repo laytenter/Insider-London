@@ -8,6 +8,8 @@ tags:
 - London underground tours
 - Street Art
 - Tube
+description: TfL has put Art on the Underground. We think it's a perfect match - here's
+  why.
 layout: post
 ---
 
@@ -15,7 +17,7 @@ layout: post
 
 It can be easy to think of the London Underground as little more than a subterranean transport system that, while a quintessential part of the London experience, isn’t always the most pleasant place to go in the city.
 
-But if you aren’t in a rush and are able to enjoy some of the sights around London’s tube stations you may notice a whole new side to this iconic network of underground railway lines.
+But if you aren’t in a rush and are able to enjoy some of the sights around London’s tube stations, you may notice a whole new side to this iconic network of underground railway lines.
 
 Earlier this month, the [Evening Standard](http://www.standard.co.uk/goingout/arts/london-summer-art-map-a-guide-to-spotting-art-when-youre-out-and-about-in-the-capital-a3579306.html) picked out some of the highlights on Transport for London’s latest Summer Art Map, with plenty of incredible works of art to be seen in tube stations around the capital, if you just take the time to look.
 
