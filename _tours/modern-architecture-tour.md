@@ -36,7 +36,7 @@ Starting at Southwark tube station and heading along the South Bank, our profess
 
 ![](/assets/images/MA 2-large.jpeg)
 
-##Highlights
+## Highlights
 
 Things you’ll discover:
 
@@ -52,7 +52,7 @@ and the fascinating stories behind their development.
 
 ![](/assets/images/Modern Architecture-large.jpg)
 
-###What you need to know:
+### What you need to know:
 
 **Where do we meet?**
 
