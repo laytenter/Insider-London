@@ -45,7 +45,7 @@ The Quirky London Tour covers a vast array of topics during a two hour walking t
 
 ![](/assets/images/Quirky tour 1-large.jpg)
 
-###What you need to know
+### What you need to know
 
 **Where do we meet?**
 
