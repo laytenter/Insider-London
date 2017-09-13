@@ -6,6 +6,8 @@ categories:
 - blog
 tags:
 - London underground tours
+- Street Art
+- Tube
 layout: post
 ---
 
