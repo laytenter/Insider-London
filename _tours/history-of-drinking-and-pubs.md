@@ -2,7 +2,9 @@
 title: History of Drinking and Pubs Tours
 date: 2006-01-01 11:24:00 Z
 categories:
-- hidden
+- historical
+- HOD
+- all
 tags:
 - drinking
 tour-id: 32336
