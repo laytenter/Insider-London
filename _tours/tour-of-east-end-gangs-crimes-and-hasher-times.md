@@ -5,6 +5,7 @@ categories:
 - historical
 - crime
 - all
+- hidden
 tour-id: 32569
 trekksoft-tour-id: 50202
 author: london75
