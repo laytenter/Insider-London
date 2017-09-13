@@ -21,7 +21,7 @@ related:
 layout: tour
 ---
 
-<p class="lede">Insider London’s Cutting Edge Green Tour – London’s only Sustainability Tour**</p>
+<p class="lede">Insider London’s Cutting Edge Green Tour – London’s only Sustainability Tour</p>
 
 London was recently named the second most sustainable city in the world. But how does this sprawling city maintain its delicate balance of people, profit and the planet?
 
@@ -33,7 +33,7 @@ Discover London’s most environmentally responsible and socially savvy retailer
 
 Whether you are student, a sustainability professional, or simply want to know more about London’s impressive sustainability credentials, our jam-packed Green tour is ideal for getting to know the people, sites and businesses at the forefront of London’s sustainable agenda.
 
-###The ultimate crash-course in London’s best sustainable businesses and buildings
+### The ultimate crash-course in London’s best sustainable businesses and buildings
 
 What you will discover:
 
@@ -63,7 +63,7 @@ Insider London can also create a bespoke green and sustainability tour, focussi
 
 We also deliver a two hour **<a href="/product/sustainable-london-architecture-tour/">Sustainable London Architecture Tour</a>** showcasing over 15 innovative approaches to green building.
 
-###What you need to know
+### What you need to know
 
 **Where do we meet?**
 
