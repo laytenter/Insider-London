@@ -5,6 +5,7 @@ categories:
 - historical
 - HOD
 - all
+- hidden
 tags:
 - drinking
 tour-id: 32336
