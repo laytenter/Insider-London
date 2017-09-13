@@ -31,7 +31,7 @@ layout: tour
 
 <p>Left aghast we are with thoughts of crowds pushing and shoving to see a ‘good hanging’ and yet here you are in search of a walking tour with such tales!  Look no further, for Death and Debauchery Tour will bring back to life the hard streets of London and the despicable lengths people would go to just to see another day.</p>
 
-##Highlights
+## Highlights
 
 On this tour you will:
 
@@ -54,7 +54,7 @@ On this tour you will:
 
 <img width="693" height="1024" src="/wp-content/uploads/2015/05/Death-and-Debauchery-print-2-693x1024.jpg" class="vc_single_image-img attachment-large" alt="Death and Debauchery print 2" srcset="/wp-content/uploads/2015/05/Death-and-Debauchery-print-2-203x300.jpg 203w, /wp-content/uploads/2015/05/Death-and-Debauchery-print-2-693x1024.jpg 693w, /wp-content/uploads/2015/05/Death-and-Debauchery-print-2.jpg 1353w" sizes="(max-width: 693px) 100vw, 693px" />
 
-##What you need to know
+### What you need to know
 
 **Where do we meet?**
 
