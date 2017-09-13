@@ -6,6 +6,7 @@ categories:
 - blog
 tags:
 - London history tours
+- historical
 description: 'What many don''t know: London has had Tornados in the past. A massive
   one in 1091, the most recent one in 1954.'
 layout: post
