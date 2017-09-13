@@ -3,6 +3,8 @@ title: Educational In-depth Business Tour
 date: 2015-08-28 10:51:00 Z
 categories:
 - educational
+tags:
+- educational
 - bvisits
 - all
 tour-id: 29344
