@@ -2,7 +2,9 @@
 title: Death and Debauchery Tour
 date: 2004-01-01 10:58:00 Z
 categories:
-- hidden
+- historical
+- d&d
+- all
 featured: true
 tour-id: 29349
 trekksoft-tour-id: 50197
