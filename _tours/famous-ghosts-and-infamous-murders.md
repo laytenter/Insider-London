@@ -3,6 +3,9 @@ title: Famous Ghosts and Infamous Murders London Walking Tour
 date: 2008-01-01 17:30:00 Z
 categories:
 - hidden
+- historical
+- ghost
+- all
 tour-id: 12345
 author: london75
 trekksoft-tour-id: 50196
