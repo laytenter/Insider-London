@@ -6,6 +6,9 @@ categories:
 - blog
 tags:
 - ghost tours London
+- historical
+- ghost
+description: Let us bust a few rumours you might have heard about the Tower of London.
 Field name: 
 layout: post
 ---
