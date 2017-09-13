@@ -20,7 +20,7 @@ defaults:
     description: ''
 name: Insider London
 description: Insider London
-baseurl:
+baseurl: 
 url: http://www.insider-london.co.uk
 lsi: false
 paginate: 10
