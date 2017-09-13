@@ -53,3 +53,7 @@ strong {
 .green-trip-advisor {
   background: #00af87;
 }
+
+.small {
+  @include inuit-font-size(12px);
+}

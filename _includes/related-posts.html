@@ -1,6 +1,6 @@
 {% comment %} Default to show the title {% endcomment %}
 {% assign showtitle = true %}
-{% assign maxRelated = 5 %}
+{% assign maxRelated = 4 %}
 
 {% comment %} Loop over all posts {% endcomment %}
 {% for post in site.posts %}
@@ -15,30 +15,33 @@
       {% comment %} Store the markup so we can spit it out later {% endcomment %}
       {% capture tagmarkup %}
         <li class="palm-mb lap-and-up-mb">
-          {% if post.description %}
-            {{ post.description }}
-          {% endif %}
           <a href="{{ post.permalink }}">
             {{ post.title }}
           </a>
+          <br />
+          {% if post.description %}
+            <span class="small">
+              {{ post.description }}
+            </span>
+          {% endif %}
         </li>
       {% endcapture %}
       {% assign commonTags = commonTags | append: tagmarkup %}
-
     {% endif %}
-  {% endfor %}
-  {% comment %} If there are some actual related tags...{% endcomment %}
-  {% if sameTagCount > 0 %}
+    {% comment %}If there are some actual related tags...{% endcomment %}
+    {% if sameTagCount > 0 %}
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
-      {% if maxRelatedCounter >= maxRelated %}
-        {% break %}
-      {% endif %}
-  {% endif %}
+    {% endif %}
+    {% if maxRelatedCounter >= maxRelated %}
+      {% break %}
+    {% endif %}
+
+  {% endfor %}
 
 {% endfor %}
 {% if commonTags %}
   <div class="box box--highlight palm-mb lap-mb desk-mb">
-    <h3 class="palm-mt0 lap-and-up-mt0">News and Insights</h3>
+    <h3 class="palm-mt0 lap-and-up-mt0">From our blog</h3>
     <ul class="list-bare">
       {{ commonTags }}
     </ul>

@@ -63,12 +63,19 @@ redirect 301 /product/modern	http://www.insider-london.co.uk
 redirect 301 /product/london-underground/	http://www.insider-london.co.uk/product/london-underground-and-tube-tour/
 redirect 301 /product/silicon-roundabout-and-tech-city/	http://www.insider-london.co.uk/product/silicon-roundabout-and-tech-city-tour/
 redirect 301 /shop/feed/?product_cat=gift-vouchers	http://www.insider-london.co.uk/gift-vouchers/
+# Redirect old tour urls...13/09/2017
+redirect 301 /tours/historical-tours/ http://www.insider-london.co.uk/tours/historical-walking-tours/
+redirect 301 /tours/educational-tours/ http://www.insider-london.co.uk/tours/educational-walking-tours/
+
 
 # End legacy 301s
 
 <IfModule mod_rewrite.c>
 
 RewriteEngine On
+
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://www.insider-london.com/$1 [R=301,L]
 
 #Ignore Google verification file
 RewriteRule ^google3d11bb01af91a5dc.html$ - [L]

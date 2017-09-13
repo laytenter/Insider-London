@@ -25,7 +25,7 @@ layout: default
           {% include  share-icons.html %}
         </p>
         {% if page.show_book %}
-          {% include tour-side-bar.html %}
+          {% include tour-side-bar.html buttonid="BookNow" %}
         {% endif %}
       </div>
       {{ content }}
@@ -38,7 +38,7 @@ layout: default
         {% include  share-icons.html %}
       </p>
       {% include related-posts.html %}
-      {% if page.show_book %} {% include tour-side-bar.html %} {% endif %}
+      {% if page.show_book %} {% include tour-side-bar.html buttonid="BookNow1" %} {% endif %}
       {% include trip-advisor-widget.html %}
     </div>
   </div>

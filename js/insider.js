@@ -8,30 +8,35 @@ function stopDefAction(evt) {
 
 try {
 
+  document.getElementById('BookNow').addEventListener(
+    'click', stopDefAction, false
+  );
 
-document.getElementById('BookNow').addEventListener(
-  'click', stopDefAction, false
-);
+  document.getElementById('BookNow1').addEventListener(
+    'click', stopDefAction, false
+  );
 
-document.getElementById('trip-advisor-share').addEventListener(
-  'click', function(e){
-    e.preventDefault();
+  var tour = document.getElementsByClassName('wc-bookings-booking-form');
+  var tourID = tour[0].dataset.tourid // "3"
 
-    elmnt = document.getElementById("TA_selfserveprop993");
+  // Need to do this via two buttons as we added a new 'booknow' button to
+  // when reorganising the tour layout.
+  var button = new TrekkSoft.Embed.Button();
+  button.setAttrib("target", "fancy")
+  .setAttrib("entryPoint", "tour")
+  .setAttrib("tourId", tourID)
+  .setAttrib("referral", "INSIDERLONDONLTD")
+  .registerOnClick("#BookNow");
 
-    scrollTo(document.body, elmnt.offsetTop, 600);
+  var button2 = new TrekkSoft.Embed.Button();
+  button2.setAttrib("target", "fancy")
+  .setAttrib("entryPoint", "tour")
+  .setAttrib("tourId", tourID)
+  .setAttrib("referral", "INSIDERLONDONLTD")
+  .registerOnClick("#BookNow1");
 
-  })
-
-var tour = document.getElementById('wc-bookings-booking-form');
-var tourID = tour.dataset.tourid // "3"
-var button = new TrekkSoft.Embed.Button();
-button  .setAttrib("target", "fancy")
-.setAttrib("entryPoint", "tour")
-.setAttrib("tourId", tourID)
-.setAttrib("referral", "INSIDERLONDONLTD")
-.registerOnClick("#BookNow");
 } catch(e) {
+  console.log(e);
 }
 
 var jt = jt || {};
