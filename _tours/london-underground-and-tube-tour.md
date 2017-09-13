@@ -46,11 +46,11 @@ Whether you want to discover more about the Tube's design and engineering excell
 
 Insider London's award winning London Underground and Tube Tour limits group sizes to 10 people.
 
-###What you need to know
+### What you need to know
 
 **Where is the meeting point?**
 
-Paddington Mainline Concourse, by the Bagel Factory (platform 1)**
+Paddington Mainline Concourse, by the Bagel Factory (platform 1)
 
 **How long will The London Underground and Tube Tour take?**
 
