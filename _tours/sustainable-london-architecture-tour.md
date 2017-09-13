@@ -3,6 +3,8 @@ title: Sustainable Architecture Tour
 date: 2013-01-01 10:50:00 Z
 categories:
 - educational
+tags:
+- educational
 - susarch
 - all
 tour-id: 29342
