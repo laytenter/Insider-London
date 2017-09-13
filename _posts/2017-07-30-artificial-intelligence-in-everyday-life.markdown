@@ -2,6 +2,9 @@
 title: Artificial Intelligence in Everyday Life
 date: 2017-07-30 17:11:00 Z
 permalink: "/artificial-intelligence-in-everyday-life/"
+tags:
+- SR
+- educational
 layout: post
 ---
 
