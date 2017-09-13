@@ -4,6 +4,7 @@ date: 2015-08-28 10:51:00 Z
 categories:
 - educational
 - bvisits
+- all
 tour-id: 29344
 author: london75
 guid: "/?post_type=product&#038;p=29344"
