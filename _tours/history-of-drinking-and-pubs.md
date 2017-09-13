@@ -28,7 +28,7 @@ layout: tour
 
 From the traditional alehouse to the city taverns, learn the history behind traditional ale and why English people love this drink so much! Travel through London’s drinking history in two hours, learn about medieval brewing techniques and the inventive - and sometimes disgusting - ingredients that were once used.
 
-##Highlights  
+## Highlights  
 
 <img
  src="/wp-content/uploads/2015/04/DSC_0129-680x1024.jpg"  srcset="/wp-content/uploads/2015/04/DSC_0129-199x300.jpg 199w, /wp-content/uploads/2015/04/DSC_0129-680x1024.jpg 680w, /wp-content/uploads/2015/04/DSC_0129.jpg 1328w" sizes="(max-width: 680px) 100vw, 680px" />
@@ -49,7 +49,7 @@ On this tour you will:
 
 The London pub is a great place to learn about one of England’s oldest drinking establishments but also have an opportunity to discover the history of the capital. The History of Drinking and Pubs Tour will leave you thirsty for much more!
 
-###What you need to know
+### What you need to know
 
 **Where do we meet?**
 
