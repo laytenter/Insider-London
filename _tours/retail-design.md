@@ -3,8 +3,10 @@ title: Retail Design Tour
 date: 2012-01-01 10:44:00 Z
 categories:
 - educational
+tags:
 - all
 - retail
+- educational
 tour-id: 29334
 author: london75
 guid: "/?post_type=product&#038;p=29334"
