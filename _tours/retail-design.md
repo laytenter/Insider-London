@@ -53,7 +53,7 @@ Starting in the colourful cafes and department stores of Piccadilly, our retail 
 
 This alternative London walking tour is perfect for retail designers, shop owners and students seeking creative inspiration, as well as those who simply want to discover the coolest shops and cafes in the capital. A great introduction to London’s retail hot spots, you can earmark the stores you love and re-visit for a jolly good browse later.
 
-###What you need to know
+### What you need to know
 
 **Where do we meet?**
 

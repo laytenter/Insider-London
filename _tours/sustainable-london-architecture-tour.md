@@ -39,7 +39,7 @@ Our comprehensive sustainable architecture tour can be tailored to every knowled
 
 It doesn’t matter whether you want to know more about London’s sustainable built environment, or are an established green architect, we’ll help you get the inside track &#8211; and maybe even uncover new angles &#8211; on our fun, informative tour.
 
-###Highlights
+### Highlights
 
 What you will discover:
 
@@ -59,7 +59,7 @@ What you will discover:
 
 - It’s not easy being green – whether it’s truly possible to build a sustainable skyscraper.
 
-###What you need to know:
+### What you need to know:
 
 **Where do we meet?**
 

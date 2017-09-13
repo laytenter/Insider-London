@@ -28,7 +28,7 @@ Join us on our award-winning walking tour of The City as we take you on a fascin
 
 Starting at Panyer Alley, our expert guide will show you how the City of London developed into a global financial centre, taking in key buildings such as, the London Stock Exchange, Guildhall, the Bank of England, Lloyds of London and Rothschild’s, before finishing at Willis, the world’s oldest insurance broker.
 
-##City of London Tour - Discover Capital in the Capital
+## City of London Tour - Discover Capital in the Capital
 
 You’ll learn about:
 
@@ -50,7 +50,7 @@ You’ll learn about:
 
 Our eye-opening, informative guided tour of London City is ideal for corporate groups, students or anyone who wants to take an in-depth look at London’s influential financial sector.
 
-###What you need to know
+### What you need to know
 
 **Where do we meet?**
 
