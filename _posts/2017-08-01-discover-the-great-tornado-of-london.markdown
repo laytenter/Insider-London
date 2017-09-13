@@ -6,6 +6,7 @@ categories:
 - blog
 tags:
 - London history tours
+- historical
 layout: post
 ---
 
