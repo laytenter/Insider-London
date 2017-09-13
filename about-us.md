@@ -29,4 +29,4 @@ layout: page
 
 <div>
 	<h2>Alternative Walking Tours and Unique Educational Tours</h2>
-	<p>Our tours are different. We don’t offer the run-of-the-mill sightseeing trips to Big Ben and Buckingham Palace. Instead, our unique and cutting-edge tours take you right to the heart of what London is all about, uncovering what makes London one of the most vibrant and cosmopolitan capital cities in the world. Read more about what we do [here](./what-we-do/) or explore our range of tours [here](./tours/).</p>
+	<p>Our tours are different. We don’t offer the run-of-the-mill sightseeing trips to Big Ben and Buckingham Palace. Instead, our unique and cutting-edge tours take you right to the heart of what London is all about, uncovering what makes London one of the most vibrant and cosmopolitan capital cities in the world. Read more about what we do <a href="./about-us/">here</a> or explore our range of tours <a href="./tours/">here</a>.</p>
