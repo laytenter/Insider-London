@@ -17,7 +17,7 @@ thumbsrcset: "/assets/images/Fotolia_1929995_L-445x304.jpg 445w, /assets/images/
   568w"
 banner: underground-tour-banner-2000x720.jpg
 hidden: true
-map: https://www.google.co.uk/maps/place/Sherlock+Holmes+Statue/@51.5225007,-0.1588175,17z/data=!3m1!4b1!4m5!3m4!1s0x487604d59ecdd3e1:0x900c16ed42e497a1!8m2!3d51.5225007!4d-0.1566288?dcr=0
+map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.493884522092!2d-0.1588174842294842!3d51.52250067963771!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604d59ecdd3e1%3A0x900c16ed42e497a1!2sSherlock+Holmes+Statue!5e0!3m2!1sde!2suk!4v1506001375359
 related:
 - 32342
 - 29349
