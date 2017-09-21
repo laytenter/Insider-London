@@ -17,7 +17,7 @@ thumbsrcset: "/assets/images/Fotolia_1929995_L-445x304.jpg 445w, /assets/images/
   568w"
 banner: underground-tour-banner-2000x720.jpg
 hidden: true
-map: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19861.205229168765!2d-0.18037695633981765!3d51.519624879316524!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761aad72f39303%3A0x74926f3ec36c2314!2sPaddington+Station!5e0!3m2!1sen!2s!4v1431588473892
+map: https://www.google.co.uk/maps/place/Sherlock+Holmes+Statue/@51.5225007,-0.1588175,17z/data=!3m1!4b1!4m5!3m4!1s0x487604d59ecdd3e1:0x900c16ed42e497a1!8m2!3d51.5225007!4d-0.1566288?dcr=0
 related:
 - 32342
 - 29349
@@ -50,7 +50,7 @@ Insider London's award winning London Underground and Tube Tour limits group siz
 
 **Where is the meeting point?**
 
-Paddington Mainline Concourse, by the Bagel Factory (platform 1)
+Baker Street Station, at the Sherlock Holmes Statue
 
 **How long will The London Underground and Tube Tour take?**
 
