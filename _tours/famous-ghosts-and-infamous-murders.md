@@ -46,7 +46,7 @@ Famous Ghosts and Infamous Murders is a walking tour that will have you discover
 
 **Where do we meet?**
 
-Tottenham Court Road Tube Station Exit I, Oxford Street (South Side)<br /> (Its currently the only exit)
+Tottenham Court Road Tube Station Exit I, Oxford Street (South Side)
 
 {% include tour-map.html %}
 
