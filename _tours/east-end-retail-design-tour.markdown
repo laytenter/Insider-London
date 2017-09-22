@@ -2,11 +2,14 @@
 title: East End Retail Design Tour
 date: 2017-09-22 08:32:00 Z
 published: false
+tags:
+- retail
 ---
 
 After the incredible success of our original Retail Design Tour, which focuses on some of the most innovative shops and brands in London’s West End, Insider London are pleased to bring you the East End Retail Design Tour. If you are looking for a unique and alternative walking tour of London that is packed with sights, smells and plenty of inspiration, then join our Insider guide for a stroll in one of the hottest areas for retail design in town.
 
 The East End of London is a characterful hotspot of design, fashion and art. This exciting area offers delectable visual stimulants from the independent shops to the colourful graffiti which your Insider London guide will help you discover on this two hour walking tour. There are shops that hint to the area's fascinating past as well as others testing the waters in retail design and advertising. Design agencies have chosen this creative part of town as their home to rub shoulders with Street Art heavyweights; even commissioning work from some of the many artists to be found here. Homegrown businesses can either trace their roots from traders in Spitalfields Market, or have been drawn to the vibrant scene in more recent years for reasons we will discuss on this innovative and inspiring tour of the East End.
+
 ## Highlights
 * Plenty of locally and lovingly crafted chocolates in deliciously designed spaces.
 * A visit to the world’s first PopUp Mall with a continually evolving selection of brands to choose from, both big and small.
