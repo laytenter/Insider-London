@@ -1,5 +1,5 @@
 ---
-title: Famous Ghosts and Infamous Murders London Walking Tour
+title: Famous Ghosts and Infamous Murders Tour
 date: 2008-01-01 17:30:00 Z
 categories:
 - hidden
