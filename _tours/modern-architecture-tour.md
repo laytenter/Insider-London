@@ -1,5 +1,5 @@
 ---
-title: Modern Architecture Walking Tour
+title: Modern Architecture Tour
 date: 2003-01-01 10:46:00 Z
 categories:
 - educational
