@@ -11,7 +11,9 @@ intro
 
 Image Credit: [Matt Brown/ Flickr](https://www.flickr.com/photos/londonmatt/8843233033/in/photolist-etrT64-pzMM4-4yaX38-4yfiBW-4yaY1t-4ydNvG-4ydvbC-bx2tM-4ydJd1-4y9xAg-4y9sr2-4ydqV3-dFU6R9-4y9DrV-4yffa3-5TsRmy-4ydN1d-4ydDcJ-4yfhb7-4ydvWo-hPkXwN-hPkWUp-hPk85i-hPkSio-6Q8jTr-5g5Vkn-5gacbN-bDhLTa-abhBnQ-abeKZt-uhGH83-7AcEAd-7LZ4TT-svs1d-KRkQF-7u37M7-hPkti3-neHph-7LZ41T-neHpo-neHpc-4GQM3u-5g5V8r-hfLXu-hfLWD-77sQxB-5WJswM-3M5dz-4udV2u-e6S9E9)
 
-**3. The Brixton Windmill **
+**3. The Brixton Windmill **celebrated it's 200th anniversary last year. 
+
+In 2016 the Friends of Windmill Gardens celebrate the 200th anniversary of Brixton Windmill. Typically between March and October it is open to the public for tours, and is a must for those who wish to discover more about its history. 
 
 4\. 
 
