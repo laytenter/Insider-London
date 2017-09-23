@@ -17,9 +17,7 @@ Image Credit: [Matt Brown/ Flickr](https://www.flickr.com/photos/londonmatt/8843
 
 **3. The Brixton Windmill **celebrated it's 200th anniversary last year. Typically between March and October it is open to the public for tours, and is a must for those who wish to discover more about its history. 
 
-4\. Pop Brixton
-
-Pop Brixton is a temporary project that has turned disused land into a creative space for local, independent businesses. Come and discover South London’s most exciting start-ups working in food, retail, design and social enterprise.
+**4. Pop Brixton **has turned disused land in Brixton into a creative space for locals and businesses. It's home to independent start-ups, be it food, retail, design or social enterprise.
 
 5\. 
 
