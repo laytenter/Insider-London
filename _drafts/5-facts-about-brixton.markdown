@@ -7,6 +7,10 @@ date: 2017-09-23 15:19:00 Z
 
 intro
 
+1\. 
+
+**2. David Bowie**'s birthplace- Stansfield Road, is located in Brixton. Since the singers death the Alassin Sane mural has become an area for fans to pay trubute to the artist. 
+
 ![Untitled design-10-4f90a8.png](/uploads/Untitled%20design-10-4f90a8.png)
 
 Image Credit: [Matt Brown/ Flickr](https://www.flickr.com/photos/londonmatt/8843233033/in/photolist-etrT64-pzMM4-4yaX38-4yfiBW-4yaY1t-4ydNvG-4ydvbC-bx2tM-4ydJd1-4y9xAg-4y9sr2-4ydqV3-dFU6R9-4y9DrV-4yffa3-5TsRmy-4ydN1d-4ydDcJ-4yfhb7-4ydvWo-hPkXwN-hPkWUp-hPk85i-hPkSio-6Q8jTr-5g5Vkn-5gacbN-bDhLTa-abhBnQ-abeKZt-uhGH83-7AcEAd-7LZ4TT-svs1d-KRkQF-7u37M7-hPkti3-neHph-7LZ41T-neHpo-neHpc-4GQM3u-5g5V8r-hfLXu-hfLWD-77sQxB-5WJswM-3M5dz-4udV2u-e6S9E9)
