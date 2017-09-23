@@ -19,7 +19,7 @@ Image Credit: [Matt Brown/ Flickr](https://www.flickr.com/photos/londonmatt/8843
 
 **4. Pop Brixton **has turned disused land in Brixton into a creative space for locals and businesses. It's home to independent start-ups, be it food, retail, design or social enterprise.
 
-5\. 
+**5. Electric Avenue** in Brixton became famous as being one of the first streets in the country to be lit by electricity, as well as for it's shoppoing opportunites in the south. 
 
 And if you’re interested in knowing more about the area, keep your eyes peeled for an interesting new tour sometime in the future. Also don’t forget to follow us on[ Facebook](http://facebook.com/insiderlondon/?fref=ts), [Twitter](https://twitter.com/insiderlondon) and [Instagram](https://www.instagram.com/insiderlondontours/) to keep up to date with Insider London.
 
