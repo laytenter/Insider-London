@@ -32,7 +32,6 @@ Hear the stories behind how these burgeoning businesses grew brilliant brands, t
 
 ## An Alternative Shop Tour of London, you will discover:
 
-
 - **A variety of retail spaces** using ingenious and radical ways to distinguish themselves from soulless ‘cookie-cutter’ shop chains
 
 - **Striking approaches to shop design and visual merchandising**, from achingly trendy minimalist outlets selling limited edition products to shops offering an <em>Alison in Wonderland </em>style immersive experience &#8211; complete with extravagant decor and secret room.
