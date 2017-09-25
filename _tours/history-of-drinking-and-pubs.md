@@ -49,7 +49,7 @@ On this tour you will:
 
 The London pub is a great place to learn about one of England’s oldest drinking establishments but also have an opportunity to discover the history of the capital. The History of Drinking and Pubs Tour will leave you thirsty for much more!
 
-### What you need to know
+## What you need to know
 
 **Where do we meet?**
 
