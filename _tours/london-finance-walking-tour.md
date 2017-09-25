@@ -50,7 +50,7 @@ You’ll learn about:
 
 Our eye-opening, informative guided tour of London City is ideal for corporate groups, students or anyone who wants to take an in-depth look at London’s influential financial sector.
 
-### What you need to know
+## What you need to know
 
 **Where do we meet?**
 
