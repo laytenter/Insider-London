@@ -29,7 +29,7 @@ layout: tour
 
 <p>The history of London is riddled with death and debauchery, and such topics have always caught the interest of both Londoners and visitors.  Insider London’s Death and Debauchery Tour is a walking tour that will leave you reeling after two hours of recounting famous murders, executions, ghostly happenings, and lecherous coffeehouses. </p>
 
-<p>Left aghast we are with thoughts of crowds pushing and shoving to see a ‘good hanging’ and yet here you are in search of a walking tour with such tales!  Look no further, for Death and Debauchery Tour will bring back to life the hard streets of London and the despicable lengths people would go to just to see another day.</p>
+<p>Left aghast we are with thoughts of crowds pushing and shoving to see a ‘good hanging’ and yet here you are in search of a walking tour with such tales!  Look no further, for the Death and Debauchery Tour will bring back to life the hard streets of London and the despicable lengths people would go to just to see another day.</p>
 
 ## Highlights
 
