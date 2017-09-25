@@ -29,7 +29,6 @@ But love it or loathe it, you can’t help but notice the sci-fi like structures
 
 Award-winning Insider London’s brilliant alternative London walking tour is perfect for exploring London’s architectural wonders and getting the inside story on some of London&#8217;s most iconic developments.
 
-
 Discover how these contemporary buildings connect with the capital’s rich history, the superstar architects behind the designs and the quirky and unusual features of London’s innovative buildings – including one building that appears inside out.
 
 Starting at Southwark tube station and heading along the South Bank, our professional, highly knowledgeable guide will show you the best modern architecture around the City, St. Paul&#8217;s Cathedral and the London Wall before finishing at the centre of a stunning new development. Plus, we’ll let you know where you can enjoy the same view from the London Eye for the price of a beer!
@@ -52,7 +51,7 @@ and the fascinating stories behind their development.
 
 ![](/assets/images/Modern Architecture-large.jpg)
 
-### What you need to know:
+## What you need to know:
 
 **Where do we meet?**
 
