@@ -42,7 +42,7 @@ On this tour you will:
 
 Famous Ghosts and Infamous Murders is a walking tour that will have you discovering new haunts of your own, making you look over your shoulder at every twist and turn. If you are looking for a guided ghost tour filled with history but peppered with spooky stories, look no further!
 
-### What you need to know:
+## What you need to know:
 
 **Where do we meet?**
 
