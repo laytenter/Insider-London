@@ -31,7 +31,7 @@ Are you new to London and looking to discover the lesser-known facts about the c
 
 ![](/assets/images/Quirky tour 2-large.jpeg)
 
-##Highlights
+## Highlights
 
 On this tour you will:
 
@@ -45,7 +45,7 @@ The Quirky London Tour covers a vast array of topics during a two hour walking t
 
 ![](/assets/images/Quirky tour 1-large.jpg)
 
-### What you need to know
+## What you need to know
 
 **Where do we meet?**
 
