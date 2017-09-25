@@ -46,7 +46,7 @@ Our tour takes in most of the Canary Wharf estate. On this tour you will see wha
 
 You’ll see No. 1 Canary Wharf, for a while the tallest building in the UK, you will visit the award-winning station (now amazingly the same size as No. 1 Canary Wharf) which feature in the movie Star Wars and you will observe more big bank headquarters than you thought possible. At the same time witness some surprisingly peaceful parks with views over the Thames and the Millennium Dome – it really is a packed, informative and fun few hours.
 
-### What you need to know
+## What you need to know
 
 **Where do we meet?**
 
