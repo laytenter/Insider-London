@@ -29,9 +29,9 @@ Over two hours, our expert guide will take you on a sizzling tour of the most in
 
 Hear the stories behind how these burgeoning businesses grew brilliant brands, the challenges they overcame and the growing back lash against ‘faceless’ chain stores.
 
-<h4>
-  An Alternative Shop Tour of London, you will discover:
-</h4>
+
+## An Alternative Shop Tour of London, you will discover:
+
 
 - **A variety of retail spaces** using ingenious and radical ways to distinguish themselves from soulless ‘cookie-cutter’ shop chains
 
@@ -53,7 +53,7 @@ Starting in the colourful cafes and department stores of Piccadilly, our retail 
 
 This alternative London walking tour is perfect for retail designers, shop owners and students seeking creative inspiration, as well as those who simply want to discover the coolest shops and cafes in the capital. A great introduction to London’s retail hot spots, you can earmark the stores you love and re-visit for a jolly good browse later.
 
-### What you need to know
+## What you need to know
 
 **Where do we meet?**
 
