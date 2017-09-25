@@ -30,7 +30,7 @@ For **corporate groups and entrepreneurs**, we provide a rare opportunity to get
 
 Your in-depth business experience will include hearing a first-hand account of the company’s life cycle – from securing investment to overcoming new challenges every day – as well as demonstrations and the chance to get hands-on with new products. Each tour also includes a Q&A session and the chance to talk with senior members of the business team.
 
-##Bespoke Business Tours aligned to your needs
+## Bespoke Business Tours aligned to your needs
 
 Our Business visits and guided tours can be arranged for groups from six to 150 people. Insider London’s professional and knowledgeable guides will create a bespoke business programme aligned to your exact learning objectives. Whichever sector or subject area you'd most like to explore, we can arrange a visit to an exciting and innovative company in the relevant field. We have close relationships with the founders and CEOs of an extensive and diverse range of industries, from venture banking to video game developers. Our list of business partners is constantly growing so we’re bound to have the perfect partner for you to visit.
 
