@@ -67,7 +67,7 @@ Perfect for bringing academic courses to life, a fun team-building activity or t
 
 See where tomorrow’s trends are created, where killer concepts are born, where tube carriages double as office space and the only place in the world where you can buy an alcoholic smoothie.
 
-### What you need to know
+## What you need to know
 
 **Where do we meet?**
 
