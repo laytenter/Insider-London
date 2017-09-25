@@ -41,23 +41,23 @@ Helped by its tastes, sights and sounds your Insider guide will take you through
 
 ## What you need to know
 
-** Where do we meet? **
+**Where do we meet?**
 
 Andaz Hotel Lobby, near Liverpool Street Station
 
-** How long is the tour? **
+**How long is the tour?**
 
 Approximately 2 hours
 
-** Price: **
+**Price:**
 
 - Adult: £20
 - Senior (60+): £15
 
-** When does the tour run? **
+**When does the tour run?**
 The tour runs weekly on Sunday and UK Bank Holidays. The Tour of East End may also be booked as a private tour at a time suitable for you and your party, please send us an email to <a href="mailto:contact@insider-london.co.uk">contact@insider-london.co.uk</a> make an enquiry.
 
-** Finish Point: **
+**Finish Point:**
 
 Commercial Tavern, near Shoreditch High Street Station
 
