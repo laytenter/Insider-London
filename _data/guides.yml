@@ -1,24 +1,33 @@
-- name: Julia
-  image: /assets/images/julia-240x240.jpg
-  description: <p>Julia is a qualified City of London and City of Westminster Guide. A native Austrian, she made London her home more than 10 years ago and still finds it exciting to explore, question and dig just that little bit deeper. Sometimes she even finds a geocache while out and about!</p><p>Her favourite tour to lead for Insider London are the Retail Design tour and Modern Architecture Tour.</p>
-- name: Michelle
-  image: /assets/images/Michelle picture-240x240.jpg
-  description: <p>Driven by a keen interest in history, especially London history, Michelle works as a tour guide for Insider London alongside her work as a professional dancer. From the city's earliest beginnings to modern day London, Michelle enjoys focusing on the history of the London Underground, Georgian London and the areas of St. James's and Piccadilly. Her tours have been featured on television, in magazines and blogs. Michelle is currently working on completing her City of Westminster badge, which will develop her knowledge to further delve into the royal and political past of London.</p>
 - name: Amelia
   image: /assets/images/Amelia-240x240.jpg
   description: <p>Amelia is the tour guide for our Silicon Roundabout/Tech City Tour, London Finance Walking Tour and all our Green Tours, bringing her knowledge and experience of London life to a wider audience. She has an extensive background in the environmental sector and holds a BSc in Environmental Biology and an MSc in Environmental Technology from Imperial College London. Her career has seen her work in communities in East London as well as teaching in schools in Shenyang and Shanghai before becoming the youngest deputy leader of any UK political party as Deputy Leader of the Green Party of England and Wales.</p>
 - name: Andy
   image: /assets/images/Andy-240x240.jpg
   description: <p>Andy is an enthusiast for London and loves telling others about the city. He has a particular interest in the built environment and also, as an ex-banker, he enjoys de-mystifying the arcane world of Finance in the City of London. His aim is to provide a mix of education, information and entertainment and will always endeavour to fit any tour to his clients’ needs. He is a qualified Green Badge Guide for the City.</p>
+- name: Ans
+  image: /assets/images/Ans 240x240.jpg
+  description: <p>Ans is a Dutch Guide living in London since 2013. She is a qualified City of London and City of Westminster Guide. After moving to London she started exploring the city and was amazed by what she discovered. There are so many stories to tell and she loves sharing them with you.</p> <p>She travels the city by food but also in the Dutch fashion on he bike. Her favourite tours are educational tours in the City and East London, like finance or the Silicon Roundabout tour.</p>
+- name: Ben
+  image: /uploads/Ben-Nolan-240x240.jpg
+  description: <p>With a background of working as an actor, musician, writer, civil servant and business owner, it's no surprise that it’s the variety of stories, characters and people that inhabit this fascinating city that Ben loves bringing to life.</p><p>A qualified City of London guide, Ben loves to entertain and inform in equal measure, and specialises in Quirky, Death and Debauchery, Historical and Finance Tours for Insider London.</p>
 - name: Bob
   image: /assets/images/Bob-240x240.jpg
   description: <p>Bob has lived in London for over 40 years, and came to tour guiding through his love of London as a 'walking city second to none' and his great enthusiasm for discovering the inexhaustible richness of the capital's hidden corners. Bob has an academic and literature background, extensive teaching experience in London schools, a former Head of Sixth Form, a keen interest in exploring and communicating the city's literary heritage.</p>
-- name: Ben Nolan
-  image: /uploads/Ben-Nolan-240x240.jpg
-  description: <p>With a background of working as an actor, musician, writer, civil servant and business owner, it's no surprise that it’s the variety of stories, characters and people that inhabit this fascinating city that Ben loves bringing to life.</p><p>A qualified City of London guide, Ben loves to entertain and inform in equal measure, and specialises in Quirky, Death and Debauchery, Historical and Finance Tours for Insider London.</p>
-- name: Francis Mullan
+- name: Eden
+  image: /assets/images/Eden 240x240.jpg
+  description: <p>Eden studied History of Art at L'Universite Michel de Montaigne, Bordeaux, as well as Anthropology and French as an undergrad in London. She loves London's Street Art, and sees it as an exciting democratic platform for artistic expression. She is also interested in sustainability, having done academic research on modern eco-villages, and having volunteered with several green NGOs and touring sustainable communities. </p><p>On her return to London from France, she has become an enthusiastic tour guide about all things quirky, artistic and sustainable. </p>
+- name: Francis
   image: /uploads/Francis-Mullan-240x240.jpg
   description: <p>Francis has lived and worked in London all his working life. After 30 exciting years as a London Metropolitan Police Officer, Francis further challenged himself and qualified as a 'City of London Tour Guide'.</p><p>With his crime busting experiences in the 'East End' of London, as well as a deep understanding of 'London', especially the City of London, its people, diversity, infrastructure and transport systems.  With Francis you can be sure you are in safe, entertaining and knowledgeable hands.</p>
-- name: Stephen Senior
+- name: Julia
+  image: /assets/images/julia-240x240.jpg
+  description: <p>Julia is a qualified City of London and City of Westminster Guide. A native Austrian, she made London her home more than 10 years ago and still finds it exciting to explore, question and dig just that little bit deeper. Sometimes she even finds a geocache while out and about!</p><p>Her favourite tour to lead for Insider London are the Retail Design tour and Modern Architecture Tour.</p>
+- name: Michelle
+  image: /assets/images/Michelle picture-240x240.jpg
+  description: <p>Driven by a keen interest in history, especially London history, Michelle works as a tour guide for Insider London alongside her work as a professional dancer. From the city's earliest beginnings to modern day London, Michelle enjoys focusing on the history of the London Underground, Georgian London and the areas of St. James's and Piccadilly. Her tours have been featured on television, in magazines and blogs. Michelle is currently working on completing her City of Westminster badge, which will develop her knowledge to further delve into the royal and political past of London.</p>
+- name: Richard
+  image: /assets/images/Richard 240x240.jpg
+  description: <p>Born and bred in London, Richard is very proud and passionate about his city. Working with The Post Office for 25 years, his expertise ranges many subject including financial services. He studied acting for two years at The Questors Theatre in London, and has appeared in many of their productions, as a film extra and as supporting artist from time to time. His unique storytelling style enables him to bring to life London's rich and varied history.</p>
+- name: Stephen
   image: /uploads/StephenSenior240x240.png
   description: <p>Stephen is an architectural historian and former conservation advisor with English Heritage/Historic England, who has a great enthusiasm for our historic built environment and how it is evolving. In this respect he has a particular interest in contemporary city development, and brings this enthusiasm to all his tours for Insider London</p>
