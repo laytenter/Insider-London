@@ -13,6 +13,9 @@ These workshops, taking place from 17-31 October in the exciting Carnaby area of
 **Insider London Death & Debauchery Walking Tour**\
 If you want to learn more about the dark side of London, take part in our [Death & Debauchery Tour](https://www.insider-london.co.uk/tours/the-death-and-debauchery-tour/) of the city. For two hours you'll learn about gruesome murders, famous executions and ghostly happenings that have taken place around London. Something to get you in the mood for Halloween.
 
+Dark Arts at Warner Bros Studio: The Making of Harry Potter\
+Potterheads rejoice, even the [Warner Bros Studio Tour](https://www.wbstudiotour.co.uk/home) are celebrating Halloween. In the lead up to Halloween you'll be able to explore the darker side to the wizard franchise. Battle Death Eaters, witness 100 floating pumpkins from the spectacular Great Hall and even have a butter beer or two. 
+
 Have a great Halloween in London however you choose to celebrate. Please don’t forget to follow us on[ Facebook](http://facebook.com/insiderlondon/?fref=ts), [Twitter](https://twitter.com/insiderlondon) and [Instagram](https://www.instagram.com/insiderlondontours/) to keep up to date with Insider London. 
 
 By Sage Fitzpatrick
