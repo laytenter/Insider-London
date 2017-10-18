@@ -6,7 +6,8 @@ tags:
 - Tube
 - HOD
 - ghost
-description: Autumn with Insider London
+description: Autumn has well and truly arrived in London. Find out about our winter
+  warmer tours.
 layout: post
 ---
 
