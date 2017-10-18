@@ -20,8 +20,8 @@ defaults:
     description: ''
 name: Insider London
 description: Insider London
-baseurl: 
-url: http://www.insider-london.co.uk
+baseurl: https://www.insider-london.co.uk
+url: https://www.insider-london.co.uk
 lsi: false
 paginate: 10
 paginate_path: "/blog/page/:num/"
