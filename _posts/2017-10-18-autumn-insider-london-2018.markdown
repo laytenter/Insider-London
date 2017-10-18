@@ -2,12 +2,16 @@
 title: Autumn with Insider London
 date: 2017-10-18 10:43:00 Z
 permalink: "/autumn-insider-london/"
+tags:
+- Tube
+- HOD
+- ghost
 description: Autumn with Insider London
 layout: post
 ---
 
 ![Untitled design-12-806532.png](/uploads/Untitled%20design-12-806532.png)
-Autumn has well and truly arrived in London. Leaves line the city streets, pumpkins decorate the shops and knitted jumpers are out in full force. You may think this season is not the best to take part in a walking tour. But you may be mistaken. Insider London have a number of winter warmer tours. You spend half your time insider and the other half out. Meaning you still get to explore London, whilst keeping warm and dry in this sometimes unforgiving season.
+Autumn has well and truly arrived in London. Leaves line the city streets, pumpkins decorate the shops and knitted jumpers are out in full force. You may think this season is not the best to take part in a walking tour. But you may be mistaken. Insider London have a number of winter warmer tours. You spend half your time inside and the other half out. Meaning you still get to explore London, whilst keeping warm and dry in this sometimes unforgiving season.
 
 One tour, which is great for the whole family, is our [London Underground and Tube Tour](https://www.insider-london.co.uk/tours/london-underground-and-tube-tour/). In just two hours you can travel through 150 years worth of tube history, learning about one of the cities first underground stations, as well as one of London's most futuristic.
 
