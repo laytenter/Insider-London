@@ -2,6 +2,8 @@
 title: Halloween in London 2017
 date: 2017-10-15 18:01:00 Z
 permalink: "/halloween-in-london-2017/"
+description: Halloween is nearly upon us. Here's a short list of activities to get
+  you in the spirit.
 layout: post
 ---
 
