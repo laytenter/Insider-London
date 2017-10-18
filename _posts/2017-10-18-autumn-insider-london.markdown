@@ -1,7 +1,7 @@
 ---
 title: Autumn with Insider London
 date: 2017-10-18 10:43:00 Z
-permalink: "/autumn-with-insider-london/"
+permalink: "/autumn-insider-london/"
 layout: post
 ---
 
