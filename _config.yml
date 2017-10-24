@@ -19,6 +19,7 @@ defaults:
   values:
     description: ''
 - scope:
+    path: ''
     type: tours
   values:
     heading: ''
