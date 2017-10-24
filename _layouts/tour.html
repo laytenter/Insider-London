@@ -10,7 +10,11 @@ layout: default
     <div class="breadcrumb-wrapper ">
       <div class="container">
         <h1 class="post-title">
-          {{ page.title }}
+          {% if page.heading %}
+            {{ page.heading }}
+          {% else %}
+            {{ page.title }}
+          {% endif %}
         </h1>
       </div>
     </div>
