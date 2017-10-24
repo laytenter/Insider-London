@@ -3,10 +3,10 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  {% seo %}
+
   <style type="text/css">
     {%include css/critical.css %}
   </style>
-
-  <title>{% if page.title %}{{ page.title }} | {{ site.name }}{% else %}{{ site.title }}{% endif %}</title>
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" }}">
 </head>
