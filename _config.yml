@@ -28,8 +28,8 @@ paginate_path: "/blog/page/:num/"
 gems:
 - jekyll-paginate
 plugins_dir:
-  - jekyll-seo-tag
-  - jekyll-sitemap
+- jekyll-seo-tag
+- jekyll-sitemap
 exclude:
 - gruntfile.js
 - ".gitignore"
