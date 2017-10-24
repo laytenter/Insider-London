@@ -25,9 +25,9 @@ lsi: false
 paginate: 10
 paginate_path: "/blog/page/:num/"
 gems:
-  - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-sitemap
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-sitemap
 exclude:
 - gruntfile.js
 - ".gitignore"
