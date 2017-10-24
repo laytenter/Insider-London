@@ -17,6 +17,10 @@ defaults:
     type: posts
   values:
     description: ''
+- scope:
+    type: tours
+  values:
+    heading: ''
 name: Insider London
 description: Insider London
 baseurl: https://www.insider-london.co.uk
