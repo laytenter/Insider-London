@@ -7,7 +7,7 @@ tags:
 - historical
 - all
 - quirky
-heading: test
+description: My alternative description.
 featured: true
 tour-id: 32342
 trekksoft-tour-id: 50184
