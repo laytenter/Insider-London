@@ -21,18 +21,19 @@ defaults:
     path: ''
     type: posts
   values:
-    description: ''
-    author: 
+    description:
+    author:
 - scope:
     path: ''
     type: tours
   values:
-    heading: ''
+    heading:
+    description:  
 - scope:
     path: ''
     type: authors
   values:
-    image: 
+    image:
 name: Insider London
 description: Insider London
 baseurl: https://www.insider-london.co.uk
