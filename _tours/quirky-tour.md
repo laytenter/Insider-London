@@ -7,6 +7,7 @@ tags:
 - historical
 - all
 - quirky
+heading: test
 featured: true
 tour-id: 32342
 trekksoft-tour-id: 50184
