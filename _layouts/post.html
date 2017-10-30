@@ -10,9 +10,21 @@ layout: default
     <p class="post-meta">
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {{ page.date | date: "%b %-d, %Y" }}</time>
-        {% if author %} | <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-        <span itemprop="name">{{ author.title }}</span></span>{% endif %}
+
     </p>
+    <div class="flag">
+      {% if author %}
+        <img class="flag__image" />
+        <div class="flag__body">
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span itemprop="name">
+              {{ author.title }}
+            </span>
+          </span>
+          <span>{{ author.description }}</span>
+        </div>
+      {% endif %}
+    </div>
   </header>
   <div class="layout">
     <div class="layout__item u-2/3-lap u-3/4-desk">
