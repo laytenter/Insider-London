@@ -8,6 +8,7 @@ tags:
 - ghost
 description: Autumn has well and truly arrived in London. Find out about our winter
   warmer tours.
+author: Adam Rifat
 layout: post
 ---
 
