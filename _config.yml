@@ -9,6 +9,10 @@ collections:
     title: Tours
     output: true
     permalink: "/tours/:path/"
+  authors:
+    title: authors
+    output: true
+    permalink: "/authors/:path"
   uploads:
     title: Uploads
     output: true
@@ -18,6 +22,7 @@ defaults:
     type: posts
   values:
     description: ''
+    author: Jonas Fathy
 - scope:
     path: ''
     type: tours
@@ -25,6 +30,7 @@ defaults:
     heading: ''
 name: Insider London
 description: Insider London
+author: Jonas Fathy
 baseurl: https://www.insider-london.co.uk
 url: https://www.insider-london.co.uk
 lsi: false
