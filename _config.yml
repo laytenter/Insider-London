@@ -29,11 +29,10 @@ defaults:
   values:
     heading: ''
 - scope:
+    path: ''
     type: authors
   values:
     image:
-
-
 name: Insider London
 description: Insider London
 baseurl: https://www.insider-london.co.uk
