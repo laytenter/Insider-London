@@ -22,7 +22,7 @@ defaults:
     type: posts
   values:
     description: ''
-    author: Jonas Fathy
+    author:
 - scope:
     path: ''
     type: tours
@@ -30,7 +30,6 @@ defaults:
     heading: ''
 name: Insider London
 description: Insider London
-author: Jonas Fathy
 baseurl: https://www.insider-london.co.uk
 url: https://www.insider-london.co.uk
 lsi: false
