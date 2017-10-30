@@ -14,14 +14,16 @@ layout: default
     </p>
     <div class="flag">
       {% if author %}
-        <img class="flag__image" src="{{ author.image }}"/>
+        <div class="flag__image">
+          <img class="flag__image" src="{{ author.image }}"/>
+        </div>
         <div class="flag__body">
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
             <span itemprop="name">
               {{ author.title }}
             </span>
           </span>
-          <span>{{ author.description }}</span>
+          <span>{{ author.body }}</span>
         </div>
       {% endif %}
     </div>
