@@ -28,6 +28,12 @@ defaults:
     type: tours
   values:
     heading: ''
+- scope:
+    type: authors
+  values: 
+    image:
+
+
 name: Insider London
 description: Insider London
 baseurl: https://www.insider-london.co.uk
