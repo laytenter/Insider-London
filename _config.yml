@@ -13,7 +13,7 @@ collections:
     title: Uploads
     output: true
   authors:
-    title: authors
+    title: Authors
     output: true
     permalink: "/authors/:path"
 defaults:
@@ -30,7 +30,7 @@ defaults:
     heading: ''
 - scope:
     type: authors
-  values: 
+  values:
     image:
 
 
