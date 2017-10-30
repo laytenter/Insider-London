@@ -9,13 +9,13 @@ collections:
     title: Tours
     output: true
     permalink: "/tours/:path/"
+  uploads:
+    title: Uploads
+    output: true
   authors:
     title: authors
     output: true
     permalink: "/authors/:path"
-  uploads:
-    title: Uploads
-    output: true
 defaults:
 - scope:
     path: ''
