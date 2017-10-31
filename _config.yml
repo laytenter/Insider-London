@@ -21,20 +21,20 @@ defaults:
     path: ''
     type: posts
   values:
-    description:
-    author:
+    description: 
+    author: 
     heading: 
 - scope:
     path: ''
     type: tours
   values:
-    heading:
-    description:
+    heading: 
+    description: 
 - scope:
     path: ''
     type: authors
   values:
-    image:
+    image: 
 social:
   name: Insider London
   links:
