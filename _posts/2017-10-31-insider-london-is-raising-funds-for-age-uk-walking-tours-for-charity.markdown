@@ -9,7 +9,7 @@ layout: post
 
 We're excited to announce: In just four weeks, we'll be running special tours to raise funds for Age UK!
 
-The days are getting shorter and colder - Christmas is coming. Soon, we'll get together with friends and family, and do things we love together. At Insider London, we are all about exploring this great city of ours, and we love to share this passion with you. That's why we invite all of you to gather on **December 2nd and 3rd** and explore with us, all while supporting Age UK.
+The days are getting shorter and colder - Christmas is coming. Soon, we'll get together with friends and family, and do things we love together. At Insider London, we are all about exploring this great city of ours, and we love to share this passion with you. That's why we invite all of you to gather and explore with us, all while supporting Age UK.
 
 ### Who is Age UK
 
