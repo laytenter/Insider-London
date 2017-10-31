@@ -1,5 +1,5 @@
 ---
-title: 'Fundraising with Death & Debauchery for Guide Dogs #throwbackthursday'
+title: "#tbt: Fundraiser for Guide Dogs"
 date: 2017-10-31 16:03:00 Z
 permalink: "/dnd-gd-fundraiser-throwback/"
 published: false
@@ -11,7 +11,7 @@ In almost four weeks time, <a href="insider-london.co.uk/ageuk-fundraiser/">we'l
 
 If you want to help with the upcoming fundraiser, send an email to <a href="mailto:jonas@insider-london.co.uk">jonas@insider-london.co.uk</a> and sign up for one of our five tours!
 
-## Death & Debauchery in August
+## #throwback: Fundraising for Guide Dogs with Death & Debauchery
 
 Everybody met at 1pm at Tottenham Court Road. We were really excited that so many people had decided to join - 18! Richard was set to give a fascinating walking tour, for everyone to have a great experience.
 
