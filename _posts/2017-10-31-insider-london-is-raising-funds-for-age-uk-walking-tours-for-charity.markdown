@@ -15,7 +15,7 @@ The days are getting shorter and colder - Christmas is coming. Soon, we'll get t
 
 ### Who, why and how
 
-Age UK works to make this country a great place to grow older – for all of us. They campaign for older people's rights, provide advice, and offer services on many issues such as health and loneliness. We believe in their values just as much as we believe that walking tours are a great way to get together and explore a city in a healthy and fun way, whatever your age. So join us to support them.
+[Age UK](ageuk.org.uk) works to make this country a great place to grow older – for all of us. They campaign for older people's rights, provide advice, and offer services on many issues such as health and loneliness. We believe in their values just as much as we believe that walking tours are a great way to get together and explore a city in a healthy and fun way, whatever your age. So join us to support them.
 
 We want to raise at least £700 this December. To do so, we've set up five specially selected tours. Every penny paid for these will go to Age UK.
 
@@ -32,10 +32,11 @@ For more information on the specific tours, please visit the tour pages.
 </ul>
 
 **Sunday, 3 Dec**
-<ul>
-<li>[The Quirky London Tour](https://www.insider-london.co.uk/tours/quirky-tour/) at 11am</li>
-<li>[The East End Crime Tour](https://www.insider-london.co.uk/tours/tour-of-east-end-gangs-crimes-and-hasher-times/) at 5pm </li>
-</ul>
+
+* [The Quirky London Tour](https://www.insider-london.co.uk/tours/quirky-tour/) at 11am
+
+* [The East End Crime Tour](https://www.insider-london.co.uk/tours/tour-of-east-end-gangs-crimes-and-hasher-times/) at 5pm 
+  
 
 ## Join us and support Age UK
 
