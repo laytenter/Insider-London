@@ -33,9 +33,10 @@ For more information on the specific tours, please visit the tour pages.
 
 **Sunday, 3 Dec**
 
-* [The Quirky London Tour](https://www.insider-london.co.uk/tours/quirky-tour/) at 11am
-
-* [The East End Crime Tour](https://www.insider-london.co.uk/tours/tour-of-east-end-gangs-crimes-and-hasher-times/) at 5pm 
+<ul>
+<li> [The Quirky London Tour](https://www.insider-london.co.uk/tours/quirky-tour/) at 11am</li>
+<li>[The East End Crime Tour](https://www.insider-london.co.uk/tours/tour-of-east-end-gangs-crimes-and-hasher-times/) at 5pm </li>
+</ul>
   
 
 ## Join us and support Age UK
