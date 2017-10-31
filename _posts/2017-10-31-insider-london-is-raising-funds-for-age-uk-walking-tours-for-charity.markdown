@@ -24,13 +24,18 @@ We want to raise at least £700 this December. To do so, we've set up five speci
 These are the tours and dates.
 
 **Saturday, 2 Dec**
-* The London Underground & Tube Tour at 2pm
-* The Death & Debauchery Tour at 5pm
-* The History of Drinking & Pubs Tour at 7pm
+
+<ul>
+<li> The London Underground & Tube Tour at 2pm </li>
+<li> The Death & Debauchery Tour at 5pm</li>
+<li> The History of Drinking & Pubs Tour at 7pm</li>
+</ul>
 
 **Sunday, 3 Dec**
-* The Quirky London Tour at 11am
-* The East End Crime Tour at 5pm 
+<ul>
+<li>The Quirky London Tour at 11am</li>
+<li>The East End Crime Tour at 5pm </li>
+</ul>
 
 ## What you can do
 Join us and support a great cause – we'd love to see you on one (or several) of our tours!
