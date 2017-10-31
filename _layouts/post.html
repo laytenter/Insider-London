@@ -20,6 +20,7 @@ layout: default
         <div class="post-content" itemprop="articleBody">
           {{ content }}
         </div>
+        <hr />
         <footer>
           {% if author %}
           <div class="media">
@@ -29,14 +30,14 @@ layout: default
             <div class="media__body">
               <span itemprop="author" itemscope itemtype="http://schema.org/Person">
                 <span itemprop="name">
-                  {{ author.title | prepend: 'By '}}
+                  <em>{{ author.title | prepend: 'By '}}</em>
                 </span>
               </span>
               &nbsp;&ndash;&nbsp;
               <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-                {{ page.date | date: "%b %-d, %Y" }}
+                <em>{{ page.date | date: "%b %-d, %Y" }}</em>
               </time>
-              <br />{{ author.excerpt | strip_html }}
+              <br /><em>{{ author.excerpt | strip_html }}</em>
             </div>
           </div>
           {% else %}
