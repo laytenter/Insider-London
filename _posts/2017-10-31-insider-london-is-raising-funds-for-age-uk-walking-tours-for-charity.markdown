@@ -20,6 +20,8 @@ Age UK works to make this country a great place to grow older – for all of us.
 We want to raise at least £700 this December. To do so, we've set up five specially selected tours. Every penny paid for these will go to Age UK.
 
 ### Tours and Dates
+For more information on the specific tours, please visit the tour pages.
+
 **Saturday, 2 Dec**
 
 <ul>
