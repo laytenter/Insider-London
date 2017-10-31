@@ -1,6 +1,8 @@
 ---
 title: Insider London is raising funds for Age UK | Walking Tours for Charity
 date: 2017-10-31 14:43:00 Z
+categories:
+- all
 author: Jonas Fathy
 heading: We’re raising funds for Age UK
 ---
