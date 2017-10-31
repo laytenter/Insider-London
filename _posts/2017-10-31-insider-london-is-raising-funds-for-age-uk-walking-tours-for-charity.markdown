@@ -11,15 +11,15 @@ We're excited to announce: In just four weeks, we'll be running special tours to
 
 The days are getting shorter and colder - Christmas is coming. Soon, we'll get together with friends and family, and do things we love together. At Insider London, we are all about exploring this great city of ours, and we love to share this passion with you. That's why we invite all of you to gather on **December 2nd and 3rd** and explore with us, all while supporting Age UK.
 
-## Who is Age UK
+### Who is Age UK
 
 Age UK works to make this country a great place to grow older – for all of us. They campaign for older people's rights, provide advice, and offer services on many issues such as health and loneliness. We believe in their values just as much as we believe that walking tours are a great way to get together and explore a city in a healthy and fun way, whatever your age. So join us to support them.
 
-## How we want to support Age UK
+### Our support
 
 We want to raise at least £700 this December. To do so, we've set up five specially selected tours. Every penny paid for these will go to Age UK.
 
-## When and what tours
+### When and which
 
 These are the tours and dates.
 
