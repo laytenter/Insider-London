@@ -3,7 +3,6 @@ title: About Us
 date: 2015-05-12 00:00:00 Z
 permalink: "/about-us/"
 id: 2546744
-author: london75
 layout: page
 ---
 

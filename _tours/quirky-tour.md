@@ -13,6 +13,7 @@ trekksoft-tour-id: 50184
 show_book: true
 price: 12
 thumb: IMGP1909-300x200.jpg
+image: IMGP1909-300x200.jpg
 thumbsrcset: "/assets/images/IMGP1909-445x304.jpg 445w, /assets/images/IMGP1909-568x388.jpg
   568w"
 banner: IMGP19091-1168x600.jpg
