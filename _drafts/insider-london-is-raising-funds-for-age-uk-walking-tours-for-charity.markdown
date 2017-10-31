@@ -4,6 +4,8 @@ date: 2017-10-31 14:43:00 Z
 heading: We’re raising funds for Age UK
 ---
 
+![Explore London and Support Charity2.png](/uploads/Explore%20London%20and%20Support%20Charity2.png)
+
 We’re excited to announce: In just four weeks, we’ll be raising funds for Age UK!
 
 The days are getting shorter and colder - Christmas is coming. Soon, we get together with friends and family, and do things we love together. At Insider London, we are all about exploring this great city of ours, and we love to share this passion with you. That’s why we invite all of you to gather on December 2nd and 3rd and explore with us, all while supporting charity. How?
