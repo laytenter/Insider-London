@@ -17,7 +17,9 @@ The days are getting shorter and colder - Christmas is coming. Soon, we get toge
 
 Every penny paid for the specially selected tours that weekend will go to Age UK. Age UK works to make this country a great place to grow older – for all of us. They campaign for older people's rights, provide advice, and offer services on many issues such as health and loneliness. We believe in their values just as much as we believe that walking tours are a great way to get together and explore a city in a healthy and fun way, whatever your age. So join us to support them.
 
-We want to raise at least £700 this December. If you join any of these five tour dates (by sending an email to [jonas@insider-london.co.uk](mailto:jonas@insider-london.co.uk)), everything you pay will go towards this goal:
+We want to raise at least £700 this December. If you join any of these five tour dates (by sending an email to [jonas@insider-london.co.uk](mailto:jonas@insider-london.co.uk)), everything you pay will go towards this goal.
+
+## The Tours
 
 Saturday, 2 Dec
 * The London Underground & Tube Tour at 2pm
@@ -28,6 +30,9 @@ Sunday, 3 Dec
 * The Quirky London Tour at 11am
 * The East End Crime Tour at 5pm
 
-Join us and support a great cause – we'd love to see you there! If you are interested in booking or have any questions, please get in touch with Jonas at [jonas@insider-london.co.uk](mailto:jonas@insider-london.co.uk). 
+Join us and support a great cause – we'd love to see you there! 
+
+## How to book and support
+To book or if you have any questions, please get in touch with Jonas at [jonas@insider-london.co.uk](mailto:jonas@insider-london.co.uk). 
 
 Please also spread the word: Share of Facebook, Twitter and Instagram, share this link via email and talk to your friends and family about it. If you like what we're doing, please make sure to follow us on [Facebook](http://www.facebook.com/insiderlondon), [Twitter](https://twitter.com/insiderlondon) and [Instagram](https://www.instagram.com/insiderlondontours/). 
