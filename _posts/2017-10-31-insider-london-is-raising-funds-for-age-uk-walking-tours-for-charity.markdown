@@ -26,9 +26,9 @@ These are the tours and dates.
 **Saturday, 2 Dec**
 
 <ul>
-<li> The London Underground & Tube Tour at 2pm </li>
-<li> The Death & Debauchery Tour at 5pm</li>
-<li> The History of Drinking & Pubs Tour at 7pm</li>
+<li> [The London Underground & Tube Tour](https://www.insider-london.co.uk/tours/london-underground-and-tube-tour/) at 2pm </li>
+<li> [The Death & Debauchery Tour](https://www.insider-london.co.uk/tours/the-death-and-debauchery-tour/) at 5pm</li>
+<li> [The History of Drinking & Pubs Tour](https://www.insider-london.co.uk/tours/history-of-drinking-and-pubs/) at 7pm</li>
 </ul>
 
 **Sunday, 3 Dec**
