@@ -6,7 +6,7 @@ author: Jonas Fathy
 layout: post
 ---
 
-![tbt fundraiser for guide dogs.png](/uploads/tbt%20fundraiser%20for%20guide%20dogs.png)
+![tbt.jpg](/uploads/tbt.jpg)
 
 In almost four weeks time, <a href="insider-london.co.uk/ageuk-fundraiser/">we'll be running a fundraiser for AgeUK</a>. A few months ago, we successfully raised £800 for Guide Dogs. Let's have a look back on how our Death & Debauchery Tour went for that fundraiser. 
 
