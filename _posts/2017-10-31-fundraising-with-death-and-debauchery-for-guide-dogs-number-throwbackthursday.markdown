@@ -12,7 +12,7 @@ In almost four weeks time, <a href="insider-london.co.uk/ageuk-fundraiser/">we'l
 
 If you want to help with the upcoming fundraiser, send an email to <a href="mailto:jonas@insider-london.co.uk">jonas@insider-london.co.uk</a> and sign up for one of our five tours!
 
-## #throwback: Fundraising for Guide Dogs with Death & Debauchery
+## #throwback: Death and Debauchery
 
 Everybody met at 1pm at Tottenham Court Road. We were really excited that so many people had decided to join - 18! Richard was set to give a fascinating walking tour, for everyone to have a great experience.
 
