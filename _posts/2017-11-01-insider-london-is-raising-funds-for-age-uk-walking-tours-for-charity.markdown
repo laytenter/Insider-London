@@ -1,6 +1,6 @@
 ---
 title: Insider London raising funds for Age UK
-date: 2017-10-31 14:43:00 Z
+date: 2017-11-01 14:00:00 Z
 permalink: "/ageuk-fundraiser/"
 published: false
 author: Jonas Fathy
@@ -9,7 +9,7 @@ layout: post
 
 ![Explore London and Support Charity3.png](/uploads/Explore%20London%20and%20Support%20Charity3.png)
 
-The days are getting shorter and colder - Christmas is coming. Soon, we'll get together with friends and family, and do things we love together. At Insider London, we are all about exploring this great city of ours, we love to share this passion, and we love to do some good. That's why we're excited to announce: **In just four weeks, we'll be running special tours to raise funds for Age UK!**
+We all notice. Slowly but surely. Although we don't feel it's time yet, Christmas is coming. Soon, it will be time to get together with friends and family, and do things we love together. What we love at Insider London is exploring this great city, and sharing what we find. We believe that this is a great activity for everyone, whatever your heritage, gender or age. That's why we're excited to announce: **In just four weeks, we'll be running special tours to raise funds for Age UK!**
 
 We invite all of you to gather and explore with us.
 
@@ -39,7 +39,7 @@ For more information on the specific tours, please visit the tour pages.
 </ul>
   
 
-## Join us and support Age UK
+## Book and support Age UK
 
 To book or if you have any questions, please get in touch with Jonas at [jonas@insider-london.co.uk](mailto:jonas@insider-london.co.uk).
 
