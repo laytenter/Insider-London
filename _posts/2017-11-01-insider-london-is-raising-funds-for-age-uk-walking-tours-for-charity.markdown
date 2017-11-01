@@ -8,7 +8,7 @@ layout: post
 
 ![Age UK announcement_web.jpg](/uploads/Age%20UK%20announcement_web.jpg)
 
-We're doing it again. This summer, we <a href= "www.insider-london.co.uk/guide-dogs-fundraiser-event/">successfully raised funds for the charity Guide Dogs</a>. Since then, time has flown, and Christmas is coming. Soon, it will be time to get together with friends and family, and do things we love together. What we love at Insider London is exploring this great city, and sharing what we find. We believe that this is a great activity for everyone, whatever your heritage, gender or age. That's why we're excited to announce: **In just four weeks, we'll be running special tours to raise funds for Age UK!**
+We're doing it again. This summer, we <a href= "www.insider-london.co.uk/guide-dogs-fundraiser-event/">successfully raised funds for the charity Guide Dogs</a>. Since then, time has flown, and Christmas is coming. Soon, we'll gather with friends and family, and do things we love together. What we love at Insider London is exploring this great city, and sharing what we find. We believe that this is a great activity for everyone, whatever your heritage, gender or age. That's why we're excited to announce: **In just four weeks, we'll be running special tours to raise funds for Age UK!**
 
 We invite all of you to gather and explore with us.
 
