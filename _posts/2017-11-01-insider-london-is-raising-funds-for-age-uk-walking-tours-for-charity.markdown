@@ -6,7 +6,7 @@ author: Jonas Fathy
 layout: post
 ---
 
-![Explore London and Support Charity3.png](/uploads/Explore%20London%20and%20Support%20Charity3.png)
+![Age UK announcement_web.jpg](/uploads/Age%20UK%20announcement_web.jpg)
 
 We all notice. Slowly but surely. Although we don't feel it's time yet, Christmas is coming. Soon, it will be time to get together with friends and family, and do things we love together. What we love at Insider London is exploring this great city, and sharing what we find. We believe that this is a great activity for everyone, whatever your heritage, gender or age. That's why we're excited to announce: **In just four weeks, we'll be running special tours to raise funds for Age UK!**
 
