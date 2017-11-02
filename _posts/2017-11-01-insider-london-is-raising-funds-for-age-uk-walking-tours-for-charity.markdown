@@ -40,6 +40,6 @@ For more information on the specific tours, please visit the tour pages.
 
 ## Book and support Age UK
 
-To book or if you have any questions, please get in touch with Jonas at [jonas@insider-london.co.uk](mailto:jonas@insider-london.co.uk).
+To book or if you have any questions, please get in touch with me, Jonas, at [jonas@insider-london.co.uk](mailto:jonas@insider-london.co.uk). Please do not book via our regular booking system - send me an email with your choice of tour and date, and we'll take it from there.
 
 Please spread the word: Share on Facebook, Twitter and Instagram,  via email and talk to your friends and family about it. If you like what we're doing, please make sure to follow us on [Facebook](http://www.facebook.com/insiderlondon), [Twitter](https://twitter.com/insiderlondon) and [Instagram](https://www.instagram.com/insiderlondontours/).
