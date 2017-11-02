@@ -1,5 +1,5 @@
 ---
-title: Modern Architecture Tour
+title: Modern Architecture Tour London | Alternative London Tour
 date: 2003-01-01 10:46:00 Z
 categories:
 - educational
@@ -7,6 +7,9 @@ tags:
 - educational
 - MA
 - all
+heading: Modern Architecture Tour
+description: Learn about London’s Skyline and the modern architecture in London. Book
+  at Insider London, and get expert guides on this unusual alternative tour.
 tour-id: 29338
 trekksoft-tour-id: 50198
 price: 40
