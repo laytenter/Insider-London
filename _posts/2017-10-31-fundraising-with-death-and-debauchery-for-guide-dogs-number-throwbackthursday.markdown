@@ -2,7 +2,6 @@
 title: "#throwback: Fundraiser for Guide Dogs"
 date: 2017-10-31 16:03:00 Z
 permalink: "/dnd-gd-fundraiser-throwback/"
-published: false
 author: Jonas Fathy
 layout: post
 ---
