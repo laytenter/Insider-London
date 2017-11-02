@@ -9,13 +9,13 @@ layout: post
 
 ![tbt.jpg](/uploads/tbt.jpg)
 
-In almost four weeks time, <a href="insider-london.co.uk/ageuk-fundraiser/">we'll be running a fundraiser for AgeUK</a>. A few months ago, we successfully raised £800 for Guide Dogs. Let's have a look back on how our Death & Debauchery Tour went for that fundraiser. 
+In almost four weeks time, on 2nd and 3rd of December, <a href="insider-london.co.uk/ageuk-fundraiser/">we'll be running a fundraiser for AgeUK</a>. A few months ago, we successfully raised £800 for Guide Dogs. Let's have a look back on how our Death & Debauchery Tour went for that fundraiser. 
 
-If you want to help with the upcoming fundraiser, send an email to <a href="mailto:jonas@insider-london.co.uk">jonas@insider-london.co.uk</a> and sign up for one of our five tours!
+If you want to help with the upcoming fundraiser, sign up for one of our five tours by sending an email to <a href="mailto:jonas@insider-london.co.uk">jonas@insider-london.co.uk</a>!
 
 ## #throwback: Death and Debauchery
 
-Everybody met at 1pm at Tottenham Court Road. We were really excited that so many people had decided to join - 18! Richard was set to give a fascinating walking tour, for everyone to have a great experience.
+Everybody met at 1pm at Tottenham Court Road. We were really happy that so many people had decided to join - 18! Richard was set to give a exciting walking tour, for everyone to have a great experience.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Starting our <a href="https://twitter.com/hashtag/death?src=hash&amp;ref_src=twsrc%5Etfw">#death</a> &amp; <a href="https://twitter.com/hashtag/debauchery?src=hash&amp;ref_src=twsrc%5Etfw">#debauchery</a> tour, fundraising for <a href="https://twitter.com/guidedogs?ref_src=twsrc%5Etfw">@guidedogs</a>. We&#39;re 18 people! <a href="https://t.co/ODjoRHINf0">pic.twitter.com/ODjoRHINf0</a></p>&mdash; Insider London (@insiderlondon) <a href="https://twitter.com/insiderlondon/status/899257307061776385?ref_src=twsrc%5Etfw">August 20, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
