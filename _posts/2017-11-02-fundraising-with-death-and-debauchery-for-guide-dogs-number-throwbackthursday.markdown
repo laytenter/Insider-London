@@ -8,7 +8,7 @@ layout: post
 
 ![tbt.jpg](/uploads/tbt.jpg)
 
-In almost four weeks time, on 2nd and 3rd of December, <a href="insider-london.co.uk/ageuk-fundraiser/">we'll be running a fundraiser for AgeUK</a>. A few months ago, we successfully raised £800 for Guide Dogs. Let's have a look back on how our Death & Debauchery Tour went for that fundraiser. 
+In almost four weeks time, on 2nd and 3rd of December, <a href="https://www.insider-london.co.uk/ageuk-fundraiser/">we'll be running a fundraiser for AgeUK</a>. A few months ago, we successfully raised £800 for Guide Dogs. Let's have a look back on how our Death & Debauchery Tour went for that fundraiser. 
 
 If you want to help with the upcoming fundraiser, sign up for one of our five tours by sending an email to <a href="mailto:jonas@insider-london.co.uk">jonas@insider-london.co.uk</a>!
 
@@ -59,7 +59,7 @@ We already talked about hangings and death as punishment, but let's go into a bi
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The crime and the punishment had to match - and God help you if you tried to kill the monarch! <a href="https://twitter.com/hashtag/JackKetch?src=hash&amp;ref_src=twsrc%5Etfw">#JackKetch</a> <a href="https://twitter.com/hashtag/DeathAndDebauchery?src=hash&amp;ref_src=twsrc%5Etfw">#DeathAndDebauchery</a> <a href="https://t.co/IzHRKIZGJS">pic.twitter.com/IzHRKIZGJS</a></p>&mdash; Insider London (@insiderlondon) <a href="https://twitter.com/insiderlondon/status/899283513144475651?ref_src=twsrc%5Etfw">August 20, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-And that was it! We still fondly remember this tour, and the impact it had. £210 for a good cause, and everybody loved it. Let's repeat this success in December! Join our <a href="insider-london.co.uk/ageuk-fundraiser/">fundraising tours</a> by sending an email to <a href="mailto:jonas@insider-london.co.uk">jonas@insider-london.co.uk</a>. See you soon!
+And that was it! We still fondly remember this tour, and the impact it had. £210 for a good cause, and everybody loved it. Let's repeat this success in December! Join our <a href="https://www.insider-london.co.uk/ageuk-fundraiser/">fundraising tours</a> by sending an email to <a href="mailto:jonas@insider-london.co.uk">jonas@insider-london.co.uk</a>. See you soon!
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">We&#39;ve just finished our <a href="https://twitter.com/hashtag/DeathAndDebauchery?src=hash&amp;ref_src=twsrc%5Etfw">#DeathAndDebauchery</a> tour, which added over £210 to our fundraiser for <a href="https://twitter.com/guidedogs?ref_src=twsrc%5Etfw">@guidedogs</a>! Way to go! <a href="https://t.co/S7wrdujSJi">https://t.co/S7wrdujSJi</a> <a href="https://t.co/9drpHGQwuo">pic.twitter.com/9drpHGQwuo</a></p>&mdash; Insider London (@insiderlondon) <a href="https://twitter.com/insiderlondon/status/899287178005680128?ref_src=twsrc%5Etfw">August 20, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
