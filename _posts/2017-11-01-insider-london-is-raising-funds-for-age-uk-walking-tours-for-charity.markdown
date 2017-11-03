@@ -4,7 +4,7 @@ date: 2017-11-01 14:00:00 Z
 permalink: "/ageuk-fundraiser/"
 tags:
 - all
-description: On the December weekend, we'll run five special tours to raise funds
+description: On December 2nd and 3rd, we'll run five special tours to raise funds
   for AgeUK. Read more on how to explore London and support charity.
 author: Jonas Fathy
 layout: post
