@@ -2,6 +2,8 @@
 title: "#throwback: Fundraiser for Guide Dogs"
 date: 2017-11-02 14:03:00 Z
 permalink: "/dnd-gd-fundraiser-throwback/"
+tags:
+- Death &amp; Debauchery
 author: Jonas Fathy
 layout: post
 ---
