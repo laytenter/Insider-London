@@ -4,7 +4,13 @@
   </a>
   <div class="block__body red-bg palm-p-- lap-p- desk-p-">
     <div class="block__tour palm-p-- lap-p- desk-p-">
-      <h2 class="white">{{ tour.title }}</h2>
+      <h2 class="white">
+        {% if tour.heading %}
+          {{ tour.heading }}
+        {% else %}
+          {{ tour.title }}
+        {% endif %}
+      </h2>
       {% if tour.price %}
       <p class="product-price">
         <strong>
