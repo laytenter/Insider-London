@@ -5,7 +5,7 @@ permalink: "/autumn-insider-london/"
 tags:
 - ghost
 - tube
-- hod
+- HOD
 description: Autumn has well and truly arrived in London. Find out about our winter
   warmer tours.
 layout: post
