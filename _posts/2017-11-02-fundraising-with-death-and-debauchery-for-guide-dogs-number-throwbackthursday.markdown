@@ -3,7 +3,7 @@ title: "#throwback: Fundraiser for Guide Dogs"
 date: 2017-11-02 14:03:00 Z
 permalink: "/dnd-gd-fundraiser-throwback/"
 tags:
-- Death &amp; Debauchery
+- dnd
 description: A few months ago, we successfully raised £800 for Guide Dogs. Let's look
   back on our Death & Debauchery Tour for that fundraiser.
 author: Jonas Fathy
