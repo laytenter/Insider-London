@@ -3,9 +3,9 @@ title: Autumn with Insider London
 date: 2017-10-18 10:43:00 Z
 permalink: "/autumn-insider-london/"
 tags:
-- Tube
-- HOD
 - ghost
+- tube
+- hod
 description: Autumn has well and truly arrived in London. Find out about our winter
   warmer tours.
 layout: post
