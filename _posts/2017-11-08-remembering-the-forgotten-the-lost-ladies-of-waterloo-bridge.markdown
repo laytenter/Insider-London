@@ -1,6 +1,5 @@
 ---
-title: 'Remembering the Forgotten: The Lost Ladies of Waterloo Bridge | Remembrance
-  Day'
+title: 'Remembering the Forgotten: The Lost Ladies of Waterloo Bridge'
 date: 2017-11-08 14:00:00 Z
 permalink: "/remembrance-day-2017/"
 tags:
