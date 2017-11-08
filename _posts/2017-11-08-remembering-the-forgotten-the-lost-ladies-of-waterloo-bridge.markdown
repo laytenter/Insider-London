@@ -12,7 +12,7 @@ layout: post
 ---
 
 ![web_Women_of_World_War_II_monument_1920x1080.jpg](/uploads/web_Women_of_World_War_II_monument_1920x1080.jpg)
-*title picture courtesy of [wikimedia.commons](https://commons.wikimedia.org/wiki/File:Women_of_World_War_II_monument_02.JPG) and [Philafrenzy](https://commons.wikimedia.org/wiki/User:Philafrenzy)*
+*Title picture courtesy of [wikimedia.commons](https://commons.wikimedia.org/wiki/File:Women_of_World_War_II_monument_02.JPG) and [Philafrenzy](https://commons.wikimedia.org/wiki/User:Philafrenzy)*
  
 Women were housewives and secretaries. That was true at least in the beginning of the 20th century. Temporary liberation came from an unlikely (and tragic) event: World War II, and female conscription to the domestic war effort. 
 
