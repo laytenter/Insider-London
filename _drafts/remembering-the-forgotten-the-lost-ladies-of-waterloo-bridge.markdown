@@ -7,6 +7,7 @@ tags:
 layout: post
 ---
 
+![web_Women_of_World_War_II_monument_1920x1080.jpg](/uploads/web_Women_of_World_War_II_monument_1920x1080.jpg)
 *title picture courtesy of [wikimedia.commons](https://commons.wikimedia.org/wiki/File:Women_of_World_War_II_monument_02.JPG) and [Philafrenzy](https://commons.wikimedia.org/wiki/User:Philafrenzy)*
  
 Women were housewives and secretaries. That was true at least in the beginning of the 20th century. Temporary liberation came from an unlikely (and tragic) event: World War II, and female conscription to the domestic war effort. 
@@ -18,7 +19,7 @@ Less well known among these roles, are the 25,000 female construction workers, w
 
 ## The “Ladies Bridge” - Fact or Fiction?
 
-[Body picture of Waterloo Bridge]
+![web_Waterloo Bridge by Garry Knight.jpg](/uploads/web_Waterloo%20Bridge%20by%20Garry%20Knight.jpg)
 *Picture of Waterloo bridge by [Garry Knight](https://www.flickr.com/photos/garryknight/577592768)*
 
 Kept alive by tour guide whispers (eg on our Quirky Tour (https://www.insider-london.co.uk/tours/quirky-tour/)), the tale is that in the re-building of Waterloo Bridge, from 1941 65% of workers were in fact female. At the bridge's official opening however, in 1945, [Herbert Morrison](https://www.britannica.com/biography/Herbert-Stanley-Morrison-Baron-Morrison-of-Lambeth) thanked the “fortunate men” who built the bridge. Due to the bridge's status as a building of strategic importance during the war, there are few primary sources to consult about this blunder. It also doesn’t help that the construction company Peter Lind went into liquidation in the 1980s, the records of the workers identities lost. These ladies... if they existed at all... had been effectively erased from history.
