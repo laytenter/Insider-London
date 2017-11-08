@@ -1,5 +1,6 @@
 ---
-title: 'Remembering the Forgotten: The Lost Ladies of Waterloo Bridge'
+title: 'Remembering the Forgotten: The Lost Ladies of Waterloo Bridge | Remembrance
+  Day | Insider London'
 date: 2017-11-08 14:00:00 Z
 permalink: "/remembrance-day-2017/"
 tags:
@@ -7,8 +8,7 @@ tags:
 description: Legend is, there were 25,000 female construction workers working on Waterloo
   Bridge 1944  - but never mentioned. Read what we’ve found out.
 author: Eden Evans
-heading: 'Remembering the Forgotten: The Lost Ladies of Waterloo Bridge | Remembrance
-  Day | Insider London'
+heading: 'Remembering the Forgotten: The Lost Ladies of Waterloo Bridge'
 layout: post
 ---
 
