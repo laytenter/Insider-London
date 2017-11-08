@@ -4,6 +4,8 @@ date: 2017-11-08 14:00:00 Z
 permalink: "/remembrance-day-2017/"
 tags:
 - historical
+author: Eden Evans
+heading: 'Remembering the Forgotten: The Lost Ladies of Waterloo Bridge'
 layout: post
 ---
 
