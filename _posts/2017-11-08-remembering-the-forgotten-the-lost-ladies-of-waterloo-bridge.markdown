@@ -1,6 +1,6 @@
 ---
 title: 'Remembering the Forgotten: The Lost Ladies of Waterloo Bridge | Remembrance
-  Day | Insider London'
+  Day'
 date: 2017-11-08 14:00:00 Z
 permalink: "/remembrance-day-2017/"
 tags:
