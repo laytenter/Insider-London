@@ -38,4 +38,4 @@ Among those advocating the plaque include the Women's Engineering Society, who v
 
 English Heritage states that the purpose of the blue plaque scheme is [to link the past to the present](http://www.english-heritage.org.uk/visit/blue-plaques/about-blue-plaques/). Can the 25,000 female construction workers of World War II inspire the modern school girl?
 
-Add your name to the [petition](theladiesbridge.typeform.com/to/VfhYND) this Remembrance Day!
+Add your name to the [petition](https://theladiesbridge.typeform.com/to/VfhYND) this Remembrance Day!
