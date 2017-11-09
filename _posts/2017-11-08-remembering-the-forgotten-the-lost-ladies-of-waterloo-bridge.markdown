@@ -25,7 +25,7 @@ Less well known among these roles, are the 25,000 female construction workers, w
 ![web_Waterloo Bridge by Garry Knight.jpg](/uploads/web_Waterloo%20Bridge%20by%20Garry%20Knight.jpg)
 *Picture of Waterloo bridge by [Garry Knight](https://www.flickr.com/photos/garryknight/577592768)*
 
-Kept alive by tour guide whispers (like the riverboat guides or [ours](https://www.insider-london.co.uk/tours/quirky-tour/)), the tale dictates that in the re-building of Waterloo Bridge, from 1941 65% of workers were in fact female. At the bridge's official opening however, in 1945, [Herbert Morrison](https://www.britannica.com/biography/Herbert-Stanley-Morrison-Baron-Morrison-of-Lambeth) thanked the “fortunate men” who built the bridge. Due to the bridge's status as a building of strategic importance during the war, there a few primary sources to consult about this blunder. Furthermore, when the construction company Peter Lind furthermore went into liquidation in the 1980s, the records of the workers identities lost. These ladies... if they existed at all... had been effectively erased from history.
+Kept alive by tour guide whispers, the tale dictates that in the re-building of Waterloo Bridge, from 1941 65% of workers were in fact female. At the bridge's official opening however, in 1945, [Herbert Morrison](https://www.britannica.com/biography/Herbert-Stanley-Morrison-Baron-Morrison-of-Lambeth) thanked the “fortunate men” who built the bridge. Due to the bridge's status as a building of strategic importance during the war, there a few primary sources to consult about this blunder. Furthermore, when the construction company Peter Lind furthermore went into liquidation in the 1980s, the records of the workers identities lost. These ladies... if they existed at all... had been effectively erased from history.
 
 Nevertheless in 2005, historian Dr Christine Wall began a search for the lost ladies of Waterloo Bridge. At first the search seemed frustrating and fruitless, but then the evidence began to mount. Among other indications, three photographs emerged from the archives of the Imperial War Museum. Then the daughter of the late Peter Lind came forward to confirm the urban myth as reality – there had indeed been a considerable number of women constructing the bridge. The tour guides were telling the truth!
 
@@ -38,3 +38,5 @@ Among those advocating the plaque include the Women's Engineering Society, who v
 English Heritage states that the purpose of the blue plaque scheme is [to link the past to the present](http://www.english-heritage.org.uk/visit/blue-plaques/about-blue-plaques/). Can the 25,000 female construction workers of World War II inspire the modern school girl?
 
 Add your name to the [petition](https://theladiesbridge.typeform.com/to/VfhYND) this Remembrance Day!
+
+*Interested in the hidden stories of London Landmarks? Join us on our [Quirky Tour](https://www.insider-london.co.uk/tours/quirky-tour/).*
