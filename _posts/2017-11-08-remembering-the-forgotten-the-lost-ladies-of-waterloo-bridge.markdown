@@ -15,7 +15,9 @@ layout: post
 ![web_Women_of_World_War_II_monument_1920x1080.jpg](/uploads/web_Women_of_World_War_II_monument_1920x1080.jpg)
 *Picture of the Women of World War II monument courtesy of [wikimedia.commons](https://commons.wikimedia.org/wiki/File:Women_of_World_War_II_monument_02.JPG) and [Philafrenzy](https://commons.wikimedia.org/wiki/User:Philafrenzy)*
 
-Female conscription to the domestic war effort of World War II liberated women, from the world of housewifery and secretarial work. With the outbreak of the war came immediate labour shortages, and the [conscription of women began in 1941](http://www.bbc.co.uk/history/british/britain_wwtwo/women_at_war_01.shtml). Its peak in mid-1943 saw almost 90% of single women and 80% of married women called upon to do their part.
+Women of the 1930s were housewives and secretaries - that is, until the tragic event of WWII. Temporary liberation came from female conscription to the war effort.
+
+With the outbreak of the war came immediate labour shortages, and the [conscription of women began in 1941](http://www.bbc.co.uk/history/british/britain_wwtwo/women_at_war_01.shtml). Its peak in mid-1943 saw almost 90% of single women and 80% of married women called upon to do their part.
 
 With the return of their male counterparts in 1945, for most women their new roles had ended. Memories live on in popular culture and the public memory. The dedication of the Land Girls and of those working in the munitions factories, as well as the glamour of the Spitfire Women and female spies [will not quickly be forgotten](http://www.telegraph.co.uk/history/world-war-two/6099415/WW2-the-role-of-women-in-the-Second-World-War.html). The various roles are furthermore celebrated by the 2005 Whitehall Monument to the Women of WWII which proudly portrays seven different uniforms worn by the ladies of the Home Front.
 Less well known among these roles, are the 25,000 female construction workers, who made up 3% of workers the construction industry in 1944. It is here that we find the urban myth of the “Ladies Bridge”....
