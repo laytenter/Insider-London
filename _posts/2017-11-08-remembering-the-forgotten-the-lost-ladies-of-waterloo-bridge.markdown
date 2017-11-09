@@ -15,7 +15,7 @@ layout: post
 ![web_Women_of_World_War_II_monument_1920x1080.jpg](/uploads/web_Women_of_World_War_II_monument_1920x1080.jpg)
 *Picture of the Women of World War II monument courtesy of [wikimedia.commons](https://commons.wikimedia.org/wiki/File:Women_of_World_War_II_monument_02.JPG) and [Philafrenzy](https://commons.wikimedia.org/wiki/User:Philafrenzy)*
 
-Women of the 1930s were housewives and secretaries - that is, until the tragic event of WWII. Temporary liberation came from female conscription to the war effort.
+Women of the 1930s were housewives and secretaries - that is, until the tragic event of World War II. Temporary liberation came from female conscription to the war effort.
 
 With the outbreak of the war came immediate labour shortages, and the [conscription of women began in 1941](http://www.bbc.co.uk/history/british/britain_wwtwo/women_at_war_01.shtml). Its peak in mid-1943 saw almost 90% of single women and 80% of married women called upon to do their part.
 
