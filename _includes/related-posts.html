@@ -16,7 +16,11 @@
       {% capture tagmarkup %}
         <li class="palm-mb lap-and-up-mb">
           <a href="{{ post.permalink }}">
-            {{ post.title }}
+            {% if post.heading %}
+              {{ post.heading }}
+            {% else %}
+              {{ post.title }}
+            {% endif %}
           </a>
           <br />
           {% if post.description %}
