@@ -41,4 +41,4 @@ English Heritage states that the purpose of the blue plaque scheme is [to link t
 
 Add your name to the [petition](https://theladiesbridge.typeform.com/to/VfhYND) this Remembrance Day!
 
-*Interested in the hidden stories of London Landmarks? Join us on our [Quirky Tour](https://www.insider-london.co.uk/tours/quirky-tour/).*
+*Interested in the hidden stories of London's landmarks? Join us on our [Quirky Tour](https://www.insider-london.co.uk/tours/quirky-tour/).*
