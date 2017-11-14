@@ -6,7 +6,7 @@ permalink: "/why-experiences-are-the-best-gifts/"
 tags:
 - all
 description: Summer's just over and... woops! It's Christmas! If you're looking for
-  a Christmas gift, here's three reasons why experiences are the best gifts.
+  a gift, here's three science-based reasons why experiences are the best gifts.
 author: Jonas Fathy
 heading: Why experiences are better gifts than things
 layout: post
