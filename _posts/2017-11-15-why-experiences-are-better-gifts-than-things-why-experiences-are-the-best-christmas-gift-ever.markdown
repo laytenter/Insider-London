@@ -13,7 +13,6 @@ layout: post
 ---
 
 ![web_Sunset London 1920x1080.jpg](/uploads/web_Sunset%20London%201920x1080.jpg)
-*"Remember that beautiful sunset on the Thames?"*
 
 Summer is over, and people have come back to a regular work schedule from their time off. Suddenly – it’s Christmas! "Bugger, what gift should I get now?!" - do you know that feeling? 
 
@@ -49,8 +48,8 @@ A personal (and true!) anecdote: My favourite of our tours is the [London Underg
 ## Bringing it all together 
 Things can be great gifts – but their only value lies in the experiences they enable us to have. Phones enable us to call our loved ones. Tables and board games enable us to share our time. Books enable us to experience another world or gain new knowledge. But if your loved one already has a (working) phone, will that new one make them happier? Maybe for the day, a week or even a month. But soon, they won’t see the difference to their old phone, and the happiness fades away. An experience to anticipate, share and talk about though, will have a much larger, much longer impact. 
 
-So, if you’re looking for a gift for Christmas, and can’t think of a thing that that person needs: Get them an experience, and do something memorable together. 
+<p id="discountcode">So, if you’re looking for a gift for Christmas, and can’t think of a thing that that person needs: Get them an experience, and do something memorable together.</p>
 
-<p id="discountcode">Maybe [explore London on a walk](https://www.insider-london.co.uk/tours/)?</p>
+Maybe <a href="https://www.insider-london.co.uk/tours/">explore London on a walk?</a>
 
 *If you want to book with us this Christmas, don't forget to claim a 20% discount by using the discount code 'christmas20' during booking.*
