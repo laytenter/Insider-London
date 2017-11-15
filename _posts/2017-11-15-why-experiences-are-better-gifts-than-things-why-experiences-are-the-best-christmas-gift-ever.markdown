@@ -54,3 +54,4 @@ Things can be great gifts – but their only value lies in the experiences they 
 Maybe <a href="https://www.insider-london.co.uk/tours/">explore London on a walk?</a>
 
 *If you want to book with us this Christmas, don't forget to claim a 20% discount by using the discount code 'christmas20' during booking.*
+*To keep up to date to discount codes and what we do, follow us on [Facebook](http://www.facebook.com/insiderlondon), [Twitter](https://twitter.com/#!/insiderlondon) and [Instagram](https://www.instagram.com/insiderlondontours/).*
