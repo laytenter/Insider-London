@@ -21,7 +21,7 @@ map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.493884522092!2d-
 related:
 - 32342
 - 29349
-- 11227
+- 32336
 layout: tour
 ---
 
