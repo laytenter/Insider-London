@@ -21,7 +21,8 @@ King’s Cross has a turbulent history: From peaceful rural city escape to indus
 
 Join us on this tour through its journey and discover how it made its transition. We will look at historical aspects that made King’s Cross to what it was, examine new developments, the philosophy behind them and their impact as well as explore new interesting projects and initiatives – from arts and culture to food to business.
 
-
+![web_960x540_Kings_Cross_Station_London_UK CC BY-SA-3.0 Mervyn Rands 3374de Wikimedia Commons.jpg](/uploads/web_960x540_Kings_Cross_Station_London_UK%20CC%20BY-SA-3.0%20Mervyn%20Rands%203374de%20Wikimedia%20Commons.jpg)
+*&copy; © [User:Mervyn Rands 3374de](https://commons.wikimedia.org/w/index.php?title=User:3374de&action=edit&redlink=1) / [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) / CC BY-SA 3.0*
 
 Learn about the main pillars of philosophy: transport history, renovation and reuse of heritage buildings, interesting modern architecture, arts, and the use of public spaces. A redevelopment project such as the (still ongoing) King’s Cross Regeneration project requires many different but simultaneous approaches. 
 
