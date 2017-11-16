@@ -10,7 +10,7 @@ tags:
 show_book: false
 thumb: canary-wharf-420x287.jpg
 banner: HSBC-canary-wharf-772x579.jpg
-tour id: 11227
+tour-id: 11227
 layout: tour
 ---
 
