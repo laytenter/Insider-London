@@ -6,6 +6,12 @@ tags:
 - KCR
 - educational
 - all
+description: Join us on this tour through its journey and discover how it made its
+  transition from a peaceful rural city escape to industrial freight hub to shady
+  suburb to the up-and-coming area that attracts even Google. We will look at historical
+  aspects that made it what it was, examine new developments, the philosophy behind
+  them and their impact as well as explore new interesting projects and initiatives
+  – from arts and culture to food to business.
 tour-id: 11117
 thumb: web_300x200_Kings_Cross_Western_Concourse-CC-BY-SA-3.0.jpg
 banner: web_960x540_Kings_Cross_Western_Concourse-CC-BY-SA-3.0.jpg
