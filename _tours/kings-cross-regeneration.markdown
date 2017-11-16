@@ -8,7 +8,7 @@ tags:
 - all
 tour-id: 11117
 thumb: web_300x200_Kings_Cross_Western_Concourse-CC-BY-SA-3.0.jpg
-banner: web_300x200_Kings_Cross_Western_Concourse-CC-BY-SA-3.0.jpg
+banner: web_960x540_Kings_Cross_Western_Concourse-CC-BY-SA-3.0.jpg
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1241.0222836115836!2d-0.123693228018611!3d51.53074239951071!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNTHCsDMxJzUwLjciTiAwwrAwNycyMi4wIlc!5e0!3m2!1sde!2suk!4v1510861139042
 related:
 - 29338
@@ -38,10 +38,13 @@ Learn about the main pillars of philosophy: transport history, renovation and re
 ## What you need to know
 
 **Where do we meet?**
+
 By the sculpture on King’s Cross Square
 
 **How long is the tour?**
+
 Approximately 2 hours
 
 **Where do we finish?**
+
 By the station on York Way
