@@ -1,5 +1,5 @@
 ---
-title: "#throwback: Fundraiser for Guide Dogs"
+title: "#throwback: Death and Debauchery Tour for a good cause"
 date: 2017-11-02 14:03:00 Z
 permalink: "/dnd-gd-fundraiser-throwback/"
 tags:
