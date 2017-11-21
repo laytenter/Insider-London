@@ -14,9 +14,9 @@ layout: post
 ![web_960x540_kafai-liu-419285.jpg](/uploads/web_960x540_kafai-liu-419285.jpg)
 *Photo by [Kafai Liu](https://unsplash.com/photos/PmfErAHG1fE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
-There are some major changes happening in the UK right now, especially in London. The largest city in the UK is making the move towards going green with the use of LED street lights. With a goal of meeting 40% energy savings, the Transport for London transit authority is planning to upgrade over 35,000 streetlights with LED luminaires and install a network to control the streetlight system. As a result, North East Lincolnshire is also in pursuit of targeting 16,500 lights by next year alone.
+There are some major changes happening in the UK right now, especially in London. The largest city in the UK is making the move towards going green with the use of LED street lights. With a goal of meeting 40% energy savings, the Transport for London transit authority is planning to [upgrade over 35,000 streetlights with LED luminaires](http://www.yorkshirepost.co.uk/news/brighter-future-for-borough-as-street-lights-upgraded-1-6149378) and install a network to control the streetlight system. As a result, North East Lincolnshire is also in pursuit of targeting 16,500 lights by next year alone.
 
-Did you know that London ranks fifth place on the Arcadis Index of Sustainable Cities? As London continues to thrive and develop sustainability, more city tours are raising awareness of making London green and sustainable. Lighting produces 20% of the world’s carbon emission, which makes sense to switch the city’s light source to LED. With the ever-increasing energy prices, roughly 9 million tonnes of carbon is emitted in the UK alone.
+Did you know that London ranks fifth place on the [Arcadis Index of Sustainable Cities](https://www.arcadis.com/en/global/our-perspectives/sustainable-cities-index-2016/)? As London continues to thrive and develop sustainability, more city tours are [raising awareness of making London green and sustainable](https://www.insider-london.co.uk/10-ideas-for-a-greener-london/). Lighting produces 20% of the world’s carbon emission, which makes sense to switch the city’s light source to LED. With the ever-increasing energy prices, roughly 9 million tonnes of carbon is emitted in the UK alone.
 
 ## What is LED?
 
@@ -47,7 +47,7 @@ One of the best advantages to LED lighting is the fact that this light source ca
 
 ### Great for Emergencies
 
-In case of an emergency such as floods or earthquakes, London can be well equipped for a blackout. Since the lights run off solar energy, people would be able to keep a watch on their homes, family, and belongings with fewer worries about batteries and generators. In fact, the average LED flashlight lasts 90 hours.
+In case of an emergency such as floods or earthquakes, London can be well equipped for a blackout. Since the lights run off solar energy, people would be able to keep a watch on their homes, family, and belongings with fewer worries about batteries and generators. In fact, the [average LED flashlight lasts 90 hours](http://www.independent.co.uk/extras/indybest/house-garden/lighting/best-torch-for-dog-walking-camping-amazon-led-rechargeable-cree-9963380.html).
 
 ### Saves Money
 
@@ -56,7 +56,7 @@ LED lights are initially more expensive than iridescent light bulbs. However, th
 
 ### Promotes Better Health
 
-Do you ever feel lethargic during a rainy day? This could be due to poor lighting as good lighting is vital to your overall lifestyle. One of the top benefits of switching to LED light bulbs is how it improves your health. Not only will poor lighting affect your energy and mood swings, it can also affect your eyesight. Poor lighting is even found to have connections with Seasonal Affected Disorder, which causes depression when light starts to fall during the winter.
+Do you ever feel lethargic during a rainy day? This could be due to poor lighting as good lighting is vital to your overall lifestyle. One of the top [benefits of switching to LED light bulbs](https://www.12vmonster.com/blogs/product-questions/the-10-benefits-of-switching-to-led-light-bulbs) is how it improves your health. Not only will poor lighting affect your energy and mood swings, it can also affect your eyesight. Poor lighting is even found to have connections with Seasonal Affected Disorder, which causes depression when light starts to fall during the winter.
 
 ### Provides Durability
 
