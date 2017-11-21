@@ -25,7 +25,7 @@ LED stands for Light Emitting Diode. While it has been around for decades, they 
 When the electricity is passed through the semiconductor, tiny particles called electrons produce energy. As a result, the energy creates a form of visible light. As more electrical currents are used, the brighter the illumination will become.
 
 
-## Here are 7 advantages of London switching to LED.
+## Here are 7 advantages of London switching to LED
 
 ![web_960x540-LED_lights_strategically_placed_in_the_base_of_the_house_and_deck_help_the_University_of_Wisconsin-Milwaukee's_home_illuminate.jpg](/uploads/web_960x540-LED_lights_strategically_placed_in_the_base_of_the_house_and_deck_help_the_University_of_Wisconsin-Milwaukee's_home_illuminate.jpg)
 *LEDs can produce many different light colour without using much energy*
