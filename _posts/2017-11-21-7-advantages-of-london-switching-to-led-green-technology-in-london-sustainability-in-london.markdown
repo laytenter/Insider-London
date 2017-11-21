@@ -28,7 +28,7 @@ When the electricity is passed through the semiconductor, tiny particles called 
 ## Here are 7 advantages of London switching to LED
 
 ![web_960x540-LED_lights_strategically_placed_in_the_base_of_the_house_and_deck_help_the_University_of_Wisconsin-Milwaukee's_home_illuminate.jpg](/uploads/web_960x540-LED_lights_strategically_placed_in_the_base_of_the_house_and_deck_help_the_University_of_Wisconsin-Milwaukee's_home_illuminate.jpg)
-*LEDs can produce many different light colour without using much energy*
+*LEDs can produce many different lighting styles without using much energy*
 
 ### Less Energy Waste
 
