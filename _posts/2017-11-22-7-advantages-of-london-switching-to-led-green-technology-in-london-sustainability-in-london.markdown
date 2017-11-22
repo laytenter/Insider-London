@@ -5,8 +5,8 @@ date: 2017-11-22 10:00:00 Z
 permalink: "/7-advantages-of-switching-to-LED/"
 tags:
 - CEGT
-description: The largest city in the UK is making the move towards going green with
-  the use of LED street lights. Here's 7 reasons why that's great.
+description: London is making the move towards going green with the use of LED street
+  lights. Here's 7 reasons why that's great.
 heading: 7 Advantages of London Switching to LED
 layout: post
 ---
