@@ -1,9 +1,8 @@
 ---
 title: 7 Advantages of London Switching to LED | Green Technology in London | Sustainability
   in London
-date: 2017-11-21 14:11:00 Z
+date: 2017-11-22 10:00:00 Z
 permalink: "/7-advantages-of-switching-to-LED/"
-published: false
 tags:
 - CEGT
 description: The largest city in the UK is making the move towards going green with
