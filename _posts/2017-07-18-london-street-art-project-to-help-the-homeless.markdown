@@ -5,8 +5,7 @@ permalink: "/london-street-art-project-to-help-the-homeless-street-art-tour-lond
 categories:
 - blog
 tags:
-- street art tour in London
-layout: post
+- historical
 ---
 
 ![bigstock-London-At-Sunset-yellow-sun-l-131894576.jpg](/uploads/bigstock-London-At-Sunset-yellow-sun-l-131894576.jpg)

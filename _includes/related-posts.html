@@ -1,18 +1,15 @@
-{% comment %} Default to show the title {% endcomment %}
-{% assign showtitle = true %}
 {% assign maxRelated = 4 %}
+{% assign relatesPosts = 0 %}
 
-{% comment %} Loop over all posts {% endcomment %}
-{% for post in site.posts %}
+{% for post in site.posts %} {% comment %} Iterate over all posts {% endcomment %}
 
-{% assign sameTagCount = 0 %}
+  {% if relatesPosts == maxRelated %}
+    {% break %}
+  {% endif %}
 
-{% comment %} Loop over the tags for this post {% endcomment %}
-  {% for tag in post.tags %}
-    {% comment %} If this page (i.e. tour) has the same tag then we show it  {% endcomment %}
-    {% if page.tags contains tag %}
-      {% assign sameTagCount = sameTagCount | plus: 1 %}
-      {% comment %} Store the markup so we can spit it out later {% endcomment %}
+  {% for tag in post.tags %} {% comment %} Iterate over all tags for this post {% endcomment %}
+    {% if page.tags contains tag %} {% comment %} If page tags array contains a tag from the current post tag {% endcomment %}
+      {% assign relatesPosts = relatesPosts | plus: 1 %} {% comment %} Increment the relatPosts counter {% endcomment %}
       {% capture tagmarkup %}
         <li class="palm-mb lap-and-up-mb">
           <a href="{{ post.permalink }}">
@@ -31,18 +28,10 @@
         </li>
       {% endcapture %}
       {% assign commonTags = commonTags | append: tagmarkup %}
-    {% endif %}
-    {% comment %}If there are some actual related tags...{% endcomment %}
-    {% if sameTagCount > 0 %}
-      {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
-    {% endif %}
-    {% if maxRelatedCounter >= maxRelated %}
-      {% break %}
-    {% endif %}
-
+    {% endif %} {% comment %} End of if page.tags contains tag {% endcomment %}
   {% endfor %}
-
 {% endfor %}
+
 {% if commonTags %}
   <div class="box box--highlight palm-mb lap-mb desk-mb">
     <h3 class="palm-mt0 lap-and-up-mt0">From our blog</h3>

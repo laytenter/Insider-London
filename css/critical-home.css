@@ -23,6 +23,10 @@ a {
   background-color: transparent;
 }
 
+strong {
+  font-weight: bold;
+}
+
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
@@ -147,6 +151,12 @@ img {
   /* [3] */
 }
 
+img[width],
+img[height] {
+  /* [2] */
+  max-width: none;
+}
+
 @font-face {
   font-family: '33535gillsansmt';
   src: url("/assets/fonts/33535gillsansmt.eot");
@@ -164,8 +174,9 @@ h2 {
   color: #fff;
 }
 
-.blue {
-  color: #192e51;
+strong {
+  color: #000;
+  font-weight: 700;
 }
 
 .btn {
@@ -450,6 +461,18 @@ h2 {
   }
 }
 
+.inner-header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+@media screen and (max-width: 44.9375em) {
+  .badge {
+    display: none;
+  }
+}
+
 .telephone {
   font-weight: 700;
   text-align: center;
@@ -541,15 +564,13 @@ h2 {
 }
 
 @media screen and (max-width: 44.9375em) {
+  .palm-p-- {
+    padding: 6px !important;
+  }
+
   .palm-pv-- {
     padding-top: 6px !important;
     padding-bottom: 6px !important;
-  }
-}
-
-@media screen and (max-width: 44.9375em) {
-  .palm-p- {
-    padding: 12px !important;
   }
 }
 
