@@ -5,6 +5,8 @@ layout: default
 {% assign author = site.authors | where: 'title', page.author | first %}
 
 <div class="wrapper">
+  {% include ta-logo.html %}
+
   <header class="post-header">
     <h1 class="" itemprop="name headline">
       {% if page.heading %}

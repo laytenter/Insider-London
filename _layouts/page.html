@@ -3,17 +3,17 @@ layout: default
 ---
 
 <div class="wrapper">
-<article class="post">
-
-  <header class="post-header">
-    <div class="breadcrumb-wrapper ">
-      <div class="container">
-        <h1 class="post-title">{{ page.title }}</h1>
+  <article class="post">
+    <header class="post-header">
+      <div class="breadcrumb-wrapper ">
+        <div class="container">
+          <h1 class="post-title">{{ page.title }}</h1>
+        </div>
       </div>
-    </div>
+    </header>
 
-</header>
+    {% include ta-logo.html %}
 
-{{ content }}
-</article>
+    {{ content }}
+  </article>
 </div>

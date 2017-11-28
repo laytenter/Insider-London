@@ -121,6 +121,12 @@ html {
   }
 }
 
+@media screen and (min-width: 45em) {
+  .hidden-wide {
+    display: none;
+  }
+}
+
 a {
   text-decoration: none;
   color: #e4162f;
@@ -172,6 +178,10 @@ h2 {
 
 .white {
   color: #fff;
+}
+
+.text-centre {
+  text-align: center;
 }
 
 strong {
@@ -465,6 +475,12 @@ strong {
   display: flex;
   align-items: center;
   justify-content: space-between;
+}
+
+@media screen and (max-width: 44.9375em) {
+  .inner-header-container {
+    justify-content: center;
+  }
 }
 
 @media screen and (max-width: 44.9375em) {

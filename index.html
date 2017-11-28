@@ -3,7 +3,7 @@ title: Alternative London Tours | Hidden London Tours
 layout: default
 ---
 
-  <div class="hero">
+  <div class="hero palm-mb">
       <img class="hero__image" src="/assets/images/P1040883.JPG" alt="View of St Paul Cathedrail framed by modern glass fronted buildings." />
 
       <div class="hero__content">
@@ -16,8 +16,10 @@ layout: default
               </a>
         </div>
       </div>
-      <h2 style="text-align: center;">FEATURED TOURS</h2>
   <section class="wrapper">
+    {% include ta-logo.html %}
+
+    <h2 style="text-align: center;">FEATURED TOURS</h2>
       <div class="layout">{% for tour in site.tours %}{% if tour.featured %}<div class="layout__item u-1/4-desk u-1/2-lap u-1/2-palm">
           {% include tour-block.html %}
         </div><!-- -->{% endif %}{% endfor %}</div>
