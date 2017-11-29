@@ -1,7 +1,7 @@
 ---
 title: Getting around London | Transport in London | Travelling in London
 date: 2017-11-29 11:04:00 Z
-permalink: getting-around-London/
+permalink: "/getting-around-London/"
 tags:
 - all
 description: Public transport in London can be quite overwhelming. We'll shed some
