@@ -58,7 +58,7 @@ It’s short for *Pay As You Go*, and it involves a contactless payment card. Th
 ### What all PAYG have in common
 All PAYG methods are contactless. They are electronic cards the size of a credit card (or indeed a real contactless credit card), which you hold against the round yellow card reader on your transport vehicle on entrance. For individual journeys, all PAYG fares cost the same ([almost]( https://londonist.com/2016/06/oyster-fares-and-contactless-not-always-the-same-price)) and are the lowest ones available. They all have the same day caps, which vary depending on what zones you travel through.
 
-*"Please touch your card onto the yellow card reader." picture taken by Kenneth Jorgensen, <a href="https://commons.wikimedia.org/wiki/File%3ACanary_wharf_ticket_barrier.jpg">via Wikimedia Commons</a>*
+*"Please touch your card onto the yellow card reader." | Picture by Kenneth Jorgensen, <a href="https://commons.wikimedia.org/wiki/File%3ACanary_wharf_ticket_barrier.jpg">via Wikimedia Commons</a>*
 
 ### Oyster Card and Visitor Oyster Card
 There are standard Oyster and Visitor Oyster Cards. They both work like prepaid tickets. You put a certain amount of money on them, and then pay for your journeys by touching the card against the card reader to deduct your fare. When money’s run out, you have to recharge at a ticket machine. When you don’t need the Oyster Card anymore, you can return it and will get any balance up to £10* refunded. You can do so at virtually any Underground Station with a ticket machine (except at Gatwick airport, though).
