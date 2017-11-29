@@ -17,8 +17,6 @@ There are numerous ways of getting around London: Black Cabs, Uber, Tube, Nation
 
 In a city like London, the options can be overwhelming - even for locals. This article will lift some of the fog on how to get around London, and highlight what we consider as the best modes of transport, payment methods and navigational tools. There’s too much to cover it all, but if you enjoy it, please let us know on [Facebook](http://www.facebook.com/insiderlondon) or [Twitter](https://twitter.com/#!/insiderlondon). We might publish an extended version in the future (like, with boats and such!).
 
-First, our choices for transport in London:
-
 ## London Underground aka Tube (and rail)
 The London Underground - aka the Tube - is probably the most famous way of getting around London. It is more than [“just a stuffy, hot way of getting around London”](https://www.tripadvisor.co.uk/ShowUserReviews-g186338-d2026396-r531596068-Insider_London_Day_Tours-London_England.html#REVIEWS), though: The pioneering London Underground is the oldest underground railway system in the world, dating back to as far as 1863! We’re talking steam trains underground, electrified trains in 1890 and cutting edge design and business strategies in the beginning of the 20th century! But I’m getting off track (see what I did there?) – if you want to go down that road, check our [London Underground and Tube Tour](https://www.insider-london.co.uk/tours/london-underground-and-tube-tour/).
 
