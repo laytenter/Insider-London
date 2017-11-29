@@ -11,6 +11,8 @@ heading: Getting around London
 layout: post
 ---
 
+![960x540_streets-of-london-at-night.jpg](/uploads/960x540_streets-of-london-at-night.jpg)
+
 There are numerous ways of getting around London: Black Cabs, Uber, Tube, National Rail, Bicycles, Walking, Boats, the list goes on. Which are the best for which purpose? How do I pay for them? How do I navigate London’s streets efficiently? 
 
 In a city like London, the options can be overwhelming - even for locals. This article will lift some of the fog on how to get around London, and highlight what we consider as the best modes of transport, payment methods and navigational tools. There’s too much to cover it all, but if you enjoy it, please let us know on [Facebook](http://www.facebook.com/insiderlondon) or [Twitter](https://twitter.com/#!/insiderlondon). We might publish an extended version in the future (like, with boats and such!).
@@ -20,6 +22,7 @@ First, our choices for transport in London:
 ## London Underground aka Tube (and rail)
 The London Underground - aka the Tube - is probably the most famous way of getting around London. It is more than [“just a stuffy, hot way of getting around London”](https://www.tripadvisor.co.uk/ShowUserReviews-g186338-d2026396-r531596068-Insider_London_Day_Tours-London_England.html#REVIEWS), though: The pioneering London Underground is the oldest underground railway system in the world, dating back to as far as 1863! We’re talking steam trains underground, electrified trains in 1890 and cutting edge design and business strategies in the beginning of the 20th century! But I’m getting off track (see what I did there?) – if you want to go down that road, check our [London Underground and Tube Tour](https://www.insider-london.co.uk/tours/london-underground-and-tube-tour/).
 
+![960x540 Lancaster_Gate_tube CC BY-SA-2.0.jpg](/uploads/960x540%20Lancaster_Gate_tube%20CC%20BY-SA-2.0.jpg)
 *Lancaster Gate Tube station, picture by <a rel="nofollow" class="external text" href="http://www.flickr.com/people/73422480@N00">tompagenet</a> Tom Page - <a href="https://commons.wikimedia.org/w/index.php?curid=13294262">via Wikimedia Commons</a>*
 
 The Tube is great for medium and most long distances (say 2 km / 1.5 miles or more). It covers all of Greater London, and prices depend on what zones you go through. A journey in Zone 1-2 is £2.40* on PAYG (I’ll explain what that is [in a bit](#PAYG)). If you travel through more zones, prices vary and are subject to peak and off-peak, meaning it’s more expensive during rush hour. You can find out prices for single journeys on the [TFL website](https://tfl.gov.uk/fares-and-payments/fares/single-fare-finder), or if you’re looking for an easier fix, use the app Citymapper (another thing I’ll get into [later](#navigation)). 
@@ -38,6 +41,7 @@ Another alternative for those comfortable with left-hand driving is cycling. Giv
 
 If you don’t have your own bicycle, the cycles provided by TfL are quite affordable: You’ll get unlimited free 30 minute rides throughout the system for a total of £2.00*, payable only by credit card. Since this year, there are new players in town as well: [Obike](https://www.o.bike/) and [ofo Bikes](https://www.ofo.com/). According to [The Guardian](https://www.theguardian.com/environment/bike-blog/2017/jul/12/londons-first-dockless-hire-bike-scheme-launches) and [Wired](http://www.wired.co.uk/article/ofo-bike-sharing-london), the two major Chinese companies are set to secure a major piece of the bike sharing market in London. This might get interesting, so stay tuned.
 
+![960x540 Santander_Cycles_docking_station_in_Southwark_during_November_2015.jpg](/uploads/960x540%20Santander_Cycles_docking_station_in_Southwark_during_November_2015.jpg)
 *TFL's bicycle docking station in Southwark, picture by Nick-D, <a href="https://commons.wikimedia.org/wiki/File%3ASantander_Cycles_docking_station_in_Southwark_during_November_2015.jpg">via Wikimedia Commons</a>*
 
 There are loads of dedicated cycle lanes nowadays (thanks, Sustrans!), which enable bicycles to circumvent heavy traffic even easier than before. Cycling also means that you will get to know the city even better: Navigating by yourself, finding your way through London’s old and new streets, you’ll get to know it from a whole different perspective.
@@ -58,6 +62,7 @@ It’s short for *Pay As You Go*, and it involves a contactless payment card. Th
 ### What all PAYG have in common
 All PAYG methods are contactless. They are electronic cards the size of a credit card (or indeed a real contactless credit card), which you hold against the round yellow card reader on your transport vehicle on entrance. For individual journeys, all PAYG fares cost the same ([almost]( https://londonist.com/2016/06/oyster-fares-and-contactless-not-always-the-same-price)) and are the lowest ones available. They all have the same day caps, which vary depending on what zones you travel through.
 
+![960x540 Canary_wharf_ticket_barrier.jpg](/uploads/960x540%20Canary_wharf_ticket_barrier.jpg)
 *"Please touch your card onto the yellow card reader." | Picture by Kenneth Jorgensen, <a href="https://commons.wikimedia.org/wiki/File%3ACanary_wharf_ticket_barrier.jpg">via Wikimedia Commons</a>*
 
 ### Oyster Card and Visitor Oyster Card
@@ -79,6 +84,7 @@ Finally, how do we navigate London…?
 
 Well, not with the tube map. Many people tend to place locations in London based on the Tube map because it’s so iconic and memorable. But: It’s a diagram, not a geographical map. That often confuses visitors. Take Westminster: According to the Tube map, it’s on an East-West bend of the Thames. In fact, it’s on a North-South bend! TFL does have a good reason for the change, but it’s misleading nonetheless. 
 
+[London_Underground_full_map.svg](/uploads/London_Underground_full_map.svg)
 *This is what the tube map looks like if it was a geographic and scaled map, via [various authors on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:London_Underground_full_map.svg)*
 
 So, how are you supposed to find your way?
