@@ -74,10 +74,14 @@ These cards work like Oyster cards, but the money will be taken directly from th
 Travelcards are pretty straightforward: You pay for the card, and travel with it at no extra cost in its specified area. Mostly, you’ll be better off with the PAYG day caps, especially if you’re only travelling within Zones 1-3. There is one instance where they become interesting though: If you’ll travel seven days a week with more than three journey’s per day, you’ll usually be better off with a 7 Day Travelcard.
 You can buy Travelcards as paper tickets, or as electronic tickets, which you can load onto your standard Oyster card (not the visitor one!)
 
-<h2 id=”navigation”>Navigation - How to find your way around London</h2>
+<h2 id=”navigation”>Navigation - How to find your way in London</h2>
 Finally, how do we navigate London…? 
 
-Well, not with the tube map. Many people tend to place locations in London based on the Tube map because it’s so iconic and memorable. But: It’s a diagram, not a geographical map. That often confuses visitors. Take Westminster: According to the Tube map, it’s on an East-West bend of the Thames. In fact, it’s on a North-South bend! TFL does have a good reason for the change, but it’s misleading nonetheless. So, how are you supposed to find your way?
+Well, not with the tube map. Many people tend to place locations in London based on the Tube map because it’s so iconic and memorable. But: It’s a diagram, not a geographical map. That often confuses visitors. Take Westminster: According to the Tube map, it’s on an East-West bend of the Thames. In fact, it’s on a North-South bend! TFL does have a good reason for the change, but it’s misleading nonetheless. 
+
+*This is what the tube map looks like if it was a geographic and scaled map, via [various authors on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:London_Underground_full_map.svg)*
+
+So, how are you supposed to find your way?
 
 Our tip: [Citymapper](https://citymapper.com/) is the best app to get around in London. It shows you all the available modes of transport (including many that we haven’t mentioned here), as well as a quite reliable time and price projection. If you have an active internet connection and GPS location, live times are included. There’s walking, bus, tube, cycles, taxis, regular trains and things you’ve never heard before (I’m looking at you, Black Bus!).
 
