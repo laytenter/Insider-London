@@ -38,7 +38,7 @@ Another alternative for those comfortable with left-hand driving is cycling. Giv
 
 If you don’t have your own bicycle, the cycles provided by TfL are quite affordable: You’ll get unlimited free 30 minute rides throughout the system for a total of £2.00*, payable only by credit card. Since this year, there are new players in town as well: [Obike](https://www.o.bike/) and [ofo Bikes](https://www.ofo.com/). According to [The Guardian](https://www.theguardian.com/environment/bike-blog/2017/jul/12/londons-first-dockless-hire-bike-scheme-launches) and [Wired](http://www.wired.co.uk/article/ofo-bike-sharing-london), the two major Chinese companies are set to secure a major piece of the bike sharing market in London. This might get interesting, so stay tuned.
 
-*TFL's bicycle docking station in Southwark, picture by Nick-D  <a href="https://commons.wikimedia.org/wiki/File%3ASantander_Cycles_docking_station_in_Southwark_during_November_2015.jpg">via Wikimedia Commons</a>*
+*TFL's bicycle docking station in Southwark, picture by Nick-D, <a href="https://commons.wikimedia.org/wiki/File%3ASantander_Cycles_docking_station_in_Southwark_during_November_2015.jpg">via Wikimedia Commons</a>*
 
 There are loads of dedicated cycle lanes nowadays (thanks, Sustrans!), which enable bicycles to circumvent heavy traffic even easier than before. Cycling also means that you will get to know the city even better: Navigating by yourself, finding your way through London’s old and new streets, you’ll get to know it from a whole different perspective.
 
