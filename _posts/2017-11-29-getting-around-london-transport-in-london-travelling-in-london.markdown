@@ -83,7 +83,7 @@ Finally, how do we navigate London…?
 Well, not with the tube map. Many people tend to place locations in London based on the Tube map because it’s so iconic and memorable. But: It’s a diagram, not a geographical map. That often confuses visitors. Take Westminster: According to the Tube map, it’s on an East-West bend of the Thames. In fact, it’s on a North-South bend! TFL does have a good reason for the change, but it’s misleading nonetheless. 
 
 ![960x540 London_Underground_full_map CC-BY-SA 3.0.png](/uploads/960x540%20London_Underground_full_map%20CC-BY-SA%203.0.png)
-*This is what the tube map looked like if it was a geographic and scaled map, for a readable view please visit [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:London_Underground_full_map.svg)*
+*This is what the tube map looked like if it was a geographic and scaled map. For a readable view please visit [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:London_Underground_full_map.svg).*
 
 So, how are you supposed to find your way?
 
