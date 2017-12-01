@@ -90,7 +90,7 @@ So, how are you supposed to find your way?
 Our tip: [Citymapper](https://citymapper.com/) is the best app to get around in London. It shows you all the available modes of transport (including many that we haven’t mentioned here), as well as a quite reliable time and price projection. If you have an active internet connection and GPS location, live times are included. There’s walking, bus, tube, cycles, taxis, regular trains and things you’ve never heard before (I’m looking at you, Black Bus!).
 
 ## That’s it!
-So, good luck folks! That’s our take on [getting around London](www.londonhut.com). If you liked this article or if you’re keen for more facts about London, please follow us on [Facebook](http://www.facebook.com/insiderlondon), [Twitter](https://twitter.com/#!/insiderlondon) and [Instagram](https://www.instagram.com/insiderlondontours/). 
+So, good luck folks! That’s our take on [getting around London](https://www.londonhut.com). If you liked this article or if you’re keen for more facts about London, please follow us on [Facebook](http://www.facebook.com/insiderlondon), [Twitter](https://twitter.com/#!/insiderlondon) and [Instagram](https://www.instagram.com/insiderlondontours/). 
 
 We love to hear from you!
 
