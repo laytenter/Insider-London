@@ -13,7 +13,7 @@ layout: post
 
 ![960x540_streets-of-london-at-night.jpg](/uploads/960x540_streets-of-london-at-night.jpg)
 
-There are numerous ways of getting around London: Black Cabs, Uber, Tube, National Rail, Bicycles, Walking, Boats, the list goes on. Which are the best for which purpose? How do I pay for them? How do I navigate London’s streets efficiently? 
+There are numerous ways of [getting around London](www.londonhut.com): Black Cabs, Uber, Tube, National Rail, Bicycles, Walking, Boats, the list goes on. Which are the best for which purpose? How do I pay for them? How do I navigate London’s streets efficiently? 
 
 In a city like London, the options can be overwhelming - even for locals. This article will lift some of the fog on how to get around London, and highlight what we consider as the best modes of transport, payment methods and navigational tools. There’s too much to cover it all, but if you enjoy it, please let us know on [Facebook](http://www.facebook.com/insiderlondon) or [Twitter](https://twitter.com/#!/insiderlondon). We might publish an extended version in the future (like, with boats and such!).
 
