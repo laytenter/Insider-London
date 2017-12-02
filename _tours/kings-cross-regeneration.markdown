@@ -1,6 +1,8 @@
 ---
 title: King's Cross Regeneration
 date: 2017-11-16 19:33:00 Z
+categories:
+- educational
 tags:
 - KCR
 - educational
