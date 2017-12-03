@@ -8,7 +8,6 @@ tags:
 description: Summer's just over and... woops! It's Christmas! If you're looking for
   a gift, here's three science-based reasons why experiences are the best Christmas
   gift ever.
-author: Jonas Fathy
 heading: Why experiences are better gifts than things
 layout: post
 ---
