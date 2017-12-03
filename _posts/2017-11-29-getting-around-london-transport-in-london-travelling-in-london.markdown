@@ -6,7 +6,6 @@ tags:
 - all
 description: Public transport in London can be quite overwhelming. We'll shed some
   light on how to travel in London, and give you tips on getting around London easily.
-author: Jonas Fathy
 heading: Getting around London
 layout: post
 ---
