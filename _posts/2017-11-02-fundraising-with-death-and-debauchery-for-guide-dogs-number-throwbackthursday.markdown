@@ -6,7 +6,6 @@ tags:
 - dnd
 description: A few months ago, we successfully raised £800 for Guide Dogs. Let's look
   back on our Death & Debauchery Tour for that fundraiser.
-author: Jonas Fathy
 layout: post
 ---
 
