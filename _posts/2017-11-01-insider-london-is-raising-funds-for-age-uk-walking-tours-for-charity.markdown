@@ -6,7 +6,6 @@ tags:
 - all
 description: On December 2nd and 3rd, we'll run five special tours to raise funds
   for AgeUK. Read more on how to explore London and support charity.
-author: Jonas Fathy
 layout: post
 ---
 
