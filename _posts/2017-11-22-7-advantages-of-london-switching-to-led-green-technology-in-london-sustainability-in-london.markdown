@@ -64,6 +64,6 @@ During extreme weather such as heavy snowstorms in London, LED lighting provides
 
 Furthermore, the eco-friendly changes in London have influenced other cities such as Bath, towards making clean changes in their cities. With effective LED light solutions, switching to LED should be a standard rather than a luxury we all strive to have.
 
-*Interested in sustainability in London? Find out more about our [Sustainable Architecture Tour](https://www.insider-london.co.uk/tours/sustainable-london-architecture-tour/) and our [Cutting Edge Green Tour](https://www.insider-london.co.uk/tours/cutting-edge-green-tour/). 
+*Interested in sustainability in London? Find out more about our [Sustainable Architecture Tour](https://www.insider-london.co.uk/tours/sustainable-london-architecture-tour/) and our [Cutting Edge Green Tour](https://www.insider-london.co.uk/tours/cutting-edge-green-tour/).*
 
-For news such as discounts and special events, follow us on [Facebook](http://www.facebook.com/insiderlondon), [Twitter](https://twitter.com/insiderlondon) and [Instagram](https://www.instagram.com/insiderlondontours/).*
+*For news such as discounts and special events, follow us on [Facebook](http://www.facebook.com/insiderlondon), [Twitter](https://twitter.com/insiderlondon) and [Instagram](https://www.instagram.com/insiderlondontours/).*
