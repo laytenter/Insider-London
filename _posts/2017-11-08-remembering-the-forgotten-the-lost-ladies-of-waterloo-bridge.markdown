@@ -7,7 +7,6 @@ tags:
 - historical
 description: Legend is, there were 25,000 female construction workers working on Waterloo
   Bridge 1944  - but never mentioned. Read what we’ve found out.
-author: Eden Evans
 heading: 'Remembering the Forgotten: The Lost Ladies of Waterloo Bridge'
 layout: post
 ---
