@@ -33,16 +33,21 @@
 }
 
 .telephone {
+
   font-weight: 700;
 
   text-align:center;
 
+  a, a:hover {
+    color: $color-white;
+  }
 
   @include inuit-font-size(12px);
 
   @include media-query(lap-and-up) {
     text-align:left;
   }
+
   @include media-query(desk) {
     @include inuit-font-size(14px);
   }
@@ -51,15 +56,6 @@
 
 
 }
-
-.telephone__landline {
-  @include media-query(palm) {
-    padding-right:12px;
-  }
-
-}
-
-
 
 .dt-menu-toggle {
   display: none;
