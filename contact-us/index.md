@@ -21,4 +21,3 @@ layout: page
 
 ### ...or use the contact form below
 
-We love to hear from you!
