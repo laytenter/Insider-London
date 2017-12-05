@@ -1,9 +1,13 @@
 ---
 title: Top 5 tech cities in the UK that successfully punch above their weight | Innovative
   cities in the UK | Innovation in the UK
-date: 2017-12-05 12:53:00 Z
+date: 2017-12-06 11:00:00 Z
 permalink: "/top-5-tech-cities-UK-sized-to-population/"
+tags:
+- educational
+- SR
 heading: Top 5 tech cities in the UK that successfully punch above their weight
+layout: post
 ---
 
 ![web_960x540 Cambridge CC0.jpg](/uploads/web_960x540%20Cambridge%20CC0.jpg)
