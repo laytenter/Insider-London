@@ -48,7 +48,7 @@ One of the major factors in Cambridge’s tech success are the numerous experien
 ## Wrap up
 These are our top 5 tech cities that are punching far above their weight class.
  
-With all that, one could get the impression that London’s days are counted. Well – not so much. Based on the UK Tech Innovation Index, London is outperforming all of those five combined, single-handedly: 
+With all that, one could get the impression that London’s days are counted. Well – not so much. Based on the [UK Tech Innovation Index](http://odileeds.org/projects/uk-tech-innovation-index/), London is outperforming all of those five combined, single-handedly: 
 
 - 18 out of 22 of [techworld’s AI start-ups to watch](https://www.techworld.com/picture-gallery/startups/uk-ai-startups-watch-hottest-machine-learning-startups-in-uk-3645606/) are based in London. 
 - [8 out of 13 unicorns](https://www.cbinsights.com/research-unicorn-companies) are based in London. 
