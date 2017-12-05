@@ -48,7 +48,13 @@ The proximity to government and finance (FinTech!), the very good infrastructure
 
 *If you’re interested to learn about London’s epicentre of modern start-up culture, check out our [Silicon Roundabout and Tech City Tour](https://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/) or our [East End Retail Design Tour](https://www.insider-london.co.uk/tours/east-end-retail-design-tour/).*
 
-<hr>
+<hr style="    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;">
 
 ### PS: A word on how we measured
 As a reference, we used the measurements from the [UK Tech Innovation Index](http://odileeds.org/projects/uk-tech-innovation-index/), published by [Open Data Institute Leeds (ODILeeds)](http://odileeds.org/) and [Innovate UK](https://www.gov.uk/government/organisations/innovate-uk). We then divided these results by the [number of residents](http://ukpopulation2017.com/) of the respective areas. To get a clearer picture, we scaled these ratios to London, meaning London’s output per capita was 1. The scores for the top five were:
