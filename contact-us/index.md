@@ -18,3 +18,7 @@ layout: page
 [Facebook](http://www.facebook.com/insiderlondon)
 [Twitter](https://twitter.com/#!/insiderlondon)
 [Instagram](https://www.instagram.com/insiderlondontours/)
+
+### ...or use the contact form below
+
+We love to hear from you!
