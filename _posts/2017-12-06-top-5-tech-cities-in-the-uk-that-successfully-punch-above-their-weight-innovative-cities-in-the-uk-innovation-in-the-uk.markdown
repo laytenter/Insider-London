@@ -8,7 +8,7 @@ tags:
 - SR
 description: There's more to the tech sector in the UK than just London. Find out
   about the top 5 tech cities in the UK that successfully punch above their weight.
-heading: Top 5 tech cities in the UK that successfully punch above their weight
+heading: Top 5 tech cities in the UK successfully punching above their weight
 layout: post
 ---
 
