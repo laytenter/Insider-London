@@ -1,6 +1,6 @@
 ---
-title: Top 5 tech cities in the UK successfully punching above their weight | Innovative
-  cities in the UK | Innovation in the UK
+title: 5 most innovative cities in the UK | Innovative cities in the UK | Innovation
+  in the UK
 date: 2017-12-06 11:00:00 Z
 permalink: "/top-5-tech-cities-UK-sized-to-population/"
 tags:
@@ -8,7 +8,7 @@ tags:
 - SR
 description: There's more to the tech sector in the UK than just London. Find out
   about the top 5 tech cities in the UK that successfully punch above their weight.
-heading: Top 5 tech cities in the UK that successfully punch above their weight
+heading: 5 most innovative cities in the UK
 layout: post
 ---
 
@@ -48,16 +48,19 @@ One of the major factors in Cambridge’s tech success are the numerous experien
 ## Wrap up
 These are our top 5 tech cities that are punching far above their weight class.
  
-With all that, one could get the impression that London’s days are counted. Well – not so much. Based on the UK Tech Innovation Index, London is outperforming all of those five combined, single-handedly: 
+Upon reading this, one could get the impression that London’s days are counted. Well – not so much. Based on the [UK Tech Innovation Index](http://odileeds.org/projects/uk-tech-innovation-index/), London is outperforming all of those five combined, single-handedly: 
 
 - 18 out of 22 of [techworld’s AI start-ups to watch](https://www.techworld.com/picture-gallery/startups/uk-ai-startups-watch-hottest-machine-learning-startups-in-uk-3645606/) are based in London. 
 - [8 out of 13 unicorns](https://www.cbinsights.com/research-unicorn-companies) are based in London. 
 - From 2011 to 2015, 7,682 tech businesses [started up in London](https://technation.techcityuk.com/cluster/london/), compared to 353 in Cambridge and 232 in Oxford. 
 
-The proximity to government and finance (FinTech!), the very good infrastructure, and London’s historical and cultural appeal are still its greatest assets. However, other places are catching up, encouraged by government and passionate entrepreneurs who don’t want to spend a fortune on a decent quality of life. This is a healthy development – and interesting at that! So, stay tuned for the development of Norwich, Brighton, Edinburgh, Oxford, Cambridge, and all the other interesting places that we couldn’t mention today.
+The proximity to government and finance (FinTech!), the very good infrastructure, and London’s historical and cultural appeal are still its greatest assets. Large companies based in London are investing a lot into London's start-up environment (eg [Think Rise](https://thinkrise.com/) by Barclays, or [Wayra](https://wayra.co.uk/) by O2 Telefonica), and successful angel-investors are creating incubators and accelerators like [Innovation Warehouse](http://www.innovationwarehouse.org/) to help start-ups grow successfully.
+
+Other cities are catching up, though, encouraged by government and passionate entrepreneurs who want to spend less on a decent quality of life. This is a healthy development – and interesting at that! So, stay tuned for their development.
 
 
-*If you’re interested to learn about London’s epicentre of modern start-up culture, check out our [Silicon Roundabout and Tech City Tour](https://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/) or our [East End Retail Design Tour](https://www.insider-london.co.uk/tours/east-end-retail-design-tour/).*
+*If you’re interested to learn about London’s epicentre of modern start-up culture, check out our [Silicon Roundabout and Tech City Tour](https://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/) or our [East End Retail Design Tour](https://www.insider-london.co.uk/tours/east-end-retail-design-tour/). We can also arrange [in-depth business visits](https://www.insider-london.co.uk/tours/in-depth-business-tour/) to some of London's most interesting businesses, incubators and accelerators.*
+*To find out more about the finance sector, which drives much of London's success, check out our [London Finance Tour](https://www.insider-london.co.uk/tours/london-finance-walking-tour/) and our [Canary Wharf Finance Tour](https://www.insider-london.co.uk/tours/canary-wharf-finance-tour/)*
 
 <hr style="border-top: 1px solid #8c8b8b;">
 
