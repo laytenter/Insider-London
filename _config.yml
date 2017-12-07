@@ -21,20 +21,20 @@ defaults:
     path: ''
     type: posts
   values:
-    description:
-    author:
-    heading:
+    description: 
+    author: 
+    heading: 
 - scope:
     path: ''
     type: tours
   values:
-    heading:
-    description:
+    heading: 
+    description: 
 - scope:
     path: ''
     type: authors
   values:
-    image:
+    image: 
 social:
   name: Insider London
   links:
@@ -71,8 +71,11 @@ env: prod
 imagepath: "/assets/images/"
 compress_html:
   clippings: all
-  comments: ["<!-- ", " -->"]
+  comments:
+  - "<!-- "
+  - " -->"
   ignore:
-    envs: [local]
+    envs:
+    - local
   blanklines: true
   profile: true
