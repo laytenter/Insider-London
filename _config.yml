@@ -71,7 +71,9 @@ env: prod
 imagepath: "/assets/images/"
 compress_html:
   clippings: all
-  comments: ["<!-- ", " -->"]
+  comments:
+  - "<!-- "
+  - " -->"
   ignore:
     envs: [local]
   blanklines: false
