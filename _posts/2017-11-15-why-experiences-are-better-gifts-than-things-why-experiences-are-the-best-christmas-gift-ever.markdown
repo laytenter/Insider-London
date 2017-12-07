@@ -18,7 +18,7 @@ Summer is over, and people have come back to a regular work schedule from their 
 
 While we can’t tell you the *exact* answer to that question, we can tell you *which type* of gift could be good: Experiences. This might sound like a sales pitch (and to be honest <a href="#discountcode">it is</a>), but hang in there: There's actual science to back this up.
 
-When it comes to gifts, we often think that we should get something tangible, material.Turns out, psychology suggests otherwise. 
+When it comes to [gifts](http://www.londonhut.com/p/what-are-souvenirs-and-why-do-we-buy-them), we often think that we should get something tangible, material.Turns out, psychology suggests otherwise. 
 
 Prof. Thomas Gilovich, psychologist at the University of Cornell, says that [experiences make us much happier than material possessions](https://research.cornell.edu/news-features/intriguing-human-behavior): "People often think spending money on an experience is not as wise an investment as spending it on a material possession. They think the experience will come and go in a flash, and they'll be left with little compared to owning an item. But in reality we remember experiences long afterward, while we soon become used to our possessions. At the same time, we also enjoy the anticipation of having an experience more than the anticipation of owning a possession."
 
