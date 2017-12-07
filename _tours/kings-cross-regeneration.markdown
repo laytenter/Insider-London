@@ -8,10 +8,8 @@ tags:
 - KCR
 - educational
 - all
-description: 'King''s Cross has a turbulent history: From peaceful rural city escape
-  to industrial freight hub to shady suburb to the up-and-coming area that attracts
-  even Google. Join us on this tour through its journey and discover how it made its
-  transition.'
+description: 'Join us on this tour through King''s Cross journey from rural city escape,
+  to freight hub, to shady suburb, to the up-and-coming area that attracts even Google. '
 tour-id: 11117
 thumb: web_300x200_Kings_Cross_Western_Concourse-CC-BY-SA-3.0.jpg
 banner: web_960x540_Kings_Cross_Western_Concourse-CC-BY-SA-3.0.jpg
@@ -23,37 +21,37 @@ related:
 layout: tour
 ---
 
-*Photo &copy; [User:Colin](https://commons.wikimedia.org/wiki/User:Colin) / [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) / CC BY-SA 3.0*
+*Photo &copy; [Colin](https://commons.wikimedia.org/wiki/File:King%27s_Cross_Western_Concourse.jpg)*
 
-King's Cross has a turbulent history: From peaceful rural city escape to industrial freight hub to shady suburb to the up-and-coming area that attracts even Google. Join us on this tour through its journey and discover how it made its transition. We will 
-* look at historical aspects that made King's Cross what it was,
-* examine new developments, the philosophy behind them and their impact, 
-* as well as explore new interesting projects and initiatives – covering arts, culture, research, retail, business and innovative engineering.
+King's Cross has had a turbulent history from peaceful rural city escape, to industrial freight hub, to shady suburb, to the mighty successful and up-and-coming area that attracts even Google.
+Join us on this fascinating tour and discover how King's Cross made its remarkable transitions. It's an intriguing story and a compelling journey. During the tour we will...
 
+* Look at historical aspects that made King's Cross what it was.
+* Examine new developments, the philosophy behind them and understand the impact they had on this extraordinary area of London.
+* Explore new interesting projects and hard won initiatives the area has to offer, covering - arts, culture, research, retail, business and innovative engineering.
 
-![web_960x540_Kings_Cross_Station_London_UK CC BY-SA-3.0 Mervyn Rands 3374de Wikimedia Commons.jpg](/uploads/web_960x540_Kings_Cross_Station_London_UK%20CC%20BY-SA-3.0%20Mervyn%20Rands%203374de%20Wikimedia%20Commons.jpg)
-*Photo &copy; [User:Mervyn Rands 3374de](https://commons.wikimedia.org/wiki/File:Kings_Cross_Station_London_UK.jpg) / [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) / CC BY-SA 3.0*
+![web_960x540_kings-cross.jpg](/uploads/web_960x540_kings-cross.jpg)
 
-Learn about the main pillars of this philosophy: transport history, renovation and reuse of heritage buildings, interesting modern architecture, arts, and the creation of public spaces. A redevelopment project such as the (still ongoing) King's Cross Regeneration project requires and benefits from many different and complementary approaches.
+Learn about the main pillars that make King's Cross what it is today, the extraordinary transport history, the noteworthy renovation including the creative use of existing heritage buildings. Even more discover the genuinely interesting modern architecture, wonderful arts and uncover the (still ongoing today) redevelopment initiative which has now become a massive King's Cross Regeneration project. This tour is simply packed full of unforgettable experiences.  
 
 ## Highlights
 * Follow King's Cross's journey through time from a place to go through to a place to go to.
-* Learn more about the historical 'transport super-hub' of 2 major stations including King's Cross Station, not only iconic since its appearance in Harry Potter.
+* Learn more about the historical 'transport super-hub' of 2 major stations including King's Cross Station, instantly becoming iconic since its appearance in the Harry Potter movies.
 * Discover the area's amazing and sustainable symbiosis of renovated heritage and modern architecture.
 * Explore the importance of public spaces and arts in regeneration projects.
-* Understand King's Cross's renewed appeal that even drew in Google!
-
+* Understand King's Cross's renewed appeal so astonishing that it even drew in Google!
 
 ## What you need to know
 
 **Where do we meet?**
-
-By the bronze sculpture on King's Cross Square
+By the bronze sculpture on King’s Cross Square
 
 **How long is the tour?**
-
 Approximately 2 hours
 
 **Where do we finish?**
+This tour is a round trip, so we will finish where we started.
 
-At the meeting point
+**When does the tour run?**
+This tour is only available for private parties and can be arranged for any date or time. Furthermore, we are happy to create a bespoke programme to reflect your specific needs.
+To book the private tour, or find out more, call [0207 183 1055](tel:02071831055), or email [contact@insider-london.co.uk]( contact@insider-london.co.uk).
