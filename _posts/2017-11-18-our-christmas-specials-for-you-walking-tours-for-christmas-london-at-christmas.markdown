@@ -20,7 +20,7 @@ Christmas is coming fast. Naturally, as tour guides, we think [walking tours are
 
 Delve into secret London with this light-hearted two hour tour, rich in history, architecture and comedy. This is a tour of the quirky history of the much loved hub of theatre, entertainment and Christmas shopping! Starting at Covent Garden and finishing at Trafalgar Square, the route mixes the iconic with the obscure, and explores the hidden gems of a historic district.
 
-Our guides will take you on a journey through the history of the area from the medieval convent to the Georgian centre of scandal and debauchery! Meet Covent Garden's lively inhabitants, including the man who invented Christmas as we know it. In short, throw away the stuffy history books! Discover the hilarious and downright bizarre back-stories of some of London's most well-known landmarks and shopping streets – now with a festive twist!
+Our guides will take you on a journey through the history of the area from the medieval convent to the Georgian centre of scandal and debauchery! Meet Covent Garden's lively inhabitants, including the man who invented Christmas as we know it. In short, throw away the stuffy history books! Discover the hilarious and downright bizarre back-stories of some of [London's most well-known landmarks](http://www.londonhut.com/london/attractions) and shopping streets – now with a festive twist!
 
 *This is our festive version of our Quirky Tour. If you want to join, choose the tour on 23rd December when [booking here](https://www.insider-london.co.uk/tours/quirky-tour/).*
 
