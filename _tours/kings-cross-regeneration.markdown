@@ -43,15 +43,19 @@ Learn about the main pillars that make King's Cross what it is today, the extrao
 
 ## What you need to know
 
-**Where do we meet?**
+### Where do we meet?
+
 By the bronze sculpture on King’s Cross Square
 
-**How long is the tour?**
+### How long is the tour?
+
 Approximately 2 hours
 
-**Where do we finish?**
+### Where do we finish?
+
 This tour is a round trip, so we will finish where we started.
 
-**When does the tour run?**
+### When does the tour run?
+
 This tour is only available for private parties and can be arranged for any date or time. Furthermore, we are happy to create a bespoke programme to reflect your specific needs.
 To book the private tour, or find out more, call [0207 183 1055](tel:02071831055), or email [contact@insider-london.co.uk]( contact@insider-london.co.uk).
