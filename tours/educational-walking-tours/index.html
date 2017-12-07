@@ -11,8 +11,7 @@ layout: page
   <div class="layout__item u-2/3-lap u-3/4-desk">
   <p>Insider London offers educational guided tours which are perfect for corporate events or student groups. The Financial Walking Tour reveals how the City of London developed into a global financial centre while our Silicon Roundabout Tour gives students the chance to explore and learn about East London’s Tech hub. </p>
   <p>Alternatively, our Retail Design Tour takes in the most exciting and innovative retail design in London, with a focus on visual marketing and merchandising. Our in-depth business visits are also incredibly popular and involve a behind-the-scenes visit to one of London’s most exciting businesses where you will hear from entrepreneurs who built their companies from the ground up.</p>
-</div><!--
---><div class="layout__item u-1/3-lap u-1/4-desk">
+</div><div class="layout__item u-1/3-lap u-1/4-desk">
   <h3>Brochure</h3>
   <p>For more information about our education tours please download our PDF brochure</p>
   <p>
@@ -22,12 +21,10 @@ layout: page
 </div>
 </div>
 <div class="layout">
-{% assign tours = site.tours | where: "categories", "educational" %}
-{% for tour in tours %}
-  {% assign loopindex = forloop.index | modulo: 4 %}
-  {% if forloop.index > 1 %}-->{% endif %}<div class="layout__item u-1/4 u-1/3-lap u-1/2-palm">
+  {% assign tours = site.tours | where: "categories", "educational" %}
+  {% for tour in tours %}
+  <div class="layout__item u-1/4 u-1/3-lap u-1/2-palm">
     {% include tour-block.html %}
-
-  </div>{% if forloop.last %}{% else %}<!--{% endif %}{% endfor %}
-
+  </div>
+  {% endfor %}
 </div>
