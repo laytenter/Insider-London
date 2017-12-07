@@ -13,8 +13,7 @@ layout: page
 
 **@** [contact@insider-london.co.uk](mailto:contact@insider-london.co.uk)
 
-**T** \+44 (0) 20 7183 1055
-
+**T** \+44 (0) 20 7183 1055 <br />
 **M** \+44 (0)78 6967 8717
 
 
