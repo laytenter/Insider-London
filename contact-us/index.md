@@ -19,9 +19,9 @@ layout: page
 
 
 <p>
-<a href="http://www.facebook.com/insiderlondon" target="_blank"><img src="/uploads/fb_icon_insider-blue_small.png" alt="Facebook" style="max-height:1em;"> Facebook</a><br />
-<a href="https://twitter.com/#!/insiderlondon" target="_blank"><img src="/uploads/twitter_icon_insider-blue_small.png" alt="Twitter" style="max-height:1em;"> Twitter</a> <br />
-<a href="https://www.instagram.com/insiderlondontours/" target="_blank"><img src="/uploads/instagram_icon_insider-blue_small.png" alt="Twitter" style="max-height:1em;"> Instagram</a> <br />
+<a href="http://www.facebook.com/insiderlondon" target="_blank"><img src="/uploads/fb_icon_insider-blue_small.png" alt="Facebook" style="max-height:1em;"> &embsp;Facebook</a><br />
+<a href="https://twitter.com/#!/insiderlondon" target="_blank"><img src="/uploads/twitter_icon_insider-blue_small.png" alt="Twitter" style="max-height:1em;"> &embsp;Twitter</a> <br />
+<a href="https://www.instagram.com/insiderlondontours/" target="_blank"><img src="/uploads/instagram_icon_insider-blue_small.png" alt="Instagram" style="max-height:1em;">&embsp; Instagram</a> <br />
 </p>
 
 ### ...or use the contact form below
