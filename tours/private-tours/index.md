@@ -12,23 +12,4 @@ We are happy to assist with the arrangement of private transport from your accom
 Insider London has experience with accommodating a vast array of requests, so don’t hesitate to make an enquiry. We’re here to help!
 
 ## Our Clients
-	<img src="/uploads/airbus_logo_175x100.png" alt="Airbus">     
-	<img src="/uploads/Barclays_logo_175x100.png" alt="Barclays">    
-	<img src="/uploads/BostonU_logo_175x100.png" alt="Boston University"> 
-	<img src="/uploads/Durham%20U_logo_175x1006.png" alt="Durham University">
-	<img src="/uploads/EY_logo_175x100.png" alt="EY">     
-	<img src="/uploads/HagueU_logo_175x100.png" alt="The Hague University of Applied Sciences">
-	<img src="/uploads/HKU_logo_175x100.png" alt="University of Hong Kong">
-	<img src="/uploads/Ikea_logo_175x100.png" alt="Ikea">
-	<img src="/uploads/Imperial-College-London_logo_175x100.png" alt="Imperial College London">
-	<img src="/uploads/investec_logo_175x100.png" alt="Investec">
-	<img src="/uploads/J.P.Morgan_logo_175x100.png" alt="J.P. Morgan">
-	<img src="/uploads/KingsColl_logo_175x100.png" alt="King's College">
-	<img src="/uploads/KingstonUni_logo_175x100.png" alt="Kingston University London">
-	<img src="/uploads/KPMG_logo_175x100.png" alt="KPMG">
-	<img src="/uploads/LBS_logo_175x100.png" alt="London Business School">
-	<img src="/uploads/Legal_&amp;_General_logo_175x100.png" alt="Legal &amp; General">
-	<img src="/uploads/TATA-Steel_logo_175x100.png" alt="TATA Steel">
-	<img src="/uploads/UCL_logo_175x100.png" alt="University College London">
-	<img src="/uploads/University_of_North_Carolina_logo_175x100.png" alt="University of North Carolina">
-	<img src="/uploads/Z%C3%BCrcher_Kantonalbank_logo_175x100.png" alt="Zürcher Kantonalbank">
+
