@@ -17,11 +17,12 @@ layout: page
 
 **M** \+44 (0)78 6967 8717
 
-[Facebook](http://www.facebook.com/insiderlondon)
 
-[Twitter](https://twitter.com/#!/insiderlondon)
-
-[Instagram](https://www.instagram.com/insiderlondontours/)
+<p>
+<a href="http://www.facebook.com/insiderlondon" target="_blank"><img src="/uploads/fb_icon_insider-blue_small.png" alt="Facebook" style="max-height:1em;"> Facebook</a><br />
+<a href="https://twitter.com/#!/insiderlondon" target="_blank"><img src="/uploads/twitter_icon_insider-blue_small.png" alt="Twitter" style="max-height:1em;"> Twitter</a> <br />
+<a href="https://www.instagram.com/insiderlondontours/" target="_blank"><img src="/uploads/instagram_icon_insider-blue_small.png" alt="Twitter" style="max-height:1em;"> Instagram</a> <br />
+</p>
 
 ### ...or use the contact form below
 
