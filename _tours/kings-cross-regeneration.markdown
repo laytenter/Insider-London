@@ -49,6 +49,8 @@ Learn about the main pillars that make Kings Cross what it is today, the extraor
 
 By the bronze sculpture in the East Piazza in front of King’s Cross Train Station. When coming from the Underground, follow the signs towards Euston Road.
 
+{% include tour-map.html %}
+
 ### How long is the tour?
 
 Approximately 2 hours
