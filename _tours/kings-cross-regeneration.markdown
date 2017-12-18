@@ -1,5 +1,5 @@
 ---
-title: King's Cross Regeneration
+title: King's Cross Regeneration and Innovation Tour
 date: 2017-11-16 19:33:00 Z
 published: false
 categories:
@@ -23,16 +23,17 @@ layout: tour
 
 *Photo &copy; [Colin](https://commons.wikimedia.org/wiki/File:King%27s_Cross_Western_Concourse.jpg)*
 
-King's Cross has had a turbulent history from peaceful rural city escape, to industrial freight hub, to shady suburb, to the mighty successful and up-and-coming area that attracts even Google.
-Join us on this fascinating tour and discover how King's Cross made its remarkable transitions. It's an intriguing story and a compelling journey. During the tour we will...
+King’s Cross has had a turbulent history from peaceful rural city escape, to industrial freight hub, to shady suburb, to the mighty successful and up-and-coming area that attracts even Google.
 
-* Look at historical aspects that made King's Cross what it was.
-* Examine new developments, the philosophy behind them and understand the impact they had on this extraordinary area of London.
-* Explore new interesting projects and hard won initiatives the area has to offer, covering - arts, culture, research, retail, business and innovative engineering.
+Join us on this fascinating tour, and discover how Kings Cross made its remarkable transitions. It’s an intriguing story and a compelling journey. During the tour we will...
+
+* Look at historical aspects that made King’s Cross what it is.
+* Examine new developments, the philosophy behind them, and understand the impact they had on this extraordinary area of London.
+* Explore new interesting projects and hard won initiatives the area has to offer, covering arts, culture, research, retail, business and innovative engineering.
 
 ![web_960x540_kings-cross.jpg](/uploads/web_960x540_kings-cross.jpg)
 
-Learn about the main pillars that make King's Cross what it is today, the extraordinary transport history, the noteworthy renovation including the creative use of existing heritage buildings. Even more discover the genuinely interesting modern architecture, wonderful arts and uncover the (still ongoing today) redevelopment initiative which has now become a massive King's Cross Regeneration project. This tour is simply packed full of unforgettable experiences.  
+Learn about the main pillars that make Kings Cross what it is today, the extraordinary transport history, the noteworthy renovation including the creative use of existing heritage buildings. Even more, discover the genuinely interesting modern architecture, wonderful arts and uncover the (still ongoing) redevelopment initiative, which has now become a massive King’s Cross Regeneration project. This tour is simply packed full of unforgettable experiences, perfect for our guests interested in regeneration, magnificent British engineering, wonderful old and new architecture, or the unique knowledge based business ecosystem in King’s Cross.  
 
 ## Highlights
 * Follow King's Cross's journey through time from a place to go through to a place to go to.
