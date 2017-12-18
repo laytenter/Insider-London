@@ -37,11 +37,12 @@ Join us on this fascinating tour, and discover how Kings Cross made its remarkab
 Learn about the main pillars that make Kings Cross what it is today, the extraordinary transport history, the noteworthy renovation including the creative use of existing heritage buildings. Even more, discover the genuinely interesting modern architecture, wonderful arts and uncover the (still ongoing) redevelopment initiative, which has now become a massive King’s Cross Regeneration project. This tour is simply packed full of unforgettable experiences, perfect for our guests interested in regeneration, magnificent British engineering, wonderful old and new architecture, or the unique knowledge based business ecosystem in King’s Cross.  
 
 ## Highlights
-* Follow King's Cross's journey through time from a place to go through to a place to go to.
-* Learn more about the historical 'transport super-hub' of 2 major stations including King's Cross Station, instantly becoming iconic since its appearance in the Harry Potter movies.
-* Discover the area's amazing and sustainable symbiosis of renovated heritage and modern architecture.
+
+* Follow King’s Cross’s journey through time from a place to go through to a place to go to.
+* Learn more about the historical ‘transport super-hub’ of 2 major stations including King’s Cross Station, instantly becoming iconic since its appearance in the Harry Potter movies.
+* Discover the area’s amazing and sustainable symbiosis of renovated heritage and modern architecture.
 * Explore the importance of public spaces and arts in regeneration projects.
-* Understand King's Cross's renewed appeal so astonishing that it even drew in Google!
+* Understand King’s Cross’s renewed appeal so astonishing that it even drew in Google!
 
 ## What you need to know
 
