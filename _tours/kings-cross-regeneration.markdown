@@ -48,7 +48,7 @@ Learn about the main pillars that make Kings Cross what it is today, the extraor
 
 ### Where do we meet?
 
-By the bronze sculpture on King’s Cross Square
+By the bronze sculpture in the East Piazza in front of King’s Cross Train Station. When coming from the Underground, follow the signs towards Euston Road.
 
 ### How long is the tour?
 
