@@ -71,7 +71,7 @@ See where tomorrow’s trends are created, where killer concepts are born, where
 
 **Where do we meet?**
 
-<em>Shoreditch Grind on Old Street</em>
+Shoreditch Grind on Old Street
 
 **How long is the tour?**
 
