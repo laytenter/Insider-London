@@ -8,6 +8,7 @@ tags:
 - KCR
 - educational
 - all
+heading: King's Cross Regeneration and Innovation Tour
 description: 'Join us on this tour through King''s Cross journey from rural city escape,
   to freight hub, to shady suburb, to the up-and-coming area that attracts even Google. '
 tour-id: 11117
