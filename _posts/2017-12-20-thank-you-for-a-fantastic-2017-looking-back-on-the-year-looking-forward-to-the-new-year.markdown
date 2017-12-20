@@ -41,6 +41,6 @@ For your checklist of London’s sights, we have the **Westminster Highlights To
 
 As you can see, we’re looking forward to a great 2018. And so we’d like to end with our favourite quote by Samuel Johnson:
 
-> When one is tired of London, they are tired of life.
+> 'When one is tired of London, they are tired of life.'
 
 Merry Christmas and a Happy New Year!
