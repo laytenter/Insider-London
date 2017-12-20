@@ -36,6 +36,7 @@ And last, but certainly not least, our fantastic partners! Without them, we coul
 The end of one year is also the beginning of the next – and we’re up to a few exciting things! We have a few new and intriguing businesses lined up to visit next year. Furthermore, we’ve got at least two more new tours up our sleeves.
 
 There’s the **[King’s Cross Regeneration Tour](https://www.insider-london.co.uk/tours/kings-cross-regeneration/)**: It’s all about the redevelopment of the area from rural city escape to freight hub to shady suburb to a vibrant part of the city that even attracts Google. Arts, transport, tech, architecture, you name it; there’s a bit for everyone. 
+
 For your checklist of London’s sights, we have the **Westminster Highlights Tour**: In just two hours, you will learn all about the greatest sights in the City of Westminster. It’s all about the things you must not miss when visiting London.
 
 As you can see, we’re looking forward to a great 2018. And so we’d like to end with our favourite quote by Samuel Johnson:
