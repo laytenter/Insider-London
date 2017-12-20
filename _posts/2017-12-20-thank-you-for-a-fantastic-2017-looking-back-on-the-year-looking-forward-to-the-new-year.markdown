@@ -12,6 +12,7 @@ layout: post
 ---
 
 ![IMG_-wesi10.jpg](/uploads/IMG_-wesi10.jpg)
+
 The year 2017 is coming to an end. When it is time to convene with our nearest and dearest, it is also time to look back. We’ve had a wonderful 2017 –  thank you all!
 
 ## Thank you, guests!
