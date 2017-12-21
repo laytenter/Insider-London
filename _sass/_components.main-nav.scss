@@ -134,32 +134,47 @@
 }
 
 .site-nav__item--parent:hover > .sub-menu {
+
   display: block;
 }
 
 .sub-menu {
-  display: none;
-  text-align: left;
-  width: 240px;
-  background: #fff;
-  padding: 0;
-  position: absolute;
-  z-index: 1;
-  box-shadow: 0 5px 4px rgba(0,0,0,.1);
-  border-top: $color-brand 3px solid;
   list-style-type: none;
+  text-indent: $inuit-base-spacing-unit;
+  width: auto;
+  background: initial;
+  display: block;
+  position: initial;
+
+  @include media-query(lap-and-up) {
+    text-indent: 0;
+    display: none;
+    text-align: left;
+    width: 240px;
+    background: #fff;
+    padding: 0;
+    position: absolute;
+    z-index: 1;
+    box-shadow: 0 5px 4px rgba(0,0,0,.1);
+    border-top: $color-brand 3px solid;
+  }
 }
 
 .sub-menu__link {
-  color: $color-gray;
-  font-weight: normal;
-  text-transform: capitalize;
-  @include inuit-font-size(14px);
-  display:block;
-  padding: $inuit-base-spacing-unit--small;
-  &:hover {
-    background: $color-blue;
-    color: $color-white;
+
+  color: $color-white;
+
+  @include media-query(lap-and-up) {
+    color: $color-gray;
+    font-weight: normal;
+    text-transform: capitalize;
+    @include inuit-font-size(14px);
+    display:block;
+    padding: $inuit-base-spacing-unit--small;
+    &:hover {
+      background: $color-blue;
+      color: $color-white;
+    }
   }
 }
 .menu-toggle__button {
