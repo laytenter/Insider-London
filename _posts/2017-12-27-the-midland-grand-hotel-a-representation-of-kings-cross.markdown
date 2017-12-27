@@ -15,7 +15,7 @@ layout: post
 
 ![web_960x540_St Pancras Pixabay CCO.jpg](/uploads/web_960x540_St%20Pancras%20Pixabay%20CCO.jpg)
 
-The iconic St Pancras Renaissance Hotel towers over the surrounding area. Its luxurious facade is not only famous since it's [appearance as King's Cross in Harry Potter](https://stpancras.com/art/st-pancras-on-film-and-tv): Behind it lies a rich history, a history which parallels the history of King's Cross itself. We have traced the history of this mysterious palace to reveal the story of an area transformed. From Victorian London to the twenty-first century, the building first named the Midland Grand hotel, stood right at the heart of the King's Cross evolution.
+The iconic St Pancras Renaissance Hotel towers over the surrounding area. Its luxurious facade is not only famous since its [appearance as King's Cross in Harry Potter](https://stpancras.com/art/st-pancras-on-film-and-tv): Behind it lies a rich history, a history which parallels the history of King's Cross itself. We have traced the history of this mysterious palace to reveal the story of an area transformed. From Victorian London to the twenty-first century, the building first named the Midland Grand hotel, stood right at the heart of the King's Cross evolution.
 
 ## Transport and Business Hub
 
