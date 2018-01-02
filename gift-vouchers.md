@@ -24,4 +24,4 @@ To buy your vouchers simply visit our shop and select the value you would like.
     text-shadow: #720b17 2px 2px 3px;
     font: normal normal bold 20px arial;
     color: #ffffff;
-    text-decoration: none;" href="http://shop.insider-london.co.uk/en_GB/vouchers">BUY GIFT VOUCHER HERE</a>
+    text-decoration: none;" href="http://shop.insider-london.co.uk/en_GB/vouchers">BUY VOUCHER HERE</a>
