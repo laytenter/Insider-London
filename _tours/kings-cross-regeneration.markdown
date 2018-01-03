@@ -57,7 +57,7 @@ Approximately 2 hours
 
 ### Where do we finish?
 
-This tour is a round trip, so we will finish where we started.
+We'll end at King's Place, 90 York Way, a short 5-10 walk from where we started.
 
 ### When does the tour run?
 
