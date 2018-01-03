@@ -7,6 +7,8 @@ tags:
 - historical
 - all
 - tube
+description: 'The original London Underground and Tube Tour: Travel across 150 years
+  in just two hours aboard our awesome London Underground and Tube Tour!'
 tour-id: 32143
 trekksoft-tour-id: 50159
 show_book: true
