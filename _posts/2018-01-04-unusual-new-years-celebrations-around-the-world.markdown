@@ -32,4 +32,4 @@ Many New Year’s traditions involve some way of making noise. While most use fi
 
 Those were our five favourite odd and quirky New Year’s Eve traditions. We hope you enjoyed our list, and wish you luck, prosperity, and a very happy New Year 2018!
 
-*If you enjoy all things odd and quirky, check out our [Quirky Tour](https://www.insider-london.co.uk/tours/quirky-tour/). We’d love to introduce you to the rare, eccentric, comical, and just plain quirky facts about London.*
+*If you enjoy all things odd and quirky, check out our [Quirky Tour](https://www.insider-london.co.uk/tours/quirky-tour/). We’ll love to introduce you to the rare, eccentric, comical, and just plain quirky facts about London.*
