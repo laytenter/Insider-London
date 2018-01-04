@@ -3,7 +3,8 @@ title: Unusual New Year’s Celebrations around the World
 date: 2018-01-04 09:49:00 Z
 permalink: "/new-year-celebrations-around-the-world/"
 tags:
-- all
+- historical
+- Quirky
 description: The New Year has arrived – happy 2018, everyone! We've put together a
   list of five of our favourite – and more unusual – New Year’s traditions.
 heading: Unusual New Year’s Celebrations around the World
