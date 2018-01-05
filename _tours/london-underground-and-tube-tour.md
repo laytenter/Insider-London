@@ -50,28 +50,28 @@ Insider London's award winning London Underground and Tube Tour limits group siz
 
 ## What you need to know
 
-**Where is the meeting point?**
+### Where is the meeting point?
 
 Baker Street Station, at the Sherlock Holmes Statue
 
-**How long will The London Underground and Tube Tour take?**
+### How long will The London Underground and Tube Tour take?
 
 The tour is around two hours long – it starts at historic Baker Street Station and finishes at futuristic Westminster station. The route may change if stations are closed due to improvement work.
 
-**Price:**
+### Price:
 
  - Adult: £20
  - Child (under age 12): £12
  - Senior (60+): £12
 
-**When does the tour run?**
+### When does the tour run?
 
 The tour runs weekly 11am Wednesday, Thursday, Friday, Saturday, 2pm Sunday and 11am UK Bank Holidays.
 The London Underground/Tube tour may also be booked as a private tour at a time suitable for you and your party, [please send us an email](/contact-us/) to make an enquiry.
 
 We can also arrange a Private London Underground Tour in German, please send us an email: contact@insider-london.co.uk, we will arrange it for you
 
-**What do I need to take?**
+### What do I need to take?
 
 As the tour moves in and out of tube stations, you will need a zone 1 Travelcard or an Oyster card with £7 of pay-as-you-go credit. Please note this is not included in the ticket price.
 
