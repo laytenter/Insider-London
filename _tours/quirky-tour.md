@@ -61,7 +61,7 @@ In front of Marks & Spencer, opposite to Covent Garden tube station.
 
 Approximately 2 hours
 
-### Price
+### Price:
 
 - Adult: £12
 - Child (under age 12): £10
