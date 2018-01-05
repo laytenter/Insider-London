@@ -32,24 +32,24 @@ The East End of London is a characterful hotspot of design, fashion and art. Thi
 
 Beginning the tour near Liverpool Street Station, your Insider guide will unravel the history of the East End which plays a crucial role in why this area attracts the latest trendsetters in design, fashion and art. Discover local chocolatiers, perfumers and find the plethora of vintage clothing shops that have taken Brick Lane by storm. From brands you may know to homegrown names, you will see, smell, taste and even feel what these brands are doing to reignite the highstreet! Finishing near Shoreditch High Street Station, this twohour walking tour will leave you inspired, invigorated and hopefully fuel your enthusiasm for your own work.
 
-### What you need to know
+## What you need to know
 
-**Where do we meet?**
+### Where do we meet?
 
 In front of the Andaz Hotel near Liverpool Street Station
 
-**How long is the tour?**
+{% include tour-map.html %}
+
+### How long is the tour?
 
 Approximately two hours
 
-**When does the tour run?**
+### When does the tour run?
 
 This tour is only available for private parties and can be arranged for any date or time. Furthermore, we are happy to create a bespoke programme to reflect your specific needs.
 
 To book the private tour, or find out more, call 0207 183 1055, or email: <a href="mailto:contact@insider-london.co.uk">contact@insider-london.co.uk</a>
 
-**Where does the tour finish?**
+### Where does the tour finish?
 
 Shoreditch High Street Station
-
-{% include tour-map.html %}
