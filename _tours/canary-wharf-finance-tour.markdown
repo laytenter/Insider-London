@@ -49,15 +49,15 @@ You’ll see No. 1 Canary Wharf, for a while the tallest building in the UK, you
 
 ## What you need to know
 
-**Where do we meet?**
+### Where do we meet?
 
 Canary Wharf DLR Station
 
-**How long is the Tour?**
+### How long is the Tour?
 
 2 hours
 
-**Where do we finish**
+### Where do we finish
 
 Near Canary Wharf Station
 
