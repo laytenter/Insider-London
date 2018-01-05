@@ -193,6 +193,20 @@
   text-transform: uppercase;
 }
 
+#footer .newsletter-opt-in {
+  display:-webkit-box;
+  display:-ms-flexbox;
+  display:flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+
+  .subscribe {
+    margin-bottom: 0;
+    width: auto;
+    margin-right: $inuit-base-spacing-unit--small;
+  }
+}
 
 #footer input, textarea {
   border: #ccc 1px solid;
