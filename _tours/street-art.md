@@ -47,30 +47,30 @@ The Street Art Tour is a hit for all kinds of people and since the street art sc
 
 ## What you need to know
 
-**Where do we meet?**
+### Where do we meet?
 
 Outside of Shoreditch High Street Overground station.
 
 {% include tour-map.html %}
 
-**How long is the tour?**
+### How long is the tour?
 
 Approximately two hours            
 
-**Price:**
+### Price:
 - Adult: £20
 - Child (under age 12): £12
 - Senior (60+): £12
 
-**When does the tour run?**
+### When does the tour run?
 
 The tour runs weekly: 2pm Saturday
 
 The London Street Art Tour may also be booked as a private tour at a time suitable for you and your party, <a href="/contact-us/">please send us an email to make an enquiry.</a>
 
-We can also arrange a Private Street Art Tour in French and Italian, please send us an <a href="/contact-us/">please send us an email</a> and we will arrange it for you
+We can also arrange a Private Street Art Tour in French and Italian, <a href="/contact-us/">please send us an email</a> and we will arrange it for you.
 
-**Where does the tour finish?**
+### Where does the tour finish?
 
 The tour finished at the old Truman Brewery, a short walk from Liverpool Street Station.
 
