@@ -52,15 +52,17 @@ Our eye-opening, informative guided tour of London City is ideal for corporate g
 
 ## What you need to know
 
-**Where do we meet?**
+### Where do we meet?
 
 Panyer Alley, outside St Paul&#8217;s tube station
 
-**How long is the tour?**
+{% include tour-map.html %}
+
+### How long is the tour?
 
 Approximately two hours
 
-**When does the tour run?**
+### When does the tour run?
 
 As it is a highly specialised tour, this tour is only available for private parties and can be arranged for any date or time, our most experienced and knowledgeable tour guides will be allocated to your group.
 
@@ -70,8 +72,6 @@ To book the private tour, or find out more, call 0207 183 1055, or email: <a hr
 
 We can also arrange a Private Finance Tour in German and we will arrange it for you. To book the private tour, or find out more, call 0207 183 1055, or email: contact@insider-london.co.uk
 
-**Where does the tour finish?**
+### Where does the tour finish?
 
 Willis Building on Lime Street
-
-{% include tour-map.html %}
