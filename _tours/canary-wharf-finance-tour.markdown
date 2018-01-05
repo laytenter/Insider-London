@@ -61,4 +61,4 @@ Canary Wharf DLR Station
 
 Near Canary Wharf Station
 
-This tour is only available for private groups, to book your tour, please send us an email: contact@insider-london.co.uk, alternatively, you can reach us on: +44 (0) 20 7183 1055
+This tour is only available for private groups, to book your tour, please send us an email: <a href="mailto:contact@insider-london.co.uk">contact@insider-london.co.uk</a>, alternatively, you can reach us on: +44 (0) 20 7183 1055
