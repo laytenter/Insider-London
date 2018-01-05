@@ -53,6 +53,7 @@ Insider London's award winning London Underground and Tube Tour limits group siz
 ### Where is the meeting point?
 
 Baker Street Station, by the Sherlock Holmes Statue
+
 {% include tour-map.html %}
 
 ### How long will The London Underground and Tube Tour take?
