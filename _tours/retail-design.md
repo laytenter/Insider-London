@@ -54,22 +54,22 @@ This alternative London walking tour is perfect for retail designers, shop owner
 
 ## What you need to know
 
-**Where do we meet?**
+### Where do we meet?
 
 Piccadilly Circus, just outside Ripley&#8217;s Believe It or Not
 
-**How long is the tour?**
+{% include tour-map.html %}
+
+### How long is the tour?
 
 Approximately two hours
 
-**When does the tour run?**
+### When does the tour run?
 
 This tour is only available for private parties and can be arranged for any date or time. Furthermore, we are happy to create a bespoke programme to reflect your specific needs.
 
 To book the private tour, or find out more, call 0207 183 1055, or email: <a href="mailto:contact@insider-london.co.uk">contact@insider-london.co.uk</a>
 
-**Where does the tour finish?**
+### Where does the tour finish?
 
 Green Park tube station
-
-{% include tour-map.html %}
