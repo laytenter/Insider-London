@@ -61,22 +61,22 @@ What you will discover:
 
 ## What you need to know:
 
-**Where do we meet?**
+### Where do we meet?
 
 Our eye-opening Sustainable London Architecture Tour kicks off at Andaz Hotel, close to Liverpool Street tube station.
 
 {% include tour-map.html %}
 
-**How long does the tour last?**
+### How long does the tour last?
 
 The tour is approximately two-hours long
 
-**When does the tour run?**
+### When does the tour run?
 
 This tour is only available for private parties and can be arranged for any date or time. Furthermore, we are happy to deliver a tour programme tailored to your needs, including elements such as London’s modern architecture, future architecture or the capital’s most historic buildings. To book, or find out more, call 0207 183 1055, or email: <a href="mailto:contact@insider-london.co.uk">contact@insider-london.co.uk</a>
 
 If you’re keen to get further under the façade of London architecture, we also offer a three and a half hour <a href="/product/modern-architecture-tour">Modern Architecture Tour</a> showcasing London’s most futuristic and innovative new buildings.
 
-**Where does the tour finish?**
+### Where does the tour finish?
 
 London Bridge Station
