@@ -7,7 +7,9 @@ tags:
 - historical
 - all
 - quirky
-description: My alternative description.
+description: Insider London's Quirky London Tour is an alternative guided walking
+  tour that will introduce you to the rare, eccentric, comical, and just plain quirky
+  facts about London.
 featured: true
 tour-id: 32342
 trekksoft-tour-id: 50184
