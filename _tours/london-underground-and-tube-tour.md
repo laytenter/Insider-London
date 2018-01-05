@@ -52,7 +52,8 @@ Insider London's award winning London Underground and Tube Tour limits group siz
 
 ### Where is the meeting point?
 
-Baker Street Station, at the Sherlock Holmes Statue
+Baker Street Station, by the Sherlock Holmes Statue
+{% include tour-map.html %}
 
 ### How long will The London Underground and Tube Tour take?
 
@@ -76,5 +77,3 @@ We can also arrange a Private London Underground Tour in German, please send us 
 As the tour moves in and out of tube stations, you will need a zone 1 Travelcard or an Oyster card with £7 of pay-as-you-go credit. Please note this is not included in the ticket price.
 
 It's also a good idea to carry a bottle of water, especially on warm days, when travelling on the Tube.
-
-{% include tour-map.html %}
