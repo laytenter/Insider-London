@@ -51,29 +51,29 @@ The Quirky London Tour covers a vast array of topics during a two hour walking t
 
 ## What you need to know
 
-**Where do we meet?**
+### Where do we meet?
 
 In front of Marks & Spencer, opposite to Covent Garden tube station.
 
 {% include tour-map.html %}
 
-**How long is the tour?**
+### How long is the tour?
 
 Approximately 2 hours
 
-**Price:**
+### Price
 
 - Adult: £12
 - Child (under age 12): £10
 - Senior (60+): £10
 
-**When does the tour run?**
+### When does the tour run?
 
 The tour runs weekly: 11am Saturday and Sunday
 
 The Quirky London Tour may also be booked as a private tour at a time suitable for you and your party, <a href="/contact-us/">please send us an email to make an enquiry.</a>
 
-**Where does the tour finish?**
+### Where does the tour finish?
 
 Trafalgar Square
 
