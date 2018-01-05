@@ -56,7 +56,7 @@ and the fascinating stories behind their development.
 
 ## What you need to know:
 
-**Where do we meet?**
+### Where do we meet?
 
 Meeting at Southwark tube station, the walking tour crosses the Thames and heads to the most unusual, futuristic buildings in London’s financial district. The tour finishes close to Liverpool Street station.
 
@@ -64,16 +64,16 @@ We include a coffee break to let you experience one of the most exciting stops f
 
 {% include tour-map.html %}
 
-**How long is the tour?**
+### How long is the tour?
 
 The tour lasts approximately three and a half hours.
 
-**Price:**
+### Price:
 
 - Adult: £40
 - Senior (60+): £35            
 
-**When does the tour run?**
+### When does the tour run?
 
 The tour runs weekly 1pm Sunday and UK Bank Holiday.        
 
@@ -81,7 +81,7 @@ This tour is also available for private parties and can be arranged for any date
 
 We can also arrange a Private Modern Architecture Tour in German and we will arrange it for you. To book the private tour, or find out more, call 0207 183 1055, or email: <a href="mailto:contact@insider-london.co.uk">contact@insider-london.co.uk</a>
 
-**Where does the tour finish?**
+### Where does the tour finish?
 
 Liverpool Street Station
 
