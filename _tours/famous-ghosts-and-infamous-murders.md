@@ -44,28 +44,28 @@ Famous Ghosts and Infamous Murders is a walking tour that will have you discover
 
 ## What you need to know:
 
-**Where do we meet?**
+### Where do we meet?
 
 Tottenham Court Road Tube Station Exit I, Oxford Street (South Side)
 
 {% include tour-map.html %}
 
-**How long is the tour?**
+### How long is the tour?
 
 Approximately 2 hours
 
-**Price:**
+### Price:
 
 - Adult: £12
 - Child: (under age 12): £10
 - Senior (60+): £10
 
-**When does the tour run?**
+### When does the tour run?
 
 The tour runs weekly: 7pm Saturday
 
 The Famous Ghost and Infamous Murders Tour may also be booked as a private tour at a time suitable for you and your party, please send us an email to <a href="mailto:contact@insider-london.co.uk">contact@insider-london.co.uk</a> make an enquiry
 
-**Where does the tour finish?**
+### Where does the tour finish?
 
-Near temple tube station
+Near Temple Tube station.
