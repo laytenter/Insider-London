@@ -45,5 +45,5 @@ layout: page
 <div>
 <h2>Private Party Packages</h2>
 <p>We can help you to organise an appropriate walking tour for any event or celebration! From birthdays to wine tastings, or Hen and Stag Parties to seasonal walking tours like our Halloween Ghost Tour, we can accommodate just about any request. Each walking tour is specifically designed to highlight London’s most interesting rare sites and curiosities and to cater to your needs and interests.</p>
-<p><a href="/tours/private-tours/" title="" target="_self">Read ore...</a></p>
+<p><a href="/tours/private-tours/" title="" target="_self">Read more...</a></p>
 </div>
