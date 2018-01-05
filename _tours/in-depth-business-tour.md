@@ -104,6 +104,6 @@ Find out how she founded her business, the challenges she faces and how the prov
 
 - **An exciting, imaginative science lab **where young people can be a scientist for the day, creating and carrying out their own experiments.
 
-- **Silicon Roundabout and Tech City Guided Tour** take an eye-opening look at East London’s rapidly growing tech cluster that is giving San Francisco’s Silicon Valley a run for its money. Ideal for students and corporate groups. Find out more [about out Silicon Roundabout and Tech City tour](/product/silicon-roundabout-and-tech-city/).
+- **Silicon Roundabout and Tech City Guided Tour** take an eye-opening look at East London’s rapidly growing tech cluster that is giving San Francisco’s Silicon Valley a run for its money. Ideal for students and corporate groups. Find out more [about out Silicon Roundabout and Tech City tour](/tours/silicon-roundabout-and-tech-city-tour/).
 
 Want to know more? Just [tell us your interests](/contact-us/) and requirements and we’ll develop a bespoke business programme and guided tour for you.
