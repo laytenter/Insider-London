@@ -9,7 +9,7 @@ Insider London is well versed in catering to all sorts of requests for private p
 
 We are happy to assist with the arrangement of private transport from your accommodation to the tour and, if necessary, to your next port of call allowing you to relax and just have a good time. If you’re a group celebrating a birthday we can help with the arrangement of a birthday cake to be ready at your chosen café or restaurant at the end of your tour. We also have experience organising holiday-inspired walking tours, such as our special Halloween Ghost Walk Tour with more shocks and scares than our standard Death and Debauchery Tour.
 
-Insider London has experience with accommodating a vast array of requests, so don’t hesitate to make an enquiry. We’re here to help!
+Insider London has experience with accommodating a vast array of requests, so don’t hesitate to [make an enquiry](https://www.insider-london.co.uk/contact-us/). We’re here to help!
 
 ## Our Clients
 
