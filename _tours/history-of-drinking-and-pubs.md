@@ -51,31 +51,31 @@ The London pub is a great place to learn about one of England’s oldest drinkin
 
 ## What you need to know
 
-**Where do we meet?**
+### Where do we meet?
 
 By Blue Pole, North side entrance of Blackfriars Station
 
-**How long is the Tour?**
+{% include tour-map.html %}
+
+### How long is the Tour?
 
 Approximately two hours
 
-**Price:**
+### Price:
 
 - Adult: £20
 - Senior (60+): £15
 
-**When does the Tour run?**
+### When does the Tour run?
 
 The Tour runs weekly: 7pm Saturday
 
 The History of Drinking and Pubs Tour may also be booked as a private tour at a time suitable for you and your party, <a href="/contact-us/">please send us an email to make an enquiry.</a>
 
-**Where does the Tour finish?**
+### Where does the Tour finish?
 
 Near to Blackfriars Station.
 
-**Please Note:**
+### Please Note:
 
 The History of Drinking and Pubs Tour visits several pubs, therefore only available to guests who are 18 and over. At each pub a drink will be suggested for you to enjoy, however this is not included in the price of the ticket. To stay within the allotted tour time we also suggest a half-pint rule, though this is up to your own judgement!
-
-{% include tour-map.html %}
