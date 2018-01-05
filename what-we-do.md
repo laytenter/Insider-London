@@ -31,7 +31,7 @@ layout: page
 <div>
 	<h2>Alternative London Tours</h2>
 	<p>Discover London's most famous sightseeing spots as well as its hidden secrets with Insider London's choice of alternative and quirky walking tours. Suitable for locals, tourists or larger student groups, these premium walking tours can be booked privately to accommodate your needs and specific interests. Prepare to be entertained, informed and surprised!</p>
-	<p><a href="/alternative-london-tours" title="">Read More</a></p>
+	<p><a href="/alternative-london-tours" title="">Read more...</a></p>
 	<img src="/wp-content/uploads/2015/04/Modern-Architecture-400x200.jpg" width="400" height="200" alt="Modern Architecture in London" title="Modern Architecture in London" />
 </div>
 
@@ -45,5 +45,5 @@ layout: page
 <div>
 <h2>Private Party Packages</h2>
 <p>We can help you to organise an appropriate walking tour for any event or celebration! From birthdays to wine tastings, or Hen and Stag Parties to seasonal walking tours like our Halloween Ghost Tour, we can accommodate just about any request. Each walking tour is specifically designed to highlight London’s most interesting rare sites and curiosities and to cater to your needs and interests.</p>
-<p><a href="/special-occasions/" title="" target="_self">Read More</a></p>
+<p><a href="/tours/private-tours/" title="" target="_self">Read ore...</a></p>
 </div>
