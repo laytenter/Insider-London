@@ -63,9 +63,9 @@ Approximately 2 hours
 
 ### Price:
 
-- Adult: £12
-- Child (under age 12): £10
-- Senior (60+): £10
+* Adult: £12
+* Child (under age 12): £10
+* Senior (60+): £10
 
 ### When does the tour run?
 
