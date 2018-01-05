@@ -69,22 +69,22 @@ See where tomorrow’s trends are created, where killer concepts are born, where
 
 ## What you need to know
 
-**Where do we meet?**
+### Where do we meet?
 
 Shoreditch Grind on Old Street
 
-**How long is the tour?**
+{% include tour-map.html %}
+
+### How long is the tour?
 
 Approximately two hours
 
-**When does the tour run?**
+### When does the tour run?
 
 This tour is only available for private parties and can be arranged for any date or time. Furthermore, we are happy to create a bespoke programme to reflect your specific needs.
 
 To book the private tour, or find out more, call 0207 183 1055, or email: <a href="mailto:contact@insider-london.co.uk">contact@insider-london.co.uk</a>
 
-**Where does the tour finish?**
+### Where does the tour finish?
 
 The tour finished at the Google Campus, Bonhill Street.</em>
-
-{% include tour-map.html %}
