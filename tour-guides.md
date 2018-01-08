@@ -8,10 +8,9 @@ Insider London's guided walking tours are planned and led by our team of lovely 
 
 {% for guide in site.data.guides %}
   <div class="media media--responsive palm-mb-- lap-mb- desk-mb">
-
+    <img src="{{ site.baseurl }}{{ guide.image }}" class="media__img">
     <div class="media__body">
       <h3>{{ guide.name }}</h3>
-      <img src="{{ site.baseurl }}{{ guide.image }}" class="media__img">
       {{ guide.description }}
     </div>
   </div>
