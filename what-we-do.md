@@ -13,11 +13,11 @@ layout: page
 <p>Our educational guided tours are perfect for corporate events or student groups. These unique tours include an exploration of East London’s Tech hub at Silicon Roundabout and an introduction to London’s coolest modern architecture. If you're keen to discover more about London's dynamic financial and business centre, check out our original in-depth business experience and finance tour based in the bustling City of London. Insider London’s in-depth business visits are incredibly popular, especially among student groups, and involve a behind-the-scenes visit to one of London’s fascinating businesses to hear from the senior management about how the company works.</p>
 
 <div>
-	<h2>Bespoke and Tailored Walking Tours</h2>
-	<p>Whether you’re visiting with friends, family, colleagues or students, all of our guided walking tours of London can be delivered exclusively at a time and date to suit you. Insider London can help with everything from designing your bespoke tour to assisting with your group’s travel arrangements.</p>
-	<p>Depending on your interests, we can tailor a bespoke tour programme for you. Want to learn more about London’s architecture? We can craft a timetable that takes in 1,000 years of architecture from the ancient alleyways of Smithfield through to the striking, shiny skyscrapers of The City. We can even swing by some of London’s famous and unusual eateries for an ‘all-in’ experience.</p>
-	<p>We’ve created many weird and wonderful private walking tours in the past. Just let us know what you’re looking for and we can whip one up for you!</p>
-	<img src="/wp-content/uploads/2015/04/5103793738_5df66b09ba_o-400x200.jpeg" width="400" height="200" alt="" title="" />
+<h2>Bespoke and Tailored Walking Tours</h2>
+<p>Whether you’re visiting with friends, family, colleagues or students, all of our guided walking tours of London can be delivered exclusively at a time and date to suit you. Insider London can help with everything from designing your bespoke tour to assisting with your group’s travel arrangements.</p>
+<p>Depending on your interests, we can tailor a bespoke tour programme for you. Want to learn more about London’s architecture? We can craft a timetable that takes in 1,000 years of architecture from the ancient alleyways of Smithfield through to the striking, shiny skyscrapers of The City. We can even swing by some of London’s famous and unusual eateries for an ‘all-in’ experience.</p>
+<p>We’ve created many weird and wonderful private walking tours in the past. Just let us know what you’re looking for and we can whip one up for you!</p>
+<img src="/wp-content/uploads/2015/04/5103793738_5df66b09ba_o-400x200.jpeg" width="400" height="200" alt="" title="" />
 </div>
 
 <div>
