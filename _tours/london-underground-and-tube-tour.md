@@ -71,7 +71,7 @@ The tour is around two hours long – it starts at historic Baker Street Station
 The tour runs weekly 11am Wednesday, Thursday, Friday, Saturday, 2pm Sunday and 11am UK Bank Holidays.
 The London Underground/Tube tour may also be booked as a private tour at a time suitable for you and your party, [please send us an email](/contact-us/) to make an enquiry.
 
-We can also arrange a Private London Underground Tour in German, please send us an email: contact@insider-london.co.uk, we will arrange it for you
+We can also arrange a Private London Underground Tour in German, please send us an email: [contact@insider-london.co.uk](mailto:contact@insider-london.co.uk), we will arrange it for you
 
 ### What do I need to take?
 
