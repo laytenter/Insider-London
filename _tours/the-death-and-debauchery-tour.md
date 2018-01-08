@@ -76,7 +76,7 @@ Approximately two hours
 
 The tour runs weekly: 5pm Friday
 
-The Death and Debauchery Tour may also be booked as a private tour at a time suitable for you and your party, please send us an email to make the enquiry: contact@insider-london.co.uk
+The Death and Debauchery Tour may also be booked as a private tour at a time suitable for you and your party, please send us an email to make the enquiry: [contact@insider-london.co.uk](mailto:contact@insider-london.co.uk)
 
 ### Where does the tour finish?
 
