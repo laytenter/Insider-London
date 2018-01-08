@@ -1,5 +1,5 @@
 ---
-title: Death and Debauchery Tour
+title: Death and Debauchery Tour | Ghost Tour London | Death & Debauchery
 date: 2004-01-01 10:58:00 Z
 categories:
 - hidden
@@ -7,6 +7,9 @@ tags:
 - historical
 - all
 - dnd
+heading: Death and Debauchery Tour
+description: London is riddled with death and debauchery. Our ghost tour London covers
+  famous murders, executions & ghostly happenings at insider-london.co.uk.
 featured: true
 tour-id: 29349
 trekksoft-tour-id: 50197
