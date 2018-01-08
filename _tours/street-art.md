@@ -8,6 +8,8 @@ tags:
 - all
 - streetart
 heading: Street Art Tour
+description: A street art tour London that shows off all the underground culture of
+  the city. Perfect for tourists and private parties. Visit insider-london.co.uk.
 featured: true
 tour-id: 29326
 trekksoft-tour-id: 50188
