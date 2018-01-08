@@ -1,5 +1,5 @@
 ---
-title: Quirky Tour | Quirky Tours | London Walks Sunday
+title: Quirky Tour | London Walks Sunday | Quirky Tours
 date: 2002-01-01 11:31:00 Z
 categories:
 - hidden
