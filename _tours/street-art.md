@@ -1,5 +1,5 @@
 ---
-title: Street Art Tour
+title: Street Art Tour London | Graffiti Tours
 date: 2005-01-01 10:39:00 Z
 categories:
 - hidden
@@ -7,6 +7,7 @@ tags:
 - historical
 - all
 - streetart
+heading: Street Art Tour
 featured: true
 tour-id: 29326
 trekksoft-tour-id: 50188
