@@ -1,5 +1,5 @@
 ---
-title: Silicon Roundabout and Tech City Tour
+title: Silicon Roundabout | Tech City | Walking Tours in London
 date: 2010-01-01 10:55:00 Z
 categories:
 - educational
@@ -7,6 +7,9 @@ tags:
 - educational
 - SR
 - all
+heading: Silicon Roundabout and Tech City Tour
+description: Visit the world’s third biggest start-up tech cluster. Cutting edge walking
+  tours in London at the Silicon Roundabout & Tech City at insider-london.co.uk.
 tour-id: 29347
 author: london75
 guid: "/?post_type=product&#038;p=29347"
