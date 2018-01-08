@@ -70,7 +70,7 @@ Furthermore, we are happy to create a bespoke programme to reflect your specific
 
 To book the private tour, or find out more, call 0207 183 1055, or email: <a href="mailto:contact@insider-london.co.uk">contact@insider-london.co.uk</a>
 
-We can also arrange a Private Finance Tour in German and we will arrange it for you. To book the private tour, or find out more, call 0207 183 1055, or email: contact@insider-london.co.uk
+We can also arrange a Private Finance Tour in German and we will arrange it for you. To book the private tour, or find out more, call 0207 183 1055, or email: [contact@insider-london.co.uk](mailto:contact@insider-london.co.uk)
 
 ### Where does the tour finish?
 
