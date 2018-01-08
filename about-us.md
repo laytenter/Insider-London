@@ -1,9 +1,9 @@
 ---
-title: About Us | London Tours | Walking Tour London
+title: About Us
 date: 2015-05-12 00:00:00 Z
 permalink: "/about-us/"
 id: 2546744
-heading: About Us
+heading: 
 description: Learn about our award-winning, guided London tours. Delve into the hidden
   history, and all the secrets, of the London Underground at insider-london.co.uk.
 layout: page
