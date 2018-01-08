@@ -6,6 +6,8 @@ tags:
 - bvisits
 - all
 heading: Educational In-depth Business Visits
+description: London guided tours of the most important companies. Learn the secrets
+  behind the capital’s most successful companies and start-ups at insider-london.co.uk.
 tour-id: 29344
 author: london75
 guid: "/?post_type=product&#038;p=29344"
