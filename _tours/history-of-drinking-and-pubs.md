@@ -1,5 +1,5 @@
 ---
-title: History of Drinking and Pubs Tours
+title: History of Drinking & Pubs Tour | London Pub Tour | History of Drinking
 date: 2006-01-01 11:24:00 Z
 categories:
 - hidden
@@ -7,6 +7,9 @@ tags:
 - HOD
 - historical
 - all
+heading: History of Drinking & Pubs Tours
+description: Learn the history of drinking and pubs and raise a glass to this city’s
+  famous drinking culture. Experience the London pub tour at insider-london.co.uk.
 tour-id: 32336
 author: london75
 guid: "/?post_type=product&#038;p=32336"
