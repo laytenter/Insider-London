@@ -4,6 +4,8 @@ date: 2015-05-12 00:00:00 Z
 permalink: "/what-we-do/"
 id: 2546744
 author: london75
+description: Unusual walking tours around London. The most entertaining London guided
+  walks that delve into the history of the city. Join us at insider-london.co.uk.
 layout: page
 ---
 
