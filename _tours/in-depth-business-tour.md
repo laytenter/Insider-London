@@ -1,10 +1,11 @@
 ---
-title: Educational In-depth Business Visits
+title: Educational In-Depth Business Tours | London Guided Tours
 date: 2015-08-28 10:51:00 Z
 tags:
 - educational
 - bvisits
 - all
+heading: Educational In-depth Business Visits
 tour-id: 29344
 author: london75
 guid: "/?post_type=product&#038;p=29344"
