@@ -1,5 +1,5 @@
 ---
-title: Tour of East End - Gangs, Crimes and Harsher Times
+title: East End Tour | Victorian Gangs & Crime
 date: 2007-01-01 16:41:00 Z
 categories:
 - hidden
@@ -7,6 +7,9 @@ tags:
 - historical
 - all
 - crime
+heading: Tour of East End - Gangs, Crimes and Harsher Times
+description: Our East End Tour focuses on the Victorian era, when East London was
+  ruled by gangs and crime. Learn about the harsher times at insider-london.co.uk.
 tour-id: 32569
 trekksoft-tour-id: 50202
 author: london75
