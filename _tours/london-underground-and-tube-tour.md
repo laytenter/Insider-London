@@ -58,7 +58,7 @@ Baker Street Station, by the Sherlock Holmes Statue
 
 {% include tour-map.html %}
 
-### How long will The London Underground and Tube Tour take?
+### How long will the London Underground Tour take?
 
 The tour is around two hours long – it starts at historic Baker Street Station and finishes at futuristic Westminster station. The route may change if stations are closed due to improvement work.
 
