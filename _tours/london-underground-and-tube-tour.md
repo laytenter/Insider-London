@@ -1,5 +1,5 @@
 ---
-title: London Underground and Tube Tour
+title: London Underground Tour | Guided Tours London
 date: 2001-01-01 17:41:00 Z
 categories:
 - hidden
@@ -7,8 +7,10 @@ tags:
 - historical
 - all
 - tube
-description: 'The original London Underground and Tube Tour: Travel across 150 years
-  in just two hours aboard our awesome London Underground and Tube Tour!'
+heading: London Underground and Tube Tour
+description: 'Our original guided London Underground and Tube Tour: Travel across
+  150 years of hidden history in just two hours aboard our awesome London Underground
+  Tour!'
 tour-id: 32143
 trekksoft-tour-id: 50159
 show_book: true
