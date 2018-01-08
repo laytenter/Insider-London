@@ -9,7 +9,7 @@ layout: page
 <div>
 	<h2>Award-Winning London Walking Tours</h2>
 
-	<p><img src="/uploads/2017_COE_Logos_API_178x180_en-US-UK.jpg" alt="Trip Advisor Certificate of Excellence 2017" style="float: left; padding-right: 1.5em; padding-bottom: 1em"> London is a huge, ever-changing city, full of both stunning historical sights and cutting-edge innovations. Exploring the city can be an overwhelming experience, whether you're a tourist visiting for a day trip or a Londoner born and bred!</p>
+	<p><img src="/uploads/2017_COE_Logos_API_178x180_en-US-UK.jpg" alt="Trip Advisor Certificate of Excellence 2017" style="float: left; padding-right: 1em; padding-bottom: 1em"> London is a huge, ever-changing city, full of both stunning historical sights and cutting-edge innovations. Exploring the city can be an overwhelming experience, whether you're a tourist visiting for a day trip or a Londoner born and bred!</p>
 	<p>That’s where Insider London comes in.</p>
 	<p>Our award-winning guided walking tours give you the inside track on the very best that London has to offer. Hear the eye-opening stories behind Shoreditch’s Street Art, discover London’s cutting-edge sustainability scene, or delve into the hidden history of the London Underground. All of Insider London's unique walking tours reveal an unusual and unforgettable side to the capital city, explained by our enthusiastic and knowledgeable tour guides.	</p>
 </div>
