@@ -1,5 +1,5 @@
 ---
-title: Canary Wharf Finance Tour
+title: Canary Wharf Finance Tour | Canary Wharf Tour | Guided Tour London
 date: 2017-02-05 10:15:00 Z
 categories:
 - educational
@@ -7,6 +7,9 @@ tags:
 - educational
 - all
 - canarywharf
+heading: Canary Wharf Finance Tour
+description: Insider London offer an informative and professional canary wharf tour
+  in London. Perfect for private parties and corporate events at insider-london.co.uk.
 show_book: false
 thumb: canary-wharf-420x287.jpg
 banner: HSBC-canary-wharf-772x579.jpg
