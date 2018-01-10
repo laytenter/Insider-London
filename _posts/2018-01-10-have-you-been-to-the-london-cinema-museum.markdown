@@ -4,7 +4,7 @@ date: 2018-01-10 08:46:00 Z
 permalink: "/london-cinema-museum/"
 description: Include a trip to the London Cinema Museum on tours in London. It might
   soon be closed – it used to be the workhouse where Charlie Chaplin went as a child!
-heading: Have You Been To The London Cinema Museum? | Insider London
+heading: Have You Been To The London Cinema Museum?
 layout: post
 ---
 
@@ -19,7 +19,7 @@ But now, because the landlord of the building has put it and its surrounding sit
 The museum itself, in Kennington near to the Elephant & Castle, is home to a brilliant collection of memorabilia, artefacts and equipment that tells the history of cinema from the 1890s to now, so it really would be sad to see it go. In fact, the building was also the workhouse where Charlie Chaplin went as a child - so from a historical perspective, it’s got an awful lot to offer.
 
 ![web_960x540 Cinema_Museum_(London)_Charlie_Chaplin_object_38.jpg](/uploads/web_960x540%20Cinema_Museum_(London)_Charlie_Chaplin_object_38.jpg)
-*Photo from the London Cinema Museim by Edward Hands via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cinema_Museum_(London)_Charlie_Chaplin_object_38.JPG)*
+*Photo from the London Cinema Museum by Edward Hands via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cinema_Museum_(London)_Charlie_Chaplin_object_38.JPG)*
 
 Charlie Chaplin’s family themselves have joined in the fight to help save the museum, [writing an open letter](https://twitter.com/CinemaMuseum/status/940267426209587207/photo/1?ref_src=twsrc%5Etfw&ref_url=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fentertainment-arts-42316670) signed by five of the silent movie star’s children to say how distressed they all are at the prospect of it closing.
 
