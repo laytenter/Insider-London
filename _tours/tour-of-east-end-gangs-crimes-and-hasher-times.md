@@ -1,5 +1,5 @@
 ---
-title: East End Tour | More than a Jack the Ripper Tour
+title: East End Tour | More than a Jack the Ripper Tour London
 date: 2007-01-01 16:41:00 Z
 categories:
 - hidden
