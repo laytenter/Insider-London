@@ -2,9 +2,6 @@
 layout: default
 ---
 
-<!--<div id="custom-bg" style="width:100%; margin-top:00px; height:400px; background-size:cover; background-image: url('{{ page.banner }}');background-position: center">
-  <div id="custom-bg" style="width:100%; height:400px; background-size:contain; background:rgba(0,0,0,0.3);"> </div>
-</div>-->
 
 <div class="wrapper">
   {% include ta-logo.html %}
@@ -35,11 +32,8 @@ layout: default
         {% endif %}
       </div>
       {{ content }}
-
-
-
-    </div><!--
---><div class="layout__item u-2/5-lap u-1/3-desk">
+    </div>
+    <div class="layout__item u-2/5-lap u-1/3-desk">
       <p class="palm-mt0 lap-and-up-mt0">
         {% include  share-icons.html %}
       </p>
@@ -51,5 +45,4 @@ layout: default
   {% if page.related %}
   {% include related-tours.html %}
   {% endif %}
-
 </div>

@@ -22,14 +22,14 @@ layout: default
       {{ content }}
     </div>
     <div class="product-thumb-wrapper">
-    <div class="images">
-<img src="{{ page.thumb575x545 }}" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" >
+      <div class="images">
+        <img src="{{ page.thumb575x545 }}" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" >
+      </div>
+      {% if page.show_book %}
+      {% include tour-side-bar.html %}
+      {% endif %}
+      {% include trip-advisor-widget.html %}
     </div>
-    {% if page.show_book %}
-    {% include tour-side-bar.html %}
-    {% endif %}
-    {% include trip-advisor-widget.html %}
   </div>
-</div>
   {% include related-tours.html %}
 </div>
