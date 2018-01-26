@@ -1,4 +1,9 @@
 _site
+Gemfile.lock
+Gemfile
+npm-debug.log
+package-lock.json
+package.json
 .sass-cache
 .jekyll-metadata
 /node_modules

@@ -1,5 +1,5 @@
 ---
-title: What we do
+title: London Guided Walks | What We Do
 date: 2015-05-12 00:00:00 Z
 permalink: "/what-we-do/"
 id: 2546744

@@ -8,6 +8,5 @@
     "grunt-contrib-cssmin": "~0.14.0",
     "grunt-contrib-watch": "^0.6.1",
     "grunt-contrib-htmlmin": "0.6.0"
-
   }
 }

@@ -1,5 +1,6 @@
 ---
-title: Gift Vouchers
+title: Gift Vouchers | London Guided Tours
+heading: Gift Voucher
 date: 2015-05-12 15:58:00 Z
 permalink: "/gift-vouchers/"
 id: 25467
