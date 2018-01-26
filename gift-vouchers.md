@@ -2,7 +2,7 @@
 title: Gift Vouchers | London Guided Tours
 date: 2015-05-12 15:58:00 Z
 permalink: "/gift-vouchers/"
-heading: Gift Voucher
+heading: Gift Vouchers
 id: 25467
 author: london75
 description: Looking for a special gift? An Insider London gift voucher, for our London
