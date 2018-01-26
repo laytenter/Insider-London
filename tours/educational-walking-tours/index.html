@@ -1,9 +1,10 @@
 ---
 title: Educational Tours in London | School Tours
-heading: Educational Tours
-description: Our educational guided tours are perfect for corporate events or student groups. The best educational tours in London with insider-london.co.uk.
 date: 2015-05-11 15:47:17 Z
 permalink: "/tours/educational-walking-tours/"
+heading: Educational Tours
+description: Our educational guided tours are perfect for corporate events or student
+  groups. The best educational tours in London with insider-london.co.uk.
 id: 25099
 author: london75
 layout: page
