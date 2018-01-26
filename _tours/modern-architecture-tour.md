@@ -26,7 +26,7 @@ related:
 layout: tour
 ---
 
-<p class="lede">London’s modern architecture is like marmite for the eyes – you either love it or hate it.</p>  
+London’s modern architecture is like marmite for the eyes – you either love it or hate it.
 
 But love it or loathe it, you can’t help but notice the sci-fi like structures and soaring skyscrapers that puncture London’s skyline.
 
@@ -37,6 +37,10 @@ Discover how these contemporary buildings connect with the capital’s rich hist
 Starting at Southwark tube station and heading along the South Bank, our professional, highly knowledgeable guide will show you the best modern architecture around the City, St. Paul&#8217;s Cathedral and the London Wall before finishing at the centre of a stunning new development. Plus, we’ll let you know where you can enjoy the same view from the London Eye for the price of a beer!
 
 ![](/assets/images/MA 2-large.jpeg)
+
+## London Skyline Past & Present – Bespoke Private Tour
+
+In **2 hours** discover the rich architecture of London from the world-famous **historic gems** to the **modern headlines**. Starting near the Tower of London, hear some of the fascinating stories associated with this amazing fortress. Experience the extraordinary diversity of the City's architecture from the first builders, to the modern architectural giants Norman Foster and Renzo Piano, traverse modern eco-developments, the oldest railway station in London and emerge in the shadow of Europe's tallest building. This version can be arranged as a private tour, please send us an email with your requirement: contact@insider-london.co.uk
 
 ## Highlights
 
