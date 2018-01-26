@@ -26,7 +26,7 @@ related:
 layout: tour
 ---
 
-London’s modern architecture is like marmite for the eyes – you either love it or hate it.
+**London’s modern architecture is like marmite for the eyes – you either love it or hate it.**
 
 But love it or loathe it, you can’t help but notice the sci-fi like structures and soaring skyscrapers that puncture London’s skyline.
 
