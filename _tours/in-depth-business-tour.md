@@ -12,8 +12,8 @@ tour-id: 29344
 author: london75
 guid: "/?post_type=product&#038;p=29344"
 show_book: false
-thumb: "/uploads/300x200 17-06-15_visit Anthony Jiamei,Jonas University of Hong Kong.jpg"
-banner: "/uploads/960x540 17-06-15_visit Anthony Jiamei,Jonas University of Hong Kong.jpg"
+thumb: 300x200 17-06-15_visit Anthony Jiamei,Jonas University of Hong Kong.jpg
+banner: 960x540 17-06-15_visit Anthony Jiamei,Jonas University of Hong Kong.jpg
 map: 
 hidden: true
 related:
