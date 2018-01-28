@@ -12,8 +12,8 @@ tour-id: 29344
 author: london75
 guid: "/?post_type=product&#038;p=29344"
 show_book: false
-thumb: Fotolia_24879531_M-568x388.jpg
-banner: Fotolia_24879531_M-772x528.jpg
+thumb: 300x200%2017-06-15_visit%20Anthony%20Jiamei,Jonas%20University%20of%20Hong%20Kong.jpg
+banner: 960x540%2017-06-15_visit%20Anthony%20Jiamei,Jonas%20University%20of%20Hong%20Kong.jpg
 map: 
 hidden: true
 related:
@@ -41,6 +41,7 @@ Insider London's Business Visits are a unique opportunity for **corporate groups
 
 **E-mail [contact@insider-london.co.uk](mailto:contact@insider-london.co.uk)** to choose from our extensive list of partners. With opportunities for a variety of groups, with sizes from **6-100 people**, we will create a bespoke business programme for your precise professional or academic needs. 
 
+![960x540 17-11-13 Jonas Bvisits Limkokwing Verb Brands.jpg](/uploads/960x540%2017-11-13%20Jonas%20Bvisits%20Limkokwing%20Verb%20Brands.jpg)
 
 ## Workshops
 Insider London also hosts engaging **talks** and **interactive workshops** with top industry professionals. The precise subject matter of talks and workshops can be designed around the interests and requirements of your group. Previous workshops have included:
