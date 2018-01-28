@@ -23,6 +23,8 @@ related:
 layout: tour
 ---
 
+*Hong Kong University students visiting Ogilvy UK in June '17*
+
 Let Insider London show you the secrets to London's success. 
 
 Our in-depth educational business visits showcase some of the world's most powerful companies as well as the capital's most innovative entrepreneurs, including:
@@ -42,6 +44,7 @@ Insider London's Business Visits are a unique opportunity for **corporate groups
 **E-mail [contact@insider-london.co.uk](mailto:contact@insider-london.co.uk)** to choose from our extensive list of partners. With opportunities for a variety of groups, with sizes from **6-100 people**, we will create a bespoke business programme for your precise professional or academic needs. 
 
 ![960x540 17-11-13 Jonas Bvisits Limkokwing Verb Brands.jpg](/uploads/960x540%2017-11-13%20Jonas%20Bvisits%20Limkokwing%20Verb%20Brands.jpg)
+*Limkokwing's students visiting Verb Brands in November '17*
 
 ## Workshops
 Insider London also hosts engaging **talks** and **interactive workshops** with top industry professionals. The precise subject matter of talks and workshops can be designed around the interests and requirements of your group. Previous workshops have included:
