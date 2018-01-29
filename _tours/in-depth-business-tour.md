@@ -43,8 +43,8 @@ Insider London's Business Visits are a unique opportunity for **corporate groups
 
 **E-mail [contact@insider-london.co.uk](mailto:contact@insider-london.co.uk)** to choose from our extensive list of partners. With opportunities for a variety of groups, with sizes from **6-100 people**, we will create a bespoke business programme for your precise professional or academic needs. 
 
-![960x540 17-11-13 Jonas Bvisits Limkokwing Verb Brands.jpg](/uploads/960x540%2017-11-13%20Jonas%20Bvisits%20Limkokwing%20Verb%20Brands.jpg)
-*Limkokwing's students visiting Verb Brands in November '17*
+![17-10-25 Sperbank.jpg](/uploads/17-10-25%20Sperbank.jpg)
+*Sperbank Executives visiting a fintech interactive presentation and Q&A in October '17*
 
 ## Workshops
 Insider London also hosts engaging **talks** and **interactive workshops** with top industry professionals. The precise subject matter of talks and workshops can be designed around the interests and requirements of your group. Previous workshops have included:
@@ -59,3 +59,6 @@ Insider London also hosts engaging **talks** and **interactive workshops** with 
 Our in-depth business visits and workshops make great **combinations** with **educational tours**. Popular choices include tours of [Retail Design](https://www.insider-london.co.uk/tours/retail-design/), the [Silicon Roundabout and Tech City](https://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/) as well as [Finance](https://www.insider-london.co.uk/tours/london-finance-walking-tour/) and the [Kings Cross Regeneration and Innovation](https://www.insider-london.co.uk/tours/kings-cross-regeneration/).  
  
 Get in touch via [contact@insider-london.co.uk](mailto:contact@insider-london.co.uk) to start creating your perfect educational package. 
+
+![960x540 17-11-13 Jonas Bvisits Limkokwing Verb Brands.jpg](/uploads/960x540%2017-11-13%20Jonas%20Bvisits%20Limkokwing%20Verb%20Brands.jpg)
+*Limkokwing's students visiting Verb Brands in November '17*
