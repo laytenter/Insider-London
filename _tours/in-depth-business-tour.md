@@ -44,7 +44,7 @@ Insider London's Business Visits are a unique opportunity for **corporate groups
 **E-mail [contact@insider-london.co.uk](mailto:contact@insider-london.co.uk)** to choose from our extensive list of partners. With opportunities for a variety of groups, with sizes from **6-100 people**, we will create a bespoke business programme for your precise professional or academic needs. 
 
 ![17-10-25 Sperbank.jpg](/uploads/17-10-25%20Sperbank.jpg)
-*Sperbank Executives visiting a fintech interactive presentation and Q&A in October '17*
+*Sperbank Executives visiting a fintech start-up showcase and personal Q&A at Wayra in October '17*
 
 ## Workshops
 Insider London also hosts engaging **talks** and **interactive workshops** with top industry professionals. The precise subject matter of talks and workshops can be designed around the interests and requirements of your group. Previous workshops have included:
