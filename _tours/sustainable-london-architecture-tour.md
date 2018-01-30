@@ -18,6 +18,10 @@ related:
 - 29338
 - 29340
 - 29332
+Gallery:
+  '1':
+    Image: "/uploads/web_London%20Liv%20Street%20Station.jpg"
+    Caption: Escalators
 layout: tour
 ---
 
