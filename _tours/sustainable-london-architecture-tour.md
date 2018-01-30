@@ -18,10 +18,11 @@ related:
 - 29338
 - 29340
 - 29332
-Gallery:
-  '1':
-    Image: "/uploads/web_London%20Liv%20Street%20Station.jpg"
-    Caption: Escalators
+gallery:
+- image: woot.jpg
+  caption: Woot woot
+- image: blah.jpg
+  caption: Blah
 layout: tour
 ---
 
