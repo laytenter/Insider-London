@@ -7,6 +7,8 @@ description: From ice climbing walls to ice karting & axe throwing, here are qui
 layout: post
 ---
 
+![London skyline Big Ben.jpg](/uploads/London%20skyline%20Big%20Ben.jpg)
+
 When you think of things to do in London, your first thoughts are probably about the museums, galleries and historic sights that line the city’s streets and, while these are great things to see and do while you’re in the capital, there are some alternatives out there too.
 
 The [Evening Standard](https://www.standard.co.uk/go/london/attractions/7-extreme-activities-you-didn-t-know-you-could-try-in-london-a3741441.html) recently highlighted a number of “extreme activities” that you might be surprised to find on offer in London.
