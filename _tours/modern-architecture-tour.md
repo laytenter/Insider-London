@@ -10,6 +10,17 @@ tags:
 heading: Modern Architecture Tour
 description: The soaring skyscrapers that puncture London’s skyline are architectural
   wonders of London. Join our architecture tour London at insider-london.co.uk.
+gallery:
+- image: "/uploads/web_17-10-29%20MA%20Robert%20Bavaria%20teachers%20at%20Bloomberg.jpg"
+  caption: A group of Bavarian teachers on our Modern Architecture Tour, in front
+    of the new  Bloomberg Building!
+  alt: A group of Bavarian teachers on our Modern Architecture Tour, in front of the
+    new  Bloomberg Building!
+- image: "/uploads/web_17-12-01%20Modern%20Architecture%20Andy%20Leadenhall%20Market.JPG"
+  caption: A group of professionals on our Modern Architecture Tour, in Leadenhall
+    Market!
+  alt: A group of Bavarian teachers on our Modern Architecture Tour, in front of the
+    new  Bloomberg Building!
 tour-id: 29338
 trekksoft-tour-id: 50198
 price: 40
