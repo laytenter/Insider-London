@@ -19,8 +19,17 @@ gallery:
 - image: "/uploads/web_17-12-01%20Modern%20Architecture%20Andy%20Leadenhall%20Market.JPG"
   caption: A group of professionals on our Modern Architecture Tour, in Leadenhall
     Market!
-  alt: A group of Bavarian teachers on our Modern Architecture Tour, in front of the
-    new  Bloomberg Building!
+  alt: A group of professionals on our Modern Architecture Tour, in Leadenhall Market!
+- image: "/uploads/web_18-01-04%20MA%20private%20group%20Millennium%20Bridge.jpg"
+  caption: A picture of three lovely guests on a private Modern Architecture Tour,
+    taken on Millenium Bridge.
+  alt: A picture of three lovely guests on a private Modern Architecture Tour, taken
+    on Millenium Bridge.
+- image: "/uploads/web_17-12-01%20MA%20Robert%20Chapman%20Taylor%20City%20model.JPG"
+  caption: A group from Chapman Taylor, having a look at a model of the City on a
+    bespoke tour.
+  alt: A group from Chapman Taylor, having a look at a model of the City on a bespoke
+    tour.
 tour-id: 29338
 trekksoft-tour-id: 50198
 price: 40
