@@ -3,9 +3,9 @@ title: Private Tours London | Private Party Walk
 date: 2017-12-06 11:04:00 Z
 permalink: "/tours/private-tours/"
 heading: Private Tours
-layout: page
 description: Booking private tours, tailored to fit with other activities you may
   have planned that day. Private tours London with insider-london.co.uk.
+layout: two-col
 ---
 
 Insider London is well versed in catering to all sorts of requests for private parties. All of our London walking tours can be booked privately so that you can enjoy the experience with just your family or friends. By booking private tours, you have the opportunity to have a more tailored walking tour to fit with other activities you may have planned that day. This is where you can really let loose and have some fun! If you are looking for something completely unique and customised, then just let us know!
