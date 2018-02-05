@@ -10,6 +10,28 @@ tags:
 heading: Silicon Roundabout and Tech City Tour
 description: Visit the world’s third biggest start-up tech cluster. Cutting edge walking
   tours in London at the Silicon Roundabout & Tech City at insider-london.co.uk.
+gallery:
+- image: "/uploads/web_17-05-08%20SR.jpg"
+  caption: Starting our Silicon Roundabout in front of the Roundabout itself!
+  alt: Starting our Silicon Roundabout in front of the Roundabout itself!
+- image: "/uploads/web_17-08-02_SR_Dean_na_Ziferblat.jpg"
+  caption: A group on students visiting Ziferblat - a great co-working/co-living-space
+    we visit on the tour!
+  alt: A group on students visiting Ziferblat - a great co-working/co-living-space
+    we visit on the tour!
+- image: "/uploads/web_17-06-29_SR_Jonas_Kings_GoogleCampus.JPG"
+  caption: A group of researchers from King's College in front of our last stop, Google
+    Campus.
+  alt: A group of researchers from King's College in front of our last stop, Google
+    Campus.
+- image: "/uploads/web_17-08-03_SR_Dean_na_Ziferblat.jpg"
+  caption: Inside Ziferblat, one of the most creative co-working spaces we know!
+  alt: Inside Ziferblat, one of the most creative co-working spaces we know!
+- image: "/uploads/web_18-01-31%20SR%20BobClarissaJonas%20Imperial.jpg"
+  caption: A  large group of Imperial College's students in front of Google Campus
+    in January 2018!
+  alt: A  large group of Imperial College's students in front of Google Campus in
+    January 2018!
 tour-id: 29347
 author: london75
 guid: "/?post_type=product&#038;p=29347"
