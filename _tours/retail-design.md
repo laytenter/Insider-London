@@ -10,6 +10,26 @@ tags:
 heading: Retail Design Tour
 description: The most fun and informative London walks Saturday has to offer. Find
   design inspiration for the most luxurious retail design at insider-london.co.uk.
+gallery:
+- image: "/uploads/web_17-07-21_WERetail_Andy_Chinese.JPG"
+  caption: Students visiting from China on our West End Retail Design Tour - here
+    in Burlington Arcade.
+  alt: Students visiting from China on our West End Retail Design Tour - here in Burlington
+    Arcade.
+- image: "/uploads/web_17-12-06%20West%20End%20Retail%20Robert%20Ganton%20St%20-%20Students%20from%20Lille.jpg"
+  caption: Students from Lille, France, on our West End Retail Design tour in Carnaby
+    Street.
+  alt: Students from Lille, France, on our West End Retail Design tour in Carnaby
+    Street.
+- image: "/uploads/web_17-07-21_WERetail_Jonas_Italians%20on%20Language%20School_Piccadilly%20Circus_03.jpg"
+  caption: Language students from Italy on our West End Retail Design tour in Air
+    Street.
+  alt: Language students from Italy on our West End Retail Design tour in Air Street.
+- image: "/uploads/web_17-10-02%20WERetail%20Jonas%20Lomography.jpg"
+  caption: On one of our West End Retail Design Tours, Lomography had installed a
+    photo art piece outside. It was fun!
+  alt: On one of our West End Retail Design Tours, Lomography had installed a photo
+    art piece outside. It was fun!
 tour-id: 29334
 author: london75
 guid: "/?post_type=product&#038;p=29334"
