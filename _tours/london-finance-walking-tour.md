@@ -21,8 +21,17 @@ gallery:
   alt: Canadian students from Toronto on our City of London Finance Tour in Leadenhall
     Market.
 - image: "/uploads/18-01-16%20Finance%20Francis%20USBoston.JPG"
-  caption: 
+  caption: A group of Finance professionals on our City of London Finance Tour in
+    front of Lloyd's of London.
   alt: 
+- image: "/uploads/760x428%20web_17-10-10%20Finance%20Andy%20Guidlhall.jpg"
+  caption: A group of Finance professionals on our City of London Finance Tour in
+    front of Guildhall.
+  alt: A group of Finance professionals on our City of London Finance Tour in front
+    of Guildhall.
+- image: "/uploads/760x428%2017-10-01%20Finance%20Julia%20Leadenhall%20Market.jpg"
+  caption: A group of students on our City of London Finance Tour in Leadenhall Market.
+  alt: A group of students on our City of London Finance Tour in Leadenhall Market.
 tour-id: 29332
 author: london75
 guid: "/?post_type=product&#038;p=29332"
