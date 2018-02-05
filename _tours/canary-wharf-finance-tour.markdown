@@ -10,26 +10,26 @@ tags:
 heading: Canary Wharf Finance Tour
 description: Insider London offer an informative and professional canary wharf tour
   in London. Perfect for private parties and corporate events at insider-london.co.uk.
+gallery:
+- image: "/uploads/760x428%20Professionals%20from%20Denmark%20-%20CW%20-%2017-08-24%20-%20Andy.jpg"
+  caption: A group of professionals from Denmark on our Canary Wharf Tour.
+  alt: A group of professionals from Denmark on our Canary Wharf Tour.
+- image: "/uploads/760x428%20Students%20from%20Boston%20-%20CW%20-%2018-01-25%20-%20Francis.JPG"
+  caption: Students from Boston on our Canary Wharf Tour.
+  alt: Students from Boston on our Canary Wharf Tour.
+- image: "/uploads/760x428%20Students%20from%20Texas%20in%20the%20walkway%20used%20for%20SW%20Rogue%20-%20CW%20-%2017-07-26.JPG"
+  caption: Texan students in the walkway that appeared in Star Wars Rogue  One!
+  alt: Texan students in the walkway that appeared in Star Wars Rogue  One!
+- image: "/uploads/760x428%20Students%20from%20Boston%20at%20One%20Canada%20Square%20-%20CW%20-%2018-01-25%20-%20Andy.JPG"
+  caption: A short of one of our student groups in front of One Canada Square.
+  alt: A short of one of our student groups in front of One Canada Square.
+- image: "/uploads/760x428%20Students%20from%20Imperial%20College%20-%20CW%20-%2017-07-25%20-%20Andy.JPG"
+  caption: Students from Imperial College on our Canary Wharf Tour.
+  alt: Students from Imperial College on our Canary Wharf Tour.
 show_book: false
 thumb: canary-wharf-420x287.jpg
 banner: HSBC-canary-wharf-772x579.jpg
 tour-id: 11227
-gallery:
-- image: "/uploads/17-07-24_CanaryWharf_Andy_Dheli_Royal_Exchange-760.jpg"
-  caption: A group on some steps...
-  alt: 
-- image: "/uploads/17-07-25_CanaryWharf_Andy_Imperial College-760.jpg"
-  caption: A group outside a building...
-  alt: 
-- image: "/uploads/17-07-26_CanaryWharf_Andy_Texas_Walkway used for SW Rogue-760.jpg"
-  caption: A group in a walkway
-  alt: 
-- image: "/uploads/17-08-24_CanaryWharf_Andy_Denmark-760.jpg"
-  caption: A group outside
-  alt: 
-- image: "/uploads/18-01-25 Canary Andy USBoston One Canada Square-760.jpg"
-  caption: A group outside one canada square...
-  alt: 
 layout: tour
 ---
 
