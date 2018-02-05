@@ -26,7 +26,7 @@ related:
 layout: tour
 ---
 
-<p class="lede">London’s modern architecture is like marmite for the eyes – you either love it or hate it.</p>  
+**London’s modern architecture is like marmite for the eyes – you either love it or hate it.**
 
 But love it or loathe it, you can’t help but notice the sci-fi like structures and soaring skyscrapers that puncture London’s skyline.
 
@@ -38,19 +38,23 @@ Starting at Southwark tube station and heading along the South Bank, our profess
 
 ![](/assets/images/MA 2-large.jpeg)
 
+## London Skyline Past & Present – Bespoke Private Tour
+
+In **2 hours** discover the rich architecture of London from the world-famous **historic gems** to the **modern headlines**. Starting near the Tower of London, hear some of the fascinating stories associated with this amazing fortress. Experience the extraordinary diversity of the City's architecture from the first builders, to the modern architectural giants Norman Foster and Renzo Piano, traverse modern eco-developments, the oldest railway station in London and emerge in the shadow of Europe's tallest building. This version can be arranged as a private tour, please send us an email with your requirement: contact@insider-london.co.uk
+
 ## Highlights
 
 Things you’ll discover:
 
 - The most striking examples of modern architecture in London
 and the fascinating stories behind their development.
-- London’s tallest skyscrapers and who really wins in the ‘size matters’ race</strong>  
-- The importance of sustainability in London’s architecture</strong> and the dynamic modern developments pushing the sustainability envelope  
-- How architects marry London’s innovative and historic architectural styles</strong>, including, a building which integrates an ancient churchyard
-- The controversial modern buildings that have had critics up in arms, </strong>including the building branded ‘ugly’ by the head of the Tate Modern art gallery, the development likened to a sea-sponge, and a sky scraper, which given the right weather conditions, can melt a car’s interior
-- A futuristic (and formerly very wobbly) London footbridge </strong>
-- The distinctive styles and characteristic design traits of influential British architects, </strong>including Will Alsop, Richard Rogers and Sir Norman Foster          
-- What’s next for London’s iconic skyline</strong>
+- London’s tallest skyscrapers and who really wins in the ‘size matters’ race
+- The importance of sustainability in London’s architecture and the dynamic modern developments pushing the sustainability envelope  
+- How architects marry London’s innovative and historic architectural styles, including, a building which integrates an ancient churchyard
+- The controversial modern buildings that have had critics up in arms, including the building branded ‘ugly’ by the head of the Tate Modern art gallery, the development likened to a sea-sponge, and a sky scraper, which given the right weather conditions, can melt a car’s interior
+- A futuristic (and formerly very wobbly) London footbridge
+- The distinctive styles and characteristic design traits of influential British architects, including Will Alsop, Richard Rogers and Sir Norman Foster          
+- What’s next for London’s iconic skyline
 
 ![](/assets/images/Modern Architecture-large.jpg)
 

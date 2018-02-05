@@ -6,6 +6,7 @@ id: 2546744
 author: london75
 description: Unusual walking tours around London. The most entertaining London guided
   walks that delve into the history of the city. Join us at insider-london.co.uk.
+heading: What We Do
 layout: page
 ---
 

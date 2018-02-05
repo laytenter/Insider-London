@@ -14,6 +14,11 @@ show_book: false
 thumb: canary-wharf-420x287.jpg
 banner: HSBC-canary-wharf-772x579.jpg
 tour-id: 11227
+gallery:
+- image: "/uploads/17-10-25%20Sperbank.jpg"
+  caption: The caption goes here...
+- image: 
+  caption: 
 layout: tour
 gallery:
 - image: /uploads/17-07-24_CanaryWharf_Andy_Dheli_Royal_Exchange-760.jpg

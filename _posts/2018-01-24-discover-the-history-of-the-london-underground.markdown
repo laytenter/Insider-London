@@ -7,6 +7,8 @@ description: Did you know the Underground was first built in 1863 and has been e
 layout: post
 ---
 
+![web_Underground Stairs CC0.jpg](/uploads/web_Underground%20Stairs%20CC0.jpg)
+
 The London Underground is one of the British capital city's most well-known features, serving the metropolis for over 150 years, so it comes as no surprise that visitors to the Big Smoke like to take a ride on the Tube and learn more about this historic network.
 
 If you are embarking on a London Underground tour [with Insider London](https://www.insider-london.co.uk/tours/educational-walking-tours/) with children or teenagers, and you wish to learn a little about the Underground together, [BBC Newsround](http://www.bbc.co.uk/timelines/zxkrb82) has published a handy guide that takes youngsters through the history of the Underground online.

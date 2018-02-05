@@ -18,6 +18,11 @@ related:
 - 29338
 - 29340
 - 29332
+gallery:
+- image: woot.jpg
+  caption: Woot woot
+- image: blah.jpg
+  caption: Blah
 layout: tour
 ---
 
