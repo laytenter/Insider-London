@@ -8,5 +8,10 @@
   <style type="text/css">
     {%include css/critical.css %}
   </style>
+
+  {% if jekyll.environment == 'development' %}
+    <link rel="stylesheet" href="/assets/css/main.css" />
+  {% endif %}
+
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" }}">
 </head>

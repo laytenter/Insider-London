@@ -8,3 +8,6 @@ package.json
 .jekyll-metadata
 /node_modules
 /wp-content
+/images/tour-images/
+/imgs
+/images

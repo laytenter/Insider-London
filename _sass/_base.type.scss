@@ -37,6 +37,10 @@
   text-align: center;
 }
 
+.red {
+  color: #ff2533;
+}
+
 strong {
   color: $color-black;
   font-weight: 700;
@@ -56,4 +60,16 @@ strong {
 
 .small {
   @include inuit-font-size(12px);
+}
+
+h1 {
+  @include inuit-font-size($inuit-heading-size-3);
+
+  @include media-query(lap) {
+    @include inuit-font-size($inuit-heading-size-2);
+  }
+
+  @include media-query(desk) {
+    @include inuit-font-size($inuit-heading-size-1);
+  }
 }

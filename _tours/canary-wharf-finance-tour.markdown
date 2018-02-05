@@ -15,6 +15,22 @@ thumb: canary-wharf-420x287.jpg
 banner: HSBC-canary-wharf-772x579.jpg
 tour-id: 11227
 layout: tour
+gallery:
+- image: /uploads/17-07-24_CanaryWharf_Andy_Dheli_Royal_Exchange-760.jpg
+  caption: A group on some steps...
+  alt:
+- image: /uploads/17-07-25_CanaryWharf_Andy_Imperial College-760.jpg
+  caption: A group outside a building...
+  alt:
+- image: /uploads/17-07-26_CanaryWharf_Andy_Texas_Walkway used for SW Rogue-760.jpg
+  caption: A group in a walkway
+  alt:
+- image: /uploads/17-08-24_CanaryWharf_Andy_Denmark-760.jpg
+  caption: A group outside
+  alt:
+- image: /uploads/18-01-25 Canary Andy USBoston One Canada Square-760.jpg
+  caption: A group outside one canada square...
+  alt:
 ---
 
 Tour of Canary Wharf – the New Finance Centre of London takes you around and inside the amazing development that is east London’s most pivotal, and important, business district CANARY WHARF.

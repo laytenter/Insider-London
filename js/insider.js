@@ -44,9 +44,7 @@ var jt = jt || {};
 // same functions as above
 jt.nav = (function() {
   function mobileMenu() {
-  document.getElementById('dt-menu-toggle').addEventListener(
-    'click', function(e){
-
+    document.getElementById('dt-menu-toggle').addEventListener('click', function(e){
       e.preventDefault();
       var menu = document.getElementById('menu-main-menu');
 
@@ -58,28 +56,48 @@ jt.nav = (function() {
       {
         menu.style.display = 'none';
       }
-
-    }
-  )
-
+    })
   }
-
-    return {
-        mobileMenu: mobileMenu
-    };
+  return {
+    mobileMenu: mobileMenu
+  };
 })();
 
 // listen for the DOMContentLoaded event, then bind our function
 jt.nav.mobileMenu();
 
-function scrollTo(element, to, duration) {
-    if (duration <= 0) return;
-    var difference = to - element.scrollTop;
-    var perTick = difference / duration * 10;
 
-    setTimeout(function() {
-        element.scrollTop = element.scrollTop + perTick;
-        if (element.scrollTop === to) return;
-        scrollTo(element, to, duration - 10);
-    }, 10);
-}
+
+  imagesLoaded( '#slideshow', function() {
+
+    var simple = document.querySelector('.js_slider');
+    if (simple) {
+
+      lory(simple, {
+        rewind: true
+      });
+    }
+
+  });
+
+
+// boxElement = document.querySelector("#box");
+//
+// createObserver();
+//
+// function handleIntersect(entries, observer) {
+//   console.log(entries);
+// }
+//
+// function createObserver() {
+//   var observer;
+//
+//   var options = {
+//     root: null,
+//     rootMargin: "0px",
+//     threshold: 1
+//   };
+//
+//   observer = new IntersectionObserver(handleIntersect, options);
+//   observer.observe(boxElement);
+// }

@@ -7,7 +7,20 @@ html {
 }
 
 figure {
-  margin:0;
+  margin: $inuit-base-spacing-unit 0;
+
+  @include media-query(lap-and-up) {
+    margin: $inuit-base-spacing-unit;
+  }
+
+}
+
+figcaption {
+  padding: $inuit-base-spacing-unit--small;
+  font-style: italic;
+  background: $color-blue;
+  color: white;
+  @include inuit-font-size(12px);
 }
 
 .hidden-palm {

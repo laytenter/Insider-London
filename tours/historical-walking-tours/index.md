@@ -1,0 +1,20 @@
+---
+title: London History Tours | Historical Walking Tours
+heading: Hidden Tours
+date: 2015-05-11 15:47:17 Z
+permalink: "/tours/historical-walking-tours/"
+id: 25099
+layout: page
+description: We provide the most entertaining and informative London history tours. Ideal for tourists, schools and corporate events. Learn more at insider-london.co.uk.
+---
+
+  <p>Insider London offers a medley of alternative and unusual walking tours of London. Our Street Art Tour includes a wonderful collection of murals and street art in East London while our historical guided tours delve into the history of drinking, gangs, and debauchery in the city. The original London Underground tour is perfect for those interested in the stories behind this 150 year old British institution while our Royal Living and Royal Shopping Tour is for those who have a fascination with the lives of London’s aristocrats </p>
+
+<div class="layout">
+  {% assign tours = site.tours | where: "categories", "hidden" %}
+  {% for tour in tours %}
+    <div class="layout__item u-1/4 u-1/3-lap u-1/2-palm">
+      {% include tour-block.html %}
+    </div>
+  {% endfor %}  
+</div>

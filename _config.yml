@@ -30,6 +30,10 @@ defaults:
   values:
     heading:
     description:
+    gallery:
+      - image:
+        caption:
+        alt:
 - scope:
     path: ''
     type: authors
@@ -68,17 +72,19 @@ exclude:
 - package-lock.json
 - Gemfile.lock
 - Gemfile
-- np-debug.log1
+- npm-debug.log
+- gulpfile.js
+- images
+- imgs
 future: true
-markdown: redcarpet
-env: prod
 imagepath: "/assets/images/"
 compress_html:
   clippings: all
+  profile: false
   comments:
   - "<!-- "
   - " -->"
   ignore:
     envs:
-    - local
+    - development
   blanklines: false

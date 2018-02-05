@@ -2,11 +2,11 @@ if (!TrekkSoft) {
     var TrekkSoft = {};
 }
 
-TrekkSoft.addCustomEvent = function(elem, type, handler) {
+TrekkSoft.addCustomEvent = function (elem, type, handler) {
     if (elem.addEventListener) {
         elem.addEventListener(type, handler, false);
     } else if (elem.attachEvent) {
-        elem.attachEvent("on"+type, handler);
+        elem.attachEvent("on" + type, handler);
     }
 };
 
@@ -14,31 +14,36 @@ TrekkSoft.getBaseUrl = function() {
     return '//insider-london-ltd.trekksoft.com/en_GB';
 };
 
-TrekkSoft.getRootUrl = function() {
-    var url = TrekkSoft.getBaseUrl();
-    var pos = url.lastIndexOf('/');
-    if (pos!=-1) {
-        url = url.substr(0,pos);
+TrekkSoft.getRootUrl = function () {
+    var url = TrekkSoft.getBaseUrl(),
+        pos = url.lastIndexOf('/');
+    if (pos !== -1) {
+        url = url.substr(0, pos);
     }
     return url;
 };
 
-
-// ---
-
-
 TrekkSoft.CookieTester = {
     callback: null,
-    backendUrl: TrekkSoft.getRootUrl()+'/cookie-tester.php',
+    backendUrl: TrekkSoft.getRootUrl() + '/cookie-tester.php',
     checked3rdPartyCookies: false,
     checked3rdPartyCookiesStatus: null
 };
 
-TrekkSoft.CookieTester.supports3rdPartyCookies = function(callback)
+TrekkSoft.CookieTester.runResultCallback = function()
+{
+    if (this.callback) {
+        this.callback(this.checked3rdPartyCookiesStatus);
+    }
+};
+
+TrekkSoft.CookieTester.checkFor3drPartyCookiesSupport = function(callback)
 {
     this.callback = callback;
     //load external php script which should return back to ThirdPartyLoadedCallBack1
-    this.checked3rdPartyCookies ? callback(this.checked3rdPartyCookiesStatus) :this.loadBackend(1);
+    this.checked3rdPartyCookies
+        ? this.runResultCallback()
+        : this.loadBackend(1);
 };
 
 TrekkSoft.CookieTester.ThirdPartyLoadedCallBack1 = function()
@@ -48,9 +53,9 @@ TrekkSoft.CookieTester.ThirdPartyLoadedCallBack1 = function()
 
 TrekkSoft.CookieTester.ThirdPartyLoadedCallBack2 = function(cookieSuccess)
 {
-    this.callback(cookieSuccess);
     this.checked3rdPartyCookies = true;
     this.checked3rdPartyCookiesStatus = cookieSuccess;
+    this.runResultCallback();
     return cookieSuccess;
 };
 
@@ -62,9 +67,7 @@ TrekkSoft.CookieTester.loadBackend = function(step)
     document.body.appendChild(script);
 };
 
-
-
-TrekkSoft.Embed = {};
+TrekkSoft.Embed = {isMobile: false};
 
 TrekkSoft.Embed.registerOnLoadCallback = function(func)
 {
@@ -75,13 +78,11 @@ TrekkSoft.Embed.assembleURL = function(url, params)
 {
     var query = '';
     for (var key in params) {
-        query += query == '' ? '?' : '&';
+        query += query === '' ? '?' : '&';
         query += key + "=" + params[key];
     }
     return url + query;
 };
-
-
 
 TrekkSoft.Embed.Button = function(attribs)
 {
@@ -98,7 +99,7 @@ TrekkSoft.Embed.Button = function(attribs)
         height      : 700
     };
 
-    if (typeof attribs == 'object') {
+    if (typeof attribs === 'object') {
         for (var key in this.attribs) {
             if (!attribs[key]) {
                 continue;
@@ -117,23 +118,21 @@ TrekkSoft.Embed.Button.prototype.setAttrib = function(key, value)
 
 TrekkSoft.Embed.Button.prototype.registerOnClick = function(elementId)
 {
-    var e = document.getElementById(elementId.replace('#', ''));
-    if (!e) {
+    var e = document.getElementById(elementId.replace('#', '')),
+        _self = this;
+    if (!e || _self.rendered) {
         return;
     }
 
-    var thiz = this;
-
-    if (thiz.rendered) {
-        return;
-    }
+    TrekkSoft.CookieTester.checkFor3drPartyCookiesSupport();
 
     // http://detectmobilebrowsers.com/
     var isMobile = (function(a) {
         return /(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4))
     })(navigator.userAgent||navigator.vendor||window.opera);
 
-    var isiPad = navigator.userAgent.match(/iPad/i) != null;
+    var isRetinaMobile = ((window.matchMedia && (window.matchMedia('only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx), only screen and (min-resolution: 75.6dpcm)').matches || window.matchMedia('only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min--moz-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2)').matches)) || (window.devicePixelRatio && window.devicePixelRatio >= 2)) && /(iPad|iPhone|iPod)/g.test(navigator.userAgent);
+    TrekkSoft.Embed.isMobile = (isMobile || isRetinaMobile);
 
     var func = function(evt) {
         if (evt.preventDefault) {
@@ -142,27 +141,25 @@ TrekkSoft.Embed.Button.prototype.registerOnClick = function(elementId)
             evt.returnValue = false;
         }
 
-        if (isMobile || window.innerHeight/window.devicePixelRatio < 600 || window.innerWidth/window.devicePixelRatio < 700 || isiPad) {
-            thiz.redirectToMobile();
-        } else {
-            thiz.openOnPage();
+        _self.openOnPage();
+
+        if (TrekkSoft.Embed.isMobile) {
+            document.body.style.position = "fixed";
+            document.body.style.overflow = "hidden";
         }
     };
 
     TrekkSoft.addCustomEvent(e, 'click', func);
 
-    thiz.rendered = true;
+    _self.rendered = true;
 
     return this;
 };
 
-
-// ---
-
 //This is for supporting legacy code
 TrekkSoft.Embed.Iframe = TrekkSoft.Embed.Button;
-TrekkSoft.Embed.Iframe.prototype.render = function(elementId){
-    elementId = elementId.replace('#','');
+TrekkSoft.Embed.Iframe.prototype.render = function(elementId) {
+    elementId = elementId.replace('#', '');
 
     //remove container for iframe if it exists
     var el = document.getElementById(elementId);
@@ -170,17 +167,16 @@ TrekkSoft.Embed.Iframe.prototype.render = function(elementId){
         el.parentNode.removeChild(el);
     }
 
-    var html = '<a href="#" id="'+elementId+'"><img src="'+TrekkSoft.getBaseUrl()+'/widget/book-button.png" border="0" /></a>';
+    var html = '<a href="#" id="' + elementId + '"><img src="' + TrekkSoft.getBaseUrl() + '/widget/book-button.png" border="0" /></a>';
     document.write(html);
 
-    if (this.attribs.target===undefined) {
+    if (this.attribs.target === undefined) {
         this.attribs.target = 'fancy';
     }
     this.registerOnClick(elementId);
-}
-// ---
+};
 
-TrekkSoft.Embed.Fancybox = function(url)
+TrekkSoft.Embed.Fancybox = function(url, width)
 {
     var closeBtn = document.createElement("a");
     closeBtn.setAttribute('href','#');
@@ -192,6 +188,12 @@ TrekkSoft.Embed.Fancybox = function(url)
     closeBtn.style.top = '-10px';
     closeBtn.style.right = '-10px';
 
+    if (TrekkSoft.Embed.isMobile) {
+        closeBtn.style.height = '21px';
+        closeBtn.style.top = '0';
+        closeBtn.style.right = '0';
+    }
+
     var func = function(evt) {
         if (evt.preventDefault) {
             evt.preventDefault();
@@ -200,6 +202,11 @@ TrekkSoft.Embed.Fancybox = function(url)
         }
         var container = document.getElementById('trekksoft-popup-container');
         container.style.display = 'none';
+
+        if (TrekkSoft.Embed.isMobile) {
+            document.body.style.overflow = "";
+            document.body.style.position = "";
+        }
     };
 
     TrekkSoft.addCustomEvent(closeBtn, 'click', func);
@@ -214,6 +221,9 @@ TrekkSoft.Embed.Fancybox = function(url)
 
     var iframe = document.createElement("iframe");
     iframe.src = url;
+    if (TrekkSoft.Embed.isMobile) {
+        iframe.scrolling = 'no';
+    }
     iframe.style.border = "none";
     iframe.style.width = "100%";
     iframe.style.height = "100%";
@@ -244,28 +254,27 @@ TrekkSoft.Embed.Fancybox = function(url)
         if( overlay.style.boxSizing === '' ) overlay.style.boxSizing = 'border-box';
         if( overlay.style.MozBoxSizing === '' ) overlay.style.MozBoxSizing = 'border-box';
         overlay.id = 'trekksft-overlay';
-        overlay.style.zIndex = "100000";
+        overlay.style.zIndex = "10000000";
         overlay.style.position = "fixed";
         overlay.style.top = "0";
         overlay.style.left = "0";
         overlay.style.width = "100%";
         overlay.style.height = "100%";
-        overlay.style.padding = "50px 0";
+        overlay.style.padding = TrekkSoft.Embed.isMobile ? "10px" : "50px 0";
         overlay.style.backgroundImage = "url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyFpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDE0IDc5LjE1MTQ4MSwgMjAxMy8wMy8xMy0xMjowOToxNSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChXaW5kb3dzKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDoyMEI4N0IzQTVDMjcxMUUzOUE0MkZGMTUzRUQ0OEFBNSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDoyMEI4N0IzQjVDMjcxMUUzOUE0MkZGMTUzRUQ0OEFBNSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjIwQjg3QjM4NUMyNzExRTM5QTQyRkYxNTNFRDQ4QUE1IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjIwQjg3QjM5NUMyNzExRTM5QTQyRkYxNTNFRDQ4QUE1Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+ax+ERAAAAA9JREFUeNpiYGBgqAMIMAAAgwB/gxXrmwAAAABJRU5ErkJggg==')";
 
         popup = document.createElement("div");
         popup.id = 'trekksoft-popup-popup';
-        popup.style.margin = "0 auto";
-        popup.style.width = "517px";
-        popup.style.minHeight = "517px";
+        popup.style.width = TrekkSoft.Embed.isMobile ? "100%" : (width || "517px");
         popup.style.height = "100%";
         popup.style.margin = "0 auto";
-
-        /*popup.style.minHeight = "80%";
-        popup.style.height = "80%";
-        popup.style.maxWidth = "80%";*/
         popup.style.background = "#fff";
         popup.style.position = "relative";
+
+        if (TrekkSoft.Embed.isMobile) {
+            popup.style.webkitOverflowScrolling = 'touch';
+            popup.style.overflow = 'auto';
+        }
 
         document.body.appendChild(container);
         container.appendChild(overlay);
@@ -273,8 +282,7 @@ TrekkSoft.Embed.Fancybox = function(url)
         popup.appendChild(closeBtn);
         popup.appendChild(iframe);
         popup.appendChild(loader);
-    }
-    else {
+    } else {
         popup = document.getElementById('trekksoft-popup-popup');
         popup.innerHTML = '';
         popup.appendChild(closeBtn);
@@ -284,12 +292,11 @@ TrekkSoft.Embed.Fancybox = function(url)
     }
 };
 
-
 TrekkSoft.Embed.Button.prototype.redirectToMobile = function()
 {
-    var attrs  = this.attribs;
-    var url    = attrs.url;
-    var params = {};
+    var attrs  = this.attribs,
+        url    = attrs.url,
+        params = {};
 
     switch (attrs.entryPoint)
     {
@@ -324,12 +331,11 @@ TrekkSoft.Embed.Button.prototype.redirectToMobile = function()
     return window.location = url;
 };
 
-
 TrekkSoft.Embed.Button.prototype.openOnPage = function()
 {
-    var attrs  = this.attribs;
-    var url    = attrs.url;
-    var params = {};
+    var attrs  = this.attribs,
+        url    = attrs.url,
+        params = {};
 
     switch (attrs.entryPoint)
     {
@@ -367,9 +373,9 @@ TrekkSoft.Embed.Button.prototype.openOnPage = function()
     {
         case 'fancy':
         case 'window':
-            TrekkSoft.CookieTester.supports3rdPartyCookies(function(success){
+            TrekkSoft.CookieTester.checkFor3drPartyCookiesSupport(function(success){
                 if (success) {
-                    TrekkSoft.Embed.Fancybox(url);
+                    TrekkSoft.Embed.Fancybox(url, attrs.fancywidth);
                 } else {
                     var opts = 'width=' + parseInt(attrs.width) + ',height=' + parseInt(attrs.height) + ',menubar=no,toolbar=no,location=no,scrollbars=yes,status=no';
                     return window.open(url, 'trekksoftpopup', opts);

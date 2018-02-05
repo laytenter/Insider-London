@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="wrapper">
+  <div class="layout">
+    <div class="layout__item u-3/5-lap u-2/3-desk">
+      <article class="post">
+        {% include ta-logo.html %}
+        <header class="post-header">
+          <div class="breadcrumb-wrapper ">
+            <div class="container">
+              <h1 class="post-title">
+                {% if page.heading %}
+                  {{ page.heading }}
+                {% else %}
+                  {{ page.title }}
+                {% endif %}
+              </h1>
+            </div>
+          </div>
+        </header>
+        {{ content }}
+      </article>
+    </div>
+    <div class="layout__item u-2/5-lap u-1/3-desk lap-and-up-mt palm-mt">
+      {% include tour-enquiry.html %}
+    </div>
+  </div>
+</div>

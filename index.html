@@ -21,18 +21,22 @@ layout: default
     {% include ta-logo.html %}
 
     <h2 style="text-align: center;">FEATURED TOURS</h2>
-      <div class="layout">{% for tour in site.tours %}{% if tour.featured %}<div class="layout__item u-1/4-desk u-1/2-lap u-1/2-palm">
-          {% include tour-block.html %}
-        </div><!-- -->{% endif %}{% endfor %}</div>
-        <div class="text-centre palm-mb lap-and-up-mb">
-          <!--<img src="/assets/images/img-tour.png" alt="">
-          <br />-->
-          <p>
-            <a class="btn btn--view-all text-center" title="Tours" href="/tours/">
-            VIEW ALL TOURS
-            </a>
-        </p>
-        </div>
+    <div class="layout">
+      {% for tour in site.tours %}
+        {% if tour.featured %}
+          <div class="layout__item u-1/4-desk u-1/2-lap u-1/2-palm">
+            {% include tour-block.html %}
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+    <div class="text-centre palm-mb lap-and-up-mb">
+      <p>
+        <a class="btn btn--view-all text-center" title="Tours" href="/tours/">
+          VIEW ALL TOURS
+        </a>
+      </p>
+    </div>
   </section>
 
   <section class="homepage-intro">
