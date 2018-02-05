@@ -51,8 +51,6 @@ related:
 layout: tour
 ---
 
-*Hong Kong University students visiting Ogilvy UK in June '17*
-
 Let Insider London show you the secrets to London's success. 
 
 Our in-depth educational business visits showcase some of the world's most powerful companies as well as the capital's most innovative entrepreneurs, including:
