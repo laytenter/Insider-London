@@ -7,6 +7,19 @@ tags:
 - historical
 - ghost
 - all
+gallery:
+- image: "/uploads/Group.jpg"
+  caption: Did this group actually see a ghost?!
+  alt: Did this group actually see a ghost?!
+- image: "/uploads/St%20Giles.jpg"
+  caption: 'One of the first stops on the tour: St. Giles in the Field.'
+  alt: 'One of the first stops on the tour: St. Giles in the Field.'
+- image: "/uploads/Strangling%20coat.jpg"
+  caption: Our guide Jess telling the story of a strangling coat...
+  alt: Our guide Jess telling the story of a strangling coat...
+- image: "/uploads/Narrowest%20Alleyway.jpg"
+  caption: Spooky alleyways and dark corner guaranteed!
+  alt: Spooky alleyways and dark corner guaranteed!
 tour-id: 12345
 author: london75
 trekksoft-tour-id: 50196
