@@ -11,6 +11,18 @@ heading: London Underground and Tube Tour
 description: 'Our original guided London Underground and Tube Tour: Travel across
   150 years of hidden history in just two hours aboard our awesome London Underground
   Tour!'
+gallery:
+- image: "/uploads/web_18-01-20%20Tube%20Jonas%20PiccadillyCircus.JPG"
+  caption: Our guests in front of Frank Pick's memorial in Piccadilly Circus, January
+    2017.
+  alt: Our guests in front of Frank Pick's memorial in Piccadilly Circus, January
+    2017.
+- image: "/uploads/web_18-01-20%20Tube%20Jonas%20CentralLine.JPG"
+  caption: Caught us on our hunt for a ghost station!
+  alt: Our guests on the hunt for a ghost station!
+- image: 
+  caption: 
+  alt: 
 tour-id: 32143
 trekksoft-tour-id: 50159
 show_book: true
