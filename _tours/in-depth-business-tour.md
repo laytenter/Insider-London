@@ -10,23 +10,32 @@ description: London guided tours of the most important companies. Learn the secr
   behind the capital’s most successful companies and start-ups at insider-london.co.uk.
 gallery:
 - image: "/uploads/760x428%2017-11-13%20Jonas%20Bvisits%20Limkokwing%20Verb%20Brands.jpg"
-  caption: 
-  alt: 
+  caption: Lovely Limkokwing students from all over the world visiting Verb Brands
+    and its founder Chris Donnelly.
+  alt: Lovely Limkokwing students from all over the world visiting Verb Brands and
+    its founder Chris Donnelly.
 - image: "/uploads/760x428%2017-10-25%20Sperbank%20Wayra.jpg"
-  caption: 
-  alt: 
+  caption: A great group of Sberbank executives, just before a bespoke business visit
+    at Wayra, featuring three interesting fintech startups!
+  alt: A great group of Sberbank executives, just before a bespoke business visit
+    at Wayra, featuring three interesting fintech startups!
 - image: "/uploads/17-10-25%20Sperbank%20with%20Percent.jpg"
-  caption: 
+  caption: Sberbank executives and Percent founder and CEO Henry Ludlam at a bespoke
+    fintech startup event.
   alt: 
 - image: "/uploads/760x428%20web_17-06-15_visit%20Anthony%20Jiamei,Jonas%20University%20of%20Hong%20Kong.jpg"
-  caption: 
-  alt: 
+  caption: Students from Hong Kong University visiting Ogilvy.
+  alt: Students from Hong Kong University visiting Ogilvy.
 - image: "/uploads/760x428%2017-11-09%20LBS%20Street%20Art%20Silicon%20Roundabout%20Ziferblat.JPG"
-  caption: 
-  alt: 
+  caption: Executives on a London Business School training programme with us at Ziferblat,
+    awaiting a presentation on the East Ends startup industry.
+  alt: Executives on a London Business School training programme with us at Ziferblat,
+    awaiting a presentation on the East Ends startup industry.
 - image: "/uploads/17-11-14%20bvisit%20Jonas%20HubWestminster%20Limkokwing.jpg"
-  caption: 
-  alt: 
+  caption: A great group from Limkokwing visiting Impact Hub Westminster, learning
+    about co-working and participating in a workshop on social entrepreneurship.
+  alt: A great group from Limkokwing visiting Impact Hub Westminster, learning about
+    co-working and participating in a workshop on social entrepreneurship.
 tour-id: 29344
 author: london75
 guid: "/?post_type=product&#038;p=29344"
