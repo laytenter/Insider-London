@@ -7,6 +7,22 @@ tags:
 - educational
 - finance
 - all
+gallery:
+- image: "/uploads/760x428%2017-12-19%20Finance%20Andy%20Postmans%20Park.JPG"
+  caption: A group of professionals on our City of London Finance Tour in Postman's
+    Park.
+  alt: A group of professionals on our City of London Finance Tour in Postman's Park.
+- image: "/uploads/760x428%20web_17-07-20_Finance_Andy_na_Guildhall.jpg"
+  caption: A student group on our City of London Finance Tour in front of Guildhall.
+  alt: A student group on our City of London Finance Tour in front of Guildhall.
+- image: "/uploads/760x428%20web%2017-08-10_Finance_Andy_Toronto_Leadenhall.jpg"
+  caption: Canadian students from Toronto on our City of London Finance Tour in Leadenhall
+    Market.
+  alt: Canadian students from Toronto on our City of London Finance Tour in Leadenhall
+    Market.
+- image: "/uploads/18-01-16%20Finance%20Francis%20USBoston.JPG"
+  caption: 
+  alt: 
 tour-id: 29332
 author: london75
 guid: "/?post_type=product&#038;p=29332"
