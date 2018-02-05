@@ -8,6 +8,25 @@ tags:
 heading: Educational In-depth Business Visits
 description: London guided tours of the most important companies. Learn the secrets
   behind the capital’s most successful companies and start-ups at insider-london.co.uk.
+gallery:
+- image: "/uploads/760x428%2017-11-13%20Jonas%20Bvisits%20Limkokwing%20Verb%20Brands.jpg"
+  caption: 
+  alt: 
+- image: "/uploads/760x428%2017-10-25%20Sperbank%20Wayra.jpg"
+  caption: 
+  alt: 
+- image: "/uploads/17-10-25%20Sperbank%20with%20Percent.jpg"
+  caption: 
+  alt: 
+- image: "/uploads/760x428%20web_17-06-15_visit%20Anthony%20Jiamei,Jonas%20University%20of%20Hong%20Kong.jpg"
+  caption: 
+  alt: 
+- image: "/uploads/760x428%2017-11-09%20LBS%20Street%20Art%20Silicon%20Roundabout%20Ziferblat.JPG"
+  caption: 
+  alt: 
+- image: "/uploads/17-11-14%20bvisit%20Jonas%20HubWestminster%20Limkokwing.jpg"
+  caption: 
+  alt: 
 tour-id: 29344
 author: london75
 guid: "/?post_type=product&#038;p=29344"
