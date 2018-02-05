@@ -10,6 +10,33 @@ tags:
 heading: Street Art Tour
 description: A street art tour London that shows off all the underground culture of
   the city. Perfect for tourists and private parties. Visit insider-london.co.uk.
+gallery:
+- image: "/uploads/web_17-10-11%20StreetArt%20KhanhEden.jpg"
+  caption: A great group of students in Rivington Street - one of East London's street
+    art hot spots!
+  alt: A great group of students in Rivington Street - one of East London's street
+    art hot spots!
+- image: "/uploads/web_17-10-11%20StreetArt%20Eden%20Banksy.jpg"
+  caption: A must see on the route - Banksy!
+  alt: A must see on the route - Banksy!
+- image: "/uploads/web_17-07-20_StreetArt_Julia_na_RickNMorty.jpg"
+  caption: Carrefour Executives on London Business School's training programme on
+    our Street Art Tour!
+  alt: Carrefour Executives on London Business School's training programme on our
+    Street Art Tour!
+- image: "/uploads/web_17-01-28%20StreetArt%20Jonas.JPG"
+  caption: A shot from one of our private tours! Thanks to Urban Solid for this beautiful
+    piece of street art!
+  alt: A shot from one of our private tours! Thanks to Urban Solid for this beautiful
+    piece of street art!
+- image: "/uploads/web_17-02-17%20StreetArt%20Jonas.jpg"
+  caption: We love showing students around the East End's street art - here it's Ben
+    Eine's Like Nothing.
+  alt: We love showing students around the East End's street art - here it's Ben Eine's
+    Like Nothing.
+- image: "/uploads/web_%2017-08-03_SR_Robert_Red%20Gallery.jpg"
+  caption: Thierry Noir outside Red Gallery.
+  alt: Thierry Noir outside Red Gallery.
 featured: true
 tour-id: 29326
 trekksoft-tour-id: 50188
