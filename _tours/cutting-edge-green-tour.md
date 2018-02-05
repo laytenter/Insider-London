@@ -7,6 +7,24 @@ tags:
 - CEGT
 - all
 - educational
+gallery:
+- image: "/uploads/web_17-07-20_bespokeTubeCEGT_Jonas_Todd(TA%20review)_South%20Bank.jpg"
+  caption: A bespoke Cutting Edge Green & Tube Tour ended on the South Bank - we can
+    tailor tours specifically to your needs.
+  alt: A bespoke Cutting Edge Green & Tube Tour ended on the South Bank - we can tailor
+    tours specifically to your needs.
+- image: "/uploads/web_17-07-21%20CEGT%20Jonas%20Private%20Tour.jpg"
+  caption: Our guide Jonas with two US Americans after a private Cutting Edge Green
+    Tours.
+  alt: Our guide Jonas with two US Americans after a private Cutting Edge Green Tours.
+- image: "/uploads/web_17-10-27%20CEGT%20Jonas%20Rokit.jpg"
+  caption: Students visiting Rokit in Covent Garden on our Cutting Edge Green Tour
+    - cutting down on fashion waste is desperately needed!
+  alt: Students visiting Rokit in Covent Garden on our Cutting Edge Green Tour - cutting
+    down on fashion waste is desperately needed!
+- image: "/uploads/17-09-21%20CEGT%20Jonas.jpg"
+  caption: Another happy student group on our Cutting Edge Green Tour.
+  alt: Another happy student group on our Cutting Edge Green Tour.
 tour-id: 29340
 author: london75
 show_book: false
