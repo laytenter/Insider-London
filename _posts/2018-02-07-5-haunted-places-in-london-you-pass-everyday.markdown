@@ -13,7 +13,7 @@ layout: post
 ![01_960x540-Royal_Exchange_Panorama By Ian Muttoo CC BY-SA 2.0 via Wikimedia Commons.jpg](/uploads/01_960x540-Royal_Exchange_Panorama%20By%20Ian%20Muttoo%20CC%20BY-SA%202.0%20via%20Wikimedia%20Commons.jpg)
 *The Royal Exchange at Bank Station, by [Ian Muttoo via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Royal_Exchange_Panorama.jpg)*
 
-It's no secret that London may be one of the most haunted cities in the world. Ye Olde London Towne, rich in history, is believed to harbor a spookier side... but forget London Dungeons! For fans of ghosts, ghouls and things that go bump in the night, here are five haunted spots you may pass on a daily basis.
+It's no secret that London may be one of the most haunted cities in the world. Ye Olde London Towne, rich in history, is believed to harbour a spookier side... but forget London Dungeons! For fans of ghosts, ghouls and things that go bump in the night, here are five haunted spots you may pass on a daily basis.
 
 ## 1. Bank station
 
