@@ -52,4 +52,4 @@ Next time you go to grab your Tube map, why not supplement it with [Brilliantly 
 ![05_960x540-Covent_Garden_Tube_Station By Eluveitie CC BY-SA 3.0 via Wikimedia Commons.JPG](/uploads/05_960x540-Covent_Garden_Tube_Station%20By%20Eluveitie%20CC%20BY-SA%203.0%20via%20Wikimedia%20Commons.JPG)
 *Covent Garden Tube Station, by [Eluveitie via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Covent_Garden_Tube_Station.JPG)*
 
-*Can you brave an encounter with William Terris and his spooky companions? Tip-toe through the back passages of the West End, on our [Ghosts and Infamous Murders Tour](https://www.insider-london.co.uk/tours/famous-ghosts-and-infamous-murders/).* 
+*Can you brave an encounter with William Terris and his spooky companions? Tip-toe through the back passages of the West End, on our [Ghost Tour](https://www.insider-london.co.uk/tours/famous-ghosts-and-infamous-murders/).* 
