@@ -49,7 +49,7 @@ For fans of decadence and scandal, there is no finer street than Covent Garden's
 
 Next time you go to grab your Tube map, why not supplement it with [Brilliantly British's map of the most haunted stations](https://www.brilliantlybritish.com/blog/2015/10/27/londons-most-haunted-tube-stations/)? On it, you shall find our final stop inhabited by a certain [William Terris](https://www.spookyisles.com/2017/06/william-terriss-ghostly-encores/). This popular Victorian actor was murdered in cold blood at the Adelphi Theatre. Rumour has it after a jealous rival stabbed him three times, he uttered the words “I will come back”. He seems to have gotten a bit lost in the process though, as he is regularly sighted up the road at Covent Garden Tube Station. Apparently, this was the site of his favourite bakery. So there we have it, proof that ghosts get peckish.
 
-[05_960x540-Covent_Garden_Tube_Station By Eluveitie CC BY-SA 3.0 via Wikimedia Commons.JPG](/uploads/05_960x540-Covent_Garden_Tube_Station%20By%20Eluveitie%20CC%20BY-SA%203.0%20via%20Wikimedia%20Commons.JPG)
+![05_960x540-Covent_Garden_Tube_Station By Eluveitie CC BY-SA 3.0 via Wikimedia Commons.JPG](/uploads/05_960x540-Covent_Garden_Tube_Station%20By%20Eluveitie%20CC%20BY-SA%203.0%20via%20Wikimedia%20Commons.JPG)
 *Covent Garden Tube Station, by [Eluveitie via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Covent_Garden_Tube_Station.JPG)*
 
 *Can you brave an encounter with William Terris and his spooky companions? Tip-toe through the back passages of the West End, on our [Ghosts and Infamous Murders Tour](https://www.insider-london.co.uk/tours/famous-ghosts-and-infamous-murders/).* 
