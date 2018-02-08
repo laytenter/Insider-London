@@ -17,13 +17,13 @@ It's no secret that London may be one of the most haunted cities in the world. Y
 
 ## 1. Bank station
 
-After a hard day’s work, you cram onto the platform – but perhaps you see a silvery spectre gliding through the crowd? Bank station hosts one of the most commonly sighted underground ghosts in more than 150 years of tube history: the Black Nun. This real-life [“Old Lady of Threadneedle Street”](https://www.historicmysteries.com/black-nun/) is believed to be Sarah Whitehead. The tale begins in 1812 when her brother, a bank cashier, was hung at the Old Bailey for forgery. For many years, she frequented the Bank of England asking to see her brother. She is now frequently spotted around the Bank interchange and on station platforms dressed in the same long black dress and full-face veil she wore on her visits to the Bank.
+After a hard day’s work, you cram onto the platform – but perhaps you see a silvery spectre gliding through the crowd? Bank station hosts one of the most commonly sighted underground ghosts in more than 150 years of tube history: the Black Nun. This real-life [“Old Lady of Threadneedle Street”](https://www.historicmysteries.com/black-nun/) is believed to be Sarah Whitehead. The tale begins in 1812 when her brother, a bank cashier, was hung at the Old Bailey for forgery. For many years, she frequented the Bank of England asking to see her brother. She is now frequently spotted around the Bank interchange and on station platforms wearing the same long black dress and full-face veil she wore on her visits to the Bank.
 
 ![01_960x540-Royal_Exchange_Panorama By Ian Muttoo CC BY-SA 2.0 via Wikimedia Commons.jpg](/uploads/01_960x540-Royal_Exchange_Panorama%20By%20Ian%20Muttoo%20CC%20BY-SA%202.0%20via%20Wikimedia%20Commons.jpg)
 
 ## 2. The Flask, Highgate
 
-If this pub is your favourite haunt, you are not alone! While enjoying a casual pint at the bar, you may feel a strange breathing down the back of your neck or spy your pint slipping away... You haven't had *that* much too drink, what's going on?! Well, it may be the ghost of a heart-broken Spanish barmaid [who hung herself in the pub's cellars[(http://www.theflaskhighgate.com/about). Of course, that’s the obvious explanation!
+If this pub is your favourite haunt, you are not alone! While enjoying a casual pint at the bar, you may feel a strange breathing down the back of your neck or spy your pint slipping away... You haven't had *that* much too drink, what's going on?! Well, it may be the ghost of a heart-broken Spanish barmaid [who hung herself in the pub's cellars](http://www.theflaskhighgate.com/about). Of course, that’s the obvious explanation!
 
 ![02_960x540-Flask,_Highgate,_N6_(2883805442) By Ewan Munro from London, UK CC BY-SA 2.0 via Wikimedia Commons.jpg](/uploads/02_960x540-Flask,_Highgate,_N6_(2883805442)%20By%20Ewan%20Munro%20from%20London,%20UK%20CC%20BY-SA%202.0%20via%20Wikimedia%20Commons.jpg)
 *The Flask, Highgate, by [Ewan Munro via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flask,_Highgate,_N6_(2883805442).jpg) 
