@@ -10,6 +10,25 @@ tags:
 heading: Death and Debauchery Tour
 description: London is riddled with death and debauchery. Our ghost tour London covers
   famous murders, executions & ghostly happenings at insider-london.co.uk.
+gallery:
+- image: "/uploads/760x428%20D&D%20banner.jpg"
+  caption: Insider London’s Death and Debauchery Tour is a walking tour that will
+    leave you reeling after two hours of recounting famous murders, executions, ghostly
+    happenings, and lecherous coffeehouses.
+  alt: Insider London’s Death and Debauchery Tour is a walking tour that will leave
+    you reeling after two hours of recounting famous murders, executions, ghostly
+    happenings, and lecherous coffeehouses.
+- image: "/uploads/760x428%20DnD%20August%2001.jpg"
+  caption: Our guide Richard is bringing the gruesome 15ft high beer wave to life!
+  alt: Our guide Richard is bringing the gruesome 15ft high beer wave to life!
+- image: "/uploads/DSC_0044.jpg"
+  caption: The Death & Debauchery Tour is even better in winter! Although colder,
+    it's also darker and scarier!
+  alt: The Death & Debauchery Tour is even better in winter! Although colder, it's
+    also darker and scarier!
+- image: "/uploads/760x428%20DnD%20August%2002.jpg"
+  caption: Whatever the time of the year, London has many dark secrets to explore.
+  alt: Whatever the time of the year, London has many dark secrets to explore.
 featured: true
 tour-id: 29349
 trekksoft-tour-id: 50197
