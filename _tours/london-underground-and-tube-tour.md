@@ -12,6 +12,9 @@ description: 'Our original guided London Underground and Tube Tour: Travel acros
   150 years of hidden history in just two hours aboard our awesome London Underground
   Tour!'
 gallery:
+- image: "/uploads/760x428%20tube%20banner.jpg"
+  caption: Travel through time on our London Underground Tour!
+  alt: Travel through time on our London Underground Tour!
 - image: "/uploads/web_18-01-20%20Tube%20Jonas%20PiccadillyCircus.JPG"
   caption: Our guests in front of Frank Pick's memorial in Piccadilly Circus, January
     2017.
