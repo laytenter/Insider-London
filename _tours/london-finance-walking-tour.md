@@ -8,10 +8,9 @@ tags:
 - finance
 - all
 gallery:
-- image: 
-  caption: A group of professionals on our City of London Finance Tour in Postman's
-    Park.
-  alt: A group of professionals on our City of London Finance Tour in Postman's Park.
+- image: "/uploads/Finance%20Tour%20Title%20Pic.jpg"
+  caption: The City of London is one of the two financial hearts of London.
+  alt: The City of London is one of the two financial hearts of London.
 - image: "/uploads/760x428%20web_17-07-20_Finance_Andy_na_Guildhall.jpg"
   caption: A student group on our City of London Finance Tour in front of Guildhall.
   alt: A student group on our City of London Finance Tour in front of Guildhall.
