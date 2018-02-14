@@ -33,9 +33,6 @@ From the traditional alehouse to the city taverns, learn the history behind trad
 
 ## Highlights  
 
-<img
- src="/wp-content/uploads/2015/04/DSC_0129-680x1024.jpg"  srcset="/wp-content/uploads/2015/04/DSC_0129-199x300.jpg 199w, /wp-content/uploads/2015/04/DSC_0129-680x1024.jpg 680w, /wp-content/uploads/2015/04/DSC_0129.jpg 1328w" sizes="(max-width: 680px) 100vw, 680px" />
-
 On this tour you will:
 
 - Discover the history of the drink that nearly drove beer (…and Londoners themselves) to extinction.
