@@ -11,11 +11,6 @@ gallery:
 - image: "/uploads/Cutting-Edge-Green-78-772x528.jpg"
   caption: Sustainability and green technology is a huge topic in London!
   alt: Sustainability and green technology is a huge topic in London!
-- image: "/uploads/web_17-07-20_bespokeTubeCEGT_Jonas_Todd(TA%20review)_South%20Bank.jpg"
-  caption: A bespoke Cutting Edge Green & Tube Tour ended on the South Bank - we can
-    tailor tours specifically to your needs.
-  alt: A bespoke Cutting Edge Green & Tube Tour ended on the South Bank - we can tailor
-    tours specifically to your needs.
 - image: "/uploads/web_17-07-21%20CEGT%20Jonas%20Private%20Tour.jpg"
   caption: Our guide Jonas with two US Americans after a private Cutting Edge Green
     Tours.
@@ -53,6 +48,9 @@ The only walking tour of its kind, award-winning Insider London’s innovative G
 Discover London’s most environmentally responsible and socially savvy retailers, hotels, developments and communities. Hear what inspired them to put their operations on a greener sustainable footing and the challenges they continue to face. Learn about the green side of London’s newest and oldest iconic landmarks and explore the vibrant free-flowing business community that has been going strong for almost fifty years.
 
 Whether you are student, a sustainability professional, or simply want to know more about London’s impressive sustainability credentials, our jam-packed Green tour is ideal for getting to know the people, sites and businesses at the forefront of London’s sustainable agenda.
+
+![web_17-07-20_bespokeTubeCEGT_Jonas_Todd(TA%20review)_South%20Bank.jpg](/uploads/web_17-07-20_bespokeTubeCEGT_Jonas_Todd(TA%20review)_South%20Bank.jpg)
+*A bespoke Cutting Edge Green & Tube Tour ended on the South Bank - we can tailor tours specifically to your needs.*
 
 ### The ultimate crash-course in London’s best sustainable businesses and buildings
 
