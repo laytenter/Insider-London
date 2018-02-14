@@ -29,7 +29,7 @@ related:
 layout: tour
 ---
 
-<p class="lede">Insider London's Quirky London Tour is an alternative guided walking tour that will introduce you to the rare, eccentric, comical, and just plain quirky facts about London.</p>
+Insider London's Quirky London Tour is an alternative guided walking tour that will introduce you to the rare, eccentric, comical, and just plain quirky facts about London.
 
 Are you new to London and looking to discover the lesser-known facts about the city’s well-known sites? Perhaps you’re a local and want to find out more about the quirky city you call home? Insider London’s Quirky London Tour is just the ticket! Your Insider guide will illuminate London's many oddities and curiosities, revealing quirky facts and strange stories that you won't find listed in the average guide book.
 
