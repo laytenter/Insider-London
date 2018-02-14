@@ -25,9 +25,10 @@ gallery:
   caption: A group of professionals on our Modern Architecture Tour, in Leadenhall
     Market!
   alt: A group of professionals on our Modern Architecture Tour, in Leadenhall Market!
-- image: 
-  caption: 
-  alt: 
+- image: "/uploads/Millenium%20Bridge%20and%20St%20Pauls_Modern%20Architecture.jpg"
+  caption: London sports an incredible mix of old and modern architecture.
+  alt: Millennium Bridge and St. Pauls - London sports an incredible mix of old and
+    modern architecture.
 - image: "/uploads/web_18-01-04%20MA%20private%20group%20Millennium%20Bridge.jpg"
   caption: A picture of three lovely guests on a private Modern Architecture Tour,
     taken on Millenium Bridge.
