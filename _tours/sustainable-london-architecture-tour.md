@@ -21,7 +21,7 @@ related:
 layout: tour
 ---
 
-<p class="lede">Sustainable Architecture London – Alternative London Walking Tour</p>
+Sustainable Architecture London – Alternative London Walking Tour
 
 Building sustainably is one of the biggest issues of our time.
 
@@ -36,6 +36,8 @@ We’ll explore which developments are winning at being green and others which a
 Starting at Bishopsgate, our expert guide will take you on a fascinating two-hour tour through the City and over the Thames uncovering London’s greenest skyscrapers, structures and spaces along the way.
 
 Our comprehensive sustainable architecture tour can be tailored to every knowledge level.
+
+![760x428 Lloyds.jpg](/uploads/760x428%20Lloyds.jpg)
 
 It doesn’t matter whether you want to know more about London’s sustainable built environment, or are an established green architect, we’ll help you get the inside track &#8211; and maybe even uncover new angles &#8211; on our fun, informative tour.
 
