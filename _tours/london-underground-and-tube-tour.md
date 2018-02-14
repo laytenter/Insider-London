@@ -69,7 +69,7 @@ On this tour you will:
 - Gain an insight into the superstar architects behind the Underground's distinctive architecture, including the man who painted London red and why some stations resemble spaceships.
 - Find out why Big Ben tilts two centimetres to the North West...
 
-![web_Underground Stairs CC0-46b807.jpg](/uploads/web_Underground%20Stairs%20CC0-46b807.jpg)
+![web_760x428_Escalator-London-Underground-Maxpixel-CC0.jpg](/uploads/web_760x428_Escalator-London-Underground-Maxpixel-CC0.jpg)
 
 Whether you want to discover more about the Tube's design and engineering excellence, organise a fun corporate day out, or simply learn more about this great British icon, our entertaining and informative London Tube Tour will change the way you view the Underground forever.
 
