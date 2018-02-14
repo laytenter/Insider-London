@@ -65,13 +65,13 @@ What you will discover:
 
 * A luxury hotel setting the bar for sustainability and how they balance the demands of being a luxurious hotel with green principles
 
-The London landmarks – new and old – turning green**
+* The London landmarks – new and old – turning green
 
-The biggest solar powered structure in the world
+* The biggest solar powered structure in the world
 
-London’s move towards smart, green transport schemes and the bumps in the road along the way
+* London’s move towards smart, green transport schemes and the bumps in the road along the way
 
-How companies communicate their sustainable principles**, including one businesses extremely ‘cheeky’ initiative.
+* How companies communicate their sustainable principles, including one businesses extremely ‘cheeky’ initiative.
 
 Starting near colourful Covent Garden, our expert guide will show you some of London’s hottest sustainable businesses before heading to hotel heaven on the Strand. Our tour then crosses the Thames and slides along the South Bank before winding up at a super successful housing regeneration project.
 
