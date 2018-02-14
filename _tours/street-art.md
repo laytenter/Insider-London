@@ -27,14 +27,14 @@ gallery:
     our Street Art Tour!
   alt: Carrefour Executives on London Business School's training programme on our
     Street Art Tour!
+- image: "/uploads/web_17-01-28%20StreetArt%20Jonas.JPG"
+  caption: A brilliant shot from one of our private tours. We love you too, urbansolid!
+  alt: A brilliant shot from one of our private tours. We love you too, urbansolid!
 - image: "/uploads/web_17-02-17%20StreetArt%20Jonas.jpg"
   caption: We love showing students around the East End's street art - here it's Ben
     Eine's Like Nothing.
   alt: We love showing students around the East End's street art - here it's Ben Eine's
     Like Nothing.
-- image: "/uploads/web_%2017-08-03_SR_Robert_Red%20Gallery.jpg"
-  caption: Thierry Noir outside Red Gallery.
-  alt: Thierry Noir outside Red Gallery.
 featured: true
 tour-id: 29326
 trekksoft-tour-id: 50188
