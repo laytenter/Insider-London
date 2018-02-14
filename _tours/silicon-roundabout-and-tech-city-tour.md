@@ -11,6 +11,10 @@ heading: Silicon Roundabout and Tech City Tour
 description: Visit the world’s third biggest start-up tech cluster. Cutting edge walking
   tours in London at the Silicon Roundabout & Tech City at insider-london.co.uk.
 gallery:
+- image: "/uploads/SR%20Tour%20Title%20Pic.jpg"
+  caption: Discover the world’s third biggest start-up tech cluster - the Silicon
+    Roundabout.
+  alt: Discover the world’s third biggest start-up tech cluster - the Silicon Roundabout.
 - image: "/uploads/web_17-05-08%20SR.jpg"
   caption: Starting our Silicon Roundabout in front of the Roundabout itself!
   alt: Starting our Silicon Roundabout in front of the Roundabout itself!
