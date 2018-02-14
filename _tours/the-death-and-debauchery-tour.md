@@ -21,6 +21,10 @@ gallery:
 - image: "/uploads/760x428%20DnD%20August%2001.jpg"
   caption: Our guide Richard is bringing the gruesome 15ft high beer wave to life!
   alt: Our guide Richard is bringing the gruesome 15ft high beer wave to life!
+- image: "/uploads/creepy%20alley.jpg"
+  caption: London is filled with spooky alleyways - and there's a story to most of
+    them!
+  alt: London is filled with spooky alleyways - and there's a story to most of them!
 - image: "/uploads/DSC_0044.jpg"
   caption: The Death & Debauchery Tour is even better in winter! Although colder,
     it's also darker and scarier!
