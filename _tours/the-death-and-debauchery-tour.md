@@ -72,9 +72,8 @@ On this tour you will:
 
 <p>Strolling through the heart of London, your Insider guide will open your eyes to the death and debauchery that once engulfed the city.  The tour visits the grounds of the old Rookery, the famous Covent Garden and its neighbouring streets.  Today the piazza is filled with lovely shops and theatres that have people traveling across the world for their wares; one may be surprised to hear what visitors of days gone by would come looking for in the market.</p>
 
-<p>Death and Debauchery Tour will cover the horrid, grotesque, provocative and sometimes laughable stories of London’s most well-known streets.</p>
+<p>The Death and Debauchery Tour will cover the horrid, grotesque, provocative and sometimes laughable stories of London’s most well-known streets.</p>
 
-<img width="693" height="1024" src="/wp-content/uploads/2015/05/Death-and-Debauchery-print-2-693x1024.jpg" class="vc_single_image-img attachment-large" alt="Death and Debauchery print 2" srcset="/wp-content/uploads/2015/05/Death-and-Debauchery-print-2-203x300.jpg 203w, /wp-content/uploads/2015/05/Death-and-Debauchery-print-2-693x1024.jpg 693w, /wp-content/uploads/2015/05/Death-and-Debauchery-print-2.jpg 1353w" sizes="(max-width: 693px) 100vw, 693px" />
 
 ## What you need to know
 
