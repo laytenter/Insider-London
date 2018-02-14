@@ -7,6 +7,23 @@ tags:
 - retail
 - all
 - educational
+gallery:
+- image: "/uploads/East%20End%20Retail%20Title%20-%20Artillery%20Lane.jpg"
+  caption: Retail design in the East End connects deeply with its winding alleyways.
+  alt: Retail design in the East End connects deeply with its winding alleyways.
+- image: "/uploads/17-07-31_EERD_Julia_na_Boxpark.jpg"
+  caption: 'One of our lovely student groups in front of another vibrant retail space
+    in the East End: The Boxpark Shoreditch!'
+  alt: 'One of our lovely student groups in front of another vibrant retail space
+    in the East End: The Boxpark Shoreditch!'
+- image: "/uploads/Nudie%20Jeans%20and%20Street%20Art.jpg"
+  caption: Street art and retail are inextricably intertwined in the East End!
+  alt: Street art and retail are inextricably intertwined in the East End!
+- image: "/uploads/T2%20East%20End.png"
+  caption: Creativity, colours and being different. That's what makes the East End's
+    retail design so exciting!
+  alt: Creativity, colours and being different. That's what makes the East End's retail
+    design so exciting!
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.779714424598!2d-0.0832369841719233!3d51.51725727963678!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761cb289478319%3A0x419c4e2d44fdcfbe!2sAndaz+London+Liverpool+Street!5e0!3m2!1sde!2suk!4v1506070097013
 thumb: ee_rd_artlry_psg_420x287.jpg
 banner: ee_rd_artlry_psg_772x528.jpg
