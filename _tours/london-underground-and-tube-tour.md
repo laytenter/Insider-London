@@ -20,9 +20,6 @@ gallery:
     2017.
   alt: Our guests in front of Frank Pick's memorial in Piccadilly Circus, January
     2017.
-- image: "/uploads/web_18-01-20%20Tube%20Jonas%20CentralLine.JPG"
-  caption: Caught us on our hunt for a ghost station!
-  alt: Our guests on the hunt for a ghost station!
 - image: "/uploads/web_17-07-29_Tube_Francis_public_Westminster.JPG"
   caption: A lovely couple on a private Tube Tour in Westminster station.
   alt: A lovely couple on a private Tube Tour in Westminster station.
