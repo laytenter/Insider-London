@@ -56,7 +56,7 @@ related:
 layout: tour
 ---
 
-<p class="lede">London is filled with street art and graffiti hotspots with artists from around the world leaving their mark. Whether you are a seasoned visitor, on your very first trip, or have called this city home for years, it can be sometimes difficult to spot the hidden treasures London has to offer.</p>
+London is filled with street art and graffiti hotspots with artists from around the world leaving their mark. Whether you are a seasoned visitor, on your very first trip, or have called this city home for years, it can be sometimes difficult to spot the hidden treasures London has to offer.
 
 
 ## Highlights of the London Street Art Tour include:
@@ -70,8 +70,6 @@ layout: tour
 - Find out why mushrooms grow on pretty much anything in the East End of London.
 
 - Discover murals and art installations by artists such as D*Face, James Cochrane, Stik, Shepard Fairy, Space Invader and many more!
-
-![](/assets/images/Street Art 1-large.JPG)
 
 The Street Art Tour is a hit for all kinds of people and since the street art scene is ever-evolving, our tour guides continually update their own knowledge so that you don’t miss out on the exclusives. The Street Art Tour of London is a walking tour that keeps continuing, with new art to find around every corner.
 
@@ -103,5 +101,3 @@ We can also arrange a Private Street Art Tour in French and Italian, <a href="/c
 ### Where does the tour finish?
 
 The tour finished at the old Truman Brewery, a short walk from Liverpool Street Station.
-
-![](/assets/images/Street Art Group Tour-large.JPG)
