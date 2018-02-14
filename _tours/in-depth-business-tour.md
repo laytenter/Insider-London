@@ -14,11 +14,6 @@ gallery:
     and its founder Chris Donnelly.
   alt: Lovely Limkokwing students from all over the world visiting Verb Brands and
     its founder Chris Donnelly.
-- image: "/uploads/760x428%2017-10-25%20Sperbank%20Wayra.jpg"
-  caption: A great group of Sberbank executives, just before a bespoke business visit
-    at Wayra, featuring three interesting fintech startups!
-  alt: A great group of Sberbank executives, just before a bespoke business visit
-    at Wayra, featuring three interesting fintech startups!
 - image: "/uploads/17-10-25%20Sperbank%20with%20Percent.jpg"
   caption: Sberbank executives and Percent founder and CEO Henry Ludlam at a bespoke
     fintech startup event.
@@ -85,6 +80,3 @@ Insider London also hosts engaging **talks** and **interactive workshops** with 
 Our in-depth business visits and workshops make great **combinations** with **educational tours**. Popular choices include tours of [Retail Design](https://www.insider-london.co.uk/tours/retail-design/), the [Silicon Roundabout and Tech City](https://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/) as well as [Finance](https://www.insider-london.co.uk/tours/london-finance-walking-tour/) and the [Kings Cross Regeneration and Innovation](https://www.insider-london.co.uk/tours/kings-cross-regeneration/).  
  
 Get in touch via [contact@insider-london.co.uk](mailto:contact@insider-london.co.uk) to start creating your perfect educational package. 
-
-![960x540 17-11-13 Jonas Bvisits Limkokwing Verb Brands.jpg](/uploads/960x540%2017-11-13%20Jonas%20Bvisits%20Limkokwing%20Verb%20Brands.jpg)
-*Limkokwing's students visiting Verb Brands in November '17*
