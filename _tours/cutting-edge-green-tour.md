@@ -8,6 +8,9 @@ tags:
 - all
 - educational
 gallery:
+- image: "/uploads/Cutting-Edge-Green-78-772x528.jpg"
+  caption: Sustainability and green technology is a huge topic in London!
+  alt: Sustainability and green technology is a huge topic in London!
 - image: "/uploads/web_17-07-20_bespokeTubeCEGT_Jonas_Todd(TA%20review)_South%20Bank.jpg"
   caption: A bespoke Cutting Edge Green & Tube Tour ended on the South Bank - we can
     tailor tours specifically to your needs.
