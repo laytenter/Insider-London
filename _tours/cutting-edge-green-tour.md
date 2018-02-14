@@ -55,15 +55,15 @@ Whether you are student, a sustainability professional, or simply want to know m
 
 What you will discover:
 
-The most innovative eco-friendly skyscrapers, mixed–use and commercial developments in the world
+* The most innovative eco-friendly skyscrapers, mixed–use and commercial developments in the world
 
-London’s largest ethical housing initiative
+* London’s largest ethical housing initiative
 
-The Green policies driving London’s environmental development
+* The Green policies driving London’s environmental development
 
-Retailers of the future, including a multinational striving to become the globe’s most sustainable company and a long-established ethical business community
+* Retailers of the future, including a multinational striving to become the globe’s most sustainable company and a long-established ethical business community
 
-A luxury hotel setting the bar for sustainability and how they balance the demands of being a luxurious hotel with green principles
+* A luxury hotel setting the bar for sustainability and how they balance the demands of being a luxurious hotel with green principles
 
 The London landmarks – new and old – turning green**
 
