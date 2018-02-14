@@ -37,7 +37,7 @@ related:
 layout: tour
 ---
 
-<p class="lede">Insider London’s Cutting Edge Green Tour – London’s only Sustainability Tour</p>
+Insider London’s Cutting Edge Green Tour – London’s only Sustainability Tour.
 
 London was recently named the second most sustainable city in the world. But how does this sprawling city maintain its delicate balance of people, profit and the planet?
 
