@@ -8,7 +8,7 @@ tags:
 - all
 - educational
 gallery:
-- image: "/uploads/Cutting-Edge-Green-78-772x528.jpg"
+- image: "/uploads/CEG%20Tour%20Title%20Pic.jpg"
   caption: Sustainability and green technology is a huge topic in London!
   alt: Sustainability and green technology is a huge topic in London!
 - image: "/uploads/web_17-07-21%20CEGT%20Jonas%20Private%20Tour.jpg"
