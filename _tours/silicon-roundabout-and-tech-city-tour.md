@@ -24,9 +24,6 @@ gallery:
     Campus.
   alt: A group of researchers from King's College in front of our last stop, Google
     Campus.
-- image: "/uploads/web_17-08-03_SR_Dean_na_Ziferblat.jpg"
-  caption: Inside Ziferblat, one of the most creative co-working spaces we know!
-  alt: Inside Ziferblat, one of the most creative co-working spaces we know!
 - image: "/uploads/web_18-01-31%20SR%20BobClarissaJonas%20Imperial.jpg"
   caption: A  large group of Imperial College's students in front of Google Campus
     in January 2018!
@@ -47,8 +44,7 @@ related:
 layout: tour
 ---
 
-<p class="lede">The UK’s Digital industry is booming. It’s epicentre – an unassuming roundabout in East London.
-</p>
+The UK’s Digital industry is booming. It’s epicentre – an unassuming roundabout in East London.
 
 Known as Silicon Roundabout or Tech City, this area of London is home to the world’s third biggest start-up tech cluster and is currently snapping at the heels of New York City and San Francisco’s tech scene.
 
@@ -63,6 +59,9 @@ Award-winning Insider London’s walking tour offers an eye-opening educational 
 Starting at Shoreditch Grind, a funky little coffee shop come recording studio, our professional and knowledgeable tour guide will take you on an entertaining two-hour loop via Shoreditch, Hoxton and Old Street through this innovative and vibrant part of London.
 
 Taking in co-worker spaces (where lots of tech start-ups begin), creative spaces, pop-up spaces and some downright crackers spaces, you’ll hear how Silicon Roundabout has earned its global profile before finishing at Google Campus, the UK’s biggest ‘incubator’ for tech minded start-ups.
+
+![17-07-31_EERD_Julia_na_Nike Lab.jpg](/uploads/web_17-08-03_SR_Dean_na_Ziferblat.jpg)
+*Inside Ziferblat, one of the most creative co-working spaces we know!*
 
 ## Learn Silicon Roundabout's Secrets
 
