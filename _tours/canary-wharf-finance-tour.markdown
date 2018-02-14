@@ -20,6 +20,11 @@ gallery:
 - image: "/uploads/760x428%20Students%20from%20Texas%20in%20the%20walkway%20used%20for%20SW%20Rogue%20-%20CW%20-%2017-07-26.JPG"
   caption: Texan students in the walkway that appeared in Star Wars Rogue  One!
   alt: Texan students in the walkway that appeared in Star Wars Rogue  One!
+- image: "/uploads/760x428%20Art%20in%20Canary%20Wharf.jpg"
+  caption: Art plays a significant role in Canary Wharf as well. Picture of the traffic
+    light sculpture by Billingsgate Market, taken by Garry Knight.
+  alt: Art plays a significant role in Canary Wharf as well. Picture of the traffic
+    light sculpture by Billingsgate Market, taken by Garry Knight.
 - image: "/uploads/760x428%20Students%20from%20Boston%20at%20One%20Canada%20Square%20-%20CW%20-%2018-01-25%20-%20Andy.JPG"
   caption: A short of one of our student groups in front of One Canada Square.
   alt: A short of one of our student groups in front of One Canada Square.
