@@ -2,7 +2,7 @@
 {% for gal in page.gallery %}
   {% if gal.image %}
     <figure>
-      <img src="{{ gal.image }}" alt="" data-aspect-ratio="{{ img.ratio }}" />
+      <img src="{{ gal.image }}" alt="{{ gal.alt }}" />
       {% if gal.caption %}
         <figcaption>{{ gal.caption }}</figcaption>
       {% endif %}

@@ -67,16 +67,29 @@ jt.nav = (function() {
 jt.nav.mobileMenu();
 
 
+  var slideshow = document.querySelector('#slideshow');
 
-  imagesLoaded( '#slideshow', function() {
+  imagesLoaded( slideshow, function() {
+
 
     var simple = document.querySelector('.js_slider');
+
     if (simple) {
 
-      lory(simple, {
-        rewind: true
+      slider = lory(simple, {
+        rewind: true,
+        infinite: 1,
+        ease: 'easeInOutElastic'
       });
+
+      setInterval(function () {
+        slider.next();
+      }, 3000 + 300); // Interval + Transition
+      
     }
+
+
+
 
   });
 

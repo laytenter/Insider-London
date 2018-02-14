@@ -16,7 +16,7 @@ var run          = require('gulp-run');
 var runSequence  = require('run-sequence');
 var sass         = require('gulp-ruby-sass');
 var uglify       = require('gulp-uglify');
-var responsive   = require('gulp-responsive');
+//var responsive   = require('gulp-responsive');
 
 // Include paths file.
 //var paths = require('./_assets/gulp_config/paths');
