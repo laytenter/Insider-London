@@ -11,6 +11,11 @@ heading: Modern Architecture Tour
 description: The soaring skyscrapers that puncture London’s skyline are architectural
   wonders of London. Join our architecture tour London at insider-london.co.uk.
 gallery:
+- image: "/uploads/Title_City-of-London_MA.jpg"
+  caption: Discover the City of London's architecture and more on our Modern Architecture
+    Tour!
+  alt: Discover the City of London's architecture and more on our Modern Architecture
+    Tour!
 - image: "/uploads/web_17-10-29%20MA%20Robert%20Bavaria%20teachers%20at%20Bloomberg.jpg"
   caption: A group of Bavarian teachers on our Modern Architecture Tour, in front
     of the new  Bloomberg Building!
@@ -20,6 +25,9 @@ gallery:
   caption: A group of professionals on our Modern Architecture Tour, in Leadenhall
     Market!
   alt: A group of professionals on our Modern Architecture Tour, in Leadenhall Market!
+- image: 
+  caption: 
+  alt: 
 - image: "/uploads/web_18-01-04%20MA%20private%20group%20Millennium%20Bridge.jpg"
   caption: A picture of three lovely guests on a private Modern Architecture Tour,
     taken on Millenium Bridge.
@@ -56,8 +64,6 @@ Discover how these contemporary buildings connect with the capital’s rich hist
 
 Starting at Southwark tube station and heading along the South Bank, our professional, highly knowledgeable guide will show you the best modern architecture around the City, St. Paul&#8217;s Cathedral and the London Wall before finishing at the centre of a stunning new development. Plus, we’ll let you know where you can enjoy the same view from the London Eye for the price of a beer!
 
-![](/assets/images/MA 2-large.jpeg)
-
 ## London Skyline Past & Present – Bespoke Private Tour
 
 In **2 hours** discover the rich architecture of London from the world-famous **historic gems** to the **modern headlines**. Starting near the Tower of London, hear some of the fascinating stories associated with this amazing fortress. Experience the extraordinary diversity of the City's architecture from the first builders, to the modern architectural giants Norman Foster and Renzo Piano, traverse modern eco-developments, the oldest railway station in London and emerge in the shadow of Europe's tallest building. This version can be arranged as a private tour, please send us an email with your requirement: contact@insider-london.co.uk
@@ -75,8 +81,6 @@ and the fascinating stories behind their development.
 - A futuristic (and formerly very wobbly) London footbridge
 - The distinctive styles and characteristic design traits of influential British architects, including Will Alsop, Richard Rogers and Sir Norman Foster          
 - What’s next for London’s iconic skyline
-
-![](/assets/images/Modern Architecture-large.jpg)
 
 ## What you need to know:
 
@@ -108,5 +112,3 @@ We can also arrange a Private Modern Architecture Tour in German and we will arr
 ### Where does the tour finish?
 
 Liverpool Street Station
-
-![](/assets/images/Fotolia_8192132_M_2_1024-large.jpg)
