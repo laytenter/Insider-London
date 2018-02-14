@@ -80,7 +80,7 @@ This alternative London walking tour is perfect for retail designers, shop owner
 
 ### Where do we meet?
 
-Piccadilly Circus, just outside Ripley&#8217;s Believe It or Not
+Piccadilly Circus, just outside Whole Foods Market
 
 {% include tour-map.html %}
 
