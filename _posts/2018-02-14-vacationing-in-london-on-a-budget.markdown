@@ -8,6 +8,8 @@ description: London is a beautiful city, but it isn’t a cheap one. But with pr
 layout: post
 ---
 
+![960x540 kyle-myburgh-284424 Photo by Kyle Myburgh on Unsplash.jpg](/uploads/960x540%20kyle-myburgh-284424%20Photo%20by%20Kyle%20Myburgh%20on%20Unsplash.jpg)
+
 London is a beautiful city, but it isn’t a cheap one. From visiting top attractions to simply getting around town, a trip to the city can quickly burn a hole in your wallet. Before visiting London, it’s important to prepare your finances to ensure that you can afford all of the food, fun, and festivities that the city has to offer without accidentally overspending. With proper planning, you can make your trip downtown both affordable and unforgettable.
 
 ## Plan in Advance
