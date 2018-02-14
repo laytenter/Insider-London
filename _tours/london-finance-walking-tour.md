@@ -8,7 +8,7 @@ tags:
 - finance
 - all
 gallery:
-- image: "/uploads/760x428%2017-12-19%20Finance%20Andy%20Postmans%20Park.JPG"
+- image: 
   caption: A group of professionals on our City of London Finance Tour in Postman's
     Park.
   alt: A group of professionals on our City of London Finance Tour in Postman's Park.
@@ -47,11 +47,14 @@ related:
 layout: tour
 ---
 
-<p class="lede">The City of London is a leading financial hub and home to some of the biggest banking and insurance institutions in the world.</p>
+The City of London is a leading financial hub and home to some of the biggest banking and insurance institutions in the world.
 
 Join us on our award-winning walking tour of The City as we take you on a fascinating journey to discover the origins of London’s financial centre &#8211; from its humble beginnings in 17<sup>th</sup> century coffee houses to its ancient and unusual governance and voting system that’s still in use today.
 
 Starting at Panyer Alley, our expert guide will show you how the City of London developed into a global financial centre, taking in key buildings such as, the London Stock Exchange, Guildhall, the Bank of England, Lloyds of London and Rothschild’s, before finishing at Willis, the world’s oldest insurance broker.
+
+![SR Tour Title Pic.jpg](/uploads/760x428%2017-12-19%20Finance%20Andy%20Postmans%20Park.JPG)
+*A great group of finance professionals in Postman's Park on our Finance Tour!*
 
 ## City of London Tour - Discover Capital in the Capital
 
