@@ -30,6 +30,7 @@ show_book: false
 thumb: canary-wharf-420x287.jpg
 banner: HSBC-canary-wharf-772x579.jpg
 tour-id: 11227
+map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.4615229364513!2d-0.023061684445140913!3d51.50474831871841!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487602b7814a1599%3A0xc14ad850c6d1b813!2sCanary+Wharf!5e0!3m2!1sde!2suk!4v1518621456095
 layout: tour
 ---
 
@@ -66,7 +67,9 @@ You’ll see No. 1 Canary Wharf, for a while the tallest building in the UK, you
 
 ### Where do we meet?
 
-Canary Wharf DLR Station
+At Canary Wharf DLR Station
+
+{% include tour-map.html %}
 
 ### How long is the Tour?
 
