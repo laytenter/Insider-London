@@ -72,5 +72,3 @@ The Quirky London Tour may also be booked as a private tour at a time suitable f
 ### Where does the tour finish?
 
 Trafalgar Square
-
-![](/assets/images/DSCF0550-large.JPG)
