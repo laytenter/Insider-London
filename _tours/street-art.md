@@ -11,6 +11,9 @@ heading: Street Art Tour
 description: A street art tour London that shows off all the underground culture of
   the city. Perfect for tourists and private parties. Visit insider-london.co.uk.
 gallery:
+- image: "/uploads/Title%20Street%20Art.jpg"
+  caption: Street Art in London's East End is everywhere!
+  alt: Street Art in London's East End is everywhere!
 - image: "/uploads/web_17-10-11%20StreetArt%20KhanhEden.jpg"
   caption: A great group of students in Rivington Street - one of East London's street
     art hot spots!
@@ -24,11 +27,6 @@ gallery:
     our Street Art Tour!
   alt: Carrefour Executives on London Business School's training programme on our
     Street Art Tour!
-- image: "/uploads/web_17-01-28%20StreetArt%20Jonas.JPG"
-  caption: A shot from one of our private tours! Thanks to Urban Solid for this beautiful
-    piece of street art!
-  alt: A shot from one of our private tours! Thanks to Urban Solid for this beautiful
-    piece of street art!
 - image: "/uploads/web_17-02-17%20StreetArt%20Jonas.jpg"
   caption: We love showing students around the East End's street art - here it's Ben
     Eine's Like Nothing.
