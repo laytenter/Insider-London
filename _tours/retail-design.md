@@ -11,6 +11,9 @@ heading: Retail Design Tour
 description: The most fun and informative London walks Saturday has to offer. Find
   design inspiration for the most luxurious retail design at insider-london.co.uk.
 gallery:
+- image: "/uploads/WE%20Retail%20Tour%20Title%20Pic.jpg"
+  caption: Discover fascinating retail design in London's West End!
+  alt: Discover fascinating retail design in London's West End!
 - image: "/uploads/web_17-07-21_WERetail_Andy_Chinese.JPG"
   caption: Students visiting from China on our West End Retail Design Tour - here
     in Burlington Arcade.
@@ -25,11 +28,6 @@ gallery:
   caption: Language students from Italy on our West End Retail Design tour in Air
     Street.
   alt: Language students from Italy on our West End Retail Design tour in Air Street.
-- image: "/uploads/web_17-10-02%20WERetail%20Jonas%20Lomography.jpg"
-  caption: On one of our West End Retail Design Tours, Lomography had installed a
-    photo art piece outside. It was fun!
-  alt: On one of our West End Retail Design Tours, Lomography had installed a photo
-    art piece outside. It was fun!
 tour-id: 29334
 author: london75
 guid: "/?post_type=product&#038;p=29334"
@@ -74,6 +72,9 @@ Hear the stories behind how these burgeoning businesses grew brilliant brands, t
 Starting in the colourful cafes and department stores of Piccadilly, our retail design walking tour moves through the bustling heart of Soho before taking in the extravagant designer stores of Mayfair. .
 
 This alternative London walking tour is perfect for retail designers, shop owners and students seeking creative inspiration, as well as those who simply want to discover the coolest shops and cafes in the capital. A great introduction to London’s retail hot spots, you can earmark the stores you love and re-visit for a jolly good browse later.
+
+![web_17-10-02%20WERetail%20Jonas%20Lomography.jpg](/uploads/web_17-10-02%20WERetail%20Jonas%20Lomography.jpg)
+*On one of our West End Retail Design Tours, Lomography had installed a photo art piece outside!*
 
 ## What you need to know
 
