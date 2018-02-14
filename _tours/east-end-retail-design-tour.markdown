@@ -47,6 +47,9 @@ The East End of London is a characterful hotspot of design, fashion and art. Thi
 * London’s streets offer unlimited access to the greatest art gallery, see works by famous
 * Street Artists such as Banksy, Roa and D*Face as well as some local favourites.
 
+![17-07-31_EERD_Julia_na_Nike Lab.jpg](/uploads/17-07-31_EERD_Julia_na_Nike%20Lab.jpg)
+*One of our lovely student groups in front of Nike Lab 1948.*
+
 Beginning the tour near Liverpool Street Station, your Insider guide will unravel the history of the East End which plays a crucial role in why this area attracts the latest trendsetters in design, fashion and art. Discover local chocolatiers, perfumers and find the plethora of vintage clothing shops that have taken Brick Lane by storm. From brands you may know to homegrown names, you will see, smell, taste and even feel what these brands are doing to reignite the highstreet! Finishing near Shoreditch High Street Station, this twohour walking tour will leave you inspired, invigorated and hopefully fuel your enthusiasm for your own work.
 
 ## What you need to know
