@@ -24,7 +24,7 @@ gallery:
     retail design so exciting!
   alt: Creativity, colours and being different. That's what makes the East End's retail
     design so exciting!
-map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.3207051190743!2d-0.08969178417165878!3d51.52567737963815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761ca5fc08989f%3A0xdf2c75461039688e!2sBahnhof+Old+Street!5e0!3m2!1sde!2suk!4v1519146139199
+map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.3207051190743!2d-0.08969178417165878!3d51.52567737963815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761ca5fc08989f%3A0xdf2c75461039688e!2sOld+Street+Station!5e0!3m2!1sde!2suk!4v1519146139199
 thumb: ee_rd_artlry_psg_420x287.jpg
 banner: ee_rd_artlry_psg_772x528.jpg
 related:
