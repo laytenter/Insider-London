@@ -7,6 +7,9 @@ tags:
 - retail
 - all
 - educational
+heading: East London Tours | Retail Design Tours | Insider London
+description: Discover retail design on our East London tours from Insider London,
+  and explore design, fashion, art and much more. Call +44 (0) 20 7183 1055.
 gallery:
 - image: "/uploads/East%20End%20Retail%20Title%20-%20Artillery%20Lane.jpg"
   caption: Retail design in the East End connects deeply with its winding alleyways.
