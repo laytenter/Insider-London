@@ -7,6 +7,10 @@ tags:
 - CEGT
 - all
 - educational
+heading: London Eco Tour | Insider London Cutting Edge Green Tour
+description: Our London eco tour is the only walking tour of its kind, taking you
+  through the heart of the capitals sustainability scene. Visit our website or call
+  +442071831055.
 gallery:
 - image: "/uploads/CEG%20Tour%20Title%20Pic.jpg"
   caption: Sustainability and green technology is a huge topic in London!
