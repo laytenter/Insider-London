@@ -8,8 +8,9 @@ tags:
 - educational
 - all
 heading: King's Cross Regeneration and Innovation Tour
-description: 'Join us on this tour through King''s Cross journey from rural city escape,
-  to freight hub, to shady suburb, to the up-and-coming area that attracts even Google. '
+description: 'Join us on our King''s Cross tour: Journey through time from rural city
+  escape to the up-and-coming modern area that attracts even Google. Call +44 (0)
+  20 7183 1055.'
 tour-id: 11117
 thumb: web_300x200_Kings_Cross_Western_Concourse-CC-BY-SA-3.0.jpg
 banner: web_960x540_Kings_Cross_Western_Concourse-CC-BY-SA-3.0.jpg
