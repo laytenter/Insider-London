@@ -7,6 +7,10 @@ tags:
 - educational
 - finance
 - all
+heading: London Finance Tour | Insider London Walking Tours
+description: Our London finance tour takes you from the humble beginnings in the 17th
+  century to its current global status on this unique London walking tour. Call 0786967
+  8717
 gallery:
 - image: "/uploads/Finance%20Tour%20Title%20Pic.jpg"
   caption: The City of London is one of the two financial hearts of London.
