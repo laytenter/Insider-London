@@ -5,8 +5,7 @@ permalink: "/street-art-and-Olympics/"
 layout: post
 ---
 
-![800x451 Banksy Javelin by Duncan Hull via Flickr.jpg](/uploads/800x451%20Banksy%20Javelin%20by%20Duncan%20Hull%20via%20Flickr.jpg)
-
+![800x451 Banksy Javelin by Duncan Hull via Flickr.jpg](/uploads/800x451%20Banksy%20Javelin%20by%20Duncan%20Hull%20via%20Flickr.jpg) <br/>
 Picture of Banksy's Javelin Thrower via [Duncan Hull on Flickr](https://www.flickr.com/photos/dullhunk/8160405466)
 
 As Pyeonchang's Winter Olympics draw to a close, we cast a look back to 2012 when the eyes of the world were glued to London Town. This was an exciting time of urban regeneration projects, green initiatives and a huge cultural and artistic programme. The finest artists in the land were invited to design Olympic posters [“identifiable with their own style”](https://www.theguardian.com/artanddesign/2011/jun/21/top-british-artists-design-olympics-posters) as organisers seemed to embrace the colourful and diverse London art scene. Street artist, Darren Cullen, of Graffiti-Kings fame was even commissioned to [re-vamp the black cab as an Olympic special edition](http://graffitikings.co.uk/london-olympics-hire-graffiti-artist/). In an age where Britain's “Greatest Living Artist” is none other than [Banksy himself](http://www.banksy.co.uk/), things were looking good for alternative art forms!
