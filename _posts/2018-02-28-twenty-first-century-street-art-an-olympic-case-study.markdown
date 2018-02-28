@@ -14,8 +14,7 @@ Over in Shoreditch, the authorities themselves were getting in on the action wit
 
 Shoreditch favourites like the Australian artist Jimmy C unveiled a stunning portrait of Olympic runner Usain Bolt and stated ["I love London, and I see this as an amazing and positive time for the city,"](http://www.telegraph.co.uk/culture/art/art-news/9440712/Street-artists-hit-out-at-authoritarian-Olympics.html) Nevertheless he confessed himself taken aback, and he wasn't the only one... 
 
-![800x450 Bolt by Jimmy C - by locosteve.jpg](/uploads/800x450%20Bolt%20by%20Jimmy%20C%20-%20by%20locosteve.jpg)
-
+![800x450 Bolt by Jimmy C - by locosteve.jpg](/uploads/800x450%20Bolt%20by%20Jimmy%20C%20-%20by%20locosteve.jpg) <br/>
 Jimmy C's Usain Bolt portrait by [locosteve via Flickr](https://www.flickr.com/photos/locosteve/8521048930)
 
 Jimmy C (whose real name is James Cochran) sought careful permission for his artwork, but was nevertheless confronted with an “authoritarian” style Olympic Committee who warned him to steer clear of the famous five rings due to strict copyright. Artist Mau Mau also sought permission from the building owner for his Olympic special, but had breached the five-ring ban with his subversive satire. He believes that the reason his work was whitewashed by the council was because it had upset the Games' official sponsors.. 
