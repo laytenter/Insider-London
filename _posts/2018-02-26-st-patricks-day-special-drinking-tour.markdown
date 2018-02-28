@@ -17,4 +17,4 @@ For an Irish twist on this Insider London classic, we will be pulling up a stool
 
 See you on St. Patrick's Day!
 
-*To join, book for the 17th March on our [History of Drinking & Pubs tour](https://www.insider-london.co.uk/tours/history-of-drinking-and-pubs/) page.*
+*To join, book for the 17th March on our [History of Drinking & Pubs tour](https://www.insider-london.co.uk/tours/history-of-drinking-and-pubs/) page. Enter the discount code **march20** upon booking, and even **get 20% off**!*
