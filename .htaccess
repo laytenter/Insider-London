@@ -78,6 +78,11 @@ RewriteCond %{HTTPS} !=on
 RewriteCond %{HTTP_HOST} ^www\.insider-london\.co.uk$
 RewriteRule ^(.*)$ https://www.insider-london.co.uk/$1 [R=301,L]
 
+# Redirect non 'www' https traffic to www
+RewriteCond %{HTTPS} on
+RewriteCond %{HTTP_HOST} ^insider-london.co.uk [NC]
+RewriteRule ^(.*)$ https://www.insider-london.co.uk/$1 [L,R=301]
+
 #Ignore Google verification file
 RewriteRule ^google3d11bb01af91a5dc.html$ - [L]
 
