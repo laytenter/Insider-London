@@ -9,6 +9,8 @@ heading: Will You Get Involved With London Beer Week?
 layout: post
 ---
 
+![960x540 Beer.jpg](/uploads/960x540%20Beer.jpg)
+
 London Beer Week is fast approaching, so will you be joining in the fun this year and sampling some of the finest beers that can be found in bars and pubs dotted throughout the capital?
 
 The [Evening Standard](https://www.standard.co.uk/go/london/bars/london-beer-week-2018-how-to-find-the-best-pints-in-the-capital-a3771396.html) noted that London Beer Week (LBW) will run from 12 to 18 March this year, when a host of events will be arranged at venues around the city. The newspaper notes that, unlike other beer festivals, it’s not restricted to a single location.
