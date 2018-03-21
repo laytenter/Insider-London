@@ -8,6 +8,8 @@ description: Find out all about the Battles of Cable Street and Lewisham, as wel
 layout: post
 ---
 
+![960x540_web_Houses_of_Parliament.jpg](/uploads/960x540_web_Houses_of_Parliament.jpg)
+
 The best [walking tours London has to offer](https://www.insider-london.co.uk/tours/historical-walking-tours/) will not only introduce you to some aspects of London history you didn’t know about, but British history too. 
 
 Head to some of these sites to learn more about London’s resistant and revolutionary past.
