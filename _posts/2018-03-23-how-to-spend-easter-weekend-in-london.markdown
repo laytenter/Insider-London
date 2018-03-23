@@ -7,6 +7,8 @@ description: All you need to know to keep amused on a London walking tour over E
 layout: post
 ---
 
+![960x540 Happy Easter.jpg](/uploads/960x540%20Happy%20Easter.jpg)
+
 Whether you are booked on to a [London walking tour](https://www.insider-london.co.uk/tours/educational-walking-tours/) over the Easter weekend or you are visiting the capital with your children for the holidays, there are plenty of things to do to keep you busy. 
 
 Here are our pick of the best events taking place over Easter in London.
