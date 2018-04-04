@@ -2,6 +2,8 @@
 title: London Maintains Place As Britain's Top Tourism Destination
 date: 2018-04-04 10:36:00 Z
 permalink: "/London-top-tourist-destination-2017/"
+description: Which sights have you seen on London walking tours? Check out the blog
+  for a few top attractions to prioritise when enjoying a holiday in London this year.
 layout: post
 ---
 
