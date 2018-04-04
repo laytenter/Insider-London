@@ -7,6 +7,8 @@ description: Which sights have you seen on London walking tours? Check out the b
 layout: post
 ---
 
+![960x540 London traffic.jpg](/uploads/960x540%20London%20traffic.jpg)
+
 London has once more defended its title as the top tourism destination for the United Kingdom.
 
 This is according to the latest figures from the Association of Leading Visitor Attractions (ALVA) published in [the Independent](https://www.independent.co.uk/travel/news-and-advice/uk-visitor-attractions-british-museum-tate-modern-terrorism-trains-a8258261.html), which show the capital was home to the top ten most popular tourist must-see attractions in the country.
