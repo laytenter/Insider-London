@@ -1,5 +1,5 @@
 ---
-title: London Finance Tour
+title: London Finance Tour | Insider London Walking Tours
 date: 2011-01-01 10:43:00 Z
 categories:
 - educational
@@ -7,7 +7,7 @@ tags:
 - educational
 - finance
 - all
-heading: London Finance Tour | Insider London Walking Tours
+heading: City of London Finance Tour
 description: Our London finance tour takes you from the humble beginnings in the 17th
   century to its current global status on this unique London walking tour. Call 0786967
   8717
