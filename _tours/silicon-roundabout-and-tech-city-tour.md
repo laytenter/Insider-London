@@ -115,5 +115,5 @@ To book the private tour, or find out more, call 0207 183 1055, or email: <a hre
 
 The tour finished at the Google Campus, Bonhill Street.</em>
 
-<h3 id="map">Map</h3>
+<h3 id="map">Meeting Point - Map</h3>
 {% include tour-map.html %}
