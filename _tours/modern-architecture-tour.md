@@ -89,9 +89,7 @@ and the fascinating stories behind their development.
 
 Meeting at Southwark tube station, the walking tour crosses the Thames and heads to the most unusual, futuristic buildings in London’s financial district. The tour finishes close to Liverpool Street station.
 
-We include a coffee break to let you experience one of the most exciting stops for yourself.
-
-{% include tour-map.html %}
+We include a coffee break to let you experience one of the most exciting stops for yourself. ([to the map](#map))
 
 ### How long is the tour?
 
@@ -113,3 +111,6 @@ We can also arrange a Private Modern Architecture Tour in German and we will arr
 ### Where does the tour finish?
 
 Liverpool Street Station
+
+<h3 id="map">Meeting Point - Map</h3>
+{% include tour-map.html %}
