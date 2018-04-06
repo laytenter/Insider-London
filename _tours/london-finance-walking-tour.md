@@ -85,9 +85,7 @@ Our eye-opening, informative guided tour of London City is ideal for corporate g
 
 ### Where do we meet?
 
-Panyer Alley, outside St Paul&#8217;s tube station
-
-{% include tour-map.html %}
+Panyer Alley, outside St Paul&#8217;s tube station ([to the map](#map))
 
 ### How long is the tour?
 
@@ -106,3 +104,6 @@ We can also arrange a Private Finance Tour in German and we will arrange it for 
 ### Where does the tour finish?
 
 Willis Building on Lime Street
+
+<h3 id="map">Meeting Point - Map</h3>
+{% include tour-map.html %}
