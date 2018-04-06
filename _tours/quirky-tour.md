@@ -72,4 +72,5 @@ On this tour you will:
 
 The Quirky London Tour covers a vast array of topics during a two hour walking tour around the best bits of London. Sites include the Royal Opera House, Waterloo Bridge, Savoy Hotel and Trafalgar Square, among many others, guided by one of our Insider Guides to give you a delightfully fact-filled and entertaining walking tour. Guests of all ages and interests will leave with a better understanding of the area and several amusing stories of ye olde quirky London Towne!
 
-<span id="map">{% include tour-map.html %}</span>
+<span id="map"> </span>
+{% include tour-map.html %}
