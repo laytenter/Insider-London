@@ -33,25 +33,11 @@ Insider London's Quirky London Tour is an alternative guided walking tour that w
 
 Are you new to London and looking to discover the lesser-known facts about the city’s well-known sites? Perhaps you’re a local and want to find out more about the quirky city you call home? Insider London’s Quirky London Tour is just the ticket! Your Insider guide will illuminate London's many oddities and curiosities, revealing quirky facts and strange stories that you won't find listed in the average guide book.
 
-## Highlights
-
-On this tour you will:
-
-- Meet a group of lions that would upset any zoologist.
-- See sculptures that made the Edwardians blush and swiftly close the curtains.
-- Find out how straight roads can actually be very exciting (we promise!)
-- View a very grand home built from stones ‘borrowed’ from nearby buildings.
-- Discover the writing site and performance location of some of Gilbert & Sullivan’s greatest operettas.
-
-The Quirky London Tour covers a vast array of topics during a two hour walking tour around the best bits of London. Sites include the Royal Opera House, Waterloo Bridge, Savoy Hotel and Trafalgar Square, among many others, guided by one of our Insider Guides to give you a delightfully fact-filled and entertaining walking tour. Guests of all ages and interests will leave with a better understanding of the area and several amusing stories of ye olde quirky London Towne!
-
 ## What you need to know
 
 ### Where do we meet?
 
-In front of Marks & Spencer, opposite to Covent Garden tube station.
-
-{% include tour-map.html %}
+In front of Marks & Spencer, opposite to Covent Garden tube station ([click here for the map](#map))
 
 ### How long is the tour?
 
@@ -72,3 +58,19 @@ The Quirky London Tour may also be booked as a private tour at a time suitable f
 ### Where does the tour finish?
 
 Trafalgar Square
+
+
+## Highlights
+
+On this tour you will:
+
+- Meet a group of lions that would upset any zoologist.
+- See sculptures that made the Edwardians blush and swiftly close the curtains.
+- Find out how straight roads can actually be very exciting (we promise!)
+- View a very grand home built from stones ‘borrowed’ from nearby buildings.
+- Discover the writing site and performance location of some of Gilbert & Sullivan’s greatest operettas.
+
+The Quirky London Tour covers a vast array of topics during a two hour walking tour around the best bits of London. Sites include the Royal Opera House, Waterloo Bridge, Savoy Hotel and Trafalgar Square, among many others, guided by one of our Insider Guides to give you a delightfully fact-filled and entertaining walking tour. Guests of all ages and interests will leave with a better understanding of the area and several amusing stories of ye olde quirky London Towne!
+
+<h3 id="map">Meeting point</h3>
+{% include tour-map.html %}
