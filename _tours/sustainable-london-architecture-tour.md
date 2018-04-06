@@ -65,9 +65,7 @@ What you will discover:
 
 ### Where do we meet?
 
-Our eye-opening Sustainable London Architecture Tour kicks off at Andaz Hotel, close to Liverpool Street tube station.
-
-{% include tour-map.html %}
+Our eye-opening Sustainable London Architecture Tour kicks off at Andaz Hotel, close to Liverpool Street tube station. ([to the map](#map))
 
 ### How long does the tour last?
 
@@ -82,3 +80,6 @@ If you’re keen to get further under the façade of London architecture, we als
 ### Where does the tour finish?
 
 London Bridge Station
+
+<h3 id="map">Meeting Point - Map</h3>
+{% include tour-map.html %}
