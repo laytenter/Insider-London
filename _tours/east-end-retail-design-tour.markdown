@@ -62,9 +62,7 @@ Beginning the tour near Old Street Station, your Insider London guide will unrav
 
 ### Where do we meet?
 
-Old Street Station
-
-{% include tour-map.html %}
+Old Street Station ([to the map](#map))
 
 ### How long is the tour?
 
@@ -79,3 +77,6 @@ To book the private tour, or find out more, call 0207 183 1055, or email: <a hre
 ### Where does the tour finish?
 
 Shoreditch High Street Station
+
+<h3 id="map">Meeting Point - Map</h3>
+{% include tour-map.html %}
