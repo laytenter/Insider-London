@@ -1,5 +1,5 @@
 ---
-title: Cutting Edge Green Tour
+title: London Eco Tour | Insider London Cutting Edge Green Tour
 date: 2014-01-01 10:48:00 Z
 categories:
 - educational
@@ -7,7 +7,7 @@ tags:
 - CEGT
 - all
 - educational
-heading: London Eco Tour | Insider London Cutting Edge Green Tour
+heading: Cutting Edge Green Tour
 description: Our London eco tour is the only walking tour of its kind, taking you
   through the heart of the capitals sustainability scene. Visit our website or call
   +442071831055.
