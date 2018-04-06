@@ -1,5 +1,5 @@
 ---
-title: Famous Ghosts and Infamous Murders Tour
+title: Ghost Tour London Murderers | Jack the Ripper Tour London
 date: 2008-01-01 17:30:00 Z
 categories:
 - hidden
@@ -7,7 +7,7 @@ tags:
 - historical
 - ghost
 - all
-heading: Ghost Tour London Murderers | Jack the Ripper Tour London
+heading: Famous Ghosts and Infamous Murders Tour
 description: 'Ghost tour London by Insider London discovering the murder mysteries
   that gripped Londoners long before Jack the Ripper came to the scene. Visit our
   website or call 02071831055. '
