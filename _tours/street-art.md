@@ -75,9 +75,7 @@ The Street Art Tour is a hit for all kinds of people and since the street art sc
 
 ### Where do we meet?
 
-Outside of Shoreditch High Street Overground station.
-
-{% include tour-map.html %}
+Outside of Shoreditch High Street Overground station. ([to the map](#map))
 
 ### How long is the tour?
 
@@ -99,3 +97,6 @@ We can also arrange a Private Street Art Tour in French and Italian, <a href="/c
 ### Where does the tour finish?
 
 The tour finished at the old Truman Brewery, a short walk from Liverpool Street Station.
+
+<h3 id="map">Meeting Point - Map</h3>
+{% include tour-map.html %}
