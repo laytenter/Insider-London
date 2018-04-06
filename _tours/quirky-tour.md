@@ -51,7 +51,7 @@ Approximately 2 hours
 
 ### When does the tour run?
 
-The tour runs weekly: 11am Saturday and Sunday
+The tour runs weekly: 11am Saturday
 
 The Quirky London Tour may also be booked as a private tour at a time suitable for you and your party, <a href="/contact-us/">please send us an email to make an enquiry.</a>
 
