@@ -46,9 +46,7 @@ Helped by its tastes, sights and sounds your Insider guide will take you through
 
 ### Where do we meet?
 
-Andaz Hotel Lobby, near Liverpool Street Station
-
-{% include tour-map.html %}
+Andaz Hotel Lobby, near Liverpool Street Station([to the map](#map))
 
 ### How long is the tour?
 
@@ -65,3 +63,6 @@ The tour runs weekly on Sunday and UK Bank Holidays. The Tour of East End may al
 ### Where does the tour finish?
 
 Commercial Tavern, near Shoreditch High Street Station
+
+<h3 id="map">Map</h3>
+{% include tour-map.html %}
