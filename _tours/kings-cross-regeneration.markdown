@@ -1,5 +1,5 @@
 ---
-title: King's Cross Regeneration and Innovation Tour
+title: Kings Cross Tours | Insider London Regeneration & Innovation Tour
 date: 2017-11-16 19:33:00 Z
 categories:
 - educational
@@ -7,7 +7,7 @@ tags:
 - KCR
 - educational
 - all
-heading: Kings Cross Tours | Insider London Regeneration & Innovation Tour
+heading: King's Cross Regeneration and Innovation Tour
 description: 'Join us on our King''s Cross tour: Journey through time from rural city
   escape to the up-and-coming modern area that attracts even Google. Call +44 (0)
   20 7183 1055.'
