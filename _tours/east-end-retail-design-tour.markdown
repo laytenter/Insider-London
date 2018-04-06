@@ -1,5 +1,5 @@
 ---
-title: East End Retail Design Tour
+title: East London Tours | Retail Design Tours | Insider London
 date: 2017-09-22 08:32:00 Z
 categories:
 - educational
@@ -7,7 +7,7 @@ tags:
 - retail
 - all
 - educational
-heading: East London Tours | Retail Design Tours | Insider London
+heading: East End Retail Design Tour
 description: Discover retail design on our East London tours from Insider London,
   and explore design, fashion, art and much more. Call +44 (0) 20 7183 1055.
 gallery:
