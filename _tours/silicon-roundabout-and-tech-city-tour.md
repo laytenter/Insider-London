@@ -99,9 +99,7 @@ See where tomorrow’s trends are created, where killer concepts are born, where
 
 ### Where do we meet?
 
-Shoreditch Grind on Old Street
-
-{% include tour-map.html %}
+Shoreditch Grind on Old Street ([to the map](#map))
 
 ### How long is the tour?
 
@@ -116,3 +114,6 @@ To book the private tour, or find out more, call 0207 183 1055, or email: <a hre
 ### Where does the tour finish?
 
 The tour finished at the Google Campus, Bonhill Street.</em>
+
+<h3 id="map">Map</h3>
+{% include tour-map.html %}
