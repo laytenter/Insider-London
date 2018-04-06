@@ -83,9 +83,7 @@ On this tour you will:
 
 ### Where do we meet?
 
-Outside of Dominion Theatre, opposite to Tottenham Court Road tube station.
-
-{% include tour-map.html %}
+Outside of Dominion Theatre, opposite to Tottenham Court Road tube station. ([to the map](#map))
 
 ### How long is the tour?
 
@@ -106,3 +104,6 @@ The Death and Debauchery Tour may also be booked as a private tour at a time sui
 ### Where does the tour finish?
 
 Near Holborn Tube Station
+
+<h3 id="map">Meeting Point - Map</h3>
+{% include tour-map.html %}
