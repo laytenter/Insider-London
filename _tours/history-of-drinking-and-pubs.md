@@ -53,9 +53,7 @@ The London pub is a great place to learn about one of England’s oldest drinkin
 
 ### Where do we meet?
 
-By Blue Pole, North side entrance of Blackfriars Station
-
-{% include tour-map.html %}
+By Blue Pole, North side entrance of Blackfriars Station ([to the map](#map))
 
 ### How long is the Tour?
 
@@ -79,3 +77,6 @@ Near to Blackfriars Station.
 ### Please Note:
 
 The History of Drinking and Pubs Tour visits several pubs, therefore only available to guests who are 18 and over. At each pub a drink will be suggested for you to enjoy, however this is not included in the price of the ticket. To stay within the allotted tour time we also suggest a half-pint rule, though this is up to your own judgement!
+
+<h3 id="map">Meeting Point - Map</h3>
+{% include tour-map.html %}
