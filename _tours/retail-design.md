@@ -80,9 +80,7 @@ This alternative London walking tour is perfect for retail designers, shop owner
 
 ### Where do we meet?
 
-Piccadilly Circus, just outside Whole Foods Market
-
-{% include tour-map.html %}
+Piccadilly Circus, just outside Whole Foods Market ([to the map](#map))
 
 ### How long is the tour?
 
@@ -97,3 +95,6 @@ To book the private tour, or find out more, call 0207 183 1055, or email: <a hre
 ### Where does the tour finish?
 
 Green Park tube station
+
+<h3 id="map">Meeting Point - Map</h3>
+{% include tour-map.html %}
