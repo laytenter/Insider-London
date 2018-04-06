@@ -90,9 +90,7 @@ We also deliver a two hour **<a href="/tours/sustainable-london-architecture-to
 
 ### Where do we meet?
 
-Dominion Theatre, opposite to Tottenham Court Road Tube Station
-
-{% include tour-map.html %}
+Dominion Theatre, opposite to Tottenham Court Road Tube Station ([to the map](#map))
 
 ### How long is the tour?
 
@@ -107,3 +105,6 @@ To book the private tour, or find out more, call 0207 183 1055, or email: <a hr
 ### Where does the tour finish?
 
 Oxo Tower, near South Bank
+
+<h3 id="map">Meeting Point - Map</h3>
+{% include tour-map.html %}
