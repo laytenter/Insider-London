@@ -7,7 +7,7 @@ description: Don’t forget your mobile phone charger or power bank! Find this a
 layout: post
 ---
 
-[960x540 Big Ben.jpg](/uploads/960x540%20Big%20Ben.jpg)
+![960x540 Big Ben.jpg](/uploads/960x540%20Big%20Ben.jpg)
 
 If you are looking forward to seeing everything [the Big Smoke has to offer](https://www.insider-london.co.uk/tours/private-tours/) with a walking tour of London, make sure you pack well.
 
