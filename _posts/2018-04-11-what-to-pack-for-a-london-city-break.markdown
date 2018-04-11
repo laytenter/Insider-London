@@ -7,6 +7,8 @@ description: Don’t forget your mobile phone charger or power bank! Find this a
 layout: post
 ---
 
+[960x540 Big Ben.jpg](/uploads/960x540%20Big%20Ben.jpg)
+
 If you are looking forward to seeing everything [the Big Smoke has to offer](https://www.insider-london.co.uk/tours/private-tours/) with a walking tour of London, make sure you pack well.
 
 [TNT Magazine](http://www.tntmagazine.com/travel/top-guides/essential-packing-list-items-for-a-city-break) has published some top packing tips for a successful city break that some Londonophiles may find useful before they make their way to the British capital.
@@ -19,4 +21,4 @@ A large pashmina-like scarf is next on the list for women, as it is a good extra
 
 Finally, the modern tourist knows the frustration of low battery life as our mobile devices become a key part of documenting our lives, so remember to bring a power bank.
 
-There are some great power bank models out there to choose from, including solar-powered gadgets and power banks with multiple sockets for more than one device. Either way, TNT believes this accessory is as crucial to pack as your sensible shoes.
+There are some great power bank models out there to choose from, including solar-powered gadgets and power banks with multiple sockets for more than one device. Either way, TNT believes this accessory is as crucial to pack as your sensible shoes.!
