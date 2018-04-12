@@ -26,7 +26,7 @@ map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2485.7575527697923!2d
 banner: 
 thumb: "/uploads/web_588x378%20Brixton%20Village.jpg"
 related:
-- 29334
+- 11117
 - 22222
 - 29344
 tour-id: 12418
