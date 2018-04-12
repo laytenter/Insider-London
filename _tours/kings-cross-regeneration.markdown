@@ -12,7 +12,7 @@ description: 'Join us on our King''s Cross tour: Journey through time from rural
   escape to the up-and-coming modern area that attracts even Google. Call +44 (0)
   20 7183 1055.'
 tour-id: 11117
-thumb: "/uploads/web_568x378_Kings_Cross_Western_Concourse-CC-BY-SA-3.0.jpg"
+thumb: web_568x378_Kings_Cross_Western_Concourse-CC-BY-SA-3.0.jpg
 banner: web_960x540_Kings_Cross_Western_Concourse-CC-BY-SA-3.0.jpg
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1241.0222836115836!2d-0.123693228018611!3d51.53074239951071!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNTHCsDMxJzUwLjciTiAwwrAwNycyMi4wIlc!5e0!3m2!1sde!2suk!4v1510861139042
 related:
