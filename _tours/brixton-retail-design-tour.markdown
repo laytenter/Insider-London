@@ -3,17 +3,24 @@ title: Brixton Retail Design Tour
 date: 2018-04-12 11:40:00 Z
 categories:
 - educational
+heading: Brixton Retail Design Tour
 gallery:
-- image: 
+- image: "/uploads/960x540%20Brixton%20Village.jpg"
   caption: 
   alt: 
-- image: 
+- image: "/uploads/960x540%20Brixton%20Market.jpg"
+  caption: 
+  alt: 
+- image: "/uploads/960x540%20Brixton%20Street%20Art.jpg"
+  caption: 
+  alt: 
+- image: "/uploads/960x540%20Brixton%20Pop%20Brixton.jpg"
   caption: 
   alt: 
 show_book: false
 map: 
 banner: 
-thumb: 
+thumb: "/uploads/300x200%20Brixton%20Village.jpg"
 related:
 - 29334
 - 22222
