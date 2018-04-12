@@ -1,6 +1,7 @@
 ---
 title: BRIXTON RETAIL DESIGN TOUR
 date: 2018-04-12 11:40:00 Z
+layout: tour
 ---
 
 After the incredible success of our West End and East End Retail Design  walking tours, which focuses on some of the most innovative shops and brands around, Insider London are pleased to bring you the Brixton Retail Design Tour! This is a new walking tour in one of the most exciting corners of London, where local entrepreneurs have been given opportunities to make their retail dreams come true, which in turn not only allows the area to survive but truly thrive.
