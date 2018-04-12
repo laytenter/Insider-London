@@ -1,5 +1,5 @@
 ---
-title: BRIXTON RETAIL DESIGN TOUR
+title: Brixton Retail Design Tour
 date: 2018-04-12 11:40:00 Z
 categories:
 - educational
