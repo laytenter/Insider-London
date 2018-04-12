@@ -1,6 +1,8 @@
 ---
 title: BRIXTON RETAIL DESIGN TOUR
 date: 2018-04-12 11:40:00 Z
+categories:
+- educational
 layout: tour
 ---
 
