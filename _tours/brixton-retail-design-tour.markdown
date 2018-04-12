@@ -1,6 +1,7 @@
 ---
 title: Brixton Retail Design Tour
 date: 2018-04-12 11:40:00 Z
+published: false
 categories:
 - educational
 heading: Brixton Retail Design Tour
@@ -52,7 +53,7 @@ Beginning the tour outside Brixton Station, your Insider Guide will walk you thr
 # What you need to know
 
 ## Where do we meet?
-Outside Brixton Tube Station
+Outside Brixton Tube Station ([to the map](#map))
 
 ## How long is the tour?
 Approximately 2 hours
@@ -64,3 +65,8 @@ To book the private tour, or find out more, call [0207 183 1055](tel:02071831055
 
 ## Where does the tour finish?
 Outside Ritzy, Brixton Oval
+
+Shoreditch High Street Station
+
+<h3 id="map">Meeting Point - Map</h3>
+{% include tour-map.html %}
