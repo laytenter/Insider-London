@@ -24,6 +24,6 @@ Founded by Gabriela Hersham and Andrew Lynch, [Huckletree ](https://www.huckletr
 ## 5. Runway East 
 Aimed squarely at startups, [Runway East](https://runwayea.st) aims to help them take off with a range of coworking options for startups from 1 - 100 people. Two coworking spaces next to Silicon Roundabout and another in Moorgate host over 1000 people from over 120 startups, with members getting access to free meeting rooms, investor office hours and a range of events to connect with one another. 
 
-And if you're interested in knowing more about coworking spaces and the tech side to London, join our [Silicon Roundabout and Tech City Walking Tour](http://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/). Also don't forget to follow us on [Facebook](http://facebook.com/insiderlondon/?fref=ts), [Twitter](https://twitter.com/insiderlondon) and [Instagram](https://www.instagram.com/insiderlondontours/) to keep up to date with Insider London.
+And if you're interested in knowing more about coworking spaces and the tech side to London, join our [Silicon Roundabout and Tech City Walking Tour](http://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/). Also don't forget to follow us on [Facebook](http://facebook.com/insiderlondon/), [Twitter](https://twitter.com/insiderlondon) and [Instagram](https://www.instagram.com/insiderlondontours/) to keep up to date with Insider London.
 
 by Sage Fitzpatrick
