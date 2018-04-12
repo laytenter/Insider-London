@@ -65,7 +65,5 @@ To book the private tour, or find out more, call [0207 183 1055](tel:02071831055
 ## Where does the tour finish?
 Outside Ritzy, Brixton Oval
 
-Shoreditch High Street Station
-
 <h3 id="map">Meeting Point - Map</h3>
 {% include tour-map.html %}
