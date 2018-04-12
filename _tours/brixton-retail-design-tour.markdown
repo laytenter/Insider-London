@@ -3,6 +3,22 @@ title: Brixton Retail Design Tour
 date: 2018-04-12 11:40:00 Z
 categories:
 - educational
+gallery:
+- image: 
+  caption: 
+  alt: 
+- image: 
+  caption: 
+  alt: 
+show_book: false
+map: 
+banner: 
+thumb: 
+related:
+- 29334
+- 22222
+- 29344
+tour-id: 12418
 layout: tour
 ---
 
