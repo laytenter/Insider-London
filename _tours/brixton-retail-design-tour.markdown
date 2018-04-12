@@ -6,17 +6,20 @@ categories:
 heading: Brixton Retail Design Tour
 gallery:
 - image: "/uploads/960x540%20Brixton%20Village.jpg"
-  caption: 
-  alt: 
+  caption: Brixton Village is one of the interesting stops on this tour with dozens
+    of local and successful businesses.
+  alt: The entrance to the Brixton Village Market.
 - image: "/uploads/960x540%20Brixton%20Market.jpg"
-  caption: 
+  caption: Brixton Village is one of the interesting stops on this tour with dozens
+    of local and successful businesses.
   alt: 
 - image: "/uploads/960x540%20Brixton%20Street%20Art.jpg"
-  caption: 
-  alt: 
+  caption: Creativity and the local community are crucial to Brixton's success.
+  alt: Street Art in Brixton
 - image: "/uploads/960x540%20Brixton%20Pop%20Brixton.jpg"
-  caption: 
-  alt: 
+  caption: Pop Brixton makes use of derelict land and focuses on local and sustainable
+    businesses.
+  alt: Pop Brixton
 show_book: false
 map: 
 banner: 
