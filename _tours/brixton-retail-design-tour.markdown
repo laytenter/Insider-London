@@ -24,7 +24,7 @@ gallery:
 show_book: false
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2485.7575527697923!2d-0.1169216841738308!3d51.46260767962773!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760467d4180df9%3A0x4d7a0d7493b505a7!2sBrixton+Station!5e0!3m2!1sen!2suk!4v1523535003081
 banner: 
-thumb: "/uploads/300x200%20Brixton%20Village.jpg"
+thumb: "/uploads/web_588x378%20Brixton%20Village.jpg"
 related:
 - 29334
 - 22222
