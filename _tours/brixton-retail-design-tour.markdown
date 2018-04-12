@@ -1,7 +1,6 @@
 ---
 title: Brixton Retail Design Tour
 date: 2018-04-12 11:40:00 Z
-published: false
 categories:
 - educational
 heading: Brixton Retail Design Tour
