@@ -48,7 +48,7 @@ layout: tour
 
 Let Insider London show you the secrets to London's success.
 
-<a class="btn btn--small btn--red" href="/assets/in-depth-business-visits_brochure_Insider_London">View Brochure</a>
+<a class="btn btn--small btn--red" href="/assets/in-depth-business-visits_brochure_Insider_London.pdf">View Brochure</a>
 
 Our in-depth educational business visits showcase some of the world's most powerful companies as well as the capital's most innovative entrepreneurs, including:
 
@@ -66,7 +66,7 @@ Insider London's Business Visits are a unique opportunity for **corporate groups
 
 **E-mail [contact@insider-london.co.uk](mailto:contact@insider-london.co.uk)** to choose from our extensive list of partners. With opportunities for a variety of groups, with sizes from **6-100 people**, we will create a bespoke business programme for your precise professional or academic needs. 
 
-<a class="btn btn--small btn--red" href="/assets/in-depth-business-visits_brochure_Insider_London">View Brochure</a>
+<a class="btn btn--small btn--red" href="/assets/in-depth-business-visits_brochure_Insider_London.pdf">View Brochure</a>
 
 ![17-10-25 Sperbank.jpg](/uploads/17-10-25%20Sperbank.jpg)
 *Sperbank executives visiting a fintech start-up showcase and personal Q&A at Wayra in October '17*
@@ -80,7 +80,7 @@ Insider London also hosts engaging **talks** and **interactive workshops** with 
 - **Finance Made Simple** – Coaching from a top financier who has led a variety of management roles over 20 years in a global bank. Sessions included the development of expert analysis on critical financial instruments and terminology as well as of budgeting and costing. This was an exclusive financial programme for non-finance managers. 
 - **Architectural Design** – Bringing architecture students from around the world together to work on a real-life project, the renovation of a Georgian lodge. Led by a top architect this was a great opportunity for students to network as well as get some real-life experience planning a fascinating development. Students received individual feedback and coaching from an industry expert and left feeling inspired to create without boundaries. 
 
-<a class="btn btn--small btn--red" href="/assets/in-depth-business-visits_brochure_Insider_London">View Brochure</a>
+<a class="btn btn--small btn--red" href="/assets/in-depth-business-visits_brochure_Insider_London.pdf">View Brochure</a>
 
 ## Bespoke Packages
 Our in-depth business visits and workshops make great **combinations** with **educational tours**. Popular choices include tours of [Retail Design](https://www.insider-london.co.uk/tours/retail-design/), the [Silicon Roundabout and Tech City](https://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/) as well as [Finance](https://www.insider-london.co.uk/tours/london-finance-walking-tour/) and the [Kings Cross Regeneration and Innovation](https://www.insider-london.co.uk/tours/kings-cross-regeneration/).  
