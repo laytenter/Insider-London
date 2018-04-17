@@ -46,7 +46,9 @@ related:
 layout: tour
 ---
 
-Let Insider London show you the secrets to London's success. 
+Let Insider London show you the secrets to London's success.
+
+<a class="btn btn--small btn--red" href="/assets/in-depth-business-visits_brochure_Insider_London">View Brochure</a>
 
 Our in-depth educational business visits showcase some of the world's most powerful companies as well as the capital's most innovative entrepreneurs, including:
 
@@ -56,6 +58,8 @@ Our in-depth educational business visits showcase some of the world's most power
 - **DigitasLBI** – The global technology-based marketing agency, part of the Publicis Groupe. This team keeps one eye on the increasingly complex consumer behaviour of modern times, and the other on advanced customer relationship management. Meet the experts of social analytics who use technology to test drive Honda and promote the National Trust.
 - **Wayra**  - The inspirational start-up accelerator giant that forms part of the 02 Telefonica Group. Get a sneak-preview of the latest new products taking the business world by storm.  Discover the secrets of start-up success from sparking that revolutionary new product idea to finding your perfect team. Come for an induction to the start-up university!
 
+<a class="btn btn--small btn--red" href="/assets/in-depth-business-visits_brochure_Insider_London">View Brochure</a>
+
 London is one-of-a-kind thriving hub – a world city combining arts, technology, finance and politics.  Here in London we have close relationships with groundbreaking company founders and CEOs in an extensive range of industries from fintech to urban agriculture. An in-depth business visit is the perfect way to get the insider tips that will inspire your students or take your team to the next level.
 
 Your in-depth business experience will include an exclusive first-hand account of the company’s life cycle as well as practical demonstrations of products of the future. Each tour includes an open Q&A session with the chance to pick the brains of the business team's senior members.
@@ -63,6 +67,8 @@ Your in-depth business experience will include an exclusive first-hand account o
 Insider London's Business Visits are a unique opportunity for **corporate groups and entrepreneurs** looking for a rare behind-the-scenes experience, as well as for **student groups** looking to explore real-life thriving business models. Our visits provide an opportunity to make vital contacts and discover key challenges of the modern world in specific industries. 
 
 **E-mail [contact@insider-london.co.uk](mailto:contact@insider-london.co.uk)** to choose from our extensive list of partners. With opportunities for a variety of groups, with sizes from **6-100 people**, we will create a bespoke business programme for your precise professional or academic needs. 
+
+<a class="btn btn--small btn--red" href="/assets/in-depth-business-visits_brochure_Insider_London">View Brochure</a>
 
 ![17-10-25 Sperbank.jpg](/uploads/17-10-25%20Sperbank.jpg)
 *Sperbank executives visiting a fintech start-up showcase and personal Q&A at Wayra in October '17*
