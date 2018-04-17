@@ -86,5 +86,3 @@ Insider London also hosts engaging **talks** and **interactive workshops** with 
 Our in-depth business visits and workshops make great **combinations** with **educational tours**. Popular choices include tours of [Retail Design](https://www.insider-london.co.uk/tours/retail-design/), the [Silicon Roundabout and Tech City](https://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/) as well as [Finance](https://www.insider-london.co.uk/tours/london-finance-walking-tour/) and the [Kings Cross Regeneration and Innovation](https://www.insider-london.co.uk/tours/kings-cross-regeneration/).  
  
 Get in touch via [contact@insider-london.co.uk](mailto:contact@insider-london.co.uk) to start creating your perfect educational package. 
-
-<a class="btn btn--small btn--red" href="/assets/in-depth-business-visits_brochure_Insider_London">View Brochure</a>
