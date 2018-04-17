@@ -58,8 +58,6 @@ Our in-depth educational business visits showcase some of the world's most power
 - **DigitasLBI** – The global technology-based marketing agency, part of the Publicis Groupe. This team keeps one eye on the increasingly complex consumer behaviour of modern times, and the other on advanced customer relationship management. Meet the experts of social analytics who use technology to test drive Honda and promote the National Trust.
 - **Wayra**  - The inspirational start-up accelerator giant that forms part of the 02 Telefonica Group. Get a sneak-preview of the latest new products taking the business world by storm.  Discover the secrets of start-up success from sparking that revolutionary new product idea to finding your perfect team. Come for an induction to the start-up university!
 
-<a class="btn btn--small btn--red" href="/assets/in-depth-business-visits_brochure_Insider_London">View Brochure</a>
-
 London is one-of-a-kind thriving hub – a world city combining arts, technology, finance and politics.  Here in London we have close relationships with groundbreaking company founders and CEOs in an extensive range of industries from fintech to urban agriculture. An in-depth business visit is the perfect way to get the insider tips that will inspire your students or take your team to the next level.
 
 Your in-depth business experience will include an exclusive first-hand account of the company’s life cycle as well as practical demonstrations of products of the future. Each tour includes an open Q&A session with the chance to pick the brains of the business team's senior members.
@@ -82,7 +80,11 @@ Insider London also hosts engaging **talks** and **interactive workshops** with 
 - **Finance Made Simple** – Coaching from a top financier who has led a variety of management roles over 20 years in a global bank. Sessions included the development of expert analysis on critical financial instruments and terminology as well as of budgeting and costing. This was an exclusive financial programme for non-finance managers. 
 - **Architectural Design** – Bringing architecture students from around the world together to work on a real-life project, the renovation of a Georgian lodge. Led by a top architect this was a great opportunity for students to network as well as get some real-life experience planning a fascinating development. Students received individual feedback and coaching from an industry expert and left feeling inspired to create without boundaries. 
 
+<a class="btn btn--small btn--red" href="/assets/in-depth-business-visits_brochure_Insider_London">View Brochure</a>
+
 ## Bespoke Packages
 Our in-depth business visits and workshops make great **combinations** with **educational tours**. Popular choices include tours of [Retail Design](https://www.insider-london.co.uk/tours/retail-design/), the [Silicon Roundabout and Tech City](https://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/) as well as [Finance](https://www.insider-london.co.uk/tours/london-finance-walking-tour/) and the [Kings Cross Regeneration and Innovation](https://www.insider-london.co.uk/tours/kings-cross-regeneration/).  
  
 Get in touch via [contact@insider-london.co.uk](mailto:contact@insider-london.co.uk) to start creating your perfect educational package. 
+
+<a class="btn btn--small btn--red" href="/assets/in-depth-business-visits_brochure_Insider_London">View Brochure</a>
