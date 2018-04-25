@@ -9,7 +9,6 @@ layout: post
 ---
 
 ![web_960x540_Phonebox_CV_CC0_wikimedia.jpg](/uploads/web_960x540_Phonebox_CV_CC0_wikimedia.jpg)
-
 *Red telephone boxes in Covent Garden [by M0tty via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Red_Public_Phone_Boxes_-_Covent_Garden,_London,_England_-_July_10,_2012.JPG)*
 
 When Sir Giles Gilbert Scott won a design competition set by the Post Office in 1924, he surely had no idea his [K2](http://www.the-telephone-box.co.uk/kiosks/k2/) would evolve into such a classic British icon. Almost one hundred years later it remains close to the heart of the great British public and even closer to the camera lenses of visiting tourists!
