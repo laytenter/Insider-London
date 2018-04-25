@@ -28,7 +28,7 @@ Well actually, when describing the “beloved red box”, now is a good time to 
 [web_960x540_Little_Shelford_High_Street_and_Telephone_Box_Library CC0 Wikimedia.JPG](/uploads/web_960x540_Little_Shelford_High_Street_and_Telephone_Box_Library%20CC0%20Wikimedia.JPG)
 *The Telephone Box Library in Little Shelford [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Little_Shelford_High_Street_and_Telephone_Box_Library.JPG)*
 
-##3.	
+## 3.	
 Keen to be practical, the design was also well-adapted to fashions of the time. Have you ever noticed that the door is considerably shorter than the roof of the box? Well if you were an upstanding gentleman of the 1920s or 1930s you would appreciate this innovative feature, designed specifically to allow you to adorn your top hat once inside the booth!
 
 ![web_960x540-Five_boys_in_top_hat_and_tails_costumes_(37973539241) CC0.jpg](/uploads/web_960x540-Five_boys_in_top_hat_and_tails_costumes_(37973539241)%20CC0.jpg)
