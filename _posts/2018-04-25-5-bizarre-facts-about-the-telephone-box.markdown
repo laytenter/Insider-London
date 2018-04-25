@@ -25,7 +25,7 @@ If you go a-wandering round the churchyard of St Pancras Old Church, you may stu
 ## 2.
 Well actually, when describing the “beloved red box”, now is a good time to admit something... [The Museum of London](https://www.museumoflondon.org.uk/museum-london) reports that the original boxes were actually intended to be a rather dashing green and silver – but this was rejected by the Post Office on the grounds that they would present a dangerous road hazard!
 
-![web_960x540_Little_Shelford_High_Street_and_Telephone_Box_Library CC0 Wikimedia.JPG](/uploads/web_960x540_Little_Shelford_High_Street_and_Telephone_Box_Library%20CC0%20Wikimedia.JPG)
+![web_960x540_Little_Shelford_High_Street_and_Telephone_Box_Library CC0 Wikimedia.jpg](/uploads/web_960x540_Little_Shelford_High_Street_and_Telephone_Box_Library%20CC0%20Wikimedia.jpg)
 *The Telephone Box Library in Little Shelford [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Little_Shelford_High_Street_and_Telephone_Box_Library.JPG)*
 
 ## 3.	
