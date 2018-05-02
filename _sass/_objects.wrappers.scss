@@ -12,12 +12,12 @@
       max-width: 1060px;
       margin: 0 auto;
     }
+
     @include media-query(desk) {
       max-width: 1200px;
       margin: 0 auto;
       padding-left: $inuit-base-spacing-unit;
       padding-right: $inuit-base-spacing-unit;
-
     }
 }
 
@@ -28,6 +28,20 @@
  */
 .wrapper--wide {
     max-width: 1276px;
+}
+
+.wrapper--padded {
+  // Padding to accomodate 'fixed' header
+  padding-top: 132px;
+
+  @include media-query(lap) {
+    padding-top: 168px;
+  }
+
+  @include media-query(desk) {
+    padding-top: 180px;
+  }
+
 }
 
 .page-wrap {

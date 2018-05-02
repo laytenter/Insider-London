@@ -1,7 +1,17 @@
 .hero {
   position: relative;
-  background-color: rgba($color-blue,0.9)
+  background-color: rgba($color-blue,0.9);
 
+  // Padding to accomodate 'fixed' header
+  padding-top: 132px;
+
+  @include media-query(lap) {
+    padding-top: 168px;
+  }
+
+  @include media-query(desk) {
+    padding-top: 180px;
+  }
 }
 
 .hero__image {
@@ -10,7 +20,15 @@
 
 .hero__content {
   position: absolute;
-  top: 0;
+  top: 136px;
+  @include media-query(lap) {
+    top: 168px;
+  }
+
+  @include media-query(desk) {
+    top: 180px;
+  }
+
   text-align: center;
   width: 100%;
 }

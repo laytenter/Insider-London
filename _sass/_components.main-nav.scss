@@ -10,14 +10,14 @@
   border-bottom: 6px solid #fff;
   position: relative;
   @extend %clearfix;
-  @include inuit-font-size(14px);
+  @include inuit-font-size(12px);
 
   height: 60px;
 
   @include media-query(lap) {
     height: 72px;
+    @include inuit-font-size(14px);
   }
-
 
   @include media-query(desk) {
     height: 84px;

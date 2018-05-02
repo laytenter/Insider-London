@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="wrapper">
+<div class="wrapper wrapper--padded">
   {% include ta-logo.html %}
   <noscript>Your browser must support JavaScript in order to make a booking.</noscript>
 
@@ -27,7 +27,6 @@ layout: default
         <p class="palm-mt0 lap-and-up-mt0">
           <img src="{{ site.imagepath }}{{ page.banner }}" />
         </p>
-
       {% endif %}
       <div class="hidden-wide">
         <p class="palm-mt0 lap-and-up-mt0">
@@ -46,6 +45,7 @@ layout: default
       <p class="palm-mt0 lap-and-up-mt0">
         {% include  share-icons.html %}
       </p>
+
 
       {% if page.show_book %}
         {% include tour-side-bar.html buttonid="BookNow1" %}
