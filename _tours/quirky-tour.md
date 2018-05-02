@@ -37,7 +37,7 @@ Are you new to London and looking to discover the lesser-known facts about the c
 
 ### Where do we meet?
 
-In front of Marks & Spencer, opposite to Covent Garden tube station ([to the map](#map))
+Outside Covent Garden tube station ([to the map](#map))
 
 ### How long is the tour?
 
