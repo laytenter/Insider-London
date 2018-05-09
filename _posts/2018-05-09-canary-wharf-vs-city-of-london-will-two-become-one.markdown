@@ -1,10 +1,12 @@
 ---
 title: Canary Wharf vs City of London - Will two become one?
 date: 2018-05-09 12:35:00 Z
+permalink: "/canary-wharf-vs-city-of-london/"
 description: Canary Wharf transformed from a run-down disregarded part of London to
   become one of the major financial centres of the world. To complement our tour of
   Canary Wharf, we examine the relationship between the City of London and Canary
   Wharf.
+layout: post
 ---
 
 Canary Wharf is an incredible example of urban regeneration. Over the last 30 years, it has been transformed from a run-down disregarded part of London, comprising marshland and redundant nineteenth century docks, to become one of the major financial centres of the world. It has now been suggested that it’s seemingly inexorable growth means it will inevitably eventually match and then merge with its rival centre – the City of London set in the ancient ‘Square Mile’ three miles to the west.
