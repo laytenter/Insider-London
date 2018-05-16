@@ -45,4 +45,6 @@ After a short coffee break, four of Innovation Warehouse's great start-ups pitch
 
 After these impressive pitches, all participants of the event got together in the back of the room for networking, and the Innovation Warehouse team showed the guests around the premises. Many interesting conversations and laughs were shared, and the event proved to be a great success. Thank you so much to everyone involved!
 
+We have learned so much at this event, particularly why London is a great way to invest. Its strong legal system and competitive tax regime creates a secure environment to take the necessary risk. The investment know-how in London is incredibly strong, making it even safer. And finally, the diversity of cultures, industries and people, and having some of the best educated talent in the world propel London to one of the top places to invest across the globe.
+
 *If you are interested to learn more about [businesses in London](https://www.insider-london.co.uk/tours/in-depth-business-tour/), get in touch. We can organise a multitude of business visits, workshops and bespoke programmes around entrepreneurship, business and finance!*
