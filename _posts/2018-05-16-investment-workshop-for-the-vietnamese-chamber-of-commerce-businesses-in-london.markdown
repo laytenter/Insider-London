@@ -16,6 +16,8 @@ layout: post
 
 On Monday, 14th May, we had the honour of welcoming the Vietnamese Chamber of Commerce and its president Mr. Vo at Innovation Warehouse. They had asked us to organise a workshop about investing in the UK and [businesses in London](https://www.insider-london.co.uk/tours/in-depth-business-tour/). The three-hour workshop was a full-on success!
 
+### Introduction and Talks
+
 After a short introduction by Innovation Warehouse’s founder Ami Shpiro, legal and accounting experts started with two presentations about the potential of investing in the UK Partners and more specifically its start-ups. 
 
 ![18-05-16 VoCC 2.jpg](/uploads/18-05-16%20VoCC%202.jpg)
@@ -39,6 +41,7 @@ After a short coffee break, four of Innovation Warehouse's great start-ups pitch
 ### BCRemit 
 [BCRemit](https://www.bcremit.com/) aims to bring money transfers and services payment to and from South East Asia into the 21st century. Through their targeted approach on South East Asia, they can be cheaper than their competitors, and offer a variety of different services to migrant workers from the SEA region.
 
+### Networking
 ![18-05-16 VoCC 3.jpg](/uploads/18-05-16%20VoCC%203.jpg)
 *Networking conversations after the pitch session*
 
