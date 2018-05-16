@@ -9,6 +9,7 @@ description: 'On 14th May, the Vietnamese Chamber of Commerce visited Innovation
   and the opportunities around investment in the UK. Read more about the event here!
 
 '
+heading: Investment Workshop for the Vietnamese Chamber of Commerce
 layout: post
 ---
 
