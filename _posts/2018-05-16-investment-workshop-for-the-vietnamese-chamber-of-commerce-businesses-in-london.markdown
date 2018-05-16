@@ -27,16 +27,16 @@ Jeff McGeachie of Spencer Legal, corporate lawyer of over 25 years, reflected on
 
 After a short coffee break, four of Innovation Warehouse's great start-ups pitched their businesses to our esteemed guests.
 
-## VividQ 
+### VividQ 
 [VividQ](https://www.vivid-q.com/) creates functional software solutions for 3D data processing and holographic displays. They are one of the first ever companies to have developed a compression algorithm that enables regular laptops to process 3D video material as a real holographic experience. Classic stereoscopic displays trick our eyes into believing to see 3-dimensional, causing eye strain and nausea. VividQ’s software on the other hand enables devices to project real 3-dimensional pictures onto transparent surfaces.
 
-## Emsol 
+### Emsol 
 [Emsol](https://www.emsol.org/) tackles the silent killer air pollution by deploying an IoT solution. Nowadays, road transportation is responsible for about half of London’s air pollution (which by the way frequently exceeds [its legal annual limits in the first month of the year](https://www.theguardian.com/uk-news/2018/jan/30/london-reaches-legal-air-pollution-limit-just-one-month-into-the-new-year)). Deploying an internet-of-things network, Emsol can monitor and analyse the traffic of their clients’s vehicles, which in turn enables the clients to optimize and innovate to reduce their emissions. 
 
-## Weavee 
+### Weavee 
 [Weavee](https://www.weavee.co.uk/)’s found and CEO James Grant started with surprising stats: "As far as Gallup records go, average employee engagement has remained at ~31%." Weavee wants to change this by using a mix of data, automation and mobile technology to let managers access, understand and act upon culture. They already work with some major companies of several thousand employees, successfully informing management decisions and increasing employee engagement.
 
-## BCRemit 
+### BCRemit 
 [BCRemit](https://www.bcremit.com/) aims to bring money transfers and services payment to and from South East Asia into the 21st century. Through their targeted approach on South East Asia, they can be cheaper than their competitors, and offer a variety of different services to migrant workers from the SEA region.
 
 ![18-05-16 VoCC 3.jpg](/uploads/18-05-16%20VoCC%203.jpg)
