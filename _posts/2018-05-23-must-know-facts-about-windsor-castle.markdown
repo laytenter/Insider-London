@@ -8,6 +8,8 @@ description: Did you know there are over 200,000 books in the library? Find this
 layout: post
 ---
 
+![960x540 Windsor Castle.jpg](/uploads/960x540%20Windsor%20Castle.jpg)
+
 We're in another period of royal-mania with another big royal wedding just behind us, and if you're visiting the capital, going on a London guided walk is the best way to learn all about our interesting royal history.
 
 One of the highlights of London is undoubtedly the pilgrimage to see Buckingham Palace, but another of the Queen's residences is in spotlight as the venue for Prince Harry and fiancée Meghan Markle's nuptials… Windsor Castle!
