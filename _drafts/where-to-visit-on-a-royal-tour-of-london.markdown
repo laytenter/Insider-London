@@ -9,7 +9,7 @@ heading: Where To Visit On A Royal Tour Of London | Insider London
 layout: post
 ---
 
-![London.jpg]
+![960x540 London.jpg]
 (/uploads/London.jpg)
 
 Not much time has passed since [29 million people] (https://www.forbes.com/sites/tonifitzgerald/2018/05/21/royal-wedding-ratings-how-many-people-watched-prince-harry-wed-meghan-markle/) worldwide tuned in to watch Prince Harry and Meghan Markle tie the knot in one of the most popular royal weddings of all time. But if you can’t let go of royal wedding fever, why not enjoy a [guided tour] (https://www.insider-london.co.uk/tours/historical-walking-tours/) of London and see some of the most important sights in British regal history?
