@@ -29,3 +29,4 @@ This working palace is the Queen’s official London residence, but visitors are
 **The Royal Mews**
 
 Those who are not heading to London at the right time to see the State Rooms can still enjoy a royal experience by visiting the [Royal Mews at Buckingham Palace](https://tickets.royalcollection.org.uk/?f%5B0%5D=im_field_customer_type%3A6&f%5B1%5D=im_field_attraction%3A45&_ga=2.177258981.1149715566.1527167212-502372098.1527167212). This is the stables for the royal family’s horses and where the historic carriages and coaches are kept. Visitors can head here between February and November each year.
+
