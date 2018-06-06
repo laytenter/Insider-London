@@ -1,6 +1,10 @@
 ---
 title: Where To Visit On A Royal Tour Of London
 date: 2018-06-06 12:50:00 Z
+description: From Windsor to Buckingham Palace and more, here are a few must-visit
+  sites on London guided tours this year. Have a read – which will you visit first?
+author: Eden Evans
+heading: Where To Visit On A Royal Tour Of London | Insider London
 ---
 
 ![London.jpg]
