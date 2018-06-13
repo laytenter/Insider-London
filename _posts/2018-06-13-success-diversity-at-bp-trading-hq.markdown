@@ -8,6 +8,7 @@ layout: post
 ---
 
 ![bp%202.jpg](/uploads/bp%202.jpg)
+
 On the 25th May, we had the privilege of taking bright young students from Likokwing University to the striking BP Trading HQ in Canary Wharf. We were welcomed into the space by a proud team of women in leadership, Lucy Counsell from the HR Team and Graduate Recruitment, Kathryn Upson from the strategy team, and Melanie Ashley from Training and Development who had been working with BP for decades. 
 
  
