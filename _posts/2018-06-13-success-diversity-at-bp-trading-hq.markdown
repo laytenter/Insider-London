@@ -2,7 +2,6 @@
 title: Success & Diversity at BP Trading HQ
 date: 2018-06-13 12:12:00 Z
 permalink: "/success-diversity-at-bp-trading-hq/"
-published: false
 description: qwrqwrqwrwqr
 heading: 'Success & Diversity at BP Trading HQ '
 layout: post
@@ -31,7 +30,6 @@ We were then introduced to two talented young women on BP's school leaver and gr
 
 The diverse group of students jumped head-first into an exciting trading simulation. Even students who stated they had never considered a career in trading became gripped as the game commenced and all had a chance to employ their newly-learnt trading vocabulary. This was an inspiring day for students and staff, discovering the unique possibilities at a twenty-first century corporation dedicated to equal opportunities and moving into the future.  
 
- 
 
  ![bp%201.jpg](/uploads/bp%201.jpg)
 
