@@ -1,7 +1,7 @@
 ---
 title: Success & Diversity at BP Trading HQ
 date: 2018-06-13 12:12:00 Z
-permalink: success-diversity-at-bp-trading-hq
+permalink: "/success-diversity-at-bp-trading-hq/"
 description: qwrqwrqwrwqr
 heading: 'Success & Diversity at BP Trading HQ '
 layout: post
