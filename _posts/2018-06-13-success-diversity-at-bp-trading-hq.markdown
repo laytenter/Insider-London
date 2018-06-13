@@ -33,6 +33,6 @@ The diverse group of students jumped head-first into an exciting trading simulat
 
  
 
- 
+ ![bp%201.jpg](/uploads/bp%201.jpg)
 
 Insider London would like to thank BP Trading for hosting the event and to Limkokwing University for joining us for such an engaging and memorable day.
