@@ -16,7 +16,7 @@ It is never too early to get your children interested in history, and London is 
 
  
 
-The National History Museum is literally bursting with exciting things for children to see and do. Whether your youngsters are in to dinosaurs, space, nature, biology or history, you’ll find plenty of attractions and exhibits here.  
+The [National History Museum](http://www.nhm.ac.uk) is literally bursting with exciting things for children to see and do. Whether your youngsters are in to dinosaurs, space, nature, biology or history, you’ll find plenty of attractions and exhibits here.  
 
  
 
@@ -28,7 +28,7 @@ The free-to-enter museum is open every day between 10:00 and 17:00 and is locate
 
  
 
-The Tower of London is legendary and children become mesmerised by hearing the exciting tales that took place here and seeing some of the royal building’s most precious assets, namely the Crown Jewels. 
+The [Tower of London](https://www.hrp.org.uk/tower-of-london/) is legendary and children become mesmerised by hearing the exciting tales that took place here and seeing some of the royal building’s most precious assets, namely the Crown Jewels. 
 
  
 
@@ -40,7 +40,7 @@ There are nearly 24,000 gemstones situated in the Tower of London, making this e
 
  
 
-Journey a little further out of the capital to visit Hampton Court Palace for a day out your children will love. One of the grandest royal residences in Britain, Hampton Court Palace is surrounded by a vast green landscape, has dozens of grand and impressive quarters, and is home to its famous 17th century maze – a favourite among kids.  
+Journey a little further out of the capital to visit [Hampton Court Palace](https://www.hrp.org.uk/hampton-court-palace/) for a day out your children will love. One of the grandest royal residences in Britain, Hampton Court Palace is surrounded by a vast green landscape, has dozens of grand and impressive quarters, and is home to its famous 17th century maze – a favourite among kids.  
 
  
 
@@ -48,4 +48,4 @@ Built in the early 16th century, this Tudor palace was adored by Henry VIII, and
 
  
 
-For more information about our London history tours, with or without the kids, take a look at what we have to offer. 
+For more information about our London history tours, with or without the kids, take a look at [what we have to offer](https://www.insider-london.co.uk/tours/historical-walking-tours/). 
