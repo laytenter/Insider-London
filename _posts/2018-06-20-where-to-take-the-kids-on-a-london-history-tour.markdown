@@ -1,7 +1,7 @@
 ---
 title: Where to take the kids on a London history tour
 date: 2018-06-20 13:01:00 Z
-permalink: where-to-take-the-kids-on-a-london-history-tour
+permalink: "/where-to-take-the-kids-on-a-london-history-tour/"
 published: false
 description: 'From the Tower of London to Hampton Court Palace, here are some of the
   hotspots to visit on a London history tour. Which wonderful sights will you see
