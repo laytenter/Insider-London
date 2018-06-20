@@ -10,7 +10,7 @@ heading: 'Where To Take The Kids On A Historic Trip To London '
 layout: post
 ---
 
-
+![800px-Hampton_Court_Avri_2009_66.jpg](/uploads/800px-Hampton_Court_Avri_2009_66.jpg)
  
 
 It is never too early to get your children interested in history, and London is the perfect place to begin their love affair with all things antiquated. Here are just a few of the great places to visit on a child-friendly tour of the capital. 
