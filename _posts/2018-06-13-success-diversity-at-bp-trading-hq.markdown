@@ -14,7 +14,7 @@ On the 25th May, we had the privilege of taking bright young students from Likok
 
  
 
-**OPPORTUNITIES AT BP** 
+## OPPORTUNITIES AT BP
 
  
 
@@ -22,7 +22,7 @@ Lucy and Melanie discussed the role of the global giant BP Trading,  in meeting 
 
  
 
-**A CHANCE TO GET INVOLVED**
+## A CHANCE TO GET INVOLVED
 
  
 
