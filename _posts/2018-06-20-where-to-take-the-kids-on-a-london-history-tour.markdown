@@ -10,7 +10,6 @@ heading: 'Where To Take The Kids On A Historic Trip To London '
 layout: post
 ---
 
-## Where To Take The Kids On A London History Tour 
 
  
 
@@ -30,7 +29,7 @@ The free-to-enter museum is open every day between 10:00 and 17:00 and is locate
 
  
 
-##Tower of London 
+## Tower of London 
 
  
 
