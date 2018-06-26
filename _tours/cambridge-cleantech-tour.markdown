@@ -10,6 +10,8 @@ description: Venture out of London and into one of the UK's most exciting cities
   traditional with the cutting-edge, in the beautiful city of Cambridge
 gallery:
 - image: "/uploads/picture%201.jpg"
+  caption: Venture out of London and into one of the UK's most exciting cities
+  alt: Venture out of London and into one of the UK's most exciting cities
 layout: tour
 ---
 
