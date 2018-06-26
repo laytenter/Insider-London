@@ -45,9 +45,7 @@ The day will also include a panoramic tour of the **innovative** heart of Cambri
 
 In the afternoon, discover the amazing and diverse architecture of Cambridge city centre with an Architecture Old & New Walking Tour. Explore the winding medieval streets and breathtaking historic architecture of Old Cambridge with a passionate local guide. Traverse the scenic centre and gaze at the imposing gothic palaces of the world-famous colleges of Cambridge University. Marvel at the marriage of archaic facades and striking modern masterpieces in the newer developments of this unique city. With the biggest names in modern architectural practice flocking here to leave their mark, fans of contemporary design will not be disappointed. Cambridge boasts work not just by the acclaimed pioneers of the past such as Christopher Wren but also modern “Starchitects” like Foster & Partners. Come and experience how this vibrant city brings together the old and new. 
 
- 
-
-![picture%203.jpg](/uploads/picture%203.jpg) 
+ [![picture%203.jpg](/uploads/picture%203.jpg) 
 
 ## PUNTING ON THE RIVER 
 
