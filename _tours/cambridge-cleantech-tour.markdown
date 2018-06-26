@@ -12,7 +12,7 @@ layout: tour
 
  
 
-##CAMBRIDGE CLEANTECH 
+## CAMBRIDGE CLEANTECH 
 
  
 
@@ -28,7 +28,7 @@ A proud member of the organisation will lead a tour of their headquarters at the
 
  
 
-##INNOVATION TOUR##  
+## INNOVATION TOUR
 
  
 
@@ -36,7 +36,7 @@ The day will also include a panoramic tour of the **innovative** heart of Cambri
 
  
 
-##ARCHITECTURE## 
+## ARCHITECTURE
 
  
 
@@ -46,7 +46,7 @@ In the afternoon, discover the amazing and diverse architecture of Cambridge cit
 
  
 
-PUNTING ON THE RIVER 
+## PUNTING ON THE RIVER 
 
  
 
