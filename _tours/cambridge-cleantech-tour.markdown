@@ -2,6 +2,7 @@
 title: Cambridge Cleantech Tour
 date: 2018-06-26 12:56:00 Z
 permalink: "/cambridge-cleantech-tour/"
+published: false
 layout: tour
 ---
 
