@@ -31,12 +31,9 @@ Cambridge Cleantech is a vibrant hub at the heart of **one of Europe's fastest g
   
 
 A proud member of the organisation will lead a tour of their headquarters at the Future Business Centre – an independent, not-for-profit hub dedicated to supporting ventures for social change. Following the tour, Cleantech will present a fascinating talk, explaining and analysing the “**Growth of the Cambridge High Tech Cluster**”, as well as the specific actions being taken by Cleantech to promote sustainability. Come and experience the rapidly-growing cleantech movement, with a local expert on hand to provide unique business insight.  
-
 ![Cambridge%202.jpg](/uploads/Cambridge%202.jpg)
 
- 
-
-## INNOVATION TOUR
+ ## INNOVATION TOUR
 
  
 
