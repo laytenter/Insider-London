@@ -1,7 +1,7 @@
 ---
 title: Cambridge Cleantech Tour
 date: 2018-06-26 12:56:00 Z
-permalink: "/cambridge-cleantech-tour/"
+permalink: "/tours/cambridge-cleantech-tour/"
 published: false
 heading: Cambridge Cleantech Tour
 description: Venture out of London and into one of the UK's most exciting cities,
