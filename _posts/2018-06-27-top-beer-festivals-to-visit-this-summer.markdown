@@ -7,6 +7,7 @@ description: Real ales, craft beers, ciders, perries… the list goes on! Which 
   festival will you go to first? See the blog for some great ideas for your next London
   tour.
 heading: 'Top London Beer Festivals To Visit This Summer '
+layout: post
 ---
 
 It’s no secret that craft beers and ales have had a major resurgence in recent years, and that means that beer festivals are becoming ever more popular.
