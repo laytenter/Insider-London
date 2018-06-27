@@ -10,6 +10,8 @@ heading: 'Top London Beer Festivals To Visit This Summer '
 layout: post
 ---
 
+!\[Craft%20beer.jpg\](/uploads/Craft%20beer.jpg)
+
 It’s no secret that craft beers and ales have had a major resurgence in recent years, and that means that beer festivals are becoming ever more popular.
 
 Of course, London is home to a number of such events and with the long summer evenings stretching ahead, there’s no better time to visit the capital and go to a beer festival. [Londonist](https://londonist.com/london/drink/the-best-beer-festivals-in-london-in-june-2018) has picked out some of the top events coming up in June, including London Brewers Alliance Beer Festival, which showcases the beers produced in London breweries.
