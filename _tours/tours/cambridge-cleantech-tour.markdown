@@ -13,6 +13,7 @@ gallery:
   Image: "/uploads/picture%201.jpg"
   Caption: Venture out of London and into one of the UK's most exciting cities
   Alt: Venture out of London and into one of the UK's most exciting cities
+show_book: false
 thumb: picture%201.jpg
 banner: picture%201.jpg
 layout: tour
