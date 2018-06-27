@@ -10,9 +10,11 @@ description: Venture out of London and into one of the UK's most exciting cities
   is launching a fantastic new programme, exploring the seamless integration of the
   traditional with the cutting-edge, in the beautiful city of Cambridge
 gallery:
-  Image: "/uploads/web_588x378_cambridge@300x.png"
-  Caption: Venture out of London and into one of the UK's most exciting cities
-  Alt: Venture out of London and into one of the UK's most exciting cities
+- image: "/uploads/web_588x378_cambridge@300x.png"
+  caption: Venture out of London and into one of the UK's most exciting cities, with
+    a bespoke day tour of one of the world’s leading tech hubs.
+  alt: Venture out of London and into one of the UK's most exciting cities, with a
+    bespoke day tour of one of the world’s leading tech hubs.
 show_book: false
 thumb: web_588x378_cambridge@300x.png
 banner: web_588x378_cambridge@300x.png
