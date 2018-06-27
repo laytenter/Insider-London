@@ -15,6 +15,8 @@ gallery:
 layout: tour
 ---
 
+![picture%201.jpg](/uploads/picture%201.jpg)
+
 Venture out of London and into one of the UK's most exciting cities, with a bespoke day tour of one of the world’s leading tech hubs. Insider London is launching a fantastic new programme, exploring the seamless integration of the traditional with the cutting-edge, in the beautiful city of Cambridge. From cleantech to architecture – discover how this historic medieval town maintains its status as a world-leading centre for development and innovation.
 
  
@@ -50,7 +52,7 @@ The day will also include a panoramic tour of the **innovative** heart of Cambri
 
 In the afternoon, discover the amazing and diverse architecture of Cambridge city centre with an **Architecture Old & New Walking Tour**. Explore the winding medieval streets and breathtaking historic architecture of Old Cambridge with a passionate local guide. Traverse the scenic centre and gaze at the imposing gothic palaces of the world-famous colleges of Cambridge University. Marvel at the marriage of archaic facades and striking modern masterpieces in the newer developments of this unique city. With the biggest names in modern architectural practice flocking here to leave their mark, fans of contemporary design will not be disappointed. Cambridge boasts work not just by the acclaimed pioneers of the past such as Christopher Wren but also modern “Starchitects” like Foster & Partners. Come and experience how this vibrant city brings together the old and new. 
 
- ![picture%203.jpg](/uploads/picture%203.jpg) 
+![picture%203.jpg](/uploads/picture%203.jpg) 
 
 ## PUNTING ON THE RIVER 
 
