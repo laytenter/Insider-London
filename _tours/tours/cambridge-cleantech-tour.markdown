@@ -8,10 +8,6 @@ description: Venture out of London and into one of the UK's most exciting cities
   with a bespoke day tour of one of the world’s leading tech hubs. Insider London
   is launching a fantastic new programme, exploring the seamless integration of the
   traditional with the cutting-edge, in the beautiful city of Cambridge
-gallery:
-- image: "/uploads/picture%201.jpg"
-  caption: Venture out of London and into one of the UK's most exciting cities
-  alt: Venture out of London and into one of the UK's most exciting cities
 layout: tour
 ---
 
