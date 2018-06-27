@@ -13,6 +13,8 @@ Gallery:
   Image: "/uploads/picture%201.jpg"
   Caption: 
   Alt: 
+thumb: picture%201.jpg
+banner: picture%201.jpg
 layout: tour
 ---
 
