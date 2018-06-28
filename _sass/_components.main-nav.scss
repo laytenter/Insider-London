@@ -65,7 +65,7 @@
     padding: halve($inuit-base-spacing-unit--small) $inuit-base-spacing-unit--small;
   }
 
-  @include media-query(lap-and-up) {
+  @include media-query(desk) {
     display: inline-block;
     border:none;
     padding: $inuit-base-spacing-unit--small $inuit-base-spacing-unit;
@@ -144,7 +144,7 @@
   display: block;
   position: initial;
   padding-left: $inuit-base-spacing-unit;
-  
+
   @include media-query(lap-and-up) {
     text-indent: 0;
     display: none;
