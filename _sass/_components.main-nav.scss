@@ -57,10 +57,9 @@
 .site-nav__link {
   text-decoration: none;
   color: $color-white;
-  padding: $inuit-base-spacing-unit--small $inuit-base-spacing-unit;
+  padding: halve($inuit-base-spacing-unit--small) $inuit-base-spacing-unit;
   display: block;
   text-shadow: 0 1px 0 $color-blue;
-  border-bottom:1px solid $color-white;
 
   @include media-query(lap) {
     padding: halve($inuit-base-spacing-unit--small) $inuit-base-spacing-unit--small;
@@ -69,11 +68,11 @@
   @include media-query(lap-and-up) {
     display: inline-block;
     border:none;
+    padding: $inuit-base-spacing-unit--small $inuit-base-spacing-unit;
   }
 
   @include attention() {
 
-    border-color: $color-blue;
     color: $color-white;
 
     @include media-query(lap-and-up) {
@@ -140,12 +139,12 @@
 
 .sub-menu {
   list-style-type: none;
-  text-indent: $inuit-base-spacing-unit;
   width: auto;
   background: initial;
   display: block;
   position: initial;
-
+  padding-left: $inuit-base-spacing-unit;
+  
   @include media-query(lap-and-up) {
     text-indent: 0;
     display: none;
@@ -155,7 +154,6 @@
     padding: 0;
     position: absolute;
     z-index: 1;
-    box-shadow: 0 5px 4px rgba(0,0,0,.1);
     border-top: $color-brand 3px solid;
   }
 }
@@ -204,4 +202,6 @@
   height: auto;
   background-color: $color-brand;
   text-align:left;
+  border-bottom: $color-blue 3px solid;
+
 }
