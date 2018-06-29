@@ -26,8 +26,8 @@ gulp.task('build:styles:critical', function () {
     return gulp.src('./assets/css/main.css')
         .pipe(criticalCss({
             out: 'critical.css',
-            url: 'http://dev.insider-london.co.uk',
-            width: 720,
+            url: 'http://dev.insider-london.co.uk/tours',
+            width: 1060,
             height: 1024,
             strict: true,
             userAgent: 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'

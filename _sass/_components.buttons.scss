@@ -9,11 +9,18 @@
 }
 
 .btn--red {
+
   background-color: $color-brand;
   color: $color-white;
   border-color: darken($color-brand,5%);
+  
+  @include inuit-font-size(12px);
 
-  @include attention() {
+  @include media-query(lap-and-up) {
+    font-size: initial;
+  }
+  @include attention()
+  {
       background-color: $color-blue;
           border-color: $color-blue;
           color: $color-white;
