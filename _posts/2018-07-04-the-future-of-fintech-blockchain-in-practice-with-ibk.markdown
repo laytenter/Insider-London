@@ -16,14 +16,14 @@ layout: post
 ---
 
 
-
+![DgTPrqdUYAIXlIr.jpg](/uploads/DgTPrqdUYAIXlIr.jpg) 
  
 
 On the 20th June, we had the great pleasure of co-hosting a Fintech For The Future conference, organised for the Industrial Bank of Korea. Hosted by [Wayra](https://wayra.co.uk/), the vibrant start-up accelerator programme by the Telefonica Group, this was a fast-paced day with an eye on the future. Four entrepreneurs presented their exciting start-ups with each focusing on the practical application of the latest technology to meet the challenges of the twenty-first century.  
 
  
 
-![DgTPrqdUYAIXlIr.jpg](/uploads/DgTPrqdUYAIXlIr.jpg) 
+
 
  
 
