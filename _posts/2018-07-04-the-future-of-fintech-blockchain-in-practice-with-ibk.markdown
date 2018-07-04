@@ -2,7 +2,6 @@
 title: The Future of Fintech – Blockchain in Practice with IBK
 date: 2018-07-04 13:09:00 Z
 permalink: "/the-future-of-fintech-blockchain-in-practice-with-ibk/"
-published: false
 tags:
 - business visits
 - blockchain
@@ -48,7 +47,7 @@ Phil Barry, former professional musician and co-creator of the world's first blo
 
  
 
-![IMG_0790.jpg](/uploads/IMG_0790.jpg)
+![img5555@300x.png](/uploads/img5555@300x.png)
 
  
 
