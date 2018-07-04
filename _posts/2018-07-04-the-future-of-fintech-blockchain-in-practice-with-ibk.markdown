@@ -38,7 +38,7 @@ Next up Giselle Frederick, co-founder and CEO of [Zingr](https://www.zingr.io/),
 
  
 
-![IMG_0781.jpg](/uploads/IMG_0781.jpg)
+![img2222@300x.png](/uploads/img2222@300x.png)
 
  
 
