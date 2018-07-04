@@ -3,10 +3,14 @@ title: The Future of Fintech – Blockchain in Practice with IBK
 date: 2018-07-04 13:09:00 Z
 permalink: "/the-future-of-fintech-blockchain-in-practice-with-ibk/"
 published: false
+tags:
+- business visits
+- blockchain
+- fintech
 layout: post
 ---
 
-## The Future of Fintech – Blockchain in Practice with IBK 
+
 
  
 
