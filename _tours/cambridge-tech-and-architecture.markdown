@@ -1,9 +1,9 @@
 ---
-title: Cambridge Cleantech Tour
+title: Cambridge Tech and Architecture
 date: 2018-06-26 12:56:00 Z
 categories:
 - educational
-heading: Cambridge Cleantech Tour
+heading: Cambridge Tech and Architecture
 description: Venture out of London and into one of the UK's most exciting cities,
   with a bespoke day tour of one of the world’s leading tech hubs. Insider London
   is launching a fantastic new programme, exploring the seamless integration of the
