@@ -1,9 +1,9 @@
 ---
-title: Cambridge Tech and Architecture
+title: Cambridge Tech & Architecture Tour
 date: 2018-06-26 12:56:00 Z
 categories:
 - educational
-heading: Cambridge Tech and Architecture
+heading: Cambridge Tech & Architecture Tour
 description: Venture out of London and into one of the UK's most exciting cities,
   with a bespoke day tour of one of the world’s leading tech hubs. Insider London
   is launching a fantastic new programme, exploring the seamless integration of the
