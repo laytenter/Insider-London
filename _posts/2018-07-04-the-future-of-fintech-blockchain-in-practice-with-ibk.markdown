@@ -32,7 +32,7 @@ First to present was Viacheslav Oganezov, CEO of [Finverity](http://finverity.co
 
  
 
-![IMG_0779.jpg](/uploads/IMG_0779.jpg)
+![img3052@300x-100.jpg](/uploads/img3052@300x-100.jpg)
 
 Next up Giselle Frederick, co-founder and CEO of [Zingr](https://www.zingr.io/), took to the stage to present this exciting new platform launching in the Caribbean. Empowering frontier markets through digital payments, Frederick explained how the region is largely unbanked with up to 70% of all transactions relying on cash payments. Zingr provides a free-to-use app based solution featuring frictionless payments as well as anti-laundering protection embedded in the algorithm.  
 
