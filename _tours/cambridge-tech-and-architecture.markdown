@@ -41,6 +41,8 @@ Cambridge Cleantech is a vibrant hub at the heart of **one of Europe's fastest g
   
 
 A proud member of the organisation will lead a tour of their headquarters at the Future Business Centre – an independent, not-for-profit hub dedicated to supporting ventures for social change. Following the tour, Cleantech will present a fascinating talk, explaining and analysing the “**Growth of the Cambridge High Tech Cluster**”, as well as the specific actions being taken by Cleantech to promote sustainability. Come and experience the rapidly-growing cleantech movement, with a local expert on hand to provide unique business insight.  
+
+
 ![Cambridge%202.jpg](/uploads/Cambridge%202.jpg)
 
 ## INNOVATION TOUR
@@ -55,7 +57,8 @@ The day will also include a panoramic tour of the **innovative** heart of Cambri
 
  
 
-In the afternoon, discover the amazing and diverse architecture of Cambridge city centre with an **Architecture Old & New Walking Tour**. Explore the winding medieval streets and breathtaking historic architecture of Old Cambridge with a passionate local guide. Traverse the scenic centre and gaze at the imposing gothic palaces of the world-famous colleges of Cambridge University. Marvel at the marriage of archaic facades and striking modern masterpieces in the newer developments of this unique city. With the biggest names in modern architectural practice flocking here to leave their mark, fans of contemporary design will not be disappointed. Cambridge boasts work not just by the acclaimed pioneers of the past such as Christopher Wren but also modern “Starchitects” like Foster & Partners. Come and experience how this vibrant city brings together the old and new. 
+In the afternoon, discover the amazing and diverse architecture of Cambridge city centre with an **Architecture Old & New Walking Tour**. Explore the winding medieval streets and breathtaking historic architecture of Old Cambridge with a passionate local guide. Traverse the scenic centre and gaze at the imposing gothic palaces of the world-famous colleges of Cambridge University. Marvel at the marriage of archaic facades and striking modern masterpieces in the newer developments of this unique city. With the biggest names in modern architectural practice flocking here to leave their mark, fans of contemporary design will not be disappointed. Cambridge boasts work not just by the acclaimed pioneers of the past such as Christopher Wren but also modern “Starchitects” like Foster & Partners. Come and experience how this vibrant city brings together the old and new.
+
 
 ![picture%203.jpg](/uploads/picture%203.jpg) 
 
