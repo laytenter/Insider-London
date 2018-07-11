@@ -57,6 +57,6 @@ Time to get wild in the trendy boxpark. With emotions guaranteed in every match,
 
 ## 5.[Bar and Co](http://www.barandcompany.com/) 
 
-![BARCO.jpg](/uploads/BARCO.jpg)
+![barco.png](/uploads/barco.png)
 
 Get nautical and enjoy scenic riverside views of the most iconic London landmarks. Celebrate the World Cup aboard this beautiful barge-turned-bar, enjoy a summer BBQ on deck and dance away the night with the hottest DJ's on this party boat like no other. 
