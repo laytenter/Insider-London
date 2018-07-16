@@ -13,9 +13,6 @@
 - name: Bob
   image: /assets/images/Bob-240x240.jpg
   description: <p>Bob has lived in London for over 40 years, and came to tour guiding through his love of London as a 'walking city second to none' and his great enthusiasm for discovering the inexhaustible richness of the capital's hidden corners. Bob has an academic and literature background, extensive teaching experience in London schools, a former Head of Sixth Form, a keen interest in exploring and communicating the city's literary heritage.</p>
-- name: Eden
-  image: /assets/images/Eden 240x240.jpg
-  description: <p>Eden studied History of Art at L'Universite Michel de Montaigne, Bordeaux, as well as Anthropology and French as an undergrad in London. She loves London's Street Art, and sees it as an exciting democratic platform for artistic expression. She is also interested in sustainability, having done academic research on modern eco-villages, and having volunteered with several green NGOs and touring sustainable communities. </p><p>On her return to London from France, she has become an enthusiastic tour guide about all things quirky, artistic and sustainable. </p>
 - name: Francis
   image: /uploads/Francis-Mullan-240x240.jpg
   description: <p>Francis has lived and worked in London all his working life. After 30 exciting years as a London Metropolitan Police Officer, Francis further challenged himself and qualified as a 'City of London Tour Guide'.</p><p>With his crime busting experiences in the 'East End' of London, as well as a deep understanding of London and especially the City itself, its people, diversity, infrastructure and transport systems, you can be sure you are in safe, entertaining and knowledgeable hands.</p>
