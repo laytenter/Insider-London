@@ -183,8 +183,10 @@
   position: relative;
   background-color: transparent;
   background-image: none;
-  border: none;
-  padding: $inuit-base-spacing-unit--small;
+  border: 1px solid;
+  font-weight: bold;
+  padding: halve($inuit-base-spacing-unit--tiny) $inuit-base-spacing-unit--small;
+  border-radius: halve($inuit-base-spacing-unit--tiny);
 }
 .menu-toggle__icon--bar {
   background-color: $color-white;
