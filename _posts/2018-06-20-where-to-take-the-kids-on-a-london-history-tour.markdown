@@ -18,11 +18,11 @@ It is never too early to get your children interested in history, and London is 
 
  
 
-## National History Museum 
+## Natural History Museum 
 
  
 
-The [National History Museum](http://www.nhm.ac.uk) is literally bursting with exciting things for children to see and do. Whether your youngsters are in to dinosaurs, space, nature, biology or history, you’ll find plenty of attractions and exhibits here.  
+The [Natural History Museum](http://www.nhm.ac.uk) is literally bursting with exciting things for children to see and do. Whether your youngsters are in to dinosaurs, space, nature, biology or history, you’ll find plenty of attractions and exhibits here.  
 
  
 
