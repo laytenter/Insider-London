@@ -13,11 +13,11 @@ layout: post
 ---
 
 ![bigstock--192251290.jpg](/uploads/bigstock--192251290.jpg)
-Harry Potter’s influence in popular culture has captivated audiences across the world. JK Rowling’s stories about the boy wizard have had a lasting impact on thousands of people - if not millions - not to mention how some will immediately associate as an important part of British culture. If you’re visiting London, history tours will no doubt put a focus on the popular franchise. 
+Harry Potter’s influence in popular culture has captivated audiences across the world. JK Rowling’s stories about the boy wizard have had a lasting impact on thousands of people - if not millions - not to mention how some will immediately associate as an important part of British culture. If you’re visiting London, history tours will no doubt put a [focus on the popular franchise](https://www.insider-london.co.uk/tours/famous-ghosts-and-infamous-murders/). 
 
  
 
-You might find Pottermania is bigger than expected. In fact, Detroit Free Press reported on a Harry Potter tribute band, Tonks and the Aurors, coming to play music in the UK. That’s right, the franchise even has its own tribute band. 
+You might find Pottermania is bigger than expected. In fact, {Detroit Free Press](https://eu.freep.com/story/news/local/michigan/oakland/2018/07/23/wizard-rock-harry-potter/807402002/) reported on a Harry Potter tribute band, Tonks and the Aurors, coming to play music in the UK. That’s right, the franchise even has its own tribute band. 
 
  
 
