@@ -17,7 +17,7 @@ Harry Potter’s influence in popular culture has captivated audiences across th
 
  
 
-You might find Pottermania is bigger than expected. In fact, {Detroit Free Press](https://eu.freep.com/story/news/local/michigan/oakland/2018/07/23/wizard-rock-harry-potter/807402002/) reported on a Harry Potter tribute band, Tonks and the Aurors, coming to play music in the UK. That’s right, the franchise even has its own tribute band. 
+You might find Pottermania is bigger than expected. In fact, [Detroit Free Press](https://eu.freep.com/story/news/local/michigan/oakland/2018/07/23/wizard-rock-harry-potter/807402002/) reported on a Harry Potter tribute band, Tonks and the Aurors, coming to play music in the UK. That’s right, the franchise even has its own tribute band. 
 
  
 
