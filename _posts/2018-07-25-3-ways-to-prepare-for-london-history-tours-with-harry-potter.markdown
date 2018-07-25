@@ -25,7 +25,7 @@ Here are some awesome ways to become invested in Harry Potter.
 
  
 
-## Trivial Pursuit Harry Potter 
+## [Trivial Pursuit Harry Potter](https://www.harrypotterplatform934.com/collections/best-sellers/products/harry-potter-trivial-pursuit) 
 
  
 
