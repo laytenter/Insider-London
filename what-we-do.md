@@ -15,12 +15,21 @@ layout: page
 
 ## Business Visits & Workshops
 
-<p>If you are looking for industry insight and inspiration – look no further than an In-Depth Business Visit (link). With exclusive access to blue chip multi-nationals as well as the most visionary entrepreneurs, this is an opportunity to delve deep into the inside workings of your chosen company. Enjoy our extensive range of current partnerships and get in touch to find the perfect visit for you at contact@insider-london.co.uk </p>
+<p>If you are looking for industry insight and inspiration – look no further than an [In-Depth Business Visits]([https://www.insider-london.co.uk/tours/in-depth-business-tour/). With exclusive access to blue chip multi-nationals as well as the most visionary entrepreneurs, this is an opportunity to delve deep into the inside workings of your chosen company. Enjoy our extensive range of current partnerships and get in touch to find the perfect visit for you at <a href="mailto:contact@insider-london.co.uk">contact@insider-london.co.uk</a> </p>
 
 
 <p>Enjoyed by academic groups and professional delegates from around the world, Insider London's bespoke workshops are led by top industry professionals and created individually for the specific needs and requirements of the group. Popular topics include Defining Leadership, led by a top City financier, and Fintech for the Future – an innovative conference featuring the capital's most exciting blockchain start-ups.</p>
 
-<p>Our educational guided tours are perfect for corporate events or student groups. These unique tours include an exploration of East London’s Tech hub at Silicon Roundabout and an introduction to London’s coolest modern architecture. If you're keen to discover more about London's dynamic financial and business centre, check out our original in-depth business experience and finance tour based in the bustling City of London. Insider London’s in-depth business visits are incredibly popular, especially among student groups, and involve a behind-the-scenes visit to one of London’s fascinating businesses to hear from the senior management about how the company works.</p>
+## Educational Tours
+
+
+<p>Available for private booking only, our educational walking tours are a fun and fascinating exploration of London business, culture and history. From [Retail Design](/tours/retail-design/) to [Finance](/tours/london-finance-walking-tour/),  from [Modern Architecture](/tours/modern-architecture-tour/) to [Sustainability](/tours/cutting-edge-green-tour/), our educational tours are the perfect practical learning experience to get your group out of the office or classroom and get the creative juices flowing. </p>
+
+
+<p> Know a youngster pursuing a career in finance? Our [City finance](/tours/london-finance-walking-tour/) tour provides a vibrant introduction to the world's financial hub. </p>
+
+
+<p>Why not think outside of the box for that special occasion? A private educational tour provides an unforgettable birthday present, as well as the occasional sophisticated hen party!</p>
 
 <div>
 <h2>Bespoke and Tailored Walking Tours</h2>
