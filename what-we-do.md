@@ -10,9 +10,14 @@ heading: What We Do
 layout: page
 ---
 
-## Alternative Walking Tours and Unique Educational Tours
+<p>Insider London offers a wide variety of alternative and unusual activities designed to provide unique insight into this global city and beyond. Discover the secrets behind London streets with our one-of-a-kind walking tours, or gain rich industry insight from visits to the most innovative companies, and bespoke workshops led by industry experts. Read on to find out about our ![https://www.insider-london.co.uk/tours/in-depth-business-tour/](In-Depth Business Visits), ![https://www.insider-london.co.uk/tours/in-depth-business-tour/](Workshops), ![https://www.insider-london.co.uk/tours/educational-walking-tours/](Educational Tours),​and ![https://www.insider-london.co.uk/tours/historical-walking-tours/](Historical Tours)</p>
 
-<p style="text-align: justify"> <img src="/uploads/2017_COE_Logos_API_178x180_en-US-UK.jpg" alt="Trip Advisor Certificate of Excellence 2017" style="float: right; padding-left: 1em; padding-bottom: 1em"> Insider London offers a medley of alternative and unusual walking tours around the city. For culture-seekers, our Street Art Tour covers a wonderful collection of murals and street art in East London while our historical guided tours delve into the history of drinking, gangs, and debauchery in the capital. We also created the original London Underground tour, ideal for digging out the fascinating past of this 150-year-old British institution. If you're searching for the ultimate shopping experience, our one-of-a-kind retail tour is the ultimate introduction to London’s most opulent and innovative shopping outlets.</p>
+## Business Visits & Workshops
+
+<p>If you are looking for industry insight and inspiration – look no further than an In-Depth Business Visit (link). With exclusive access to blue chip multi-nationals as well as the most visionary entrepreneurs, this is an opportunity to delve deep into the inside workings of your chosen company. Enjoy our extensive range of current partnerships and get in touch to find the perfect visit for you at contact@insider-london.co.uk </p>
+
+
+<p>Enjoyed by academic groups and professional delegates from around the world, Insider London's bespoke workshops are led by top industry professionals and created individually for the specific needs and requirements of the group. Popular topics include Defining Leadership, led by a top City financier, and Fintech for the Future – an innovative conference featuring the capital's most exciting blockchain start-ups.</p>
 
 <p>Our educational guided tours are perfect for corporate events or student groups. These unique tours include an exploration of East London’s Tech hub at Silicon Roundabout and an introduction to London’s coolest modern architecture. If you're keen to discover more about London's dynamic financial and business centre, check out our original in-depth business experience and finance tour based in the bustling City of London. Insider London’s in-depth business visits are incredibly popular, especially among student groups, and involve a behind-the-scenes visit to one of London’s fascinating businesses to hear from the senior management about how the company works.</p>
 
