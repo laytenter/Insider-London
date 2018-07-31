@@ -10,8 +10,8 @@ heading: What We Do
 layout: page
 ---
 
-<p>Insider London offers a wide variety of alternative and unusual activities designed to provide unique insight into this global city and beyond. Discover the secrets behind London streets with our one-of-a-kind walking tours, or gain rich industry insight from visits to the most innovative companies, and bespoke workshops led by industry experts. Read on to find out about our [In-Depth Business Visits](https://www.insider-london.co.uk/tours/in-depth-business-tour/), 
-[Workshops](https://www.insider-london.co.uk/tours/in-depth-business-tour/), [Educational Tours](https://www.insider-london.co.uk/tours/educational-walking-tours/),​and [Historical Tours](https://www.insider-london.co.uk/tours/historical-walking-tours/)</p>
+Insider London offers a wide variety of alternative and unusual activities designed to provide unique insight into this global city and beyond. Discover the secrets behind London's streets with our one-of-a-kind walking tours, or gain rich industry insight from visits to the most innovative companies, and bespoke workshops led by industry experts. Read on to find out about our [In-Depth Business Visits](https://www.insider-london.co.uk/tours/in-depth-business-tour/), 
+[Workshops](https://www.insider-london.co.uk/tours/in-depth-business-tour/), [Educational Tours](https://www.insider-london.co.uk/tours/educational-walking-tours/),​and [Historical Tours](https://www.insider-london.co.uk/tours/historical-walking-tours/)
 
 ## Business Visits & Workshops
 
