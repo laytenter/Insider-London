@@ -40,6 +40,8 @@ Mostly from Hong-Kong, a former british colony until 1997, a vibrant Chinese com
 
 [CHINATOWN BAKERY](https://chinatown.co.uk/en/restaurant/chinatown-bakery/)
 
+![DSC_0024.jpg](/uploads/DSC_0024.jpg)
+
 At the front of this cosy bakery, a curious machine is cooking fish... Indeed, Chinatown bakery offers delicious fish-shaped waffles - 4 for only £2. Inside, a large range of sweet but also salted cakes are on offer to satisy all tastes. From pork buns to black sesame rolls or moon cakes, everything is priced affordably with snacks from £1.30!
 
 
