@@ -35,7 +35,7 @@ London now benefits from the most diverse and exciting menu of the twenty-first 
 
 Mostly from Hong-Kong, a former british colony until 1997, a vibrant Chinese community came to settle in Central London, particularly in colourful Soho. Due to its cheap rent, a community gathered at Gerard street and began building up today's bustling streets . With British soldiers' nostalgia of Far Eastern food, [Chinatown](https://chinatown.co.uk/en/about-us/) was born!
 
-# [CHINATOWN BAKERY](https://chinatown.co.uk/en/restaurant/chinatown-bakery/)
+### [CHINATOWN BAKERY](https://chinatown.co.uk/en/restaurant/chinatown-bakery/)
 
 
 
@@ -51,7 +51,7 @@ At the front of this cosy bakery, a curious machine is cooking fish... Indeed, C
 During the second half of the twentieth century, [three waves of migration](http://www.bbc.co.uk/london/content/articles/2005/05/26/turkish_london_feature.shtml) motivated by political events such as the Cyprus conflict of 1974 led to the departure of a large number of turkish citizens. Today, over 90,000 turkish people live in London.
 
 
-# [Tas The Cut](https://www.tasrestaurants.co.uk/tas-the-cut)
+### [Tas The Cut](https://www.tasrestaurants.co.uk/tas-the-cut)
 
 
 
@@ -70,7 +70,7 @@ Surrounded by beautiful decorations, a meal here is a picturesque immersion into
 Since Poland joined the EU in 2004, Polish migrants have flocked to the UK, overtaking Indian migration to become the largest migrant ethnic group with over 950,000 Polish citizens living in the UK in 2016 and 177,000 living in London. And now their glorious Polish cuisine has graces the streets of London  
 
 
-# [Mamuśka!](https://mamuska.net) 
+### [Mamuśka!](https://mamuska.net) 
 
 
 
@@ -85,7 +85,7 @@ Perfect for feasting on a shoe-string, every meal is prepared in less than 10 mi
 At the end of the seventeenth century, the first organised [flow of Greek migrants](http://www.bbc.co.uk/london/content/articles/2005/05/27/greek_london_feature.shtml) arrived in the capital city for political and religious reasons.They built a small community in the district of Soho and started in the twenties and thirties, opening cafes and restaurants.
 
 
-# [The Athenian](https://www.theathenian.co.uk)
+### [The Athenian](https://www.theathenian.co.uk)
 
 
 
@@ -100,7 +100,7 @@ London's second largest foreign community, Indian citizes were given the right t
 
 
 
-# [Masala zone](http://www.masalazone.com/locations/covent-garden/)
+### [Masala zone](http://www.masalazone.com/locations/covent-garden/)
 
 
 
