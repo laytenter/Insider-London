@@ -54,6 +54,7 @@ During the second half of the twentieth century, [three waves of migration](http
 
 
 [Tas The Cut](https://www.tasrestaurants.co.uk/tas-the-cut)
+![DSC_0009.jpg](/uploads/DSC_0009.jpg)
 
 
 Surrounded by beautiful decorations, a meal here is a picturesque immersion into Turkish materiel culture. Home-made turkish-bread is served with all set meals – and prices start at £12.95. Grab a meze, hot or cold, and experience their vast selection of specialities.
@@ -69,7 +70,9 @@ Surrounded by beautiful decorations, a meal here is a picturesque immersion into
 
 Since Poland joined the EU in 2004, Polish migrants have flocked to the UK, overtaking Indian migration to become the largest migrant ethnic group with over 950,000 Polish citizens living in the UK in 2016 and 177,000 living in London. And now their glorious Polish cuisine has graces the streets of London  
 
+
 [Mamuśka!](https://mamuska.net) 
+![DSC_0309.jpg](/uploads/DSC_0309.jpg)
 
 
 Perfect for feasting on a shoe-string, every meal is prepared in less than 10 minutes! Special lunch deals during the week offer starters or soup for £3 and main courses for just £5. Think big portions for small prices - and you will still have plenty of change left to sample their large range of beers and flavored vodkas.
@@ -84,6 +87,7 @@ At the end of the seventeenth century, the first organised [flow of Greek migran
 
 
 [The Athenian](https://www.theathenian.co.uk)
+![DSC_0188.jpg](/uploads/DSC_0188.jpg)
 
 
 You've never been to Athens ? Then try the souvlakis-pita wrap with grilled meat. This is a Greek favourite to eat in a hurry. More fresh and healthy than traditional fast-food and with a price tag of £5.50 – this is the place to go on your lunch hour. Sign up to their newsletter and enjoy free events including tasting sessions of their delicious homemade loukoumade with chocolate or honey sauce.
@@ -98,6 +102,7 @@ London's second largest foreign community, Indian citizes were given the right t
 
 
 [Masala zone](http://www.masalazone.com/locations/covent-garden/)
+![DSC_0056.jpg](/uploads/DSC_0056.jpg)
 
 
 Heading to the theatre but want to avoid the pub crowds? Check out this newly-renoved restaurant serving traditional indian food for reasonable prices. Watch the Ragasthani puppets dangling from the colourful ceiling as you feast on a Thali.
