@@ -7,9 +7,6 @@ heading: 'GASTRONOMIC TOUR IN LONDON, A COSMOPOLITAN CITY '
 layout: post
 ---
 
-## GASTRONOMIC TOUR IN LONDON, A COSMOPOLITAN CITY 
-
-
 When your belly starts to rumble... the question on every Londoner's mind is: where to eat now?
 
 Our much-loved capital offers the widest variety of cuisine on the planet. Have you tried some our cosmopolitan favourites?
