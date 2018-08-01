@@ -24,7 +24,7 @@ London has always experienced waves of migration right from her earliest period 
 To name just one example, Huguenots fleeing France [found refuge in London](https://www.independent.co.uk/news/uk/home-news/refugee-week-the-huguenots-count-among-the-most-successful-of-britains-immigrants-10330066.html) and set up shop in the City Fringes. Along with the Jewish community, these expert silk traders transformed the economy of this area which became known as “weaver town” and grew into a [booming textile hub.](http://www.bbc.co.uk/legacies/immig_emig/england/london/article_1.shtml)
 
 
-Post-second world war, the Empire Windrush brought workers from Jamaica, Trinidad, Tobago and other Carribean islands to [rebuild a devasted city](https://www.bbc.co.uk/newsround/43793769). Their legacy lives in not just in the infrastructure of the capital but through Nottinghill Carnival, a proud disaplay of [colourful multi-culturalism] (https://ndla.no/en/node/90712?fag=71082).
+Post-second world war, the Empire Windrush brought workers from Jamaica, Trinidad, Tobago and other Carribean islands to [rebuild a devasted city](https://www.bbc.co.uk/newsround/43793769). Their legacy lives in not just in the infrastructure of the capital but through Nottinghill Carnival, a proud disaplay of [colourful multi-culturalism](https://ndla.no/en/node/90712?fag=71082).
 
 
 
