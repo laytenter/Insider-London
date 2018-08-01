@@ -8,6 +8,7 @@ layout: post
 ---
 
 ![27923147416_3689594349_b.jpg](/uploads/27923147416_3689594349_b.jpg)
+
 When your belly starts to rumble... the question on every Londoner's mind is: where to eat now?
 
 Our much-loved capital offers the widest variety of cuisine on the planet. Have you tried some our cosmopolitan favourites?
@@ -41,6 +42,7 @@ Mostly from Hong-Kong, a former british colony until 1997, a vibrant Chinese com
 
 
 At the front of this cosy bakery, a curious machine is cooking fish... Indeed, Chinatown bakery offers delicious fish-shaped waffles - 4 for only £2. Inside, a large range of sweet but also salted cakes are on offer to satisy all tastes. From pork buns to black sesame rolls or moon cakes, everything is priced affordably with snacks from £1.30!
+
 ![DSC_0024.jpg](/uploads/DSC_0024.jpg)
 
 
@@ -57,6 +59,7 @@ During the second half of the twentieth century, [three waves of migration](http
 
 
 Surrounded by beautiful decorations, a meal here is a picturesque immersion into Turkish materiel culture. Home-made turkish-bread is served with all set meals – and prices start at £12.95. Grab a meze, hot or cold, and experience their vast selection of specialities.
+
 ![DSC_0009.jpg](/uploads/DSC_0009.jpg)
 
 
@@ -76,6 +79,7 @@ Since Poland joined the EU in 2004, Polish migrants have flocked to the UK, over
 
 
 Perfect for feasting on a shoe-string, every meal is prepared in less than 10 minutes! Special lunch deals during the week offer starters or soup for £3 and main courses for just £5. Think big portions for small prices - and you will still have plenty of change left to sample their large range of beers and flavored vodkas.
+
 ![DSC_0309.jpg](/uploads/DSC_0309.jpg)
 
 
@@ -91,6 +95,7 @@ At the end of the seventeenth century, the first organised [flow of Greek migran
 
 
 You've never been to Athens ? Then try the souvlakis-pita wrap with grilled meat. This is a Greek favourite to eat in a hurry. More fresh and healthy than traditional fast-food and with a price tag of £5.50 – this is the place to go on your lunch hour. Sign up to their newsletter and enjoy free events including tasting sessions of their delicious homemade loukoumade with chocolate or honey sauce.
+
 ![DSC_0188.jpg](/uploads/DSC_0188.jpg)
 
 
@@ -106,4 +111,5 @@ London's second largest foreign community, Indian citizes were given the right t
 
 
 Heading to the theatre but want to avoid the pub crowds? Check out this newly-renoved restaurant serving traditional indian food for reasonable prices. Watch the Ragasthani puppets dangling from the colourful ceiling as you feast on a Thali.
+
 ![DSC_0056.jpg](/uploads/DSC_0056.jpg)
