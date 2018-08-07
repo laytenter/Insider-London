@@ -1,0 +1,33 @@
+- name: Amelia
+  image: /assets/images/Amelia-240x240.jpg
+  description: <p>Amelia is the tour guide for our Silicon Roundabout/Tech City Tour, London Finance Walking Tour and all our Green Tours, bringing her knowledge and experience of London life to a wider audience. She has an extensive background in the environmental sector and holds a BSc in Environmental Biology and an MSc in Environmental Technology from Imperial College London. Her career has seen her work in communities in East London as well as teaching in schools in Shenyang and Shanghai before becoming the youngest deputy leader of any UK political party as Deputy Leader of the Green Party of England and Wales.</p>
+- name: Andy
+  image: /assets/images/Andy-240x240.jpg
+  description: <p>Andy is an enthusiast for London and loves telling others about the city. He has a particular interest in the built environment and also, as an ex-banker, he enjoys de-mystifying the arcane world of Finance in the City of London. His aim is to provide a mix of education, information and entertainment and will always endeavour to fit any tour to his clients’ needs. He is a qualified Green Badge Guide for the City.</p>
+- name: Ans
+  image: /assets/images/Ans 240x240.jpg
+  description: <p>Ans is a Dutch Guide living in London since 2013. She is a qualified City of London and City of Westminster Guide. After moving to London she started exploring the city and was amazed by what she discovered. There are so many stories to tell and she loves sharing them with you.</p> <p>She travels the city by foot but also in the Dutch fashion on her bike. Her favourite tours are educational tours in the City and East London, like the Finance or the Silicon Roundabout tour.</p>
+- name: David
+  image: /assets/images/david 240x240.jpg
+  description: <p>David is a qualified Westminster Tour Guide and also a volunteer guide in Westminster Abbey. Having worked in London his entire life, David formerly served in the Metropolitan police force for 30 years and now alongside guiding, he teaches first aid, fire safety and personal safety for a well-known charity.  He has an unfortunate affliction of being a West Ham supporter and has only missed two home matches in fifteen years - but don't hold that against him!</p>
+- name: Bob
+  image: /assets/images/Bob-240x240.jpg
+  description: <p>Bob has lived in London for over 40 years, and came to tour guiding through his love of London as a 'walking city second to none' and his great enthusiasm for discovering the inexhaustible richness of the capital's hidden corners. Bob has an academic and literature background, extensive teaching experience in London schools, a former Head of Sixth Form, a keen interest in exploring and communicating the city's literary heritage.</p>
+- name: Francis
+  image: /uploads/Francis-Mullan-240x240.jpg
+  description: <p>Francis has lived and worked in London all his working life. After 30 exciting years as a London Metropolitan Police Officer, Francis further challenged himself and qualified as a 'City of London Tour Guide'.</p><p>With his crime busting experiences in the 'East End' of London, as well as a deep understanding of London and especially the City itself, its people, diversity, infrastructure and transport systems, you can be sure you are in safe, entertaining and knowledgeable hands.</p>
+- name: Jess
+  image: /uploads/jess-240x240.png
+  description: <p>Jess loves wandering around the city, and discovering amazing facts about places, people, and the things they get up to. Born in London, he feels deeply connected to those that have lived here and defined its destiny.  In the past, Jess has taught English in China, made a number of short films, lectured at Roehampton University and performed onstage as part of London’s live storytelling scene.</p><p>He has been a tour guide since 2011, and has constantly expanded knowledge and repertoire.  For Insider London he leads, among others, the Cutting Edge Green, History of Drinking & Pubs, Famous Ghosts and Infamous Murders Tours.</p>
+- name: Julia
+  image: /assets/images/julia-240x240.jpg
+  description: <p>Julia is a qualified City of London and City of Westminster Guide. A native Austrian, she made London her home more than 10 years ago and still finds it exciting to explore, question and dig just that little bit deeper. Sometimes she even finds a geocache while out and about!</p><p>Her favourite tour to lead for Insider London are the Retail Design tour and Modern Architecture Tour.</p>
+- name: Michelle
+  image: /assets/images/Michelle picture-240x240.jpg
+  description: <p>Driven by a keen interest in history, especially London history, Michelle works as a tour guide for Insider London alongside her work as a professional dancer. From the city's earliest beginnings to modern day London, Michelle enjoys focusing on the history of the London Underground, Georgian London and the areas of St. James's and Piccadilly. Her tours have been featured on television, in magazines and blogs. Michelle is currently working on completing her City of Westminster badge, which will develop her knowledge to further delve into the royal and political past of London.</p>
+- name: Richard
+  image: /assets/images/Richard 240x240.jpg
+  description: <p>Born and bred in London, Richard is very proud and passionate about his city. Working with The Post Office for 25 years, his expertise ranges many subject including financial services. He studied acting for two years at The Questors Theatre in London, and has appeared in many of their productions, as a film extra and as supporting artist from time to time. His unique storytelling style enables him to bring to life London's rich and varied history.</p>
+- name: Stephen
+  image: /uploads/StephenSenior240x240.png
+  description: <p>Stephen is an architectural historian and former conservation advisor with English Heritage/Historic England, who has a great enthusiasm for our historic built environment and how it is evolving. In this respect he has a particular interest in contemporary city development, and brings this enthusiasm to all his tours for Insider London</p>
