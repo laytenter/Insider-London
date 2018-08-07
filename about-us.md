@@ -11,4 +11,4 @@ layout: page
 
 Insider London has an extensive track record of providing award-winning tours and visits for a wide range of clients. Find out more about [what we do](/what-we-do/)
 
-[insider%20logo%20board.png](/uploads/insider%20logo%20board.png)
+![insider%20logo%20board.png](/uploads/insider%20logo%20board.png)
