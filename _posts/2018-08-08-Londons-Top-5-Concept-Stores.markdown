@@ -35,8 +35,7 @@ Having teamed up with the iconic artesan, Pierre Hermes, exclusive macaroons are
 
  
 
-## 2. [The Shop at Bluebird](https://theshopatbluebird.com)
- Carriage Hall, 29 Floral Street, London WC2E 9DP  
+## 2. [The Shop at Bluebird](https://theshopatbluebird.com) Carriage Hall, 29 Floral Street, London WC2E 9DP  
 
  
 
@@ -60,8 +59,7 @@ Take careful note of the edgy modern art installations set against the original 
 
  
 
-## 3. [Nike Lab](https://www.nike.com/gb/en_gb/c/nikelab) 
-477-478 Bateman's Row Rd, London EC2A 3HH  
+## 3. [Nike Lab](https://www.nike.com/gb/en_gb/c/nikelab) 477-478 Bateman's Row Rd, London EC2A 3HH  
 
  
 Hidden away in the Shoreditch backstreets is the exclusive Nike Labs – one of only six locations, world-wide. This futuristic boutique, under the re-purposed railway arches of Bateman Row, houses a carefully curated selection of the most cutting-edge Nike special editions and collaborations. With the floor made from recycled trainer rubber under the [Nike Grind](https://www.nike.com/gb/en_gb/c/innovation/grind) initiative, and disused disk drives making up the display structures, this is unlike any Nike store you've ever seen, and has been voted [“The Coolest Shop in Shoreditch”](https://www.gq-magazine.co.uk/article/nike-lab-shoreditch-opening)) 
@@ -82,8 +80,7 @@ For that one-of-a-kind purchase, head upstairs to meet the Nike designers, and c
 
  
 
-## 4. [House of Hackney](https://www.houseofhackney.com/) 
-131 Shoreditch High St, London E1 6JE, UK  
+## 4. [House of Hackney](https://www.houseofhackney.com/) 131 Shoreditch High St, London E1 6JE, UK  
 
  
 
@@ -104,8 +101,7 @@ Tipped to be [the next Liberty's](https://www.timeout.com/london/shopping/house-
 
  
 
-## 5. [Article Brixton](https://www.urbanexcess.com/pages/stores)
-61 Atlantic Rd, Brixton, London SW9 8PU, UK  
+## 5. [Article Brixton](https://www.urbanexcess.com/pages/stores) 61 Atlantic Rd, Brixton, London SW9 8PU, UK  
 
  
 
