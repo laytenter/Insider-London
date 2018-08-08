@@ -15,6 +15,8 @@ Here at Insider London our eyes are always open to the hottest new retail trends
 
 ## 1. [L'Occitane](https://uk.loccitane.com/regent-street-flagship-store,83,1,89566,1089304.htm) 74-76 Regent St, Soho, London W1B 5RL  
 
+![L'Occitane.jpg](/uploads/L'Occitane.jpg)
+
  
 
  
@@ -36,6 +38,8 @@ Having teamed up with the iconic artesan, Pierre Hermes, exclusive macaroons are
  
 
 ## 2. [The Shop at Bluebird](https://theshopatbluebird.com) 29 Floral Street, London WC2E 9DP  
+
+![Bluebird.jpg](/uploads/Bluebird.jpg)
 
  
 
@@ -61,6 +65,8 @@ Take careful note of the edgy modern art installations set against the original 
 
 ## 3. [Nike Lab](https://www.nike.com/gb/en_gb/c/nikelab) 477-478 Bateman's Row Rd, London EC2A 3HH  
 
+![Nike%20Labs.jpg](/uploads/Nike%20Labs.jpg)
+
  
 Hidden away in the Shoreditch backstreets is the exclusive Nike Labs – one of only six locations, world-wide. This futuristic boutique, under the re-purposed railway arches of Bateman Row, houses a carefully curated selection of the most cutting-edge Nike special editions and collaborations. With the floor made from recycled trainer rubber under the [Nike Grind](https://www.nike.com/gb/en_gb/c/innovation/grind) initiative, and disused disk drives making up the display structures, this is unlike any Nike store you've ever seen, and has been voted [“The Coolest Shop in Shoreditch”](https://www.gq-magazine.co.uk/article/nike-lab-shoreditch-opening)) 
 
@@ -82,6 +88,8 @@ For that one-of-a-kind purchase, head upstairs to meet the Nike designers, and c
 
 ## 4. [House of Hackney](https://www.houseofhackney.com/) 131 Shoreditch High St, London E1 6JE 
 
+![House%20of%20Hackney.jpg](/uploads/House%20of%20Hackney.jpg)
+
  
 
  
@@ -102,6 +110,8 @@ Tipped to be [the next Liberty's](https://www.timeout.com/london/shopping/house-
  
 
 ## 5. [Article Brixton](https://www.urbanexcess.com/pages/stores) 61 Atlantic Rd, Brixton, London SW9 8PU
+
+![IMG_0952.jpg](/uploads/IMG_0952.jpg)
 
  
 
