@@ -1,10 +1,12 @@
 ---
-title: GASTRONOMIC TOUR IN LONDON, A COSMOPOLITAN CITY
+title: GASTRONOMIC TOUR OF LONDON
 date: 2018-08-01 11:49:00 Z
-permalink: "/gastronomic-tour-in-london-a-cosmopolitan-city/"
+permalink: "/gastronomic-tour-of-london/"
+tags:
+- london tours
 description: 'When your belly starts to rumble... the question on every Londoner''s
   mind is: where to eat now?'
-heading: 'GASTRONOMIC TOUR IN LONDON, A COSMOPOLITAN CITY '
+heading: GASTRONOMIC TOUR OF LONDON
 layout: post
 ---
 
