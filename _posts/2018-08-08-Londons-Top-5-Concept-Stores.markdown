@@ -13,7 +13,7 @@ Here at Insider London our eyes are always open to the hottest new retail trends
 
  
 
-1. [L'Occitane](https://uk.loccitane.com/regent-street-flagship-store,83,1,89566,1089304.htm) 74-76 Regent St, Soho, London W1B 5RL  
+## 1. [L'Occitane](https://uk.loccitane.com/regent-street-flagship-store,83,1,89566,1089304.htm) 74-76 Regent St, Soho, London W1B 5RL  
 
  
 
