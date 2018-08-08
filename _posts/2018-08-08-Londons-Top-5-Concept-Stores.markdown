@@ -88,7 +88,7 @@ For that one-of-a-kind purchase, head upstairs to meet the Nike designers, and c
  
 
  
-Tipped to be [the next Liberty's](https://www.timeout.com/london/shopping/house-of-hackney-1) by Time Out, House of Hackney was founded in 2010 by a husband and wife duo, determined to break rules and bring fun and colour to interior design. With their bold “modern maximalism” style combined with quaint English nostalgia, House of Hackney, is re-working traditional English interiors for the modern generation. Keep an eye out for their [exclusive new collection]((https://www.houseofhackney.com/william-morris/coming-soon), in partnership with the William Morris gallery.
+Tipped to be [the next Liberty's](https://www.timeout.com/london/shopping/house-of-hackney-1) by Time Out, House of Hackney was founded in 2010 by a husband and wife duo, determined to break rules and bring fun and colour to interior design. With their bold “modern maximalism” style combined with quaint English nostalgia, House of Hackney, is re-working traditional English interiors for the modern generation. Keep an eye out for their [exclusive new collection](https://www.houseofhackney.com/william-morris/coming-soon), in partnership with the William Morris gallery.
 
  
 
