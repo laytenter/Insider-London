@@ -35,7 +35,7 @@ Having teamed up with the iconic artesan, Pierre Hermes, exclusive macaroons are
 
  
 
-## 2. [The Shop at Bluebird](https://theshopatbluebird.com) Carriage Hall, 29 Floral Street, London WC2E 9DP  
+## 2. [The Shop at Bluebird](https://theshopatbluebird.com) 29 Floral Street, London WC2E 9DP  
 
  
 
@@ -80,7 +80,7 @@ For that one-of-a-kind purchase, head upstairs to meet the Nike designers, and c
 
  
 
-## 4. [House of Hackney](https://www.houseofhackney.com/) 131 Shoreditch High St, London E1 6JE, UK  
+## 4. [House of Hackney](https://www.houseofhackney.com/) 131 Shoreditch High St, London E1 6JE 
 
  
 
@@ -101,7 +101,7 @@ Tipped to be [the next Liberty's](https://www.timeout.com/london/shopping/house-
 
  
 
-## 5. [Article Brixton](https://www.urbanexcess.com/pages/stores) 61 Atlantic Rd, Brixton, London SW9 8PU, UK  
+## 5. [Article Brixton](https://www.urbanexcess.com/pages/stores) 61 Atlantic Rd, Brixton, London SW9 8PU
 
  
 
