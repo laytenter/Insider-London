@@ -12,7 +12,8 @@ layout: post
 
 Here at Insider London our eyes are always open to the hottest new retail trends. With three contrasting branches of our dynamic Retail Design Tour: [West End](/tours/retail-design/), [East End](/tours/east-end-retail-design-tour/) and [Brixton](/tours/brixton-retail-design-tour/), we are always on the look out for the most exciting and innovative concept stores and lifestyle brands to hit London's ever-fashionable streets. Here are our top five concept stores: 
 
- 
+
+ <br>
 
 ## 1. [L'Occitane](https://uk.loccitane.com/regent-street-flagship-store,83,1,89566,1089304.htm) 74-76 Regent St, Soho, London W1B 5RL  
 
@@ -28,15 +29,7 @@ L'Occitane's beautiful [flagshig store](https://uk.loccitane.com/regent-street-f
 
 Having teamed up with the iconic artesan, Pierre Hermes, exclusive macaroons are available in store with three flavours corresponding to fragranced L'Occitane hand creams! 
 
- 
-
- 
-
- 
-
- 
-
- 
+ <br>
 
 ## 2. [The Shop at Bluebird](https://theshopatbluebird.com) 29 Floral Street, London WC2E 9DP  
 
@@ -50,19 +43,7 @@ Having firmly closed its art deco doors on the Kings Road,  The Shop at Bluebird
 
 Take careful note of the edgy modern art installations set against the original beams and pulleys of the carriageway! 
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+ <br>
 
 ## 3. [Nike Lab](https://www.nike.com/gb/en_gb/c/nikelab) 477-478 Bateman's Row Rd, London EC2A 3HH  
 
@@ -75,17 +56,7 @@ Hidden away in the Shoreditch backstreets is the exclusive Nike Labs – one of 
 
 For that one-of-a-kind purchase, head upstairs to meet the Nike designers, and create a completely bespoke shoe. 
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+<br>
 
 ## 4. [House of Hackney](https://www.houseofhackney.com/) 131 Shoreditch High St, London E1 6JE 
 
@@ -99,16 +70,8 @@ Tipped to be [the next Liberty's](https://www.timeout.com/london/shopping/house-
  
 
 [Check out prints](https://www.houseofhackney.com/wallpaper.html) like Dalston Rose, Queen Bee and Hackney Empire and discover why everyone's raving about this East End boutique! 
-
  
-
- 
-
- 
-
- 
-
- 
+<br> 
 
 ## 5. [Article Brixton](https://www.urbanexcess.com/pages/stores) 61 Atlantic Rd, Brixton, London SW9 8PU
 
