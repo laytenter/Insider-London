@@ -7,7 +7,8 @@ heading: London's Top 5 Concept Stores
 layout: post
 ---
 
-![Oxford%20street.jpg](/uploads/Oxford%20street.jpg)
+![retail.jpg](/uploads/retail.jpg)
+"Shop till you drop" by Bikini_Berlin is licensed under CC by 2.0
 
 Here at Insider London our eyes are always open to the hottest new retail trends. With three contrasting branches of our dynamic Retail Design Tour: [West End](/tours/retail-design/), [East End](/tours/east-end-retail-design-tour/) and [Brixton](/tours/brixton-retail-design-tour/), we are always on the look out for the most exciting and innovative concept stores and lifestyle brands to hit London's ever-fashionable streets. Here are our top five concept stores: 
 
@@ -117,7 +118,7 @@ Tipped to be [the next Liberty's](https://www.timeout.com/london/shopping/house-
 
  
 
-Another railway arch treasure is Article Brixton, just a stone's throw away from the famous [Brixton Market](https://www.insider-london.co.uk/tours/brixton-retail-design-tour/). Away from the bustling crowds at their other branch in Spitalfields, browse the latest streetware collection, including collections by Herschel and Levi. The industrial-chic interior is minimal and stylish, providing the perfect backdrop for the online retailer's second brick and mortar space. 
+Inconspicuous form the outside. Inside you will discover another railway arch treasure: Article Brixton. just a stone's throw away from the famous [Brixton Market](https://brixtonmarket.net/), but away from the bustling crowds at their other branch in Spitalfields, browse the latest streetware collection, including collections by Herschel and Levi. The industrial-chic interior is minimal and stylish, providing the perfect backdrop for the online retailer's second brick and mortar space. 
 
  
 
