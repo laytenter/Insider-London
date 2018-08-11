@@ -10,6 +10,8 @@ layout: post
 ![retail.jpg](/uploads/retail.jpg)
 "Shop till you drop" by Bikini_Berlin is licensed under CC by 2.0
 
+<br>
+
 Here at Insider London our eyes are always open to the hottest new retail trends. With three contrasting branches of our dynamic Retail Design Tour: [West End](/tours/retail-design/), [East End](/tours/east-end-retail-design-tour/) and [Brixton](/tours/brixton-retail-design-tour/), we are always on the look out for the most exciting and innovative concept stores and lifestyle brands to hit London's ever-fashionable streets. Here are our top five concept stores: 
 
  
