@@ -1,5 +1,5 @@
 ---
-title: Food TOUR OF LONDON
+title: FOOD TOUR OF LONDON
 date: 2018-08-01 11:49:00 Z
 permalink: "/food-tour-of-london/"
 tags:
