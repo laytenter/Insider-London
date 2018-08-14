@@ -10,9 +10,9 @@ author: london75
 layout: page
 ---
 
-Insider London offers educational guided tours which are perfect for corporate events or student groups. The Financial Walking Tour reveals how the City of London developed into a global financial centre while our Silicon Roundabout Tour gives students the chance to explore and learn about East London’s Tech hub.
+Insider London offers educational guided tours which are perfect for corporate events, student groups and private parties. The City Finance Tour uncovers the development of the world's financial hub, whilst our Silicon Roundabout Tour analyses the development of the thriving business eco-system which has become the third biggest tech start-up zone in the world.
 
-Alternatively, our Retail Design Tour takes in the most exciting and innovative retail design in London, with a focus on visual marketing and merchandising. Our in-depth business visits are also incredibly popular and involve a behind-the-scenes visit to one of London’s most exciting businesses where you will hear from entrepreneurs who built their companies from the ground up.
+Discover the rich and varied visual marketing and merchandising techniques of retail in London with our many Retail Design Tours, or experience London as a global green city, with our Cutting-Edge Green or Sustainable Architecture
 
 ### Brochure
 
