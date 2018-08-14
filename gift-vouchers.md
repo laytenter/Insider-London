@@ -10,7 +10,7 @@ description: Looking for a special gift? An Insider London gift voucher, for our
 layout: page
 ---
 
-Looking for special gifts for someone special to you? Insider London Gift Voucher is just the gift for you. A hard copy of gift voucher will be sent to the nominated address. To redeem your Tour gift voucher simply go to checkout and input your gift voucher code.
+Looking for a special gift for someone special to you? Insider London Gift Vouchers are just the gift for you. A hard copy of the gift voucher will be sent to the nominated address. To redeem your Tour Gift Voucher simply go to the checkout and input your gift voucher code.
 
 To buy your vouchers simply visit our shop and select the value you would like.
 
