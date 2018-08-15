@@ -2,7 +2,9 @@
 title: BLOOMBERG LONDON
 date: 2018-08-15 11:52:00 Z
 permalink: "/bloomberg-london/"
-published: false
+tags:
+- architecture tour london
+heading: BLOOMBERG LONDON
 layout: post
 ---
 
