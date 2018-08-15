@@ -6,6 +6,7 @@ published: false
 layout: post
 ---
 
+![DSC01323.JPG](/uploads/DSC01323.JPG)
 Several of our tours take us through the heart of the City and you can never be quite sure how people will react to the diverse range of architecture on offer in the Square Mile.  However, one building invariably gets a positive response.  The [Bloomberg](https://www.bloomberg.com/europe) building only opened last year but it is already a clear favourite with clients.  Comments vary but they are nearly always positive and the fact that Michael Bloomberg sees his European HQ as a magnet for potential employees, surprises no one. 
 
  
