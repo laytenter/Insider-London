@@ -6,7 +6,7 @@ tags:
 - london tours
 description: 'When your belly starts to rumble... the question on every Londoner''s
   mind is: where to eat now?'
-heading: GASTRONOMIC TOUR OF LONDON
+heading: FOOD TOUR OF LONDON
 layout: post
 ---
 
