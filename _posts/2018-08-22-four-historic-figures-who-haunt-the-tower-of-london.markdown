@@ -33,5 +33,5 @@ If there's something of a commotion over at Tower Green, you may be spying a dif
 ## 4. Lady Jane Grey
 ![ladyjanegrey.jpg](/uploads/ladyjanegrey.jpg)
 
-[“One of the most compelling and tragic heroes of Tudor history”](https://englishhistory.net/tudor/relative/lady-jane-grey/), Lady Jane Grey was queen for just nine days before Mary Tudor brought her to the block. She uttered the words [“Lord unto thy hands I commend my spirit”]  (http://www.theparanormalguide.com/blog/lady-jean-grey-the-nine-days-queen), before her head was fatally severed from her body. Regardless of her speech, her spirit is said to remain... wandering the grounds and floating through the chambers
+["One of the most compelling and tragic heroes of Tudor history"](https://englishhistory.net/tudor/relative/lady-jane-grey/), Lady Jane Grey was queen for just nine days before Mary Tudor brought her to the block. She uttered the words ["Lord unto thy hands I commend my spirit”] (http://www.theparanormalguide.com/blog/lady-jean-grey-the-nine-days-queen), before her head was fatally severed from her body. Regardless of her speech, her spirit is said to remain... wandering the grounds and floating through the chambers.
  
