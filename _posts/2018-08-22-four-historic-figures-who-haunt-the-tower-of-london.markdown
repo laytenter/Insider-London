@@ -2,7 +2,6 @@
 title: FOUR HISTORIC FIGURES WHO HAUNT THE TOWER OF LONDON
 date: 2018-08-22 11:22:00 Z
 permalink: "/four-historic-figures-who-haunt-the-tower-of-london/"
-published: false
 tags:
 - ghost tour london
 - london history tours
