@@ -6,6 +6,10 @@ published: false
 tags:
 - ghost tour london
 - london history tours
+description: Due to the grisly executions that have occurred here throughout history,
+  it is perhaps not surprising that the oldest building in London boasts more than
+  its fair share of ghouls and spectres!
+heading: FOUR HISTORIC FIGURES WHO HAUNT THE TOWER OF LONDON
 layout: post
 ---
 
