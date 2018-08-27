@@ -20,13 +20,13 @@
 
 .hero__content {
   position: absolute;
-  top: 136px;
+  top: 168px;
   @include media-query(lap) {
-    top: 168px;
+    top: 240px;
   }
 
   @include media-query(desk) {
-    top: 180px;
+    top: 360px;
   }
 
   text-align: center;
