@@ -17,7 +17,7 @@ The collection of more than 1,300 artworks included big names such as [Tracey Em
 
  
 
-Formed in 1768 by an act of King George III, and founded by a passionate group of artists and architects, the Academy was formed to promote visual art to the British public and as a means for artists to promote their work independently. The Academy was established as a venue for exhibitions, lectures and classes and during the time of it's first President, Joshua [Reynolds](https://www.britannica.com/biography/Joshua-Reynolds), the institution was confined to cramped quarters in Pall Mall.  
+Formed in 1768 by an act of King George III, and founded by a passionate group of artists and architects, the Academy was formed to promote visual art to the British public and as a means for artists to promote their work independently. The Academy was established as a venue for exhibitions, lectures and classes and during the time of it's first President, [Joshua Reynolds](https://www.britannica.com/biography/Joshua-Reynolds), the institution was confined to cramped quarters in Pall Mall.  
 
  
 
