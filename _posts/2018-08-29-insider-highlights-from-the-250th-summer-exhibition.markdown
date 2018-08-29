@@ -30,11 +30,16 @@ For those of you that missed out on this year's spectacular show, here are five 
  
 
 ## 1) Debbie Lawson: Red Bear 
+![Bear.jpg](/uploads/Bear.jpg)
 
 ## 2) Mickey Rooney: Royal Progress 
+![Royal.jpg](/uploads/Royal.jpg)
 
 ## 3) Ron Arad: “WHERE ARE MY GLASSES” 
+![Glasses.jpg.crdownload](/uploads/Glasses.jpg.crdownload)
 
 ## 4) Ben Johnson: Dome of the Rock, Facade 
+![Dome.jpg](/uploads/Dome.jpg)
 
 ## 5) Joanna Vasconcelos: Royal Valkyrie 
+![Valkyrie.jpg](/uploads/Valkyrie.jpg)
