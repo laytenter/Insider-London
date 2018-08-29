@@ -6,7 +6,7 @@ published: false
 layout: post
 ---
 
-![Royal_Academy_Simon_Fieldhouse.jpg](/uploads/Royal_Academy_Simon_Fieldhouse.jpg)
+![royalacademyarts.jpg](/uploads/royalacademyarts.jpg)
 
 
 This summer, [the Royal Academy](https://www.royalacademy.org.uk/about-the-ra) held their spectacular 250th Summer Exhibition. This glorious celebration of “art made now” was curated by the one-and-only [Grayson Perry](https://en.wikipedia.org/wiki/Grayson_Perry) who boasted the [“biggest, brightest and most colourful Summer Exhibition yet”](https://www.royalacademy.org.uk/exhibition/summer-exhibition-2018).
