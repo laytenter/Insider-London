@@ -6,8 +6,7 @@ tags:
 - bvisits
 - all
 heading: Educational In-depth Business Visits
-description: London guided tours of the most important companies. Learn the secrets
-  behind the capital’s most successful companies and start-ups at insider-london.co.uk.
+description: Learn the secrets behind the capital’s most successful companies
 gallery:
 - image: "/uploads/natwest-slider.jpg"
   caption: Lovely Limkokwing students from all over the world visiting Verb Brands
