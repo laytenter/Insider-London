@@ -18,7 +18,7 @@ gallery:
   caption: Sberbank executives and Percent founder and CEO Henry Ludlam at a bespoke
     fintech startup event.
   alt: 
-- image: "/uploads/760x428%20web_17-06-15_visit%20Anthony%20Jiamei,Jonas%20University%20of%20Hong%20Kong.jpg"
+- image: "/uploads/bp-slider.jpg"
   caption: Students from Hong Kong University visiting Ogilvy.
   alt: Students from Hong Kong University visiting Ogilvy.
 - image: "/uploads/760x428%2017-11-09%20LBS%20Street%20Art%20Silicon%20Roundabout%20Ziferblat.JPG"
