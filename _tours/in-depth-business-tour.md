@@ -9,7 +9,7 @@ heading: Educational In-depth Business Visits
 description: London guided tours of the most important companies. Learn the secrets
   behind the capital’s most successful companies and start-ups at insider-london.co.uk.
 gallery:
-- image: "/uploads/760x428%2017-11-13%20Jonas%20Bvisits%20Limkokwing%20Verb%20Brands.jpg"
+- image: "/uploads/natwest-slider.jpg"
   caption: Lovely Limkokwing students from all over the world visiting Verb Brands
     and its founder Chris Donnelly.
   alt: Lovely Limkokwing students from all over the world visiting Verb Brands and
@@ -52,11 +52,12 @@ Let Insider London show you the secrets to London's success.
 
 Our in-depth educational business visits showcase some of the world's most powerful companies as well as the capital's most innovative entrepreneurs, including:
 
-- **Think Rise** - The pioneers of fintech and part of the Barclays group. This is the largest fintech co-working space in Europe housing more than 40 companies. Visit the HQ of a vibrant community of rising stars and current industry leaders. See how Barclays, the creator of the world's first cash machine, remains at the forefront of innovation through creativity and collaboration. 
-- **Verb Brands** – A fresh new player in the luxury goods sector, whose founder started the company when he was just a university student. Get a front-row seat to successful twenty-first century marketing for the most high-end exclusive products. Find out how this team of designers, developers and strategists create websites and mobile apps for a wide range of products from fragrances to private islands. 
-- **Architecture 00** - A  multi-RIBA award-winning community-minded and sustainability-oriented architecture firm. Meet the team behind the “Everyone's Street” campaign who are shaping London's urban environment through research, urban design strategy and architecture. From ultra-low energy residences to co-working and educational spaces, this is a company with its finger on the pulse on human and planetary sustainability.
-- **DigitasLBI** – The global technology-based marketing agency, part of the Publicis Groupe. This team keeps one eye on the increasingly complex consumer behaviour of modern times, and the other on advanced customer relationship management. Meet the experts of social analytics who use technology to test drive Honda and promote the National Trust.
-- **Wayra**  - The inspirational start-up accelerator giant that forms part of the 02 Telefonica Group. Get a sneak-preview of the latest new products taking the business world by storm.  Discover the secrets of start-up success from sparking that revolutionary new product idea to finding your perfect team. Come for an induction to the start-up university!
+- **Think Rise** - The pioneers of fintech and part of the Barclays group. This is the largest fintech co-working space in Europe housing more than 40 companies. Visit the HQ of a vibrant community of rising stars and current industry leaders. See how Barclays, the creator of the world’s first cash machine, remains at the forefront of innovation through creativity and collaboration. 
+- **BP Trading** – Experience the commercial face to the global giant, BP, with over 280 traders world-wide and partners in more than 40 countries. World-class control infrastructure seamlessly blends supply, trading, risk management and information technology skills. Come and meet the faces behind one of the biggest global multi-nationals at their striking HQ, One Canada Square.
+- **Verb Brands** - A leading agency in the luxury sector, whose founder started the company when he was just a university student. Get a front-row seat to ground-breaking twenty-first century marketing and discover the charismatic CEO of this distinguished agency, boasting client such as Sunseeker and Jimmy Choo.
+- **Architechture 00** – A multi-RIBA award-winning community-minded and sustainability-oriented architecture firm. Meet the team behind the “Everyone’s Street” campaign who are shaping London’s urban environment through research, urban design strategy and architecture. From ultra-low energy residences to co-working and educational spaces, this is a company with its finger on the pulse on human and planetary sustainability.
+- **Sapient Razorfish**  - The global technology-based marketing agency, part of the Publicis Groupe. Placing digital at the core of business, this talented team of developers and market analysts are at the forefront of technological transformation. Through the specific process of gamification, this agency has developed advanced and interactive marketing for the likes of Costa and McDonalds.
+- **Tech Italia** - The specialist incubator programme with more than 2,000 members is driving change in the technology sector. Positioned at the heart of Europe's innovation cluster, meet the exciting disruptor programme forming a bridge between London's thriving business eco-system and European talent. 
 
 London is one-of-a-kind thriving hub – a world city combining arts, technology, finance and politics.  Here in London we have close relationships with groundbreaking company founders and CEOs in an extensive range of industries from fintech to urban agriculture. An in-depth business visit is the perfect way to get the insider tips that will inspire your students or take your team to the next level.
 
