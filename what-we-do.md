@@ -15,7 +15,7 @@ Insider London offers a wide variety of alternative and unusual activities desig
 
 ## Business Visits & Workshops
 
-If you are looking for industry insight and inspiration – look no further than an [In-Depth Business Visits]([https://www.insider-london.co.uk/tours/in-depth-business-tour/). With exclusive access to blue chip multi-nationals as well as the most visionary entrepreneurs, this is an opportunity to delve deep into the inside workings of your chosen company. Enjoy our extensive range of current partnerships and get in touch to find the perfect visit for you at <a href="mailto:contact@insider-london.co.uk">contact@insider-london.co.uk</a>
+If you are looking for industry insight and inspiration – look no further than an [In-Depth Business Visits](https://www.insider-london.co.uk/tours/in-depth-business-tour/). With exclusive access to blue chip multi-nationals as well as the most visionary entrepreneurs, this is an opportunity to delve deep into the inside workings of your chosen company. Enjoy our extensive range of current partnerships and get in touch to find the perfect visit for you at <a href="mailto:contact@insider-london.co.uk">contact@insider-london.co.uk</a>
 
 
 Enjoyed by academic groups and professional delegates from around the world, Insider London's bespoke workshops are led by top industry professionals and created individually for the specific needs and requirements of the group. Popular topics include Defining Leadership, led by a top City financier, and Fintech for the Future – an innovative conference featuring the capital's most exciting blockchain start-ups.
