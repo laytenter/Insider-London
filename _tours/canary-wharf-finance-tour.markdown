@@ -8,8 +8,8 @@ tags:
 - all
 - canarywharf
 heading: Canary Wharf Finance Tour
-description: Insider London offer an informative and professional canary wharf tour
-  in London. Perfect for private parties and corporate events at insider-london.co.uk.
+description: Insider London offer an informative and professional canary wharf finance
+  tour in London. Perfect for private parties and corporate events at insider-london.co.uk.
 gallery:
 - image: "/uploads/760x428%20Canary%20Wharf%20tour%20title%20pic.jpg"
   caption: Welcome to our Canary Wharf Finance Tour!
