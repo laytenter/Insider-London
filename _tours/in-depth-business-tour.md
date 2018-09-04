@@ -21,16 +21,6 @@ gallery:
 - image: "/uploads/bp-slider.jpg"
   caption: Students from Hong Kong University visiting Ogilvy.
   alt: Students from Hong Kong University visiting Ogilvy.
-- image: "/uploads/760x428%2017-11-09%20LBS%20Street%20Art%20Silicon%20Roundabout%20Ziferblat.JPG"
-  caption: Executives on a London Business School training programme with us at Ziferblat,
-    awaiting a presentation on the East Ends startup industry.
-  alt: Executives on a London Business School training programme with us at Ziferblat,
-    awaiting a presentation on the East Ends startup industry.
-- image: "/uploads/17-11-14%20bvisit%20Jonas%20HubWestminster%20Limkokwing.jpg"
-  caption: A great group from Limkokwing visiting Impact Hub Westminster, learning
-    about co-working and participating in a workshop on social entrepreneurship.
-  alt: A great group from Limkokwing visiting Impact Hub Westminster, learning about
-    co-working and participating in a workshop on social entrepreneurship.
 tour-id: 29344
 author: london75
 guid: "/?post_type=product&#038;p=29344"
