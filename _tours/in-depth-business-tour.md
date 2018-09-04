@@ -14,7 +14,7 @@ gallery:
     and its founder Chris Donnelly.
   alt: Lovely Limkokwing students from all over the world visiting Verb Brands and
     its founder Chris Donnelly.
-- image: "/uploads/17-10-25%20Sperbank%20with%20Percent.jpg"
+- image: "/uploads/verb-slider.jpg"
   caption: Sberbank executives and Percent founder and CEO Henry Ludlam at a bespoke
     fintech startup event.
   alt: 
