@@ -9,6 +9,9 @@ heading: 'Reflecting on History: 100 Years of Women''s Suffrage'
 layout: post
 ---
 
+![millicent-fawcett.jpg](/uploads/millicent-fawcett.jpg)
+
+
 Earlier this year the first statue celebrating the life of a woman was unveiled on Parliament Square.  The 8ft 4in bronze statue is of Millicent Fawcett.  She was a suffragist who campaigned tirelessly in the nineteenth and early twentieth century for women’s right to vote. 
 
  
@@ -31,6 +34,7 @@ It was only two years ago that the feminist campaigner, Caroline Criado Perez, r
 
 However, Millicent Fawcett’s statue is not the first female campaigner to be recognised around the Palace of Westminster.  The Suffragette, Emmeline Pankhurst, had a statue unveiled in 1930 in Victoria Tower Gardens.  Earlier this month a new [row emerged](https://www.theguardian.com/culture/2018/aug/17/anger-over-plan-to-move-pankhurst-statue-away-from-parliament) about plans to move the Pankhurst statue from its current location beside the Houses of Parliament to the private Regent’s University in Regent’s Park.  There are strongly held views on both sides of the argument about moving / not moving the Pankhurst statue and at the moment it would seem that it is unlikely to happen. 
 
+![Emmeline%20Pankhurst.jpg](/uploads/Emmeline%20Pankhurst.jpg)
  
 
 Statues seem to have provoked huge debate in recent times from discussions about [removing the Cecil Rhodes statue](https://www.theguardian.com/commentisfree/2016/jan/19/rhodes-fall-oxford-university-inclusivity-black-students) at Oxford University to arguments about the [appropriateness of Nelson’s Column](https://www.theguardian.com/commentisfree/2017/aug/22/toppling-statues-nelsons-column-should-be-next-slavery) as argued by Afua Hirsch in the Guardian last year. 
