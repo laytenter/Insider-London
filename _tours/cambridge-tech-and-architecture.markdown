@@ -10,10 +10,9 @@ description: Venture out of London and into one of the UK's most exciting cities
   traditional with the cutting-edge, in the beautiful city of Cambridge
 gallery:
 - image: "/uploads/cambridgepunt@300x.png"
+  alt: cambridge punt
   caption: Venture out of London and into one of the UK's most exciting cities, with
     a bespoke day tour of one of the world’s leading tech hubs.
-  alt: Venture out of London and into one of the UK's most exciting cities, with a
-    bespoke day tour of one of the world’s leading tech hubs.
 show_book: false
 thumb: cambridgepunt@300x.png
 banner: cambridgepunt@300x.png
