@@ -1,5 +1,5 @@
 - name: Amelia
-  image: /assets/images/Amelia-240x240.jpg
+  image:  /assets/images/Amelia-240x240.jpg <img alt=" amelia>
   description: <p>Amelia is the tour guide for our Silicon Roundabout/Tech City Tour, London Finance Walking Tour and all our Green Tours, bringing her knowledge and experience of London life to a wider audience. She has an extensive background in the environmental sector and holds a BSc in Environmental Biology and an MSc in Environmental Technology from Imperial College London. Her career has seen her work in communities in East London as well as teaching in schools in Shenyang and Shanghai before becoming the youngest deputy leader of any UK political party as Deputy Leader of the Green Party of England and Wales.</p>
 - name: Andy
   image: /assets/images/Andy-240x240.jpg
