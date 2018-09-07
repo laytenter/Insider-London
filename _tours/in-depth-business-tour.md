@@ -1,5 +1,5 @@
 ---
-title: Educational In-Depth Business Tours | London Guided Tours
+title: Educational In-Depth Business Tours and Visits
 date: 2015-08-28 10:51:00 Z
 tags:
 - educational
