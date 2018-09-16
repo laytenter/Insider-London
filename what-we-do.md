@@ -1,7 +1,7 @@
 ---
 title: London Guided Walks | What We Do
 date: 2015-05-12 00:00:00 Z
-permalink: "/what-we-do-london-guided-walks/"
+permalink: "/what-we-do/"
 id: 2546744
 author: london75
 description: Unusual walking tours around London. The most entertaining London guided
