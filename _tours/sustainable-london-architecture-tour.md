@@ -7,6 +7,8 @@ tags:
 - educational
 - susarch
 - all
+description: Join Insider London on London's only sustainable architecture tour and
+  discover London's greenest skyscrapers
 tour-id: 29342
 author: london75
 show_book: false
