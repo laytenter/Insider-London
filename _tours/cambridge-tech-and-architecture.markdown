@@ -11,7 +11,7 @@ gallery:
   caption: Venture out of London and into one of the UK's most exciting cities, with
     a bespoke day tour of one of the world’s leading tech hubs.
   alt: cambridge punt
-show_book: false
+show_book: true
 thumb: cambridgepunt@300x.png
 banner: cambridgepunt@300x.png
 layout: tour
