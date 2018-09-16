@@ -5,14 +5,12 @@ categories:
 - educational
 heading: Cambridge Tech & Architecture Tour
 description: Venture out of London and into one of the UK's most exciting cities,
-  with a bespoke day tour of one of the world’s leading tech hubs. Insider London
-  is launching a fantastic new programme, exploring the seamless integration of the
-  traditional with the cutting-edge, in the beautiful city of Cambridge
+  with a bespoke tour of one of the world’s leading tech hubs.
 gallery:
 - image: "/uploads/cambridgepunt@300x.png"
-  alt: cambridge punt
   caption: Venture out of London and into one of the UK's most exciting cities, with
     a bespoke day tour of one of the world’s leading tech hubs.
+  alt: cambridge punt
 show_book: false
 thumb: cambridgepunt@300x.png
 banner: cambridgepunt@300x.png
