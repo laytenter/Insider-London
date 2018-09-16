@@ -39,7 +39,7 @@ Starting at Bishopsgate, our expert guide will take you on a fascinating two-hou
 
 Our comprehensive sustainable architecture tour can be tailored to every knowledge level.
 
-![760x428 Lloyds.jpg](/uploads/760x428%20Lloyds.jpg)
+![sustainable architecture tour](/uploads/760x428%20Lloyds.jpg)
 
 It doesn’t matter whether you want to know more about London’s sustainable built environment, or are an established green architect, we’ll help you get the inside track &#8211; and maybe even uncover new angles &#8211; on our fun, informative tour.
 
