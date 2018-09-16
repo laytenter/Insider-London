@@ -8,12 +8,12 @@ description: Venture out of London and into one of the UK's most exciting cities
   with a bespoke tour of one of the world’s leading tech hubs.
 gallery:
 - image: "/uploads/cambridgepunt@300x.png"
-  caption: Venture out of London and into one of the UK's most exciting cities, with
-    a bespoke day tour of one of the world’s leading tech hubs.
   alt: cambridge punt
+  caption: cambridge punt
 show_book: true
 thumb: cambridgepunt@300x.png
 banner: cambridgepunt@300x.png
+hidden: true
 layout: tour
 ---
 
