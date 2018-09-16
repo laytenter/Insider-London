@@ -8,9 +8,8 @@ tags:
 - ghost
 - all
 heading: Famous Ghosts and Infamous Murders Tour
-description: 'Ghost tour London by Insider London discovering the murder mysteries
-  that gripped Londoners long before Jack the Ripper came to the scene. Visit our
-  website or call 02071831055. '
+description: Ghost tour London by Insider London discovering the murder mysteries
+  that gripped Londoners long before Jack the Ripper came to the scene.
 gallery:
 - image: "/uploads/Ghost%20Tour%20Title%20Pic.jpg"
   caption: Discover London's spooky side on our Ghost Tour!
