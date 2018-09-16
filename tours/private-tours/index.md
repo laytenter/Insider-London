@@ -17,16 +17,16 @@ Insider London has experience with accommodating a vast array of requests, so do
 ## Our Clients
 
 ![airbus_logo_175x100.png](/uploads/airbus_logo_175x100.png) &emsp;&emsp;&emsp;
-![Barclays_logo_175x100.png](/uploads/Barclays_logo_175x100.png) &emsp;&emsp;&emsp;
+![Barclays_logo_175x100.png private tours london](/uploads/Barclays_logo_175x100.png) &emsp;&emsp;&emsp;
 ![BostonU_logo_175x100.png](/uploads/BostonU_logo_175x100.png) &emsp;&emsp;&emsp;
 ![Durham U_logo_175x1006.png](/uploads/Durham%20U_logo_175x1006.png) &emsp;&emsp;&emsp;
 ![EY_logo_175x100.png](/uploads/EY_logo_175x100.png) &emsp;&emsp;&emsp;
 ![HagueU_logo_175x100.png](/uploads/HagueU_logo_175x100.png) &emsp;&emsp;&emsp;
 ![HKU_logo_175x100.png](/uploads/HKU_logo_175x100.png) &emsp;&emsp;&emsp;
 ![Ikea_logo_175x100.png](/uploads/Ikea_logo_175x100.png) &emsp;&emsp;&emsp;
-![Imperial-College-London_logo_175x100.png](/uploads/Imperial-College-London_logo_175x100.png) &emsp;&emsp;&emsp;
+![Imperial-College-London_logo_175x100.png private tours london](/uploads/Imperial-College-London_logo_175x100.png) &emsp;&emsp;&emsp;
 ![investec_logo_175x100.png](/uploads/investec_logo_175x100.png) &emsp;&emsp;&emsp;
-![J.P.Morgan_logo_175x100.png](/uploads/J.P.Morgan_logo_175x100.png) &emsp;&emsp;&emsp;
+![J.P.Morgan_logo_175x100.png private tours london](/uploads/J.P.Morgan_logo_175x100.png) &emsp;&emsp;&emsp;
 ![KingsColl_logo_175x100.png](/uploads/KingsColl_logo_175x100.png) &emsp;&emsp;&emsp;
 ![KingstonUni_logo_175x100.png](/uploads/KingstonUni_logo_175x100.png) &emsp;&emsp;&emsp;
 ![KPMG_logo_175x100.png](/uploads/KPMG_logo_175x100.png) &emsp;&emsp;&emsp;
