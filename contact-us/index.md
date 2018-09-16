@@ -1,6 +1,7 @@
 ---
 title: Contact Us
 date: 2015-03-26 13:59:00 Z
+desciption: T - +44 20 7183 1055  | M - +44 78 6967 8717 | E - contact@insider-london.co.uk
 id: 3518
 author: london75
 guid: "/?page_id=3518"
