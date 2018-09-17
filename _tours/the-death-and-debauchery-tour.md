@@ -8,8 +8,8 @@ tags:
 - all
 - dnd
 heading: Death and Debauchery Tour
-description: London is riddled with death and debauchery. Our ghost tour London covers
-  famous murders, executions & ghostly happenings at insider-london.co.uk.
+description: Not just a jack the ripper tour, our Death and Debauchery tour will take
+  you through London's murderous history, often on some of London's well known streets
 gallery:
 - image: "/uploads/760x428%20D&D%20banner.jpg"
   caption: Insider London’s Death and Debauchery Tour is a walking tour that will
