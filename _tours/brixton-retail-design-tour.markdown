@@ -4,9 +4,8 @@ date: 2018-04-12 11:40:00 Z
 categories:
 - educational
 heading: Brixton Retail Design Tour
-description: This is a new walking tour in one of the most exciting corners of London,
-  where local entrepreneurs have been given opportunities to make their retail dreams
-  come true.
+description: Brixton is a hub of culture and creativity. Join us on our Brixton Retail
+  Design Tour and discover Brixton's history of community and local entrepreneurs.
 gallery:
 - image: "/uploads/960x540%20Brixton%20Village.jpg"
   caption: Brixton Village is one of the interesting stops on this tour with dozens
