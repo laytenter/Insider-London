@@ -12,6 +12,7 @@ gallery:
 - image: 
   caption: 
   alt: 
+show_book: false
 thumb: web_568x378_Kings_Cross_Western_Concourse-CC-BY-SA-3.0.jpg
 banner: web_568x378_Kings_Cross_Western_Concourse-CC-BY-SA-3.0.jpg
 layout: tour
