@@ -4,7 +4,7 @@ date: 2018-06-26 12:56:00 Z
 categories:
 - educational
 heading: Cambridge Tech & Architecture Tour
-description: Cembridge Tour | Venture out of London and into one of the UK's most
+description: Cambridge Tour | Venture out of London and into one of the UK's most
   exciting cities, with a bespoke tour of one of the world’s leading tech hubs.
 gallery:
 - image: "/uploads/cambridgepunt@300x.png"
