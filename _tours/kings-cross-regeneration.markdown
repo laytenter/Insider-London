@@ -5,6 +5,7 @@ categories:
 - educational
 tags:
 - educational
+heading: Kings Cross Regeneration and Innovation Tour
 gallery:
 - image: "/uploads/web_568x378_Kings_Cross_Western_Concourse-CC-BY-SA-3.0.jpg"
   caption: Kings Cross Tour
