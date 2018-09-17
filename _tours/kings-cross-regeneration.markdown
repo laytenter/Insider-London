@@ -8,7 +8,7 @@ heading: Kings Cross Regeneration & Innovation Tour
 description: Join us on this fascinating Kings Cross Tour, and discover how the area
   made its remarkable transitions.
 gallery:
-- image: "/uploads/Kings%20Cross%20Tour.jpg"
+- image: Kings%20Cross%20Tour.jpg
   caption: Kings Cross Station
   alt: Kings Cross Tour
 show_book: false
