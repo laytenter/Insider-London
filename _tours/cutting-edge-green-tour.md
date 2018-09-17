@@ -1,5 +1,5 @@
 ---
-title: London Eco Tour | Insider London Cutting Edge Green Tour
+title: Insider London Eco Tour | Cutting Edge Green Tour
 date: 2014-01-01 10:48:00 Z
 categories:
 - educational
@@ -9,8 +9,7 @@ tags:
 - educational
 heading: Cutting Edge Green Tour
 description: Our London eco tour is the only walking tour of its kind, taking you
-  through the heart of the capitals sustainability scene. Visit our website or call
-  +442071831055.
+  through the heart of the capitals sustainability scene.
 gallery:
 - image: "/uploads/CEG%20Tour%20Title%20Pic.jpg"
   caption: Sustainability and green technology is a huge topic in London!
@@ -53,7 +52,7 @@ Discover London’s most environmentally responsible and socially savvy retailer
 
 Whether you are student, a sustainability professional, or simply want to know more about London’s impressive sustainability credentials, our jam-packed Green tour is ideal for getting to know the people, sites and businesses at the forefront of London’s sustainable agenda.
 
-![web_17-07-20_bespokeTubeCEGT_Jonas_Todd(TA%20review)_South%20Bank.jpg](/uploads/web_17-07-20_bespokeTubeCEGT_Jonas_Todd(TA%20review)_South%20Bank.jpg)
+![eco tour london](/uploads/web_17-07-20_bespokeTubeCEGT_Jonas_Todd(TA%20review)_South%20Bank.jpg)
 *A bespoke Cutting Edge Green & Tube Tour ended on the South Bank - we can tailor tours specifically to your needs.*
 
 ### The ultimate crash-course in London’s best sustainable businesses and buildings
