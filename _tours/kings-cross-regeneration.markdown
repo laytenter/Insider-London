@@ -1,5 +1,11 @@
 ---
 title: Kings Cross Tour | Kings Cross Regeneration
+published: false
+categories:
+- educational
+tags:
+- educational
+layout: tour
 ---
 
 *Photo &copy; [Colin](https://commons.wikimedia.org/wiki/File:King%27s_Cross_Western_Concourse.jpg)*
