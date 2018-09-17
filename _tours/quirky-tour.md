@@ -1,5 +1,5 @@
 ---
-title: Quirky Tour | Alternative Tours London | Quirky Tours
+title: Quirky Tour | Alternative London Tours | Quirky Tours
 date: 2002-01-01 11:31:00 Z
 categories:
 - hidden
@@ -8,7 +8,7 @@ tags:
 - all
 - quirky
 heading: Quirky Tour
-description: 'Alternative Tours London: Insider London offers the most fun and exciting
+description: 'Alternative London Tours: Insider London offers the most fun and exciting
   guided London walks. Perfect for tourists and corporate events.'
 featured: true
 tour-id: 32342
