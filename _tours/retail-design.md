@@ -1,5 +1,5 @@
 ---
-title: Retail Design Tour | London Walks Saturday
+title: Retail Design Tour | London Retail Tour
 date: 2012-01-01 10:44:00 Z
 categories:
 - educational
@@ -8,8 +8,8 @@ tags:
 - retail
 - educational
 heading: Retail Design Tour
-description: The most fun and informative London walks Saturday has to offer. Find
-  design inspiration for the most luxurious retail design at insider-london.co.uk.
+description: The original London Retail Tour! Find design inspiration for the most
+  luxurious retail design at insider-london.co.uk.
 gallery:
 - image: "/uploads/WE%20Retail%20Tour%20Title%20Pic.jpg"
   caption: Discover fascinating retail design in London's West End!
