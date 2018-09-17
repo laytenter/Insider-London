@@ -5,7 +5,7 @@ categories:
 - educational
 tags:
 - educational
-heading: Kings Cross Regeneration and Innovation Tour
+heading: Kings Cross Regeneration & Innovation Tour
 gallery:
 - image: 
   caption: 
