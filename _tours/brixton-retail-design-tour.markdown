@@ -38,8 +38,8 @@ After the incredible success of our West End and East End Retail Design  walking
 
 Brixton is a melting pot of people, places and events which you will discover throughout the walking tour. The area has truly been through the ups and downs, however it has always retained its sense of community. Waves of immigrants and cultures have impacted Brixton and today call it home; it is an area that truly reflects and treasures its history and supports locals today more than ever. Brixton has really pulled itself up by the bootstraps but has not lost its quirky characteristics, made up by the intoxicating smells and sounds in the street markets today.
 
-Highlights on the Brixton Retail Design Tour include:
-See the first purpose-built department store in Britain and find out about its transformation over the years into the community-driven, creative site it is today.
+## Highlights on the Brixton Retail Design Tour include:
+* See the first purpose-built department store in Britain and find out about its transformation over the years into the community-driven, creative site it is today.
 
 * Stroll down Electric Avenue, home of the first electric street lamp market, to hear its connection to both a momentous event and an internationally renown hit song.
 
