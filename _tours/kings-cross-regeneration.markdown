@@ -1,6 +1,5 @@
 ---
 title: Kings Cross Tour | Kings Cross Regeneration
-published: false
 categories:
 - educational
 tags:
