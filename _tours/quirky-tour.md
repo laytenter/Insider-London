@@ -1,5 +1,5 @@
 ---
-title: Quirky Tour | London Walks Sunday | Quirky Tours
+title: Quirky Tour | Alternative Tours London | Quirky Tours
 date: 2002-01-01 11:31:00 Z
 categories:
 - hidden
@@ -8,8 +8,8 @@ tags:
 - all
 - quirky
 heading: Quirky Tour
-description: Insider London offer the most fun and exciting guided London walks Sunday
-  has available. Perfect for tourists and corporate events at insider-london.co.uk.
+description: 'Alternative Tours London: Insider London offers the most fun and exciting
+  guided London walks. Perfect for tourists and corporate events.'
 featured: true
 tour-id: 32342
 trekksoft-tour-id: 50184
