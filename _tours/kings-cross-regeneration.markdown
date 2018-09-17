@@ -7,6 +7,10 @@ tags:
 heading: Kings Cross Regeneration & Innovation Tour
 description: Join us on this fascinating Kings Cross Tour, and discover how the area
   made its remarkable transitions.
+gallery:
+- image: "/uploads/Kings%20Cross%20Tour.jpg"
+  caption: Kings Cross Station
+  alt: Kings Cross Tour
 show_book: false
 thumb: web_568x378_Kings_Cross_Western_Concourse-CC-BY-SA-3.0.jpg
 banner: Kings%20Cross%20Tour.jpg
@@ -14,7 +18,6 @@ map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.0464892083746!2d
 layout: tour
 ---
 
-![Kings Cross Tour](/uploads/Kings%20Cross%20Tour.jpg)
 *Photo &copy; [Colin](https://commons.wikimedia.org/wiki/File:King%27s_Cross_Western_Concourse.jpg)*
 
 King’s Cross has had a turbulent history from peaceful rural city escape, to industrial freight hub, to shady suburb, to the mighty successful and up-and-coming area that attracts even Google.
