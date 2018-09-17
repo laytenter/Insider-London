@@ -19,7 +19,7 @@ banner: web_568x378_Kings_Cross_Western_Concourse-CC-BY-SA-3.0.jpg
 layout: tour
 ---
 
-[Kings Cross Tour](/uploads/web_568x378_Kings_Cross_Western_Concourse-CC-BY-SA-3.0.jpg)
+![Kings Cross Tour](/uploads/web_568x378_Kings_Cross_Western_Concourse-CC-BY-SA-3.0.jpg)
 *Photo &copy; [Colin](https://commons.wikimedia.org/wiki/File:King%27s_Cross_Western_Concourse.jpg)*
 
 King’s Cross has had a turbulent history from peaceful rural city escape, to industrial freight hub, to shady suburb, to the mighty successful and up-and-coming area that attracts even Google.
