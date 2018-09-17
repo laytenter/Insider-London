@@ -19,6 +19,7 @@ map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.0464892083746!2d
 layout: tour
 ---
 
+![Kings Cross Tour](/uploads/Kings%20Cross%20Tour.jpg)
 *Photo &copy; [Colin](https://commons.wikimedia.org/wiki/File:King%27s_Cross_Western_Concourse.jpg)*
 
 King’s Cross has had a turbulent history from peaceful rural city escape, to industrial freight hub, to shady suburb, to the mighty successful and up-and-coming area that attracts even Google.
