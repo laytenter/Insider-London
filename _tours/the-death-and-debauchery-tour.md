@@ -1,5 +1,5 @@
 ---
-title: Death and Debauchery Tour | Ghost Tour London | Death & Debauchery
+title: Death and Debauchery Tour | Ghost Tour London | Jack the Ripper Tour London
 date: 2004-01-01 10:58:00 Z
 categories:
 - hidden
