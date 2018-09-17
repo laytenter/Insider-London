@@ -1,5 +1,5 @@
 ---
-title: Silicon Roundabout | Tech City | Walking Tours in London
+title: Silicon Roundabout Tour | London Tech City Tour
 date: 2010-01-01 10:55:00 Z
 categories:
 - educational
@@ -8,8 +8,8 @@ tags:
 - SR
 - all
 heading: Silicon Roundabout and Tech City Tour
-description: Visit the world’s third biggest start-up tech cluster. Cutting edge walking
-  tours in London at the Silicon Roundabout & Tech City at insider-london.co.uk.
+description: London Tech City Tour | Visit the world’s third biggest start-up tech
+  cluster | Silicon Roundabout Tour
 gallery:
 - image: "/uploads/SR%20Tour%20Title%20Pic.jpg"
   caption: Discover the world’s third biggest start-up tech cluster - the Silicon
@@ -56,15 +56,15 @@ Last year Silicon Roundabout launched over 15,500 new businesses – nearly five
 
 But how did this tech start-up metropolis come about?
 
-Award-winning Insider London’s walking tour offers an eye-opening educational insight into how Shoreditch spawned a tech monster to rival San Fran’s Silicon Valley.
+Award-winning Insider London’s Silicon Roundabout tour offers an eye-opening educational insight into how Shoreditch spawned a tech monster to rival San Fran’s Silicon Valley.
 
-### London’s Silicon Roundabout – Best Shoreditch Walking Tour
+### London’s Silicon Roundabout Tour – Best Shoreditch Walking Tour
 
 Starting at Shoreditch Grind, a funky little coffee shop come recording studio, our professional and knowledgeable tour guide will take you on an entertaining two-hour loop via Shoreditch, Hoxton and Old Street through this innovative and vibrant part of London.
 
 Taking in co-worker spaces (where lots of tech start-ups begin), creative spaces, pop-up spaces and some downright crackers spaces, you’ll hear how Silicon Roundabout has earned its global profile before finishing at Google Campus, the UK’s biggest ‘incubator’ for tech minded start-ups.
 
-![17-07-31_EERD_Julia_na_Nike Lab.jpg](/uploads/web_17-08-03_SR_Dean_na_Ziferblat.jpg)
+![London Tech City Tour](/uploads/web_17-08-03_SR_Dean_na_Ziferblat.jpg)
 *Inside Ziferblat, one of the most creative co-working spaces we know!*
 
 ## Learn Silicon Roundabout's Secrets
