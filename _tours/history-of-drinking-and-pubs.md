@@ -33,7 +33,7 @@ From the traditional alehouse to the city taverns, learn the history behind trad
 
 ## Highlights  
 
-On this tour you will:
+On this London pub tour you will:
 
 - Discover the history of the drink that nearly drove beer (…and Londoners themselves) to extinction.
 
