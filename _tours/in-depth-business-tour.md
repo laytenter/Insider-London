@@ -1,12 +1,13 @@
 ---
-title: Educational In-Depth Business Tours and Visits
+title: Educational In-Depth Business Tours and Visits | Business Visits London
 date: 2015-08-28 10:51:00 Z
 tags:
 - educational
 - bvisits
 - all
 heading: Educational In-depth Business Visits
-description: Learn the secrets behind the capital’s most successful companies
+description: Business Visits London | Learn the secrets behind the capital’s most
+  successful companies
 gallery:
 - image: "/uploads/natwest-slider.jpg"
   caption: Lovely Limkokwing students from all over the world visiting Verb Brands
