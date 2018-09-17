@@ -5,6 +5,15 @@ categories:
 - educational
 tags:
 - educational
+gallery:
+- image: 
+  caption: 
+  alt: 
+- image: 
+  caption: 
+  alt: 
+thumb: web_568x378_Kings_Cross_Western_Concourse-CC-BY-SA-3.0.jpg
+banner: web_568x378_Kings_Cross_Western_Concourse-CC-BY-SA-3.0.jpg
 layout: tour
 ---
 
