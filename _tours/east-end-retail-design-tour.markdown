@@ -1,5 +1,5 @@
 ---
-title: East London Tours | Retail Design Tours | Insider London
+title: East London Walks | Retail Design Tours | Insider London
 date: 2017-09-22 08:32:00 Z
 categories:
 - educational
@@ -8,8 +8,9 @@ tags:
 - all
 - educational
 heading: East End Retail Design Tour
-description: Discover retail design on our East London tours from Insider London,
-  and explore design, fashion, art and much more. Call +44 (0) 20 7183 1055.
+description: East London Walks | Discover retail design on our East London tours from
+  Insider London, and explore design, fashion, art and much more. Call +44 (0) 20
+  7183 1055.
 gallery:
 - image: "/uploads/East%20End%20Retail%20Title%20-%20Artillery%20Lane.jpg"
   caption: Retail design in the East End connects deeply with its winding alleyways.
@@ -53,7 +54,7 @@ Highlights on the East End Retail Design Tour include:
 
 * London’s streets offer unlimited access to the greatest art gallery, see works by famous Street Artists such as Banksy, Ben Eine and D*Face as well as some local favourites.
 
-![17-07-31_EERD_Julia_na_Nike Lab.jpg](/uploads/17-07-31_EERD_Julia_na_Nike%20Lab.jpg)
+![east london walks](/uploads/17-07-31_EERD_Julia_na_Nike%20Lab.jpg)
 *One of our lovely student groups in front of Nike Lab 1948.*
 
 Beginning the tour near Old Street Station, your Insider London guide will unravel the history of the East End which plays a crucial role in why this area attracts the latest trendsetters in design, fashion and art. An area that has seen waves of change throughout the centuries, discover just how quickly it still evolves today. From brands, you may know to home-grown names, discover how they are recreating the brick & mortar shop, allowing their customers to not just see a product but to experience it as well. Finishing near Shoreditch High Street Station, this two-hour walking tour will leave you inspired, invigorated and hopefully fuel your enthusiasm for your own work.
