@@ -8,8 +8,8 @@ tags:
 - finance
 - all
 heading: City of London Finance Tour
-description: Our London finance tour takes you from the humble beginnings in the 17th
-  century to its current global status on this unique Insider London walking tour.
+description: Insider London Walking Tours | Our London finance tour takes you from
+  the humble beginnings in the 17th century to its current global status.
 gallery:
 - image: "/uploads/Finance%20Tour%20Title%20Pic.jpg"
   caption: The City of London is one of the two financial hearts of London.
@@ -55,7 +55,7 @@ Join us on our award-winning walking tour of The City as we take you on a fascin
 
 Starting at Panyer Alley, our expert guide will show you how the City of London developed into a global financial centre, taking in key buildings such as, the London Stock Exchange, Guildhall, the Bank of England, Lloyds of London and Rothschild’s, before finishing at Willis, the world’s oldest insurance broker.
 
-![SR Tour Title Pic.jpg](/uploads/760x428%2017-12-19%20Finance%20Andy%20Postmans%20Park.JPG)
+![Insider London Walking Tours London](/uploads/760x428%2017-12-19%20Finance%20Andy%20Postmans%20Park.JPG)
 *A great group of finance professionals in Postman's Park on our Finance Tour!*
 
 ## City of London Tour - Discover Capital in the Capital
