@@ -59,7 +59,7 @@ Insider London's Business Visits are a unique opportunity for **corporate groups
 
 <a class="btn btn--small btn--red" href="/assets/in-depth-business-visits_brochure_Insider_London.pdf">View Brochure</a>
 
-![17-10-25 Sperbank.jpg](/uploads/17-10-25%20Sperbank.jpg)
+![Business Visits London](/uploads/17-10-25%20Sperbank.jpg)
 *Sperbank executives visiting a fintech start-up showcase and personal Q&A at Wayra in October '17*
 
 ## Workshops
