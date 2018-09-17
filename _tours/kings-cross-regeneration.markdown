@@ -9,7 +9,6 @@ description: Join us on this fascinating Kings Cross Tour, and discover how the 
   made its remarkable transitions.
 show_book: false
 thumb: web_568x378_Kings_Cross_Western_Concourse-CC-BY-SA-3.0.jpg
-banner: web_568x378_Kings_Cross_Western_Concourse-CC-BY-SA-3.0.jpg
 layout: tour
 ---
 
