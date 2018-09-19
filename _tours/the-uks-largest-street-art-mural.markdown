@@ -47,6 +47,8 @@ Busk and Mr Switch go medieval with a striking [vanitas](https://www.tate.org.uk
 Ed Hicks and Dr Zodak are first up on King John Court and have created the intricate Mycelium Network. This truly innovative take on the brief depicts the centrality of fungi, as an organic connector in the forest eco-system. This forest blends into the wooden dance floor of the next piece. For those with a careful eye you may also be able to spot the funky hip-hop character hidden in the bark of a tree. 
 ![steet art tour](/uploads/Mycellium%20network.jpg)
 
+
+
 Captain Kris and Tizer take prime of place with their funky bejewelled lady which can be seen slipping and sliding with a robot sporting a VR headset. This robotic dance duo works into the cartoon-style pipes of the final design.  
 
 Hunto & Mr Toms, both Italian artists, are the final pair with their quirky cartoon pipes said to demonstrate the relationship between machines and objects. This flows round the corner into a Picasso-esque piece with an orb of cubist creations locked into an angular embrace. 
