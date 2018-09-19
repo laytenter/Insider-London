@@ -10,7 +10,7 @@ description: This summer witnessed the stunning creation of the UK's largest str
 layout: post
 ---
 
-![shoreditch street art tour london](/uploads/Title%20image,%20may%20need%20to%20retouch.jpg)
+![shoreditch street art tour london](/uploads/Title%20image,%20may%20need%20to%20retouch-ed7f9c.jpg)
  
 
 This summer witnessed the stunning creation of the UK's largest street art mural. Located between King John Court and New Inn Yard, even colourful Shoreditch has seen nothing like it. This huge mural is made up of a myriad of different images and artistic styles with each section as a unique interpretation of a single theme: connectivity.  
