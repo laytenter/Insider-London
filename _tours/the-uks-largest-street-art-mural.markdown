@@ -30,14 +30,15 @@ The mural is truly stunning when viewed as a whole, but it's only when broken do
 
  
 
-## 1)
-AutOne & Neist are the first duo on New Inn Court and have an excellent position, easily spottable from the main road. They provide a fresh new take on the brief with their colourful take on transport maps, specifically citing inspiration from the London Underground's own. 
+## 1) &nbsp AutOne & Neist are the first duo on New Inn Court and have an excellent position, easily spottable from the main road. They provide a fresh new take on the brief with their colourful take on transport maps, specifically citing inspiration from the London Underground's own. 
 ![shoreditch street art](/uploads/After%20number%201.jpg) 
 
 ## 2)
 Lovepusher and Mr Cenz's “Future” is nothing other than stunning. Mr Cenz is known for his colourful faces all over London but this collaboration blends seamlessly into the electrified sky of the previous piece. A sci-fi style crystal balls shows the modern figure with connectivity literally in the palm of her hand. 
 
+## 3)
 Nomad Clan, a Manchurian duo also mix futuristic outlines with intensely symbolic imagery: a looming hand and an ethereal dove. On inspection the retro “rewind” and “fast-forward” signs can be made out in a nod to technological connectivity of the recent past. 
+![shoreditch street art tour london](/uploads/After%20number%203.jpg)
 
 Ninth Seal and Best Ever take advantage of the natural shape of the building before we turn the corner. The more abstract multi-coloured layers of shapes in some way contrast to the realistic depiction of the human handshake, the classic joining symbol 
 
