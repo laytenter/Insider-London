@@ -2,7 +2,6 @@
 title: The UK's Largest Street Art Mural
 date: 2018-09-19 10:56:00 Z
 permalink: "/the-uks-largest-street-art-mural/"
-published: false
 heading: 'The UK''s Largest Street Art Mural '
 description: This summer witnessed the stunning creation of the UK's largest street
   art mural. Located between King John Court and New Inn Yard, even colourful Shoreditch
@@ -31,6 +30,7 @@ The mural is truly stunning when viewed as a whole, but it's only when broken do
  
 
 1) AutOne & Neist are the first duo on New Inn Court and have an excellent position, easily spottable from the main road. They provide a fresh new take on the brief with their colourful take on transport maps, specifically citing inspiration from the London Underground's own. 
+
 ![shoreditch street art](/uploads/After%20number%201.jpg) 
 <br>
 
