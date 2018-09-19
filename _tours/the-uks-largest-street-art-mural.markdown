@@ -22,7 +22,7 @@ This seems a suitable theme for a piece in the heart of London's Silicon Roundab
  
 
 Global Street Art's Lee Bofin explains how they split the wall into eight sections. He states that [“each section was painted directly by a pair of artists so they connected directly together”](https://www.bbc.co.uk/news/av/uk-45054525/1400-square-metres-of-artwork-on-concrete). In six months, Global Street Art careful assembled each stunning design into one enormous piece. 
-![shoreditch street art](/uploads/After%20number%201.jpg)
+
 
  
 
@@ -30,8 +30,11 @@ The mural is truly stunning when viewed as a whole, but it's only when broken do
 
  
 
-AutOne & Neist are the first duo on New Inn Court and have an excellent position, easily spottable from the main road. They provide a fresh new take on the brief with their colourful take on transport maps, specifically citing inspiration from the London Underground's own.  
+## 1)
+AutOne & Neist are the first duo on New Inn Court and have an excellent position, easily spottable from the main road. They provide a fresh new take on the brief with their colourful take on transport maps, specifically citing inspiration from the London Underground's own. 
+![shoreditch street art](/uploads/After%20number%201.jpg) 
 
+## 2)
 Lovepusher and Mr Cenz's “Future” is nothing other than stunning. Mr Cenz is known for his colourful faces all over London but this collaboration blends seamlessly into the electrified sky of the previous piece. A sci-fi style crystal balls shows the modern figure with connectivity literally in the palm of her hand. 
 
 Nomad Clan, a Manchurian duo also mix futuristic outlines with intensely symbolic imagery: a looming hand and an ethereal dove. On inspection the retro “rewind” and “fast-forward” signs can be made out in a nod to technological connectivity of the recent past. 
