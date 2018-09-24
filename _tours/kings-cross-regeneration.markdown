@@ -13,7 +13,7 @@ gallery:
   alt: Kings Cross Tour
 show_book: false
 thumb: web_568x378_Kings_Cross_Western_Concourse-CC-BY-SA-3.0.jpg
-banner: Kings Cross Tour.jpg
+banner: "/uploads/Kings%20Cross%20Tour%20Image.jpg"
 hidden: true
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.0464892083746!2d-0.12413955088987932!3d51.53070714700129!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b395352fe65%3A0x7304861c2c028532!2sWar+Memorial!5e0!3m2!1sen!2suk!4v1537207118016
 layout: tour
