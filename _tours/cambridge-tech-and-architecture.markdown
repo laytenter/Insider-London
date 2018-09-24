@@ -8,10 +8,10 @@ description: Cambridge Tour | Venture out of London and into one of the UK's mos
   exciting cities, with a bespoke tour of one of the world’s leading tech hubs.
 gallery:
 - image: "/uploads/cambridgepunt@300x.png"
-  alt: cambridge punt
   caption: cambridge punt
+  alt: cambridge punt
 show_book: true
-thumb: cambridgepunt@300x.png
+thumb: london-walks-cambridge-thumb-420x287.jpg
 banner: cambridgepunt@300x.png
 hidden: true
 layout: tour
