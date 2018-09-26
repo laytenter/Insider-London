@@ -27,11 +27,11 @@ Step forward fast fashion.  Increasingly on our retail walks discussions about t
 The big fast fashion brands include [Zara](https://www.zara.com/uk/), [H&M](https://www2.hm.com/en_gb/index.html#modal-1), [ASOS](https://www.asos.com/) and [Topshop](http://www.topshop.com/?geoip=home).  Zara in particular has become incredibly adept at working out what is popular and being able to adapt its lines in a matter of days.  In theory how could the customer ask for more?  Fast fashion clothes may not be of the highest quality, but hey you can just wear an item a few times and discard it, especially when the prices are relatively low.   
 
 ![fast fashion](/uploads/Zara_store_at_Westfield_Sydney.jpg)
-
- 
+Photo © [Bidgee](https://commons.wikimedia.org/wiki/File:Zara_store_at_Westfield_Sydney.jpg)
 
 There is no doubt that this has become the modus operandi for many younger shoppers, but this approach to shopping comes at a cost.  Firstly, where are our clothes being made and are the workers being fairly paid and well-treated?  In 2013, 1,138 people lost their lives when Rana Plaza clothing factory in Bangladesh collapsed.  As the BBC website reported at the time, ["Bangladesh has one of the largest garment industries in the world, and some of the clothes produced in the Rana Plaza building were made for Western retailers."](https://www.bbc.co.uk/news/world-asia-22476774)  The second worry concerns the potentially damaging impact that the fast fashion industry has on the environment.  In fact, it was announced earlier this year that the [environmental audit committee](https://www.parliament.uk/business/committees/committees-a-z/commons-select/environmental-audit-committee/) will investigate the social and environment impact of this type of short-lived clothing and the wider industry.  There are serious worries about the amount of toxic chemicals used and the ensuing impact on climate-change emissions. 
 ![fast fashion](/uploads/Garment_factory_in_Bangladesh_Women_working.jpg)
+Photo © [Tareq Salahuddin](https://commons.wikimedia.org/wiki/File:Garment_factory_in_Bangladesh_Women_working.jpg)
 
  
 
