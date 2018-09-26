@@ -3,6 +3,9 @@ title: Is fast fashion here to stay?
 date: 2018-09-26 15:43:00 Z
 permalink: "/is-fast-fashion-here-to-stay/"
 published: false
+description: ‘"Fast fashion” is a term used by fashion retailers to describe inexpensive
+  designs that move quickly from the catwalk to stores to meet new trends. But is
+  there a future in fast fashion?
 heading: Is fast fashion here to stay?
 layout: post
 ---
