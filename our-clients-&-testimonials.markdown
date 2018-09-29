@@ -14,4 +14,4 @@ layout: page
 
 “We’ve had some excellent feedback from conference delegates about the street art tour– it received the highest ratings from our entire programme! All of the tour guides were commended” - Allen & Overy, Street Art Tour
 
-![clients](/uploads/clients.jpg)
+![clients.jpg](/uploads/clients.jpg)
