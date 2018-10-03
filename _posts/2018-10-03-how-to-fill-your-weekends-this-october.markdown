@@ -21,7 +21,7 @@ Read on for our top Insider choices to fill your October calendar.
 
  
 
-The weekend of 6th-7th October 
+## The weekend of 6th-7th October 
 
 
 Didn't quite make it to the London Design Festival but want your arty fix? Or maybe the LDF has got you rearing for more? Look no further than the [annual Frieze Festival](https://frieze.com/fairs/frieze-london), running from the 4-7th October and located in Regents Park. Featuring more than 160 of the world's leading galleries, this huge not-for-profit program includes talks, performances, sculptures, installations and much more! 
@@ -38,7 +38,7 @@ Photo © [Andy F](https://commons.wikimedia.org/wiki/File:Preparing_for_Frieze_A
 
  
 
-The weekend of 13-14th October 
+## The weekend of 13-14th October 
 
  
 
@@ -55,7 +55,7 @@ Photo © [David Martin](https://www.geograph.org.uk/photo/2980219)
 
  
 
-The weekend of 20th-21st October 
+## The weekend of 20th-21st October 
 
  
 
@@ -75,7 +75,7 @@ The weekend of 20th-21st October
 
  
 
-The weekend of 27th-28th October 
+## The weekend of 27th-28th October 
 
  
 
