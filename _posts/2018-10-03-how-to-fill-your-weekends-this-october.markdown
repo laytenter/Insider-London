@@ -9,7 +9,7 @@ heading: How to fill your weekends this October!
 layout: post
 ---
 
-![tower of london this october](/uploads/london_united_kingdom_tower_of_london-491713.jpg)
+![tower of london this october](/uploads/london_united_kingdom_tower_of_london-491713.jpg!d)
 
  “[When a man is tired of London, he's tired of life!](http://www.samueljohnson.com/tiredlon.html)" Men and women of London – get ready for a vibrant autumn! As the summer draws to a close, the capital is anything but sleepy. After an eventful September including [London Fashion Week](http://www.londonfashionweek.co.uk/), [Open House](https://openhouselondon.org.uk/) and the [London Design Festival](https://www.londondesignfestival.com/home), you'll be pleased to hear that Central London has a lot more in store for those who know! 
 
