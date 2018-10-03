@@ -86,3 +86,5 @@ As the night's draw in and halloween approaches, the ghosts and ghouls of Old Lo
 [Tickets starting from £12](https://www.insider-london.co.uk/tours/famous-ghosts-and-infamous-murders)  
 
 Watch this space for our ghoulish ghost tour trailor! 
+
+![ghost tour this october](/uploads/Ghost%20Tour%20Title%20Pic.jpg)
