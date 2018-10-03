@@ -87,4 +87,4 @@ As the night's draw in and halloween approaches, the ghosts and ghouls of Old Lo
 
 Watch this space for our ghoulish ghost tour trailor! 
 
-![ghost tour this october](/uploads/Ghost%20Tour%20Title%20Pic.jpg)
+![ghost tour this october](/uploads/ghost%20tour%20this%20october.jpg)
