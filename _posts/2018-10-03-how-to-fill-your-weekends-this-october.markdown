@@ -2,7 +2,6 @@
 title: How to fill your weekends this October!
 date: 2018-10-03 15:37:00 Z
 permalink: "/how-to-fill-your-weekends-this-october/"
-published: false
 description: Men and women of London – get ready for a vibrant autumn! As the summer
   draws to a close, the capital is anything but sleepy.
 heading: How to fill your weekends this October!
