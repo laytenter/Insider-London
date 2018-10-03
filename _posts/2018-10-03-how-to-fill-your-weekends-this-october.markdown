@@ -31,7 +31,7 @@ Didn't quite make it to the London Design Festival but want your arty fix? Or ma
 [Adult day tickets starting at £38.70](https://friezelondon.seetickets.com/tour/frieze-london?utm_source=FLHomepage&utm_medium=BuyNowButton&utm_campaign=FLFM18Marketing#) 
 
  
-![frieze fair this october](/uploads/Preparing_for_Frieze_Art_Fair,_Regents_Park_(6)_-_geograph.org.uk_-_1524041.jpg)
+![frieze fair this october](/uploads/frieze%20fair%20this%20october.jpg)
 Photo © [Andy F](https://commons.wikimedia.org/wiki/File:Preparing_for_Frieze_Art_Fair,_Regents_Park_(6)_-_geograph.org.uk_-_1524041.jpg)
 
  
@@ -50,7 +50,7 @@ Get debating with the [Battle of Ideas at the Barbican](https://www.battleofidea
 
  
 
-![This October](/uploads/2980219_91860521.jpg)
+![This October](/uploads/barbican%20this%20october.jpg)
 Photo © [David Martin](https://www.geograph.org.uk/photo/2980219)
 
  
