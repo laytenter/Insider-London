@@ -2,7 +2,6 @@
 title: Three ways to act on the findings of the IPCC
 date: 2018-11-14 13:03:00 Z
 permalink: "/three-ways-to-act-on-the-findings-of-the-ipcc/"
-published: false
 layout: post
 ---
 
