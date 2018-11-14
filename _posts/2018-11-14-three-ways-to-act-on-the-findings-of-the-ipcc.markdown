@@ -6,6 +6,8 @@ published: false
 layout: post
 ---
 
+![IPCC Climate change electric car](/uploads/electric%20car%20recharging.jpg)
+
 October saw the release of a highly-anticipated report by the UN's Intergovernmnetal Panel on Climate Change (IPCC). This report has been tipped to be the [“most critical and controversial report of recent years”](https://www.bbc.co.uk/news/science-environment-45653099) and evaluates the feasibility, impacts and costs of staying below the 1.5  degree.  
 
  
@@ -22,7 +24,7 @@ Interestingly, recommendations in the report are threefold, aimed at policy make
 
  
 
-Transport 
+## Transport 
 
  
 
@@ -36,9 +38,9 @@ As more and more people switch to electric vehicles in the UK, local governments
 
 Nevertheless, the report raises concerns about the source of electricity generation. With around 155,000 EVs in the country and around [4,500 more registered every month](https://www.wired.co.uk/article/electric-vehicle-car-infrastructure-charging-point)(as of August 2018), critics point out the challenge the growth in electric vehicles will pose to the grid. The renewable energy industry is growing fast in the UK, with 2017 being the first year that [renewables produced the largest portion of electricity at 29%](https://www.ft.com/content/437c4e8a-efc0-11e7-ac08-07c3086a2625). It's clear however that this will need to increase dramatically. It's this sense of urgency, and drastic immediate change which is prominent in the IPCC report. 
 
- 
+![IPCC Climate change carbon neutral building](/uploads/carbonneutralbuilding.jpg) 
 
-Buildings 
+## Buildings 
 
  
 
@@ -55,10 +57,10 @@ For those not looking to move out, there are clear choices to be made when runni
  
 
  
-
+![ipcc climate change diet](/uploads/fruits.jpg)
  
 
-Diet 
+## Diet 
 
  
 
