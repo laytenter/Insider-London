@@ -1,5 +1,5 @@
 ---
-title: Ghost Tour London
+title: Ghosts and Infamous Murders Tour | Ghosts Tour London
 date: 2008-01-01 17:30:00 Z
 categories:
 - hidden
@@ -10,37 +10,28 @@ tags:
 heading: Famous Ghosts and Infamous Murders Tour
 description: Ghost tour London by Insider London discovering the murder mysteries
   that gripped Londoners long before Jack the Ripper came to the scene.
-gallery:
-- image: "/uploads/Ghost%20Tour%20Title%20Pic.jpg"
-  caption: Discover London's spooky side on our Ghost Tour!
-  alt: Discover London's spooky side on our Ghost Tour!
-- image: "/uploads/Group.jpg"
-  caption: Did this group actually see a ghost?!
-  alt: Did this group actually see a ghost?!
-- image: "/uploads/St%20Giles.jpg"
-  caption: 'One of the first stops on the tour: St. Giles in the Field.'
-  alt: 'One of the first stops on the tour: St. Giles in the Field.'
-- image: "/uploads/Strangling%20coat.jpg"
-  caption: Our guide Jess telling the story of a strangling coat...
-  alt: Our guide Jess telling the story of a strangling coat...
-- image: "/uploads/Narrowest%20Alleyway.jpg"
-  caption: Spooky alleyways and dark corner guaranteed!
-  alt: Spooky alleyways and dark corner guaranteed!
+Gallery:
+- image: "/uploads/ghost%20tour%20this%20october.jpg"
+- caption
+- alt
+show_book: true
 tour-id: 12345
 author: london75
 trekksoft-tour-id: 50196
-show_book: true
 price: 12
 thumb: 1-568x388.jpg
-banner: 1-772x528.jpg
-hidden: true
 map: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2482.8339234717528!2d-0.1306618!3d51.5162628!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b2d6bcc0c53%3A0xc17011138a7f29da!2sTottenham+Court+Road+Station!5e0!3m2!1sen!2sus!4v1438592163974
 related:
 - 32342
 - 29349
 - 32336
+banner: blank banner.jpg
+hidden: true
 layout: tour
 ---
+
+<iframe width="772" height="528" src="https://www.youtube.com/embed/r5_6ln8v_WM?autoplay=1;rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 London town is no stranger to ghost stories, the city has its fair share and our Insider guides will tell you who they are, what they are and where they hide. Walking down the back streets and alleyways of London’s West End, we will bring to light its history and the lives of those who are still known to haunt the area today.
 

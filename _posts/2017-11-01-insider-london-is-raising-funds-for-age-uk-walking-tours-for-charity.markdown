@@ -30,14 +30,13 @@ For more information on the specific tours, please visit the tour pages.
 <ul>
 <li> <a href="https://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">The London Underground and Tube Tour </a> at 2pm  – £20 / £12 concession</li>
 <li> <a href="https://www.insider-london.co.uk/tours/the-death-and-debauchery-tour/">The Death and Debauchery Tour</a> at 5pm – £12 / £10 concession</li>
-<li> <a href= "(https://www.insider-london.co.uk/tours/history-of-drinking-and-pubs/)">The History of Drinking and Pubs Tour</a> at 7pm – £20 / £12 concession</li>
+<li> <a href= "https://www.insider-london.co.uk/tours/history-of-drinking-and-pubs/">The History of Drinking and Pubs Tour</a> at 7pm – £20 / £12 concession</li>
 </ul>
 
 **Sunday, 3 Dec**
 
 <ul>
 <li> <a href="https://www.insider-london.co.uk/tours/quirky-tour/">The Quirky London Tour</a> at 11am – £12 / £10 concession</li>
-<li> <a href="https://www.insider-london.co.uk/tours/tour-of-east-end-gangs-crimes-and-hasher-times/">The East End Crime Tour</a> at 5pm – £20 / £12 concession </li>
 </ul>
 
 

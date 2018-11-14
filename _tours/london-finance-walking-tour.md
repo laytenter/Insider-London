@@ -62,7 +62,7 @@ Starting at Panyer Alley, our expert guide will show you how the City of London 
 
 You’ll learn about:
 
-- **The inner workings of London Stock Exchange**, one of the world’s oldest stock exchanges and currently the largest stock exchange in Europe. Hear what it has in common with ‘flat white coffee’, how the stock exchange works and why you can no longer see Traders shouting bids to the auctioneer.
+- **The origins of London Stock Exchange**, one of the world’s oldest stock exchanges and currently the largest stock exchange in Europe. Discover it's similarities with ‘flat white coffee’, how the stock exchange works in the modern day with the development of new technology. ​
 
 - **Guildhall, home to the City of London Corporation.** Discover the City of London’s unique governance structure, including why the Queen must seek permission to enter the City.
 
