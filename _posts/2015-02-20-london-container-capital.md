@@ -25,7 +25,7 @@ tags:
 id: 24786
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=24786
+guid: https://www.insider-london.co.uk/?p=24786
 s4_url2s:
 - 
 s4_image2s:
@@ -58,7 +58,7 @@ CONTAINER SHOPPING
   <em>Image credit: <a href="http://www.flickr.com/photos/la-citta-vita/12619925985" target="_blank">La Citta Vita</a></em>
 </p>
 
-Perhaps the project that made people most aware of the potential of shipping containers was the &#8216;pop up shopping mall&#8217;, <a href="http://www.boxpark.co.uk/" target="_blank">BoxPark</a> which opened in 2011. Housing a mix of designed-focused shops, it&#8217;s allowed these brands to get a foothold into the prime location near Shoreditch High Street station without having to undertake a huge building project. It has had a much greater community-minded impact too &#8211; read <a href="http://www.insider-london.co.uk/2012/07/15/boxpark-unstacked/" target="_blank">our post here for more</a>. It&#8217;s interesting to speculate as to how the concept might work elsewhere: earlier this month it was revealed <a href="http://shopping-centre.co.uk/news/fullstory.php/aid/7917/Boxpark_heading_to_Croydon.html" target="_blank">Croydon will also get its own BoxPark</a>.
+Perhaps the project that made people most aware of the potential of shipping containers was the &#8216;pop up shopping mall&#8217;, <a href="http://www.boxpark.co.uk/" target="_blank">BoxPark</a> which opened in 2011. Housing a mix of designed-focused shops, it&#8217;s allowed these brands to get a foothold into the prime location near Shoreditch High Street station without having to undertake a huge building project. It has had a much greater community-minded impact too &#8211; read <a href="/boxpark-unstacked/" target="_blank">our post here for more</a>. It&#8217;s interesting to speculate as to how the concept might work elsewhere: earlier this month it was revealed <a href="http://shopping-centre.co.uk/news/fullstory.php/aid/7917/Boxpark_heading_to_Croydon.html" target="_blank">Croydon will also get its own BoxPark</a>.
 
 The flexibility of the format was also embraced for Watford&#8217;s new market, made from 42 shipping containers to &#8220;turn the site into a landmark location&#8221;. You can <a href="http://adaptainer.co.uk/shipping-container-architecture/watford-market-how-it-was-built/" target="_blank">find out more about how it was built here</a>.
 
@@ -70,7 +70,7 @@ CONTAINER WORKSPACES
   <em>Image credit:<a href="http://estateoffice.com/containerville/" target="_blank"> The Estate Office Shoreditch</a></em>
 </p>
 
-The size of these units also suggests themselves to low cost offices and studios. The picture above shows <a href="http://estateoffice.com/containerville/" target="_blank">Containerville</a>: 30 shipping containers made into workspaces situated right by the Regent&#8217;s Canal in east London &#8211; and close to the tech cluster around the <a href="http://www.insider-london.co.uk/silicon-roundabout-tech-city-tour/" target="_blank">Silicon Roundabout</a>, making them a desirable space for start-ups.
+The size of these units also suggests themselves to low cost offices and studios. The picture above shows <a href="http://estateoffice.com/containerville/" target="_blank">Containerville</a>: 30 shipping containers made into workspaces situated right by the Regent&#8217;s Canal in east London &#8211; and close to the tech cluster around the <a href="https://www.insider-london.co.uk/silicon-roundabout-tech-city-tour/" target="_blank">Silicon Roundabout</a>, making them a desirable space for start-ups.
 
 Down in south London, meanwhile, <a href="http://www.popbrixton.org/" target="_blank">Pop Brixton</a> aims to offer a new community campus for startups and small businesses, with studios and workshops available within refurbished shipping containers. The project &#8211; due to open its doors later this spring &#8211; has a lifespan of three years at the site, after which it plans on popping up elsewhere.
 
@@ -84,7 +84,7 @@ CONTAINER HOMES
   <em>Image credit: <a href="https://www.flickr.com/photos/anton41/14803421212/in/photolist-pcCXhk-oy8pod-gyXWaf-9cNsJV-oVMvS-bZYDgq-dnjw4G-dpuWiJ-jV4u8a-8QvqVa-aRgbwB-89HFUi-6trBiw-8XrXFe-m13bak-bSWh8M-3c7y4a-hD99sZ-oaTZAy-dfT5gf" target="_blank">Antony***</a></em>
 </p>
 
-Perhaps unsurprisingly in a city such as London where the availability of affordable housing is a major issue, architects have also been exploring the possibilities of containers. We mentioned <a href="http://www.containercity.com/projects/container-city-ii" target="_blank">Container City </a>in Trinity Buoy Wharf in <a href="http://www.insider-london.co.uk/2015/01/26/green-living-eco-homes-in-london/" target="_blank">our round-up of eco homes in London</a>.
+Perhaps unsurprisingly in a city such as London where the availability of affordable housing is a major issue, architects have also been exploring the possibilities of containers. We mentioned <a href="http://www.containercity.com/projects/container-city-ii" target="_blank">Container City </a>in Trinity Buoy Wharf in <a href="/green-living-eco-homes-in-london/" target="_blank">our round-up of eco homes in London</a>.
 
 <a href="http://forestymca.org.uk/homepage/2014-03-23-07-49-32/mypad" target="_blank">MYPads</a>, meanwhile, were created in order to help young people leaving supported accommodation who can&#8217;t afford the typical London deposits needed to rent a flat of their own. Developed by Forest YMCA with part funding from the Greater London Authority, these c<span style="color: #444444;">ontainerised units have been converted into homes across two sites in Waltham Forest that YMCA residents can rent at a rate of 30% of minimum wage. </span>
 
@@ -116,4 +116,4 @@ You&#8217;ve worked and rested &#8211; now containers are also coming into play.
 
 Further along the river, Mexican street food chain Wahaca created a colourful branch amidst the concrete of the South Bank. You can <a href="%20http://www.wahaca.co.uk/2012/07/how-we-built-the-wahaca-southbank-experiment/" target="_blank">find out more about the build here</a>.
 
-_Such projects only look set to increase over the coming years, so watch this space. To find out more about eco projects in the capital, why not take one of Insider London&#8217;s <a href="http://www.insider-london.co.uk/london-eco-green-sustainable-walking-tour/" target="_blank">cutting-edge green walking tours</a>? Our <a href="http://www.insider-london.co.uk/silicon-roundabout-tech-city-tour/" target="_blank">tech city tour</a> will fill you in on the latest London innovations too. _
+_Such projects only look set to increase over the coming years, so watch this space. To find out more about eco projects in the capital, why not take one of Insider London&#8217;s <a href="https://www.insider-london.co.uk/london-eco-green-sustainable-walking-tour/" target="_blank">cutting-edge green walking tours</a>? Our <a href="https://www.insider-london.co.uk/silicon-roundabout-tech-city-tour/" target="_blank">tech city tour</a> will fill you in on the latest London innovations too. _

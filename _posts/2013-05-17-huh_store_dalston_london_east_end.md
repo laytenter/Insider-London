@@ -15,7 +15,7 @@ tags:
 id: 2394
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=2394
+guid: https://www.insider-london.co.uk/?p=2394
 ---
 
 **Dalston offers a great selection of coffee shops, bars, resturants and clubs. But the area actually has a few hidden gems when it comes to shopping. This is the first part in a new series that puts the spotlight on those Dalston-based retail havens. This week we&#8217;re starting with the HUH store Dalston.**<figure id="attachment_2399" style="width: 569px" class="wp-caption alignnone">

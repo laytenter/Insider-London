@@ -11,7 +11,7 @@ layout: post
 
 ![bigstock-LONDON--JUNE---British-Roya-95632004.jpg](/uploads/bigstock-LONDON--JUNE---British-Roya-95632004.jpg)
 
-London is one of the most historical cities in the world, with all sorts of interesting traditions and cultural quirks t[hat you can still see today](http://www.insider-london.co.uk/tours/). They really have stood the test of time so if you’re planning on going on walking tours in London this year, here are just a few of the very best ceremonies and parades to try and catch while in the Big Smoke.
+London is one of the most historical cities in the world, with all sorts of interesting traditions and cultural quirks t[hat you can still see today](https://www.insider-london.co.uk/tours/). They really have stood the test of time so if you’re planning on going on walking tours in London this year, here are just a few of the very best ceremonies and parades to try and catch while in the Big Smoke.
 
 
 [**Changing of the Guard**](http://changing-guard.com/dates-buckingham-palace.html)

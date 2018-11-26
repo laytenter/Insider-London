@@ -20,7 +20,7 @@ tags:
 id: 24423
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=24423
+guid: https://www.insider-london.co.uk/?p=24423
 s4_url2s:
 - 
 s4_image2s:
@@ -59,4 +59,4 @@ You can find out more about the project on the <a href="http://www.visitflanders
   *****
 </p>
 
-Wishing you a peaceful and happy Christmas. Thank you for reading the <a href="http://www.insider-london.co.uk/blog/" target="_blank">Insider London blog</a> and look forward to seeing you in 2015.
+Wishing you a peaceful and happy Christmas. Thank you for reading the <a href="https://www.insider-london.co.uk/blog/" target="_blank">Insider London blog</a> and look forward to seeing you in 2015.

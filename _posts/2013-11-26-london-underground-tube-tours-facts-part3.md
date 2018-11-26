@@ -16,7 +16,7 @@ tags:
 id: 7663
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=7663
+guid: https://www.insider-london.co.uk/?p=7663
 ---
 
 Round three of interesting and quirky facts includes the origin of “Mind the Gap” and facts about the animals living in London’s most important mode of transportation.

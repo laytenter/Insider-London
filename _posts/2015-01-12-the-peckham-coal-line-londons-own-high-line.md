@@ -20,7 +20,7 @@ tags:
 id: 24461
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=24461
+guid: https://www.insider-london.co.uk/?p=24461
 s4_url2s:
 - 
 s4_image2s:
@@ -66,5 +66,5 @@ s4_cdes:
 </p>
 
 <p style="text-align: left;">
-  What do you think? Is this project worth the investment? Let us know what your thoughts in the comments. And, for more green London, come and join us on one of our <a href="http://www.insider-london.co.uk/london-eco-green-sustainable-walking-tour/" target="_blank">cutting-edge green tours</a>.
+  What do you think? Is this project worth the investment? Let us know what your thoughts in the comments. And, for more green London, come and join us on one of our <a href="https://www.insider-london.co.uk/london-eco-green-sustainable-walking-tour/" target="_blank">cutting-edge green tours</a>.
 </p>

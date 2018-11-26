@@ -16,7 +16,7 @@ tags:
 id: 22400
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=22400
+guid: https://www.insider-london.co.uk/?p=22400
 s4_cdes:
 - 
 s4_ctitle:
@@ -28,7 +28,7 @@ s4_url2s:
 ---
 
 <p class="yiv8098260952MsoNormal">
-  London is a stat lover&#8217;s dream. Did you know that e<span style="color: #4d4d4d;">very year, <a href="http://www.insider-london.co.uk/2013/11/19/london-underground-tube-tours-facts-part2/" target="_blank">Underground trains travel the equivalent of a total of 1,735 times around the world</a> (or 90 trips to the moon and back), and that</span> the <a href="http://www.insider-london.co.uk/category/london-underground-tube/" target="_blank">average Londoner spends 11.5 days each year on the Underground</a>? Or that <a href="http://www.londoncouncils.gov.uk/londonfacts/default.htm?category=10" target="_blank">around 670,000 households in London,  live in the private rented sector</a>, a higher proportion than the national average of 14.2%?
+  London is a stat lover&#8217;s dream. Did you know that e<span style="color: #4d4d4d;">very year, <a href="/london-underground-tube-tours-facts-part2/" target="_blank">Underground trains travel the equivalent of a total of 1,735 times around the world</a> (or 90 trips to the moon and back), and that</span> the <a href="https://www.insider-london.co.uk/category/london-underground-tube/" target="_blank">average Londoner spends 11.5 days each year on the Underground</a>? Or that <a href="http://www.londoncouncils.gov.uk/londonfacts/default.htm?category=10" target="_blank">around 670,000 households in London,  live in the private rented sector</a>, a higher proportion than the national average of 14.2%?
 </p>
 
 <p class="yiv8098260952MsoNormal">
@@ -48,11 +48,11 @@ s4_url2s:
 </p>
 
 <p class="yiv8098260952MsoNormal">
-  We&#8217;ve spotted <a href="http://www.myrooms.co.uk/search/sclater-street-brick-lane-e1-1-double-bedroom-available/">this room</a> a stone&#8217;s throw away from <strong>Brick Lane</strong>. Brick Lane is well known for its restaurants, markets, brilliant people watching and <a href="http://www.insider-london.co.uk/london-graffiti-artists-walking-tours/">street art spotting</a> &#8211; such as <a href="http://www.insider-london.co.uk/2014/08/13/smiley-otto-schade-street-art-london-brick-lane/">Otto Schade&#8217;s London Smiley</a> pictured above. Take a look at our <a href="http://www.insider-london.co.uk/2012/10/30/shoreditch-bars-drinking-guide-london/">Shoreditch bar guide</a> to look at all the great drinking establishments that will be on your doorway too.
+  We&#8217;ve spotted <a href="http://www.myrooms.co.uk/search/sclater-street-brick-lane-e1-1-double-bedroom-available/">this room</a> a stone&#8217;s throw away from <strong>Brick Lane</strong>. Brick Lane is well known for its restaurants, markets, brilliant people watching and <a href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/">street art spotting</a> &#8211; such as <a href="/smiley-otto-schade-street-art-london-brick-lane/">Otto Schade&#8217;s London Smiley</a> pictured above. Take a look at our <a href="/shoreditch-bars-drinking-guide-london/">Shoreditch bar guide</a> to look at all the great drinking establishments that will be on your doorway too.
 </p>
 
 <p class="yiv8098260952MsoNormal">
-  The unimposing <strong>Old Street</strong> roundabout has been described as the UK&#8217;s answer to the Silicon Valley. Home to many innovative start-ups, it&#8217;s also got the coffee shops and bars to support them that also make it an exciting place to live: it&#8217;s got <a href="http://www.insider-london.co.uk/2014/09/19/insider-interview-makers-cafe/" target="_blank">the UK&#8217;s first 3d printing cafe</a> for starters. We&#8217;ve spied <a href="http://www.myrooms.co.uk/search/victori-chambers-luke-street-ec2a-1-double-bedroom-available/" target="_blank">this gorgeous looking room</a> just a few minutes walk away. Don&#8217;t forget to join us on our <a href="http://www.insider-london.co.uk/silicon-roundabout-tech-city-tour/" target="_blank">Silicon Roundabout tour</a> too, our introduction to this fascinating area.
+  The unimposing <strong>Old Street</strong> roundabout has been described as the UK&#8217;s answer to the Silicon Valley. Home to many innovative start-ups, it&#8217;s also got the coffee shops and bars to support them that also make it an exciting place to live: it&#8217;s got <a href="/insider-interview-makers-cafe/" target="_blank">the UK&#8217;s first 3d printing cafe</a> for starters. We&#8217;ve spied <a href="http://www.myrooms.co.uk/search/victori-chambers-luke-street-ec2a-1-double-bedroom-available/" target="_blank">this gorgeous looking room</a> just a few minutes walk away. Don&#8217;t forget to join us on our <a href="https://www.insider-london.co.uk/silicon-roundabout-tech-city-tour/" target="_blank">Silicon Roundabout tour</a> too, our introduction to this fascinating area.
 </p>
 
 <p class="yiv8098260952MsoNormal">
@@ -64,7 +64,7 @@ s4_url2s:
 </p>
 
 <p class="yiv8098260952MsoNormal">
-  <strong>King&#8217;s Cross</strong> is another area that&#8217;s changing all the time. And, at the moment, rent is still slightly cheaper than other areas in zone 1. Take a look at <a href="http://www.myrooms.co.uk/search/bridge-warf-caledonian-road-n1-4-double-room-available/" target="_blank">this flat in Bridge Wharf</a> for starters. You can check out all our posts <a href="http://www.insider-london.co.uk/category/kings-cross-regeneration/" target="_blank">about the King&#8217;s Cross area here</a>.
+  <strong>King&#8217;s Cross</strong> is another area that&#8217;s changing all the time. And, at the moment, rent is still slightly cheaper than other areas in zone 1. Take a look at <a href="http://www.myrooms.co.uk/search/bridge-warf-caledonian-road-n1-4-double-room-available/" target="_blank">this flat in Bridge Wharf</a> for starters. You can check out all our posts <a href="https://www.insider-london.co.uk/category/kings-cross-regeneration/" target="_blank">about the King&#8217;s Cross area here</a>.
 </p>
 
 <p class="yiv8098260952MsoNormal">

@@ -14,7 +14,7 @@ tags:
 id: 2920
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=2920
+guid: https://www.insider-london.co.uk/?p=2920
 ---
 
 **As activities in London go, testing your brainpower as a stranger in a garish jacket pummels you with tantalising nuggets is up there with the best of them. Here, we’ve picked the best pub quizzes London has to offer. But be warned, this is not only about mental muscle…**

@@ -15,7 +15,7 @@ tags:
 id: 3344
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=3344
+guid: https://www.insider-london.co.uk/?p=3344
 ---
 
 If you’ve been on our East London tour, or if you follow trends in East London, you’ll be familiar with The Macbeth in Hoxton. It is a place famous for kick-starting many a music career (Florence and Pete Doherty to name but two). Now there’s a new eclectic night for your musical delectation.<figure id="attachment_3363" style="width: 569px" class="wp-caption alignnone">

@@ -22,7 +22,7 @@ tags:
 id: 24442
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=24442
+guid: https://www.insider-london.co.uk/?p=24442
 s4_url2s:
 - 
 s4_image2s:
@@ -45,4 +45,4 @@ If sculptural street art is different for the viewer, it&#8217;s also different 
 
 <img class="aligncenter wp-image-24447 size-full" src="/wp-content/uploads/2015/01/10_mini.jpg" alt="Ronzo street art walking tour london" width="569" height="531" />
 
-The London-based Ronzo, originally from Germany, is known as a pioneer of 3D graffiti &#8211; he&#8217;s been erecting his plaques and monsters since 2008. You can find out more about him, and the varied types of street art [in this blog post](http://www.insider-london.co.uk/2014/06/06/the-many-forms-of-street-art/), or come and see them for yourself on one of our <a href="http://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">London street art and graffiti walking tours</a>.
+The London-based Ronzo, originally from Germany, is known as a pioneer of 3D graffiti &#8211; he&#8217;s been erecting his plaques and monsters since 2008. You can find out more about him, and the varied types of street art [in this blog post](/the-many-forms-of-street-art/), or come and see them for yourself on one of our <a href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">London street art and graffiti walking tours</a>.

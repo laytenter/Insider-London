@@ -14,7 +14,7 @@ tags:
 id: 1495
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=1495
+guid: https://www.insider-london.co.uk/?p=1495
 ---
 
 When I moved to London, like most newcomers I was afraid of buses (there were too many/it seemed too complicated) so I took the tube, even when it was entirely counter-intuitive to do so. The tube is fine, it is what it is. Simple maths tells us that when more people than can humanely fit into a space attempt nonetheless to fit into that space, unpleasantness is inevitable. Its just an unpleasant thing that we sometimes have to deal with, like going home at Christmas.

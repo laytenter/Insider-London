@@ -22,7 +22,7 @@ tags:
 id: 15700
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=15700
+guid: https://www.insider-london.co.uk/?p=15700
 s4_url2s:
 - 
 s4_image2s:
@@ -53,7 +53,7 @@ House of Illustration was established in 2002. The original idea came from a gr
   <em>Potential child prodigies of illustration?  Image Credit: David Rose</em>
 </p>
 
-**We do a walking tour based around the <a href="http://www.insider-london.co.uk/kings-cross-innovation-tour/" target="_blank">regeneration of the Kings’s Cross area</a>. Why did the House of Illustration choose Kings Cross as its permanent home as opposed to an established location such as Shoreditch or Soho?**
+**We do a walking tour based around the <a href="https://www.insider-london.co.uk/kings-cross-innovation-tour/" target="_blank">regeneration of the Kings’s Cross area</a>. Why did the House of Illustration choose Kings Cross as its permanent home as opposed to an established location such as Shoreditch or Soho?**
 
 The redevelopment of Kings Cross is an ambitious project.  The area is now home to many dynamic and creative organisations, as well as vibrant and welcoming public spaces.  We think that House of Illustration fits with both of these aspects!
 

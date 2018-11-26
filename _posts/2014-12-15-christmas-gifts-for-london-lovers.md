@@ -19,7 +19,7 @@ tags:
 id: 23551
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=23551
+guid: https://www.insider-london.co.uk/?p=23551
 s4_cdes:
 - 
 s4_ctitle:
@@ -64,4 +64,4 @@ One for real devotees is the <a href="https://www.ltmuseumshop.co.uk/moquette.h
 
 <a href="http://shop.herblester.com/products/wish-you-were-there" target="_blank">Herb Lester maps</a> are a great way to explore the capital. Each of these beautifully illustrated maps focus on a different aspect of the city, from its food to its music. The maps are £4 each, or you can get a London collection for £20.
 
-Or, our favourite way to get to know London, is on one of the Insider London tours. You can <a href="http://www.insider-london.co.uk/alternative-london-walking-tours-unusual-londongifts/" target="_blank">buy a gift voucher</a> for any of our tours, whether <a href="http://www.insider-london.co.uk/london-underground-tube-tours/" target="_blank">a whistle-stop history of the tube </a>or getting into the festive spirit (quite literally) with our <a href="http://www.insider-london.co.uk/london-pub-tours-drinking-tour/" target="_blank">History of Drinking Tour</a>. Take a look at to the left hand column to see our full range: all of our tours are available in gift voucher form, and the voucher can be redeemed on a date that suits the recipient &#8211; meaning you have something to look forward to once the Christmas period is over, and the last present has been unwrapped, too.
+Or, our favourite way to get to know London, is on one of the Insider London tours. You can <a href="https://www.insider-london.co.uk/alternative-london-walking-tours-unusual-londongifts/" target="_blank">buy a gift voucher</a> for any of our tours, whether <a href="https://www.insider-london.co.uk/london-underground-tube-tours/" target="_blank">a whistle-stop history of the tube </a>or getting into the festive spirit (quite literally) with our <a href="https://www.insider-london.co.uk/london-pub-tours-drinking-tour/" target="_blank">History of Drinking Tour</a>. Take a look at to the left hand column to see our full range: all of our tours are available in gift voucher form, and the voucher can be redeemed on a date that suits the recipient &#8211; meaning you have something to look forward to once the Christmas period is over, and the last present has been unwrapped, too.

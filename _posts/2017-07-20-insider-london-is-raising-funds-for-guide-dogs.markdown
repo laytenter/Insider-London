@@ -13,13 +13,13 @@ We are excited to announce that we have partnered with the **[Guide Dogs for the
 <h3>Another special announcement!</h3>
 <p>Due to popular demand and to raise as much money as possible, we have not only added two more London Underground and Tube Tours to the fundraiser, but also another Death & Debauchery Tour! The available tours now are:</p>
 <ul>
-<li>Sat, 19 Aug, 11am - The <a href="http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a> <strong>(sold out)</strong></li>
-<li>Sat, 19 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a> <strong>(sold out)</strong></li>
-<li>Sun, 20 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/the-death-and-debauchery-tour/">Death and Debauchery Tour</a> <strong>(sold out)</strong></li>
-<li>Sat, 26 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/">Silicon Roundabout and Tech City Tour</a> (£20 pp; con £12)</li>
-<li>Sun, 27 Aug, 11am - The <a href="http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a> (£20 pp; con £12)</li>
-<li>Sun, 27 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/london-finance-walking-tour/">City of London Finance Tour</a> (£20 pp; con £12)</li>
-<li>Mon, 28 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/the-death-and-debauchery-tour/">Death and Debauchery Tour</a> (£12 pp; con £10)</li>
+<li>Sat, 19 Aug, 11am - The <a href="https://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a> <strong>(sold out)</strong></li>
+<li>Sat, 19 Aug, 2pm - The <a href="https://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a> <strong>(sold out)</strong></li>
+<li>Sun, 20 Aug, 2pm - The <a href="https://www.insider-london.co.uk/tours/the-death-and-debauchery-tour/">Death and Debauchery Tour</a> <strong>(sold out)</strong></li>
+<li>Sat, 26 Aug, 2pm - The <a href="https://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/">Silicon Roundabout and Tech City Tour</a> (£20 pp; con £12)</li>
+<li>Sun, 27 Aug, 11am - The <a href="https://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a> (£20 pp; con £12)</li>
+<li>Sun, 27 Aug, 2pm - The <a href="https://www.insider-london.co.uk/tours/london-finance-walking-tour/">City of London Finance Tour</a> (£20 pp; con £12)</li>
+<li>Mon, 28 Aug, 2pm - The <a href="https://www.insider-london.co.uk/tours/the-death-and-debauchery-tour/">Death and Debauchery Tour</a> (£12 pp; con £10)</li>
 </ul>
 <p>Please contact <a href="mailto:jonas@insider-london.co.uk">jonas@insider-london.co.uk</a> for booking (please do not use the on-page booking system, otherwise it won’t contribute to the fundraiser) or more information. You can also read more about the fundraiser in the article below.</p>
 </div>
@@ -30,13 +30,13 @@ This August, we will run four special tours, the proceeds of which will fully go
 
 If you are interested in booking, please get in touch with Jonas at [jonas@insider-london.co.uk](mailto:jonas@insider-london.co.uk). The tours are:
 
-* 19th August, 2pm - The hidden history of the [London Underground and Tube](http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/)
+* 19th August, 2pm - The hidden history of the [London Underground and Tube](https://www.insider-london.co.uk/tours/london-underground-and-tube-tour/)
 
-* 20th August, 2pm - The [Death and Debauchery Tour](http://www.insider-london.co.uk/tours/the-death-and-debauchery-tour/) through London’s darker past
+* 20th August, 2pm - The [Death and Debauchery Tour](https://www.insider-london.co.uk/tours/the-death-and-debauchery-tour/) through London’s darker past
 
-* 26th August, 2pm - The [Silicon Roundabout Tour](http://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/) around Shoreditch’s start-up scene
+* 26th August, 2pm - The [Silicon Roundabout Tour](https://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/) around Shoreditch’s start-up scene
 
-* 27th August, 2pm - The [City of London Finance Tour](http://www.insider-london.co.uk/tours/london-finance-walking-tour/)
+* 27th August, 2pm - The [City of London Finance Tour](https://www.insider-london.co.uk/tours/london-finance-walking-tour/)
 
 ## What is Guide Dogs
 

@@ -13,7 +13,7 @@ tags:
 id: 24741
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=24741
+guid: https://www.insider-london.co.uk/?p=24741
 s4_url2s:
 - 
 s4_image2s:
@@ -52,6 +52,6 @@ As the customary foil-wrapped chocolate coins are handed out as New Year gifts, 
 
 Further details about Chinatown and the New Year celebrations can be found at [Chinatown London ](http://www.chinatownlondon.org/ "Chinatown London")
 
-Find out more about  Tech City&#8217;s architecture and investment on a [Silicon Roundabout/Tech City tour](http://www.insider-london.co.uk/silicon-roundabout-tech-city-tour/ "Silicon Roundabout/Tech City tour").
+Find out more about  Tech City&#8217;s architecture and investment on a [Silicon Roundabout/Tech City tour](https://www.insider-london.co.uk/silicon-roundabout-tech-city-tour/ "Silicon Roundabout/Tech City tour").
 
 &nbsp;

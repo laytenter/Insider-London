@@ -13,7 +13,7 @@ tags:
 id: 12084
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=12084
+guid: https://www.insider-london.co.uk/?p=12084
 ---
 
 <p dir="ltr">
@@ -120,7 +120,7 @@ guid: http://www.insider-london.co.uk/?p=12084
 
 24. Ebenezer Scrooge is back at it. [Hidden City’s Scrooge’s Cryptic Christmas Trail](http://www.londontown.com/LondonEvents/HiddenCity---Scrooges-Cryptic-Christmas-Trail/b31fe/) will test your Christmas spirit in the form of a treasure hunt. Scrooge’s ghost fears that London has, once again, lost its Christmas spirit. Clues are sent out via text message, and teams are rewarded with festive treats along the way. That is, if they prove they are keeping the Christmas spirit alive.
 
-25. Last but not least, if you’re in a bind to host a Christmas Party, why not let [Insider London](http://www.insider-london.co.uk/christmas-parties/) take some of the stress off your shoulders? Insider London has years of experience in organising and delivering Christmas tours and events that are actually worth getting excited about. Far from the dull cliches of the office party, our Christmas tours are unique and memorable.
+25. Last but not least, if you’re in a bind to host a Christmas Party, why not let [Insider London](https://www.insider-london.co.uk/christmas-parties/) take some of the stress off your shoulders? Insider London has years of experience in organising and delivering Christmas tours and events that are actually worth getting excited about. Far from the dull cliches of the office party, our Christmas tours are unique and memorable.
 
 You could also host a [Crisis Christmas Party](http://www.crisis.org.uk/christmasparty/) and help raise money for the homeless or participate in the [Christmas Pudding Race](http://www.xmaspuddingrace.org.uk/London_Race.html) and help raise money for Cancer Research UK.
 

@@ -12,7 +12,7 @@ tags:
 id: 1523
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=1523
+guid: https://www.insider-london.co.uk/?p=1523
 ---
 
 So I took my niece to Hamleys recently. Hamleys in Regent Street is the world&#8217;s largest toy store. It is a beautiful and historic building, established as a toy store by William Hamley in 1881. It was bombed five times during the second world war. It brings in up to five million people a year, and is a major tourist attraction. My thanks to the good people at Wikipedia for that short introduction.
@@ -59,6 +59,6 @@ So I took my niece to Hamleys recently. Hamleys in Regent Street is the world&#8
   </p>
   
   <p>
-    <em>A visit to Pollock&#8217;s Toy Store in Covent Garden is included in Insider London&#8217;s <a href="http://www.insider-london.co.uk/quirky-weird-london-walking-tours/">Quirky Tour</a></em>
+    <em>A visit to Pollock&#8217;s Toy Store in Covent Garden is included in Insider London&#8217;s <a href="https://www.insider-london.co.uk/quirky-weird-london-walking-tours/">Quirky Tour</a></em>
   </p>
 </div>

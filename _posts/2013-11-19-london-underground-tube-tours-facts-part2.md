@@ -17,7 +17,7 @@ tags:
 id: 7638
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=7638
+guid: https://www.insider-london.co.uk/?p=7638
 ---
 
 Round two of interesting and/or quirky facts includes how the Oyster Card got its name and interesting statistics about London’s most important mode of transportation.

@@ -18,7 +18,7 @@ tags:
 id: 24468
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=24468
+guid: https://www.insider-london.co.uk/?p=24468
 s4_url2s:
 - 
 s4_image2s:
@@ -43,6 +43,6 @@ This piece was created last year on Bacon Street, but for more of Alex Diaz&#821
 
 This piece on Cheshire Street, meanwhile, was created by ALO. This Italian artist was working with traditional oil paints until he, literally, decided to take his art out onto the street. It&#8217;s an anti-commercial statement, as much as an artistic one.
 
-We should also flag up another favourite &#8211; Phlegm &#8211; whose amazing Hanbury Street mural we highlighted in October. <a href="http://www.insider-london.co.uk/2014/10/29/street-art-picture-of-the-week-phlegm-hanbury-street/" target="_blank">Check it out here</a>.
+We should also flag up another favourite &#8211; Phlegm &#8211; whose amazing Hanbury Street mural we highlighted in October. <a href="/street-art-picture-of-the-week-phlegm-hanbury-street/" target="_blank">Check it out here</a>.
 
-For more great street art, why not come on one of our <a href="http://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">Insider London street art and graffiti walking tours</a>? There&#8217;s always something cool to discover.
+For more great street art, why not come on one of our <a href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">Insider London street art and graffiti walking tours</a>? There&#8217;s always something cool to discover.

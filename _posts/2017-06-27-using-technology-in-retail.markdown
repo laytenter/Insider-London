@@ -24,6 +24,6 @@ But it's not just Burberry embracing technology along Regent Street, beauty bran
 The traditional mannequin, displayed in almost every clothing shop you'll walk into, has also been reworked by a company called [Headworks](http://www.headworks.co.uk/)  to add an extra technological element to the shopping experience. According to their site they are the 'world's first intelligent mannequins' and can be customised to suit any retailers needs. You'll find a life sized mannequin body combined with a 3D holographic head, which is extremely realistic that aims to engage customers in the way a traditional mannequin cannot.
 
 
-If you would like to find out more about how technology is used in retail then why not book a place on our [Retail Design Tour ](http://www.insider-london.co.uk/tours/retail-design/)of London?  Also don't forget to follow us on [Facebook](http://facebook.com/insiderlondon/), [Twitter](http://twitter.com/insiderlondon) and [Instagram](http://instagram.com/insiderlondontours/) to keep up to date with Insider London.
+If you would like to find out more about how technology is used in retail then why not book a place on our [Retail Design Tour ](https://www.insider-london.co.uk/tours/retail-design/)of London?  Also don't forget to follow us on [Facebook](http://facebook.com/insiderlondon/), [Twitter](http://twitter.com/insiderlondon) and [Instagram](http://instagram.com/insiderlondontours/) to keep up to date with Insider London.
 
 By Sage Fitzpatrick

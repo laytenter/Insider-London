@@ -15,7 +15,7 @@ tags:
 id: 23482
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=23482
+guid: https://www.insider-london.co.uk/?p=23482
 s4_url2s:
 - 
 s4_image2s:
@@ -56,6 +56,6 @@ Hugh Bonneville, who plays Mr Brown in the movie and whose statue  celebrates P
 
 The statues will be auctioned to raise money for charities including the National Society for the Prevention of Cruelty to Children, which runs the ChildLine service, and Action Medical** **Research**,** for whom Paddington has been the official mascot for over 35 years. The NSPCC will be auctioning off the bears with Christie&#8217;s, live and online, in December and January.
 
-Discover more about Paddington station and the rest of the London Underground on a [London Underground Tube Tour](http://www.insider-london.co.uk/london-underground-tube-tours/ "London Underground Tube Tour")
+Discover more about Paddington station and the rest of the London Underground on a [London Underground Tube Tour](https://www.insider-london.co.uk/london-underground-tube-tours/ "London Underground Tube Tour")
 
-If you&#8217;re inspired by the colourful statues around the capital, you might enjoy a  [London Graffiti and Street Art Tour](http://www.insider-london.co.uk/london-graffiti-artists-walking-tours/ "London Graffiti and Street Art Tour")
+If you&#8217;re inspired by the colourful statues around the capital, you might enjoy a  [London Graffiti and Street Art Tour](https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/ "London Graffiti and Street Art Tour")

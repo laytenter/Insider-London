@@ -14,7 +14,7 @@ layout: post
 
 Canary Wharf is renowned for its place at the heart of the UK’s financial sector, so you could be forgiven for thinking that there’s little more than a range of offices - albeit very well designed ones - to see here.
 
-But in fact this district of London not only has a fascinating history, but also a few artistic gems that are well worth seeking out if you’re visiting the city. Going on a Canary Wharf tour [can give you all the details](http://www.insider-london.co.uk/tours/canary-wharf-finance-tour/), as well as ensure you don’t miss out on any top sights.
+But in fact this district of London not only has a fascinating history, but also a few artistic gems that are well worth seeking out if you’re visiting the city. Going on a Canary Wharf tour [can give you all the details](https://www.insider-london.co.uk/tours/canary-wharf-finance-tour/), as well as ensure you don’t miss out on any top sights.
 
 One of the wonderful things about wandering around this area is that you’ll find incredible pieces of art dotted among the modern, commercial buildings.
 

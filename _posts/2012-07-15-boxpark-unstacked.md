@@ -13,10 +13,8 @@ author: london75
 layout: post
 ---
 
-<div>
-  <p style="text-align: left">
-    <a href="http://www.insider-london.co.uk/blog/2012/07/15/boxpark-unstacked/boxpark_row/" rel="attachment wp-att-5192"><img class="aligncenter size-full wp-image-5192" src="/wp-content/uploads/2012/07/boxpark_row.jpg" alt="" width="500" height="375" /></a>
-  </p>
+<a href="/wp-content/uploads/2012/07/boxpark_row.jpg" rel="attachment wp-att-5192">
+<img class="aligncenter size-full wp-image-5192" src="/wp-content/uploads/2012/07/boxpark_row.jpg" alt="" width="500" height="375" /></a>
 
   <p style="text-align: left">
     <a href="http://www.boxpark.co.uk/" target="_blank">Boxpark</a> in Shoreditch, East London, can only be described as a shopping mall with a difference. Sixty recycled shipping units sit next to and on top of each other in the middle of a disused railway goods yard – a new and unusual space for fashion and accessories stores, art galleries, charities, restaurants and cafes.
@@ -39,7 +37,7 @@ layout: post
   </p>
 
   <p>
-    <a href="http://www.insider-london.co.uk/blog/2012/07/15/boxpark-unstacked/boxpark_shops/" rel="attachment wp-att-5193"><img class="aligncenter size-full wp-image-5193" src="/wp-content/uploads/2012/07/boxpark_shops.jpg" alt="" width="499" height="330" /></a>
+    <a href="/boxpark-unstacked/" rel="attachment wp-att-5193"><img class="aligncenter size-full wp-image-5193" src="/wp-content/uploads/2012/07/boxpark_shops.jpg" alt="" width="499" height="330" /></a>
   </p>
 
   <p>
@@ -57,7 +55,3 @@ layout: post
   <p>
     Image credit: <a href="http://www.flickr.com/photos/37031529@N00/8685767778/">fsse8info</a> via <a href="http://compfight.com">Compfight</a> <a href="http://creativecommons.org/licenses/by-sa/2.0/">cc</a>
   </p>
-</div>
-
-<div>
-</div>

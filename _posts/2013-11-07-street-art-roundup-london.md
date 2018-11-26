@@ -19,7 +19,7 @@ tags:
 - Thierry Noir
 author: london75
 id: 8985
-guid: http://www.insider-london.co.uk/?p=8985
+guid: https://www.insider-london.co.uk/?p=8985
 layout: post
 ---
 
@@ -53,11 +53,11 @@ New Street Art at <a href="/street-art-east-londons-red-market/">The Red Market
 
 <img class="aligncenter size-full wp-image-9000" alt="" src="/wp-content/uploads/2013/10/thierrynoir.png" width="569" height="314" />
 
-<a href="http://www.insider-london.co.uk/2012/12/13/new-london-street-artists-616/">616</a> 
+<a href="/new-london-street-artists-616/">616</a> 
 
 <img class="aligncenter size-full wp-image-9001" alt="" src="/wp-content/uploads/2013/10/616.png" width="569" height="314" />
 
-Interview with <a href="http://www.insider-london.co.uk/2012/07/19/very-literal-street-art/">Ben Wilson</a>
+Interview with <a href="/very-literal-street-art/">Ben Wilson</a>
 
 <figure>
 <img alt="" src="/wp-content/uploads/2013/10/benwilson.png" width="569" height="314" />

@@ -16,7 +16,7 @@ tags:
 id: 24802
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=24802
+guid: https://www.insider-london.co.uk/?p=24802
 s4_url2s:
 - 
 s4_image2s:
@@ -87,4 +87,4 @@ It’s also boosting the workforce in other professions, cutting commutes and br
 
 If you want to find about more about the Crossrail project, visit the [London Transport Museum](http://www.ltmuseum.co.uk/), which will be running an exhibition entitled, “Breakthrough: Crossrail’s Tunnelling Story” until August 2015.
 
-Discover more about London’s rail lines on our [London Underground / Tube walking tour](http://www.insider-london.co.uk/london-underground-tube-tours/), or explore sustainability in the capital on our [Cutting-Edge Green tour](http://www.insider-london.co.uk/london-eco-green-sustainable-walking-tour/).
+Discover more about London’s rail lines on our [London Underground / Tube walking tour](https://www.insider-london.co.uk/london-underground-tube-tours/), or explore sustainability in the capital on our [Cutting-Edge Green tour](https://www.insider-london.co.uk/london-eco-green-sustainable-walking-tour/).

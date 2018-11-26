@@ -11,7 +11,7 @@ layout: post
 
 ![bigstock--165053582.jpg](/uploads/bigstock--165053582.jpg)
 
-[If you’re planning some walking tours in London](http://www.insider-london.co.uk/tours/) in the near future, make sure you pick a route that takes you past some of the museums the city has to boast. Why, we hear you ask? Because the city has just been revealed as being the museum capital of the entire world!
+[If you’re planning some walking tours in London](https://www.insider-london.co.uk/tours/) in the near future, make sure you pick a route that takes you past some of the museums the city has to boast. Why, we hear you ask? Because the city has just been revealed as being the museum capital of the entire world!
 
 A new report from the Themed Entertainment Association has just revealed that four of the museums to be found in London [were in the top 20](http://www.aol.co.uk/travel/2017/06/04/london-named-museums-capital-of-the-world/) of the most-visited sites around the world last year, with just Washington DC and Washington DC alone the only other city to match this feat.
 

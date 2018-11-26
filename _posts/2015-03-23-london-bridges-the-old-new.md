@@ -21,7 +21,7 @@ tags:
 id: 25021
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=25021
+guid: https://www.insider-london.co.uk/?p=25021
 s4_url2s:
 - 
 s4_image2s:
@@ -82,7 +82,7 @@ The route to one of London’s biggest landmarks, Westminster Bridge links Lambe
 
 **Millennium Bridge**
 
-Millennium Bridge opened in June 2000 in accordance with its name. It leads from Bankside, near the Tate Modern, to the City of London, near St Paul’s Cathedral. The eye-catching steel suspension design makes it stand out as one of London’s most modern constructions – but it hasn’t launched without issue. Two days after it opened, pedestrians reported an unusual swaying motion, leading to its nickname: the “Wobbly Bridge” (read more about some of <a href="http://www.insider-london.co.uk/2015/01/23/when-london-buildings-go-wrong/" target="_blank">London&#8217;s major projects with &#8216;issues&#8217; here</a>).
+Millennium Bridge opened in June 2000 in accordance with its name. It leads from Bankside, near the Tate Modern, to the City of London, near St Paul’s Cathedral. The eye-catching steel suspension design makes it stand out as one of London’s most modern constructions – but it hasn’t launched without issue. Two days after it opened, pedestrians reported an unusual swaying motion, leading to its nickname: the “Wobbly Bridge” (read more about some of <a href="/when-london-buildings-go-wrong/" target="_blank">London&#8217;s major projects with &#8216;issues&#8217; here</a>).
 
 [<img class="aligncenter size-full wp-image-25023" src="/wp-content/uploads/2015/03/BeFunky_Albert-Bridge.jpg.jpg" alt="Albert Bridge" width="569" height="427" />](/wp-content/uploads/2015/03/BeFunky_Albert-Bridge.jpg.jpg)
 
@@ -104,4 +104,4 @@ Build on the site of what was once an ancient ford, the Chelsea Bridge also conn
 
 &nbsp;
 
-To discover more of London’s latest landmarks, join our [Modern Architecture](http://www.insider-london.co.uk/london-architecture-walking-tours/) walking tour. And, if you’d like to explore other green spots while you wait for the Garden Bridge to open, check out our [Sustainable London](http://www.insider-london.co.uk/sustainable-green-building-london-tours-2/) walking tour.
+To discover more of London’s latest landmarks, join our [Modern Architecture](https://www.insider-london.co.uk/london-architecture-walking-tours/) walking tour. And, if you’d like to explore other green spots while you wait for the Garden Bridge to open, check out our [Sustainable London](https://www.insider-london.co.uk/sustainable-green-building-london-tours-2/) walking tour.

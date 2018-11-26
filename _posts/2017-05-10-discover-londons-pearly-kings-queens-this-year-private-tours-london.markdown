@@ -19,4 +19,4 @@ Croft was absolutely fascinated with this attire and soon took it to the next le
 
 But because there were so many deserving causes, Croft decided he needed a bit of help – and turned to the apple sellers to lend a hand. This was the start of the Pearly Monarchy – which is still very much in evidence today.
 
-There are two events each year that are put on in London – the Pearly Memorial service which takes place on the third Sunday in May, and the harvest Festival service which is on the first Sunday in October… so keep a look out for these [if you’re in the city at this time](http://www.insider-london.co.uk/tours/).
+There are two events each year that are put on in London – the Pearly Memorial service which takes place on the third Sunday in May, and the harvest Festival service which is on the first Sunday in October… so keep a look out for these [if you’re in the city at this time](https://www.insider-london.co.uk/tours/).

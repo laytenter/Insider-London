@@ -14,7 +14,7 @@ layout: post
 
 ![bigstock--160013423.jpg](/uploads/bigstock--160013423.jpg)
 
-If you’re planning a trip to the UK’s capital and are [looking for fun things to do](http://www.insider-london.co.uk/tours/), then you might be interested in the best London history tours available. When you think back to some of the most famous historical disasters that have taken place in the city of London usually the first that come to mind are the Plague, the Great Smog or the Great Fire of London. 
+If you’re planning a trip to the UK’s capital and are [looking for fun things to do](https://www.insider-london.co.uk/tours/), then you might be interested in the best London history tours available. When you think back to some of the most famous historical disasters that have taken place in the city of London usually the first that come to mind are the Plague, the Great Smog or the Great Fire of London. 
 
 However, there is one natural disaster which rarely gets covered in the history lessons. The Great Tornado, which took place in 1091 on the 17th October, caused devastation throughout the city yet surprisingly only two fatalities were recorded according to the [Londonist](https://londonist.com/london/history/ever-heard-of-the-great-tornado-of-london). 
 

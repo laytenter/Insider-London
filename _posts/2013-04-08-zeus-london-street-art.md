@@ -13,7 +13,7 @@ tags:
 id: 4483
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=4483
+guid: https://www.insider-london.co.uk/?p=4483
 ---
 
 **It’s an ongoing debate – and it won’t go away.  Should street artists put their work in galleries? Do (some) street artists that decide against such a pursuit get too het up about people wanting to earn a living from it? At what stage do you cease to be a street artist?**
@@ -24,7 +24,7 @@ These types of musings are sort of on my mind as I have a day out west, trekking
 
 These types of musings are sort of on my mind as I have a day out west, trekking in the sunshine over to the [Graffik Gallery](http://www.graffikgallery.com/ "Graffik Gallery") on Portobello Road to have a look at South London artist](http://www.deanzeuscolman.com/#/home/4567902849 "Zeus") conversion of the gallery into a sweet shop.
 
-<a href="http://www.insider-london.co.uk/blog/2013/04/08/zeus-london-street-art/zeus/" rel="attachment wp-att-4488"><img class="alignnone size-full wp-image-4488" alt="Zeus, London street art, Walking Tours, Inisder London" src="/wp-content/uploads/2013/02/Zeus.png" width="569" height="251" /></a>
+<a href="/zeus-london-street-art/" rel="attachment wp-att-4488"><img class="alignnone size-full wp-image-4488" alt="Zeus, London street art, Walking Tours, Inisder London" src="/wp-content/uploads/2013/02/Zeus.png" width="569" height="251" /></a>
 
 First impressions are largely comprised of walking into a giant packet of love hearts. It is certainly an all encompassing experience. As we peruse a man enters the shop.
 
@@ -38,7 +38,7 @@ As we tuck in to banana foams and pink shrimps it dawns on me that as luck or se
 
 We walk through to the backroom where the theme changes ever so slightly. This painting is my personal favourite.<figure id="attachment_4493" style="width: 569px" class="wp-caption alignnone">
 
-<a href="http://www.insider-london.co.uk/blog/2013/04/08/zeus-london-street-art/mirror/" rel="attachment wp-att-4493"><img class="size-full wp-image-4493" alt="Zeus, London street art, Insider London, walking tours" src="/wp-content/uploads/2013/02/Mirror.jpg" width="569" height="427" /></a><figcaption class="wp-caption-text">surveillance has never been so sweet</figcaption></figure>
+<a href="/zeus-london-street-art/" rel="attachment wp-att-4493"><img class="size-full wp-image-4493" alt="Zeus, London street art, Insider London, walking tours" src="/wp-content/uploads/2013/02/Mirror.jpg" width="569" height="427" /></a><figcaption class="wp-caption-text">surveillance has never been so sweet</figcaption></figure>
 
 **Acid**
 
@@ -56,4 +56,4 @@ We explain we are an actor and writer respectively.
 
 For Zeus, street artist is a reductive term. He’s an artist and as it stands he doesn’t feel the need to go back on the streets. I moot that the Eastend can feel saturated. He agrees, musing that sometimes ‘too much can be like advertising’. He also draws a distinction between what he does now and what he did when he started out. This isn’t street art inside but what he is adamant about is that the style, energy and sentiment of a street artist who chooses to ‘go inside’ should not be diminished. It seems sometimes Zeus feels artists become too reverential in a gallery setting and that’s where they lose credibility. He has no qualms trying to make a crust. It’s all in the how.
 
-Want to see the latest street art? Why not pop along on our [Eastend street art walking tour](http://www.insider-london.co.uk/london-graffiti-artists-walking-tours/ "street art walking tour")? It&#8217;s the best thing you&#8217;ll ever do.
+Want to see the latest street art? Why not pop along on our [Eastend street art walking tour](https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/ "street art walking tour")? It&#8217;s the best thing you&#8217;ll ever do.

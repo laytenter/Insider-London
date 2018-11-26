@@ -17,7 +17,7 @@ tags:
 id: 24864
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=24864
+guid: https://www.insider-london.co.uk/?p=24864
 s4_url2s:
 - 
 s4_image2s:
@@ -36,6 +36,6 @@ s4_cdes:
 
 We often focus on individual artists as our street art picture of the week. This week we&#8217;re looking at two longtime favourites to demonstrate just how varied street art is in Shoreditch.
 
-This shot is taken on Princelet street. On the left is a work by <a href="http://www.insider-london.co.uk/2014/12/03/street-art-pictures-of-the-week-stik/" target="_blank">Stik</a> we featured back in December, while in the centre is a piece by Otto Schade, or Osch, who you may remember from his piece on <a href="http://www.insider-london.co.uk/2014/08/13/smiley-otto-schade-street-art-london-brick-lane/" target="_blank">Brick Lane</a>. On the right, there are the many layers of different artists works that&#8217;s so typical of the area.
+This shot is taken on Princelet street. On the left is a work by <a href="/street-art-pictures-of-the-week-stik/" target="_blank">Stik</a> we featured back in December, while in the centre is a piece by Otto Schade, or Osch, who you may remember from his piece on <a href="/smiley-otto-schade-street-art-london-brick-lane/" target="_blank">Brick Lane</a>. On the right, there are the many layers of different artists works that&#8217;s so typical of the area.
 
-Spotted something great on London&#8217;s streets? Get in touch via our <a href="https://www.facebook.com/insiderlondon" target="_blank">Facebook page</a> or email frances@insider-london.co.uk to tell us more. And why not try one of the <a href="http://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">Insider London street art and graffiti walking tours</a>? There&#8217;s always something cool to spot.
+Spotted something great on London&#8217;s streets? Get in touch via our <a href="https://www.facebook.com/insiderlondon" target="_blank">Facebook page</a> or email frances@insider-london.co.uk to tell us more. And why not try one of the <a href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">Insider London street art and graffiti walking tours</a>? There&#8217;s always something cool to spot.

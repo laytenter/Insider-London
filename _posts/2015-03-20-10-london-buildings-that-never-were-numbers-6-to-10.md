@@ -20,7 +20,7 @@ tags:
 id: 24920
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=24920
+guid: https://www.insider-london.co.uk/?p=24920
 s4_url2s:
 - 
 s4_image2s:
@@ -31,10 +31,10 @@ s4_cdes:
 - 
 ---
 
-Last week, we took you on a whirlwind tour of five London architectural projects that never came to fruition &#8211; <a href="http://www.insider-london.co.uk/?p=24901" target="_blank">you can see the list here</a>. But London&#8217;s history contains so many, many more, so today we&#8217;re back to show you a further five.
+Last week, we took you on a whirlwind tour of five London architectural projects that never came to fruition &#8211; <a href="https://www.insider-london.co.uk/?p=24901" target="_blank">you can see the list here</a>. But London&#8217;s history contains so many, many more, so today we&#8217;re back to show you a further five.
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-24927" src="/wp-content/uploads/2015/03/descriptiveillus00lynd_0018.jpg" alt="descriptiveillus00lynd_0018" width="569" height="952" /><em>One of the entries for Sir Edward Watkin&#8217;s unbuilt Wembley Tower, <a href="http://www.insider-london.co.uk/2015/03/13/10-london-buildings-that-never-were-numbers-1-to-5/" target="_blank">featured in part 1</a>. Image Credit: <a href="http://publicdomainreview.org/collections/catalogue-of-the-68-competitive-designs-for-the-great-tower-for-london-1890/">Public Domain Review</a></em>
+  <img class="aligncenter size-full wp-image-24927" src="/wp-content/uploads/2015/03/descriptiveillus00lynd_0018.jpg" alt="descriptiveillus00lynd_0018" width="569" height="952" /><em>One of the entries for Sir Edward Watkin&#8217;s unbuilt Wembley Tower, <a href="/10-london-buildings-that-never-were-numbers-1-to-5/" target="_blank">featured in part 1</a>. Image Credit: <a href="http://publicdomainreview.org/collections/catalogue-of-the-68-competitive-designs-for-the-great-tower-for-london-1890/">Public Domain Review</a></em>
 </p>
 
 <p style="text-align: center;">
@@ -99,4 +99,4 @@ The replanning of Hyde Park Corner on a grander scale than the current sad and 
 
 It&#8217;s hard to say how different London would be if these and many other unrealised proposals had gone ahead. A Great Crystal Way would&#8217;ve gone someway towards solving congestion problems, but as modern flyovers and motorways have shown, it would likely been running at capacity today. Paxton&#8217;s previous design, The Crystal Palace, burned down in a 1936 fire and was never rebuilt. If it had survived it would surely be a World Heritage Site today. Wren&#8217;s plan for London would today be one of Europe&#8217;s greatest cities, but would likely have been flattened during WWII and it&#8217;s doubtful that post war planners would&#8217;ve been anymore sympathetic. Maybe we&#8217;re all better off being happy with what we have, as London is always a city of imperfections; This is why we love our great capital and no amount of development will ever sweep this away.
 
-Want to know more about architecture in London today? Please take a look at our [Modern Architecture Tour](http://www.insider-london.co.uk/london-architecture-walking-tours/).
+Want to know more about architecture in London today? Please take a look at our [Modern Architecture Tour](https://www.insider-london.co.uk/london-architecture-walking-tours/).

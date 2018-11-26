@@ -20,14 +20,14 @@ tags:
 id: 4007
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=4007
+guid: https://www.insider-london.co.uk/?p=4007
 ---
 
 **So it&#8217;s definitely really cold outside at the moment. And I don&#8217;t know about you, but I can&#8217;t say I&#8217;ve been out raving much of late, due to a strong desire to just sit in bed and do absolutely nothing. What I _have_ done, however, is sit on a rooftop for several hours, at night, having dinner.** **Not as barmy as it sounds, my friends: for this was a night at Forza Win(ter), and it was a rooftop full of hot cocktails, blankets, music, incredible food, a whole load of very happy, chatting (and singing) people and, most importantly- big-ass heaters.**
 
 Forza Wint(ter) is the wintry sibling of Forza Win, a rooftop pop-up pizza restaurant that kicked up a fuss this summer on the supper-club scene. _Fonduta_ is the word on the street this season, however, (_not_ to be mistaken for _Fondue,_ albeit v. similar), with Sebastian (Bash) Redford and his team of chefs whipping up bowls of delicious molten cheese and all sorts of wonderful dishes of dippy food-stuffs. A &#8220;Buttered Rum&#8221;, served to us by resident musician-turned-waiter for the evening Josh, was a wonderful warming greeting in a glass, of Harry Potter-ish magic. Once seated at large, round, conversation-making tables, big steaming pots of creamy Fonduta were placed ceremoniously in the centre, and the dipping commenced!
 
-<a href="http://www.insider-london.co.uk/blog/2013/01/31/forza-green-london-food/forza/" rel="attachment wp-att-4017"><img class="aligncenter size-full wp-image-4017" alt="" src="/wp-content/uploads/2013/01/FOrza.jpg" width="569" height="379" /></a>
+<a href="/forza-green-london-food/forza/" rel="attachment wp-att-4017"><img class="aligncenter size-full wp-image-4017" alt="" src="/wp-content/uploads/2013/01/FOrza.jpg" width="569" height="379" /></a>
 
 Our cheesy extravaganza featured beautiful slices of melt-in-the-mouth butternut squash, hearty wedges of sour dough and hackney cobbler, roasted tomatoes, paprika-fried cauliflower (who knew cauliflower could be so enticing?), and lovely parsnips; all ready to be dipped into bowls of hot melty greatness from the pot that was never empty. I must note that my account is vegetarian-biased: there was also ham- slow cooked for four hours- which my neighbour assured me was superb; and meatballs, which were devoured at a pace that would indicate they too were well received.
 

@@ -14,7 +14,7 @@ tags:
 id: 24909
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=24909
+guid: https://www.insider-london.co.uk/?p=24909
 s4_url2s:
 - 
 s4_image2s:
@@ -59,4 +59,4 @@ Law, Liberty, Legacy is on view at the British Library  from Friday 13 March to
 
 Further information about events in London and around the country is available at [Magna Carta 800](http://magnacarta800th.com/ "Magna Carta 800")
 
-Find out more fascinating facts about London’s colourful past on an [ Alternative History Walking Tour](http://www.insider-london.co.uk/sightseeing-london-walking-tours/ "Alternative History Walking Tour")
+Find out more fascinating facts about London’s colourful past on an [ Alternative History Walking Tour](https://www.insider-london.co.uk/sightseeing-london-walking-tours/ "Alternative History Walking Tour")

@@ -11,7 +11,7 @@ tags:
 id: 795
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=795
+guid: https://www.insider-london.co.uk/?p=795
 ---
 
 #### **Jamie Oliver’s new chain embodies the spirit of Great British food and values.**

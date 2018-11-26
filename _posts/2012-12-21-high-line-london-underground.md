@@ -14,7 +14,7 @@ tags:
 id: 3432
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=3432
+guid: https://www.insider-london.co.uk/?p=3432
 ---
 
 You may have noticed a petition doing the rounds to open up London’s disused underground railways (we&#8217;ve certainly been tweeting it like mad). It might surprise you to learn that there are no less than _twenty-six_ disused stations underneath London: that&#8217;s a whole lotta disused space for a cramped city. (Who&#8217;s betting you&#8217;ll grumble about this fact the next time you&#8217;re crushed to within an inch of your life on a busy tube platform).

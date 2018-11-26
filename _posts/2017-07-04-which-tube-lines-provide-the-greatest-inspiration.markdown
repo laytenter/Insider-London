@@ -23,4 +23,4 @@ Lecturer in creativity and innovation at the Cass Business School Sara Jones tol
 
 But this doesn’t explain why the Metropolitan line, which features stops such as Wembley Park, Baker Street, Barbican and Liverpool Street, makes people feel more creative than other routes.
 
-If you’re intrigued about this, as well as the history of the city’s subterranean transport system, you could join [London Underground tours](http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/) to find out more from a knowledgeable guide. As well as learning about the history of the train system, you’ll also get a fascinating insight into the design features of various stations.
+If you’re intrigued about this, as well as the history of the city’s subterranean transport system, you could join [London Underground tours](https://www.insider-london.co.uk/tours/london-underground-and-tube-tour/) to find out more from a knowledgeable guide. As well as learning about the history of the train system, you’ll also get a fascinating insight into the design features of various stations.

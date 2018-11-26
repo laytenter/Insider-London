@@ -16,7 +16,7 @@ tags:
 id: 24673
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=24673
+guid: https://www.insider-london.co.uk/?p=24673
 s4_url2s:
 - 
 s4_image2s:
@@ -197,4 +197,4 @@ It’s award season – and not just for the film stars. The Sustainable Restaur
 
 &nbsp;
 
-To find more sustainable spots in London, join our [Cutting-Edge Green Tour](http://www.insider-london.co.uk/london-eco-green-sustainable-walking-tour/). You can also check out our [Sustainable Architecture](http://www.insider-london.co.uk/sustainable-green-building-london-tours-2/) Tour to see the city’s greenest buildings.
+To find more sustainable spots in London, join our [Cutting-Edge Green Tour](https://www.insider-london.co.uk/london-eco-green-sustainable-walking-tour/). You can also check out our [Sustainable Architecture](https://www.insider-london.co.uk/sustainable-green-building-london-tours-2/) Tour to see the city’s greenest buildings.

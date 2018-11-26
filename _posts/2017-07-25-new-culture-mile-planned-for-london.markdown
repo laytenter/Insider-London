@@ -23,6 +23,6 @@ Consultations about the proposals will be carried out, with the City of London C
 
 Policy chairman at the organisation Catherine McGuinness commented: “Culture has been at its heart for centuries, alongside commerce, and now more than ever, arts and culture are vital to the UK economy and our position in the world.”
 
-[The City of London has changed considerably over the centuries](http://www.insider-london.co.uk/discover-the-changing-face-of-the-city-of-london-history-tour/) since it was established, and it seems this plan will be the next stage of its evolution. 
+[The City of London has changed considerably over the centuries](https://www.insider-london.co.uk/discover-the-changing-face-of-the-city-of-london-history-tour/) since it was established, and it seems this plan will be the next stage of its evolution. 
 
-You can find out more about the fascinating heritage in this part of the capital by going on walking tours in London [with knowledgeable and experienced guides](http://www.insider-london.co.uk/). 
+You can find out more about the fascinating heritage in this part of the capital by going on walking tours in London [with knowledgeable and experienced guides](https://www.insider-london.co.uk/). 

@@ -18,7 +18,7 @@ tags:
 id: 24559
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=24559
+guid: https://www.insider-london.co.uk/?p=24559
 s4_url2s:
 - 
 s4_image2s:
@@ -36,7 +36,7 @@ s4_cdes:
 </p>
 
 <p style="text-align: left;">
-  We&#8217;re venturing up to north London for our street art pictures this week. Camden market is about to undergo a huge redevelopment. Whether you think this is good news or not, temporary respite comes in the form of some new colourful street art organised by <a href="https://www.facebook.com/pages/The-Real-Art-of-Street-Art/136382576475788" target="_blank">The Real Art of Street Art</a>, an organisation that provides artists legal walls. Above you can see a new piece by Insider London favourite, Mr Cenz (see another example of his work <a href="http://www.insider-london.co.uk/2014/10/15/street-art-picture-of-the-week-mr-cenz-brick-lane-car-park/" target="_blank">here</a>).
+  We&#8217;re venturing up to north London for our street art pictures this week. Camden market is about to undergo a huge redevelopment. Whether you think this is good news or not, temporary respite comes in the form of some new colourful street art organised by <a href="https://www.facebook.com/pages/The-Real-Art-of-Street-Art/136382576475788" target="_blank">The Real Art of Street Art</a>, an organisation that provides artists legal walls. Above you can see a new piece by Insider London favourite, Mr Cenz (see another example of his work <a href="/street-art-picture-of-the-week-mr-cenz-brick-lane-car-park/" target="_blank">here</a>).
 </p>
 
 <p style="text-align: center;">
@@ -57,4 +57,4 @@ These clever &#8216;Origami Piranhas&#8217; are a collaboration between Airborne
 
 While this tiger is the work of Mr Shiz. Hiding around the other side of this wall is also <a href="https://www.flickr.com/photos/boringlovechild/16310261901/in/photolist-qEcB8U-qWASar-qSR5KC-qTqxPa-pWbvGS-qPE7jQ-qRruVK-qyZpXF-qRhmC6-qP9A9s-qRa3Yo-qxLPhE-qvN611-qvVjYD-qNd6VM-qNnfwk-qL5jL9-qvWDvK-qvVkhz-qNd7vp-qvvcdr-qvib8T-pQHFVb-qMHNpp-qvgT72-pQWDYt-qvibf6-qv9Eg5-pQWECK-pQHGEN-qMDy5C-qMHMSc-pQHGqu-qMywLe-qvgTA8-qKqVo1-qviaRk-qv9EQm-qMyw7Z-qviazZ-qMHNep-qv9DMj-qKqVj3-qMDxu9-qvgTmk-qMywLp-pQHFEm-pQHFxY-qvib7F-qMHMQZ" target="_blank">an impressive piece by Dank</a>.
 
-If you can&#8217;t get there to check them out for yourself, there are some more pictures to look at on the <a href="http://now-here-this.timeout.com/2015/01/23/in-pictures-camden-market-gets-a-street-art-makeover-before-being-pulled-down/" target="_blank">Time Out blog</a>. And, for Shoreditch street art, come and join us on <a href="http://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">one of our street art and graffiti walking tours</a>.
+If you can&#8217;t get there to check them out for yourself, there are some more pictures to look at on the <a href="http://now-here-this.timeout.com/2015/01/23/in-pictures-camden-market-gets-a-street-art-makeover-before-being-pulled-down/" target="_blank">Time Out blog</a>. And, for Shoreditch street art, come and join us on <a href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">one of our street art and graffiti walking tours</a>.

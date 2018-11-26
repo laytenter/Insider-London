@@ -14,7 +14,7 @@ tags:
 id: 2290
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=2290
+guid: https://www.insider-london.co.uk/?p=2290
 ---
 
 [<img class="alignnone size-full wp-image-2385" src="/wp-content/uploads/2012/11/Shard-London-Skyscraper-tower-future-development.jpg" alt="" width="569" height="406" />](/wp-content/uploads/2012/11/Shard-London-Skyscraper-tower-future-development.jpg)

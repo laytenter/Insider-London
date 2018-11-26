@@ -13,7 +13,7 @@ tags:
 id: 1554
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=1554
+guid: https://www.insider-london.co.uk/?p=1554
 ---
 
 Having a dog in London is tough. Anyone who has ever been on a train from London Bridge at 5.30 in the company of a massive dog (I have), will know just how difficult it can be. The last thing a commuter wants to see on a wet tuesday night is a slobbering, gormless-looking alsation peering out from the one space there seemed to be available on the train. Plus, London is full of very smart and logically-minded people who are fundamentally dismayed by man&#8217;s obsession with domesticating this particular animal whilst eating its way remorselessly through most others. And those people are right to be dismayed. It is weird. And cities are ostensibly inappropriate places for animals that don&#8217;t use toilets. And most London flats are barely big enough for humans. And isn&#8217;t living in a city stressful enough without looking after a dog!?

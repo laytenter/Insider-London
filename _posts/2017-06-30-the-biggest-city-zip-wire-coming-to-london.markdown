@@ -9,7 +9,7 @@ layout: post
 
 ![bigstock-Adult-woman-on-zip-line-89015582.jpg](/uploads/bigstock-Adult-woman-on-zip-line-89015582.jpg)
 
-There’s something big and exciting coming to the capital this summer and [it’s the perfect activity to consider doing](http://www.insider-london.co.uk/tours/) after you’ve finished your London sightseeing tours.
+There’s something big and exciting coming to the capital this summer and [it’s the perfect activity to consider doing](https://www.insider-london.co.uk/tours/) after you’ve finished your London sightseeing tours.
 
 If you’ve got a head for heights and want to see the Big Smoke from a slightly different perspective, why don’t you get yourself a couple of tickets for [Zip World London](https://www.zipworld.co.uk/adventure/detail/zip-world-london)? Make your way to London’s Southbank, strap yourself in and be ready for the ride of your life, taking off from a height of more than 100ft… which is longer than nine double decker buses!
 

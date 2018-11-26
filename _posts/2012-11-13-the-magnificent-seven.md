@@ -18,7 +18,7 @@ tags:
 id: 2594
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=2594
+guid: https://www.insider-london.co.uk/?p=2594
 ---
 
 London is blessed with many large and beautiful urban parks, and city dwellers are spoilt for choice for a Sunday stroll. But a slightly more intriguing, (albeit morbid) option is one of London’s _Magnificent Seven._ No, not an Enid Blyton novel, but one of London’s Victorian cemeteries &#8211; ivy-clad, tumbling mazes of fallen angels and broken tomb-stones.

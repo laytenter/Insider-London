@@ -18,7 +18,7 @@ tags:
 id: 23122
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=23122
+guid: https://www.insider-london.co.uk/?p=23122
 s4_url2s:
 - 
 s4_image2s:
@@ -85,7 +85,7 @@ s4_cdes:
           </p>
           
           <p>
-            Pick up a copy of <a href="http://theinformationcapital.com/" target="_blank">London: The Information Capital</a> for more fascinating facts and stats. And why not come and join us on one of our walking tours and add a few stats of your own. We cover everything from the <a href="http://www.insider-london.co.uk/london-underground-tube-tours/" target="_blank">Underground</a> to <a href="http://www.insider-london.co.uk/london-eco-green-sustainable-walking-tour/" target="_blank">Cutting-Edge green</a>.
+            Pick up a copy of <a href="http://theinformationcapital.com/" target="_blank">London: The Information Capital</a> for more fascinating facts and stats. And why not come and join us on one of our walking tours and add a few stats of your own. We cover everything from the <a href="https://www.insider-london.co.uk/london-underground-tube-tours/" target="_blank">Underground</a> to <a href="https://www.insider-london.co.uk/london-eco-green-sustainable-walking-tour/" target="_blank">Cutting-Edge green</a>.
           </p>
           
           <p>

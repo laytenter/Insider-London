@@ -19,7 +19,7 @@ tags:
 id: 24901
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=24901
+guid: https://www.insider-london.co.uk/?p=24901
 s4_url2s:
 - 
 s4_image2s:
@@ -108,4 +108,4 @@ Richard Rogers is never one to shy away from bold proposals, and his plans for 
 
 Tower Bridge, symbol of London, one of the most recognisable buildings in the world. But for some this isn’t enough. W.F.C Holden wanted to encase the bridge in steel and glass, giving it an art deco streamline modern makeover. Crazy as his plan sounded, they were at the very least commendable, designed to protect the structure during World War II. Not surprisingly, very few people were enamoured towards his idea and the chances of it ever being built were tenuous to say the least.
 
-Check back next Friday for the next five unbuilt projects of London. And, in the meantime, why not check out the <a href="http://www.insider-london.co.uk/london-architecture-walking-tours/" target="_blank">Insider London modern architecture tour</a> for the very latest in grand plans for the city?
+Check back next Friday for the next five unbuilt projects of London. And, in the meantime, why not check out the <a href="https://www.insider-london.co.uk/london-architecture-walking-tours/" target="_blank">Insider London modern architecture tour</a> for the very latest in grand plans for the city?

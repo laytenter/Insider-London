@@ -15,7 +15,7 @@ tags:
 id: 12227
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=12227
+guid: https://www.insider-london.co.uk/?p=12227
 ---
 
 <figure style="width: 569px" class="wp-caption aligncenter"><img class="  " title="book bench" alt="book, bench, london" src="http://imageshack.com/a/img560/9451/mvw7.png" width="569" height="357" /><figcaption class="wp-caption-text">Image Credit: Mandii Pope</figcaption></figure> 

@@ -17,7 +17,7 @@ tags:
 id: 8123
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=8123
+guid: https://www.insider-london.co.uk/?p=8123
 ---
 
 <p dir="ltr">
@@ -151,5 +151,5 @@ guid: http://www.insider-london.co.uk/?p=8123
 </p>
 
 <p dir="ltr">
-  1. <a href="http://www.insider-london.co.uk/weird-london-murders-walking-tours/">Death and Debauchery Tour</a>: Last but not least, why not join Insider London on our very own Death and Debauchery tour. Tours run every Saturday at 17:00 and Thursdays at 18:30. Join in tours are £20 per person &#8211; with a two person minimum &#8211; and tours run a minimum of two hours. Be sure to join us for a special tour on Halloween eve!
+  1. <a href="https://www.insider-london.co.uk/weird-london-murders-walking-tours/">Death and Debauchery Tour</a>: Last but not least, why not join Insider London on our very own Death and Debauchery tour. Tours run every Saturday at 17:00 and Thursdays at 18:30. Join in tours are £20 per person &#8211; with a two person minimum &#8211; and tours run a minimum of two hours. Be sure to join us for a special tour on Halloween eve!
 </p>

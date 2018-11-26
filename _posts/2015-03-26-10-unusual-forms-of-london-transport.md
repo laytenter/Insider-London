@@ -24,7 +24,7 @@ tags:
 id: 24977
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=24977
+guid: https://www.insider-london.co.uk/?p=24977
 s4_url2s:
 - 
 s4_image2s:
@@ -172,7 +172,7 @@ Greenwich Foot Tunnel links Cutty Sark to Island Gardens and is used by around 1
   <em>Many a Duck Tale to be had on a Duck Tour. Image Credit: <a href="https://www.flickr.com/photos/sweenpole2001/532961157/in/photolist-P6yMt-fALDMT-5TCUB2-enYvTP-e9UoC6-5pFb5C-acUL3x-acULaK-acXxY5-5eEAeg-7BENzh-fACBgT-5TCUGi-dBfw8T-b1qrT6-69Uo7q-4r93nN-cwUjWE-cwUmSY-cwUjPf-eqr3nj-aAd6GA-cwUiw9-cwUfv3-dPnDvS-8vLoYF-cwSSi5-btYoFs-aTiEMX-6foTxA-eSU2Et-eSU3mP-8scC98-cwUjDJ-61CZ8p-8sNz4x-6YFhaF-cwUj5Y-cwUjwh-cwUicQ-cwUg6h-cwUfBd-cwUfJd-cwUin1-9jqqH3-cwUfZE-cwUiHu-cwUiV1-cwUjkU-6bfwZx">Andrew Sweeney</a></em>
 </p>
 
-Ok, while we tend to rely on our feet for <a href="http://www.insider-london.co.uk/alternative-london-tours/" target="_blank">our alternative London walking tours</a> and while your average Dave isn’t hopping on a Duck Tour for his morning commute, but as a way of getting around the city as a tourist alone it is pretty unusual. The Duck tour fleet is made up of retired WWII vehicles codenamed DUKW (seriously), that are half boat half track vehicles and travel on both land and river. They are an unmissable sight on Central London&#8217;s streets, and apart from a couple of fires on malfunctioning boats, they are usually reliable and set travellers on the right quack!
+Ok, while we tend to rely on our feet for <a href="https://www.insider-london.co.uk/alternative-london-tours/" target="_blank">our alternative London walking tours</a> and while your average Dave isn’t hopping on a Duck Tour for his morning commute, but as a way of getting around the city as a tourist alone it is pretty unusual. The Duck tour fleet is made up of retired WWII vehicles codenamed DUKW (seriously), that are half boat half track vehicles and travel on both land and river. They are an unmissable sight on Central London&#8217;s streets, and apart from a couple of fires on malfunctioning boats, they are usually reliable and set travellers on the right quack!
 
 <p style="text-align: center;">
   <strong>9. Necropolis Railway</strong>
@@ -202,6 +202,6 @@ Almost fifty years after opening the station was moved to a site on Westminster 
   <em>The Waterbus Company runs a tour via the Regents Canal. Image Credit: <a href="https://www.flickr.com/photos/megatick/147526802/in/photolist-r9VVKE-e37zy-2qgzgT">Megatick</a></em>
 </p>
 
-Once again, more of  leisurely cruise than belonging to a commuting scrum, but it is a good way of taking in large parts of the 14km waterway that is the [Regent&#8217;s Canal](http://www.insider-london.co.uk/2014/08/26/the-regents-canal-in-kings-cross-past-present-and-future/). Often overlooked by many as a form of transport, the Regent&#8217;s Canal was once at the heart of London&#8217;s industry, literally powering the city with its coal imports. The Waterbus company is another tour company that takes to water, travelling along historic routes, taking in Regent&#8217;s Park and Camden Lock Market.
+Once again, more of  leisurely cruise than belonging to a commuting scrum, but it is a good way of taking in large parts of the 14km waterway that is the [Regent&#8217;s Canal](/the-regents-canal-in-kings-cross-past-present-and-future/). Often overlooked by many as a form of transport, the Regent&#8217;s Canal was once at the heart of London&#8217;s industry, literally powering the city with its coal imports. The Waterbus company is another tour company that takes to water, travelling along historic routes, taking in Regent&#8217;s Park and Camden Lock Market.
 
-At Insider London, we prefer to stick to our feet when walking the capital but that&#8217;s no bar to discovering unusual spots around the capital. Why not come and join one of our <a href="http://www.insider-london.co.uk/london-underground-tube-tours/" target="_blank">London Underground and Tube tours </a>to find out more quirky facts about London&#8217;s transport system?
+At Insider London, we prefer to stick to our feet when walking the capital but that&#8217;s no bar to discovering unusual spots around the capital. Why not come and join one of our <a href="https://www.insider-london.co.uk/london-underground-tube-tours/" target="_blank">London Underground and Tube tours </a>to find out more quirky facts about London&#8217;s transport system?

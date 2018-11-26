@@ -22,7 +22,7 @@ tags:
 id: 24653
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=24653
+guid: https://www.insider-london.co.uk/?p=24653
 s4_url2s:
 - 
 s4_image2s:
@@ -101,4 +101,4 @@ Phone boxes were also used as a site of creativity for the 2012 <a href="http://
 
 Street artist <a href="https://www.facebook.com/pages/D7606/395466227213600" target="_blank">D7606</a>, meanwhile, is well known for his paste-ups of ladies in phone boxes &#8211; Marilyn and Rihanna here were spotted in Shoreditch.
 
-_Spotted anything more interesting than a call girls card in your local phone box recently? Let us know in the comments. And for more <a href="http://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">sustainable</a> or <a href="http://www.insider-london.co.uk/quirky-weird-london-walking-tours/" target="_blank">quirky London</a>, or to discover more cool <a href="http://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">street art</a>, come and join us on one of our alternative walking tours._
+_Spotted anything more interesting than a call girls card in your local phone box recently? Let us know in the comments. And for more <a href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">sustainable</a> or <a href="https://www.insider-london.co.uk/quirky-weird-london-walking-tours/" target="_blank">quirky London</a>, or to discover more cool <a href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">street art</a>, come and join us on one of our alternative walking tours._

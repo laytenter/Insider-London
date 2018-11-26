@@ -8,7 +8,7 @@ categories:
 id: 13914
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=13914
+guid: https://www.insider-london.co.uk/?p=13914
 ---
 
 [<img class="alignnone size-full wp-image-13918" alt="Growing Underground Founders" src="/wp-content/uploads/2014/02/Growing-Underground-Founders.jpg" width="569" height="379" />](/wp-content/uploads/2014/02/Growing-Underground-Founders.jpg)

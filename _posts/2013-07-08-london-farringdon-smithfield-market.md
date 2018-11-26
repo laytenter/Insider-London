@@ -15,7 +15,7 @@ tags:
 id: 1517
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=1517
+guid: https://www.insider-london.co.uk/?p=1517
 ---
 
 ## [<img class="aligncenter size-full wp-image-1519" alt="Smithfield" src="/wp-content/uploads/2012/08/Smithfield-2.jpg" width="565" height="430" />](/wp-content/uploads/2012/08/Smithfield-2.jpg)

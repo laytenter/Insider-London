@@ -14,12 +14,12 @@ tags:
 id: 4904
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=4904
+guid: https://www.insider-london.co.uk/?p=4904
 ---
 
 At a time when the High Street is struggling, small businesses are looking for routes to market and the opportunity to meet customers face to face. This is why I believe small businesses have a vital role to play in bringing High Streets back to life, and customers onto the streets.
 
-<a href="http://www.insider-london.co.uk/blog/2013/03/21/pop-up-retail/e152pub-16/" rel="attachment wp-att-4906"><img class="alignleft size-full wp-image-4906" title="E152PUB-16" alt="" src="/wp-content/uploads/2013/03/E152PUB-16.jpg" width="569" height="379" /></a>
+<a href="/pop-up-retail/" rel="attachment wp-att-4906"><img class="alignleft size-full wp-image-4906" title="E152PUB-16" alt="" src="/wp-content/uploads/2013/03/E152PUB-16.jpg" width="569" height="379" /></a>
 
 &nbsp;
 

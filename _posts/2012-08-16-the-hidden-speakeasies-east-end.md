@@ -13,7 +13,7 @@ tags:
 id: 1332
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=1332
+guid: https://www.insider-london.co.uk/?p=1332
 ---
 
 It seems to me that usually the best-kept secrets tend also to be the best things, and places, in life. And this is certainly the case in terms of luxury cocktail bars in London&#8230;

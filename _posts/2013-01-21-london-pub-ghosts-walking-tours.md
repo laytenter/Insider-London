@@ -13,7 +13,7 @@ tags:
 id: 3196
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=3196
+guid: https://www.insider-london.co.uk/?p=3196
 ---
 
 [<img class="size-full wp-image-3306" alt="London pub ghosts, London Walking Tours" src="/wp-content/uploads/2012/11/comedy-pub1.jpg" width="569" height="246" />](/wp-content/uploads/2012/11/comedy-pub1.jpg)<figcaption class="wp-caption-text">dare you enter?</figcaption></figure>
@@ -34,4 +34,4 @@ Have you seen a ghost? Did your friends believe you? Have you heard Lily? We wan
 
 Or – if you don’t believe in ghosts, tell us why!
 
-For more chilling stories why not come on our [Death & Debauchery Tour](http://www.insider-london.co.uk/weird-london-murders-walking-tours/ "Death & Debauchery Tour")? It’s guaranteed to chill…..
+For more chilling stories why not come on our [Death & Debauchery Tour](https://www.insider-london.co.uk/weird-london-murders-walking-tours/ "Death & Debauchery Tour")? It’s guaranteed to chill…..

@@ -17,7 +17,7 @@ tags:
 id: 7679
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=7679
+guid: https://www.insider-london.co.uk/?p=7679
 ---
 
 Our final installment of interesting and quirky facts features how the Underground was funded and how London’s most important mode of transportation received its nicknames.

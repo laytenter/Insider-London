@@ -18,7 +18,7 @@ tags:
 id: 23020
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=23020
+guid: https://www.insider-london.co.uk/?p=23020
 s4_cdes:
 - 
 s4_ctitle:
@@ -97,4 +97,4 @@ The studio has promised more platform doors, such as those seen on the jubilee l
 
 Priestmangoode has worked on a number of high profile transport projects around the world, including conceptual train platforms that move and aircraft interiors designed to create more space for hand luggage. The New Tube Project is set to be another when it is finally realised.
 
-_Find out more about the tube past, present and future on one of Insider London&#8217;s London Underground and Tube tours. <a href="http://www.insider-london.co.uk/london-underground-tube-tours/" target="_blank">More details here</a>. _
+_Find out more about the tube past, present and future on one of Insider London&#8217;s London Underground and Tube tours. <a href="https://www.insider-london.co.uk/london-underground-tube-tours/" target="_blank">More details here</a>. _

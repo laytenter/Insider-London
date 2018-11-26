@@ -11,7 +11,7 @@ Next week Londoners will begin celebrating one of their favourite tipples, which
 
 **1. History of Drinking and Pubs Tour**
 
-This two hour tour will give you a chance to not only celebrate and drink a pint or two of beer, but to learn about the history behind it. Visit some historic pubs, discover the techniques behind medieval brewing and travel through London's drinking history. Book your place [here](http://www.insider-london.co.uk/tours/history-of-drinking-and-pubs/). 
+This two hour tour will give you a chance to not only celebrate and drink a pint or two of beer, but to learn about the history behind it. Visit some historic pubs, discover the techniques behind medieval brewing and travel through London's drinking history. Book your place [here](https://www.insider-london.co.uk/tours/history-of-drinking-and-pubs/). 
 
 **2. Spirit of Prague**
 

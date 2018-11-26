@@ -23,4 +23,4 @@ On London’s Old Street you’ll find Silicon Roundabout. It’s East London’
 
 6\. Appear Hear is the online booking platform that has reinvented the underpass at Old Street. It is now more attractive due to the range of innovative pop-up shops springing into the area.
 
-7\. And if these facts weren’t enough for you, booking a space on our Silicon Roundabout and Tech City Tour is a great opportunity to learn more about Silicon Roundabout and the businesses that call it home. So if you want to discover more exciting facts about the area from our knowledgeable guides book your place [here](http://www.insider-london.co.uk).
+7\. And if these facts weren’t enough for you, booking a space on our Silicon Roundabout and Tech City Tour is a great opportunity to learn more about Silicon Roundabout and the businesses that call it home. So if you want to discover more exciting facts about the area from our knowledgeable guides book your place [here](https://www.insider-london.co.uk).

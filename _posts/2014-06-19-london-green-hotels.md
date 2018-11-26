@@ -14,10 +14,10 @@ tags:
 id: 15046
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=15046
+guid: https://www.insider-london.co.uk/?p=15046
 ---
 
-The sun is shining and we&#8217;re daydreaming about holidays, but we&#8217;re still thinking about <a href="http://www.insider-london.co.uk/2014/06/13/what-is-sustainable-architecture/" target="_blank">sustainable architecture</a>. Not in the office or the home this time, but on holiday and, more specifically, in hotels. Many of the luxuries that are enjoyable part of a hotel stay are, by their nature, wasteful, so hotels have to address the sustainability question in alternative ways. Just look at these five very different &#8216;green&#8217; London hotels, and see how they compare.
+The sun is shining and we&#8217;re daydreaming about holidays, but we&#8217;re still thinking about <a href="/what-is-sustainable-architecture/" target="_blank">sustainable architecture</a>. Not in the office or the home this time, but on holiday and, more specifically, in hotels. Many of the luxuries that are enjoyable part of a hotel stay are, by their nature, wasteful, so hotels have to address the sustainability question in alternative ways. Just look at these five very different &#8216;green&#8217; London hotels, and see how they compare.
 
 [<img class="size-full wp-image-15051 aligncenter" src="/wp-content/uploads/2014/06/living-wall-green-london-hotel.jpg" alt="green london hotel sustainable architecture" width="569" height="319" />](/wp-content/uploads/2014/06/living-wall-green-london-hotel.jpg)
 
@@ -67,6 +67,6 @@ One Aldwych was another winner at the Considerate Hotel of the Year awards, for 
 
 Strand, WC2R 0EU
 
-The Savoy is one of the most famous historic hotels in London. It’s also managed to become one of the greenest. As part of the ambitious refit prior to the hotel’s reopening in 2010, over £2.4 million was spent on introducing high efficiency sustainable technologies. For example, in the hotel’s combined heat and power plant, rejected heat from the engine is used as the hotel’s primary heat source, while heat from kitchen appliances is used to pre-heat hot water and used cooking oil is turned into biodiesel. For guests, the ‘Green Butler’ advises on ways to have a greener stay, from walking and cycling routes around the city, to recommending eco-friendly restaurants. Oh, and you can go on <a href="http://www.insider-london.co.uk/sustainable-green-building-london-tours-2/" target="_blank">a walking tour of sustainable London with Insider London</a> too…
+The Savoy is one of the most famous historic hotels in London. It’s also managed to become one of the greenest. As part of the ambitious refit prior to the hotel’s reopening in 2010, over £2.4 million was spent on introducing high efficiency sustainable technologies. For example, in the hotel’s combined heat and power plant, rejected heat from the engine is used as the hotel’s primary heat source, while heat from kitchen appliances is used to pre-heat hot water and used cooking oil is turned into biodiesel. For guests, the ‘Green Butler’ advises on ways to have a greener stay, from walking and cycling routes around the city, to recommending eco-friendly restaurants. Oh, and you can go on <a href="https://www.insider-london.co.uk/sustainable-green-building-london-tours-2/" target="_blank">a walking tour of sustainable London with Insider London</a> too…
 
-_But you don&#8217;t have to be a guest at the Savoy to enjoy one of those: check out our <a href="http://www.insider-london.co.uk/london-eco-green-sustainable-walking-tour/" target="_blank">sustainable London walking tour</a> to find out more. _
+_But you don&#8217;t have to be a guest at the Savoy to enjoy one of those: check out our <a href="https://www.insider-london.co.uk/london-eco-green-sustainable-walking-tour/" target="_blank">sustainable London walking tour</a> to find out more. _

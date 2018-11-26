@@ -15,7 +15,7 @@ tags:
 id: 24890
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=24890
+guid: https://www.insider-london.co.uk/?p=24890
 s4_url2s:
 - 
 s4_image2s:
@@ -88,6 +88,6 @@ In February 2015, Virgin Media announced that they planned to tackle the issue b
 
 &nbsp;
 
-To find out more about Silicon Roundabout and London’s tech city, join our [walking tour](http://www.insider-london.co.uk/silicon-roundabout-tech-city-tour/) of the area.
+To find out more about Silicon Roundabout and London’s tech city, join our [walking tour](https://www.insider-london.co.uk/silicon-roundabout-tech-city-tour/) of the area.
 
 &nbsp;

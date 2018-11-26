@@ -11,7 +11,7 @@ tags:
 id: 1657
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=1657
+guid: https://www.insider-london.co.uk/?p=1657
 ---
 
 ## [<img class="aligncenter size-full wp-image-1659" src="/wp-content/uploads/2012/08/retail_sign5.jpg" alt="" width="560" height="373" />](/wp-content/uploads/2012/08/retail_sign5.jpg)

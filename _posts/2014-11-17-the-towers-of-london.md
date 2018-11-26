@@ -14,7 +14,7 @@ tags:
 id: 23302
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=23302
+guid: https://www.insider-london.co.uk/?p=23302
 s4_url2s:
 - 
 s4_image2s:
@@ -25,9 +25,9 @@ s4_cdes:
 - 
 ---
 
-The news that London is set to be hit with 230 new towers has been making the headlines recently, but tall buildings are nothing new to the capital. We’re taking a look at some of the city’s tallest towers from throughout the ages, comparing structures from 1100 all the way to the present day. You can check out some of the city&#8217;s most modern additions on our [Modern Architecture walking tour](http://www.insider-london.co.uk/london-architecture-walking-tours/).
+The news that London is set to be hit with 230 new towers has been making the headlines recently, but tall buildings are nothing new to the capital. We’re taking a look at some of the city’s tallest towers from throughout the ages, comparing structures from 1100 all the way to the present day. You can check out some of the city&#8217;s most modern additions on our [Modern Architecture walking tour](https://www.insider-london.co.uk/london-architecture-walking-tours/).
 
-[The news that London is set to be hit with 230 new towers has been making the headlines recently, but tall buildings are nothing new to the capital. We’re taking a look at some of the city’s tallest towers from throughout the ages, comparing structures from 1100 all the way to the present day. You can check out some of the city&#8217;s most modern additions on our [Modern Architecture walking tour](http://www.insider-london.co.uk/london-architecture-walking-tours/).
+[The news that London is set to be hit with 230 new towers has been making the headlines recently, but tall buildings are nothing new to the capital. We’re taking a look at some of the city’s tallest towers from throughout the ages, comparing structures from 1100 all the way to the present day. You can check out some of the city&#8217;s most modern additions on our [Modern Architecture walking tour](https://www.insider-london.co.uk/london-architecture-walking-tours/).
 
 ](/wp-content/uploads/2014/11/BeFunky_victoria-tower.jpg_mini.jpg) [<img class="aligncenter size-full wp-image-23310" src="/wp-content/uploads/2014/11/BeFunky_White-Tower.jpg_mini.jpg" alt="White Tower" width="569" height="397" />](/wp-content/uploads/2014/11/BeFunky_White-Tower.jpg_mini.jpg)
 

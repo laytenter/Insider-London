@@ -17,7 +17,7 @@ tags:
 id: 24495
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=24495
+guid: https://www.insider-london.co.uk/?p=24495
 s4_cdes:
 - 
 s4_url2s:
@@ -36,7 +36,7 @@ Now London’s café society is being revived by a refreshing new trend for soci
 
 At  [Ziferblat](http://london.ziferblat.net/ "Ziferblat") in Old Street, you could browse the bookshelves or view an art exhibition while you enjoy refreshments. Customers are charged according to the length of their stay, which includes unlimited tea and biscuits. Just take an alarm clock from a cupboard upon arrival, note the time, and keep it with you until you leave. A flat rate of five pence per minute, or £3 an hour, applies.
 
-[Makers CAFÉ](http://makerscafe.com/ "makersCAFE") specialises in laser cutting and 3D printing (<a href="http://www.insider-london.co.uk/2014/09/19/insider-interview-makers-cafe/" target="_blank">read our interview with them here</a>). Customers are invited to grab a coffee from la Marzocco in Old Shoreditch Sation, and make use of the collaborative space to develop their creative ideas, with the back-up of technical support. Through interactive workshops and themed events, the café aims to make 3D printing and laser-cutting accessible to pretty much anyone with a laptop.
+[Makers CAFÉ](http://makerscafe.com/ "makersCAFE") specialises in laser cutting and 3D printing (<a href="/insider-interview-makers-cafe/" target="_blank">read our interview with them here</a>). Customers are invited to grab a coffee from la Marzocco in Old Shoreditch Sation, and make use of the collaborative space to develop their creative ideas, with the back-up of technical support. Through interactive workshops and themed events, the café aims to make 3D printing and laser-cutting accessible to pretty much anyone with a laptop.
 
 Shoreditch is also the location for [Lady Dinah&#8217;s Cat Emporium](http://ladydinahs.com/ "Lady Dinah's Cat Emporium")  &#8211; a home for rescued cats, where customers can relax and enjoy lunch or high tea surrounded by feline friends.  Check out the kittycam on the website if you’d like to see how cute they are.   If there’s a cafe for cats, there has to be one for canines too, and sure enough, [Scooby&#8217;s Boutique](http://scoobysboutique.co.uk "Scooby's Boutique")** **is the place. The dog-friendly café in Muswell Hill offers a selection of treats including &#8220;dog-gestives” and “Flap Jack Russells&#8221; for its four-legged friends, in addition to fresh coffee, cakes and biscuits for its human customers.
 
@@ -54,6 +54,6 @@ Based in Brick Lane, [Cereal Killer Café](http://cerealkillercafe.co.uk/ "Cerea
 
 In among all the newcomers, let’s not forget well-established venues like the [Poetry Café](http://www.poetrysociety.org.uk/content/cafe/ "Poetry Cafe") in Covent Garden, the home of the  Poetry Society since 1909, which hosts frequent evening events, including Poetry Unplugged, an open mic session held every Tuesday at 7.30pm.
 
-The Silicon Roundabout is a good place to find corner cafes and creative spaces &#8211; take a look on a [Tech City](http://www.insider-london.co.uk/silicon-roundabout-tech-city-tour/ "Tech City") tour.
+The Silicon Roundabout is a good place to find corner cafes and creative spaces &#8211; take a look on a [Tech City](https://www.insider-london.co.uk/silicon-roundabout-tech-city-tour/ "Tech City") tour.
 
 _What&#8217;s your favourite unusual cafe in London? Let us know in the comments. _

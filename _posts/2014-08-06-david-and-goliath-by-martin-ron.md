@@ -15,7 +15,7 @@ tags:
 id: 15893
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=15893
+guid: https://www.insider-london.co.uk/?p=15893
 s4_url2s:
 - 
 s4_image2s:
@@ -32,4 +32,4 @@ Drawing attention to the badger is this David and Goliath piece by Argentinian s
 
 The mural drew further attention to the issue, receiving attention from &#8211; amongst others &#8211; <a href="http://www.brianmay.com/brian/brianssb/brianssbsep13a.html#16" target="_blank">Brian May</a>. You can read the full story of the piece and an interview with Martin Ron on <a href="http://streetartlondon.co.uk/blog/2013/08/28/badgergate-martin-ron-paints-the-vu-wall-2/#more-4381%20…" target="_blank">Street Art London</a>.
 
-For more street art, come and join us on one of our <a href="http://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">London street art </a>and graffiti walking tours. And don&#8217;t forget to enter our competition to <a href="http://www.insider-london.co.uk/2014/08/04/win-a-copy-of-street-art-by-riika-kuittinen/" target="_blank">win a copy of the V&A&#8217;s stunning street art book</a>. Entries close Wednesday 6 August at midnight.
+For more street art, come and join us on one of our <a href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">London street art </a>and graffiti walking tours. And don&#8217;t forget to enter our competition to <a href="/win-a-copy-of-street-art-by-riika-kuittinen/" target="_blank">win a copy of the V&A&#8217;s stunning street art book</a>. Entries close Wednesday 6 August at midnight.

@@ -23,4 +23,4 @@ Another option for people who want to drink in their surroundings is the George 
 
 Real Londoners will know that it is in fact [The Prospect of Whitby](http://www.taylor-walker.co.uk/pub/prospect-of-whitby-wapping/c8166/) which really holds the crown. Still serving beer over a sawdust scattered bar floor, the pub dates back to 1520 and has stood overlooking the river since Henry VIII was king.
  
-To learn more about London’s quirky gems, [then consider a tour with us](http://www.insider-london.co.uk/tours/). 
+To learn more about London’s quirky gems, [then consider a tour with us](https://www.insider-london.co.uk/tours/). 

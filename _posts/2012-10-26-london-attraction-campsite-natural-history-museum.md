@@ -17,7 +17,7 @@ tags:
 id: 2133
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=2133
+guid: https://www.insider-london.co.uk/?p=2133
 ---
 
 <figure id="attachment_2137" style="width: 569px" class="wp-caption alignnone"><img class="size-full wp-image-2137" src="/wp-content/uploads/2012/10/London-Campsite-Natural-History-Museum1.jpg" alt="" width="569" height="379" /><figcaption class="wp-caption-text">(Photograph: Natural History Museum)</figcaption></figure> 

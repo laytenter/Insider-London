@@ -8,12 +8,12 @@ categories:
 id: 27285
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=27285
+guid: https://www.insider-london.co.uk/?p=27285
 ---
 
 By Angela Lord
 
-You may be surprised to learn that London ranks in second place on the [Arcadis Index of Sustainable Cities](http://www.sustainablecitiesindex.com/). ‘Sustainability’ is a subject very close to our hearts (check out our or [Sustainable Architecture London](http://www.insider-london.co.uk/product/sustainable-london-architecture-tour/) or [Cutting Edge Green London](http://www.insider-london.co.uk/product/cutting-edge-green/) tours for evidence!).
+You may be surprised to learn that London ranks in second place on the [Arcadis Index of Sustainable Cities](http://www.sustainablecitiesindex.com/). ‘Sustainability’ is a subject very close to our hearts (check out our or [Sustainable Architecture London](https://www.insider-london.co.uk/product/sustainable-london-architecture-tour/) or [Cutting Edge Green London](https://www.insider-london.co.uk/product/cutting-edge-green/) tours for evidence!).
 
 There are plenty of inventive ideas aiming to improve London sustainability, and here are 10 of our favourite ways to turn London green.
 
@@ -83,7 +83,7 @@ Imperial College London Chemistry graduates Caroline Wood and Vivien Tang set up
   </li>
 </ol>
 
-[The Crystal](http://www.thecrystal.org/), at the Royal Victoria Docks in East London, is described as “one of the world’s most sustainable buildings”. Owned and operated by Siemens, the 18,000 square metre site has triple glazed windows and uses solar panels and ground source heat pumps to generate its own energy. The building houses office space and an interactive exhibition on the Future of Cities. (Take a look at our [Sustainable Architecture London tour](http://www.insider-london.co.uk/product/sustainable-london-architecture-tour/) to discover more innovative buildings like this.)
+[The Crystal](http://www.thecrystal.org/), at the Royal Victoria Docks in East London, is described as “one of the world’s most sustainable buildings”. Owned and operated by Siemens, the 18,000 square metre site has triple glazed windows and uses solar panels and ground source heat pumps to generate its own energy. The building houses office space and an interactive exhibition on the Future of Cities. (Take a look at our [Sustainable Architecture London tour](https://www.insider-london.co.uk/product/sustainable-london-architecture-tour/) to discover more innovative buildings like this.)
 
 <ol start="9">
   <li>
@@ -101,4 +101,4 @@ The area to the north of [King’s Cross](http://www.kingscross.co.uk/) station
 
 There are 1,200 diesel-electric hybrid buses running through the capital and [this should increase to 1,700 by 2016](https://www.tfl.gov.uk/campaign/bus-investment) – making up 20% of the bus fleet. These buses are quieter, more fuel-efficient and cleaner, reducing emissions of CO2 by at least 30% compared to conventional diesel buses. London also has a fleet of eight hydrogen fuel buses, running on route RV1 between Covent Garden and Tower Gateway, which release nothing but water into the air.
 
-_Want to discover more ways people are shaping a green London? Book onto our_ [_cutting edge green London tour_](http://www.insider-london.co.uk/product/cutting-edge-green/)_, or our_ [_sustainable architectural London tour_](http://www.insider-london.co.uk/product/sustainable-london-architecture-tour/) _to find out more._
+_Want to discover more ways people are shaping a green London? Book onto our_ [_cutting edge green London tour_](https://www.insider-london.co.uk/product/cutting-edge-green/)_, or our_ [_sustainable architectural London tour_](https://www.insider-london.co.uk/product/sustainable-london-architecture-tour/) _to find out more._

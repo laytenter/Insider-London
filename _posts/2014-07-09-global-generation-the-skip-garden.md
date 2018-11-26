@@ -19,7 +19,7 @@ tags:
 id: 15133
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=15133
+guid: https://www.insider-london.co.uk/?p=15133
 s4_cdes:
 - 
 s4_ctitle:
@@ -52,7 +52,7 @@ And fresh-grown fruit and veg isn’t the only thing being reaped from this proj
 
 Confidence, independence and a better understanding of nature grows with each seed planted, as youngsters see the fruits of their labour and recognise the impact they’re making on their local community. Empowering kids to take control of their space, this project is as much about growing their social skills and generating a positive outlook as it is aiding the environment and revitalising one of the world’s greenest capital cities.
 
-As well as growing greens and making a variety of jams and chutneys, kids can take part in the bee hive project – run in collaboration with urban bees ([who Insider London interviewed here!](http://www.insider-london.co.uk/2014/06/27/urban-bees-interview/ "Insider Interview: Urban Bees")) – and even use reclaimed timber from the Granary building to create recycled furniture.
+As well as growing greens and making a variety of jams and chutneys, kids can take part in the bee hive project – run in collaboration with urban bees ([who Insider London interviewed here!](/urban-bees-interview/ "Insider Interview: Urban Bees")) – and even use reclaimed timber from the Granary building to create recycled furniture.
 
 The produce is being sold to local restaurants, including the Guardian canteen, and is also available at the on-site café, in an effort to make not just their gardening but their funding self-sufficient. Kids are learning how to market and sell their goods as well as how to grow and cook them, and chefs are even being given a lesson in where their greens are grown!
 
@@ -64,4 +64,4 @@ With regular school visits and input from the local community, this inspirationa
   <em>Image credit: <a href="http://globalgeneration.org.uk/kings-cross-skip-garden" target="_blank">Global Generation</a></em>
 </p>
 
-You can take a tour of the Skip Garden by inquiring at the [Kings Cross Visitor Centre](http://www.kingscross.co.uk/visit-kings-cross "Kings Cross Visitor Centre") and you can explore more of the regeneration on Insider London&#8217;s [Kings Cross Regeneration and Innovation Walking Tour](http://www.insider-london.co.uk/kings-cross-innovation-tour/). For more insight into sustainable London, check out our [Cutting-Edge Green Tour](http://www.insider-london.co.uk/london-eco-green-sustainable-walking-tour) too.
+You can take a tour of the Skip Garden by inquiring at the [Kings Cross Visitor Centre](http://www.kingscross.co.uk/visit-kings-cross "Kings Cross Visitor Centre") and you can explore more of the regeneration on Insider London&#8217;s [Kings Cross Regeneration and Innovation Walking Tour](https://www.insider-london.co.uk/kings-cross-innovation-tour/). For more insight into sustainable London, check out our [Cutting-Edge Green Tour](https://www.insider-london.co.uk/london-eco-green-sustainable-walking-tour) too.

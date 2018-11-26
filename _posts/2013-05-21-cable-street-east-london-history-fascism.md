@@ -9,7 +9,7 @@ categories:
 id: 1512
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=1512
+guid: https://www.insider-london.co.uk/?p=1512
 ---
 
 The tabloid press likes to refer to almost anything in Britain that it doesn&#8217;t like as being fascist (I&#8217;ve read of fascist postmen, fascist nurses and even fascist lollipop ladies), and this has to some extent rendered the term redundant. However, actual fascism, as in that which we attribute to have started in political form in Italy in 1921, is generally thought to have by-passed Britain when it spread its ugly wings throughout Europe. This is not necessarily the case. Interwar British fascism did manifest itself, and met its most famous resistance in the East End of London.

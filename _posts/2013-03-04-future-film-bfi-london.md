@@ -17,14 +17,14 @@ tags:
 id: 4486
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=4486
+guid: https://www.insider-london.co.uk/?p=4486
 ---
 
 <p style="text-align: center;">
-  <a href="http://www.insider-london.co.uk/blog/2013/03/04/future-film-bfi-london/strings/" target="_blank" rel="attachment wp-att-4584"><img class="aligncenter size-full wp-image-4584" alt="Strings" src="/wp-content/uploads/2013/02/Strings.jpg" width="569" height="320" /></a>
+  <a href="/future-film-bfi-london/strings/" target="_blank" rel="attachment wp-att-4584"><img class="aligncenter size-full wp-image-4584" alt="Strings" src="/wp-content/uploads/2013/02/Strings.jpg" width="569" height="320" /></a>
 </p>
 
-Last week I went to the <a href="http://www.insider-london.co.uk/?p=4395&preview=true" target="_blank">BFI Future Film Festival</a>, and spent a packed day watching inspiring films by new filmmakers, and learning the secrets to nurturing your big-screen aspirations.
+Last week I went to the <a href="https://www.insider-london.co.uk/?p=4395&preview=true" target="_blank">BFI Future Film Festival</a>, and spent a packed day watching inspiring films by new filmmakers, and learning the secrets to nurturing your big-screen aspirations.
   
 I was also lucky enough to grab 10 minutes with past Future Film Award winner <a href="http://rob-savage.co.uk/" target="_blank">Rob Savage</a>, whose BIFA award winning film &#8216;Strings&#8217; was screened at the festival.
 

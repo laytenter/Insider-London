@@ -20,7 +20,7 @@ tags:
 id: 22159
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=22159
+guid: https://www.insider-london.co.uk/?p=22159
 s4_url2s:
 - 
 s4_image2s:
@@ -49,11 +49,11 @@ Once a busy hub receiving shipments from all over the world, East India Dock Bas
 
 2. <a href="https://www.soas.ac.uk/visitors/roofgarden/" target="_blank">SOAS roof garden</a>
 
-Here&#8217;s one we didn&#8217;t know about when we wrote about <a href="http://www.insider-london.co.uk/2014/06/11/london-rooftop-gardens/" target="_blank">London&#8217;s rooftop gardens</a>. Built on top of the Brunei Gallery, part of the School of Oriental and African Studies, it was created as a place of quiet contemplation for students and visitors.
+Here&#8217;s one we didn&#8217;t know about when we wrote about <a href="/london-rooftop-gardens/" target="_blank">London&#8217;s rooftop gardens</a>. Built on top of the Brunei Gallery, part of the School of Oriental and African Studies, it was created as a place of quiet contemplation for students and visitors.
 
 3. <a href="http://www.islington.gov.uk/services/parks-environment/parks/your_parks/greenspace_az/greenspace_r/Pages/radnor_street.aspx" target="_blank">Radnor Street Gardens</a>
 
-We&#8217;ll be using this to relax after one of our <a href="http://www.insider-london.co.uk/silicon-roundabout-tech-city-tour/" target="_blank">Silicon Roundabout tours</a>, as it&#8217;s situated just off City Road, near the famous roundabout. These gardens provide an oasis of green, complete with cherry trees, and world away from high tech business.
+We&#8217;ll be using this to relax after one of our <a href="https://www.insider-london.co.uk/silicon-roundabout-tech-city-tour/" target="_blank">Silicon Roundabout tours</a>, as it&#8217;s situated just off City Road, near the famous roundabout. These gardens provide an oasis of green, complete with cherry trees, and world away from high tech business.
 
 [<img class="aligncenter wp-image-22165 size-full" src="/wp-content/uploads/2014/09/Cloister-cafe.jpg" alt="cloister cafe" width="569" height="425" />](/wp-content/uploads/2014/09/Cloister-cafe.jpg)
 

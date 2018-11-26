@@ -15,7 +15,7 @@ tags:
 id: 7548
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=7548
+guid: https://www.insider-london.co.uk/?p=7548
 ---
 
 If you didn’t already know, the London Underground turned 150 on January 9th of this year. That date marks the first time a train left the Paddington Station to make a 3 ½ mile journey to Farringdon Station. Since then, metal carriages have transported close to a billion people a year to their final destination and everywhere in between. To celebrate, Insider London has pulled together some of the most interesting and/or ridiculous facts, inventive maps, and other quirks about London’s most important mode of transportation.

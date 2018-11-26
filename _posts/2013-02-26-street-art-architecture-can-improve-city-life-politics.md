@@ -17,7 +17,7 @@ tags:
 id: 4656
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=4656
+guid: https://www.insider-london.co.uk/?p=4656
 ---
 
 If you&#8217;re interested the tangible benefits of street art and architecture, check out this TED talk from Edi Rama. Rama was mayor of Tirana in Albania from 2000 to 2011, during which time his team covered many buildings in bright, bold colours and patterns.

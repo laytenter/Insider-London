@@ -25,4 +25,4 @@ You can climb more than 300 steps to the top of [The Monument](http://www.visitl
 
 This part of the city is also home to the infamous Tower of London, best known for its tales of torture and death. However, there’s much more to this royal palace than you may first think - it is even considered to have been home to London’s first-ever zoo.
 
-If you’re visiting the capital and want to learn more about this fascinating area of the city and its heritage, you can join a London history tour that [provides greater detail on these and many other attractions](http://www.insider-london.co.uk/tours/london-finance-walking-tour/).
+If you’re visiting the capital and want to learn more about this fascinating area of the city and its heritage, you can join a London history tour that [provides greater detail on these and many other attractions](https://www.insider-london.co.uk/tours/london-finance-walking-tour/).

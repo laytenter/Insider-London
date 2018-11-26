@@ -50,7 +50,7 @@ One of the funnest things I&#8217;ve heard about recently is an artist from Musw
   </p>
 
   <p>
-    Here&#8217;s a really great collection of some of Ben&#8217;s <a title="Amazing Bubblegum Art by Ben Wilson" href="http://www.lifeartworks.com/amazing-bubblegum-art-ben-wilson/">street art</a> and if you&#8217;d like to see of London&#8217;s best street art up close, take a look at our <a title="Insider London's Street Art Tour" href="http://www.insider-london.co.uk/london-graffiti-artists-walking-tours/">Insider London&#8217;s Street Art and Graffiti Tour</a>.
+    Here&#8217;s a really great collection of some of Ben&#8217;s <a title="Amazing Bubblegum Art by Ben Wilson" href="http://www.lifeartworks.com/amazing-bubblegum-art-ben-wilson/">street art</a> and if you&#8217;d like to see of London&#8217;s best street art up close, take a look at our <a title="Insider London's Street Art Tour" href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/">Insider London&#8217;s Street Art and Graffiti Tour</a>.
   </p>
 </div>
 

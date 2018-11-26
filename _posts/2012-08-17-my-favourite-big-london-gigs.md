@@ -8,7 +8,7 @@ categories:
 id: 1464
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=1464
+guid: https://www.insider-london.co.uk/?p=1464
 ---
 
 There are certain venues in London that I associate distinctly with the bands that I&#8217;ve seen perform inside them. Do I love these particular venues simply because my favourite bands played there? Probably. Does that mean they are actually my favourite venues? I don&#8217;t know. Are introductions full of rhetorical questions slightly irritating? Absolutely.

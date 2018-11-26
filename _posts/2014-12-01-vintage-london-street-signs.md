@@ -25,15 +25,15 @@ tags:
 id: 23492
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=23492
+guid: https://www.insider-london.co.uk/?p=23492
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 <p style="text-align: center;">
@@ -90,4 +90,4 @@ Some boroughs use their own logos, mostly outside of conservation areas and in r
 
 The extant vintage signs also record the history of our roads. For example, the sign for Tower Bridge Road, on the south-west corner of Tower Bridge, reminds us that the landmark was both part of the historic Borough of Bermondsey and the A100 road. In the 1920s, The Ministry of Transport used a system of letters and numbers to designate roads that were exceptionally busy as useful way for motorists to navigate the road system. This hotchpotch of signage and styles, especially where more than one example is used in one location might be messy and confusing to some, but it presents an exciting lack of uniformity that represents London as a wider city, a cacophony of history and contemporary that rarely fails to excite.
 
-_Want to know more of London&#8217;s lesser-known history? Come with us <a href="http://www.insider-london.co.uk/quirky-weird-london-walking-tours/" target="_blank">on one of our quirky London tours</a>. Or explore its changing streets on a <a href="http://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">London street art and graffiti walking tour</a>. _
+_Want to know more of London&#8217;s lesser-known history? Come with us <a href="/quirky-weird-london-walking-tours/" target="_blank">on one of our quirky London tours</a>. Or explore its changing streets on a <a href="/london-graffiti-artists-walking-tours/" target="_blank">London street art and graffiti walking tour</a>. _

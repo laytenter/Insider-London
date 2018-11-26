@@ -13,10 +13,10 @@ tags:
 id: 25427
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=3880
+guid: https://www.insider-london.co.uk/?p=3880
 ---
 
-<figure style="width: 569px" class="wp-caption aligncenter"><a href="http://www.insider-london.co.uk/blog/2013/01/11/cat-cafe-london/kitteninteacup-2/" rel="attachment wp-att-3885"><img class=" " alt="london-cafes-quirky-cats" src="/wp-content/uploads/2013/01/kitteninteacup1.jpg" width="569" height="379" /></a><figcaption class="wp-caption-text">Persian kitten by Shutterstock</figcaption></figure> 
+<figure style="width: 569px" class="wp-caption aligncenter"><a href="/cat-cafe-london/" rel="attachment wp-att-3885"><img class=" " alt="london-cafes-quirky-cats" src="/wp-content/uploads/2013/01/kitteninteacup1.jpg" width="569" height="379" /></a><figcaption class="wp-caption-text">Persian kitten by Shutterstock</figcaption></figure> 
 
 **I live in a seven person house in South London. It’s a nice but fairly old house, and things fall off it, fall apart in it and generally just break in it quite often. We also have mice, and have had mice for three years. I’m ashamed to say we’ve gone to town on them over the years, gradually building from gentle hints with steel wool, peppermint and incense (I read it on the internet), to finally bringing out the big guns with horrible, snappy, don’t-want-to-check-it-but-have-to traps&#8230;**
 
@@ -25,7 +25,7 @@ The reason I’m telling you this rather dull personal anecdote, is that the thi
 HOWEVER! Whilst many Londoners are at this moment cold and alone in rented housing without a furry friend to make everything OK, help may soon be at hand&#8230;
 
 Lauren Pears is a lady on a feline-themed mission to create London’s first cat cafe, with the help of good old power-to-the-people crowd-funding via IndieGoGo. (Incase you live under a rock and haven’t heard of the phenomenon that is crowd-funding, it’s kind of like betting on horses, but kind of not at all like that in any way).
-  
+
 Apparently Tokyo has been living it up for years with cat cafes galore, and here in London we’ve just been making do with no more than a newspaper to accompany our brew. But if all goes to plan, Lauren and her team hope to open a café in East London later this year. You can expect Victorian-style décor and a luxuriant feel, along with general cafe stuff, and of course loads and loads of cats that you are allowed to play with and put on your lap or on the chair next to you and pour them tea (if you wanted, although you might not actually be allowed to make them drink it).
 
 <p style="text-align: left;">
@@ -33,7 +33,7 @@ Apparently Tokyo has been living it up for years with cat cafes galore, and here
 </p>
 
 They have 38 days left to raise the funds, so it&#8217;ll be exciting to see if they make their goal (just like the X-Factor!).
-  
+
 If you enjoy the idea as much as I do, you can donate here: [indiegogo.com](http://www.indiegogo.com/LadyDsCatEmporium "Cat Cafe"). (I&#8217;m definitely going to, when I get paid, if I remember&#8230;)
-  
+
 And some of you are probably reading this and think the whole thing is, in the words of my housemate, categorically &#8220;sad&#8221;. And that&#8217;s fine. Either way, let us know whether you&#8217;d be visiting Lady Dinah&#8217;s Cat Emporium for tea with a tabby, or running a mile at the thought of hairballs in your tea&#8230;

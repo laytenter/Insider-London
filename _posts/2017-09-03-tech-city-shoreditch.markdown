@@ -17,6 +17,6 @@ And to represent this, The Stage Shoreditch have now designed this [interactive 
 
 By clicking on a company this map provides you will information about each company, including number of employees, the address, the logo, the type of business that it is, as well as their website and social media handles.
 
-And if you want to learn more about the cities tech companies, why not join our [Silicon Roundabout and Tech City Tour](http://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/)? Also don’t forget to follow us on [Facebook](https://www.facebook.com/insiderlondon/?fref=ts), [Twitter](http://twitter.com/insiderlondon) and [Instagram](http://instagram.com/insiderlondontours/) to keep up to date with Insider London.
+And if you want to learn more about the cities tech companies, why not join our [Silicon Roundabout and Tech City Tour](https://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/)? Also don’t forget to follow us on [Facebook](https://www.facebook.com/insiderlondon/?fref=ts), [Twitter](http://twitter.com/insiderlondon) and [Instagram](http://instagram.com/insiderlondontours/) to keep up to date with Insider London.
 
 By Sage Fitzpatrick

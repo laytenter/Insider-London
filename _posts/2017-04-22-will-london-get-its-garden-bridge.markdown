@@ -25,4 +25,4 @@ Whether or not construction is able to begin will come down to London Mayor Sadi
 
 But even without the Garden Bridge, there is plenty of greenery to explore in the capital. As well as the numerous parks and green squares, there are a host of eco-friendly buildings hiding in plain sight, not to mention retailers, hotels and restaurants doing their best to be sustainable. 
 
-With summer on its way, there’s no better time to discover London’s sustainable side - and you might be surprised at what you uncover on green tours in London with a knowledgeable guide to [introduce you to some truly revolutionary businesses and landmarks](http://www.insider-london.co.uk/tours/cutting-edge-green-tour/). 
+With summer on its way, there’s no better time to discover London’s sustainable side - and you might be surprised at what you uncover on green tours in London with a knowledgeable guide to [introduce you to some truly revolutionary businesses and landmarks](https://www.insider-london.co.uk/tours/cutting-edge-green-tour/). 

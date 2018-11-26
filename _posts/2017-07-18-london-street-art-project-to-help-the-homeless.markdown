@@ -22,4 +22,4 @@ The project, which is called Lost Voices, is hoping to raise £55,140 via the cr
 
 Street artist Ben Eine is known for his work ‘Brave’ in East London, which can be spotted on a street art tour of the capital. Unveiled earlier this year, the piece commemorates the work of human rights activists. Meanwhile, in 2016, the artist designed a special edition Big Issue cover to celebrate the magazine’s 200 millionth sale.
 
-Visitors to London with an eye for art can admire some of the best-known works, along with hidden gems, on a guided street art tour. [Book your street art tour in London with us today](http://www.insider-london.co.uk/tours/) for the opportunity to see the work of renowned artists, including D\*Face, James Cochrane, Stik, Shepard Fairy and Space Invader.
+Visitors to London with an eye for art can admire some of the best-known works, along with hidden gems, on a guided street art tour. [Book your street art tour in London with us today](https://www.insider-london.co.uk/tours/) for the opportunity to see the work of renowned artists, including D\*Face, James Cochrane, Stik, Shepard Fairy and Space Invader.

@@ -25,7 +25,7 @@ tags:
 id: 23567
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=23567
+guid: https://www.insider-london.co.uk/?p=23567
 s4_cdes:
 - 
 s4_ctitle:
@@ -80,7 +80,7 @@ Painting on walls supersedes hand-painted ghost signs by a wee couple of millenn
 
 **Why did they die out?**
 
-In the post war years the economics of production moved in favour of mass-printed posters and billboards, leaving behind the slow and intricate hand-painted signs as an obselete relic of the past. Following this shift, it was unusual to find any hand printed signs. But signwriters still exist and find work today. Many signs are now repainted, preserved and given a new lease of life, or left as a faded reminder of the brands, signwriter’s handywork, and the public’s consumer habits in an exciting and burgeoning era of early advertising. (See our post on <a href="http://www.insider-london.co.uk/2012/09/28/the-art-of-signwriting/" target="_blank">the art of signwriting here</a>)
+In the post war years the economics of production moved in favour of mass-printed posters and billboards, leaving behind the slow and intricate hand-painted signs as an obselete relic of the past. Following this shift, it was unusual to find any hand printed signs. But signwriters still exist and find work today. Many signs are now repainted, preserved and given a new lease of life, or left as a faded reminder of the brands, signwriter’s handywork, and the public’s consumer habits in an exciting and burgeoning era of early advertising. (See our post on <a href="/the-art-of-signwriting/" target="_blank">the art of signwriting here</a>)
 
 **Examples of London ghost signs **
 
@@ -134,4 +134,4 @@ The former petrol station, now a Byron Burger chain, at the corner of Store Stre
 
 **Want to find out more? **
 
-Explore <a href="http://www.ghostsigns.co.uk/" target="_blank">the London Ghost Signs site.</a> Or come with us on one of Insider London&#8217;s walking tours: whether <a href="http://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">street art</a>, <a href="http://www.insider-london.co.uk/quirky-weird-london-walking-tours/" target="_blank">quirky London</a> or <a href="http://www.insider-london.co.uk/silicon-roundabout-tech-city-tour/" target="_blank">the Silicon Roundabout</a>, you&#8217;re sure to spot something interesting.
+Explore <a href="http://www.ghostsigns.co.uk/" target="_blank">the London Ghost Signs site.</a> Or come with us on one of Insider London&#8217;s walking tours: whether <a href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">street art</a>, <a href="https://www.insider-london.co.uk/quirky-weird-london-walking-tours/" target="_blank">quirky London</a> or <a href="https://www.insider-london.co.uk/silicon-roundabout-tech-city-tour/" target="_blank">the Silicon Roundabout</a>, you&#8217;re sure to spot something interesting.

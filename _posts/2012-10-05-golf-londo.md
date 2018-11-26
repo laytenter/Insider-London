@@ -11,7 +11,7 @@ tags:
 id: 1412
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=1412
+guid: https://www.insider-london.co.uk/?p=1412
 ---
 
 I&#8217;m one of those people that becomes interested in certain sports for about a 3 to 4 week period immediately after that particular sport&#8217;s most prestigious tournament has been on TV. Awful isn&#8217;t it? Yes it is. After Wimbledon I love tennis, after the Ashes I love cricket, and after the Olympics I love everything except sailing which quite simply is not a spectator sport. At the moment, having just watched Europe win the Ryder Cup, I love golf (patriotism is marvellously fickle isn&#8217;t it? English one minute, British the next, and now European. All that&#8217;s left is for earth to take on another planet is some sort of sporting tournament).

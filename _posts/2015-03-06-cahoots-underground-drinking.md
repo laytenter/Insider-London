@@ -19,7 +19,7 @@ tags:
 id: 24853
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=24853
+guid: https://www.insider-london.co.uk/?p=24853
 s4_url2s:
 - 
 s4_image2s:
@@ -32,11 +32,11 @@ s4_cdes:
 
 <img class="aligncenter wp-image-24880 size-full" src="/wp-content/uploads/2015/03/cahoots-3_mini.jpg" alt="alternative london underground" width="569" height="378" />
   
-We love all things <a href="http://www.insider-london.co.uk/london-underground-tube-tours/" target="_blank">London Underground</a>. We&#8217;re also <a href="http://www.insider-london.co.uk/london-pub-tours-drinking-tour/" target="_blank">fond of a drink or two</a>. So, no surprises that we&#8217;re intrigued by the concepts of [Cahoots](http://cahoots-london.com/) which opened yesterday. The bar has been given a late 1940s theme, inspired by the London Underground stations that were used as air raid shelters in the Second World War.
+We love all things <a href="https://www.insider-london.co.uk/london-underground-tube-tours/" target="_blank">London Underground</a>. We&#8217;re also <a href="https://www.insider-london.co.uk/london-pub-tours-drinking-tour/" target="_blank">fond of a drink or two</a>. So, no surprises that we&#8217;re intrigued by the concepts of [Cahoots](http://cahoots-london.com/) which opened yesterday. The bar has been given a late 1940s theme, inspired by the London Underground stations that were used as air raid shelters in the Second World War.
 
 <img class="aligncenter wp-image-24881 size-full" src="/wp-content/uploads/2015/03/cahoots-2_mini.jpg" alt="quirky London bars" width="569" height="856" />
 
-While not a genuine former Tube station (for some of those <a href="http://www.insider-london.co.uk/2015/02/27/londons-lost-railway-tube-stations/" target="_blank">see here</a>), the venue in London&#8217;s Kingly Court was once apparently an air raid shelter. And there&#8217;s some great attention to detail here &#8211; check out that Tube-style moquette in the image above for starters, along with the tiles, posters and lighting.
+While not a genuine former Tube station (for some of those <a href="/londons-lost-railway-tube-stations/" target="_blank">see here</a>), the venue in London&#8217;s Kingly Court was once apparently an air raid shelter. And there&#8217;s some great attention to detail here &#8211; check out that Tube-style moquette in the image above for starters, along with the tiles, posters and lighting.
 
 <img class="aligncenter wp-image-24883 size-full" src="/wp-content/uploads/2015/03/Cahoots-4_mini.jpg" alt="alternative london drinking" width="569" height="378" />
 

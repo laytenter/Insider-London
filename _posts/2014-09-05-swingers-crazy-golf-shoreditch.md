@@ -17,7 +17,7 @@ tags:
 id: 21284
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=21284
+guid: https://www.insider-london.co.uk/?p=21284
 s4_cdes:
 - 
 s4_ctitle:
@@ -30,7 +30,7 @@ s4_url2s:
 
 [<img class="aligncenter wp-image-21287 size-full" src="/wp-content/uploads/2014/09/Swingers-course-illustration1.jpg" alt="Swingers crazy golf shoreditch" width="569" height="403" />](/wp-content/uploads/2014/09/Swingers-course-illustration1.jpg)
 
-Looking for somewhere to go out Shoreditch way? Well, we&#8217;ve complied a list of some of our favourite bars <a href="http://www.insider-london.co.uk/2012/10/30/shoreditch-bars-drinking-guide-london/" target="_blank">here</a>, but for something really different, check out <a href="http://swingersldn.co.uk/" target="_blank">Swingers</a>, a new crazy golf course that will be opening in a Warehouse near Old Street on the 25 September.
+Looking for somewhere to go out Shoreditch way? Well, we&#8217;ve complied a list of some of our favourite bars <a href="/shoreditch-bars-drinking-guide-london/" target="_blank">here</a>, but for something really different, check out <a href="http://swingersldn.co.uk/" target="_blank">Swingers</a>, a new crazy golf course that will be opening in a Warehouse near Old Street on the 25 September.
 
 For crazy golf enthusiasts, like \*cough\* us, this is great news: no longer will we have to trek to <a href="http://www.jurassicencounter.com/" target="_blank">New Malden</a> or <a href="http://www.worldofgolf.co.uk/golf-centres/sidcup/lost-island-encounter/" target="_blank">Sidcup</a> to practice our swing. But as well as a nine hole course, Swingers promises a 1920s-style club house, and a diner with a changing selection of street food from the likes of Pizza Pilgrims and Patty & Bun.
 

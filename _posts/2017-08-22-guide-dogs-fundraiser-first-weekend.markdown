@@ -19,17 +19,17 @@ Last Saturday and Sunday, 19th and 20th of August, we ran our first tours for th
 
 <div style="padding: .5em; border: .35em dotted #EE3348;">
 <ul>
-<li>Sat, 26 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/">Silicon Roundabout and Tech City Tour</a> (£20 pp; con £12)</li>
-<li>Sun, 27 Aug, 11am - The <a href="http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a> (£20 pp; con £12)</li>
-<li>Sun, 27 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/london-finance-walking-tour/">City of London Finance Tour</a> (£20 pp; con £12)</li>
-<li>Mon, 28 Aug, 2pm - The <a href="http://www.insider-london.co.uk/tours/the-death-and-debauchery-tour/">Death and Debauchery Tour</a> (£12 pp; con £10)</li>
+<li>Sat, 26 Aug, 2pm - The <a href="https://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/">Silicon Roundabout and Tech City Tour</a> (£20 pp; con £12)</li>
+<li>Sun, 27 Aug, 11am - The <a href="https://www.insider-london.co.uk/tours/london-underground-and-tube-tour/">London Underground and Tube Tour</a> (£20 pp; con £12)</li>
+<li>Sun, 27 Aug, 2pm - The <a href="https://www.insider-london.co.uk/tours/london-finance-walking-tour/">City of London Finance Tour</a> (£20 pp; con £12)</li>
+<li>Mon, 28 Aug, 2pm - The <a href="https://www.insider-london.co.uk/tours/the-death-and-debauchery-tour/">Death and Debauchery Tour</a> (£12 pp; con £10)</li>
 </ul>
 <p>Please contact <a href="mailto:jonas@insider-london.co.uk">jonas@insider-london.co.uk</a> for booking (please do not use the on-page booking system, otherwise it won’t contribute to the fundraiser).</p>
 </div>
 
 Richard, tour guide with Insider London, said: “It’s great to see how our guests enjoy our tours! To know, that every penny they paid goes to a good cause – Guide Dogs’ services and their great campaigns – makes it even more rewarding!”
 
-With his enthusiastic and personable style, Richard had captivated our guests minds and fantasy when he led the [Death and Debauchery Tour](http://www.insider-london.co.uk/tours/the-death-and-debauchery-tour/) on Sunday. He's also the one to lead the added tour on Monday, 28th August. The [City of London Finance Tour](http://www.insider-london.co.uk/tours/london-finance-walking-tour/) on Sunday will be led by Andy Catto, a certified City of London Guide and former banker, whose knowledge and expertise never ceases to amaze. Both the [Silicon Roundabout Tour](http://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/) on Saturday and the [London Underground and Tube Tour](http://www.insider-london.co.uk/tours/london-underground-and-tube-tour/) on Sunday will be led by Jonas, a London enthusiast and the organiser of the fundraiser.
+With his enthusiastic and personable style, Richard had captivated our guests minds and fantasy when he led the [Death and Debauchery Tour](https://www.insider-london.co.uk/tours/the-death-and-debauchery-tour/) on Sunday. He's also the one to lead the added tour on Monday, 28th August. The [City of London Finance Tour](https://www.insider-london.co.uk/tours/london-finance-walking-tour/) on Sunday will be led by Andy Catto, a certified City of London Guide and former banker, whose knowledge and expertise never ceases to amaze. Both the [Silicon Roundabout Tour](https://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/) on Saturday and the [London Underground and Tube Tour](https://www.insider-london.co.uk/tours/london-underground-and-tube-tour/) on Sunday will be led by Jonas, a London enthusiast and the organiser of the fundraiser.
 
 ![Our group from last Saturday's Tube Tour, 2pm.](/uploads/Group%20Tube%202pm_web.jpg)
 

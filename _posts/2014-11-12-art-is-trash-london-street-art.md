@@ -19,7 +19,7 @@ tags:
 id: 23288
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=23288
+guid: https://www.insider-london.co.uk/?p=23288
 s4_cdes:
 - 
 s4_ctitle:
@@ -40,4 +40,4 @@ We spotted the below on the alleyway between Brick Lane and Allen Gardens: we do
 
 [<img class="aligncenter wp-image-23293 size-full" src="/wp-content/uploads/2014/11/15_mini.jpg" alt="stealth street art london" width="569" height="427" />](/wp-content/uploads/2014/11/15_mini.jpg)
 
-Join us on one of our <a href="http://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">street art and graffiti walking tours</a> and see what you can spot. More pictures next week.
+Join us on one of our <a href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">street art and graffiti walking tours</a> and see what you can spot. More pictures next week.

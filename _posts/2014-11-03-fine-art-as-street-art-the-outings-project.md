@@ -13,7 +13,7 @@ tags:
 id: 23113
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=23113
+guid: https://www.insider-london.co.uk/?p=23113
 s4_url2s:
 - 
 s4_image2s:
@@ -30,7 +30,7 @@ s4_cdes:
   <em>Image credit: <a href="https://www.flickr.com/photos/bitboy/15437028361/in/photolist-pw7NHp-pumV1o-peUgvJ-pwhfLu-pwj3X8-pe39yA-pdqx2e-psoY1u-pcZzeP-puaggx-pcXoZV-pBvxiK-pfs6hU-ptg2Zh-pt1pGp-pbNi1W-pbMSUG-pt1qrv-pt1jkn-pbKSf6-pr3VUm-pskz25-p9J7xo-p9ruvp-p98aUF-pcytQT-ptL7TX-pcyAe4-ptLgrP-pcxxfn-pu1Jf1-pcyBXK-pcxVaq-pcymMe-pu214W-ptn9C8-pbJTWs-ptdfRq-pteSfH-prcCHQ-pbJPkb-pbJ86e-pbK7sC-prcswN-ptcGns-pbKtSv-prc4Yb-prc2wC-pbK7hM-pbJCH9" target="_blank">Bit Boy</a></em>
 </p>
 
-Remember <a href="http://www.insider-london.co.uk/2014/10/22/street-art-picture-of-the-week-buxton-street-e1/" target="_blank">this photo of Buxton Street</a> we featured as our street art photo of the week last month? Well, while we identified pieces by <span style="color: #4d4d4d;">Ronzo and Cityzen Kane, we were drawing a blank on the lady on the left. That&#8217;s until we discovered the brilliant <a href="http://www.outings-project.org/" target="_blank">Outings Project</a>, a collaborative project that aims to take fine art portraits out of the gallery and onto the street. </span>
+Remember <a href="/street-art-picture-of-the-week-buxton-street-e1/" target="_blank">this photo of Buxton Street</a> we featured as our street art photo of the week last month? Well, while we identified pieces by <span style="color: #4d4d4d;">Ronzo and Cityzen Kane, we were drawing a blank on the lady on the left. That&#8217;s until we discovered the brilliant <a href="http://www.outings-project.org/" target="_blank">Outings Project</a>, a collaborative project that aims to take fine art portraits out of the gallery and onto the street. </span>
 
 The Outings Project encourages you to go into a gallery, take a photo with your phone of one of the many historic portraits on display, print out your image and to paste it onto a wall in the outside world. Removed from the confines of the gallery, the people of the paintings take on a new lease of life. So far the project has cropped up in locations including London, Barcelona, Paris and Madrid. We spoke to the project&#8217;s instigator, Julien de Casabianca, to find out more.
 
@@ -95,4 +95,4 @@ It&#8217;s a participative project. We want to see people from all around the wo
 
 **Thanks Julien!**
 
-To find out more, and learn how to liberate your own artwork visit <a href="http://www.outings-project.org/#!process/c17f1" target="_blank">The Outings Project website</a>. And for more of what&#8217;s new in London street art scene, come and join us on one of our <a href="http://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">London street art walking tours</a>.
+To find out more, and learn how to liberate your own artwork visit <a href="http://www.outings-project.org/#!process/c17f1" target="_blank">The Outings Project website</a>. And for more of what&#8217;s new in London street art scene, come and join us on one of our <a href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">London street art walking tours</a>.

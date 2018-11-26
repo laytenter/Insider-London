@@ -17,7 +17,7 @@ tags:
 id: 15191
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=15191
+guid: https://www.insider-london.co.uk/?p=15191
 s4_url2s:
 - 
 s4_image2s:
@@ -64,4 +64,4 @@ Amongst their many volunteer opportunities there’s the chance to get involved 
   <em>Image via <a title="London Wildlife" href="www.wildlifetrusts.org" target="_blank">wildlifetrusts.org</a></em>
 </p>
 
-And once you’re all green-fingered-out for the day, you and your fellow volunteers can enjoy the fruits of your labour by taking a group tour with Insider London. You can join the <a title="Alternative Walking Tour" href="http://www.insider-london.co.uk/london-eco-green-sustainable-walking-tour/" target="_blank">Cutting-Edge Green Tour</a>, or get in touch to <a title="Custom Walking Tours" href="http://www.insider-london.co.uk/private-bespoke-tours-london-walking-tours/" target="_blank">build your own custom itinerary</a>.
+And once you’re all green-fingered-out for the day, you and your fellow volunteers can enjoy the fruits of your labour by taking a group tour with Insider London. You can join the <a title="Alternative Walking Tour" href="https://www.insider-london.co.uk/london-eco-green-sustainable-walking-tour/" target="_blank">Cutting-Edge Green Tour</a>, or get in touch to <a title="Custom Walking Tours" href="https://www.insider-london.co.uk/private-bespoke-tours-london-walking-tours/" target="_blank">build your own custom itinerary</a>.

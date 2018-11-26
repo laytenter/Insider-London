@@ -12,7 +12,7 @@ layout: post
 
 ![bigstock-Borough-Market-in-London-100448834.jpg](/uploads/bigstock-Borough-Market-in-London-100448834.jpg)
 
-If you’re going on guided walks in London in the near future, make sure you ask your tour guide to take you to Borough Market if there’s time, as this is one of the absolute [must-do attractions that the Big Smoke has to offer](http://www.insider-london.co.uk/tours/).
+If you’re going on guided walks in London in the near future, make sure you ask your tour guide to take you to Borough Market if there’s time, as this is one of the absolute [must-do attractions that the Big Smoke has to offer](https://www.insider-london.co.uk/tours/).
 
 Did you know that the market itself has been around in one form or another [for an impressive 1,000 years or so](http://boroughmarket.org.uk/)? It’s thought that it can be dated as far back as 1014, which is certainly not to be sneezed at – and it’s still going strong!
 

@@ -15,7 +15,7 @@ tags:
 id: 23003
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=23003
+guid: https://www.insider-london.co.uk/?p=23003
 s4_image2s:
 - 
 s4_ctitle:
@@ -35,5 +35,5 @@ s4_url2s:
 </p>
 
 <p style="text-align: left;">
-  From tomorrow, 16 October, until 9 November, Mr Cenz&#8217;s work on canvas is being celebrated by the Pure Evil Gallery. You can find out more about that <a href="http://www.pureevilclothing.com/indexgallery.html" target="_blank">here</a>. Check back next week for another London street art picture, or come and join us on one of our <a href="http://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">London street art and graffiti walking tours</a> and see what you can spot for yourself.
+  From tomorrow, 16 October, until 9 November, Mr Cenz&#8217;s work on canvas is being celebrated by the Pure Evil Gallery. You can find out more about that <a href="http://www.pureevilclothing.com/indexgallery.html" target="_blank">here</a>. Check back next week for another London street art picture, or come and join us on one of our <a href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">London street art and graffiti walking tours</a> and see what you can spot for yourself.
 </p>

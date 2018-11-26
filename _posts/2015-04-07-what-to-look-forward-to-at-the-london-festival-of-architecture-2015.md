@@ -20,7 +20,7 @@ tags:
 id: 25054
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=25054
+guid: https://www.insider-london.co.uk/?p=25054
 s4_url2s:
 - 
 s4_image2s:
@@ -41,7 +41,7 @@ Throughout June 2015, London will play host to a month-long, city-wide celebrati
   <em>Image credit: <a href="http://www.londonfestivalofarchitecture.org/">London Festival of Architecture</a></em>
 </p>
 
-For an idea of what to expect, check out [our round-up of last year’s festival](http://www.insider-london.co.uk/2014/08/11/london-festival-of-architecture-2014-the-best-bits/) – when the theme was “Capital”. Mayor Boris Johnson said of last year’s festival: &#8220;I’m hugely enthusiastic about good design and year-on-year the London Festival of Architecture continues to surpass its previous successes. The Festival makes an enormous contribution to London’s profile by promoting the talent, output and success of our architectural sector; and showcasing the innovation of London’s cultural sector through an outstanding partner programme that includes many of our leading institutions. The debate and engagement the festival creates helps shape this great city.&#8221;
+For an idea of what to expect, check out [our round-up of last year’s festival](/london-festival-of-architecture-2014-the-best-bits/) – when the theme was “Capital”. Mayor Boris Johnson said of last year’s festival: &#8220;I’m hugely enthusiastic about good design and year-on-year the London Festival of Architecture continues to surpass its previous successes. The Festival makes an enormous contribution to London’s profile by promoting the talent, output and success of our architectural sector; and showcasing the innovation of London’s cultural sector through an outstanding partner programme that includes many of our leading institutions. The debate and engagement the festival creates helps shape this great city.&#8221;
 
 Sustainability is a key theme in emerging architecture, with a global focus on green practices. We recommend heading to The Building Centre on Wednesday 19 June for a talk on Singapore’s Gardens by the Bay. The waterfront gardens feature two biomes ­­– controlled environments which host one Mediterranean springtime environment and one tropical mountain effect.
 
@@ -69,4 +69,4 @@ With some of Britain’s leading cultural and academic institutions – such as 
   <em>Image credit: <a href="http://www.londonfestivalofarchitecture.org/">London Festival of Architecture</a></em>
 </p>
 
- If you want to explore some of London’s best architecture, join one of our walking tours. You can choose from [Modern Architecture](http://www.insider-london.co.uk/london-architecture-walking-tours/), where you’ll see hidden wonders as well as iconic buildings, or [Sustainable Architecture](http://www.insider-london.co.uk/sustainable-green-building-london-tours-2/), where you’ll see the best of London’s green structures. You can even mix-and-match with a [bespoke tour](http://www.insider-london.co.uk/private-bespoke-tours-london-walking-tours/), where the agenda will be tailored to suit you.
+ If you want to explore some of London’s best architecture, join one of our walking tours. You can choose from [Modern Architecture](https://www.insider-london.co.uk/london-architecture-walking-tours/), where you’ll see hidden wonders as well as iconic buildings, or [Sustainable Architecture](https://www.insider-london.co.uk/sustainable-green-building-london-tours-2/), where you’ll see the best of London’s green structures. You can even mix-and-match with a [bespoke tour](https://www.insider-london.co.uk/private-bespoke-tours-london-walking-tours/), where the agenda will be tailored to suit you.

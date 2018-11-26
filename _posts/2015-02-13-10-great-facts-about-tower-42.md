@@ -27,7 +27,7 @@ tags:
 id: 24713
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=24713
+guid: https://www.insider-london.co.uk/?p=24713
 s4_ctitle:
 - 
 s4_image2s:

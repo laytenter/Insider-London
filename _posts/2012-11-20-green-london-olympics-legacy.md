@@ -15,7 +15,7 @@ tags:
 id: 3030
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=3030
+guid: https://www.insider-london.co.uk/?p=3030
 ---
 
 Is your Olympics buzz petering out into a damp sizzle? Concerned about the legacy of the Games? Sick of another sweaty armpit in your face on the tube? If you answered yes to any of those questions then salvation is at hand. Mo Farah, that’s good news, I hear you cry!

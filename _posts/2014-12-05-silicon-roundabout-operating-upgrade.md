@@ -19,7 +19,7 @@ tags:
 id: 23517
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=23517
+guid: https://www.insider-london.co.uk/?p=23517
 s4_url2s:
 - 
 s4_image2s:
@@ -55,5 +55,5 @@ Consultations continue until 11th January 2015, and if it goes ahead, we can exp
 </p>
 
 <p style="text-align: left;">
-  If you want to learn more about Silicon Roundabout and Tech City, check out our <a href="http://www.insider-london.co.uk/silicon-roundabout-tech-city-tour/">walking tour</a>! You’ll see some of the hangouts that up-and-coming entrepreneurs like to frequent, learn about the growth that the area has seen in recent years and discuss the  part the Government is playing in all of this.
+  If you want to learn more about Silicon Roundabout and Tech City, check out our <a href="https://www.insider-london.co.uk/silicon-roundabout-tech-city-tour/">walking tour</a>! You’ll see some of the hangouts that up-and-coming entrepreneurs like to frequent, learn about the growth that the area has seen in recent years and discuss the  part the Government is playing in all of this.
 </p>

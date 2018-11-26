@@ -20,7 +20,7 @@ tags:
 id: 23594
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=23594
+guid: https://www.insider-london.co.uk/?p=23594
 s4_image2s:
 - 
 s4_ctitle:
@@ -59,4 +59,4 @@ A parade of pop-ups at Old Street, on the Northern Line, is part of TfL&#8217;s 
 
 A growing number of pop-ups are proving equally popular at other stations, including St. James&#8217;s Park, Piccadilly Circus and Baker Street, and TfL’s Director of Commercial Development Graeme Craig sums up the current trend: &#8220;Pop-up shops provide an opportunity for new and existing retailers to showcase their innovative products and services to the millions of people who use the stations each year.”
 
-See how the area around Old Street has been transformed by taking a [Silicon Roundabout/Tech City tour](http://www.insider-london.co.uk/silicon-roundabout-tech-city-tour/ "Silicon Roundabout/Tech City Tour") or, for more fascinating facts about the tube, take a [London Underground Tour](http://www.insider-london.co.uk/london-underground-tube-tours/ "London Underground Tour").
+See how the area around Old Street has been transformed by taking a [Silicon Roundabout/Tech City tour](https://www.insider-london.co.uk/silicon-roundabout-tech-city-tour/ "Silicon Roundabout/Tech City Tour") or, for more fascinating facts about the tube, take a [London Underground Tour](https://www.insider-london.co.uk/london-underground-tube-tours/ "London Underground Tour").

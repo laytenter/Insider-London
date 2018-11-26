@@ -11,7 +11,7 @@ categories:
 id: 8099
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=8099
+guid: https://www.insider-london.co.uk/?p=8099
 ---
 
 <p dir="ltr">

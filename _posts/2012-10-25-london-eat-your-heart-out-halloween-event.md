@@ -13,7 +13,7 @@ tags:
 id: 25425
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=2142
+guid: https://www.insider-london.co.uk/?p=2142
 ---
 
 <figure id="attachment_2145" style="width: 569px" class="wp-caption alignnone">[<img class=" wp-image-2145 " src="/wp-content/uploads/2012/10/Eat-Your-Heart-Out-Weird-Halloween-London-Gory-cake.jpg" alt="Eat Your Heart Out London" width="569" height="500" />](/wp-content/uploads/2012/10/Eat-Your-Heart-Out-Weird-Halloween-London-Gory-cake.jpg)<figcaption class="wp-caption-text">This hunk of flesh is actually chocolate truffle and rum buttercream frosting (Photo: Eat Your Heart Out)</figcaption></figure> 

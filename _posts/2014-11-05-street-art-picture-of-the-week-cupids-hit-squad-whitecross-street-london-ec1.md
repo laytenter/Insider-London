@@ -14,7 +14,7 @@ tags:
 id: 23247
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=23247
+guid: https://www.insider-london.co.uk/?p=23247
 s4_url2s:
 - 
 s4_image2s:
@@ -31,4 +31,4 @@ s4_cdes:
 
 Waiting for love to strike? Well, you&#8217;d possibly not want it to hit with as much force as depicted in this Cupid&#8217;s Hit Squad piece of street art, from DS. Painted at Whitecross Street festival, it&#8217;s the second in the series &#8211; the first was fittingly created in &#8220;the city of love&#8221;, Paris (see more <a href="http://www.dsart.co.uk/store/products/2156/" target="_blank">details here</a>).
 
-According to his website, &#8220;DS a US national, UK bred, public school ex-con, strives to create visually attractive, mentally engaging art all wrapped up in rich colour and form.&#8221; You can see further examples of work <a href="http://www.dsart.co.uk/gallery/" target="_blank">in his gallery</a>, and for more street art, come and join Insider London on one of our <a href="http://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">London street art and graffiti walking tours</a>.
+According to his website, &#8220;DS a US national, UK bred, public school ex-con, strives to create visually attractive, mentally engaging art all wrapped up in rich colour and form.&#8221; You can see further examples of work <a href="http://www.dsart.co.uk/gallery/" target="_blank">in his gallery</a>, and for more street art, come and join Insider London on one of our <a href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">London street art and graffiti walking tours</a>.

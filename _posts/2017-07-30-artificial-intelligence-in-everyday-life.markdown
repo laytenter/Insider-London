@@ -22,7 +22,7 @@ And it's not just or phones and other portable gadgets that have developed with 
 \
 AI may also benefit the medical industry in a much more dramatic way, including assisting in health care, human biology and medicine. In a [recent Google conference ](https://www.engadget.com/2017/05/17/google-launched-a-massive-open-ai-division/)CEO Sundar Pichai spoke about it's more focused commitment to AI, for both research and services. This commitment is said to help with medical research in order to help sequence DNA, as well as assisting pathologists with locating such illnesses such as cancer.
 
-If you're interested in the science and technology behind AI then you may be keen to join our [Silicon Roundabout and Tech City Tour,](http://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/) where you can learn all about the technology hub that resides in London's East End. 
+If you're interested in the science and technology behind AI then you may be keen to join our [Silicon Roundabout and Tech City Tour,](https://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/) where you can learn all about the technology hub that resides in London's East End. 
 
 Also don’t forget to follow us on [Facebook](http://facebook.com/insiderlondon/), [Twitter](http://twitter.com/insiderlondon) and [Instagram](http://instagram.com/insiderlondontours/) to keep up to date with Insider London.
 

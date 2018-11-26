@@ -15,7 +15,7 @@ tags:
 id: 21291
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=21291
+guid: https://www.insider-london.co.uk/?p=21291
 s4_cdes:
 - 
 s4_ctitle:
@@ -30,4 +30,4 @@ s4_url2s:
   
 We&#8217;re very pleased to announce that twitter user @surreysunshine is the lucky winner of a copy of CitySketch London. Congratulations and we&#8217;d love to see any of your doodles inspired by the book!
 
-Not lucky this time? You can order a copy of CitySketch London <a href="http://www.amazon.co.uk/Citysketch-London-Creative-Prompts-Sketching/dp/1937994554/ref=sr_1_1?s=books&ie=UTF8&qid=1409918153&sr=1-1&keywords=citysketch+london" target="_blank">here</a>, check out <a href="http://www.insider-london.co.uk/2014/08/22/melissa-wood-illustrator-citysketch-london/" target="_blank">our interview with the illustrator Melissa Wood here</a>, and keep reading the Insider London blog for more giveaways.
+Not lucky this time? You can order a copy of CitySketch London <a href="http://www.amazon.co.uk/Citysketch-London-Creative-Prompts-Sketching/dp/1937994554/ref=sr_1_1?s=books&ie=UTF8&qid=1409918153&sr=1-1&keywords=citysketch+london" target="_blank">here</a>, check out <a href="/melissa-wood-illustrator-citysketch-london/" target="_blank">our interview with the illustrator Melissa Wood here</a>, and keep reading the Insider London blog for more giveaways.

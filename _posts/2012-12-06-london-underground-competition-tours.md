@@ -14,7 +14,7 @@ tags:
 id: 3441
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=3441
+guid: https://www.insider-london.co.uk/?p=3441
 ---
 
 <p style="text-align: center;">
@@ -41,9 +41,9 @@ Two tickets to the [BFI Southbank&#8217;s](http://www.bfi.org.uk) preview screen
 
 And last but not least, you&#8217;ll receive a lovely bundle of Penguin books (underground themed, of course). These include _Underground_, chronicling the history of the subterranean systems that became the lifeblood of London through a series of previously unseen illustrations and images, and a beautiful, brand-spanking new edition of _Poems on the Underground,_ released especially for the occasion by Penguin. Cor blimey!
 
-So, if any of this takes your fancy, you can enter our wonderful competition here: <a title="London Underground Competition" href="http://www.insider-london.co.uk/london-underground-competition/" target="_blank">London Underground Competition</a>
+So, if any of this takes your fancy, you can enter our wonderful competition here: <a title="London Underground Competition" href="https://www.insider-london.co.uk/london-underground-competition/" target="_blank">London Underground Competition</a>
 
-And read all about our one-of-a-kind London Underground tour here: <a title="London Underground Tour" href="http://www.insider-london.co.uk/london-underground-tube-tours/" target="_blank">London Underground Tour</a>
+And read all about our one-of-a-kind London Underground tour here: <a title="London Underground Tour" href="https://www.insider-london.co.uk/london-underground-tube-tours/" target="_blank">London Underground Tour</a>
 
 Good luck!
 
