@@ -16,9 +16,7 @@ layout: post
 guid: http://www.insider-london.co.uk/?p=3196
 ---
 
-###### [London Walking Tours](http://www.insider-london.co.uk/ "London Walking Tours") > [Tour blog](http://www.insider-london.co.uk/blog/ "Insider London blog") > London pub ghosts<figure id="attachment_3306" style="width: 569px" class="wp-caption alignnone">
-
-[<img class="size-full wp-image-3306" alt="London pub ghosts, London Walking Tours" src="/wp-content/uploads/2012/11/comedy-pub1.jpg" width="569" height="246" />](/wp-content/uploads/2012/11/comedy-pub1.jpg)<figcaption class="wp-caption-text">dare you enter?</figcaption></figure> 
+[<img class="size-full wp-image-3306" alt="London pub ghosts, London Walking Tours" src="/wp-content/uploads/2012/11/comedy-pub1.jpg" width="569" height="246" />](/wp-content/uploads/2012/11/comedy-pub1.jpg)<figcaption class="wp-caption-text">dare you enter?</figcaption></figure>
 
 Lawry Lewin – rather aptly an actor of &#8220;Horrible Histories&#8221; fame – is in high spirits. But for how long? I’m here to make him relive a chilling experience.
 

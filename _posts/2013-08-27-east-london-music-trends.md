@@ -17,11 +17,9 @@ layout: post
 guid: http://www.insider-london.co.uk/?p=3717
 ---
 
-###### [Niche London walking tours](http://www.insider-london.co.uk/ "Insider London Walking Tours") > [Insider Blog](http://www.insider-london.co.uk/blog/ "Insider London Blog") > London Music Trends
-
 **Barry Hoffman and Paddy Banks want to change the way you listen to music. They want to change the way you see music. They are [Soundyoucansee](http://soundyoucansee.com/ "Soundyoucansee").**<figure id="attachment_3781" style="width: 569px" class="wp-caption alignnone">
 
-<a href="http://www.insider-london.co.uk/2013/08/27/east-london-music-trends/bozandpaddy-2/" rel="attachment wp-att-3781"><img class="size-full wp-image-3781" alt="London Music Trends, Soundyoucansee, Insider London, Walking Tours" src="/wp-content/uploads/2012/12/BozAndPaddy1.jpg" width="569" height="412" /></a><figcaption class="wp-caption-text">Bring me the best music now!</figcaption></figure> 
+<a href="http://www.insider-london.co.uk/2013/08/27/east-london-music-trends/bozandpaddy-2/" rel="attachment wp-att-3781"><img class="size-full wp-image-3781" alt="London Music Trends, Soundyoucansee, Insider London, Walking Tours" src="/wp-content/uploads/2012/12/BozAndPaddy1.jpg" width="569" height="412" /></a><figcaption class="wp-caption-text">Bring me the best music now!</figcaption></figure>
 
 **The theme is simple: _trust us to find the bands you need to see before you&#8217;re aware you want to see them_. Barry explains&#8230;**
 
@@ -39,7 +37,7 @@ It&#8217;s all about being eclectic with our choices and finding those bands tha
 
 It has a reputation for supporting nights like ours but more importantly, the stage and bar are in the same room. We wanted to avoid that situation where a few people disappear off into the back room to see a band play while everyone else hangs out in the bar waiting for whatever band they&#8217;ve come to see.<figure id="attachment_3760" style="width: 569px" class="wp-caption alignnone">
 
-<a href="http://www.insider-london.co.uk/2013/08/27/east-london-music-trends/gorgeous-george/" rel="attachment wp-att-3760"><img class="size-full wp-image-3760" alt="London music trends, Soundyoucansee, London Walking Tours, Music Trends" src="/wp-content/uploads/2012/12/Gorgeous-George.jpg" width="569" height="320" /></a><figcaption class="wp-caption-text">Gorgeous George &#8211; Cockney Gypsy Folk</figcaption></figure> 
+<a href="http://www.insider-london.co.uk/2013/08/27/east-london-music-trends/gorgeous-george/" rel="attachment wp-att-3760"><img class="size-full wp-image-3760" alt="London music trends, Soundyoucansee, London Walking Tours, Music Trends" src="/wp-content/uploads/2012/12/Gorgeous-George.jpg" width="569" height="320" /></a><figcaption class="wp-caption-text">Gorgeous George &#8211; Cockney Gypsy Folk</figcaption></figure>
 
 **I came to a night that had, in your own words, ‘grindcore and cockney gypsy folk’ on the bill. How do you decide on sequence?**
 

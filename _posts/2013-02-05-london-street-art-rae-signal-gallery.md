@@ -17,17 +17,15 @@ layout: post
 guid: http://www.insider-london.co.uk/?p=4188
 ---
 
-###### **[Alternative walking tours](http://www.insider-london.co.uk/ "Insider London alternative walking tours") > [Tour Blog](http://www.insider-london.co.uk/blog/ "Insider London tours blog") > RAE exhibition**
-
 **RAE &#8211; the Brooklyn street artist &#8211; is always playful, always fun; there’s a zest and sense of light-heartedness to his work. He’s even been quoted as saying he takes his cues from “the person who makes the misspelled signs at the corner deli, people who produce really bad local TV commercials [and] fashionable homeless men”. Not a bad starting point.**
 
-And now he’s come to this side of the pond, not to mark our walls (or at least not entirely), but rather for an exhibition at Shoreditch&#8217;s [###### **[Alternative walking tours](http://www.insider-london.co.uk/ "Insider London alternative walking tours") > [Tour Blog](http://www.insider-london.co.uk/blog/ "Insider London tours blog") > RAE exhibition**
+And now he’s come to this side of the pond, not to mark our walls (or at least not entirely), but rather for an exhibition at Shoreditch's RAE exhibition
 
 **RAE &#8211; the Brooklyn street artist &#8211; is always playful, always fun; there’s a zest and sense of light-heartedness to his work. He’s even been quoted as saying he takes his cues from “the person who makes the misspelled signs at the corner deli, people who produce really bad local TV commercials [and] fashionable homeless men”. Not a bad starting point.**
 
 And now he’s come to this side of the pond, not to mark our walls (or at least not entirely), but rather for an exhibition at Shoreditch&#8217;s ](http://www.signalgallery.com/events "RAE @ Signal Gallery") &#8211; an exhibition that concerns the ramblings of the mind during the witching hour. Insider London went along to see what it was all about.<figure id="attachment_4200" style="width: 569px" class="wp-caption alignnone">
 
-<a href="http://www.insider-london.co.uk/blog/2013/02/05/london-street-art-rae-signal-gallery/you-talkinah-me/" rel="attachment wp-att-4200"><img class="size-full wp-image-4200 " alt="London street art, RAE, Insider London, walking tours" src="/wp-content/uploads/2013/01/You-talkinah-me.jpg" width="569" height="546" /></a><figcaption class="wp-caption-text">You talkinah me?</figcaption></figure> 
+<a href="http://www.insider-london.co.uk/blog/2013/02/05/london-street-art-rae-signal-gallery/you-talkinah-me/" rel="attachment wp-att-4200"><img class="size-full wp-image-4200 " alt="London street art, RAE, Insider London, walking tours" src="/wp-content/uploads/2013/01/You-talkinah-me.jpg" width="569" height="546" /></a><figcaption class="wp-caption-text">You talkinah me?</figcaption></figure>
 
 The first thing that strikes you is that, as ever, there is a plethora of layers going on, both in terms of concept and material. RAE uses found and discarded items and creates the most fabulous _mélanges_. It’s the old adage that one man’s trash is another man’s you know what. This approach has always served him well so if it ain&#8217;t broke, don’t fix it, I guess. In fact, ‘if it _is_ broke, use it in your artwork’ would probably be more apt.
 

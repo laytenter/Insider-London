@@ -13,7 +13,6 @@ tags:
 id: 25426
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=2350
 ---
 
 <p style="text-align: justify">

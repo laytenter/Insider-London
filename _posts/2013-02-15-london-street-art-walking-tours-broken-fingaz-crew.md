@@ -17,8 +17,6 @@ layout: post
 guid: http://www.insider-london.co.uk/?p=4296
 ---
 
-###### [######](http://www.insider-london.co.uk/ "Alternative London walking tours") > [London walking tour blog](http://www.insider-london.co.uk/blog/ "London walking tour blog") > Broken Fingaz Crew interview
-
 ****Despite their name suggesting a problem with actually holding their necessary tools, **[ ](http://brokenfingaz.com/ "Broken Fingaz Crew")****_[Broken Fingaz Crew](http://brokenfingaz.com/ "Broken Fingaz Crew") &#8211; _Israel&#8217;s pre-eminent street artists &#8211; have been conquering walls throughout the world for nigh-on twelve years. And recently t****hey returned to the smoke  to contribute some of their unique work ****to the East London street art scene (****including down the road from my old house in Dalston). ******Being lovely people ****they also agreed to answer a few of our questions.****
 
 <a href="http://www.insider-london.co.uk/blog/2013/02/15/london-street-art-walking-tours-broken-fingaz-crew/bfc1a/" rel="attachment wp-att-4309"><img class="alignnone size-full wp-image-4309" alt="East London street art, Broken Fingaz Crew, Insider London, London walking tours" src="/wp-content/uploads/2013/02/BFC1A.jpg" width="569" height="574" /></a>
@@ -39,7 +37,7 @@ It would be great to go and paint in more undeveloped countries… Africa is a d
 
 Yes but generally we all love the same kind of art so it&#8217;s easy. I’m sure at one point someone will take too much acid and start creating weird abstract shit and it will be hard to collab after that&#8230;.<figure id="attachment_4341" style="width: 569px" class="wp-caption alignnone">
 
-<a href="http://www.insider-london.co.uk/blog/2013/02/15/london-street-art-walking-tours-broken-fingaz-crew/bfc2a/" rel="attachment wp-att-4341"><img class="size-full wp-image-4341" alt="East London street art, Broken Fingaz Crew, Alternative walking tours, Insider London" src="/wp-content/uploads/2013/02/BFC2A.jpg" width="569" height="378" /></a><figcaption class="wp-caption-text">easy on the acid!</figcaption></figure> 
+<a href="http://www.insider-london.co.uk/blog/2013/02/15/london-street-art-walking-tours-broken-fingaz-crew/bfc2a/" rel="attachment wp-att-4341"><img class="size-full wp-image-4341" alt="East London street art, Broken Fingaz Crew, Alternative walking tours, Insider London" src="/wp-content/uploads/2013/02/BFC2A.jpg" width="569" height="378" /></a><figcaption class="wp-caption-text">easy on the acid!</figcaption></figure>
 
 **I interviewed [Christiaan Nagel](http://www.insider-london.co.uk/blog/2013/01/29/london-street-art-tours-christiaan-nage/ "Christiaan Nagel") recently and he was singing your praises.**** _(indeed – there’s one of his shrooms above this latest work)_** **_ _****What other artists do you admire?**
 
@@ -57,8 +55,6 @@ Mmm… [Athens is one of the most bombed cities](http://www.youtube.com/watch?f
 
 ****London is also crazy, but in a different way. Sometimes it feels like you’re walking inside a blog. It&#8217;s cool to see a lot of good artists in one place but the hype about street art is way too much. It makes you hate it.  If we lived in East London we would probably stop doing art and only do tags.
 
-**What new pieces caught your eye(s) when you were over this time? Did you see [###### [######](http://www.insider-london.co.uk/ "Alternative London walking tours") > [London walking tour blog](http://www.insider-london.co.uk/blog/ "London walking tour blog") > Broken Fingaz Crew interview
-
 ****Despite their name suggesting a problem with actually holding their necessary tools, **[ ](http://brokenfingaz.com/ "Broken Fingaz Crew")****_[Broken Fingaz Crew](http://brokenfingaz.com/ "Broken Fingaz Crew") &#8211; _Israel&#8217;s pre-eminent street artists &#8211; have been conquering walls throughout the world for nigh-on twelve years. And recently t****hey returned to the smoke  to contribute some of their unique work ****to the East London street art scene (****including down the road from my old house in Dalston). ******Being lovely people ****they also agreed to answer a few of our questions.****
 
 <a href="http://www.insider-london.co.uk/blog/2013/02/15/london-street-art-walking-tours-broken-fingaz-crew/bfc1a/" rel="attachment wp-att-4309"><img class="alignnone size-full wp-image-4309" alt="East London street art, Broken Fingaz Crew, Insider London, London walking tours" src="/wp-content/uploads/2013/02/BFC1A.jpg" width="569" height="574" /></a>
@@ -79,7 +75,7 @@ It would be great to go and paint in more undeveloped countries… Africa is a d
 
 Yes but generally we all love the same kind of art so it&#8217;s easy. I’m sure at one point someone will take too much acid and start creating weird abstract shit and it will be hard to collab after that&#8230;.<figure id="attachment_4341" style="width: 569px" class="wp-caption alignnone">
 
-<a href="http://www.insider-london.co.uk/blog/2013/02/15/london-street-art-walking-tours-broken-fingaz-crew/bfc2a/" rel="attachment wp-att-4341"><img class="size-full wp-image-4341" alt="East London street art, Broken Fingaz Crew, Alternative walking tours, Insider London" src="/wp-content/uploads/2013/02/BFC2A.jpg" width="569" height="378" /></a><figcaption class="wp-caption-text">easy on the acid!</figcaption></figure> 
+<a href="http://www.insider-london.co.uk/blog/2013/02/15/london-street-art-walking-tours-broken-fingaz-crew/bfc2a/" rel="attachment wp-att-4341"><img class="size-full wp-image-4341" alt="East London street art, Broken Fingaz Crew, Alternative walking tours, Insider London" src="/wp-content/uploads/2013/02/BFC2A.jpg" width="569" height="378" /></a><figcaption class="wp-caption-text">easy on the acid!</figcaption></figure>
 
 **I interviewed [Christiaan Nagel](http://www.insider-london.co.uk/blog/2013/01/29/london-street-art-tours-christiaan-nage/ "Christiaan Nagel") recently and he was singing your praises.**** _(indeed – there’s one of his shrooms above this latest work)_** **_ _****What other artists do you admire?**
 

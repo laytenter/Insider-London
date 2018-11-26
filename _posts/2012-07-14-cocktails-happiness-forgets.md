@@ -11,7 +11,6 @@ tags:
 id: 738
 author: london75
 layout: post
-guid: http://www.insider-london.co.uk/?p=738
 ---
 
 <p style="text-align: center">

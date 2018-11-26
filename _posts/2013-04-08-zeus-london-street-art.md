@@ -16,11 +16,9 @@ layout: post
 guid: http://www.insider-london.co.uk/?p=4483
 ---
 
-###### [Alternative London walking tours](http://www.insider-london.co.uk/ "Alternative London walking tours") > [Tour blog](http://www.insider-london.co.uk/blog/ "Insider London walking tour blog") > Street art in a sweet shop
-
 **It’s an ongoing debate – and it won’t go away.  Should street artists put their work in galleries? Do (some) street artists that decide against such a pursuit get too het up about people wanting to earn a living from it? At what stage do you cease to be a street artist?**
 
-These types of musings are sort of on my mind as I have a day out west, trekking in the sunshine over to the [Graffik Gallery](http://www.graffikgallery.com/ "Graffik Gallery") on Portobello Road to have a look at South London artist [###### [Alternative London walking tours](http://www.insider-london.co.uk/ "Alternative London walking tours") > [Tour blog](http://www.insider-london.co.uk/blog/ "Insider London walking tour blog") > Street art in a sweet shop
+These types of musings are sort of on my mind as I have a day out west, trekking in the sunshine over to the [Graffik Gallery](http://www.graffikgallery.com/ "Graffik Gallery") on Portobello Road.
 
 **It’s an ongoing debate – and it won’t go away.  Should street artists put their work in galleries? Do (some) street artists that decide against such a pursuit get too het up about people wanting to earn a living from it? At what stage do you cease to be a street artist?**
 
@@ -40,7 +38,7 @@ As we tuck in to banana foams and pink shrimps it dawns on me that as luck or se
 
 We walk through to the backroom where the theme changes ever so slightly. This painting is my personal favourite.<figure id="attachment_4493" style="width: 569px" class="wp-caption alignnone">
 
-<a href="http://www.insider-london.co.uk/blog/2013/04/08/zeus-london-street-art/mirror/" rel="attachment wp-att-4493"><img class="size-full wp-image-4493" alt="Zeus, London street art, Insider London, walking tours" src="/wp-content/uploads/2013/02/Mirror.jpg" width="569" height="427" /></a><figcaption class="wp-caption-text">surveillance has never been so sweet</figcaption></figure> 
+<a href="http://www.insider-london.co.uk/blog/2013/04/08/zeus-london-street-art/mirror/" rel="attachment wp-att-4493"><img class="size-full wp-image-4493" alt="Zeus, London street art, Insider London, walking tours" src="/wp-content/uploads/2013/02/Mirror.jpg" width="569" height="427" /></a><figcaption class="wp-caption-text">surveillance has never been so sweet</figcaption></figure>
 
 **Acid**
 

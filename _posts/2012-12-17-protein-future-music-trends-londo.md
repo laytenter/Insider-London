@@ -16,8 +16,6 @@ layout: post
 guid: http://www.insider-london.co.uk/?p=3639
 ---
 
-###### [London Walking Tours](http://www.insider-london.co.uk/ "London Walking Tours") > [Insider London Blog](http://www.insider-london.co.uk/blog/ "Insider London Blog") > Future of Music Listening pt 2
-
 **Protein is, in its own words, ****‘an insight platform that keeps you up-to-date on the latest trends, behaviours and thinking’.**
 
 And so I have to come to Shoreditch to join a discussion on the future of music listening.
@@ -26,7 +24,7 @@ The Protein audience comprises 18-35 year old early adopter consumers and I have
 
 There are three speakers tonight and the general consensus is that music has become less precious &#8211; it’s a commodity (though very few people own it any more), and that listening is now of secondary importance. Music is just something in the background now.<figure id="attachment_3672" style="width: 565px" class="wp-caption alignnone">
 
-<a href="http://www.insider-london.co.uk/blog/2012/12/17/protein-future-music-trends-londo/protein-logo-black1-2/" rel="attachment wp-att-3672"><img class="size-full wp-image-3672 " src="/wp-content/uploads/2012/12/protein-logo-black11.jpg" alt="Protein, Future of Music Listening, East London, Shoreditch, Walking Tours" width="565" height="283" /></a><figcaption class="wp-caption-text">image from http://prote.in/feed</figcaption></figure> 
+<a href="http://www.insider-london.co.uk/blog/2012/12/17/protein-future-music-trends-londo/protein-logo-black1-2/" rel="attachment wp-att-3672"><img class="size-full wp-image-3672 " src="/wp-content/uploads/2012/12/protein-logo-black11.jpg" alt="Protein, Future of Music Listening, East London, Shoreditch, Walking Tours" width="565" height="283" /></a><figcaption class="wp-caption-text">image from http://prote.in/feed</figcaption></figure>
 
 **CRITERIA**
 
@@ -40,7 +38,7 @@ According to Lexxx, co-developer of **[Bronze Format](http://bronzeformat.com/ "
 
 Indeed. Alex Robinson of The Other Hand / Stones Throw label comments that the biggest selling artist in the last year is Dr Dre. But he’s only released two songs and they’ve just come out. So it &#8216;aint from his music. No. It’s from his headphones – **[Beats By Dre](http://uk.beatsbydre.com/ "Beats By Dre")** – specifically designed to make badly compressed bad quality files sound fantastic.<figure id="attachment_3642" style="width: 569px" class="wp-caption alignnone">
 
-<a href="http://www.insider-london.co.uk/blog/2012/12/17/protein-future-music-trends-londo/beats-by-dr-dre-studio-blue-headphones/" rel="attachment wp-att-3642"><img class="size-full wp-image-3642  " src="/wp-content/uploads/2012/12/Beats-By-Dr-Dre-Studio-Blue-Headphones.jpg" alt="Beats By Dre, Future Music Listening, Insider London, London Walking Tours" width="569" height="379" /></a><figcaption class="wp-caption-text">my compressed tunes are liberated! (pic from beatsmegamonday.com)</figcaption></figure> 
+<a href="http://www.insider-london.co.uk/blog/2012/12/17/protein-future-music-trends-londo/beats-by-dr-dre-studio-blue-headphones/" rel="attachment wp-att-3642"><img class="size-full wp-image-3642  " src="/wp-content/uploads/2012/12/Beats-By-Dr-Dre-Studio-Blue-Headphones.jpg" alt="Beats By Dre, Future Music Listening, Insider London, London Walking Tours" width="569" height="379" /></a><figcaption class="wp-caption-text">my compressed tunes are liberated! (pic from beatsmegamonday.com)</figcaption></figure>
 
 He notes that 1.2 billion listens out of total of 4 billion internet music listens is through YouTube. Music has become of secondary importance to the image.
 

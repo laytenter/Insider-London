@@ -18,10 +18,6 @@ layout: post
 guid: http://www.insider-london.co.uk/?p=3030
 ---
 
-###### [London walking tours](http://http://www.insider-london.co.uk/ "London walking tours") > [Insider London blog](http://http://www.insider-london.co.uk/blog/ "Insider London blog") > London Olympics Legacy
-
-&nbsp;
-
 Is your Olympics buzz petering out into a damp sizzle? Concerned about the legacy of the Games? Sick of another sweaty armpit in your face on the tube? If you answered yes to any of those questions then salvation is at hand. Mo Farah, that’s good news, I hear you cry!
 
 Yes, the good people at Sustrans are working tirelessly to create a far reaching green London Olympics legacy. But be warned, the car is to be a thing of the past.
@@ -34,7 +30,7 @@ SustainableTransport &#8211; a charity that seeks to promote modes of travel tha
 
 You wouldn’t say cycling was a new trend but it has certainly enjoyed something of a renaissance in recent times, especially in London. This is in large part due to the National Cycle Network (set up by Sustrans with National Lottery Funding –a whopping £43.5 million!). Sustrans want to make sure the Olympic legacy is about more than simply people taking up sport. With improved Greenways in and around the Olympic Village, Sustrans are encouraging more short journeys to be made by anything other than the dreaded motor.<figure id="attachment_3040" style="width: 569px" class="wp-caption alignnone">
 
-[<img class="size-full wp-image-3040   " src="/wp-content/uploads/2012/11/greenways.jpg" alt="London Olympics Legacy, Greenways, cycling, Sustrans, London Tours" width="569" height="307" />](/wp-content/uploads/2012/11/greenways.jpg)<figcaption class="wp-caption-text">Move over Bradley Wiggins!</figcaption></figure> 
+[<img class="size-full wp-image-3040   " src="/wp-content/uploads/2012/11/greenways.jpg" alt="London Olympics Legacy, Greenways, cycling, Sustrans, London Tours" width="569" height="307" />](/wp-content/uploads/2012/11/greenways.jpg)<figcaption class="wp-caption-text">Move over Bradley Wiggins!</figcaption></figure>
 
 I caught up with Francesca Leadlay, Policy Advisor at Sustrans London, to learn more.
 
@@ -44,7 +40,7 @@ I caught up with Francesca Leadlay, Policy Advisor at Sustrans London, to learn 
 
 Yes, plans are in place for more portrait benches as part of an exciting new collection of public art, in areas including Finsbury Park, Paddington and Southwark. Each bench will feature life-size portraits of local community heroes, nominated by the community.<figure id="attachment_3050" style="width: 569px" class="wp-caption alignnone">
 
-[<img class="size-full wp-image-3050  " src="/wp-content/uploads/2012/11/ledley-king2.jpg" alt="London Cycle Network, Green London, East London, London Olympics Legacy" width="569" height="330" />](/wp-content/uploads/2012/11/ledley-king2.jpg)<figcaption class="wp-caption-text">Ledley King (Spurs & England) with his steel sculpture, Meath Gardens, Mile End. King was nominated by the community along with Sylivia Pankhurst and a canal towpath horse. (image from http://mayorlutfurrahman.wordpress.com)</figcaption></figure> 
+[<img class="size-full wp-image-3050  " src="/wp-content/uploads/2012/11/ledley-king2.jpg" alt="London Cycle Network, Green London, East London, London Olympics Legacy" width="569" height="330" />](/wp-content/uploads/2012/11/ledley-king2.jpg)<figcaption class="wp-caption-text">Ledley King (Spurs & England) with his steel sculpture, Meath Gardens, Mile End. King was nominated by the community along with Sylivia Pankhurst and a canal towpath horse. (image from http://mayorlutfurrahman.wordpress.com)</figcaption></figure>
 
 **The first electric car charging point is on our green tour. Would it be fair to say that Sustrans don’t overwhelmingly support electric cars?**
 

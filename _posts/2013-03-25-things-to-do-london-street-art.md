@@ -17,8 +17,6 @@ layout: post
 guid: http://www.insider-london.co.uk/?p=4822
 ---
 
-###### [Alternative walking tours](http://www.insider-london.co.uk/ "London walking tours") > [tour blog](http://www.insider-london.co.uk/blog/ "Insider London blog") > street art larceny
-
 **So after all the furore of the ‘will they or won’t they’, the auction of the _[stolen Banksy](http://www.independent.co.uk/arts-entertainment/art/news/arts-council-unable-to-prevent-banksy-poundland-mural-from-being-sold-overseas-8503155.html "stolen Banksy")_ was finally prevented. But what realistically is the next move? What are they gonna do &#8211; bring it back and slap it back up there?**
 
 The notion that it belongs to the community is an interesting one. Why does it belong to them? Does it belong to anyone? You may argue the owner of the sainted wall is the owner. Controversial? I’m not so sure.
@@ -45,7 +43,7 @@ Under the cloak of night I went about my work, chisel, hammer and trowel in hand
 
 Alas, dear readers, I was rumbled. Clever council that they are, Fairey&#8217;s eye is being used as a vast monitoring tool, a huge CCTV device! Cripes! Look closely, you can probably make out the blinks of the camera shutter.<figure id="attachment_4864" style="width: 569px" class="wp-caption alignnone">
 
-<a href="http://www.insider-london.co.uk/blog/2013/03/25/things-to-do-london-street-art/close-up/" rel="attachment wp-att-4864"><img class="size-full wp-image-4864 " src="/wp-content/uploads/2013/03/close-up.jpg" alt="street art, walking tours, Banksy, Poundland, Shepard Fairey" width="569" height="373" /></a><figcaption class="wp-caption-text">Andre the Giant you betray me!</figcaption></figure> 
+<a href="http://www.insider-london.co.uk/blog/2013/03/25/things-to-do-london-street-art/close-up/" rel="attachment wp-att-4864"><img class="size-full wp-image-4864 " src="/wp-content/uploads/2013/03/close-up.jpg" alt="street art, walking tours, Banksy, Poundland, Shepard Fairey" width="569" height="373" /></a><figcaption class="wp-caption-text">Andre the Giant you betray me!</figcaption></figure>
 
 What choice did I have but to obey? As things to do in London go, stealing a vast piece of street art was, I admit, a pretty bone-headed thing to do. I rang my buyer in Skegness to tell her the deal was off and I am now currently residing in a police cell in Tottenham, tapping out these few words to you loyal Insider London readers.
 

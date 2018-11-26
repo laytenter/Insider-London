@@ -21,8 +21,6 @@ layout: post
 guid: http://www.insider-london.co.uk/?p=2594
 ---
 
-###### [Insider London Walking Tours](http://www.insider-london.co.uk "Insider London home page") >  [Blog](http://www.insider-london.co.uk/blog/ "Insider London Blog")  >  [The Magnificent Seven](http://www.insider-london.co.uk/blog/2012/11/13/the-magnificent-seven/ "The Magnificent Seven")
-
 London is blessed with many large and beautiful urban parks, and city dwellers are spoilt for choice for a Sunday stroll. But a slightly more intriguing, (albeit morbid) option is one of London’s _Magnificent Seven._ No, not an Enid Blyton novel, but one of London’s Victorian cemeteries &#8211; ivy-clad, tumbling mazes of fallen angels and broken tomb-stones.
 
 Ask me where I’d best like to spend a brisk, autumnal afternoon walk, and I’ll tell you: amongst piles and piles of the Victorian dead. Alright, so that might not be my answer _verbatim_, but without a doubt I would choose Nunhead cemetery &#8211; my closest of the Seven. Not only is it one of the few places in the city where wildlife is really left to do it’s thing, it is also one of those rare outdoor activities that gets better in winter.  And let’s face it: winter in London can get fairly bleak, and the last thing you want to do on your day off is leave the comfort of endless tea, sofas and central heating. But if you can manage this herculean feat, you’ll find that autumn leaves and blankets of snow only add to this eerily beautiful and peaceful retreat from the constant bustle of city life. For there’s one thing you can say for the deceased &#8211; they don’t make a lot of noise…
@@ -39,7 +37,7 @@ Luckily, in 1832, some bright spark in parliament came up with the idea of seven
 
 Controversial at first for their lack of adjoining churches (and therefore unconsecrated ground), these cemeteries slowly overcame their scandal, and became popular Victorian hang-outs.  Unlike today, Victorian Londoners weren’t lucky enough to have big urban parks for perambulating on a crisp Autumn morning, and so they, like me, developed a penchant for grave-strolling (as I like to call it). The Victorians had a morbid romance with death, and liked to spend large amounts of their time hanging around the resting places of their loved ones. Beyond their memorial value, tombs and headstones were also seen as an extension of a family’s wealth &#8211; and therefore the more extravagant the better. These excessive tombstones now serve to add curiosity to a visit, as you hunt in the undergrowth for the weirdest and grandest memorials that lie hidden beneath.<figure id="attachment_2628" style="width: 569px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-2628" src="/wp-content/uploads/2012/11/nunhead2.jpg" alt="The Magnificent Seven" width="569" height="379" />](/wp-content/uploads/2012/11/nunhead2.jpg)<figcaption class="wp-caption-text">Photography: Will De Villiers</figcaption></figure> 
+[<img class="size-full wp-image-2628" src="/wp-content/uploads/2012/11/nunhead2.jpg" alt="The Magnificent Seven" width="569" height="379" />](/wp-content/uploads/2012/11/nunhead2.jpg)<figcaption class="wp-caption-text">Photography: Will De Villiers</figcaption></figure>
 
 Just one word to the wise before you embark on your ghoulish adventure: cemeteries are big places, so don&#8217;t get caught out after closing time&#8230;
 

@@ -18,8 +18,6 @@ layout: post
 guid: http://www.insider-london.co.uk/?p=4045
 ---
 
-###### [Unique London walking tours](http://www.insider-london.co.uk/ "Unique London Walking Tours") > [Insider London Blog](http://www.insider-london.co.uk/blog/ "Tour blog") > Christiaan Nagel street art
-
 **Mushrooms. Street art. Know what I mean? Chances are, if you’ve spent any time walking round East London and looked heavenwards for inspiration, you will have been greeted by… mushrooms. Christiaan Nagel is the man behind them, on a one-man mushroom, sorry _mission_, __to ‘cover the world in mushrooms’.**
 
 **Herr Nagel was good enough to let us catch up with him while he wintered in Africa. (We weren’t wintering in Africa. We were wintering in Lincolnshire).**** **

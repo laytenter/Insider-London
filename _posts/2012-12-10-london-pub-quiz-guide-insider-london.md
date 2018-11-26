@@ -17,8 +17,6 @@ layout: post
 guid: http://www.insider-london.co.uk/?p=2920
 ---
 
-###### [Essential London Walking Tours](http://www.insider-london.co.uk/ "Insider London Walking Tours") > [Tour Blog](http://www.insider-london.co.uk/blog/ "Insider London Blog") > Best London Pub Quizzes
-
 **As activities in London go, testing your brainpower as a stranger in a garish jacket pummels you with tantalising nuggets is up there with the best of them. Here, we’ve picked the best pub quizzes London has to offer. But be warned, this is not only about mental muscle…**
 
 **POW takes no prisoners**
@@ -33,7 +31,7 @@ Tuesdays, Prince of Wales, 53 Highgate High Street, N6
 
 Mondays, The Pineapple, 51 Leverton Street NW5 2NX<figure id="attachment_3319" style="width: 569px" class="wp-caption alignnone">
 
-[<img class="size-full wp-image-3319  " src="/wp-content/uploads/2012/11/proper-headscratcher.jpg" alt="London pub quiz guide, Insider London pub guide, London nightlife, things to do in London" width="569" height="427" />](/wp-content/uploads/2012/11/proper-headscratcher.jpg)<figcaption class="wp-caption-text">the answer just won't come to me! (pic by Igor Clarke)</figcaption></figure> 
+[<img class="size-full wp-image-3319  " src="/wp-content/uploads/2012/11/proper-headscratcher.jpg" alt="London pub quiz guide, Insider London pub guide, London nightlife, things to do in London" width="569" height="427" />](/wp-content/uploads/2012/11/proper-headscratcher.jpg)<figcaption class="wp-caption-text">the answer just won't come to me! (pic by Igor Clarke)</figcaption></figure>
 
 **I’m Forever Blowing Bubbles**
 
@@ -53,7 +51,7 @@ If the Marksman’s effort doesn’t go far enough for you, try the popbitch qui
 
 Mondays, The Player, 8 Broadwick Street  Soho  W1F 8HN<figure id="attachment_3321" style="width: 569px" class="wp-caption alignnone">
 
-[<img class="size-full wp-image-3321 " src="/wp-content/uploads/2012/11/popquiz.jpg" alt="London pub quiz guide, things to do in London, essential guide to pub quizzes" width="569" height="438" />](/wp-content/uploads/2012/11/popquiz.jpg)<figcaption class="wp-caption-text">"now then son, where's the rest of your team?"</figcaption></figure> 
+[<img class="size-full wp-image-3321 " src="/wp-content/uploads/2012/11/popquiz.jpg" alt="London pub quiz guide, things to do in London, essential guide to pub quizzes" width="569" height="438" />](/wp-content/uploads/2012/11/popquiz.jpg)<figcaption class="wp-caption-text">"now then son, where's the rest of your team?"</figcaption></figure>
 
 **Chinstroking rhythms**
 
@@ -70,5 +68,5 @@ Mondays, Hat & Tun, 3 Hatton Wall, London, EC1N 8HX
 **What do you think of our selection? Have we missed an essential pub teaser? Have you been to any of the above and have some stories you want to share? Let us know!**
 
 
-  
+
 <small>View <a style="color: #0000ff; text-align: left;" href="https://maps.google.co.uk/maps/ms?msa=0&msid=207231745067683766753.0004cf8efcd1901ad83e3&ie=UTF8&t=m&source=embed&z=12">Our Pub Quiz Map</a> in a larger map</small>

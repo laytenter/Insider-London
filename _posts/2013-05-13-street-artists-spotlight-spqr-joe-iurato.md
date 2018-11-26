@@ -17,8 +17,6 @@ layout: post
 guid: http://www.insider-london.co.uk/?p=4959
 ---
 
-###### [Unique London Waling Tours](http://www.insider-london.co.uk/ "Unique London Waling Tours") > [###### [Unique London Waling Tours](http://www.insider-london.co.uk/ "Unique London Waling Tours") >](http://www.insider-london.co.uk/blog/ "London Tour blog ") > Street artists spotlight
-
 <a href="http://www.insider-london.co.uk/blog/2013/05/13/street-artists-spotlight-spqr-joe-iurato/iurato-3/" rel="attachment wp-att-4981"><img class="alignnone size-full wp-image-4981" src="/wp-content/uploads/2013/03/iurato2.jpg" alt="Joe Iurato, street art, Signal Gallery, London walking tours, Insider London" width="567" height="550" /></a>
 
 **Wandering around East London taking in the wealth of street art on offer has got to rank as one of the top activities to do in London. **
@@ -47,11 +45,11 @@ Leaving Banksy comparisons aside&#8230; well, ok, maybe _not_ leaving comparison
 
 **Joe Iurato**<figure id="attachment_5026" style="width: 569px" class="wp-caption alignnone">
 
-<a href="http://www.insider-london.co.uk/blog/2013/05/13/street-artists-spotlight-spqr-joe-iurato/iurato-horn-head/" rel="attachment wp-att-5026"><img class="size-full wp-image-5026" src="/wp-content/uploads/2013/03/iurato-horn-head.jpg" alt="Joe Iurato, Signal Gallery, London walking tours, Insider London, street art" width="569" height="536" /></a><figcaption class="wp-caption-text">I dunno what you said but she don't look happy!</figcaption></figure> 
+<a href="http://www.insider-london.co.uk/blog/2013/05/13/street-artists-spotlight-spqr-joe-iurato/iurato-horn-head/" rel="attachment wp-att-5026"><img class="size-full wp-image-5026" src="/wp-content/uploads/2013/03/iurato-horn-head.jpg" alt="Joe Iurato, Signal Gallery, London walking tours, Insider London, street art" width="569" height="536" /></a><figcaption class="wp-caption-text">I dunno what you said but she don't look happy!</figcaption></figure>
 
 I absolutely adore this piece &#8211; the menace, the power and, well, the pure bonkersness of the imagery. And this?&#8230;.<figure id="attachment_5033" style="width: 569px" class="wp-caption alignnone">
 
-<a href="http://www.insider-london.co.uk/blog/2013/05/13/street-artists-spotlight-spqr-joe-iurato/iuartomad/" rel="attachment wp-att-5033"><img class="size-full wp-image-5033" src="/wp-content/uploads/2013/03/iuartomad.jpg" alt="Joe Iurato, Signal Gallery, Insider London, walking tours, street art" width="569" height="505" /></a><figcaption class="wp-caption-text">Ta-xi!</figcaption></figure> 
+<a href="http://www.insider-london.co.uk/blog/2013/05/13/street-artists-spotlight-spqr-joe-iurato/iuartomad/" rel="attachment wp-att-5033"><img class="size-full wp-image-5033" src="/wp-content/uploads/2013/03/iuartomad.jpg" alt="Joe Iurato, Signal Gallery, Insider London, walking tours, street art" width="569" height="505" /></a><figcaption class="wp-caption-text">Ta-xi!</figcaption></figure>
 
 Yessir, the man Iurato is my favourite of the two here. What sort of mind conjures these portraits?
 
