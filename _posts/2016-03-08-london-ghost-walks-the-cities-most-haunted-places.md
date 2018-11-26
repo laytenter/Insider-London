@@ -7,7 +7,7 @@ categories:
 layout: post
 ---
 
-Insider London’s <a href="/product/famous-ghosts-and-infamous-murders/">Ghost Walks around London</a> take you on a spookily spectacular trip around some of the city’s most haunted spots. To get you in the mood to enjoy these supernatural stories, we’ve put together a list of some of the most haunted places in London. Whether you think these ghost stories are just interesting myths or you believe there truly are ghosts walking (or floating…) around London, here are some of the most famous of the capital’s ghost stories.
+Insider London’s <a href="/tours/famous-ghosts-and-infamous-murders/">Ghost Walks around London</a> take you on a spookily spectacular trip around some of the city’s most haunted spots. To get you in the mood to enjoy these supernatural stories, we’ve put together a list of some of the most haunted places in London. Whether you think these ghost stories are just interesting myths or you believe there truly are ghosts walking (or floating…) around London, here are some of the most famous of the capital’s ghost stories.
 
 Ghosts on the Underground
 -------------------------
@@ -29,4 +29,4 @@ London’s Spooky Cemeteries
 
 In general, London’s many cemeteries are places of beauty and peace. But with their imposing Victorian mausoleums and overgrown graves, it’s not hard to imagine ghosts walking among the tombstones… Locals near the City of London Cemetery have complained about an unexplained, ghostly orange light coming from one of the tombstones in the cemetery. Likewise, one of London’s most famous graveyards, Highgate Cemetery, is associated with a number of different ghost stories including a mad old woman who runs between the graves and a tall phantom figure who walks through the cemetery wall.
 
-Feeling brave? Want to explore more of London’s spooky past? Our <a href="/product/famous-ghosts-and-infamous-murders/">London Ghost Tours</a> will introduce you to more of London’s most haunted spots, take you on a spooky walk around the West End and explain why the Victorians in particular were so obsessed with the idea of ghosts and the afterlife.
+Feeling brave? Want to explore more of London’s spooky past? Our <a href="/tours/famous-ghosts-and-infamous-murders/">London Ghost Tours</a> will introduce you to more of London’s most haunted spots, take you on a spooky walk around the West End and explain why the Victorians in particular were so obsessed with the idea of ghosts and the afterlife.

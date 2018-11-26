@@ -13,7 +13,7 @@ guid: https://www.insider-london.co.uk/?p=13725
 
 [<img class="alignnone size-full wp-image-13735" alt="Antique Ben Slow T Shirt" src="/wp-content/uploads/2014/01/Antique-Ben-Slow-T-Shirt.jpg" width="566" height="337" />](/wp-content/uploads/2014/01/Antique-Ben-Slow-T-Shirt.jpg)
 
-Here at Insider London we recently spoke to [Antique Clothing](http://www.becomeantique.com/), a unique clothing company based here in London. They’ve recently made waves with the release of [a collaborative t-shirt](http://www.becomeantique.com/product/ben-slow-x-antique-collab-t-shirt-white/) with popular London street artist Ben Slow, and we have one of these limited edition t-shirts to give away to a lucky reader.
+Here at Insider London we recently spoke to [Antique Clothing](http://www.becomeantique.com/), a unique clothing company based here in London. They’ve recently made waves with the release of [a collaborative t-shirt](http://www.becomeantique.com/tours/ben-slow-x-antique-collab-t-shirt-white/) with popular London street artist Ben Slow, and we have one of these limited edition t-shirts to give away to a lucky reader.
 
 Keep your eyes peeled for another article explaining how you can enter the competition, but for now, why not read our interview with Antique Clothing? We recently caught up with staff to find out what all the fuss was about.
 

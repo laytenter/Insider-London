@@ -17,7 +17,7 @@ Alternatively, if you are lucky with the weather, why not head to the Queen Eliz
 
 ![A ticket booth](ticket-hall-770x1027.jpg)
 
-A day out in London is not complete without a ride on the Underground, hop on board and travel to your next destination. If the kids are keen to learn about the secrets behind the London Underground, why not try our [London Underground and Tube Walking Tour](/product/london-underground-and-tube-tour/).
+A day out in London is not complete without a ride on the Underground, hop on board and travel to your next destination. If the kids are keen to learn about the secrets behind the London Underground, why not try our [London Underground and Tube Walking Tour](/tours/london-underground-and-tube-tour/).
 
 ##What to do in the afternoon
 
@@ -30,4 +30,4 @@ If your family loves the theatre but are looking for something quite different t
 
 Perhaps the most surprising family activity you’ll find in London is the city farms dotted all over the capital. Hackney City Farm has been giving the local community experience in farming for over 20 years. Children and adults can get up close to a range of farmyard animals including pigs, goats, sheep, donkeys and chickens. As well as a number of animals on the site, the Farm grows a range of seasonal vegetables and other food plants where children can learn how they can lead healthier and happier lives with a low environmental impact.
 
-If you are looking for more alternative and quirky things to see and do in London, book on to our [Quirky Walking Tour](/product/quirky-tour/).
+If you are looking for more alternative and quirky things to see and do in London, book on to our [Quirky Walking Tour](/tours/quirky-tour/).

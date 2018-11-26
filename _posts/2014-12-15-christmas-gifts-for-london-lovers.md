@@ -38,7 +38,7 @@ Can&#8217;t decide what to give them, then why not give them the whole city? Thi
 
 <img class="aligncenter wp-image-23963 size-full" src="/wp-content/uploads/2014/12/London-landmark-bookend.jpg" alt="London landmark bookend" width="569" height="390" />
 
-London landmarks are also celebrated in these <a href="http://www.notonthehighstreet.com/susanbradleydesign/product/london-landmark-bookends-trellick-tower" target="_blank">London bookends</a> by Susan Bradley. Each design celebrates a different architectural highlight, from Battersea Power Station to the Gherkin. They&#8217;re £18.40 each from <a href="http://www.notonthehighstreet.com/susanbradleydesign/product/london-landmark-bookends-trellick-tower" target="_blank">Not On The High Street</a>.
+London landmarks are also celebrated in these <a href="http://www.notonthehighstreet.com/susanbradleydesign/tours/london-landmark-bookends-trellick-tower" target="_blank">London bookends</a> by Susan Bradley. Each design celebrates a different architectural highlight, from Battersea Power Station to the Gherkin. They&#8217;re £18.40 each from <a href="http://www.notonthehighstreet.com/susanbradleydesign/tours/london-landmark-bookends-trellick-tower" target="_blank">Not On The High Street</a>.
 
 <img class="aligncenter wp-image-23966 size-full" src="/wp-content/uploads/2014/12/city-clip-page-mark.jpg" alt="City Clips London page mark" width="569" height="569" />
 

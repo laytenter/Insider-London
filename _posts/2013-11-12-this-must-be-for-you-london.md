@@ -61,5 +61,5 @@ The project is entirely not-for-profit, but that doesn’t mean the materials ar
 </p>
 
 <p style="text-align: center;" dir="ltr">
-  <a href="https://vimeo.com/72007397">video</a>  / <a href="https://www.facebook.com/ThisMustBeForYou">facebook</a>  / <a href="http://thismustbeforyou.wordpress.com/">website</a>  / <a href="https://twitter.com/MustBeForYou">twitter</a> / <a href="http://instagram.com/thismustbeforyou/">instagram</a> / <a href="https://www.facebook.com/events/1816407685166626/?ref_newsfeed_story_type=regular">altruistic art show</a> / <a href="http://thismustbeforyou.bigcartel.com/product/tmbfy-tshirt">shop</a>
+  <a href="https://vimeo.com/72007397">video</a>  / <a href="https://www.facebook.com/ThisMustBeForYou">facebook</a>  / <a href="http://thismustbeforyou.wordpress.com/">website</a>  / <a href="https://twitter.com/MustBeForYou">twitter</a> / <a href="http://instagram.com/thismustbeforyou/">instagram</a> / <a href="https://www.facebook.com/events/1816407685166626/?ref_newsfeed_story_type=regular">altruistic art show</a> / <a href="http://thismustbeforyou.bigcartel.com/tours/tmbfy-tshirt">shop</a>
 </p>

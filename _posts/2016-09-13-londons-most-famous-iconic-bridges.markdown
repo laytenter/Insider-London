@@ -27,4 +27,4 @@ The Thames’ newest iconic bridge is the Millenium Bridge, opened in June 2000 
 
 Those are some of the most iconic bridges London has to offer, but what about the icons of tomorrow? There are already a few striking modern bridges secreted away on the capital’s canals, such as the Rolling Bridge of Paddington Basin and the Merchant Square Footbridge, which opens out five splayed blades like a Japanese fan. Not forgetting the Garden Bridge, an idea of actress Joanna Lumley’s from 1998 that has proved controversial. New mayor Sadiq Khan has been investigating the proposal and given it the OK, so we might soon have a new botanical bridge to add to London’s iconic skyline.
 
-If you’d like to learn more about London’s striking modern architecture, check out our [Modern Architecture Tour](/product/modern-architecture-tour/).
+If you’d like to learn more about London’s striking modern architecture, check out our [Modern Architecture Tour](/tours/modern-architecture-tour/).

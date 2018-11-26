@@ -23,7 +23,7 @@ Here at Insider London our eyes are always open to the hottest new retail trends
 
  
 
-L'Occitane's beautiful [flagshig store](https://uk.loccitane.com/regent-street-flagship-store,83,1,89566,1089304.htm) on Regents Street is a multi-sensory haven of tranquility. Be transported to gorgeous Provence as the scent of lavender wafts through the two-level interior. Don't miss the upstairs “selfie-studio” and hand massage centre (massages are free via [online booking](https://bookings.qudini.com/booking-widget/storebooker/HJ831G9NRT5/2862/product/41152)).  
+L'Occitane's beautiful [flagshig store](https://uk.loccitane.com/regent-street-flagship-store,83,1,89566,1089304.htm) on Regents Street is a multi-sensory haven of tranquility. Be transported to gorgeous Provence as the scent of lavender wafts through the two-level interior. Don't miss the upstairs “selfie-studio” and hand massage centre (massages are free via [online booking](https://bookings.qudini.com/booking-widget/storebooker/HJ831G9NRT5/2862/tours/41152)).  
 
  
 

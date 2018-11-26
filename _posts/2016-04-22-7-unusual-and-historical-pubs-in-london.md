@@ -24,7 +24,7 @@ Situated in the heart of Soho, The Dog and Duck has welcomed a number of histori
 
 **Ye Olde Watling**
 
-Just a stone’s throw away from St. Paul’s Cathedral is Ye Olde Watling, said to be built from old ships’ timbers by Sir Christopher Wren. The highly acclaimed English architect used one of the pub’s upstairs rooms as a drawing office during the building of St Paul’s (find out more on our [History of Drinking and Pubs Tour](/product/history-of-drinking-and-pubs/)).
+Just a stone’s throw away from St. Paul’s Cathedral is Ye Olde Watling, said to be built from old ships’ timbers by Sir Christopher Wren. The highly acclaimed English architect used one of the pub’s upstairs rooms as a drawing office during the building of St Paul’s (find out more on our [History of Drinking and Pubs Tour](/tours/history-of-drinking-and-pubs/)).
 
 **Ye Olde Cheshire Cheese**
 
@@ -42,4 +42,4 @@ The 18th century Cat & Mutton is in a very hip part of town, on the corner of Ha
 
 Go south of the river and you’ll discover the Anchor, situated on one of the most famous reaches of the Thames. There are many different stories about the history of this pub. Official records state that the Anchor existed from 1822, although it may have existed long before this and even Shakespeare is thought to have enjoyed a pint of ale or two here after opening nights at the Globe. On the other hand, alternative records claim the site where the pub now lies was used for plague pits during 1603. Another rumour states that it was this pub that famous diarist Samuel Pepys is said to have been in while witnessing the colossal destruction caused by the Great Fire of London.
 
-Thirsty for more? Book yourself onto Insider London’s [History of Drinking and Pubs Tour](/product/history-of-drinking-and-pubs/) and delve deeper into the history of some of London’s most unusual pubs. Remember to grab yourself a drink in each pub along the way.
+Thirsty for more? Book yourself onto Insider London’s [History of Drinking and Pubs Tour](/tours/history-of-drinking-and-pubs/) and delve deeper into the history of some of London’s most unusual pubs. Remember to grab yourself a drink in each pub along the way.
