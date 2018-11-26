@@ -39,7 +39,7 @@ There are certain venues in London that I associate distinctly with the bands th
   </p>
   
   <p style="text-align: center;">
-    <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/08/scala.jpg"><img class="aligncenter  wp-image-1466" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/scala.jpg" alt="Scala" width="569" height="440" /></a>
+    <a href="/wp-content/uploads/2012/08/scala.jpg"><img class="aligncenter  wp-image-1466" src="/wp-content/uploads/2012/08/scala.jpg" alt="Scala" width="569" height="440" /></a>
   </p>
   
   <p>
@@ -59,7 +59,7 @@ There are certain venues in London that I associate distinctly with the bands th
   </p>
   
   <p style="text-align: center;">
-    <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/08/somerset-house-film.jpg"><img class="aligncenter  wp-image-1467" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/somerset-house-film.jpg" alt="Scala" width="569" height="350" /></a>
+    <a href="/wp-content/uploads/2012/08/somerset-house-film.jpg"><img class="aligncenter  wp-image-1467" src="/wp-content/uploads/2012/08/somerset-house-film.jpg" alt="Scala" width="569" height="350" /></a>
   </p>
   
   <p style="text-align: left;">

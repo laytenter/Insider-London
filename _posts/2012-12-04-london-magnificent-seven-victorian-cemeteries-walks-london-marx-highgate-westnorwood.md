@@ -32,7 +32,7 @@ The cemetery’s most visited grave is that of infamous revolutionary Karl Marx.
   
 Among the other big names whose tombstones have experienced less abuse, are electromagnetic scientist Michael Faraday (cue sage “mhmm”),  pop artist Patrick Caulfield (winner of coolest tombstone- see below), Sex Pistols manager Malcolm McClaren (winner of 2nd coolest tombstone- see below), and Douglas Adams- author of The Hitchiker’s Guide to the Galaxy (if you’re thinking _Oh yeah, I saw that film,_ then don’t speak to me).<figure id="attachment_3270" style="width: 569px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-3270  " src="http://www.insider-london.co.uk/wp-content/uploads/2012/11/merged_small2.jpg" alt="London's Magnificent Seven, Malcolm McClaren, Patrick Caulfield" width="569" height="240" />](http://www.insider-london.co.uk/wp-content/uploads/2012/11/merged_small2.jpg)<figcaption class="wp-caption-text">Images: thewbang, popt'artlondon</figcaption></figure> 
+[<img class="size-full wp-image-3270  " src="/wp-content/uploads/2012/11/merged_small2.jpg" alt="London's Magnificent Seven, Malcolm McClaren, Patrick Caulfield" width="569" height="240" />](/wp-content/uploads/2012/11/merged_small2.jpg)<figcaption class="wp-caption-text">Images: thewbang, popt'artlondon</figcaption></figure> 
 
 Beyond its celebrity status, the cemetery is also a flourishing nature reserve, maintained by the dedicated Friends of Highgate Cemetery Trust. Kept in a state of what they call “managed neglect” (a term I shall now adopt for the state of my bedroom) the cemetery is home to a plethora of beasties. Rather charmingly, Highgate also does a spot of beekeeping, with four bee-hives currently nestling in the grounds. With the plight of the humble honeybee a serious concern in recent times, Highgate gets a double thumbs up from us for helping to keep them happily buzzing about.
 
@@ -62,7 +62,7 @@ Current opening times: Mon-Fri 8-4pm, Weekend 10-6pm.
   
 FREE<figure id="attachment_3159" style="width: 569px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-3159 " src="http://www.insider-london.co.uk/wp-content/uploads/2012/11/cemeterieslondon.jpg" alt="" width="569" height="379" />](http://www.insider-london.co.uk/wp-content/uploads/2012/11/cemeterieslondon.jpg)<figcaption class="wp-caption-text">Photography: Will De Villiers</figcaption></figure> 
+[<img class="size-full wp-image-3159 " src="/wp-content/uploads/2012/11/cemeterieslondon.jpg" alt="" width="569" height="379" />](/wp-content/uploads/2012/11/cemeterieslondon.jpg)<figcaption class="wp-caption-text">Photography: Will De Villiers</figcaption></figure> 
 
 &nbsp;
 

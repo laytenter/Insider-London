@@ -31,7 +31,7 @@ s4_cdes:
 ---
 
 <p style="text-align: left">
-  <img class="aligncenter size-full wp-image-24966" src="http://www.insider-london.co.uk/wp-content/uploads/2015/03/5379457132_93c7803345_z.jpg" alt="london modern architecture " width="569" height="381" />
+  <img class="aligncenter size-full wp-image-24966" src="/wp-content/uploads/2015/03/5379457132_93c7803345_z.jpg" alt="london modern architecture " width="569" height="381" />
 </p>
 
 <p style="text-align: center">
@@ -51,7 +51,7 @@ In BBC Four&#8217;s series _Dreaming the Impossible: Unbuilt Britain,_ Sir Nor
 </p>
 
 <p style="text-align: center">
-  <img class="aligncenter size-full wp-image-24928" src="http://www.insider-london.co.uk/wp-content/uploads/2015/03/diana_bridge.jpg" alt="diana_bridge" width="569" height="401" /><em>A fitting tribute or a contrived catastropy? Image Credit: <a href="http://www.fashionarchitecturetaste.com/2005/11/diana_bridge.html">Fat Architecture</a></em>
+  <img class="aligncenter size-full wp-image-24928" src="/wp-content/uploads/2015/03/diana_bridge.jpg" alt="diana_bridge" width="569" height="401" /><em>A fitting tribute or a contrived catastropy? Image Credit: <a href="http://www.fashionarchitecturetaste.com/2005/11/diana_bridge.html">Fat Architecture</a></em>
 </p>
 
 The Diana Memorial Bridge was proposed by Joanna Lumley the same year Lady Di died, as part of a competition for a bridge to link Bankside to St Paul’s Cathedral, of course won by the good old wobbly Millennium Bridge. As a precursor to The Garden Bridge, also endorsed by Lumley and looking likely to be built, it was designed as a living bridge, for people to frolic, enjoy views and picnic on (sound familiar?). But truth be told, it would have been slightly more than a bit twee- complete with the lyrics of Elton John’s Candle In the Wind, rerecorded as a tribute for Diana’s funeral, engraved on the side of the bridge for added cringefactor. We’re also not quite sure how the grass would have fared against the constant trampling of “picnickers.” Great for getting grass stains if you know what I’m saying!
@@ -61,11 +61,11 @@ The Diana Memorial Bridge was proposed by Joanna Lumley the same year Lady Di di
 </p>
 
 <p style="text-align: center">
-  <img class="aligncenter size-full wp-image-24935" src="http://www.insider-london.co.uk/wp-content/uploads/2015/03/352px-Watkins_Tower_Entwurf.jpg" alt="352px-Watkins_Tower_Entwurf" width="569" height="968" /><em>Watkins design, like many in the competition appear to predate space travel by 70 years. Houston we have a problem! Image Credit: <a href="http://commons.wikimedia.org/wiki/File:Watkins_Tower_Entwurf.jpg">Alabasterstein</a></em>
+  <img class="aligncenter size-full wp-image-24935" src="/wp-content/uploads/2015/03/352px-Watkins_Tower_Entwurf.jpg" alt="352px-Watkins_Tower_Entwurf" width="569" height="968" /><em>Watkins design, like many in the competition appear to predate space travel by 70 years. Houston we have a problem! Image Credit: <a href="http://commons.wikimedia.org/wiki/File:Watkins_Tower_Entwurf.jpg">Alabasterstein</a></em>
 </p>
 
 <p style="text-align: center">
-  <img class="aligncenter size-full wp-image-24931" src="http://www.insider-london.co.uk/wp-content/uploads/2015/03/watkins-tower.jpg" alt="watkin's tower" width="569" height="358" /><em>Image Credit: <a href="http://publicdomainreview.org/collections/catalogue-of-the-68-competitive-designs-for-the-great-tower-for-london-1890/">Public Domain Review</a></em>
+  <img class="aligncenter size-full wp-image-24931" src="/wp-content/uploads/2015/03/watkins-tower.jpg" alt="watkin's tower" width="569" height="358" /><em>Image Credit: <a href="http://publicdomainreview.org/collections/catalogue-of-the-68-competitive-designs-for-the-great-tower-for-london-1890/">Public Domain Review</a></em>
 </p>
 
 <p style="text-align: left">
@@ -79,7 +79,7 @@ It would have pipped Monsieur Eiffel’s tower in height at 358 metres vs Eiffel
 </p>
 
 <p style="text-align: center">
-  <img class="aligncenter size-full wp-image-24933" src="http://www.insider-london.co.uk/wp-content/uploads/2015/03/Crystal_Palace_Great_Exhibition_tree_1851.png" alt="Crystal_Palace_Great_Exhibition_tree_1851" width="640" height="623" /><em>Paxton designed The Crystal Palace, pictured above, which inspired The Great Victorian Way. Image Credit: <a href="http://commons.wikimedia.org/wiki/Crystal_Palace#/media/File:Crystal_Palace_Great_Exhibition_tree_1851.png">Tldtld</a></em>
+  <img class="aligncenter size-full wp-image-24933" src="/wp-content/uploads/2015/03/Crystal_Palace_Great_Exhibition_tree_1851.png" alt="Crystal_Palace_Great_Exhibition_tree_1851" width="640" height="623" /><em>Paxton designed The Crystal Palace, pictured above, which inspired The Great Victorian Way. Image Credit: <a href="http://commons.wikimedia.org/wiki/Crystal_Palace#/media/File:Crystal_Palace_Great_Exhibition_tree_1851.png">Tldtld</a></em>
 </p>
 
 Joseph Paxton, who built the Crystal Palace of the Great Exhibition, proposed a grand project around 1855 as a solution to chronic congestion in central London. It would have encased shops, railways and roads in a huge covered glass “girdle” around central London. Dubbed the crystal way, it would have followed a route similar to that of the Circle Line
@@ -93,7 +93,7 @@ It was not lacking in ambition, designed to keep the rain, fog and smoke off Lon
 </p>
 
 <p style="text-align: center">
-   <img class="aligncenter size-full wp-image-24929" src="http://www.insider-london.co.uk/wp-content/uploads/2015/03/194_0008_1_W.gif" alt="194_0008_1_W" width="569" height="181" />Roger&#8217;s plans were a bold, new vision for the Southbank. Image Credit: <a href="http://www.richardrogers.co.uk/render.aspx?siteID=1&navIDs=1,4,23,803&showImages=detail&imageID=236">Richard Rogers</a>
+   <img class="aligncenter size-full wp-image-24929" src="/wp-content/uploads/2015/03/194_0008_1_W.gif" alt="194_0008_1_W" width="569" height="181" />Roger&#8217;s plans were a bold, new vision for the Southbank. Image Credit: <a href="http://www.richardrogers.co.uk/render.aspx?siteID=1&navIDs=1,4,23,803&showImages=detail&imageID=236">Richard Rogers</a>
 </p>
 
 Richard Rogers is never one to shy away from bold proposals, and his plans for Waterloo, Charing Cross and Embankment would&#8217;ve been nothing short of revolutionary. He planned to close and replace Charing Cross Station, moving the terminus south to the southbank, closing the utilitarian and much hatedHungerford bridge. Three futuristic towers in the same vein of the Lloyds tower would rise from the Thames, linked to the Northbank via a footbridge. The Thames Embankment would’ve be tunnelled underground and a tree lined promenade built in its place. Perhaps the changes were too profound and scared the bejeezus out of city planners, but essentially the plans were dropped as commercial developers looked east to the burgeoning Canary Wharf.
@@ -103,7 +103,7 @@ Richard Rogers is never one to shy away from bold proposals, and his plans for 
 </p>
 
 <p style="text-align: center">
-  <img class="aligncenter size-full wp-image-24926" src="http://www.insider-london.co.uk/wp-content/uploads/2015/03/unbuilt_towerbridgeglass.jpg" alt="unbuilt_towerbridgeglass" width="569" height="427" /><em>Fragile plans for Tower Bridge. Image Credit: <a href="http://londonist.com/2011/12/unbuilt-london-bridges-to-nowhere-and-mad-masterplans.php?showpage=2#gallery-1">Londonist</a></em>
+  <img class="aligncenter size-full wp-image-24926" src="/wp-content/uploads/2015/03/unbuilt_towerbridgeglass.jpg" alt="unbuilt_towerbridgeglass" width="569" height="427" /><em>Fragile plans for Tower Bridge. Image Credit: <a href="http://londonist.com/2011/12/unbuilt-london-bridges-to-nowhere-and-mad-masterplans.php?showpage=2#gallery-1">Londonist</a></em>
 </p>
 
 Tower Bridge, symbol of London, one of the most recognisable buildings in the world. But for some this isn’t enough. W.F.C Holden wanted to encase the bridge in steel and glass, giving it an art deco streamline modern makeover. Crazy as his plan sounded, they were at the very least commendable, designed to protect the structure during World War II. Not surprisingly, very few people were enamoured towards his idea and the chances of it ever being built were tenuous to say the least.

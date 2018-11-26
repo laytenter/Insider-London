@@ -19,7 +19,7 @@ guid: http://www.insider-london.co.uk/?p=2214
 ---
 
 <p style="text-align: justify;">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/11/london_skyscrapers_city_of_london.jpg"><img class="alignnone size-full wp-image-2378" src="http://www.insider-london.co.uk/wp-content/uploads/2012/11/london_skyscrapers_city_of_london.jpg" alt="" width="569" height="352" /></a>
+  <a href="/wp-content/uploads/2012/11/london_skyscrapers_city_of_london.jpg"><img class="alignnone size-full wp-image-2378" src="/wp-content/uploads/2012/11/london_skyscrapers_city_of_london.jpg" alt="" width="569" height="352" /></a>
 </p>
 
 <p style="text-align: justify;">

@@ -39,7 +39,7 @@ s4_cdes:
 - 
 ---
 
-[<img class="aligncenter wp-image-22841 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/10/IMG_4730.jpg" alt="David Chipperfield modern and sustainable architecture" width="569" height="759" />](http://www.insider-london.co.uk/wp-content/uploads/2014/10/IMG_4730.jpg)
+[<img class="aligncenter wp-image-22841 size-full" src="/wp-content/uploads/2014/10/IMG_4730.jpg" alt="David Chipperfield modern and sustainable architecture" width="569" height="759" />](/wp-content/uploads/2014/10/IMG_4730.jpg)
 
 As the Kings Cross Regeneration project continues apace, a new breed of office developments are emerging from the formerly industrial area. Behind the scenes are some of the best architectural practices in the country at present, many that have cut their teeth on prominent regeneration projects. Some are so prolific that they are dubbed starchitects, architects that throw up statement buildings worldwide. While King&#8217;s Cross may not be getting a Norman Foster or Richard Rogers landmark anytime soon, the names involved are undoubtedly big and masterplanners are keen to work with.
 
@@ -51,7 +51,7 @@ The new generation of offices feature sustainable architecture, with the latest 
   <strong>Two Pancras Square</strong>
 </p>
 
-[<img class="aligncenter wp-image-22834" src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/twopancrassquare.jpg" alt="twopancrassquare" width="569" height="701" />](http://twopancrassquare.com/pancras-square/)
+[<img class="aligncenter wp-image-22834" src="/wp-content/uploads/2014/09/twopancrassquare.jpg" alt="twopancrassquare" width="569" height="701" />](http://twopancrassquare.com/pancras-square/)
 
 <p style="text-align: center;">
   <em>A breath of fresh air in formerly sooty environs. Image Credit: <a href="http://twopancrassquare.com/" target="_blank">Two Pancras Square</a></em>
@@ -63,7 +63,7 @@ Two Pancras Square is 130,000 sq ft net over 9 floors. The building is by Allies
   <strong>Six Pancras Square</strong>
 </p>
 
-[<img class="aligncenter size-full wp-image-22835" src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/newlondondevelopment.jpg" alt="newlondondevelopment" width="569" height="612" />](http://newlondondevelopment.com/nld/project/eq8mx9k)
+[<img class="aligncenter size-full wp-image-22835" src="/wp-content/uploads/2014/09/newlondondevelopment.jpg" alt="newlondondevelopment" width="569" height="612" />](http://newlondondevelopment.com/nld/project/eq8mx9k)
 
 <p style="text-align: center;">
   <em>A French HQ at the wrong end of the Eurostar Line non? Image Credit: <a href="http://newlondondevelopment.com/nld/project/eq8mx9k" target="_blank">New London Development</a></em>
@@ -75,7 +75,7 @@ Six Pancras Square by French architect Jean-Michel Wilmotte takes advantage of e
   <b>One Pancras Square</b>
 </p>
 
-<img class="aligncenter size-full wp-image-22841" src="http://www.insider-london.co.uk/wp-content/uploads/2014/10/IMG_4730.jpg" alt="IMG_4730" width="569" height="759" />
+<img class="aligncenter size-full wp-image-22841" src="/wp-content/uploads/2014/10/IMG_4730.jpg" alt="IMG_4730" width="569" height="759" />
 
 <p style="text-align: center;">
   <em>Cast iron columns exude the industrial history of the area. Image Credit: Evan Parker</em>
@@ -85,7 +85,7 @@ One Pancras Square by David Chipperfield is one of more impressive offices in th
 
 The building’s structural form is made up of cast iron columns with concrete floors. It is a typical understated Chipperfield building with a classical style appropriated in a modern context, boldly reflecting the industrial history of the area found in the Victorian gas holders. It stands at a prime spot at the gateway to the rest of the Kings Cross regeneration project and also to Europe, sitting above six London Underground lines and next to the Eurostar terminal, making it the best connected office in London and the UK. The development is linked to Kings Cross Underground Station by a playfully lit walkway, animating an otherwise laborious walk to work.
 
-[<img class="aligncenter wp-image-15798 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/07/BeFunky_the-tunnel.jpg_mini.jpg" alt="Kings Cross Tunnel" width="569" height="328" />](http://www.insider-london.co.uk/wp-content/uploads/2014/07/BeFunky_the-tunnel.jpg_mini.jpg)
+[<img class="aligncenter wp-image-15798 size-full" src="/wp-content/uploads/2014/07/BeFunky_the-tunnel.jpg_mini.jpg" alt="Kings Cross Tunnel" width="569" height="328" />](/wp-content/uploads/2014/07/BeFunky_the-tunnel.jpg_mini.jpg)
 
 <p style="text-align: center;">
   <em>The walk to work will never be the same again! Image Credit: <a href="http://www.kingscross.co.uk/" target="_blank">King&#8217;s Cross</a></em>
@@ -97,7 +97,7 @@ At street level shops and cafes will energise the frontage of One Pancras Square
   <strong>Public Space</strong>
 </p>
 
-[<img class="aligncenter size-full wp-image-22836" src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/image_1188_800_800.jpg" alt="image_1188_800_800" width="569" height="569" />](www.kingscross.co.uk)
+[<img class="aligncenter size-full wp-image-22836" src="/wp-content/uploads/2014/09/image_1188_800_800.jpg" alt="image_1188_800_800" width="569" height="569" />](www.kingscross.co.uk)
 
 <p style="text-align: center;">
   <em>Perfect place for lunch or a crafty lunchtime drink! Image Credit: <a href="http://www.kingscross.co.uk/" target="_blank">Kings Cross</a></em>
@@ -109,7 +109,7 @@ Linking all the developments is 26 acres of public space and 10 new, making up 4
   <strong>Five Pancras Square</strong>
 </p>
 
-[<img class="aligncenter size-full wp-image-22838" src="http://www.insider-london.co.uk/wp-content/uploads/2014/10/breeamdotorg.jpg" alt="New Camden council HQ Kings Cross Regeneration" width="569" height="563" />](http://www.breeam.org/page.jsp?id=584)
+[<img class="aligncenter size-full wp-image-22838" src="/wp-content/uploads/2014/10/breeamdotorg.jpg" alt="New Camden council HQ Kings Cross Regeneration" width="569" height="563" />](http://www.breeam.org/page.jsp?id=584)
 
 <p style="text-align: center;">
    <em>Finally an office building for the community. Image Credit: <a href="http://www.breeam.org/page.jsp?id=584" target="_blank">BREEAM</a></em>
@@ -121,7 +121,7 @@ Five Pancras Square by Bennetts Associates houses the London Borough of Camden C
   <strong>Google Campus</strong>
 </p>
 
-[<img class="aligncenter size-full wp-image-22840" src="http://www.insider-london.co.uk/wp-content/uploads/2014/10/thedrum.jpg" alt="Google Campus Modern Architecture" width="569" height="380" />](http://www.theconstructionindex.co.uk/news/view/google-submits-kings-cross-campus-plans)
+[<img class="aligncenter size-full wp-image-22840" src="/wp-content/uploads/2014/10/thedrum.jpg" alt="Google Campus Modern Architecture" width="569" height="380" />](http://www.theconstructionindex.co.uk/news/view/google-submits-kings-cross-campus-plans)
 
 <p style="text-align: center;">
   <em>The new Silicon Valley in Kings Cross? Image Credit: The Construction Index</em>

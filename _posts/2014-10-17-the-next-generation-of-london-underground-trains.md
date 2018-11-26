@@ -29,7 +29,7 @@ s4_url2s:
 - 
 ---
 
-<img class="aligncenter size-full wp-image-23031" src="http://www.insider-london.co.uk/wp-content/uploads/2014/10/NewTubeforLondon_OnPlatform1.jpg" alt="London Underground Train Frontage" width="569" height="380" />
+<img class="aligncenter size-full wp-image-23031" src="/wp-content/uploads/2014/10/NewTubeforLondon_OnPlatform1.jpg" alt="London Underground Train Frontage" width="569" height="380" />
 
 <p style="text-align: center;">
   <em>The Future is here. Image Credit: <a href="http://www.core77.com">Core 77</a></em>
@@ -43,7 +43,7 @@ The plans are known as the New Tube Project, which have been in development with
 
 On first glance the trains look like they’ve been beamed straight from Buck Rogers, with slick, modern lines and LED lights that glow white when the train moves forward and red when in reverse. The lighting continues inside on the doors, changing colour when they are preparing to open or close.
 
-<img class="aligncenter size-full wp-image-23025" src="http://www.insider-london.co.uk/wp-content/uploads/2014/10/NTfL-Interior-01_021014.jpg" alt="London underground interior" width="569" height="325" />
+<img class="aligncenter size-full wp-image-23025" src="/wp-content/uploads/2014/10/NTfL-Interior-01_021014.jpg" alt="London underground interior" width="569" height="325" />
 
 <p style="text-align: center;">
   <em>Soon you&#8217;ll be able to stroll through Tube carriages unimpeded. Image Credit: <a href="http://www.priestmangoode.com">Priestmangoode</a></em>
@@ -59,7 +59,7 @@ Each train will be hooked up to wifi. Now whether being able to snapchat your wi
 
 Traditional paper advertising will be replaced with “dynamic” screens that will be updated with real time travel information and advertising messages. Underground Piccadilly Circus anyone?
 
-<img class="aligncenter size-full wp-image-23032" src="http://www.insider-london.co.uk/wp-content/uploads/2014/10/NewTubeforLondon_SeatGrillDetail1.jpg" alt="London Underground Materials" width="569" height="380" />
+<img class="aligncenter size-full wp-image-23032" src="/wp-content/uploads/2014/10/NewTubeforLondon_SeatGrillDetail1.jpg" alt="London Underground Materials" width="569" height="380" />
 
 <p style="text-align: center;">
   <em>The designs are inspired by London&#8217;s heritage, with generous use of red! Image Credit: <a href="http://www.core77.com">Core 77</a></em>
@@ -71,7 +71,7 @@ The designs take their inspiration from London’s rich heritage and contemporar
 
 Priestmangoode insist the trains are future proofed to last 30 or 40 years, to allow for any future developments and requirements on the network. This future-proofing concept obviously didn’t extend to the seat patterns, which resemble a pattern design found in an old and dusty 1970s carpet catalogue.
 
-<img class="aligncenter size-full wp-image-23033" src="http://www.insider-london.co.uk/wp-content/uploads/2014/10/NewTubeforLondon_Interior1.jpg" alt="London Underground seating" width="569" height="380" />
+<img class="aligncenter size-full wp-image-23033" src="/wp-content/uploads/2014/10/NewTubeforLondon_Interior1.jpg" alt="London Underground seating" width="569" height="380" />
 
 <p style="text-align: center;">
   <em>The seat patterns may hurt your eyes, but at least with the number provided you should get a seat. Image Credit: <a href="http://www.core77.com">Core 77</a></em>
@@ -85,7 +85,7 @@ The firm has designed two versions, one with a driver’s cab and one that is dr
 
 The New Tube project presents Priestmangoode with many challenges, such as working with the limitations of the oldest underground network in the world, such as the small heights and widths of the deep tunnels.
 
-<img class="aligncenter size-full wp-image-23034" src="http://www.insider-london.co.uk/wp-content/uploads/2014/10/NewTubeforLondon_Facex31.jpg" alt="London Underground Trains" width="569" height="380" />
+<img class="aligncenter size-full wp-image-23034" src="/wp-content/uploads/2014/10/NewTubeforLondon_Facex31.jpg" alt="London Underground Trains" width="569" height="380" />
 
 <p style="text-align: center;">
   <em>London&#8217;s population will be 9 million by the time the first trains start running. Image Credit: <a href="http://www.core77.com">Core 77</a></em>

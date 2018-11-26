@@ -19,7 +19,7 @@ guid: http://www.insider-london.co.uk/?p=8099
 </p>
 
 <p dir="ltr">
-  <img class="aligncenter size-full wp-image-11614" src="http://www.insider-london.co.uk/wp-content/uploads/2013/11/tmbfy.png" alt="" width="569" height="570" />
+  <img class="aligncenter size-full wp-image-11614" src="/wp-content/uploads/2013/11/tmbfy.png" alt="" width="569" height="570" />
 </p>
 
 <p dir="ltr">
@@ -35,7 +35,7 @@ guid: http://www.insider-london.co.uk/?p=8099
 </p>
 
 <p dir="ltr">
-  <img class="aligncenter size-full wp-image-11617" src="http://www.insider-london.co.uk/wp-content/uploads/2013/11/tmbfy2.png" alt="" width="569" height="568" />
+  <img class="aligncenter size-full wp-image-11617" src="/wp-content/uploads/2013/11/tmbfy2.png" alt="" width="569" height="568" />
 </p>
 
 <p dir="ltr">
@@ -46,7 +46,7 @@ guid: http://www.insider-london.co.uk/?p=8099
   TMBFY may still be in its infancy, but Natasha has big dreams for it. People around the world have already started contacting her to see if they could start up their own little version in their town. For the moment, however, Natasha only has plans to focus her efforts within London in order to get the project more established before looking elsewhere. “I never thought it would get this far. It makes me so happy.” There’s also the issue of finding new and exciting ways to leave the boxes around London. Natasha hopes to build a tree, in a park, and hang tea boxes on the limbs. Her reasoning? Because she likes ridiculous puns. But it would also allow for more boxes to be distributed in one location.
 </p>
 
-<img class="aligncenter size-full wp-image-11618" src="http://www.insider-london.co.uk/wp-content/uploads/2013/11/tmbfy4.png" alt="" width="569" height="563" />
+<img class="aligncenter size-full wp-image-11618" src="/wp-content/uploads/2013/11/tmbfy4.png" alt="" width="569" height="563" />
 
 The project is entirely not-for-profit, but that doesn’t mean the materials are free. Natasha recently opened a shop on Big Cartel in order to keep the project going. At the moment there is only one item for sale. But Natasha does plan on expanding, especially considering it would be the perfect way to expand the project. “One thing I really want to do is set up starter packs. If you want to get involved, it will just cover the cost of the pack. It will contain boxes, and things to put in the boxes.” But the boxes wouldn’t stop there. Natasha is also considering putting together special boxes for birthdays, anniversaries, and the like. Again, all proceeds would go directly back into the project.
 
@@ -54,7 +54,7 @@ The project is entirely not-for-profit, but that doesn’t mean the materials ar
   Her dream for TMBFY is not world domination or corporation. Instead, it’s the simple dream of finding a box that she didn’t leave out. “That would make me the happiest person in the whole world.” she says, “I just want more people to do it. I want to make more people’s days. Keep it going forever. I want to make people happy. That would be wicked.”
 </p>
 
- <img class="aligncenter size-full wp-image-11619" src="http://www.insider-london.co.uk/wp-content/uploads/2013/11/tmbfy3.png" alt="" width="569" height="570" />
+ <img class="aligncenter size-full wp-image-11619" src="/wp-content/uploads/2013/11/tmbfy3.png" alt="" width="569" height="570" />
 
 <p style="text-align: center;">
   If you would like to learn more about This Must Be For You, click on any of the links below.

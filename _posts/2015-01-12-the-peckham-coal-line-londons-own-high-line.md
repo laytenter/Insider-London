@@ -31,7 +31,7 @@ s4_cdes:
 - 
 ---
 
-<img class="aligncenter wp-image-24464 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/Peckham-coal-line-artists-impression.jpg" alt="alternative green london walking" width="569" height="367" />
+<img class="aligncenter wp-image-24464 size-full" src="/wp-content/uploads/2015/01/Peckham-coal-line-artists-impression.jpg" alt="alternative green london walking" width="569" height="367" />
 
 <p style="text-align: center;">
   <em>Image credit: <a href="http://peckhamcoalline.strikingly.com/">Peckham Coal Line</a></em>
@@ -46,7 +46,7 @@ s4_cdes:
 </p>
 
 <p style="text-align: left;">
-  <img class="aligncenter wp-image-24465 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/peckham-high-line-drawing.png" alt="Peckham coal line green" width="569" height="459" />
+  <img class="aligncenter wp-image-24465 size-full" src="/wp-content/uploads/2015/01/peckham-high-line-drawing.png" alt="Peckham coal line green" width="569" height="459" />
 </p>
 
 <p style="text-align: center;">

@@ -17,7 +17,7 @@ layout: post
 guid: http://www.insider-london.co.uk/?p=2428
 ---
 
-<figure id="attachment_2447" style="width: 569px" class="wp-caption alignnone">[<img class="size-full wp-image-2447" src="http://www.insider-london.co.uk/wp-content/uploads/2012/11/sipsmith_london_gin_prudence_still.jpg" alt="" width="569" height="426" />](http://www.insider-london.co.uk/wp-content/uploads/2012/11/sipsmith_london_gin_prudence_still.jpg)<figcaption class="wp-caption-text">The custom made copper still 'Prudence' is the beating heart of Sipsmith</figcaption></figure> 
+<figure id="attachment_2447" style="width: 569px" class="wp-caption alignnone">[<img class="size-full wp-image-2447" src="/wp-content/uploads/2012/11/sipsmith_london_gin_prudence_still.jpg" alt="" width="569" height="426" />](/wp-content/uploads/2012/11/sipsmith_london_gin_prudence_still.jpg)<figcaption class="wp-caption-text">The custom made copper still 'Prudence' is the beating heart of Sipsmith</figcaption></figure> 
 
 <p style="text-align: justify;">
   <strong>Sipsmith are at the forefront of a burgeoning revival in London gin, becoming the first new gin distillery in the city for almost two centuries. Based out of an unassuming garage in West London, they produce a truly local, artisanal family of spirits. </strong>

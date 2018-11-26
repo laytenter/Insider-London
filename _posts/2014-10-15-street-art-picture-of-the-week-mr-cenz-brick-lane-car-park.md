@@ -27,7 +27,7 @@ s4_url2s:
 ---
 
 <p style="text-align: center;">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/10/Mr-Cenz-London-street-art_mini.jpg"><img class="aligncenter wp-image-23005 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/10/Mr-Cenz-London-street-art_mini.jpg" alt="mr cenz street art walking tours london" width="569" height="363" /></a><br /> Image credit: <a href="https://www.flickr.com/photos/levien66/15518124352/in/photolist-pBQ3KA-pDRNxa-pmX8HG-pDhrJ9-pmQ8s2-pDjuCV-pmPk2j-pDht4J-pCEXsP-pkCvMV-pC9rwa-pkvexd-pzubW7-pBvxiK-pjRNRT-pBjivd-pziuvs-pizakP-pi6EsK-pyLHxN-pxSEcc-pv4A5f-pfs6hU-peN7Wv-pw7NHp-pumV1o-peUgvJ-pwj3X8-pwhfLu-pe39yA-pdqx2e-psoY1u-pcZzeP-pcXoZV-puaggx-pu214W-pcyAe4-pcytQT-ptLgrP-pcyBXK-pcxxfn-pcxVaq-ptn9C8-pt1jkn-ptg2Zh-pt1pGp-pbNi1W-pcymMe-ptL7TX-pu1Jf1" target="_blank">RHL Images</a>
+  <a href="/wp-content/uploads/2014/10/Mr-Cenz-London-street-art_mini.jpg"><img class="aligncenter wp-image-23005 size-full" src="/wp-content/uploads/2014/10/Mr-Cenz-London-street-art_mini.jpg" alt="mr cenz street art walking tours london" width="569" height="363" /></a><br /> Image credit: <a href="https://www.flickr.com/photos/levien66/15518124352/in/photolist-pBQ3KA-pDRNxa-pmX8HG-pDhrJ9-pmQ8s2-pDjuCV-pmPk2j-pDht4J-pCEXsP-pkCvMV-pC9rwa-pkvexd-pzubW7-pBvxiK-pjRNRT-pBjivd-pziuvs-pizakP-pi6EsK-pyLHxN-pxSEcc-pv4A5f-pfs6hU-peN7Wv-pw7NHp-pumV1o-peUgvJ-pwj3X8-pwhfLu-pe39yA-pdqx2e-psoY1u-pcZzeP-pcXoZV-puaggx-pu214W-pcyAe4-pcytQT-ptLgrP-pcyBXK-pcxxfn-pcxVaq-ptn9C8-pt1jkn-ptg2Zh-pt1pGp-pbNi1W-pcymMe-ptL7TX-pu1Jf1" target="_blank">RHL Images</a>
 </p>
 
 <p style="text-align: left;">

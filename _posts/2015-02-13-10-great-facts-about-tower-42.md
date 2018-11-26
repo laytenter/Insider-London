@@ -38,7 +38,7 @@ s4_cdes:
 - 
 ---
 
-<img class="aligncenter size-full wp-image-24772" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/3075715534_f4c33b3ff4_z.jpg" alt="London architecture " width="569" height="427" />
+<img class="aligncenter size-full wp-image-24772" src="/wp-content/uploads/2015/02/3075715534_f4c33b3ff4_z.jpg" alt="London architecture " width="569" height="427" />
 
 <p style="text-align: center">
   <em>Tower 42 in all its glory. Image Credit: <a href="https://www.flickr.com/photos/herry/3075715534/in/photolist-5FMR5b-5fuqLY-5fq4Uc-4LCpoM-4LCpcH-2F5Da-mGZkg-629sMX-aRq2F-ojcbLW-8fsv8b-gZsPgd-47BT5n-8ABfPj-dGrrJm-4LCfbp-GWFfT-3i33dR-3i2ZF2-BFc5k-3i7rsf-Lbkzj-oCXt5q-8uHeHg-aJRV5T-65J8aK-6XYg47-6XUfwv-ab4te-7eDGo-644nsv-4QNbmJ-5vyhC7-3oSu4p-5vP5LC-7eDFz-34QBzq-efUW1C-eCrqS2-bo3L84-3ihwYo-69N6RX-8V3QGp-69N6S2-5d3ua5-3g1DMw-5GDhbE-8PB2E6-8DeNZ-9AGE9w">Herry Lawford</a></em>
@@ -51,7 +51,7 @@ Following on from the news that Tower 42 will not be joining an inventory of pos
 </p>
 
 <p style="text-align: center">
-  <img class="aligncenter size-full wp-image-24760" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/10305291924_17b839042b_z.jpg" alt="London architecture" width="569" height="319" />
+  <img class="aligncenter size-full wp-image-24760" src="/wp-content/uploads/2015/02/10305291924_17b839042b_z.jpg" alt="London architecture" width="569" height="319" />
 </p>
 
 <p style="text-align: center">
@@ -65,7 +65,7 @@ Although London gained Centrepoint, Millbank Tower, BT Tower and many other str
 </p>
 
 <p style="text-align: center">
-  <img class="aligncenter size-full wp-image-24766" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/6363315399_54ed928455_z.jpg" alt="London architecture" width="569" height="320" />
+  <img class="aligncenter size-full wp-image-24766" src="/wp-content/uploads/2015/02/6363315399_54ed928455_z.jpg" alt="London architecture" width="569" height="320" />
 </p>
 
 <p style="text-align: center">
@@ -79,7 +79,7 @@ If you’re of a certain age (don&#8217;t worry, we won&#8217;t ask), you’ll k
 </p>
 
 <p style="text-align: center">
-  <img class="aligncenter size-full wp-image-24767" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/10657747194_752d4bfc61_z.jpg" alt="london architecture" width="569" height="380" />
+  <img class="aligncenter size-full wp-image-24767" src="/wp-content/uploads/2015/02/10657747194_752d4bfc61_z.jpg" alt="london architecture" width="569" height="380" />
 </p>
 
 <p style="text-align: center">
@@ -93,7 +93,7 @@ Plans for a tower on the site were floating around from the early 1960s. Final p
 </p>
 
 <p style="text-align: center">
-  <img class="aligncenter size-full wp-image-24720" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/Stuart.jpg" alt="London architecture" width="569" height="427" />
+  <img class="aligncenter size-full wp-image-24720" src="/wp-content/uploads/2015/02/Stuart.jpg" alt="London architecture" width="569" height="427" />
 </p>
 
 <p style="text-align: center">
@@ -107,7 +107,7 @@ We could’ve had something very different. Early designs depicted a tower of 13
 </p>
 
 <p style="text-align: center">
-  <img class="aligncenter size-full wp-image-24761" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/2761709966_95b0bf6669_z.jpg" alt="London architecture" width="569" height="351" />
+  <img class="aligncenter size-full wp-image-24761" src="/wp-content/uploads/2015/02/2761709966_95b0bf6669_z.jpg" alt="London architecture" width="569" height="351" />
 </p>
 
 <p style="text-align: center">
@@ -120,7 +120,7 @@ One of the buildings most interesting facts is also a major drawback. The floors
   6. It Was Devastated by an IRA Bomb
 </p>
 
-<img class="aligncenter size-full wp-image-24764" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/8272001961_7862cc1d5e_z.jpg" alt="London Architecture " width="569" height="853" />
+<img class="aligncenter size-full wp-image-24764" src="/wp-content/uploads/2015/02/8272001961_7862cc1d5e_z.jpg" alt="London Architecture " width="569" height="853" />
 
 <p style="text-align: center">
   <em>Devastation in The City. Image Credit: <a href="https://www.flickr.com/photos/25347284@N04/8272001961/in/photolist-dB4DJG-dB4D9J-dAZhr4-dB5JNw-dB4sjL-dB5JT3-dB5JyN-dAYc9Z-dAYaZt-dB4s4A-dAZh4V-dB5JKQ-dAZhnx-dB4DA7-dB5K5s-dAYbJM-dB4DsE-dAYbbV-dAXZUH-dB4DwC-dB4Dg1-dB4CMd-dAZhEP-dAZhJ8-dAXZki-dB4rZs-dAZhAR-dB4rEQ-dAYbx8-dB4CZu-dB4Djd-dAYc1B-dAYbfX-dAYbn4-dB4CJj-dB4D7d-dB4sdq-dB4s9s-dAZh8P-dAZhxz-dB4sfN-dB4rVs-dAXZcX-dB4rNb-6cTCY9-4QLJKd-dB5Ko3-jVZbYG-dW9JZH-jVZe8w">Tim@SW2008</a></em>
@@ -133,7 +133,7 @@ In April 1993 the IRA detonated a bomb on Bishopsgate, which killed one person a
 </p>
 
 <p style="text-align: center">
-  <img class="aligncenter size-full wp-image-24724" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/michaelgarnett.jpg" alt="London architecture" width="569" height="853" />
+  <img class="aligncenter size-full wp-image-24724" src="/wp-content/uploads/2015/02/michaelgarnett.jpg" alt="London architecture" width="569" height="853" />
 </p>
 
 <p style="text-align: center">
@@ -147,7 +147,7 @@ In June 2012, an LED multi media lighting system was installed around levels 39-
 </p>
 
 <p style="text-align: center">
-  <img class="aligncenter size-full wp-image-24768" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/6191656394_d2c3facefc_z.jpg" alt="London architecture" width="569" height="759" />
+  <img class="aligncenter size-full wp-image-24768" src="/wp-content/uploads/2015/02/6191656394_d2c3facefc_z.jpg" alt="London architecture" width="569" height="759" />
 </p>
 
 <p style="text-align: center">
@@ -161,7 +161,7 @@ The building brought many innovative design features previously unseen in the U
 </p>
 
 <p style="text-align: center">
-  <img class="aligncenter size-full wp-image-24770" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/3457844818_1666fd817c_z.jpg" alt="london architecture" width="569" height="759" />
+  <img class="aligncenter size-full wp-image-24770" src="/wp-content/uploads/2015/02/3457844818_1666fd817c_z.jpg" alt="london architecture" width="569" height="759" />
 </p>
 
 <p style="text-align: center">
@@ -175,7 +175,7 @@ The building brought many innovative design features previously unseen in the U
 </p>
 
 <p style="text-align: center">
-  <img class="alignnone size-full wp-image-24755" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/London-skyline.jpg" alt="London skyline" width="569" height="378" />
+  <img class="alignnone size-full wp-image-24755" src="/wp-content/uploads/2015/02/London-skyline.jpg" alt="London skyline" width="569" height="378" />
 </p>
 
 <p style="text-align: center">

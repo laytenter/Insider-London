@@ -28,7 +28,7 @@ s4_cdes:
 - 
 ---
 
-<img class="aligncenter wp-image-24866 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/03/Stik-Otto-Schade_mini.jpg" alt="London street art and graffiti walking tours stik osch" width="569" height="423" />
+<img class="aligncenter wp-image-24866 size-full" src="/wp-content/uploads/2015/03/Stik-Otto-Schade_mini.jpg" alt="London street art and graffiti walking tours stik osch" width="569" height="423" />
 
 <p style="text-align: center;">
   <em>Image credit: <a href="https://www.flickr.com/photos/maureen_barlin/16680850115/in/photolist-rq2HA4-qtfjZe-rnJKcs-rpxUnB-r86do5-rpDJ3v-r8cGfz-r85kNq-r85knA-r6g1ZH-r876xD-rndhDC-qsvE17-rpvbFt-qsvzbs-r7KDmE-qshZZm-r7Quke-r7Qu1M-rphyvB-qshYH3-rmu2NE-r5srjP-r7jRXx-qrMru9-qrXdBe-rpo5HM-r6bF5R-r7jHdP-r5q12P-r6Qntd-r6XEMP-qrqf57-qrCsbM-rohBg8-r6RcAN-rofdVS-r51YFZ-r6QbAn-r6QbhX-rkZhP9-rkZhqU-rohe6v-robZBo-r6w5b4-rkFcSm-r6pFTb-qrbZ7B-rnY8cT-rnmQZu" target="_blank">Maureen Barlin</a></em>

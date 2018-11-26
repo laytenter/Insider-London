@@ -26,7 +26,7 @@ s4_url2s:
 - 
 ---
 
-[<img class="size-full wp-image-23093 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/10/Monster-Mural_mini.jpg" alt="Phlegm street art london" width="569" height="427" />](http://www.insider-london.co.uk/wp-content/uploads/2014/10/Monster-Mural_mini.jpg)
+[<img class="size-full wp-image-23093 aligncenter" src="/wp-content/uploads/2014/10/Monster-Mural_mini.jpg" alt="Phlegm street art london" width="569" height="427" />](/wp-content/uploads/2014/10/Monster-Mural_mini.jpg)
 
 <p style="text-align: center;">
   <em>Image credit: <a href="https://www.flickr.com/photos/126522904@N02/15587046772/in/photolist-pQFdfn-psUs49-pQYRgU-pQUACB-pyvxis-pypNM4-pyvmaW-oU6YKP-pyvpnY-pypDPp-pQEvjV-pypB5g-pQYgA7-oTT38C-pyhsV3-oTW1w4-pyeY1V-pyeXUx-pQuJF4-pyeYcB-pyknth-pQuJBX-pyhujq-pyhumQ-pykoF7-oTxWZE-pQ67Dk-pQdV8Q-px1h2B-pP6doH-pNmYdn-pNF3ZV-pvBEzK-oR28JE-pMde8N-puBac4-pucULA-pu9X63-pLw32c-ptn7ws-pKqsEt-pKnFXJ-pybwCs-oSBTCX-oRK4FW-pM9wka-pu7k3U-pJsRs5-pLCtc7-oPKH28" target="_blank">Daniel Dalton</a></em>

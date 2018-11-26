@@ -29,7 +29,7 @@ s4_cdes:
 - 
 ---
 
-<img class="aligncenter wp-image-24697 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/7_mini.jpg" alt="7_mini" width="569" height="427" />
+<img class="aligncenter wp-image-24697 size-full" src="/wp-content/uploads/2015/02/7_mini.jpg" alt="7_mini" width="569" height="427" />
 
 This week&#8217;s street art picture is the work of Fan of the UK&#8217;s Horror Crew. We love these balloon animals &#8211; if only our animal sculpting skills were so good!
 

@@ -24,7 +24,7 @@ Our final installment of interesting and quirky facts features how the Undergrou
 
 &nbsp;<figure id="attachment_12080" style="width: 569px" class="wp-caption aligncenter">
 
-<img class="size-full wp-image-12080   " title="london-tube-tours-quirky" alt="london-underground-tours-tube" src="http://www.insider-london.co.uk/wp-content/uploads/2013/09/mindthegap.png" width="569" height="199" /><figcaption class="wp-caption-text">Photo Credit: moonShadows7 on Flickr</figcaption></figure> 
+<img class="size-full wp-image-12080   " title="london-tube-tours-quirky" alt="london-underground-tours-tube" src="/wp-content/uploads/2013/09/mindthegap.png" width="569" height="199" /><figcaption class="wp-caption-text">Photo Credit: moonShadows7 on Flickr</figcaption></figure> 
 
 1. The first Tube trip took place on 9 January 1863.
 

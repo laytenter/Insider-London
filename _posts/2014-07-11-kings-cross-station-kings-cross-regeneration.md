@@ -36,7 +36,7 @@ s4_url2s:
 
 King’s Cross station’s new, bright and spacious concourse reflects the renewal of the wider area, heralding a renaissance in how railway stations interact with their urban context. The Victorians excelled at creating a sense of arrival, leaving a legacy of grand stations that took pride in railway travel. After a period of decline, London’s railway stations are beginning to scrub up to smart 21st century standards.
 
-[<img class="aligncenter wp-image-15164 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/07/image_2916_1200_800.jpg" alt="Kings Cross Regeneration" width="569" height="379" />](http://www.insider-london.co.uk/wp-content/uploads/2014/07/image_2916_1200_800.jpg)
+[<img class="aligncenter wp-image-15164 size-full" src="/wp-content/uploads/2014/07/image_2916_1200_800.jpg" alt="Kings Cross Regeneration" width="569" height="379" />](/wp-content/uploads/2014/07/image_2916_1200_800.jpg)
 
 <p style="text-align: center">
   <em>All Change For Kings Cross! Image credit: <a href="http://www.kingscross.co.uk/press-release-2011-09-27" target="_blank">Kingscross.co.uk</a></em>
@@ -50,7 +50,7 @@ King’s Cross station’s new, bright and spacious concourse reflects the renew
   This is potentially the last great London train station for a generation. The largest transport infrastructure project at present is Crossrail, a £14.8bn rail scheme connecting the capital from west to east. For a project of this size however, the station designs are slightly underwhelming. Such were the concerns that a design review was ordered for all 27 stations in February of this year. Crossrail provides a once in a generation chance to regenerate London on a great scale. Visit any Crossrail construction site and you get a sense of the depth of work underway, gigantic holes in the ground dotted all over London.
 </p>
 
-[<img class="aligncenter wp-image-15155 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/07/13818_tottenham_court_road_station-architects_impression_of_over-site_develoment.jpg" alt="kings cross regeneration London Architecture Tour" width="569" height="274" />](http://www.insider-london.co.uk/wp-content/uploads/2014/07/13818_tottenham_court_road_station-architects_impression_of_over-site_develoment.jpg)
+[<img class="aligncenter wp-image-15155 size-full" src="/wp-content/uploads/2014/07/13818_tottenham_court_road_station-architects_impression_of_over-site_develoment.jpg" alt="kings cross regeneration London Architecture Tour" width="569" height="274" />](/wp-content/uploads/2014/07/13818_tottenham_court_road_station-architects_impression_of_over-site_develoment.jpg)
 
 <p style="text-align: center">
   <em>A missed opportunity? Image credit: <a href="http://www.crossrailart.co.uk/image-library/tottenham-court-road" target="_blank">Crossrail Art Programme</a></em>
@@ -64,7 +64,7 @@ King’s Cross station’s new, bright and spacious concourse reflects the renew
   In recent decades, it is Canary Wharf that has the most striking and successful station design, like a giant shark docked in a basin amongst a sea of towerblocks. The station’s elegant, semi open-air timber lattice roof will host a roof garden and shopping centre. Canary Wharf is one of several memorable stations on the Jubilee line, built in the 1990 boom era. How times change. Crossrail bosses are charged with keeping within a strict austerity-era budget.
 </p>
 
-[<img class="aligncenter wp-image-15162 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/07/canary-wharf-crossrail.jpg" alt="London architecture tour" width="569" height="354" />](http://www.insider-london.co.uk/wp-content/uploads/2014/07/canary-wharf-crossrail.jpg)
+[<img class="aligncenter wp-image-15162 size-full" src="/wp-content/uploads/2014/07/canary-wharf-crossrail.jpg" alt="London architecture tour" width="569" height="354" />](/wp-content/uploads/2014/07/canary-wharf-crossrail.jpg)
 
 <p style="text-align: center">
   <em>Canary Wharf&#8217;s Crossrail station makes its presence known. Image credit: <a href="http://www.crossrail.co.uk/route/stations/canary-wharf/" target="_blank">Crossrail</a></em>

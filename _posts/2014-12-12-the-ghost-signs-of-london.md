@@ -36,7 +36,7 @@ s4_url2s:
 - 
 ---
 
-<img class="aligncenter size-full wp-image-23573" src="http://www.insider-london.co.uk/wp-content/uploads/2014/12/dscf3716.jpg" alt="london street art alternative walking tour" width="569" height="427" />
+<img class="aligncenter size-full wp-image-23573" src="/wp-content/uploads/2014/12/dscf3716.jpg" alt="london street art alternative walking tour" width="569" height="427" />
 
 <p style="text-align: center;">
   <em>Ghost sign for a little known chemists brand. Image Credit: <a href="http://helenography.net/2012/09/24/ghost-signs-of-camden/">Helenography</a></em>
@@ -50,7 +50,7 @@ Ghost signs can be found all over the UK, France, Australia, the US and other co
 
 **How were they produced?**
 
-<img class="aligncenter size-full wp-image-23578" src="http://www.insider-london.co.uk/wp-content/uploads/2014/12/Monster-Clothing-300x232.jpg" alt="london street art alternative walking tour" width="569" height="440" />
+<img class="aligncenter size-full wp-image-23578" src="/wp-content/uploads/2014/12/Monster-Clothing-300x232.jpg" alt="london street art alternative walking tour" width="569" height="440" />
 
 <p style="text-align: center;">
   <em>Borough High Street ghost sign for The Monster Clothing Establishment. Image Credit: <a href="http://www.ghostsigns.co.uk/2012/06/ghost-signs-and-typographic-buildings-tour-in-london-festival-of-architecture.html">Ghost Signs</a></em>
@@ -64,7 +64,7 @@ A spiked wheel was another method to perforate the lines of a design into a shee
 
 **What did they advertise?**
 
-<img class="aligncenter size-full wp-image-23576" src="http://www.insider-london.co.uk/wp-content/uploads/2014/12/For-your-throats-sake-smoke...-kenningtonrunoff.com_.jpg" alt="london street art alternative walking tour" width="569" height="728" />
+<img class="aligncenter size-full wp-image-23576" src="/wp-content/uploads/2014/12/For-your-throats-sake-smoke...-kenningtonrunoff.com_.jpg" alt="london street art alternative walking tour" width="569" height="728" />
 
 <p style="text-align: center;">
   <em>  God knows what was in those cigarettes that made them so good for our throats, maybe they knew something we don&#8217;t now?   Image Credit: <a href="http://kenningtonrunoff.com/ghost-sign-brixton-road/">Kennington Run Off</a>      </em>
@@ -86,7 +86,7 @@ In the post war years the economics of production moved in favour of mass-printe
 
 **319/321 Grays Inn Road**
 
-<img class="aligncenter size-full wp-image-23590" src="http://www.insider-london.co.uk/wp-content/uploads/2014/12/IMG_5057.jpg" alt="london street art alternative walking tour" width="569" height="427" />
+<img class="aligncenter size-full wp-image-23590" src="/wp-content/uploads/2014/12/IMG_5057.jpg" alt="london street art alternative walking tour" width="569" height="427" />
 
 <p style="text-align: center;">
   <em>The historic signs sit amongst the newer and more generic modern shop signage. Image Credit: Evan Parker</em>
@@ -96,7 +96,7 @@ The façade of 319/321 Grays Inn Road has ghost signs advertising Scales, Weight
 
 **Salvation Army Hostel, Old Street**
 
-<img class="aligncenter size-full wp-image-23582" src="http://www.insider-london.co.uk/wp-content/uploads/2014/12/IMG_50591.jpg" alt="london street art alternative walking tour" width="569" height="759" />
+<img class="aligncenter size-full wp-image-23582" src="/wp-content/uploads/2014/12/IMG_50591.jpg" alt="london street art alternative walking tour" width="569" height="759" />
 
 <p style="text-align: center;">
   <em>The Salvation Army ghost sign is one of the more impressive and imposing signs in the Silicon Roundabout area. </em><em>Image Credit: Evan Parker</em>
@@ -108,13 +108,13 @@ The factory wound up its operations on moving to the newly opened Elevator III i
 
 **Fitters Sign, Brownlow Mews**
 
-<img class="aligncenter size-full wp-image-23585" src="http://www.insider-london.co.uk/wp-content/uploads/2014/12/IMG_50501.jpg" alt="london street art alternative walking tour" width="569" height="427" />
+<img class="aligncenter size-full wp-image-23585" src="/wp-content/uploads/2014/12/IMG_50501.jpg" alt="london street art alternative walking tour" width="569" height="427" />
 
 <p style="text-align: center;">
   <em>The Signs are now barely legible. Image Credit: Evan Parker</em>
 </p>
 
-<img class="aligncenter size-full wp-image-23584" src="http://www.insider-london.co.uk/wp-content/uploads/2014/12/IMG_50531.jpg" alt="london street art alternative walking tour" width="569" height="759" />
+<img class="aligncenter size-full wp-image-23584" src="/wp-content/uploads/2014/12/IMG_50531.jpg" alt="london street art alternative walking tour" width="569" height="759" />
 
 <p style="text-align: center;">
   <em>Like the company that once inhabited this mews building, the sign has faded into nothingness. Image Credit: Evan Parker</em>
@@ -124,7 +124,7 @@ In this picturesque mews lies three faded ghost signs, with only one legible eno
 
 **Petrol Station sign, Bloomsbury**
 
-<img class="aligncenter size-full wp-image-23587" src="http://www.insider-london.co.uk/wp-content/uploads/2014/12/IMG_5058.jpg" alt="london street art alternative walking tour" width="569" height="759" />
+<img class="aligncenter size-full wp-image-23587" src="/wp-content/uploads/2014/12/IMG_5058.jpg" alt="london street art alternative walking tour" width="569" height="759" />
 
 <p style="text-align: center;">
   <em> This sign has been repainted and preserved for future generations and hamburger lovers to enjoy! Image Credit: Evan Parker</em>

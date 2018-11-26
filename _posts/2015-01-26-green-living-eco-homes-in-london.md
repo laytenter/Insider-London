@@ -35,7 +35,7 @@ With rent, gas prices and eco-awareness on the rise, there’s never been a bett
 **Micro-homes**
 
 <p style="text-align: center;">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2015/01/BeFunky_cube-house.jpg_mini.jpg"><img class="aligncenter size-full wp-image-24568" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/BeFunky_cube-house.jpg_mini.jpg" alt="Cube House" width="569" height="378" /></a><em>Image credit: <a href="http://www.cubeproject.org.uk/">Cube Project</a></em>
+  <a href="/wp-content/uploads/2015/01/BeFunky_cube-house.jpg_mini.jpg"><img class="aligncenter size-full wp-image-24568" src="/wp-content/uploads/2015/01/BeFunky_cube-house.jpg_mini.jpg" alt="Cube House" width="569" height="378" /></a><em>Image credit: <a href="http://www.cubeproject.org.uk/">Cube Project</a></em>
 </p>
 
 The Cube House was a joint project, developed by the University of Hertfordshire and Bolton Buildings. The revolutionary design takes inspiration from the TARDIS with an unexpectedly spacious interior; three levels are stacked upwards to allow for both storage and living space.
@@ -47,7 +47,7 @@ Its impressive sustainability efforts include an inductive stove, an extra-effic
 </p>
 
 <p style="text-align: center;">
-  <img class="alignnone size-full wp-image-24575" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/sanitov-studio_mini.jpg" alt="sanitov studio house boat" width="569" height="427" />
+  <img class="alignnone size-full wp-image-24575" src="/wp-content/uploads/2015/01/sanitov-studio_mini.jpg" alt="sanitov studio house boat" width="569" height="427" />
 </p>
 
 <p style="text-align: center;">
@@ -61,7 +61,7 @@ The average house uses 3,300kWh of electricity a year, but Sanitov Studio&#8217;
 **Containers**
 
 <p style="text-align: center;">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2015/01/BeFunky_container-city.jpg_mini.jpg"><img class="aligncenter size-full wp-image-24567" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/BeFunky_container-city.jpg_mini.jpg" alt="Trinity Buoy Wharf" width="569" height="359" /></a><em> Image credit: <a href="http://www.trinitybuoywharf.com/">Trinity Buoy Wharf</a></em>
+  <a href="/wp-content/uploads/2015/01/BeFunky_container-city.jpg_mini.jpg"><img class="aligncenter size-full wp-image-24567" src="/wp-content/uploads/2015/01/BeFunky_container-city.jpg_mini.jpg" alt="Trinity Buoy Wharf" width="569" height="359" /></a><em> Image credit: <a href="http://www.trinitybuoywharf.com/">Trinity Buoy Wharf</a></em>
 </p>
 
 Container City is an innovative community based in Trinity Buoy Wharf, that’s as economically sustainable as it is environmentally so. Diners and cafés accompany accommodation and studios in this unique London neighbourhood.
@@ -71,7 +71,7 @@ The focus on sustainability started with the construction phase, with the use of
 **Garden Huts**
 
 <p style="text-align: center;">
-  <img class="alignnone size-full wp-image-24574" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/bateman-mews.jpg" alt="bateman mews ecohome" width="569" height="373" />
+  <img class="alignnone size-full wp-image-24574" src="/wp-content/uploads/2015/01/bateman-mews.jpg" alt="bateman mews ecohome" width="569" height="373" />
 </p>
 
 <p style="text-align: center;">

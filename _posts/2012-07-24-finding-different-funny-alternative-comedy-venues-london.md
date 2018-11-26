@@ -17,7 +17,7 @@ guid: http://www.insider-london.co.uk/?p=1055
 ---
 
 <p style="text-align: center">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/07/stand-up-1.jpg"><img class=" wp-image-1185 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2012/07/stand-up-1.jpg" alt="stand up London insider" width="570" height="334" /></a>
+  <a href="/wp-content/uploads/2012/07/stand-up-1.jpg"><img class=" wp-image-1185 aligncenter" src="/wp-content/uploads/2012/07/stand-up-1.jpg" alt="stand up London insider" width="570" height="334" /></a>
 </p>
 
 Google stand-up comedy in London and you will be immediately inundated with options. Of course, top of the list will be the big-guns of the circuit &#8211; the Comedy Store, Jongleurs, the 99 Club &#8211; where you can expect to see &#8216;him off the telly&#8217;. However, for the more inquisitive, this Google search might not provide what you&#8217;re looking for. For those people, here are a few that I would particularly recommend and why&#8230;

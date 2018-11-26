@@ -34,12 +34,12 @@ s4_cdes:
 Stik is one of the best known street artist &#8211; instantly recognised for his stick-like figures. At home on the streets of London, you can now find works by Stik all over the world.
 
 <p style="text-align: center;">
-  <img class="aligncenter wp-image-23545 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/12/3_mini.jpg" alt="stik london street art and graffiti" width="569" height="759" /><em>Princelet Street, Shoreditch</em>
+  <img class="aligncenter wp-image-23545 size-full" src="/wp-content/uploads/2014/12/3_mini.jpg" alt="stik london street art and graffiti" width="569" height="759" /><em>Princelet Street, Shoreditch</em>
 </p>
 
 He&#8217;s been hitting headlines recently for &#8216;Big Brother&#8217; on a condemned tower block in Acton. At 125ft high, it claims to be the world&#8217;s tallest street art mural. More importantly, the work is intended to highlight the lack of low income housing London. You can see <a href="http://stik.org/news.html" target="_blank">pictures on his blog</a>.
 
-<img class="aligncenter wp-image-23547 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/12/11b_mini.jpg" alt="stik london street art and graffiti" width="569" height="427" />
+<img class="aligncenter wp-image-23547 size-full" src="/wp-content/uploads/2014/12/11b_mini.jpg" alt="stik london street art and graffiti" width="569" height="427" />
 
 <p style="text-align: center;">
   <em>Grimsby Street, Shoreditch</em>

@@ -26,7 +26,7 @@ So, I was perusing the internet for some green inspiration this week, checking o
   </p>
   
   <p style="text-align: center">
-    <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/08/the-kraken-wakes.jpg"><img class="aligncenter  wp-image-1373" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/the-kraken-wakes.jpg" alt="" width="569" height="813" /></a>
+    <a href="/wp-content/uploads/2012/08/the-kraken-wakes.jpg"><img class="aligncenter  wp-image-1373" src="/wp-content/uploads/2012/08/the-kraken-wakes.jpg" alt="" width="569" height="813" /></a>
   </p>
   
   <p>
@@ -50,7 +50,7 @@ So, I was perusing the internet for some green inspiration this week, checking o
   </p>
   
   <p style="text-align: center">
-    <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/08/volcano-beautiful-eruption.jpg"><img class="aligncenter  wp-image-1374" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/volcano-beautiful-eruption.jpg" alt="" width="569" height="404" /></a>
+    <a href="/wp-content/uploads/2012/08/volcano-beautiful-eruption.jpg"><img class="aligncenter  wp-image-1374" src="/wp-content/uploads/2012/08/volcano-beautiful-eruption.jpg" alt="" width="569" height="404" /></a>
   </p>
   
   <p>
@@ -62,7 +62,7 @@ So, I was perusing the internet for some green inspiration this week, checking o
   </p>
   
   <p style="text-align: center">
-    <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/08/sky-meets-mountain-himalayas.jpg"><img class="aligncenter  wp-image-1375" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/sky-meets-mountain-himalayas.jpg" alt="" width="569" height="404" /></a>
+    <a href="/wp-content/uploads/2012/08/sky-meets-mountain-himalayas.jpg"><img class="aligncenter  wp-image-1375" src="/wp-content/uploads/2012/08/sky-meets-mountain-himalayas.jpg" alt="" width="569" height="404" /></a>
   </p>
   
   <p>

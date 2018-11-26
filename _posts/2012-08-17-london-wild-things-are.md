@@ -23,7 +23,7 @@ When I was ten we went on a school trip to the London Aquarium and I fed a chees
   </p>
   
   <p style="text-align: center">
-    <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/08/waterbus-ride-on-regents-canal-see-do-large.jpg"><img class="aligncenter  wp-image-1898" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/waterbus-ride-on-regents-canal-see-do-large.jpg" alt="" width="569" height="380" /></a>
+    <a href="/wp-content/uploads/2012/08/waterbus-ride-on-regents-canal-see-do-large.jpg"><img class="aligncenter  wp-image-1898" src="/wp-content/uploads/2012/08/waterbus-ride-on-regents-canal-see-do-large.jpg" alt="" width="569" height="380" /></a>
   </p>
   
   <p>
@@ -43,7 +43,7 @@ When I was ten we went on a school trip to the London Aquarium and I fed a chees
   </p>
   
   <p style="text-align: center">
-    <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/08/barbican-conservatory.jpg"><img class="aligncenter  wp-image-1899" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/barbican-conservatory.jpg" alt="" width="569" height="350" /></a>
+    <a href="/wp-content/uploads/2012/08/barbican-conservatory.jpg"><img class="aligncenter  wp-image-1899" src="/wp-content/uploads/2012/08/barbican-conservatory.jpg" alt="" width="569" height="350" /></a>
   </p>
   
   <p>

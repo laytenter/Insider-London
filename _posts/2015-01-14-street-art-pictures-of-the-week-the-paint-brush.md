@@ -29,17 +29,17 @@ s4_cdes:
 - 
 ---
 
-<img class="aligncenter wp-image-24470 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/17a_mini.jpg" alt="London street art and graffiti walking tours" width="569" height="759" />
+<img class="aligncenter wp-image-24470 size-full" src="/wp-content/uploads/2015/01/17a_mini.jpg" alt="London street art and graffiti walking tours" width="569" height="759" />
 
 Sometimes street art is considered synonymous with spray cans. This week&#8217;s street art pictures celebrate artists who work with paint brushes.
 
 This incredibly detailed piece is by Puerto Rican artist Alex Diaz . His work is meticulously and time consumingly created using cross hatched strokes made using tiny brushes as well as spray cans.
 
-<img class="aligncenter wp-image-24471 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/17b_mini.jpg" alt="alex diaz London street art and graffiti walking tours" width="569" height="427" />
+<img class="aligncenter wp-image-24471 size-full" src="/wp-content/uploads/2015/01/17b_mini.jpg" alt="alex diaz London street art and graffiti walking tours" width="569" height="427" />
 
 This piece was created last year on Bacon Street, but for more of Alex Diaz&#8217;s work check out our <a href="https://www.facebook.com/insiderlondon" target="_blank">Facebook page</a>: the picture we&#8217;ve used as our header is also his creation.
 
-<img class="aligncenter wp-image-24472 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/14_mini.jpg" alt="ALO London street art and graffiti" width="569" height="759" />
+<img class="aligncenter wp-image-24472 size-full" src="/wp-content/uploads/2015/01/14_mini.jpg" alt="ALO London street art and graffiti" width="569" height="759" />
 
 This piece on Cheshire Street, meanwhile, was created by ALO. This Italian artist was working with traditional oil paints until he, literally, decided to take his art out onto the street. It&#8217;s an anti-commercial statement, as much as an artistic one.
 

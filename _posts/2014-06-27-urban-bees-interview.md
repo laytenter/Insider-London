@@ -23,7 +23,7 @@ guid: http://www.insider-london.co.uk/?p=15077
 </p>
 
 <p class="yiv8873166317MsoNormal" style="color: #000000;">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/06/urban-bees-installation.jpg"><img class="size-full wp-image-15091 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/06/urban-bees-installation.jpg" alt="urban bee green london" width="569" height="426" /></a>
+  <a href="/wp-content/uploads/2014/06/urban-bees-installation.jpg"><img class="size-full wp-image-15091 aligncenter" src="/wp-content/uploads/2014/06/urban-bees-installation.jpg" alt="urban bee green london" width="569" height="426" /></a>
 </p>
 
 <p class="yiv8873166317MsoNormal" style="color: #000000;">
@@ -51,7 +51,7 @@ guid: http://www.insider-london.co.uk/?p=15077
 </p>
 
 <p class="yiv8873166317MsoNormal" style="color: #000000; text-align: center;">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/06/lloyds-building-beekeeping.jpg"><img class="alignnone size-full wp-image-15087" src="http://www.insider-london.co.uk/wp-content/uploads/2014/06/lloyds-building-beekeeping.jpg" alt="bee keeping green london" width="569" height="367" /></a>
+  <a href="/wp-content/uploads/2014/06/lloyds-building-beekeeping.jpg"><img class="alignnone size-full wp-image-15087" src="/wp-content/uploads/2014/06/lloyds-building-beekeeping.jpg" alt="bee keeping green london" width="569" height="367" /></a>
 </p>
 
 <p class="yiv8873166317MsoNormal" style="color: #000000; text-align: center;">
@@ -91,7 +91,7 @@ guid: http://www.insider-london.co.uk/?p=15077
 </p>
 
 <p class="yiv8873166317MsoNormal" style="color: #000000; text-align: center;">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/06/camley-street-urban-beekeeping.jpg"><img class="alignnone size-full wp-image-15089" src="http://www.insider-london.co.uk/wp-content/uploads/2014/06/camley-street-urban-beekeeping.jpg" alt="Camley Street urban beekeeping green london walking tour" width="569" height="426" /></a>
+  <a href="/wp-content/uploads/2014/06/camley-street-urban-beekeeping.jpg"><img class="alignnone size-full wp-image-15089" src="/wp-content/uploads/2014/06/camley-street-urban-beekeeping.jpg" alt="Camley Street urban beekeeping green london walking tour" width="569" height="426" /></a>
 </p>
 
 <p class="yiv8873166317MsoNormal" style="color: #000000; text-align: center;">

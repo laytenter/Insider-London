@@ -24,7 +24,7 @@ s4_cdes:
 - 
 ---
 
-[<img class="aligncenter wp-image-23049 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/10/Buxton-Street-London-street-art.jpg" alt="Buxton Street London street art walking tour" width="569" height="380" />](http://www.insider-london.co.uk/wp-content/uploads/2014/10/Buxton-Street-London-street-art.jpg)
+[<img class="aligncenter wp-image-23049 size-full" src="/wp-content/uploads/2014/10/Buxton-Street-London-street-art.jpg" alt="Buxton Street London street art walking tour" width="569" height="380" />](/wp-content/uploads/2014/10/Buxton-Street-London-street-art.jpg)
 
 <p style="text-align: center;">
   <em>Image credit: <a href="https://www.flickr.com/photos/bitboy/15437028361/in/photolist-pw7NHp-pumV1o-peUgvJ-pwhfLu-pwj3X8-pe39yA-pdqx2e-psoY1u-pcZzeP-puaggx-pcXoZV-pBvxiK-pfs6hU-ptg2Zh-pt1pGp-pbNi1W-pbMSUG-pt1qrv-pt1jkn-pbKSf6-pr3VUm-pskz25-p9J7xo-p9ruvp-p98aUF-pcytQT-ptL7TX-pcyAe4-ptLgrP-pcxxfn-pu1Jf1-pcyBXK-pcxVaq-pcymMe-pu214W-ptn9C8-pbJTWs-ptdfRq-pteSfH-prcCHQ-pbJPkb-pbJ86e-pbK7sC-prcswN-ptcGns-pbKtSv-prc4Yb-prc2wC-pbK7hM-pbJCH9" target="_blank">Bit Boy</a></em>
@@ -35,7 +35,7 @@ Remember <a href="http://www.insider-london.co.uk/2014/10/22/street-art-picture-
 The Outings Project encourages you to go into a gallery, take a photo with your phone of one of the many historic portraits on display, print out your image and to paste it onto a wall in the outside world. Removed from the confines of the gallery, the people of the paintings take on a new lease of life. So far the project has cropped up in locations including London, Barcelona, Paris and Madrid. We spoke to the project&#8217;s instigator, Julien de Casabianca, to find out more.
 
 <div>
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/11/Outings-Project-Madrid.jpg"><img class="aligncenter wp-image-23238 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/11/Outings-Project-Madrid.jpg" alt="street art project" width="569" height="383" /></a>
+  <a href="/wp-content/uploads/2014/11/Outings-Project-Madrid.jpg"><img class="aligncenter wp-image-23238 size-full" src="/wp-content/uploads/2014/11/Outings-Project-Madrid.jpg" alt="street art project" width="569" height="383" /></a>
 </div>
 
 <div style="text-align: center;">
@@ -47,7 +47,7 @@ The Outings Project encourages you to go into a gallery, take a photo with your 
 If your brain can&#8217;t handle watching a lot of movies in only one day, how your brain can view 500 paintings in two hours during a museum visit ? We have no choice: the exhibition system makes you focus on the &#8216;star&#8217; paintings, rather than being able to appreciate lots of paintings. We make the choice to show forgotten pictures.
 
 <div>
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/11/Outings-Project-Dijon_mini.jpg"><img class="aligncenter wp-image-23234 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/11/Outings-Project-Dijon_mini.jpg" alt="Street art dijon" width="569" height="427" /></a>
+  <a href="/wp-content/uploads/2014/11/Outings-Project-Dijon_mini.jpg"><img class="aligncenter wp-image-23234 size-full" src="/wp-content/uploads/2014/11/Outings-Project-Dijon_mini.jpg" alt="Street art dijon" width="569" height="427" /></a>
 </div>
 
 <div style="text-align: center;">
@@ -63,7 +63,7 @@ One thing surprised really us : we have exactly the same reaction from &#8220;hi
 Paris is great to stick, because there is a real interaction between the old city and the old peoples. They seem really in place back in the same town where they once lived.
 
 <div>
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/11/Outings-Project-paris_mini.jpg"><img class="aligncenter wp-image-23236 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/11/Outings-Project-paris_mini.jpg" alt="street art and graffiti paris" width="569" height="427" /></a>
+  <a href="/wp-content/uploads/2014/11/Outings-Project-paris_mini.jpg"><img class="aligncenter wp-image-23236 size-full" src="/wp-content/uploads/2014/11/Outings-Project-paris_mini.jpg" alt="street art and graffiti paris" width="569" height="427" /></a>
 </div>
 
 <div style="text-align: center;">
@@ -79,7 +79,7 @@ We want to! We only started the project in August, but we have already a contact
 <a href="http://www.outings-project.org/#!asuncion-paraguay/c6u6" target="_blank">Asuncion, Paraguay</a>, is the most recent project. Padova in Italy, Provo in Utah, and Tirana in Albania are coming soon!
 
 <div>
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/11/Outings-project-london_mini.jpg"><img class="aligncenter wp-image-23235 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/11/Outings-project-london_mini.jpg" alt="London street art " width="569" height="384" /></a>
+  <a href="/wp-content/uploads/2014/11/Outings-project-london_mini.jpg"><img class="aligncenter wp-image-23235 size-full" src="/wp-content/uploads/2014/11/Outings-project-london_mini.jpg" alt="London street art " width="569" height="384" /></a>
 </div>
 
 <div>

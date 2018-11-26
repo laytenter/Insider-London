@@ -38,7 +38,7 @@ slide_template:
 ---
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-25011" src="http://www.insider-london.co.uk/wp-content/uploads/2015/03/9668878082_fe5232169e_z.jpg" alt="London Underground" width="569" height="407" />
+  <img class="aligncenter size-full wp-image-25011" src="/wp-content/uploads/2015/03/9668878082_fe5232169e_z.jpg" alt="London Underground" width="569" height="407" />
 </p>
 
 <p style="text-align: center;">
@@ -59,7 +59,7 @@ At their heart, all major cities have a network of transport links that keep the
 </p>
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-24987" src="http://www.insider-london.co.uk/wp-content/uploads/2015/03/303807628_7b4ce0cfb0_z.jpg" alt="Tower Subway " width="569" height="855" />
+  <img class="aligncenter size-full wp-image-24987" src="/wp-content/uploads/2015/03/303807628_7b4ce0cfb0_z.jpg" alt="Tower Subway " width="569" height="855" />
 </p>
 
 <p style="text-align: center;">
@@ -75,7 +75,7 @@ Prior to the opening of Tower Bridge, river crossings around the Tower of London
 </p>
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-24984" src="http://www.insider-london.co.uk/wp-content/uploads/2015/03/9495365663_129c385381_z.jpg" alt="Cable Car" width="569" height="427" />
+  <img class="aligncenter size-full wp-image-24984" src="/wp-content/uploads/2015/03/9495365663_129c385381_z.jpg" alt="Cable Car" width="569" height="427" />
 </p>
 
 <p style="text-align: center;">
@@ -91,7 +91,7 @@ Linking Greenwich Peninsula with the Royal Victoria Docks and taking in regenera
 </p>
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-24981" src="http://www.insider-london.co.uk/wp-content/uploads/2015/03/4016632597_8a76c86487_z.jpg" alt="Kingsway Tram Tunnel" width="569" height="379" />
+  <img class="aligncenter size-full wp-image-24981" src="/wp-content/uploads/2015/03/4016632597_8a76c86487_z.jpg" alt="Kingsway Tram Tunnel" width="569" height="379" />
 </p>
 
 <p style="text-align: center;">
@@ -105,7 +105,7 @@ The Kingsway Tram Tunnel is a Grade II Listed cut and cover tunnel, completed in
 </p>
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-24980" src="http://www.insider-london.co.uk/wp-content/uploads/2015/03/9611138762_89757485af_z.jpg" alt="London Underground/Tube" width="569" height="381" />
+  <img class="aligncenter size-full wp-image-24980" src="/wp-content/uploads/2015/03/9611138762_89757485af_z.jpg" alt="London Underground/Tube" width="569" height="381" />
 </p>
 
 <p style="text-align: center;">
@@ -121,7 +121,7 @@ Ok. So 4 million of us use it pretty much everyday,  but imagine being the per
 </p>
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-24982" src="http://www.insider-london.co.uk/wp-content/uploads/2015/03/7195906672_ba408f4d4a_z.jpg" alt="Woolwich Ferry" width="569" height="427" />
+  <img class="aligncenter size-full wp-image-24982" src="/wp-content/uploads/2015/03/7195906672_ba408f4d4a_z.jpg" alt="Woolwich Ferry" width="569" height="427" />
 </p>
 
 <p style="text-align: center;">
@@ -137,7 +137,7 @@ Woolwich Ferry is a free vehicle ferry service connecting Woolwich in South East
 </p>
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-24985" src="http://www.insider-london.co.uk/wp-content/uploads/2015/03/4652833514_c8ac7d25e8_z.jpg" alt="Tower Bridge" width="569" height="378" />
+  <img class="aligncenter size-full wp-image-24985" src="/wp-content/uploads/2015/03/4652833514_c8ac7d25e8_z.jpg" alt="Tower Bridge" width="569" height="378" />
 </p>
 
 <p style="text-align: center;">
@@ -151,7 +151,7 @@ The high level walkways of the world famous Tower Bridge are now a tourist attr
 </p>
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-24983" src="http://www.insider-london.co.uk/wp-content/uploads/2015/03/3579858274_32b88bb931_z.jpg" alt="Greenwich Foot Tunnel" width="569" height="380" />
+  <img class="aligncenter size-full wp-image-24983" src="/wp-content/uploads/2015/03/3579858274_32b88bb931_z.jpg" alt="Greenwich Foot Tunnel" width="569" height="380" />
 </p>
 
 <p style="text-align: center;">
@@ -165,7 +165,7 @@ Greenwich Foot Tunnel links Cutty Sark to Island Gardens and is used by around 1
 </p>
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-24991" src="http://www.insider-london.co.uk/wp-content/uploads/2015/03/532961157_2efb2b0bfb_z.jpg" alt="532961157_2efb2b0bfb_z" width="569" height="263" />
+  <img class="aligncenter size-full wp-image-24991" src="/wp-content/uploads/2015/03/532961157_2efb2b0bfb_z.jpg" alt="532961157_2efb2b0bfb_z" width="569" height="263" />
 </p>
 
 <p style="text-align: center;">
@@ -179,7 +179,7 @@ Ok, while we tend to rely on our feet for <a href="http://www.insider-london.co.
 </p>
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-25000" src="http://www.insider-london.co.uk/wp-content/uploads/2015/03/7817780926_b1b5e0a37f_z.jpg" alt="London Weird, Quirky and Bizarre" width="569" height="759" />
+  <img class="aligncenter size-full wp-image-25000" src="/wp-content/uploads/2015/03/7817780926_b1b5e0a37f_z.jpg" alt="London Weird, Quirky and Bizarre" width="569" height="759" />
 </p>
 
 <p style="text-align: center;">
@@ -195,7 +195,7 @@ Almost fifty years after opening the station was moved to a site on Westminster 
 </p>
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-25002" src="http://www.insider-london.co.uk/wp-content/uploads/2015/03/147526802_250029daa2_z.jpg" alt="147526802_250029daa2_z" width="569" height="427" />
+  <img class="aligncenter size-full wp-image-25002" src="/wp-content/uploads/2015/03/147526802_250029daa2_z.jpg" alt="147526802_250029daa2_z" width="569" height="427" />
 </p>
 
 <p style="text-align: center;">

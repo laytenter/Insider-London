@@ -18,7 +18,7 @@ layout: post
 guid: http://www.insider-london.co.uk/?p=4765
 ---
 
-<a href="http://www.insider-london.co.uk/blog/2013/06/10/blackfriars-bridge-green-london-tours/blackfriars-solar-panel/" rel="attachment wp-att-4846"><img class="aligncenter size-full wp-image-4846" alt="" src="http://www.insider-london.co.uk/wp-content/uploads/2013/03/blackfriars-solar-panel.jpg" width="569" height="379" /></a>
+<a href="http://www.insider-london.co.uk/blog/2013/06/10/blackfriars-bridge-green-london-tours/blackfriars-solar-panel/" rel="attachment wp-att-4846"><img class="aligncenter size-full wp-image-4846" alt="" src="/wp-content/uploads/2013/03/blackfriars-solar-panel.jpg" width="569" height="379" /></a>
 
 Blackfriars bridge has got a new roof- and it&#8217;s not just any roof. This roof is made up of 4,400 solar panels, and is believed to make Blackfriars bridge the largest solar bridge in the _world_, after knocking the Kurilpa Footbridge in Australia off the top post.
 

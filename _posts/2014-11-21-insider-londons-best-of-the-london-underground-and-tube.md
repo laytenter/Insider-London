@@ -32,11 +32,11 @@ Okay, we hold our hands up &#8211; we&#8217;re real tube geeks at Insider London
 
 &nbsp;
 
-[<img class="aligncenter wp-image-13960 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/02/Tube-Facts-Infographic-Thumb.jpg" alt="Tube Facts Infographic Thumb" width="569" height="1570" />](http://www.insider-london.co.uk/tube-facts-infographic/)
+[<img class="aligncenter wp-image-13960 size-full" src="/wp-content/uploads/2014/02/Tube-Facts-Infographic-Thumb.jpg" alt="Tube Facts Infographic Thumb" width="569" height="1570" />](http://www.insider-london.co.uk/tube-facts-infographic/)
 
 One quick way to get your head around the stats of the Underground is our <a href="http://www.insider-london.co.uk/2014/04/11/how-well-do-you-know-the-london-underground/" target="_blank">Tube facts infographic</a> (just click on the image to see a large version). Along a similar vein, although not strictly about tubes, are <a href="http://www.insider-london.co.uk/2014/11/10/london-the-information-project-infographics-that-will-change-the-way-you-view-the-city/" target="_blank">these maps and infographics we shared from The Information Capital book</a>.
 
-<img class="aligncenter wp-image-7670 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2013/09/paulmiddlewick.png" alt="paulmiddlewick" width="569" height="412" />
+<img class="aligncenter wp-image-7670 size-full" src="/wp-content/uploads/2013/09/paulmiddlewick.png" alt="paulmiddlewick" width="569" height="412" />
 
 <p style="text-align: center;">
   <em>Paul Middlewick&#8217;s <a href="http://www.animalsontheunderground.com/" target="_blank">Animals on the Underground</a></em>
@@ -44,7 +44,7 @@ One quick way to get your head around the stats of the Underground is our <a hre
 
 We also compiled <a href="http://www.insider-london.co.uk/2013/11/22/quirky-tube-maps/" target="_blank">a list of our favourite quirky tube maps</a>, from house prices to Lego, via Super Mario. And an Elephant of course!
 
-<img class="aligncenter wp-image-23460 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/11/Fletcher-Priest-architects.jpg" alt="Fletcher Priest architects mail rail mushroom farm" width="569" height="420" />
+<img class="aligncenter wp-image-23460 size-full" src="/wp-content/uploads/2014/11/Fletcher-Priest-architects.jpg" alt="Fletcher Priest architects mail rail mushroom farm" width="569" height="420" />
 
 <p style="text-align: center;">
   <em><span style="color: #4d4d4d;">Fletcher Priest architects&#8217; proposed use for the mail rail tunnels</span></em>
@@ -52,7 +52,7 @@ We also compiled <a href="http://www.insider-london.co.uk/2013/11/22/quirky-tube
 
 Back in 2012, we speculated <a href="http://www.insider-london.co.uk/2012/12/21/high-line-london-underground/" target="_blank">on the future of the Mail Rail tunnels</a>: a competition had decided that a suitable use for them might be a mushroom farm. Snap forward, and we now know <a href="http://www.insider-london.co.uk/2014/11/14/mail-rail-letters-on-the-underground/" target="_blank">a section of the tunnels is going to be used as part of a Postal Museum</a> set to open in 2016.
 
-<img class="aligncenter wp-image-23031 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/10/NewTubeforLondon_OnPlatform1.jpg" alt="London Underground Train Frontage" width="569" height="380" />
+<img class="aligncenter wp-image-23031 size-full" src="/wp-content/uploads/2014/10/NewTubeforLondon_OnPlatform1.jpg" alt="London Underground Train Frontage" width="569" height="380" />
 
 <p style="text-align: center;">
   <em>Image credit: <a href="http://www.core77.com/" target="_blank">Core77.com</a></em>

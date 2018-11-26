@@ -29,7 +29,7 @@ s4_cdes:
 - 
 ---
 
-<img class="aligncenter wp-image-24577 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/Mr-Cenz-Camden_mini.jpg" alt="mr cenz camden street art" width="569" height="450" />
+<img class="aligncenter wp-image-24577 size-full" src="/wp-content/uploads/2015/01/Mr-Cenz-Camden_mini.jpg" alt="mr cenz camden street art" width="569" height="450" />
 
 <p style="text-align: center;">
   <em>Image credit: <a href="http://mrcenz.com/commissions/walls/#gallery/9936a17568de2be1d0e427145ba6fb99/474/0" target="_blank">Mr Cenz</a></em>
@@ -40,7 +40,7 @@ s4_cdes:
 </p>
 
 <p style="text-align: center;">
-  <img class="alignnone size-full wp-image-24578" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/airborne-mark-camden.jpg" alt="airborne mark money fish camden" width="569" height="320" />
+  <img class="alignnone size-full wp-image-24578" src="/wp-content/uploads/2015/01/airborne-mark-camden.jpg" alt="airborne mark money fish camden" width="569" height="320" />
 </p>
 
 <p style="text-align: center;">
@@ -49,7 +49,7 @@ s4_cdes:
 
 These clever &#8216;Origami Piranhas&#8217; are a collaboration between Airborne Mark and Irony.
 
-<img class="aligncenter wp-image-24579 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/leopard-camden-mr-shiz_mini.jpg" alt="Leopard camden mr shiz" width="569" height="379" />
+<img class="aligncenter wp-image-24579 size-full" src="/wp-content/uploads/2015/01/leopard-camden-mr-shiz_mini.jpg" alt="Leopard camden mr shiz" width="569" height="379" />
 
 <p style="text-align: center;">
   <em>Image credit: <a href="http://mrshiz.com/leopard-camden/" target="_blank">Mr Shiz</a></em>

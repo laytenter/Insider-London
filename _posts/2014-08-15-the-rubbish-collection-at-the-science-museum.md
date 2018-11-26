@@ -24,7 +24,7 @@ s4_cdes:
 - 
 ---
 
-[<img class="aligncenter size-full wp-image-15833" src="http://www.insider-london.co.uk/wp-content/uploads/2014/07/The_Rubbish_Collection_at_the_Science_Museum_C_Katherine_Lee-dale_mini.jpg" alt="The_Rubbish_Collection_at_the_Science_Museum_C_Katherine_Lee dale_mini" width="569" height="379" />](http://www.insider-london.co.uk/wp-content/uploads/2014/07/The_Rubbish_Collection_at_the_Science_Museum_C_Katherine_Lee-dale_mini.jpg)
+[<img class="aligncenter size-full wp-image-15833" src="/wp-content/uploads/2014/07/The_Rubbish_Collection_at_the_Science_Museum_C_Katherine_Lee-dale_mini.jpg" alt="The_Rubbish_Collection_at_the_Science_Museum_C_Katherine_Lee dale_mini" width="569" height="379" />](/wp-content/uploads/2014/07/The_Rubbish_Collection_at_the_Science_Museum_C_Katherine_Lee-dale_mini.jpg)
 
 At first glance, the latest exhibition at the Science Museum may look like a load of old rubbish – but it aims to be much more than that.  <a title="The Rubbish Collection" href="http://www.sciencemuseum.org.uk/rubbishcollection" target="_blank">The Rubbish Collection</a> takes a closer look at the dumping grounds of our throw-away society, and highlights the second-hand art of recycling.  This behind-the-scenes guide to what happens to our waste invites visitors to appreciate the impact of everyday things they throw away.
 

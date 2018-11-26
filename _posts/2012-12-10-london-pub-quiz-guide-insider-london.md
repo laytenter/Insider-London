@@ -33,7 +33,7 @@ Tuesdays, Prince of Wales, 53 Highgate High Street, N6
 
 Mondays, The Pineapple, 51 Leverton Street NW5 2NX<figure id="attachment_3319" style="width: 569px" class="wp-caption alignnone">
 
-[<img class="size-full wp-image-3319  " src="http://www.insider-london.co.uk/wp-content/uploads/2012/11/proper-headscratcher.jpg" alt="London pub quiz guide, Insider London pub guide, London nightlife, things to do in London" width="569" height="427" />](http://www.insider-london.co.uk/wp-content/uploads/2012/11/proper-headscratcher.jpg)<figcaption class="wp-caption-text">the answer just won't come to me! (pic by Igor Clarke)</figcaption></figure> 
+[<img class="size-full wp-image-3319  " src="/wp-content/uploads/2012/11/proper-headscratcher.jpg" alt="London pub quiz guide, Insider London pub guide, London nightlife, things to do in London" width="569" height="427" />](/wp-content/uploads/2012/11/proper-headscratcher.jpg)<figcaption class="wp-caption-text">the answer just won't come to me! (pic by Igor Clarke)</figcaption></figure> 
 
 **I’m Forever Blowing Bubbles**
 
@@ -53,7 +53,7 @@ If the Marksman’s effort doesn’t go far enough for you, try the popbitch qui
 
 Mondays, The Player, 8 Broadwick Street  Soho  W1F 8HN<figure id="attachment_3321" style="width: 569px" class="wp-caption alignnone">
 
-[<img class="size-full wp-image-3321 " src="http://www.insider-london.co.uk/wp-content/uploads/2012/11/popquiz.jpg" alt="London pub quiz guide, things to do in London, essential guide to pub quizzes" width="569" height="438" />](http://www.insider-london.co.uk/wp-content/uploads/2012/11/popquiz.jpg)<figcaption class="wp-caption-text">"now then son, where's the rest of your team?"</figcaption></figure> 
+[<img class="size-full wp-image-3321 " src="/wp-content/uploads/2012/11/popquiz.jpg" alt="London pub quiz guide, things to do in London, essential guide to pub quizzes" width="569" height="438" />](/wp-content/uploads/2012/11/popquiz.jpg)<figcaption class="wp-caption-text">"now then son, where's the rest of your team?"</figcaption></figure> 
 
 **Chinstroking rhythms**
 

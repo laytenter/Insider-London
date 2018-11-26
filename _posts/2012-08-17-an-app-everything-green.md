@@ -16,7 +16,7 @@ guid: http://www.insider-london.co.uk/?p=1429
 ---
 
 <p style="text-align: center">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/08/main_greeguides.jpg"><img class="aligncenter  wp-image-1431" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/main_greeguides.jpg" alt="" width="569" height="320" /></a>
+  <a href="/wp-content/uploads/2012/08/main_greeguides.jpg"><img class="aligncenter  wp-image-1431" src="/wp-content/uploads/2012/08/main_greeguides.jpg" alt="" width="569" height="320" /></a>
 </p>
 
 In today’s world of Blackberries, Apples, video-calls, Facebook and MSN, there’s always a way to make something easier; to make something quicker. Technology can tell us where we are, whose nearby, what time the next bus is, what to make for dinner, and connect us to our nearest and dearest thousands of miles away. There’s an app for everything, and that now includes how to stay green!
@@ -37,7 +37,7 @@ In today’s world of Blackberries, Apples, video-calls, Facebook and MSN, there
   </div>
   
   <p>
-    <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/08/good-guide-iphone-app.jpg"><img class="aligncenter  wp-image-1432" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/good-guide-iphone-app.jpg" alt="" width="569" height="480" /></a>
+    <a href="/wp-content/uploads/2012/08/good-guide-iphone-app.jpg"><img class="aligncenter  wp-image-1432" src="/wp-content/uploads/2012/08/good-guide-iphone-app.jpg" alt="" width="569" height="480" /></a>
   </p>
   
   <div>

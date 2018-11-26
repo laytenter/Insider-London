@@ -20,7 +20,7 @@ layout: post
 guid: http://www.insider-london.co.uk/?p=2133
 ---
 
-<figure id="attachment_2137" style="width: 569px" class="wp-caption alignnone"><img class="size-full wp-image-2137" src="http://www.insider-london.co.uk/wp-content/uploads/2012/10/London-Campsite-Natural-History-Museum1.jpg" alt="" width="569" height="379" /><figcaption class="wp-caption-text">(Photograph: Natural History Museum)</figcaption></figure> 
+<figure id="attachment_2137" style="width: 569px" class="wp-caption alignnone"><img class="size-full wp-image-2137" src="/wp-content/uploads/2012/10/London-Campsite-Natural-History-Museum1.jpg" alt="" width="569" height="379" /><figcaption class="wp-caption-text">(Photograph: Natural History Museum)</figcaption></figure> 
 
 <p style="text-align: justify">
   <strong>This weekend wrap up warm and head down to London’s <a href="http://www.nhm.ac.uk/">Natural History Museum</a>, as its grounds are turned into a fun-filled campsite. Vintage campervans, colourful tents and caravans will take over the ground around and within London’s famous <a href="http://www.nhm.ac.uk/visit-us/darwin-centre-visitors/index.html">Darwin Centre</a>, which is devoted to scientific research. Inspired by the Museum scientists’ research field trips, The Campsite is the second offering in a 12-month series of innovative art and play events. The Museum has teamed up with theatre company Field Trip, offering visitors a variety of theatre, film, music and visual arts to take part in and enjoy.</strong>

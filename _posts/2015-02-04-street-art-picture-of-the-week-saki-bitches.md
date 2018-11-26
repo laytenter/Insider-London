@@ -30,7 +30,7 @@ s4_cdes:
 
 This week&#8217;s street art picture doesn&#8217;t just enhance a wall &#8211; it makes the wall form part of their art.
 
-<img class="aligncenter wp-image-24636 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/16c_mini.jpg" alt="london zoo alternative street art" width="569" height="427" />
+<img class="aligncenter wp-image-24636 size-full" src="/wp-content/uploads/2015/02/16c_mini.jpg" alt="london zoo alternative street art" width="569" height="427" />
   
 Here is SAKI&Bitches&#8217; version of &#8216;London Zoo&#8217;, where voluptuous creatures are kept behind the metal bars of the building walls.
 

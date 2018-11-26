@@ -26,7 +26,7 @@ s4_cdes:
 - 
 ---
 
-[<img class="size-full wp-image-15907 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/08/Eine-Ebor-Street.jpg" alt="Eine London Street Art tour" width="569" height="380" />](http://www.insider-london.co.uk/wp-content/uploads/2014/08/Eine-Ebor-Street.jpg)
+[<img class="size-full wp-image-15907 aligncenter" src="/wp-content/uploads/2014/08/Eine-Ebor-Street.jpg" alt="Eine London Street Art tour" width="569" height="380" />](/wp-content/uploads/2014/08/Eine-Ebor-Street.jpg)
 
 This impressive piece of lettering is the work of Ben Eine, well-known for his alphabetical enhancements of walls and shutters around London, the UK and now the world. It reads &#8220;Extortionists&#8221;, a partner piece to a work called &#8220;Protagonists&#8221; on the other side of Ebor Street. Eine has recently been in the news thanks to his <a href="http://inspiringcity.com/2014/06/30/street-artist-ben-eine-creates-the-review-a-massive-mural-in-the-heart-of-londons-olympic-park/" target="_blank">new mural for London&#8217;s Olympic Park</a>.
 

@@ -16,7 +16,7 @@ guid: http://www.insider-london.co.uk/?p=760
 
 <div>
   <p style="text-align: left">
-    <a href="http://www.insider-london.co.uk/blog/2012/07/15/boxpark-unstacked/boxpark_row/" rel="attachment wp-att-5192"><img class="aligncenter size-full wp-image-5192" src="http://www.insider-london.co.uk/wp-content/uploads/2012/07/boxpark_row.jpg" alt="" width="500" height="375" /></a>
+    <a href="http://www.insider-london.co.uk/blog/2012/07/15/boxpark-unstacked/boxpark_row/" rel="attachment wp-att-5192"><img class="aligncenter size-full wp-image-5192" src="/wp-content/uploads/2012/07/boxpark_row.jpg" alt="" width="500" height="375" /></a>
   </p>
   
   <p style="text-align: left">
@@ -40,7 +40,7 @@ guid: http://www.insider-london.co.uk/?p=760
   </p>
   
   <p>
-    <a href="http://www.insider-london.co.uk/blog/2012/07/15/boxpark-unstacked/boxpark_shops/" rel="attachment wp-att-5193"><img class="aligncenter size-full wp-image-5193" src="http://www.insider-london.co.uk/wp-content/uploads/2012/07/boxpark_shops.jpg" alt="" width="499" height="330" /></a>
+    <a href="http://www.insider-london.co.uk/blog/2012/07/15/boxpark-unstacked/boxpark_shops/" rel="attachment wp-att-5193"><img class="aligncenter size-full wp-image-5193" src="/wp-content/uploads/2012/07/boxpark_shops.jpg" alt="" width="499" height="330" /></a>
   </p>
   
   <p>

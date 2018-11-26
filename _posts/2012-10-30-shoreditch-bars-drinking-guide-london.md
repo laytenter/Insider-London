@@ -34,7 +34,7 @@ guid: http://www.insider-london.co.uk/?p=2149
 </p>
 
 <p style="text-align: justify">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/10/ninetyeight_bar_lounge_shoreditch_london_51.jpg"><img class="alignnone size-full wp-image-2193" src="http://www.insider-london.co.uk/wp-content/uploads/2012/10/ninetyeight_bar_lounge_shoreditch_london_51.jpg" alt="" width="569" height="244" /></a>
+  <a href="/wp-content/uploads/2012/10/ninetyeight_bar_lounge_shoreditch_london_51.jpg"><img class="alignnone size-full wp-image-2193" src="/wp-content/uploads/2012/10/ninetyeight_bar_lounge_shoreditch_london_51.jpg" alt="" width="569" height="244" /></a>
 </p>
 
 <p style="text-align: justify">
@@ -62,7 +62,7 @@ guid: http://www.insider-london.co.uk/?p=2149
 </p>
 
 <p style="text-align: justify">
-  <strong></strong><a href="http://www.insider-london.co.uk/wp-content/uploads/2012/10/london-shoreditch-drinking-whistling-shop1.jpg"><img class="alignnone size-full wp-image-2192" src="http://www.insider-london.co.uk/wp-content/uploads/2012/10/london-shoreditch-drinking-whistling-shop1.jpg" alt="" width="569" height="244" /></a>
+  <strong></strong><a href="/wp-content/uploads/2012/10/london-shoreditch-drinking-whistling-shop1.jpg"><img class="alignnone size-full wp-image-2192" src="/wp-content/uploads/2012/10/london-shoreditch-drinking-whistling-shop1.jpg" alt="" width="569" height="244" /></a>
 </p>
 
 <p style="text-align: justify">
@@ -90,7 +90,7 @@ guid: http://www.insider-london.co.uk/?p=2149
 </p>
 
 <p style="text-align: justify">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/10/shoreditch-drinking-london-lounge-bohemia1.jpg"><img class="alignnone size-full wp-image-2194" src="http://www.insider-london.co.uk/wp-content/uploads/2012/10/shoreditch-drinking-london-lounge-bohemia1.jpg" alt="" width="569" height="258" /></a>
+  <a href="/wp-content/uploads/2012/10/shoreditch-drinking-london-lounge-bohemia1.jpg"><img class="alignnone size-full wp-image-2194" src="/wp-content/uploads/2012/10/shoreditch-drinking-london-lounge-bohemia1.jpg" alt="" width="569" height="258" /></a>
 </p>
 
 <p style="text-align: justify">
@@ -118,7 +118,7 @@ guid: http://www.insider-london.co.uk/?p=2149
 </p>
 
 <p style="text-align: justify">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/10/shoreditch-drinking-london-Casita1.jpg"><img class="alignnone size-full wp-image-2195" src="http://www.insider-london.co.uk/wp-content/uploads/2012/10/shoreditch-drinking-london-Casita1.jpg" alt="" width="569" height="244" /></a>
+  <a href="/wp-content/uploads/2012/10/shoreditch-drinking-london-Casita1.jpg"><img class="alignnone size-full wp-image-2195" src="/wp-content/uploads/2012/10/shoreditch-drinking-london-Casita1.jpg" alt="" width="569" height="244" /></a>
 </p>
 
 <p style="text-align: justify">

@@ -13,7 +13,7 @@ guid: http://www.insider-london.co.uk/?p=13718
 
 This time last year, The London Underground was celebrating the 150<sup>th</sup> anniversary of the first ever tube journey, which ran on the Metropolitan Railway line between Paddington and Farringdon on 9 January 1863. As 2013’s celebrations are still fresh in our minds, with the beginning of a new year we now look forward to the future of the Tube, and the changes which we can expect over the next twelve months.
 
-[<img class="alignnone size-full wp-image-13720" alt="The London Underground Tube Night Map 2014" src="http://www.insider-london.co.uk/wp-content/uploads/2014/01/UndergroundNightMap.jpg" width="569" height="377" />](http://www.insider-london.co.uk/wp-content/uploads/2014/01/UndergroundNightMap.jpg)
+[<img class="alignnone size-full wp-image-13720" alt="The London Underground Tube Night Map 2014" src="/wp-content/uploads/2014/01/UndergroundNightMap.jpg" width="569" height="377" />](/wp-content/uploads/2014/01/UndergroundNightMap.jpg)
 
 **24-hour plans** 
 
@@ -27,7 +27,7 @@ The answer lies in plans to completely replace London Underground ticket offices
 
 However, the change is expected to cost 750 employees their jobs, and the past few months have been filled with talks of strike action. Further concern has been raised by those Tube users who often require assistance or directions during their commute.
 
-[<img class="alignnone size-full wp-image-13722" alt="The London Underground Tube Free Wi-Fi 2014" src="http://www.insider-london.co.uk/wp-content/uploads/2014/01/UndergroundWiFi.jpg" width="569" height="166" />](http://www.insider-london.co.uk/wp-content/uploads/2014/01/UndergroundWiFi.jpg)
+[<img class="alignnone size-full wp-image-13722" alt="The London Underground Tube Free Wi-Fi 2014" src="/wp-content/uploads/2014/01/UndergroundWiFi.jpg" width="569" height="166" />](/wp-content/uploads/2014/01/UndergroundWiFi.jpg)
 
 **Wi-Fi across all stations** 
 
@@ -35,7 +35,7 @@ Depending on your mobile phone network, the chances are you will already be able
 
 Transport for London worked hard to roll out this service across the biggest and most popular stations in 2013, but this year will see connectivity spread to every single London Underground station. This would mean greater convenience for commuters, with no more dropped calls or lengthy waits between typing and sending a text message.
 
-[<img class="alignnone size-full wp-image-13721" alt="The London Underground Tube Contactless Card Payments 2014" src="http://www.insider-london.co.uk/wp-content/uploads/2014/01/UndergroundOysterCard.jpg" width="569" height="377" />](http://www.insider-london.co.uk/wp-content/uploads/2014/01/UndergroundOysterCard.jpg)
+[<img class="alignnone size-full wp-image-13721" alt="The London Underground Tube Contactless Card Payments 2014" src="/wp-content/uploads/2014/01/UndergroundOysterCard.jpg" width="569" height="377" />](/wp-content/uploads/2014/01/UndergroundOysterCard.jpg)
 
 **Contactless card payments**
 

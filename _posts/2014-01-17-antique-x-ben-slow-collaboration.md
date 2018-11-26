@@ -11,7 +11,7 @@ layout: post
 guid: http://www.insider-london.co.uk/?p=13725
 ---
 
-[<img class="alignnone size-full wp-image-13735" alt="Antique Ben Slow T Shirt" src="http://www.insider-london.co.uk/wp-content/uploads/2014/01/Antique-Ben-Slow-T-Shirt.jpg" width="566" height="337" />](http://www.insider-london.co.uk/wp-content/uploads/2014/01/Antique-Ben-Slow-T-Shirt.jpg)
+[<img class="alignnone size-full wp-image-13735" alt="Antique Ben Slow T Shirt" src="/wp-content/uploads/2014/01/Antique-Ben-Slow-T-Shirt.jpg" width="566" height="337" />](/wp-content/uploads/2014/01/Antique-Ben-Slow-T-Shirt.jpg)
 
 Here at Insider London we recently spoke to [Antique Clothing](http://www.becomeantique.com/), a unique clothing company based here in London. They’ve recently made waves with the release of [a collaborative t-shirt](http://www.becomeantique.com/product/ben-slow-x-antique-collab-t-shirt-white/) with popular London street artist Ben Slow, and we have one of these limited edition t-shirts to give away to a lucky reader.
 
@@ -29,7 +29,7 @@ Our main aim was to provide a look which combined bold logos, intricate illustra
 
 We began production with strictly limited edition prints, which is where the name Antique Clothing came from. Once we had sold out of a particular design, it would not be reprinted. Hence, the design would “Become Antique”.
 
-<img class="alignnone size-full wp-image-13736" alt="Ben Slow Street Art London" src="http://www.insider-london.co.uk/wp-content/uploads/2014/01/Ben-Slow-Street-Art-London.jpg" width="569" height="300" />
+<img class="alignnone size-full wp-image-13736" alt="Ben Slow Street Art London" src="/wp-content/uploads/2014/01/Ben-Slow-Street-Art-London.jpg" width="569" height="300" />
 
 **What attracted you to the idea of a collaboration? Had you given it any thought in the past?**
 
@@ -43,7 +43,7 @@ We had already discussed an involvement with street art in the past, and when we
 
 We were introduced to Ben&#8217;s artwork through some of his pieces around London, and more specifically one of his show cases in Soho. We were immediately attracted to his style, as his concepts are very interesting and his work stands out from the rest in the street art industry. That&#8217;s when we thought, &#8220;Hey, this would be a great place to start&#8221;.
 
-<img class="alignnone size-full wp-image-13737" alt="Ben Slow Street Art" src="http://www.insider-london.co.uk/wp-content/uploads/2014/01/Ben-Slow-Street-Art.jpg" width="569" height="340" />
+<img class="alignnone size-full wp-image-13737" alt="Ben Slow Street Art" src="/wp-content/uploads/2014/01/Ben-Slow-Street-Art.jpg" width="569" height="340" />
 
 **Can we assu****me that this t-shirt will be limited edition, just like the previous Antique Clothing designs?**
 

@@ -22,7 +22,7 @@ The relatively new arrival of hidden speakeasies in the basements and back alley
 
 <div>
   <div>
-    <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/08/4674621090_d4a658dc55_b.jpg"><img class="aligncenter size-full wp-image-1362" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/4674621090_d4a658dc55_b.jpg" alt="" width="569" height="427" /></a>
+    <a href="/wp-content/uploads/2012/08/4674621090_d4a658dc55_b.jpg"><img class="aligncenter size-full wp-image-1362" src="/wp-content/uploads/2012/08/4674621090_d4a658dc55_b.jpg" alt="" width="569" height="427" /></a>
   </div>
   
   <div>
@@ -43,7 +43,7 @@ The relatively new arrival of hidden speakeasies in the basements and back alley
   </div>
   
   <div>
-    <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/08/Screen-shot-2011-10-20-at-15.07.16.png"><img class="aligncenter  wp-image-1363" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/Screen-shot-2011-10-20-at-15.07.16.png" alt="" width="569" height="437" /></a>
+    <a href="/wp-content/uploads/2012/08/Screen-shot-2011-10-20-at-15.07.16.png"><img class="aligncenter  wp-image-1363" src="/wp-content/uploads/2012/08/Screen-shot-2011-10-20-at-15.07.16.png" alt="" width="569" height="437" /></a>
   </div>
   
   <p>
@@ -51,7 +51,7 @@ The relatively new arrival of hidden speakeasies in the basements and back alley
   </p>
   
   <p style="text-align: center">
-    <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/08/rsz_rsz_the_mayor_of_scaredy_cat_town_shoreditch_bar.jpg"><img class="aligncenter  wp-image-1364" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/rsz_rsz_the_mayor_of_scaredy_cat_town_shoreditch_bar.jpg" alt="" width="569" height="366" /></a>
+    <a href="/wp-content/uploads/2012/08/rsz_rsz_the_mayor_of_scaredy_cat_town_shoreditch_bar.jpg"><img class="aligncenter  wp-image-1364" src="/wp-content/uploads/2012/08/rsz_rsz_the_mayor_of_scaredy_cat_town_shoreditch_bar.jpg" alt="" width="569" height="366" /></a>
   </p>
   
   <p>
@@ -59,7 +59,7 @@ The relatively new arrival of hidden speakeasies in the basements and back alley
   </p>
   
   <p style="text-align: center">
-    <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/08/whistling-shop-6.jpg"><img class="aligncenter  wp-image-1365" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/whistling-shop-6.jpg" alt="" width="569" height="367" /></a>
+    <a href="/wp-content/uploads/2012/08/whistling-shop-6.jpg"><img class="aligncenter  wp-image-1365" src="/wp-content/uploads/2012/08/whistling-shop-6.jpg" alt="" width="569" height="367" /></a>
   </p>
   
   <p>

@@ -31,7 +31,7 @@ If you’re not all that big on tree-spotting, then the Abney Park Trust has a p
 
 Current opening times: 8-4pm
   
-FREE<img class="alignright" src="http://www.insider-london.co.uk/wp-content/uploads/2012/11/Peter_Rabbit_article_detail.png" alt="" width="171" height="288" />
+FREE<img class="alignright" src="/wp-content/uploads/2012/11/Peter_Rabbit_article_detail.png" alt="" width="171" height="288" />
 
 <div>
   <strong>Brompton</strong><br /> Forget celebrity graves, Brompton has earned its own celebrity status,<br /> starring in no less than <em>eight </em>films, including Pierce Brosnan’s<br /> first Bond appearance: <em>GoldenEye</em>. That being said, leading suffragette<br /> Emmeline Pankhurst is buried in the cemetery, and she&#8217;s a whole good<br /> reason to visit in herself, if only so you can dramatically say<br /> &#8220;I knelt at the grave of feminism today&#8230;&#8221; to your friends.<em> </em><br /> <em>Fun Fact:</em> Beatrix Potter is said to have found the names for many of her<br /> characters whilst reading the tombstones in the cemetery. Bet you &#8220;Peter Rabett&#8221; and &#8220;Mr Nutkin&#8221; had no idea they would become immortalized as children’s furry friends forevermore.

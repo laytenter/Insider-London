@@ -17,7 +17,7 @@ guid: http://www.insider-london.co.uk/?p=3625
 
 616’s pieces are recognisable for their intricate, but strange illustrations. The artist sketches animals and other unusual creatures, including slugs and skulls with golden teeth, and his gothic style “616” tag only adds to the mystery surrounding the man behind the pseudonym. 616 creates his street art on a number of scales, from a small drawn sticker to a huge spray-painted sheet of tarpaulin. This, along with his unique style, means that none of 616’s pieces fail to catch the eyes of passers-by.
 
-<a href="http://www.insider-london.co.uk/blog/2012/12/13/new-london-street-artists-616/616_street_artist_london_graffiti_tour_2/" rel="attachment wp-att-3627"><img class="alignleft  wp-image-3627" title="616_street_artist_london_graffiti_tour_2" src="http://www.insider-london.co.uk/wp-content/uploads/2012/12/616_street_artist_london_graffiti_tour_2.jpg" alt="" width="569" height="390" /></a>
+<a href="http://www.insider-london.co.uk/blog/2012/12/13/new-london-street-artists-616/616_street_artist_london_graffiti_tour_2/" rel="attachment wp-att-3627"><img class="alignleft  wp-image-3627" title="616_street_artist_london_graffiti_tour_2" src="/wp-content/uploads/2012/12/616_street_artist_london_graffiti_tour_2.jpg" alt="" width="569" height="390" /></a>
 
 &nbsp;
 

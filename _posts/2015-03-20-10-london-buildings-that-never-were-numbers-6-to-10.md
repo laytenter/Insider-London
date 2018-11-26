@@ -34,7 +34,7 @@ s4_cdes:
 Last week, we took you on a whirlwind tour of five London architectural projects that never came to fruition &#8211; <a href="http://www.insider-london.co.uk/?p=24901" target="_blank">you can see the list here</a>. But London&#8217;s history contains so many, many more, so today we&#8217;re back to show you a further five.
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-24927" src="http://www.insider-london.co.uk/wp-content/uploads/2015/03/descriptiveillus00lynd_0018.jpg" alt="descriptiveillus00lynd_0018" width="569" height="952" /><em>One of the entries for Sir Edward Watkin&#8217;s unbuilt Wembley Tower, <a href="http://www.insider-london.co.uk/2015/03/13/10-london-buildings-that-never-were-numbers-1-to-5/" target="_blank">featured in part 1</a>. Image Credit: <a href="http://publicdomainreview.org/collections/catalogue-of-the-68-competitive-designs-for-the-great-tower-for-london-1890/">Public Domain Review</a></em>
+  <img class="aligncenter size-full wp-image-24927" src="/wp-content/uploads/2015/03/descriptiveillus00lynd_0018.jpg" alt="descriptiveillus00lynd_0018" width="569" height="952" /><em>One of the entries for Sir Edward Watkin&#8217;s unbuilt Wembley Tower, <a href="http://www.insider-london.co.uk/2015/03/13/10-london-buildings-that-never-were-numbers-1-to-5/" target="_blank">featured in part 1</a>. Image Credit: <a href="http://publicdomainreview.org/collections/catalogue-of-the-68-competitive-designs-for-the-great-tower-for-london-1890/">Public Domain Review</a></em>
 </p>
 
 <p style="text-align: center;">
@@ -48,7 +48,7 @@ A gothic complex, designed as an extension to Westminster Abbey in 1904, was pro
 </p>
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-24944" src="http://www.insider-london.co.uk/wp-content/uploads/2015/03/Sir_Christopher_Wrens_plan_of_London_as_reproduced_by_Gwynn._Wellcome_M0003248.jpg" alt="Sir_Christopher_Wren's_plan_of_London_as_reproduced_by_Gwynn._Wellcome_M0003248" width="569" height="421" />
+  <img class="aligncenter size-full wp-image-24944" src="/wp-content/uploads/2015/03/Sir_Christopher_Wrens_plan_of_London_as_reproduced_by_Gwynn._Wellcome_M0003248.jpg" alt="Sir_Christopher_Wren's_plan_of_London_as_reproduced_by_Gwynn._Wellcome_M0003248" width="569" height="421" />
 </p>
 
 <p style="text-align: center;">
@@ -66,7 +66,7 @@ Unfortunately business won in the end, as the desire was to rebuild as quickly a
 </p>
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-24945" src="http://www.insider-london.co.uk/wp-content/uploads/2015/03/St_Pauls_-_the_Greek_Cross_design.jpg" alt="St_Paul's_-_the_Greek_Cross_design" width="569" height="390" />
+  <img class="aligncenter size-full wp-image-24945" src="/wp-content/uploads/2015/03/St_Pauls_-_the_Greek_Cross_design.jpg" alt="St_Paul's_-_the_Greek_Cross_design" width="569" height="390" />
 </p>
 
 <p style="text-align: center;">
@@ -80,7 +80,7 @@ The original St Paul&#8217;s Cathedral was one of the biggest losses during the
 </p>
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-24956" src="http://www.insider-london.co.uk/wp-content/uploads/2015/03/2662200206_0482be401b_z.jpg" alt="London Modern Architecture" width="569" height="427" />
+  <img class="aligncenter size-full wp-image-24956" src="/wp-content/uploads/2015/03/2662200206_0482be401b_z.jpg" alt="London Modern Architecture" width="569" height="427" />
 </p>
 
 <p style="text-align: center;">

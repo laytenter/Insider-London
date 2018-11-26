@@ -18,7 +18,7 @@ guid: http://www.insider-london.co.uk/?p=14842
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/06/modern-architecture-in-london1.jpg"><img class="alignnone size-full wp-image-14895" src="http://www.insider-london.co.uk/wp-content/uploads/2014/06/modern-architecture-in-london1.jpg" alt="modern architecture in london" width="569" height="352" /></a>
+  <a href="/wp-content/uploads/2014/06/modern-architecture-in-london1.jpg"><img class="alignnone size-full wp-image-14895" src="/wp-content/uploads/2014/06/modern-architecture-in-london1.jpg" alt="modern architecture in london" width="569" height="352" /></a>
 </p>
 
 That’s the subject up for discussion tonight at a <a href="http://www.lse.ac.uk/publicEvents/events/2014/06/20140602t1830vPT.aspx" target="_blank">debate organised by New London Architecture and the London School of Economi</a><a href="http://www.lse.ac.uk/publicEvents/events/2014/06/20140602t1830vPT.aspx" target="_blank">cs as part of the London Festival of Architecture</a>.

@@ -33,11 +33,11 @@ s4_cdes:
 
 Sometimes the pace of London life can all get too much. We all feel it: it&#8217;s why Siobhan Wall&#8217;s <a href="http://www.amazon.co.uk/Quiet-London-Siobhan-Wall/dp/0711231907" target="_blank">Quiet London book</a> was such a success. Its soothing pages directed frazzled Londoners to quiet spots in the capital to meet and talk, and sit and think.
 
-[<img class="size-full wp-image-22163 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/quiet-london-books_mini.jpg" alt="quiet alternative london" width="569" height="451" />](http://www.insider-london.co.uk/wp-content/uploads/2014/09/quiet-london-books_mini.jpg)
+[<img class="size-full wp-image-22163 aligncenter" src="/wp-content/uploads/2014/09/quiet-london-books_mini.jpg" alt="quiet alternative london" width="569" height="451" />](/wp-content/uploads/2014/09/quiet-london-books_mini.jpg)
 
 In three new books, Siobhan has unearthed many more hidden, peaceful gems. <a href="http://www.amazon.co.uk/Quiet-London-Culture-Siobhan-Wall/dp/0711235597/ref=pd_sim_b_1?ie=UTF8&refRID=11Q3FTYVHA8MMR1V7BCS" target="_blank">Quiet London: Culture</a> explores some of the city&#8217;s best bookshops, galleries and libraries, <a href="http://www.amazon.co.uk/Quiet-London-Drink-Siobhan-Wall/dp/0711235589/ref=pd_sim_b_1?ie=UTF8&refRID=14HHW88N26CAENZWGGVN" target="_blank">Quiet London: Food and Drink</a> looks at relaxing spots to enjoy and shop for gastronomic delights, while <a href="http://www.amazon.co.uk/Quiet-London-Corners-Siobhan-Wall/dp/0711235600/ref=pd_sim_b_2?ie=UTF8&refRID=0S0B2GH2ABDX92Z0SY8E" target="_blank">Quiet London: Quiet Corners</a> picks out gardens and green spaces to enjoy and places to relax and recuperate. There are 300 recommendations to work through in the book. Here are the ten Insider London will be seeking out for some well-deserved peace and quiet.
 
-[<img class="aligncenter wp-image-22164 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/East-India-Docks.jpg" alt="East india docks" width="569" height="427" />](http://www.insider-london.co.uk/wp-content/uploads/2014/09/East-India-Docks.jpg)
+[<img class="aligncenter wp-image-22164 size-full" src="/wp-content/uploads/2014/09/East-India-Docks.jpg" alt="East india docks" width="569" height="427" />](/wp-content/uploads/2014/09/East-India-Docks.jpg)
 
 <p style="text-align: center;">
   <em>East India Docks. Image credit: <a href="www.flickr.com/photos/16801915@N06/6915212100" target="_blank">Reading Tom</a></em>
@@ -55,7 +55,7 @@ Here&#8217;s one we didn&#8217;t know about when we wrote about <a href="http://
 
 We&#8217;ll be using this to relax after one of our <a href="http://www.insider-london.co.uk/silicon-roundabout-tech-city-tour/" target="_blank">Silicon Roundabout tours</a>, as it&#8217;s situated just off City Road, near the famous roundabout. These gardens provide an oasis of green, complete with cherry trees, and world away from high tech business.
 
-[<img class="aligncenter wp-image-22165 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/Cloister-cafe.jpg" alt="cloister cafe" width="569" height="425" />](http://www.insider-london.co.uk/wp-content/uploads/2014/09/Cloister-cafe.jpg)
+[<img class="aligncenter wp-image-22165 size-full" src="/wp-content/uploads/2014/09/Cloister-cafe.jpg" alt="cloister cafe" width="569" height="425" />](/wp-content/uploads/2014/09/Cloister-cafe.jpg)
 
 <p style="text-align: center;">
   <em>The Cloister Cafe. Image credit: <a href="www.flickr.com/photos/markdodds/6257401330" target="_blank">J Mark Dodds</a></em>
@@ -69,7 +69,7 @@ Open daily in the gorgeous 15th-century cloisters of St Bartholomew the Great&#8
 
 Sound as much fun as pulling teeth? This small museum will help convince you how lucky we are to enjoy the dentistry we do today. Its 20,000 items include 19th-century tongue scrapers and the leather mitts designed to stop children sucking their thumbs.
 
-[<img class="aligncenter wp-image-22166 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/calthorpe-project.jpg" alt="Calthorpe project gardens" width="569" height="380" />](http://www.insider-london.co.uk/wp-content/uploads/2014/09/calthorpe-project.jpg)
+[<img class="aligncenter wp-image-22166 size-full" src="/wp-content/uploads/2014/09/calthorpe-project.jpg" alt="Calthorpe project gardens" width="569" height="380" />](/wp-content/uploads/2014/09/calthorpe-project.jpg)
 
 <p style="text-align: center;">
   <em>Calthorpe Project Gardens. Image credit: <a href="www.flickr.com/photos/55935853@N00/8699311492" target="_blank">Ewan Munro</a></em>
@@ -87,7 +87,7 @@ Another of London&#8217;s fab small museums, this building was once an ice wareh
 
 Another place to escape the frantic pace of Old Street, this garden has been a public space since the 1870s and it&#8217;s still a peaceful spot to sit for a while on one of the wooden benches and appreciate their beautiful flowers in the summer.
 
-[<img class="aligncenter wp-image-22167 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/paul-rothe_mini.jpg" alt="paul rothe deli london" width="569" height="381" />](http://www.insider-london.co.uk/wp-content/uploads/2014/09/paul-rothe_mini.jpg)
+[<img class="aligncenter wp-image-22167 size-full" src="/wp-content/uploads/2014/09/paul-rothe_mini.jpg" alt="paul rothe deli london" width="569" height="381" />](/wp-content/uploads/2014/09/paul-rothe_mini.jpg)
 
 <p style="text-align: center;">
   <em>Inside Paul Rothe & Son deli. Image credit: <a href="www.flickr.com/photos/rocketlass/8420523372" target="_blank">Stacey Shintani</a></em>

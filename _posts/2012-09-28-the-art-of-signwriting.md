@@ -14,7 +14,7 @@ layout: post
 guid: http://www.insider-london.co.uk/?p=1657
 ---
 
-## [<img class="aligncenter size-full wp-image-1659" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/retail_sign5.jpg" alt="" width="560" height="373" />](http://www.insider-london.co.uk/wp-content/uploads/2012/08/retail_sign5.jpg)
+## [<img class="aligncenter size-full wp-image-1659" src="/wp-content/uploads/2012/08/retail_sign5.jpg" alt="" width="560" height="373" />](/wp-content/uploads/2012/08/retail_sign5.jpg)
 
 <div>
   <p>
@@ -22,7 +22,7 @@ guid: http://www.insider-london.co.uk/?p=1657
   </p>
   
   <p>
-    <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/08/retail_sign9.jpg"><img class="aligncenter size-full wp-image-1660" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/retail_sign9.jpg" alt="" width="560" height="422" /></a>
+    <a href="/wp-content/uploads/2012/08/retail_sign9.jpg"><img class="aligncenter size-full wp-image-1660" src="/wp-content/uploads/2012/08/retail_sign9.jpg" alt="" width="560" height="422" /></a>
   </p>
   
   <p>
@@ -30,7 +30,7 @@ guid: http://www.insider-london.co.uk/?p=1657
   </p>
   
   <p>
-    <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/08/retail_sign2-copy.jpg"><img class="aligncenter size-full wp-image-1661" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/retail_sign2-copy.jpg" alt="" width="560" height="417" /></a>
+    <a href="/wp-content/uploads/2012/08/retail_sign2-copy.jpg"><img class="aligncenter size-full wp-image-1661" src="/wp-content/uploads/2012/08/retail_sign2-copy.jpg" alt="" width="560" height="417" /></a>
   </p>
   
   <p>
@@ -42,7 +42,7 @@ guid: http://www.insider-london.co.uk/?p=1657
   </p>
   
   <p>
-    <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/08/retail_sign3.jpg"><img class="aligncenter size-full wp-image-1662" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/retail_sign3.jpg" alt="" width="560" height="412" /></a>
+    <a href="/wp-content/uploads/2012/08/retail_sign3.jpg"><img class="aligncenter size-full wp-image-1662" src="/wp-content/uploads/2012/08/retail_sign3.jpg" alt="" width="560" height="412" /></a>
   </p>
   
   <p>
@@ -50,7 +50,7 @@ guid: http://www.insider-london.co.uk/?p=1657
   </p>
   
   <p>
-    <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/08/retail_sign1.jpg"><img class="aligncenter size-full wp-image-1663" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/retail_sign1.jpg" alt="" width="560" height="419" /></a>
+    <a href="/wp-content/uploads/2012/08/retail_sign1.jpg"><img class="aligncenter size-full wp-image-1663" src="/wp-content/uploads/2012/08/retail_sign1.jpg" alt="" width="560" height="419" /></a>
   </p>
   
   <p>
@@ -62,7 +62,7 @@ guid: http://www.insider-london.co.uk/?p=1657
   </p>
   
   <p>
-    <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/08/retail_sign4.jpg"><img class="aligncenter size-full wp-image-1664" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/retail_sign4.jpg" alt="" width="560" height="373" /></a>
+    <a href="/wp-content/uploads/2012/08/retail_sign4.jpg"><img class="aligncenter size-full wp-image-1664" src="/wp-content/uploads/2012/08/retail_sign4.jpg" alt="" width="560" height="373" /></a>
   </p>
   
   <p>
@@ -70,7 +70,7 @@ guid: http://www.insider-london.co.uk/?p=1657
   </p>
   
   <p>
-    <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/08/retail_sign8.jpg"><img class="aligncenter size-full wp-image-1665" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/retail_sign8.jpg" alt="" width="560" height="420" /></a>
+    <a href="/wp-content/uploads/2012/08/retail_sign8.jpg"><img class="aligncenter size-full wp-image-1665" src="/wp-content/uploads/2012/08/retail_sign8.jpg" alt="" width="560" height="420" /></a>
   </p>
   
   <p>
@@ -82,7 +82,7 @@ guid: http://www.insider-london.co.uk/?p=1657
   </p>
   
   <p>
-    <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/08/retail_sign7.jpg"><img class="aligncenter size-full wp-image-1666" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/retail_sign7.jpg" alt="" width="560" height="673" /></a>
+    <a href="/wp-content/uploads/2012/08/retail_sign7.jpg"><img class="aligncenter size-full wp-image-1666" src="/wp-content/uploads/2012/08/retail_sign7.jpg" alt="" width="560" height="673" /></a>
   </p>
   
   <p>

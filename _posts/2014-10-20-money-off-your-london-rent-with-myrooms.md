@@ -40,7 +40,7 @@ s4_url2s:
 </p>
 
 <p class="yiv8098260952MsoNormal">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/08/ottoschade.jpg"><img class="aligncenter wp-image-15902 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/08/ottoschade.jpg" alt="otto schade street art london brick lane" width="569" height="427" /></a>
+  <a href="/wp-content/uploads/2014/08/ottoschade.jpg"><img class="aligncenter wp-image-15902 size-full" src="/wp-content/uploads/2014/08/ottoschade.jpg" alt="otto schade street art london brick lane" width="569" height="427" /></a>
 </p>
 
 <p class="yiv8098260952MsoNormal">
@@ -56,7 +56,7 @@ s4_url2s:
 </p>
 
 <p class="yiv8098260952MsoNormal">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/08/Gasholder.jpg"><img class="aligncenter wp-image-17024 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/08/Gasholder.jpg" alt="Gasholder kings cross regeneration" width="569" height="427" /></a>
+  <a href="/wp-content/uploads/2014/08/Gasholder.jpg"><img class="aligncenter wp-image-17024 size-full" src="/wp-content/uploads/2014/08/Gasholder.jpg" alt="Gasholder kings cross regeneration" width="569" height="427" /></a>
 </p>
 
 <p class="yiv8098260952MsoNormal" style="text-align: center;">

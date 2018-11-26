@@ -20,7 +20,7 @@ s4_image2s:
 - 
 ---
 
-[<img class="aligncenter wp-image-22983 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/Unga-Insa-street-art1.jpg" alt="Street art London unga insa " width="569" height="427" />](http://www.insider-london.co.uk/wp-content/uploads/2014/09/Unga-Insa-street-art1.jpg)
+[<img class="aligncenter wp-image-22983 size-full" src="/wp-content/uploads/2014/09/Unga-Insa-street-art1.jpg" alt="Street art London unga insa " width="569" height="427" />](/wp-content/uploads/2014/09/Unga-Insa-street-art1.jpg)
 
 This well-accessorised fellow is the result of a collaboration between Unga of Broken Fingaz Crew and INSA. If the bright chevrons aren&#8217;t enough to convince you to put on your shades, it&#8217;s even more mind-boggling than it might first appear. Check out this piece of <a href="http://www.insaland.com/blog/on-the-brain" target="_blank">GIF magic on INSA&#8217;s blog</a>. We also had the fun of interviewing Broken Fingaz Crew last year, <a href="%20http://www.insider-london.co.uk/2013/02/15/london-street-art-walking-tours-broken-fingaz-crew/" target="_blank">you can have a read of that here</a>.
 

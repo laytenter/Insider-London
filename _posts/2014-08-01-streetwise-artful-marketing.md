@@ -26,7 +26,7 @@ s4_cdes:
 - 
 ---
 
-[<img class="size-full wp-image-15844 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/08/Shepherd-Fairey.jpg" alt="Shepard Fairey street art tour london" width="569" height="427" />](http://www.insider-london.co.uk/wp-content/uploads/2014/08/Shepherd-Fairey.jpg)
+[<img class="size-full wp-image-15844 aligncenter" src="/wp-content/uploads/2014/08/Shepherd-Fairey.jpg" alt="Shepard Fairey street art tour london" width="569" height="427" />](/wp-content/uploads/2014/08/Shepherd-Fairey.jpg)
 
 <p style="text-align: center;">
   <em>Shepard Fairey, Ebor Street, East London</em>
@@ -40,7 +40,7 @@ The over-tagging of Fairey&#8217;s piece on Ebor Street in Shoreditch might also
 
 But here in the UK, the art world’s purists will have you question the ethics of an artist as soon as he or she even begins to make a living. The trio of street artists known as Cyrcle advertised a gallery exhibition of their work by daubing two huge pieces on a wall of perhaps the largest of London’s ad hoc street art arenas. Alongside an enormous upside-down image of some entangled bodies on Leonard Street, they painted a word from the title of their forthcoming show &#8211; also up-turned &#8211; on a plain white background. They claimed it was all about turning symbols of power on their heads (the word in question was ‘Reign’, the full title, ‘Over throne! Pooring reign’ &#8211; a bit pun-tastic for my tastes).  I suspect, though, that their primary purpose in this case, was to tap into our instinct to turn our heads upside down to read a word and prompt us to look at the accompanying image the right way up, thus making us proud of our investigative observation skills so that we would seek out the exhibition itself.  It must be said, this is a natty device for the British art lover, who likes nothing more than to be made to feel clever.
 
-[<img class="size-full wp-image-15843 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/08/love-will-tear-us-apart.jpg" alt="Love Will Tear Us Apart London street art cept" width="569" height="382" />](http://www.insider-london.co.uk/wp-content/uploads/2014/08/love-will-tear-us-apart.jpg)
+[<img class="size-full wp-image-15843 aligncenter" src="/wp-content/uploads/2014/08/love-will-tear-us-apart.jpg" alt="Love Will Tear Us Apart London street art cept" width="569" height="382" />](/wp-content/uploads/2014/08/love-will-tear-us-apart.jpg)
 
 &nbsp;
 

@@ -37,7 +37,7 @@ s4_cdes:
 June was a busy month at Insider London. We&#8217;ve been exploring lesser known corners of the city, speaking to people changing the capital in unique ways and getting to grips with London&#8217;s ever evolving skyline. Here&#8217;s what you may have missed.
 
 <p style="text-align: center;">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/06/aloft-docklands.jpg"><img class="alignnone size-full wp-image-15052" src="http://www.insider-london.co.uk/wp-content/uploads/2014/06/aloft-docklands.jpg" alt="hotel london architecture tour" width="569" height="320" /></a>
+  <a href="/wp-content/uploads/2014/06/aloft-docklands.jpg"><img class="alignnone size-full wp-image-15052" src="/wp-content/uploads/2014/06/aloft-docklands.jpg" alt="hotel london architecture tour" width="569" height="320" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -46,7 +46,7 @@ June was a busy month at Insider London. We&#8217;ve been exploring lesser known
 
 People may talk about &#8216;sustainable architecture&#8217; a lot, but its definition can be quite hard to pin down. Thankfully for us, Tom answers the question <a href="http://www.insider-london.co.uk/2014/06/13/what-is-sustainable-architecture/" target="_blank">&#8216;What is sustainable architecture?&#8217; here</a>. That blog post may also help answer another question: &#8216;How green is your London hotel?&#8217; We compare <a href="http://www.insider-london.co.uk/2014/06/19/london-green-hotels/" target="_blank">five different examples here</a>.
 
-[<img class="size-full wp-image-15091 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/06/urban-bees-installation.jpg" alt="urban bee green london" width="569" height="426" />](http://www.insider-london.co.uk/wp-content/uploads/2014/06/urban-bees-installation.jpg)
+[<img class="size-full wp-image-15091 aligncenter" src="/wp-content/uploads/2014/06/urban-bees-installation.jpg" alt="urban bee green london" width="569" height="426" />](/wp-content/uploads/2014/06/urban-bees-installation.jpg)
 
 <p style="text-align: center;">
   <em>Image credit: <a href="http://www.urbanbees.co.uk/" target="_blank">Urban Bees</a></em>
@@ -54,7 +54,7 @@ People may talk about &#8216;sustainable architecture&#8217; a lot, but its defi
 
 On the subject of greener architecture, we also took a look at five of <a href="http://www.insider-london.co.uk/2014/06/11/london-rooftop-gardens/" target="_blank">London&#8217;s hidden green rooftop</a>s, and spoke to <a href="http://www.insider-london.co.uk/2014/06/27/urban-bees-interview/" target="_blank">Urban Bees</a>, who encourage beekeeping around the capital.
 
-[<img class="size-full wp-image-15098 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/06/KERB-kings-cross-regeneration1.jpg" alt="KERB kings cross regeneration" width="569" height="380" />](http://www.insider-london.co.uk/wp-content/uploads/2014/06/KERB-kings-cross-regeneration1.jpg)
+[<img class="size-full wp-image-15098 aligncenter" src="/wp-content/uploads/2014/06/KERB-kings-cross-regeneration1.jpg" alt="KERB kings cross regeneration" width="569" height="380" />](/wp-content/uploads/2014/06/KERB-kings-cross-regeneration1.jpg)
 
 <p style="text-align: center;">
   <em>Image credit: <a href="http://www.kerbfood.com/" target="_blank">KERB</a></em>
@@ -63,7 +63,7 @@ On the subject of greener architecture, we also took a look at five of <a href="
 Urban Bees do a lot of work at the Camley Street nature park near King&#8217;s Cross. Insider London are really interested in all the changes going on around King&#8217;s Cross at the moment (you may have noticed our <a href="http://www.insider-london.co.uk/kings-cross-innovation-tour/" target="_blank">Kings Cross regeneration tour</a>), and we spoke to another person changing the environment around King&#8217;s Cross &#8211; although in a slightly different way. Petra Barran set up KERB, a mobile street food market that aims to change how people enjoy food in the city, and which has been hugely influential in the way people view King&#8217;s Cross. <a href="http://www.insider-london.co.uk/2014/06/30/petra-barran-kerb-interview/" target="_blank">Find out more about her experiences and plans for the future here</a>.
 
 <p style="text-align: center;">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/06/banksy-street-art-london.jpg"><img class="alignnone size-full wp-image-15073" src="http://www.insider-london.co.uk/wp-content/uploads/2014/06/banksy-street-art-london.jpg" alt="banksy London street art walking tour" width="569" height="427" /></a>
+  <a href="/wp-content/uploads/2014/06/banksy-street-art-london.jpg"><img class="alignnone size-full wp-image-15073" src="/wp-content/uploads/2014/06/banksy-street-art-london.jpg" alt="banksy London street art walking tour" width="569" height="427" /></a>
 </p>
 
 <p style="text-align: center;">

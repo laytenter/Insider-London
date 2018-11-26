@@ -17,7 +17,7 @@ layout: post
 guid: http://www.insider-london.co.uk/?p=2290
 ---
 
-[<img class="alignnone size-full wp-image-2385" src="http://www.insider-london.co.uk/wp-content/uploads/2012/11/Shard-London-Skyscraper-tower-future-development.jpg" alt="" width="569" height="406" />](http://www.insider-london.co.uk/wp-content/uploads/2012/11/Shard-London-Skyscraper-tower-future-development.jpg)
+[<img class="alignnone size-full wp-image-2385" src="/wp-content/uploads/2012/11/Shard-London-Skyscraper-tower-future-development.jpg" alt="" width="569" height="406" />](/wp-content/uploads/2012/11/Shard-London-Skyscraper-tower-future-development.jpg)
 
 <p style="text-align: justify">
   <strong>Over the past five years Londoners have grown accustomed to charting the upward rise of a whole host of new skyscrapers. Cranes and sprouting concrete cores have climbed ever higher on their progression towards completion, transforming the city skyline in the process.  </strong>
@@ -58,7 +58,7 @@ guid: http://www.insider-london.co.uk/?p=2290
 <div class="mceTemp" style="text-align: justify">
   <dl>
     <dt>
-      <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/11/london_redevelopment_skyscrapers_vauxhall_square.jpg"><img class="size-full wp-image-2469" src="http://www.insider-london.co.uk/wp-content/uploads/2012/11/london_redevelopment_skyscrapers_vauxhall_square.jpg" alt="" width="569" height="369" /></a>
+      <a href="/wp-content/uploads/2012/11/london_redevelopment_skyscrapers_vauxhall_square.jpg"><img class="size-full wp-image-2469" src="/wp-content/uploads/2012/11/london_redevelopment_skyscrapers_vauxhall_square.jpg" alt="" width="569" height="369" /></a>
     </dt>
     
     <dd>

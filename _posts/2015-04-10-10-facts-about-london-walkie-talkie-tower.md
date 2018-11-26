@@ -36,7 +36,7 @@ slide_template:
 - default
 ---
 
-<img class="aligncenter size-full wp-image-25088" src="http://www.insider-london.co.uk/wp-content/uploads/2015/04/15241123698_31e9e0d8c9_z.jpg" alt="15241123698_31e9e0d8c9_z" width="569" height="618" />
+<img class="aligncenter size-full wp-image-25088" src="/wp-content/uploads/2015/04/15241123698_31e9e0d8c9_z.jpg" alt="15241123698_31e9e0d8c9_z" width="569" height="618" />
 
 <p style="text-align: center;">
   <em>Top Heavy. Image Credit: <a href="https://www.flickr.com/photos/luc-mechelen/15241123698/in/photolist-pdNK5N-eVTNWL-k3GKMZ-i7Etfh-pYLtoZ-pYN7jP-ddjJuL-fxAtBZ-eWkLgR-ogrwoz-dSbFVz-e625aT-dx5bwf-qZEo5s-ePoBtT-q8Wxjm-gQbL9Y-gQbLbb-evgej3-gQbLaQ-rRrZn6-q4Bd8x-gZgW5V-pa92Yk-4AupVS-dDrC3B-doDXzj-4Aq8wV-heFPdu-pYYyu6-dRxons-doDPdx-qq98zj-nYTt9y-ddjLjM-ddjSKh-og5ub6-nYSt1t-ddjKBy-rjsJeQ-ddjMMy-ognQEH-oLk4jW-ryJv2s-qE2qbh-rAVrDN-rAVpNo-gNfmQs-nYTTcb-nYSMFo">Luc Mercelis</a></em>
@@ -50,7 +50,7 @@ slide_template:
   <strong>1. Sky Gardens</strong>
 </p>
 
-<img class="aligncenter size-full wp-image-25068" src="http://www.insider-london.co.uk/wp-content/uploads/2015/04/16353370917_0d73be3c0c_z.jpg" alt="16353370917_0d73be3c0c_z" width="569" height="380" />
+<img class="aligncenter size-full wp-image-25068" src="/wp-content/uploads/2015/04/16353370917_0d73be3c0c_z.jpg" alt="16353370917_0d73be3c0c_z" width="569" height="380" />
 
 <p style="text-align: center;">
   <em>A giant bush in the sky. Image Credit: <a href="https://www.flickr.com/photos/davebass5/16353370917">Dave Pearce</a></em>
@@ -65,7 +65,7 @@ The skygarden was a requirement of the planning application but the final result
 </p>
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-25078" src="http://www.insider-london.co.uk/wp-content/uploads/2015/04/9142520904_20936cd185_z.jpg" alt="9142520904_20936cd185_z" width="569" height="377" />
+  <img class="aligncenter size-full wp-image-25078" src="/wp-content/uploads/2015/04/9142520904_20936cd185_z.jpg" alt="9142520904_20936cd185_z" width="569" height="377" />
 </p>
 
 <p style="text-align: center;">
@@ -78,7 +78,7 @@ While under construction, the tower was advertised as “The Building With More 
   <strong>3. It Replaced Another, Albeit Smaller Tower</strong>
 </p>
 
-<img class="aligncenter size-full wp-image-25067" src="http://www.insider-london.co.uk/wp-content/uploads/2015/04/16231801227_359d0cf7b6_z.jpg" alt="16231801227_359d0cf7b6_z" width="569" height="380" />
+<img class="aligncenter size-full wp-image-25067" src="/wp-content/uploads/2015/04/16231801227_359d0cf7b6_z.jpg" alt="16231801227_359d0cf7b6_z" width="569" height="380" />
 
 <p style="text-align: center;">
   <em>Fantastic views from a new, taller tower. Image Credit: <a href="https://www.flickr.com/photos/adambowie/16231801227/in/photolist-qJjyFk-qJcg8C-qJdypm-qJccvY-qJmdZR-qJmcEg-qJjzQz-qz1aeZ-rcw5pk-pUDMYB-qz1hH6-rCGJeA-qV6iqZ-qFNEtu-qK9dAb-rCGPcS-rdkrfP-rdkrmv-rdkqMV-qjX9iD-qV6hkc-qv1rdX-qMgEu4-qMn42E-qFNCj9-r1M5XF-qRmmnu-qJmaL6-qJmbCX-qJdwpQ-r1M5mF-q4Z3zD-qYtXVm-q4Z5tP-q4Z5MV-r1GcjA-r1M5Tx-qJjy8X-q4Z3rT-q4LyCS-r1GeX1-qJccah-qYtVWG-qJmfa6-q4LBYj-qJduC3-qJjAR2-qJcf3m-qJdybf-r1BWVx">Adam Bowie</a></em>
@@ -90,7 +90,7 @@ Although often seen as being out of place in London, 20 Fenchurch Street replace
   <strong>4. It Was Reduced In Height</strong>
 </p>
 
-<img class="aligncenter size-full wp-image-25070" src="http://www.insider-london.co.uk/wp-content/uploads/2015/04/12501363383_86b18d028f_z.jpg" alt="12501363383_86b18d028f_z" width="569" height="859" />
+<img class="aligncenter size-full wp-image-25070" src="/wp-content/uploads/2015/04/12501363383_86b18d028f_z.jpg" alt="12501363383_86b18d028f_z" width="569" height="859" />
 
 <p style="text-align: center;">
   <em>The original proposal was deemed too tall for its location. Image Credit: <a href="https://www.flickr.com/photos/rogersg/12501363383">George Rex</a></em>
@@ -102,7 +102,7 @@ It was originally proposed in 2005 at 220 metres high, to be one of the tallest 
   <strong> 5. It Almost Never Went Ahead</strong>
 </p>
 
-<img class="aligncenter size-full wp-image-25071" src="http://www.insider-london.co.uk/wp-content/uploads/2015/04/15199621655_0d726829c9_z.jpg" alt="15199621655_0d726829c9_z" width="569" height="425" />
+<img class="aligncenter size-full wp-image-25071" src="/wp-content/uploads/2015/04/15199621655_0d726829c9_z.jpg" alt="15199621655_0d726829c9_z" width="569" height="425" />
 
 <p style="text-align: center;">
   <em>The Walkie Talkie arrived 3 years late. Image Credit: <a href="https://www.flickr.com/photos/timsnell/15199621655">Tim Snell</a></em>
@@ -114,7 +114,7 @@ The Walkie Talkie was meant to have been finished by 2011, but like many other p
   <strong>6. It Was Bought By The Canary Wharf Group</strong>
 </p>
 
-<img class="aligncenter size-full wp-image-25072" src="http://www.insider-london.co.uk/wp-content/uploads/2015/04/13946497315_8930d470d2_z.jpg" alt="13946497315_8930d470d2_z" width="569" height="759" />
+<img class="aligncenter size-full wp-image-25072" src="/wp-content/uploads/2015/04/13946497315_8930d470d2_z.jpg" alt="13946497315_8930d470d2_z" width="569" height="759" />
 
 <p style="text-align: center;">
   <em>20 Fenchurch Street was Canary Wharf Group&#8217;s first development outside the Isle of Dogs. Image Credit: <a href="https://www.flickr.com/photos/12495774@N02/13946497315">Simon Webster</a></em>
@@ -127,7 +127,7 @@ The Walkie Talkie was meant to have been finished by 2011, but like many other p
 </p>
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-25085" src="http://www.insider-london.co.uk/wp-content/uploads/2015/04/8810785284_76f0bd066b_z.jpg" alt="8810785284_76f0bd066b_z" width="569" height="380" />
+  <img class="aligncenter size-full wp-image-25085" src="/wp-content/uploads/2015/04/8810785284_76f0bd066b_z.jpg" alt="8810785284_76f0bd066b_z" width="569" height="380" />
 </p>
 
 <p style="text-align: center;">
@@ -140,7 +140,7 @@ In a now infamous episode we dub “scorchgate”, a particularly sunny summers 
   <strong>8. Following “Scorchgate” Emergency Changes Were Implemented to the Design</strong>
 </p>
 
-<img class="aligncenter size-full wp-image-25073" src="http://www.insider-london.co.uk/wp-content/uploads/2015/04/15842419300_8c81a6aa45_z.jpg" alt="15842419300_8c81a6aa45_z" width="569" height="379" />
+<img class="aligncenter size-full wp-image-25073" src="/wp-content/uploads/2015/04/15842419300_8c81a6aa45_z.jpg" alt="15842419300_8c81a6aa45_z" width="569" height="379" />
 
 <p style="text-align: center;">
   <em>Developers worked quickly to rectify the solar glare problem. Image Credit: <a href="https://www.flickr.com/photos/rogersg/15842419300">George Rex</a></em>
@@ -153,7 +153,7 @@ The original design incorporated brise-soleil (sun louvres) to tackle solar glar
 </p>
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-25086" src="http://www.insider-london.co.uk/wp-content/uploads/2015/04/16989382972_8c9b32f072_z.jpg" alt="16989382972_8c9b32f072_z" width="569" height="374" />
+  <img class="aligncenter size-full wp-image-25086" src="/wp-content/uploads/2015/04/16989382972_8c9b32f072_z.jpg" alt="16989382972_8c9b32f072_z" width="569" height="374" />
 </p>
 
 <p style="text-align: center;">
@@ -166,7 +166,7 @@ After seeing his work shortened, simplified and rejigged last minute-who could f
   <strong>10. Office Workers are Crammed in</strong>
 </p>
 
-<img class="aligncenter size-full wp-image-25084" src="http://www.insider-london.co.uk/wp-content/uploads/2015/04/13039253893_90d43e3a32_z.jpg" alt="13039253893_90d43e3a32_z" width="569" height="427" />
+<img class="aligncenter size-full wp-image-25084" src="/wp-content/uploads/2015/04/13039253893_90d43e3a32_z.jpg" alt="13039253893_90d43e3a32_z" width="569" height="427" />
 
 <p style="text-align: center;">
   <em>The larger upper floors hasn&#8217;t translated into larger space for workers. Image Credit: <a href="https://www.flickr.com/photos/just1snap/13039253893/in/photolist-kSezUi-j55xua-iZhBDG-osxssN-pgcLvS-iSRrGx-fFTsEQ-gp55JE-qMuavm-qLxDFi-ka7yCF-k97XJP-gGDDjF-m2tb6X-m2tfNT-m2tdiH-pkaNZY-eiXvEU-diHKkL-hmdz9u-jnfXm9-fGSQaP-rroCNM-p7gxM3-pokNbG-gGDjfY-ebEDh9-og9kqu-nB6ujD-nfprLg-kvmSXR-pR2dpZ-q51Dy4-rU8zeF-q8zvtm-pbDXT9-cE53LY-r1C4Z2-pueJqc-p6hU97-oMGiDj-pJmnmh-oPVQgD-p3HDKi-eQbygx-p3Hyc4-gPZjvL-ecdkT4-ddjUdT-ktbjvh">Just1snap</a></em>

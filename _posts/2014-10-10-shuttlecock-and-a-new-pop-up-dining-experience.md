@@ -34,14 +34,14 @@ s4_url2s:
 
 &nbsp;
 
-[<img class="aligncenter wp-image-22967 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/Carousel2.jpg" alt="Pop-Up Restaurant Design" width="569" height="379" />](http://www.insider-london.co.uk/wp-content/uploads/2014/09/Carousel2.jpg)
+[<img class="aligncenter wp-image-22967 size-full" src="/wp-content/uploads/2014/09/Carousel2.jpg" alt="Pop-Up Restaurant Design" width="569" height="379" />](/wp-content/uploads/2014/09/Carousel2.jpg)
 
 <p style="text-align: left;">
   As the pop-up foodie trend continues so does the selection of innovative temporary restaurants and pioneering event spaces in London. Recently opened <a href="http://www.carousel-london.com">Carousel</a> in Marylebone is the new home of food connoisseurs <a href="http://shuttlecock-inc.com">Shuttlecock</a>, a team of creatives with a passion for imaginative storytelling and love of good food. Hosting a selection of pop-up dining experiences, parties and events, Carousel offers a three-story event space (in a revamped 1970s office block) with an industrial-inspired ground floor restaurant and bar, as well as a selection of private event spaces.  Designed in conjunction with <a href="http://risedesignstudio.co.uk">Rise Design Studio</a>, the 50-seat restaurant will host an ever-changing selection of pop-up restaurants and events, with the minimalist interiors serving as a blank canvas for the rotating selection of world-class chefs who will be visiting the space over the next five years.
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/09/Carousel.jpg"><img class="alignnone wp-image-22966 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/Carousel.jpg" alt="Pop-Up Restaurant Design" width="569" height="379" /></a>
+  <a href="/wp-content/uploads/2014/09/Carousel.jpg"><img class="alignnone wp-image-22966 size-full" src="/wp-content/uploads/2014/09/Carousel.jpg" alt="Pop-Up Restaurant Design" width="569" height="379" /></a>
 </p>
 
 Mixing outstanding food, cocktails and music, Shuttlecock is known for hosting immersive events such as the much talked about [Mile High](http://dinemilehigh.com) pop-up. Inspired by the golden age of 1950s air travel, Mile High is a series of immersive dining events, taking guests on virtual global city breaks to destinations including Gothenburg, Beirut, Sicily and Mozambique. The evenings include a four-course dinner as well as cocktails, all inspired by the local cuisine of the fantasy destination.
@@ -75,7 +75,7 @@ _We are currently in New York, debuting Mile High in the Lower East Side. It&#82
 The current pop-up residency at Carousel is Pizza Locadeli, open for three weeks until the end of September. Run by husband-and-wife team Giorgio and Plaxy Locatelli, this pizza restaurant serves a selection of authentic Italian pizza, a selection of antipasti and handpicked Italian wine. Collaborating with renowned local artists, including Dinos Chapman (who has designed some of the tableware and staff uniforms) Pizza Locadeli perfectly fuses Italian rustic fare with on-trend London creative energy. Adding an element of philanthropy, the Chapman designed items will be auctioned off at the end of the tenancy with the proceeds going to Action Against Hunger.
 
 <p style="text-align: center;">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/09/Carousel3.jpg"><img class="alignnone wp-image-22968 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/Carousel3.jpg" alt="Pop-Up Restaurant Design" width="569" height="380" /></a>
+  <a href="/wp-content/uploads/2014/09/Carousel3.jpg"><img class="alignnone wp-image-22968 size-full" src="/wp-content/uploads/2014/09/Carousel3.jpg" alt="Pop-Up Restaurant Design" width="569" height="380" /></a>
 </p>
 
 Pizza Locadeli, Wed-Sun 7pm- 11pm

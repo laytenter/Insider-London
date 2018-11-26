@@ -21,7 +21,7 @@ guid: http://www.insider-london.co.uk/?p=4486
 ---
 
 <p style="text-align: center;">
-  <a href="http://www.insider-london.co.uk/blog/2013/03/04/future-film-bfi-london/strings/" target="_blank" rel="attachment wp-att-4584"><img class="aligncenter size-full wp-image-4584" alt="Strings" src="http://www.insider-london.co.uk/wp-content/uploads/2013/02/Strings.jpg" width="569" height="320" /></a>
+  <a href="http://www.insider-london.co.uk/blog/2013/03/04/future-film-bfi-london/strings/" target="_blank" rel="attachment wp-att-4584"><img class="aligncenter size-full wp-image-4584" alt="Strings" src="/wp-content/uploads/2013/02/Strings.jpg" width="569" height="320" /></a>
 </p>
 
 Last week I went to the <a href="http://www.insider-london.co.uk/?p=4395&preview=true" target="_blank">BFI Future Film Festival</a>, and spent a packed day watching inspiring films by new filmmakers, and learning the secrets to nurturing your big-screen aspirations.

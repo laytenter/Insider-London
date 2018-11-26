@@ -29,7 +29,7 @@ The news that London is set to be hit with 230 new towers has been making the he
 
 [The news that London is set to be hit with 230 new towers has been making the headlines recently, but tall buildings are nothing new to the capital. We’re taking a look at some of the city’s tallest towers from throughout the ages, comparing structures from 1100 all the way to the present day. You can check out some of the city&#8217;s most modern additions on our [Modern Architecture walking tour](http://www.insider-london.co.uk/london-architecture-walking-tours/).
 
-](http://www.insider-london.co.uk/wp-content/uploads/2014/11/BeFunky_victoria-tower.jpg_mini.jpg) [<img class="aligncenter size-full wp-image-23310" src="http://www.insider-london.co.uk/wp-content/uploads/2014/11/BeFunky_White-Tower.jpg_mini.jpg" alt="White Tower" width="569" height="397" />](http://www.insider-london.co.uk/wp-content/uploads/2014/11/BeFunky_White-Tower.jpg_mini.jpg)
+](/wp-content/uploads/2014/11/BeFunky_victoria-tower.jpg_mini.jpg) [<img class="aligncenter size-full wp-image-23310" src="/wp-content/uploads/2014/11/BeFunky_White-Tower.jpg_mini.jpg" alt="White Tower" width="569" height="397" />](/wp-content/uploads/2014/11/BeFunky_White-Tower.jpg_mini.jpg)
 
 <p style="text-align: center">
   <em>Image credit: <a href="http://www.hrp.org.uk/">Historic Royal Palaces</a></em>
@@ -47,7 +47,7 @@ The news that London is set to be hit with 230 new towers has been making the he
 
 **Bonus Fact:** UNESCO added the Tower of London in its entirety to the World Heritage Sites list in 1988, with the White Tower certified as a Grade I listed building.
 
-<img class="aligncenter size-full wp-image-23307" src="http://www.insider-london.co.uk/wp-content/uploads/2014/11/BeFunky_st-pauls-cathedral.jpg_mini.jpg" alt="St Paul's Cathedral" width="569" height="549" />
+<img class="aligncenter size-full wp-image-23307" src="/wp-content/uploads/2014/11/BeFunky_st-pauls-cathedral.jpg_mini.jpg" alt="St Paul's Cathedral" width="569" height="549" />
 
 <p style="text-align: center">
   <em>Image credit: <a href="http://en.wikipedia.org/wiki/St_Paul's_Cathedral">Wikipedia</a></em>
@@ -65,7 +65,7 @@ The news that London is set to be hit with 230 new towers has been making the he
 
 **Bonus Fact:** The cathedral survived two bomb strikes during the Blitz.
 
-<img class="aligncenter size-full wp-image-23309" src="http://www.insider-london.co.uk/wp-content/uploads/2014/11/BeFunky_victoria-tower.jpg_mini.jpg" alt="Victoria Tower" width="569" height="455" />
+<img class="aligncenter size-full wp-image-23309" src="/wp-content/uploads/2014/11/BeFunky_victoria-tower.jpg_mini.jpg" alt="Victoria Tower" width="569" height="455" />
 
 <p style="text-align: center">
   <em>Image credit: <a href="www.destination360.com">Destination 360</a></em>
@@ -83,7 +83,7 @@ The news that London is set to be hit with 230 new towers has been making the he
 
 **Bonus Fact:** The tower was named for Queen Victoria, who also laid the first stone on 22<sup>nd</sup> December 1843.
 
-<img class="aligncenter size-full wp-image-23306" src="http://www.insider-london.co.uk/wp-content/uploads/2014/11/BeFunky_One-Canada-Square.jpg_mini.jpg" alt="One Canada Square" width="569" height="379" />
+<img class="aligncenter size-full wp-image-23306" src="/wp-content/uploads/2014/11/BeFunky_One-Canada-Square.jpg_mini.jpg" alt="One Canada Square" width="569" height="379" />
 
 <p style="text-align: center">
   <em>Image credit: <a href="http://commons.wikimedia.org/wiki/File:1_Canada_Square_From_Cabot_Square.jpg">Mark Gilbert</a></em>
@@ -104,7 +104,7 @@ The news that London is set to be hit with 230 new towers has been making the he
 &nbsp;
 
 <p style="text-align: center">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/11/The-Shard-Modern-Architecture-London.jpg"><img class="aligncenter wp-image-23325 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/11/The-Shard-Modern-Architecture-London.jpg" alt="The Shard Modern Architecture London" width="569" height="380" /></a>
+  <a href="/wp-content/uploads/2014/11/The-Shard-Modern-Architecture-London.jpg"><img class="aligncenter wp-image-23325 size-full" src="/wp-content/uploads/2014/11/The-Shard-Modern-Architecture-London.jpg" alt="The Shard Modern Architecture London" width="569" height="380" /></a>
 </p>
 
 <p style="text-align: center">

@@ -35,7 +35,7 @@ s4_cdes:
 - 
 ---
 
-<img class="aligncenter size-full wp-image-24823" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/6071146957_f865da969c_z.jpg" alt="6071146957_f865da969c_z" width="569" height="427" />
+<img class="aligncenter size-full wp-image-24823" src="/wp-content/uploads/2015/02/6071146957_f865da969c_z.jpg" alt="6071146957_f865da969c_z" width="569" height="427" />
 
 <p style="text-align: center">
   <em>Line to nowhere. Image Credit: <a href="https://www.flickr.com/photos/44580780@N05/6071146957/in/photolist-6ePCHZ-b2ZN7M-5WU19p-afudtx-5qXc91-4HwZ7n-9ume3g-4HBbtN-9fmEA-e926yd-e8VpTM-e8VqHF-9Rknxg-9DAJc8-7asvRj">Mark</a></em>
@@ -54,7 +54,7 @@ Meanwhile, proposals keep flooding in to turn abandoned Tube tunnels into cyclew
 </p>
 
 <p style="text-align: center">
-  <img class="aligncenter size-full wp-image-24826" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/8493423736_3d1b787553_z.jpg" alt="8493423736_3d1b787553_z" width="569" height="409" />
+  <img class="aligncenter size-full wp-image-24826" src="/wp-content/uploads/2015/02/8493423736_3d1b787553_z.jpg" alt="8493423736_3d1b787553_z" width="569" height="409" />
 </p>
 
 <p style="text-align: center">
@@ -70,7 +70,7 @@ However, in the early years of the 20<sup>th</sup> century the North London Line
 </p>
 
 <p style="text-align: center">
-  <em><a href="https://www.flickr.com/photos/camperdown/8493423736/in/photolist-jkC8vL-7Dh1cf-dWrnLk-b4CWhD-9bzstK-9bCQyu-8WGaKY-kgUkED-4qLuPb-4qGr8c-4qGskp-7H2gtS-4qGpAp-8ggmov-9WTdGV-KScSi-tEsAP-4sAxYb-3Ap3g-3Ap3q-dWx1Yh-8g8aA7-8aUcvS-9VPR5A-959wav-nW6h95-6vozHA-qoKB4M-dBuPMe-jrfQHH-hZ7qHj-invrW4-jKgd2h-jC5u26-ipa6hz-jRZ6Y6-aqnUq-jzngwo-onZ7iq-gd88vb-gd8Cx6-g4D1X5-83bwnB-3UN759-62tFwu-4YsmZE-ctHth-bqhQXi-dxMz19-gd8doY"><img class="aligncenter size-full wp-image-24827" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/12743143684_90cd862ee6_z.jpg" alt="12743143684_90cd862ee6_z" width="569" height="423" /></a></em>
+  <em><a href="https://www.flickr.com/photos/camperdown/8493423736/in/photolist-jkC8vL-7Dh1cf-dWrnLk-b4CWhD-9bzstK-9bCQyu-8WGaKY-kgUkED-4qLuPb-4qGr8c-4qGskp-7H2gtS-4qGpAp-8ggmov-9WTdGV-KScSi-tEsAP-4sAxYb-3Ap3g-3Ap3q-dWx1Yh-8g8aA7-8aUcvS-9VPR5A-959wav-nW6h95-6vozHA-qoKB4M-dBuPMe-jrfQHH-hZ7qHj-invrW4-jKgd2h-jC5u26-ipa6hz-jRZ6Y6-aqnUq-jzngwo-onZ7iq-gd88vb-gd8Cx6-g4D1X5-83bwnB-3UN759-62tFwu-4YsmZE-ctHth-bqhQXi-dxMz19-gd8doY"><img class="aligncenter size-full wp-image-24827" src="/wp-content/uploads/2015/02/12743143684_90cd862ee6_z.jpg" alt="12743143684_90cd862ee6_z" width="569" height="423" /></a></em>
 </p>
 
 <p style="text-align: center">
@@ -88,7 +88,7 @@ It functioned as a goodsyard until it was destroyed by fire in 1964. The site re
 &nbsp;
 
 <p style="text-align: center">
-  <img class="aligncenter size-full wp-image-24829" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/3349281083_39570ab22d_z.jpg" alt="3349281083_39570ab22d_z" width="569" height="427" />
+  <img class="aligncenter size-full wp-image-24829" src="/wp-content/uploads/2015/02/3349281083_39570ab22d_z.jpg" alt="3349281083_39570ab22d_z" width="569" height="427" />
 </p>
 
 <p style="text-align: center">
@@ -102,7 +102,7 @@ Shoreditch Railway Station was once part of the Great Eastern Railway. It operat
 </p>
 
 <p style="text-align: center">
-  <em><a href="https://www.flickr.com/photos/55935853@N00/3349281083/in/photolist-66XWzz-cSQRv7-dZyfKg"><img class="aligncenter size-full wp-image-24830" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/163551428_c13a9b99b2_z.jpg" alt="163551428_c13a9b99b2_z" width="569" height="427" /></a></em>
+  <em><a href="https://www.flickr.com/photos/55935853@N00/3349281083/in/photolist-66XWzz-cSQRv7-dZyfKg"><img class="aligncenter size-full wp-image-24830" src="/wp-content/uploads/2015/02/163551428_c13a9b99b2_z.jpg" alt="163551428_c13a9b99b2_z" width="569" height="427" /></a></em>
 </p>
 
 <p style="text-align: center">
@@ -116,7 +116,7 @@ Shoreditch station, on the East London Line, closed in 2005, which left the enti
 </p>
 
 <p style="text-align: center">
-  <em><a href="https://www.flickr.com/photos/munksynz/163551428/in/photolist-fsf9X-fsf9v-fsf9d-fsfbj-fsfa3-fsfai-fsf8Y-fsfbU-fsf9K-fsf97-fsfbt-fsfb1-fsfaT-fsfau-fsfaF-fsfbD-fsfaA-7M4wwv-7M8tXu-7M4vYa-8NgADX-8NjJgY-8NgFsM-8NgEo6-4L9xrA-7M8vsm-294ZCS-7UNtMM-5Aggs-cGCQfE-cGCv3u-4dd7Jw-67syhW-cGCQt7-bB1NS-je83UY-bAY1U-bB1P9-gr3xP-qLfR7-ftND8-4qP8Gp-ftB5K-eVmLS-fqEH9-4NftFG-87P7QM-ftD8B-3KvKH7-bAY36"><img class="aligncenter size-full wp-image-24822" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/12254099104_8b23b872db_z.jpg" alt="12254099104_8b23b872db_z" width="569" height="284" /></a></em>
+  <em><a href="https://www.flickr.com/photos/munksynz/163551428/in/photolist-fsf9X-fsf9v-fsf9d-fsfbj-fsfa3-fsfai-fsf8Y-fsfbU-fsf9K-fsf97-fsfbt-fsfb1-fsfaT-fsfau-fsfaF-fsfbD-fsfaA-7M4wwv-7M8tXu-7M4vYa-8NgADX-8NjJgY-8NgFsM-8NgEo6-4L9xrA-7M8vsm-294ZCS-7UNtMM-5Aggs-cGCQfE-cGCv3u-4dd7Jw-67syhW-cGCQt7-bB1NS-je83UY-bAY1U-bB1P9-gr3xP-qLfR7-ftND8-4qP8Gp-ftB5K-eVmLS-fqEH9-4NftFG-87P7QM-ftD8B-3KvKH7-bAY36"><img class="aligncenter size-full wp-image-24822" src="/wp-content/uploads/2015/02/12254099104_8b23b872db_z.jpg" alt="12254099104_8b23b872db_z" width="569" height="284" /></a></em>
 </p>
 
 <p style="text-align: center">
@@ -134,7 +134,7 @@ This travel arrangement turned out to be awkward in the long run, as a lack of 
 </p>
 
 <p style="text-align: center">
-  <img class="aligncenter size-full wp-image-24825" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/93333054_cef7277c30_o.jpg" alt="93333054_cef7277c30_o" width="569" height="840" />
+  <img class="aligncenter size-full wp-image-24825" src="/wp-content/uploads/2015/02/93333054_cef7277c30_o.jpg" alt="93333054_cef7277c30_o" width="569" height="840" />
 </p>
 
 <p style="text-align: center">
@@ -148,7 +148,7 @@ The Tower of London station closed in 1884, a mere two years after opening, afte
 </p>
 
 <p style="text-align: center">
-  <img class="aligncenter size-full wp-image-24831" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/3511094472_6cfe78c070_z.jpg" alt="3511094472_6cfe78c070_z" width="569" height="380" />
+  <img class="aligncenter size-full wp-image-24831" src="/wp-content/uploads/2015/02/3511094472_6cfe78c070_z.jpg" alt="3511094472_6cfe78c070_z" width="569" height="380" />
 </p>
 
 <p style="text-align: center">
@@ -162,7 +162,7 @@ If some areas or attractions often seem a tiny bit tucked away from the nearest 
 </p>
 
 <p style="text-align: center">
-  <img class="aligncenter size-full wp-image-24824" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/2417474900_1f15b61f42_z.jpg" alt="2417474900_1f15b61f42_z" width="569" height="427" />
+  <img class="aligncenter size-full wp-image-24824" src="/wp-content/uploads/2015/02/2417474900_1f15b61f42_z.jpg" alt="2417474900_1f15b61f42_z" width="569" height="427" />
 </p>
 
 <p style="text-align: center">
@@ -176,7 +176,7 @@ Ok, so Hyde Park Corner is still in use, but an entrance opposite Hyde Park was 
 </p>
 
 <p style="text-align: center">
-  <img class="aligncenter size-full wp-image-24832" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/1120671334_c3d4b77c7a_z.jpg" alt="1120671334_c3d4b77c7a_z" width="569" height="378" />
+  <img class="aligncenter size-full wp-image-24832" src="/wp-content/uploads/2015/02/1120671334_c3d4b77c7a_z.jpg" alt="1120671334_c3d4b77c7a_z" width="569" height="378" />
 </p>
 
 <p style="text-align: center">
@@ -190,7 +190,7 @@ Aldwych opened in 1907 and was situated a short distance from Somerset House. It
 </p>
 
 <p style="text-align: center">
-  <img class="aligncenter size-full wp-image-24833" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/3295505601_f00005bb1b_z-2.jpg" alt="3295505601_f00005bb1b_z-2" width="569" height="385" />
+  <img class="aligncenter size-full wp-image-24833" src="/wp-content/uploads/2015/02/3295505601_f00005bb1b_z-2.jpg" alt="3295505601_f00005bb1b_z-2" width="569" height="385" />
 </p>
 
 <p style="text-align: center">

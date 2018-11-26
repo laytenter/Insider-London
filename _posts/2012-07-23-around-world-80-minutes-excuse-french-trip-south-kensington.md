@@ -22,7 +22,7 @@ guid: http://www.insider-london.co.uk/?p=1044
 
 <div>
   <p style="text-align: center">
-    <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/07/presse-1.jpg"><img class="size-full wp-image-1181 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2012/07/presse-1.jpg" alt="South Kensington Culture French Insider London" width="569" height="703" /></a>
+    <a href="/wp-content/uploads/2012/07/presse-1.jpg"><img class="size-full wp-image-1181 aligncenter" src="/wp-content/uploads/2012/07/presse-1.jpg" alt="South Kensington Culture French Insider London" width="569" height="703" /></a>
   </p>
   
   <p>

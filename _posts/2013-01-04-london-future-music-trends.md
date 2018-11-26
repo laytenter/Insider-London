@@ -25,7 +25,7 @@ Here&#8217;s the second part of our exploration of the future of music listening
 
 ‘I wasn’t really connecting with music anymore’ says **James Thirkettle, creator of the music blog, [Just Press Play](http://justpressplay.podomatic.com/ "Just Press Play").** ‘I had 30,000 tunes in my iTunes which I was never going to listen to. We give something new about twenty seconds before we click on the next thing in the mad dash to know EVERYTHING”.<figure id="attachment_3706" style="width: 569px" class="wp-caption alignnone">
 
-<a href="http://www.insider-london.co.uk/blog/2013/01/04/london-future-music-trends/too-much-music/" rel="attachment wp-att-3706"><img class="size-full wp-image-3706" alt="Future of Music Listening, Trends, East London, Protein, Walking Tours" src="http://www.insider-london.co.uk/wp-content/uploads/2012/12/too-much-music.jpg" width="569" height="356" /></a><figcaption class="wp-caption-text">Aaaaaaaggggghhhh (pic from Neil McCormick)</figcaption></figure> 
+<a href="http://www.insider-london.co.uk/blog/2013/01/04/london-future-music-trends/too-much-music/" rel="attachment wp-att-3706"><img class="size-full wp-image-3706" alt="Future of Music Listening, Trends, East London, Protein, Walking Tours" src="/wp-content/uploads/2012/12/too-much-music.jpg" width="569" height="356" /></a><figcaption class="wp-caption-text">Aaaaaaaggggghhhh (pic from Neil McCormick)</figcaption></figure> 
 
 He plays some video clips that offer old-fashioned solutions; the anti-playlist.
 
@@ -41,7 +41,7 @@ Here&#8217;s the second part of our exploration of the future of music listening
 
 ‘I wasn’t really connecting with music anymore’ says **James Thirkettle, creator of the music blog, [Just Press Play](http://justpressplay.podomatic.com/ "Just Press Play").** ‘I had 30,000 tunes in my iTunes which I was never going to listen to. We give something new about twenty seconds before we click on the next thing in the mad dash to know EVERYTHING”.<figure id="attachment_3706" style="width: 569px" class="wp-caption alignnone">
 
-<a href="http://www.insider-london.co.uk/blog/2013/01/04/london-future-music-trends/too-much-music/" rel="attachment wp-att-3706"><img class="size-full wp-image-3706" alt="Future of Music Listening, Trends, East London, Protein, Walking Tours" src="http://www.insider-london.co.uk/wp-content/uploads/2012/12/too-much-music.jpg" width="569" height="356" /></a><figcaption class="wp-caption-text">Aaaaaaaggggghhhh (pic from Neil McCormick)</figcaption></figure> 
+<a href="http://www.insider-london.co.uk/blog/2013/01/04/london-future-music-trends/too-much-music/" rel="attachment wp-att-3706"><img class="size-full wp-image-3706" alt="Future of Music Listening, Trends, East London, Protein, Walking Tours" src="/wp-content/uploads/2012/12/too-much-music.jpg" width="569" height="356" /></a><figcaption class="wp-caption-text">Aaaaaaaggggghhhh (pic from Neil McCormick)</figcaption></figure> 
 
 He plays some video clips that offer old-fashioned solutions; the anti-playlist.
 
@@ -61,7 +61,7 @@ Here&#8217;s the second part of our exploration of the future of music listening
 
 ‘I wasn’t really connecting with music anymore’ says **James Thirkettle, creator of the music blog, [Just Press Play](http://justpressplay.podomatic.com/ "Just Press Play").** ‘I had 30,000 tunes in my iTunes which I was never going to listen to. We give something new about twenty seconds before we click on the next thing in the mad dash to know EVERYTHING”.<figure id="attachment_3706" style="width: 569px" class="wp-caption alignnone">
 
-<a href="http://www.insider-london.co.uk/blog/2013/01/04/london-future-music-trends/too-much-music/" rel="attachment wp-att-3706"><img class="size-full wp-image-3706" alt="Future of Music Listening, Trends, East London, Protein, Walking Tours" src="http://www.insider-london.co.uk/wp-content/uploads/2012/12/too-much-music.jpg" width="569" height="356" /></a><figcaption class="wp-caption-text">Aaaaaaaggggghhhh (pic from Neil McCormick)</figcaption></figure> 
+<a href="http://www.insider-london.co.uk/blog/2013/01/04/london-future-music-trends/too-much-music/" rel="attachment wp-att-3706"><img class="size-full wp-image-3706" alt="Future of Music Listening, Trends, East London, Protein, Walking Tours" src="/wp-content/uploads/2012/12/too-much-music.jpg" width="569" height="356" /></a><figcaption class="wp-caption-text">Aaaaaaaggggghhhh (pic from Neil McCormick)</figcaption></figure> 
 
 He plays some video clips that offer old-fashioned solutions; the anti-playlist.
 
@@ -77,7 +77,7 @@ Here&#8217;s the second part of our exploration of the future of music listening
 
 ‘I wasn’t really connecting with music anymore’ says **James Thirkettle, creator of the music blog, [Just Press Play](http://justpressplay.podomatic.com/ "Just Press Play").** ‘I had 30,000 tunes in my iTunes which I was never going to listen to. We give something new about twenty seconds before we click on the next thing in the mad dash to know EVERYTHING”.<figure id="attachment_3706" style="width: 569px" class="wp-caption alignnone">
 
-<a href="http://www.insider-london.co.uk/blog/2013/01/04/london-future-music-trends/too-much-music/" rel="attachment wp-att-3706"><img class="size-full wp-image-3706" alt="Future of Music Listening, Trends, East London, Protein, Walking Tours" src="http://www.insider-london.co.uk/wp-content/uploads/2012/12/too-much-music.jpg" width="569" height="356" /></a><figcaption class="wp-caption-text">Aaaaaaaggggghhhh (pic from Neil McCormick)</figcaption></figure> 
+<a href="http://www.insider-london.co.uk/blog/2013/01/04/london-future-music-trends/too-much-music/" rel="attachment wp-att-3706"><img class="size-full wp-image-3706" alt="Future of Music Listening, Trends, East London, Protein, Walking Tours" src="/wp-content/uploads/2012/12/too-much-music.jpg" width="569" height="356" /></a><figcaption class="wp-caption-text">Aaaaaaaggggghhhh (pic from Neil McCormick)</figcaption></figure> 
 
 He plays some video clips that offer old-fashioned solutions; the anti-playlist.
 
@@ -105,7 +105,7 @@ It’s all about collating. And trusting the collator.
 
 ‘Word of mouth will always be the way’ agrees Thirkettle.<figure id="attachment_3701" style="width: 569px" class="wp-caption alignnone">
 
-<a href="http://www.insider-london.co.uk/blog/2013/01/04/london-future-music-trends/word-of-mouth/" rel="attachment wp-att-3701"><img class="size-full wp-image-3701" alt="Future of Music Listening, trends, East London, Protein, Walking Tours" src="http://www.insider-london.co.uk/wp-content/uploads/2012/12/WORD-OF-MOUTH.jpg" width="569" height="385" /></a><figcaption class="wp-caption-text">Spread The Word! (pic from currentphotographer.com)</figcaption></figure> 
+<a href="http://www.insider-london.co.uk/blog/2013/01/04/london-future-music-trends/word-of-mouth/" rel="attachment wp-att-3701"><img class="size-full wp-image-3701" alt="Future of Music Listening, trends, East London, Protein, Walking Tours" src="/wp-content/uploads/2012/12/WORD-OF-MOUTH.jpg" width="569" height="385" /></a><figcaption class="wp-caption-text">Spread The Word! (pic from currentphotographer.com)</figcaption></figure> 
 
 **MAKING MONEY**
 

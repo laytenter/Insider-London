@@ -33,7 +33,7 @@ s4_cdes:
 - 
 ---
 
-[](http://www.insider-london.co.uk/wp-content/uploads/2014/07/P_KXC_K1_DEV_001_N711.jpg) [<img class="aligncenter wp-image-15703 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/07/P_KXC_K1_DEV_001_N71-e1406188693706.jpg" alt="Kings Cross Regeneration" width="569" height="379" />](http://www.insider-london.co.uk/wp-content/uploads/2014/07/P_KXC_K1_DEV_001_N71.jpg)
+[](/wp-content/uploads/2014/07/P_KXC_K1_DEV_001_N711.jpg) [<img class="aligncenter wp-image-15703 size-full" src="/wp-content/uploads/2014/07/P_KXC_K1_DEV_001_N71-e1406188693706.jpg" alt="Kings Cross Regeneration" width="569" height="379" />](/wp-content/uploads/2014/07/P_KXC_K1_DEV_001_N71.jpg)
 
 <p style="text-align: center;">
   <em><a href="http://www.houseofillustration.org.uk/" target="_blank">House of Illustration</a>: Once a hub for trains, now a hub for illustration!  Image Credit: John Sturrock</em>
@@ -46,7 +46,7 @@ It is somewhat ironic that the ‘House’ of Illustration has had a fairly noma
 House of Illustration was established in 2002. The original idea came from a group of illustrators, including Quentin Blake. Quentin has a remarkable archive that spans his whole career, from his first published illustration (produced when he was just sixteen) to his current work.  It includes published work, rough artwork, correspondence and personal projects. It was thought by Quentin and his contemporaries that this work needed a home, somewhere it could be enjoyed by the public.One thought led to another, and eventually the idea for House of Illustration emerged; it would be a place that celebrated the work of lots of illustrators, both historic and contemporary. There are a small number of fantastic public spaces dedicated to illustration in the world, often to individuals or particular fields, such as picture books and cartoons.  House of Illustration aims to represent the full breadth of the discipline through our changing exhibitions, events and workshops.
 
 <p style="text-align: center;">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/07/family-workshop.jpg"><img class="alignnone wp-image-15706 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/07/family-workshop-e1406188872493.jpg" alt="London Illustration class" width="569" height="427" /></a>
+  <a href="/wp-content/uploads/2014/07/family-workshop.jpg"><img class="alignnone wp-image-15706 size-full" src="/wp-content/uploads/2014/07/family-workshop-e1406188872493.jpg" alt="London Illustration class" width="569" height="427" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -62,7 +62,7 @@ The redevelopment of Kings Cross is an ambitious project.  The area is now home
 Opening a new public building represents many challenges!  But what we have found is that there has been a real appetite for an institution that celebrates illustration, and many people have been really generous in helping us to overcome them to open our doors.
 
 <p style="text-align: center;">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/07/HseOfIllustrationLaunch028.jpg"><img class="alignnone wp-image-15705" src="http://www.insider-london.co.uk/wp-content/uploads/2014/07/HseOfIllustrationLaunch028-300x199.jpg" alt="London Illustration exhibition" width="569" height="379" /></a>
+  <a href="/wp-content/uploads/2014/07/HseOfIllustrationLaunch028.jpg"><img class="alignnone wp-image-15705" src="/wp-content/uploads/2014/07/HseOfIllustrationLaunch028-300x199.jpg" alt="London Illustration exhibition" width="569" height="379" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -76,7 +76,7 @@ Opening a new public building represents many challenges!  But what we have fou
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/07/InsideStories.jpg"><img class="alignnone wp-image-15812 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/07/InsideStories-e1406302158399.jpg" alt="London Illustration" width="569" height="358" /></a>
+  <a href="/wp-content/uploads/2014/07/InsideStories.jpg"><img class="alignnone wp-image-15812 size-full" src="/wp-content/uploads/2014/07/InsideStories-e1406302158399.jpg" alt="London Illustration" width="569" height="358" /></a>
 </p>
 
 <p style="text-align: center;">

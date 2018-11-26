@@ -38,7 +38,7 @@ s4_cdes:
 
 **London has really got on board with the potential for container architecture &#8211; that is, creating new structures from disused shipping containers. We explore the many ways they have been put to use around the capital&#8230;**
 
-<img class="aligncenter wp-image-24790 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/Shipping-containers_mini.jpg" alt="shipping containers alternative London" width="569" height="367" />
+<img class="aligncenter wp-image-24790 size-full" src="/wp-content/uploads/2015/02/Shipping-containers_mini.jpg" alt="shipping containers alternative London" width="569" height="367" />
 
 <p style="text-align: center;">
   <em>Image credit: <a href="http://www.flickr.com/photos/91657289@N02/10218392744" target="_blank">blake.thornberry</a></em>
@@ -52,7 +52,7 @@ They&#8217;ve certainly been embraced by Londoners: they&#8217;re becoming a cen
 
 CONTAINER SHOPPING
 
-<img class="aligncenter wp-image-24789 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/boxpark-shoreditch_mini.jpg" alt="boxpark shoreditch shipping container shops" width="569" height="427" />
+<img class="aligncenter wp-image-24789 size-full" src="/wp-content/uploads/2015/02/boxpark-shoreditch_mini.jpg" alt="boxpark shoreditch shipping container shops" width="569" height="427" />
 
 <p style="text-align: center;">
   <em>Image credit: <a href="http://www.flickr.com/photos/la-citta-vita/12619925985" target="_blank">La Citta Vita</a></em>
@@ -64,7 +64,7 @@ The flexibility of the format was also embraced for Watford&#8217;s new market, 
 
 CONTAINER WORKSPACES
 
-<img class="aligncenter wp-image-24793 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/containerville-estate-office.jpg" alt="container offices " width="569" height="379" />
+<img class="aligncenter wp-image-24793 size-full" src="/wp-content/uploads/2015/02/containerville-estate-office.jpg" alt="container offices " width="569" height="379" />
 
 <p style="text-align: center;">
   <em>Image credit:<a href="http://estateoffice.com/containerville/" target="_blank"> The Estate Office Shoreditch</a></em>
@@ -78,7 +78,7 @@ Nearby, <a href="http://www.theartworks-uk.com/" target="_blank">Artworks</a> in
 
 CONTAINER HOMES
 
-<img class="aligncenter wp-image-24791 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/Container-City-Trinity-Buoy-Wharf_mini.jpg" alt="Container city Trinity Buoy Wharf London" width="569" height="380" />
+<img class="aligncenter wp-image-24791 size-full" src="/wp-content/uploads/2015/02/Container-City-Trinity-Buoy-Wharf_mini.jpg" alt="Container city Trinity Buoy Wharf London" width="569" height="380" />
 
 <p style="text-align: center;">
   <em>Image credit: <a href="https://www.flickr.com/photos/anton41/14803421212/in/photolist-pcCXhk-oy8pod-gyXWaf-9cNsJV-oVMvS-bZYDgq-dnjw4G-dpuWiJ-jV4u8a-8QvqVa-aRgbwB-89HFUi-6trBiw-8XrXFe-m13bak-bSWh8M-3c7y4a-hD99sZ-oaTZAy-dfT5gf" target="_blank">Antony***</a></em>
@@ -90,7 +90,7 @@ Perhaps unsurprisingly in a city such as London where the availability of afford
 
 CONTAINER EDUCATION
 
-<img class="aligncenter wp-image-24795 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/Shipping-container-Olympic_mini.jpg" alt="London Olympics shipping container" width="569" height="380" />
+<img class="aligncenter wp-image-24795 size-full" src="/wp-content/uploads/2015/02/Shipping-container-Olympic_mini.jpg" alt="London Olympics shipping container" width="569" height="380" />
 
 <p style="text-align: center;">
   <em>Image credit: <a href="https://www.flickr.com/photos/thelastminute/7711909294/in/photolist-cKtxXm-5gF62V-c7m6A-cQRRhL-cNe3US-cUSWmf-jXKE5a-cynTXf-5gffhn-7EaAKj-5gjzGW-e3gWfb-cUjdSm-cUjdjb-9pkuhe-9Gv65-4HiB6W-2n8pP-cQwEzy-cBXjiN-cwtPwY-cwtMod-cMUPKf-cQRSo1-5aZAQC-cQRTxW-cwtKbw-cwtLnN-queKc2-4Ni3La-5czY2R-5XaQaa-7DaoG7-cFi9rf-cFi9ky-92NWf4-5eEBTg-cPek7W-5frZwW-7zbsXS-7DqAu9-cwtNuN-a4nmW-a4nne-5iGDVY-5hiJEm-cKSHms-cEM9PE-oj9tem-7D26k3" target="_blank">Duncan Rawlinson</a></em>
@@ -106,7 +106,7 @@ Perhaps not as immediately obvious as some of the other projects, but Travelodge
 
 CONTAINER ENTERTAINMENT
 
-<img class="aligncenter wp-image-24792 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/Wahaca-shipping-containers-southbank-London_mini.jpg" alt="shipping container restaurant alternative London" width="569" height="379" />
+<img class="aligncenter wp-image-24792 size-full" src="/wp-content/uploads/2015/02/Wahaca-shipping-containers-southbank-London_mini.jpg" alt="shipping container restaurant alternative London" width="569" height="379" />
 
 <p style="text-align: center;">
   <em>Image credit: <a href="https://www.flickr.com/photos/simotronics/14599462735/in/photolist-of74CK-dUKhWK-eGupB1-nBfGZq-eGoj62-pMGDC4-eGoiBM-ddgqep-ddgqiT-eGoi4p-eGoicB-dWETbT-eGuqPj-eGohVM-dKuNRU-eGohBD-eGupnu-eGojyp-eGojiZ-eGupQJ-eGuqfY-ddgC4n-cWcnvW-dbvx4q-dbvvmK-eGushf-oZB8LC-dgL6pC-cDkns9-cYLJ1E" target="_blank">Simon Gibson</a></em>

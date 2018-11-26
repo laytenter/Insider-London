@@ -26,7 +26,7 @@ s4_cdes:
 - 
 ---
 
-<img class="aligncenter wp-image-24456 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/walkie-talkie_mini.jpg" alt="20 Fenchurch Street Walkie Talkie" width="569" height="461" />
+<img class="aligncenter wp-image-24456 size-full" src="/wp-content/uploads/2015/01/walkie-talkie_mini.jpg" alt="20 Fenchurch Street Walkie Talkie" width="569" height="461" />
 
 <p style="text-align: center;">
   <em>Image credit: <a href="https://www.flickr.com/photos/locosteve/15490495484/in/photolist-pAQQCm-jbtak1-hmdz9u-oGvXWJ-eh2Ai2-euSBBr-fEST2K-pvum6u-p2BtV3-jnfXm9-k3GKMZ-osxssN-pUeJp8-qeg111-p3Qtig-jczA87-ovhQyM-odMU6W-odNbsT-ov1xoc-ddjLFi-pBkP7s-pSx5tf-oahAag-eiF3U3-oVBnNQ-pSwXaN-oVErTM-pSx3FY-fELZXX-fKwu7f-q8zvtm-iSRrGx-fHb84p-j55xua-pR2dpZ-jXeMSX-fhXSM6-e7mosW-pbDXT9-nYTt9y-ps8UxG-qaehUg-og5ub6-e9ZDzb-ognQEH-pj58vh-nzTtYD-oU6ohj-cGfweA" target="_blank">Loco Steve</a></em>
@@ -36,7 +36,7 @@ It’s been dominating London’s skyline for a while now but &#8211; finally &#
 
 Billing itself as “London’s highest public park”, the garden taking up the top three floors of the Rafael Viñoly-designed building, was a key factor in securing planning permission and, understandably, this opening has been highly anticipated &#8211; after all, who wouldn’t want to enjoy those views? But it also attracted criticism because of the serious energy needed to maintain a garden at that height.
 
-<img class="aligncenter wp-image-24455 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/sky-garden.jpg" alt="sky garden walkie talkie london" width="569" height="339" />
+<img class="aligncenter wp-image-24455 size-full" src="/wp-content/uploads/2015/01/sky-garden.jpg" alt="sky garden walkie talkie london" width="569" height="339" />
 
 <p style="text-align: center;">
   <em>Image credit: <a href="http://skygarden.london/sky-garden" target="_blank">Sky Garden</a></em>
@@ -46,7 +46,7 @@ Now that the garden has welcomed its first visitors, the verdicts are in … and
 
 Its definition of “public park” is also fairly questionable &#8211; visits have to be booked in advance and you’re limited to 1.5 hour slots. Visitors are also subject to airport style screening, including the restrictions on liquids (and therefore defying our usual park habit of turning up to a picnic pre-armed with booze). Oh, and unless you are frequenting one of their restaurants or bars, you get booted out by 6pm.
 
-<img class="aligncenter wp-image-24457 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/sky-garden-20-Fenchurch-street.jpg" alt="20 Fenchurch Street Modern architecture London" width="569" height="399" />
+<img class="aligncenter wp-image-24457 size-full" src="/wp-content/uploads/2015/01/sky-garden-20-Fenchurch-street.jpg" alt="20 Fenchurch Street Modern architecture London" width="569" height="399" />
 
 <p style="text-align: center;">
   <em>Image credit: <a href="http://skygarden.london/sky-garden" target="_blank">Sky Garden</a></em>

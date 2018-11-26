@@ -27,7 +27,7 @@ s4_cdes:
 - 
 ---
 
-[<img class="size-full wp-image-18600 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/08/El-Mac-cowboy.jpg" alt="Street art walking tour cowboy " width="569" height="656" />](http://www.insider-london.co.uk/wp-content/uploads/2014/08/El-Mac-cowboy.jpg)
+[<img class="size-full wp-image-18600 aligncenter" src="/wp-content/uploads/2014/08/El-Mac-cowboy.jpg" alt="Street art walking tour cowboy " width="569" height="656" />](/wp-content/uploads/2014/08/El-Mac-cowboy.jpg)
   
 Howdy! Our street art picture this week is this rather handsome cowboy. London isn&#8217;t really known for its stetson-wearing cowboys, so perhaps it comes as no surprise that this one comes courtesy of an LA-based graffiti artist, El Mac. You can read more about <a href="http://elmac.net/" target="_blank">his work here</a>.
 

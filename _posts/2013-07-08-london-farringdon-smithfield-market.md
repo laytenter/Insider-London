@@ -18,7 +18,7 @@ layout: post
 guid: http://www.insider-london.co.uk/?p=1517
 ---
 
-## [<img class="aligncenter size-full wp-image-1519" alt="Smithfield" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/Smithfield-2.jpg" width="565" height="430" />](http://www.insider-london.co.uk/wp-content/uploads/2012/08/Smithfield-2.jpg)
+## [<img class="aligncenter size-full wp-image-1519" alt="Smithfield" src="/wp-content/uploads/2012/08/Smithfield-2.jpg" width="565" height="430" />](/wp-content/uploads/2012/08/Smithfield-2.jpg)
 
 <div>
   <p>
@@ -42,7 +42,7 @@ guid: http://www.insider-london.co.uk/?p=1517
   </p>
   
   <p style="text-align: center;">
-    <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/08/Fabric_Club_Farringdon_London.jpg"><img class="aligncenter  wp-image-1520" alt="Fabric Club Farringdon London" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/Fabric_Club_Farringdon_London.jpg" width="569" height="440" /></a>
+    <a href="/wp-content/uploads/2012/08/Fabric_Club_Farringdon_London.jpg"><img class="aligncenter  wp-image-1520" alt="Fabric Club Farringdon London" src="/wp-content/uploads/2012/08/Fabric_Club_Farringdon_London.jpg" width="569" height="440" /></a>
   </p>
   
   <p>
@@ -58,7 +58,7 @@ guid: http://www.insider-london.co.uk/?p=1517
   </p>
   
   <p style="text-align: center;">
-    <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/08/smithfield-1.jpg"><img class="aligncenter  wp-image-1521" alt="Smithfield Meat Market" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/smithfield-1.jpg" width="569" height="375" /></a>
+    <a href="/wp-content/uploads/2012/08/smithfield-1.jpg"><img class="aligncenter  wp-image-1521" alt="Smithfield Meat Market" src="/wp-content/uploads/2012/08/smithfield-1.jpg" width="569" height="375" /></a>
   </p>
   
   <p>

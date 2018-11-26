@@ -30,7 +30,7 @@ s4_cdes:
 
 You don&#8217;t need to jet off to the Amazon to get to grips with nature. We’ve found some brilliant ecology volunteering opportunities here in London, all within view of your nearest Pret A Manger.
 
-[<img class="aligncenter wp-image-15194 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/07/BeFunky_capital-cleanup.jpg_mini.jpg" alt="London volunteers" width="569" height="378" />](http://www.insider-london.co.uk/wp-content/uploads/2014/07/BeFunky_capital-cleanup.jpg_mini.jpg)
+[<img class="aligncenter wp-image-15194 size-full" src="/wp-content/uploads/2014/07/BeFunky_capital-cleanup.jpg_mini.jpg" alt="London volunteers" width="569" height="378" />](/wp-content/uploads/2014/07/BeFunky_capital-cleanup.jpg_mini.jpg)
 
 <p style="text-align: center;">
   <em>Image via <a title="London" href="http://london.gov.uk/" target="_blank">London.gov.uk</a></em>
@@ -42,7 +42,7 @@ Join in their summer scheme and you can take control of your project and choose 
 
 One such project is **<a title="London Volunteering" href="http://growwild.org.uk/" target="_blank">Grow Wild</a>,** a community gardening and cooking project in New Cross. This exciting new idea is offering workshops in everything from urban foraging and preserving to identifying and controlling weeds. Promoting innovative ways to engage the local community in the idea of home-growing, they’re on the lookout for field kitchen assistants, produce pickers and garden maintenance volunteers.
 
-[<img class="aligncenter wp-image-15195 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/07/BeFunky_grow-wild.jpg_mini.jpg" alt="London Gardening" width="569" height="427" />](http://www.insider-london.co.uk/wp-content/uploads/2014/07/BeFunky_grow-wild.jpg_mini.jpg)
+[<img class="aligncenter wp-image-15195 size-full" src="/wp-content/uploads/2014/07/BeFunky_grow-wild.jpg_mini.jpg" alt="London Gardening" width="569" height="427" />](/wp-content/uploads/2014/07/BeFunky_grow-wild.jpg_mini.jpg)
 
 <p style="text-align: center;">
   <em>Image via <a title="Grow Wild" href="http://growwild.org.uk/" target="_blank">growwild.org.uk</a></em>
@@ -58,7 +58,7 @@ The only charity dedicated to protecting the city’s wild spaces, they’ve jus
 
 Amongst their many volunteer opportunities there’s the chance to get involved in Camley Street Natural Park’s summer events. Aiming to get the local community involved in and excited about their local wildlife, they’ll be hosting a series of family days and evening events, and are looking for helpers keen to look after the land, spread understanding of conservation practices and keep an eye on the many species of critters and creepy crawlies.
 
-[<img class="aligncenter size-full wp-image-15196" src="http://www.insider-london.co.uk/wp-content/uploads/2014/07/BeFunky_moth.jpg_mini.jpg" alt="London Wildlife" width="569" height="369" />](http://www.insider-london.co.uk/wp-content/uploads/2014/07/BeFunky_moth.jpg_mini.jpg)
+[<img class="aligncenter size-full wp-image-15196" src="/wp-content/uploads/2014/07/BeFunky_moth.jpg_mini.jpg" alt="London Wildlife" width="569" height="369" />](/wp-content/uploads/2014/07/BeFunky_moth.jpg_mini.jpg)
 
 <p style="text-align: center;">
   <em>Image via <a title="London Wildlife" href="www.wildlifetrusts.org" target="_blank">wildlifetrusts.org</a></em>

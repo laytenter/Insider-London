@@ -18,7 +18,7 @@ guid: http://www.insider-london.co.uk/?p=15094
 ---
 
 <p style="text-align: center;">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/06/KERB-kings-cross-regeneration1.jpg"><img class="alignnone size-full wp-image-15098" src="http://www.insider-london.co.uk/wp-content/uploads/2014/06/KERB-kings-cross-regeneration1.jpg" alt="KERB kings cross regeneration" width="569" height="380" /></a>
+  <a href="/wp-content/uploads/2014/06/KERB-kings-cross-regeneration1.jpg"><img class="alignnone size-full wp-image-15098" src="/wp-content/uploads/2014/06/KERB-kings-cross-regeneration1.jpg" alt="KERB kings cross regeneration" width="569" height="380" /></a>
 </p>
 
 <a href="http://www.kerbfood.com/" target="_blank">KERB</a>&#8216;s slogan is &#8216;making cities taste better&#8217;, something we probably all can agree with! They&#8217;re a street food collective, well known for the fantastic and tasty events they put on around London, but also are a hub for the many strands of the mobile food world. They aim to create spaces where &#8216;new businesses can start, communities grow, flavours are found, fun is had and a general blessed release from the buttoned-down, set in stone-ness that keeps us from being more mobile, more of the time.&#8217; It&#8217;s exciting stuff. We spoke to <a href="http://www.kerbfood.com/about/who/" target="_blank">founder Petra Barran</a> to find out more.
@@ -27,13 +27,13 @@ guid: http://www.insider-london.co.uk/?p=15094
 
 I love being on the road. Being on the road is what I really love: doing my own thing and not being in the office, seeing different people and the changing sky. Although I am more office based now, equally it’s up to me what I do. But being on the road is what I really love, going to festivals, private parties &#8211; the sense of moving.
 
-[<img class="size-full wp-image-15099 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/06/kerb-canary-wharf.jpg" alt="kerb street food london" width="569" height="445" />](http://www.insider-london.co.uk/wp-content/uploads/2014/06/kerb-canary-wharf.jpg)
+[<img class="size-full wp-image-15099 aligncenter" src="/wp-content/uploads/2014/06/kerb-canary-wharf.jpg" alt="kerb street food london" width="569" height="445" />](/wp-content/uploads/2014/06/kerb-canary-wharf.jpg)
 
 **KERB is now in a number of different locations around the city, from King’s Cross to Canary Wharf. What different experiences do you get on each site?**
 
 Well, we try to go to places with a receptive customer base. The urban system of London is not set up to support the mobile: all space is accounted for, so we need to fit in spaces and try and operate between the lines. Some places are welcoming and free, and some spaces we just can’t go. We’re looking for a good place to express ourselves, so while it can be challenging and frustrating, it’s exciting to find an unexpected space to transform. We set up a market and stalls and music and suddenly it’s a very different space, attracting different people to an area, and that’s very exciting. But the politics, the spatial politics, can be frustrating. It’s all about who owns the right to the city.
 
-[<img class="size-full wp-image-15100 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/06/Kerb-Kings-cross-regeneration-street-food.jpg" alt="Kerb Kings cross regeneration street food" width="569" height="348" />](http://www.insider-london.co.uk/wp-content/uploads/2014/06/Kerb-Kings-cross-regeneration-street-food.jpg)
+[<img class="size-full wp-image-15100 aligncenter" src="/wp-content/uploads/2014/06/Kerb-Kings-cross-regeneration-street-food.jpg" alt="Kerb Kings cross regeneration street food" width="569" height="348" />](/wp-content/uploads/2014/06/Kerb-Kings-cross-regeneration-street-food.jpg)
 
 **We do a walking tour based around the <a href="http://www.insider-london.co.uk/kings-cross-innovation-tour/" target="_blank">regeneration of the King’s Cross area</a>. Tell us a little about KERB’s history in the area.**
 
@@ -44,7 +44,7 @@ We started in King’s Cross in October 2011 as eat.st, and it was basically us 
 You get to hear what’s happening with traders and collectives around the country and the world. I heard from a man who is setting up a new wave food market in Cyprus who told me that Kerb changed in his life, and I was talking to someone in Berlin who had also been inspired by what we do. I was myself inspired by the Street Vendor market in New York five years ago. It is a community.
 
 <p style="text-align: center;">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/06/KERB-burgers.jpg"><img class="alignnone size-full wp-image-15101" src="http://www.insider-london.co.uk/wp-content/uploads/2014/06/KERB-burgers.jpg" alt="kerb street food alternative london" width="569" height="379" /></a>
+  <a href="/wp-content/uploads/2014/06/KERB-burgers.jpg"><img class="alignnone size-full wp-image-15101" src="/wp-content/uploads/2014/06/KERB-burgers.jpg" alt="kerb street food alternative london" width="569" height="379" /></a>
 </p>
 
 **What do you see happening to these mobile retailers longer term?**

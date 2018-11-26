@@ -16,7 +16,7 @@ layout: post
 guid: http://www.insider-london.co.uk/?p=2518
 ---
 
-[<img class="alignnone size-full wp-image-2524" src="http://www.insider-london.co.uk/wp-content/uploads/2012/11/rain_room_barbican.jpg" alt="" width="569" height="379" />](http://www.insider-london.co.uk/wp-content/uploads/2012/11/rain_room_barbican.jpg)
+[<img class="alignnone size-full wp-image-2524" src="/wp-content/uploads/2012/11/rain_room_barbican.jpg" alt="" width="569" height="379" />](/wp-content/uploads/2012/11/rain_room_barbican.jpg)
 
 <p style="text-align: justify;">
   <strong>As you approach the end of the dark, sweeping corridor that is the <a href="http://www.barbican.org.uk/">Barbican</a>’s Curve space, you are greeted by a huge, one hundred square metre mass of falling water. Backlit by glaring spotlights, there is a sense of anticipation lingering in the damp air, as you’re enveloped by the noise of the thundering deluge.</strong>
@@ -31,7 +31,7 @@ guid: http://www.insider-london.co.uk/?p=2518
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/11/rain_room_barbican_london_art.jpg"><img class="alignnone size-full wp-image-2521" src="http://www.insider-london.co.uk/wp-content/uploads/2012/11/rain_room_barbican_london_art.jpg" alt="" width="569" height="320" /></a>
+  <a href="/wp-content/uploads/2012/11/rain_room_barbican_london_art.jpg"><img class="alignnone size-full wp-image-2521" src="/wp-content/uploads/2012/11/rain_room_barbican_london_art.jpg" alt="" width="569" height="320" /></a>
 </p>
 
 <p style="text-align: justify;">

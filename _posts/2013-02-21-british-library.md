@@ -15,13 +15,13 @@ guid: http://www.insider-london.co.uk/?p=4496
 
 Running from 1 – 5 March, this year’s Festival is a celebration of fashion, design and film. It has the Library’s collections at its heart, and you can see creative work &#8211; from short films to dresses &#8211; inspired by everything from Russian postcards to rainforest sound recordings
 
-<a href="http://www.insider-london.co.uk/blog/2013/02/21/british-library/blgate/" rel="attachment wp-att-4512"><img class="alignleft size-full wp-image-4512" title="BLgate" alt="" src="http://www.insider-london.co.uk/wp-content/uploads/2013/02/BLgate.jpg" width="569" height="381" /></a>
+<a href="http://www.insider-london.co.uk/blog/2013/02/21/british-library/blgate/" rel="attachment wp-att-4512"><img class="alignleft size-full wp-image-4512" title="BLgate" alt="" src="/wp-content/uploads/2013/02/BLgate.jpg" width="569" height="381" /></a>
 
 Highlights include a Fashion-themed LATE on 1 March, in partnership with the History of Fashion department at Central Saint Martins. Dylan Jones, (editor-in-chief of GQ Magazine) and fashion illustrator Tanya Ling will be speaking, and they&#8217;ll also be the chance to watch an exclusive ‘paper fashion show’ of specially commissioned designs by the Central Saint Martins Print Design students and leading designers such as Giles Deacon and Osman. I anticipate this will be overwhelmingly cool.
 
 You can even try out a new look in the styling area where you can get a make-over with Chantecaille, or for men, Pall Mall Barbers. And even more excitingly, you can get involved in live costume drawing, and dance to music by iconic British DJs Princess Julia and Jeffrey Hinton (that, in my opinion, is the future of libraries &#8211; dancing)
 
-<a href="http://www.insider-london.co.uk/blog/2013/02/21/british-library/spring-festival/" rel="attachment wp-att-4591"><img class="alignleft size-full wp-image-4591" title="Spring Festival" alt="" src="http://www.insider-london.co.uk/wp-content/uploads/2013/02/Spring-Festival.jpg" width="569" height="381" /></a>
+<a href="http://www.insider-london.co.uk/blog/2013/02/21/british-library/spring-festival/" rel="attachment wp-att-4591"><img class="alignleft size-full wp-image-4591" title="Spring Festival" alt="" src="/wp-content/uploads/2013/02/Spring-Festival.jpg" width="569" height="381" /></a>
 
 Also on 1 March, Cate Trotter of Insider London&#8217;s sister company Insider Trends (excuse the massive plug), will be looking at retail trends in fashion, focusing on the increasingly digital nature of fashion retail. It will include an overview of the trends that will shape the sector over the next few years.
 

@@ -19,7 +19,7 @@ My experience of cinemas before I moved to London wasn&#8217;t particularly insp
   </p>
   
   <p style="text-align: center;">
-    <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/08/ritzy-cinema-1911.jpg"><img class="aligncenter  wp-image-1491" alt="Electric Pavillion Insider London" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/ritzy-cinema-1911.jpg" width="569" height="420" /></a>
+    <a href="/wp-content/uploads/2012/08/ritzy-cinema-1911.jpg"><img class="aligncenter  wp-image-1491" alt="Electric Pavillion Insider London" src="/wp-content/uploads/2012/08/ritzy-cinema-1911.jpg" width="569" height="420" /></a>
   </p>
   
   <p>
@@ -30,7 +30,7 @@ My experience of cinemas before I moved to London wasn&#8217;t particularly insp
     Some of the rooms have been restored from their beautiful 1911 form, the year in which the original cinema was erected. It also features a cafe at the front of the building which adds a particular charm to coming here. In the summer there is nothing better than watching a film and then having a drink in the cafe outside and chatting about it, pretending, if you&#8217;re me, to know far more about cinema than you actually do.
   </p><figure id="attachment_1492" style="width: 569px" class="wp-caption aligncenter">
   
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/08/ritzy-now.jpg"><img class=" wp-image-1492" alt="Ritzy" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/ritzy-now.jpg" width="569" height="420" /></a><figcaption class="wp-caption-text">The cinema now. Amazing the difference that colour makes</figcaption></figure> 
+  <a href="/wp-content/uploads/2012/08/ritzy-now.jpg"><img class=" wp-image-1492" alt="Ritzy" src="/wp-content/uploads/2012/08/ritzy-now.jpg" width="569" height="420" /></a><figcaption class="wp-caption-text">The cinema now. Amazing the difference that colour makes</figcaption></figure> 
   
   <p>
     The Ritzy is a blend of old and new, and it gets the blend just right. There is something refreshing about being in a cinema where people don&#8217;t buy cups of cokes that are bigger than their own heads. Equally, it&#8217;s nice that to get that you don&#8217;t have to compromise by having to watch <em>Dunston Checks In</em> (although actually I would love to watch that on the big screen. For those that don&#8217;t know, it&#8217;s a film about a monkey hiding in a hotel. Writes itself doesn&#8217;t it?). The Ritzy is a fabulous cinema and I firmly encourage you to go there.

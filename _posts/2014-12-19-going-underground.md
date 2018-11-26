@@ -33,7 +33,7 @@ s4_url2s:
 
 <dl id="attachment_23601" class="wp-caption aligncenter" style="width: 579px;">
   <dt class="wp-caption-dt">
-    <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/12/Old_street_1-resized.jpg"><img class="size-full wp-image-23601" src="http://www.insider-london.co.uk/wp-content/uploads/2014/12/Old_street_1-resized.jpg" alt="Old Street Station C. Transport for London" width="569" height="360" /></a>
+    <a href="/wp-content/uploads/2014/12/Old_street_1-resized.jpg"><img class="size-full wp-image-23601" src="/wp-content/uploads/2014/12/Old_street_1-resized.jpg" alt="Old Street Station C. Transport for London" width="569" height="360" /></a>
   </dt>
   
   <dd class="wp-caption-dd">

@@ -29,7 +29,7 @@ s4_cdes:
 
 It’s award season – and not just for the film stars. The Sustainable Restaurant Association is hosting their annual awards on 23 February. With the shortlist announced, we’ve profiled their London picks.
 
-[<img class="aligncenter size-full wp-image-24682" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/BeFunky_sra.jpg_mini.jpg" alt="The Sustainable Restaurant Awards" width="569" height="290" />](http://www.insider-london.co.uk/wp-content/uploads/2015/02/BeFunky_sra.jpg_mini.jpg)
+[<img class="aligncenter size-full wp-image-24682" src="/wp-content/uploads/2015/02/BeFunky_sra.jpg_mini.jpg" alt="The Sustainable Restaurant Awards" width="569" height="290" />](/wp-content/uploads/2015/02/BeFunky_sra.jpg_mini.jpg)
 
 <p style="text-align: center;">
   <em>Image Credit: <a href="http://www.thesra.org/">SRA</a></em>
@@ -59,7 +59,7 @@ It’s award season – and not just for the film stars. The Sustainable Restaur
 
 **Why?:** As well as reducing fuel consumption with a view to becoming carbon neutral, reducing waste and maximising recycling, Bistrot Bruno Loubet works to raise green awareness in staff, guests and suppliers.
 
-[<img class="aligncenter size-full wp-image-24676" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/BeFunky_Bistrot.jpg_mini.jpg" alt="Bistrot Bruno Loubet" width="569" height="424" />](http://www.insider-london.co.uk/wp-content/uploads/2015/02/BeFunky_Bistrot.jpg_mini.jpg)
+[<img class="aligncenter size-full wp-image-24676" src="/wp-content/uploads/2015/02/BeFunky_Bistrot.jpg_mini.jpg" alt="Bistrot Bruno Loubet" width="569" height="424" />](/wp-content/uploads/2015/02/BeFunky_Bistrot.jpg_mini.jpg)
 
 <p style="text-align: center;">
   <em>Image Credit: <a href="http://www.bistrotbrunoloubet.com/">Bistrot Bruno Loubet </a></em>
@@ -91,7 +91,7 @@ It’s award season – and not just for the film stars. The Sustainable Restaur
 
 &nbsp;
 
-[<img class="aligncenter size-full wp-image-24678" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/BeFunky_drake.jpg_mini.jpg" alt="Drake & Morgan" width="569" height="433" />](http://www.insider-london.co.uk/wp-content/uploads/2015/02/BeFunky_drake.jpg_mini.jpg)
+[<img class="aligncenter size-full wp-image-24678" src="/wp-content/uploads/2015/02/BeFunky_drake.jpg_mini.jpg" alt="Drake & Morgan" width="569" height="433" />](/wp-content/uploads/2015/02/BeFunky_drake.jpg_mini.jpg)
 
 <p style="text-align: center;">
   <em>Image Credit: <a href="http://www.drakeandmorgan.co.uk/">Drake & Morgan</a></em>
@@ -123,7 +123,7 @@ It’s award season – and not just for the film stars. The Sustainable Restaur
 
 &nbsp;
 
-[<img class="aligncenter size-full wp-image-24677" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/BeFunky_ceviche.jpg_mini.jpg" alt="Ceviche" width="569" height="459" />](http://www.insider-london.co.uk/wp-content/uploads/2015/02/BeFunky_ceviche.jpg_mini.jpg)
+[<img class="aligncenter size-full wp-image-24677" src="/wp-content/uploads/2015/02/BeFunky_ceviche.jpg_mini.jpg" alt="Ceviche" width="569" height="459" />](/wp-content/uploads/2015/02/BeFunky_ceviche.jpg_mini.jpg)
 
 <p style="text-align: center;">
   <em>Image Credit: <a href="http://cevicheuk.com/">Ceviche</a></em>
@@ -155,7 +155,7 @@ It’s award season – and not just for the film stars. The Sustainable Restaur
 
 &nbsp;
 
-<img class="aligncenter size-full wp-image-24680" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/BeFunky_the-montpelier.jpg_mini.jpg" alt="The Montpelier" width="569" height="368" />
+<img class="aligncenter size-full wp-image-24680" src="/wp-content/uploads/2015/02/BeFunky_the-montpelier.jpg_mini.jpg" alt="The Montpelier" width="569" height="368" />
 
 <p style="text-align: center;">
   <em>Image Credit: <strong><a href="http://www.themontpelier.net/">The Montpelier</a></strong></em>
@@ -189,7 +189,7 @@ It’s award season – and not just for the film stars. The Sustainable Restaur
 
 &nbsp;
 
-[<img class="aligncenter size-full wp-image-24679" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/BeFunky_roebuck.jpg_mini.jpg" alt="The Roebuck" width="569" height="368" />](http://www.insider-london.co.uk/wp-content/uploads/2015/02/BeFunky_roebuck.jpg_mini.jpg)
+[<img class="aligncenter size-full wp-image-24679" src="/wp-content/uploads/2015/02/BeFunky_roebuck.jpg_mini.jpg" alt="The Roebuck" width="569" height="368" />](/wp-content/uploads/2015/02/BeFunky_roebuck.jpg_mini.jpg)
 
 <p style="text-align: center;">
   <em>Image Credit: <a href="http://www.theroebuck.net/">The Roebuck</a></em>

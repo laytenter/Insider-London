@@ -20,7 +20,7 @@ guid: http://www.insider-london.co.uk/?p=13788
 
 &nbsp;
 
-[<img class="alignnone size-medium wp-image-13790" alt="Tech City" src="http://www.insider-london.co.uk/wp-content/uploads/2014/02/Tech-City-300x223.jpg" width="300" height="223" />](http://www.insider-london.co.uk/wp-content/uploads/2014/02/Tech-City.jpg)
+[<img class="alignnone size-medium wp-image-13790" alt="Tech City" src="/wp-content/uploads/2014/02/Tech-City-300x223.jpg" width="300" height="223" />](/wp-content/uploads/2014/02/Tech-City.jpg)
 
 &nbsp;
 
@@ -46,7 +46,7 @@ In 2013, those 200 companies had risen to 1,300, and the area is fast becoming t
 
 &nbsp;
 
-[<img class="alignnone size-medium wp-image-13791" alt="Google Campus 8370531041_18fbd37cfc_z (1)" src="http://www.insider-london.co.uk/wp-content/uploads/2014/02/Google-Campus-8370531041_18fbd37cfc_z-1-300x300.jpg" width="300" height="300" />](http://www.insider-london.co.uk/wp-content/uploads/2014/02/Google-Campus-8370531041_18fbd37cfc_z-1.jpg)
+[<img class="alignnone size-medium wp-image-13791" alt="Google Campus 8370531041_18fbd37cfc_z (1)" src="/wp-content/uploads/2014/02/Google-Campus-8370531041_18fbd37cfc_z-1-300x300.jpg" width="300" height="300" />](/wp-content/uploads/2014/02/Google-Campus-8370531041_18fbd37cfc_z-1.jpg)
 
 &nbsp;
 

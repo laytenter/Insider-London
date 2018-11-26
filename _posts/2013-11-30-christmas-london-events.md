@@ -24,7 +24,7 @@ guid: http://www.insider-london.co.uk/?p=12084
   That’s where Insider London comes in. We’ve collected 25 exciting and unique things to do this holiday season. Don’t see your favourite pastime on the list? Why not leave a comment below and let us know where we’ve gone wrong!
 </p>
 
-<img class="size-full wp-image-12086" title="london-chirstmas-tree" alt="london-christmas-tree" src="http://www.insider-london.co.uk/wp-content/uploads/2013/11/tree.png" width="569" height="569" />
+<img class="size-full wp-image-12086" title="london-chirstmas-tree" alt="london-christmas-tree" src="/wp-content/uploads/2013/11/tree.png" width="569" height="569" />
 
 1. It may be cold and it could snow this Christmas, but that shouldn’t stop you from taking a little tour on the Thames. Especially when there’s food involved. [City Cruises](http://www.citycruises.com/city-cruises-experiences-special-events-christmas-day-cruise.aspx) will be running special boat tours and even a Christmas party on Christmas Day. Prices range from £15 &#8211; £115, depending on when you choose to sail the Thames.
 
@@ -45,7 +45,7 @@ guid: http://www.insider-london.co.uk/?p=12084
 9. [Hyde Park Winter Wonderland](http://www.hydeparkwinterwonderland.com/attractions) is an actual winter wonderland. Inside the park, you’ll find an ice rink, the Magical Ice Kingdom, and even a circus! The wonderland opened November 22nd and runs until January 5th, and starts each day at 10. What’s even more wonderful about the winter wonderland is that admission is free. Bring all of your little elf friends to visit Santa or take a trip on the giant observation wheel.
 
 <p style="text-align: center;">
-  <img class="size-full wp-image-12087  aligncenter" style="background-color: #f3f3f3; text-align: center;" title="lights" alt="london-christmas-ornaments-lights" src="http://www.insider-london.co.uk/wp-content/uploads/2013/11/lights.png" width="569" height="759" />
+  <img class="size-full wp-image-12087  aligncenter" style="background-color: #f3f3f3; text-align: center;" title="lights" alt="london-christmas-ornaments-lights" src="/wp-content/uploads/2013/11/lights.png" width="569" height="759" />
 </p>
 
 <span style="text-align: center;">10. Adapted from Raymond Briggs’ book, </span><a style="text-align: center;" href="http://www.lyric.co.uk/whats-on/production/raymond-briggs-father-christmas/">Father Christmas</a> will be at the Lyric Theatre throughout the Christmas period<span style="text-align: center;">. There is even the option to attend a Messy Play, which gives you the option to join in on arts and crafts after the show. Tickets range from £8 to £10 and it runs for about 50 minutes.</span>
@@ -62,7 +62,7 @@ guid: http://www.insider-london.co.uk/?p=12084
   That’s where Insider London comes in. We’ve collected 25 exciting and unique things to do this holiday season. Don’t see your favourite pastime on the list? Why not leave a comment below and let us know where we’ve gone wrong!
 </p>
 
-<img class="size-full wp-image-12086" title="london-chirstmas-tree" alt="london-christmas-tree" src="http://www.insider-london.co.uk/wp-content/uploads/2013/11/tree.png" width="569" height="569" />
+<img class="size-full wp-image-12086" title="london-chirstmas-tree" alt="london-christmas-tree" src="/wp-content/uploads/2013/11/tree.png" width="569" height="569" />
 
 1. It may be cold and it could snow this Christmas, but that shouldn’t stop you from taking a little tour on the Thames. Especially when there’s food involved. [City Cruises](http://www.citycruises.com/city-cruises-experiences-special-events-christmas-day-cruise.aspx) will be running special boat tours and even a Christmas party on Christmas Day. Prices range from £15 &#8211; £115, depending on when you choose to sail the Thames.
 
@@ -83,7 +83,7 @@ guid: http://www.insider-london.co.uk/?p=12084
 9. [Hyde Park Winter Wonderland](http://www.hydeparkwinterwonderland.com/attractions) is an actual winter wonderland. Inside the park, you’ll find an ice rink, the Magical Ice Kingdom, and even a circus! The wonderland opened November 22nd and runs until January 5th, and starts each day at 10. What’s even more wonderful about the winter wonderland is that admission is free. Bring all of your little elf friends to visit Santa or take a trip on the giant observation wheel.
 
 <p style="text-align: center;">
-  <img class="size-full wp-image-12087  aligncenter" style="background-color: #f3f3f3; text-align: center;" title="lights" alt="london-christmas-ornaments-lights" src="http://www.insider-london.co.uk/wp-content/uploads/2013/11/lights.png" width="569" height="759" />
+  <img class="size-full wp-image-12087  aligncenter" style="background-color: #f3f3f3; text-align: center;" title="lights" alt="london-christmas-ornaments-lights" src="/wp-content/uploads/2013/11/lights.png" width="569" height="759" />
 </p>
 
 <span style="text-align: center;">10. Adapted from Raymond Briggs’ book, </span><a style="text-align: center;" href="http://www.lyric.co.uk/whats-on/production/raymond-briggs-father-christmas/">Father Christmas</a> will be at the Lyric Theatre throughout the Christmas period<span style="text-align: center;">. There is even the option to attend a Messy Play, which gives you the option to join in on arts and crafts after the show. Tickets range from £8 to £10 and it runs for about 50 minutes.</span>
@@ -110,7 +110,7 @@ guid: http://www.insider-london.co.uk/?p=12084
   20. From 1979 to 1999, <a href="http://www.dennissevershouse.co.uk/">Dennis Severs</a>set about to turn his house into a “still-life drama” recreating what it might have been like for a family of Huguenot silk weavers. For an entire month (December 1st to January 3rd), the house will transformed for the holidays and guests will be allowed to wander through the house’s ten rooms and sit by a warming fire. The daytime visit lasts roughly 45 minute, while the Silent Night tours last an hour and a half.
 </p>
 
-<img class="size-full wp-image-12090" title="christmas" alt="" src="http://www.insider-london.co.uk/wp-content/uploads/2013/11/christmas.png" width="569" height="357" />
+<img class="size-full wp-image-12090" title="christmas" alt="" src="/wp-content/uploads/2013/11/christmas.png" width="569" height="357" />
 
 21. This year, the [Menorah in Trafalgar Square](http://www.london.gov.uk/get-involved/events/chanukah-2013) was lit by the Mayor of London on November 28th at 18:00. An additional candle will be lit each night following. “The event is London’s brightest lighting of the biggest Menorah in Europe, and will include a fantastic variety of live performances, appearances by ‘Dreidleman’, and the distribution of thousands of doughnuts and Chanukah gelt to attendees.”
 

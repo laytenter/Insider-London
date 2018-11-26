@@ -17,7 +17,7 @@ guid: http://www.insider-london.co.uk/?p=15016
 ---
 
 <p style="color: #4d4d4d; text-align: center;">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/06/Jimmy-C-Foundry.jpg"><img class="alignnone size-full wp-image-15018" src="http://www.insider-london.co.uk/wp-content/uploads/2014/06/Jimmy-C-Foundry.jpg" alt="Jimmy C street art walking tour london" width="569" height="759" /></a>
+  <a href="/wp-content/uploads/2014/06/Jimmy-C-Foundry.jpg"><img class="alignnone size-full wp-image-15018" src="/wp-content/uploads/2014/06/Jimmy-C-Foundry.jpg" alt="Jimmy C street art walking tour london" width="569" height="759" /></a>
 </p>
 
 <p style="color: #4d4d4d;">

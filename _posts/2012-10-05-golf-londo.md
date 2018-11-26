@@ -17,7 +17,7 @@ guid: http://www.insider-london.co.uk/?p=1412
 I&#8217;m one of those people that becomes interested in certain sports for about a 3 to 4 week period immediately after that particular sport&#8217;s most prestigious tournament has been on TV. Awful isn&#8217;t it? Yes it is. After Wimbledon I love tennis, after the Ashes I love cricket, and after the Olympics I love everything except sailing which quite simply is not a spectator sport. At the moment, having just watched Europe win the Ryder Cup, I love golf (patriotism is marvellously fickle isn&#8217;t it? English one minute, British the next, and now European. All that&#8217;s left is for earth to take on another planet is some sort of sporting tournament).
 
 <p style="text-align: center">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/10/ryder_cup.jpg"><img class="aligncenter  wp-image-1981" src="http://www.insider-london.co.uk/wp-content/uploads/2012/10/ryder_cup.jpg" alt="" width="569" height="350" /></a>
+  <a href="/wp-content/uploads/2012/10/ryder_cup.jpg"><img class="aligncenter  wp-image-1981" src="/wp-content/uploads/2012/10/ryder_cup.jpg" alt="" width="569" height="350" /></a>
 </p>
 
 <div>
@@ -37,7 +37,7 @@ I&#8217;m one of those people that becomes interested in certain sports for abou
     OK to make clear, there are two types of Urban golf. One is where people, within urban areas, place balls on small green mats and <a href="http://en.wikipedia.org/wiki/Urban_golf">aim for bins and derelict buildings</a>. This is a real, if ridiculous, thing, apparently enjoyed the world over. The Urban golf I&#8217;m referring to however, is a golf simulator. You can play at venues in Soho, Smithfield or Kensington. You do hit balls, into a screen, which then simulates where your ball will go according to your swing on a variety of famous courses. Each venue has a bar, and the whole thing is very relaxed and terrific fun. And most of all, as Urban Golf tell you, they are strictly &#8216;non-denimphobic&#8217;.
   </p><figure id="attachment_1982" style="width: 569px" class="wp-caption aligncenter">
   
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/10/ur.jpg"><img class=" wp-image-1982" src="http://www.insider-london.co.uk/wp-content/uploads/2012/10/ur.jpg" alt="" width="569" height="380" /></a><figcaption class="wp-caption-text">This is not me. My stance is much more slapstick. And my muscles are much more non-existent.</figcaption></figure> 
+  <a href="/wp-content/uploads/2012/10/ur.jpg"><img class=" wp-image-1982" src="/wp-content/uploads/2012/10/ur.jpg" alt="" width="569" height="380" /></a><figcaption class="wp-caption-text">This is not me. My stance is much more slapstick. And my muscles are much more non-existent.</figcaption></figure> 
   
   <p>
     <strong><a href="http://www.clgc.co.uk/">Central London Golf Centre, Wandsworth</a></strong>

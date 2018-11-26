@@ -26,7 +26,7 @@ s4_cdes:
 
 &nbsp;
 
-<img class="aligncenter wp-image-24778 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/Chinese-New-Year.jpg" alt="Chinese New Year" width="569" height="373" />
+<img class="aligncenter wp-image-24778 size-full" src="/wp-content/uploads/2015/02/Chinese-New-Year.jpg" alt="Chinese New Year" width="569" height="373" />
 
 <p style="text-align: center;">
   <em>Image credit: <a href="https://www.flickr.com/photos/lewishamdreamer/99520112/in/photolist-9N4S1-bhqwF2-bhqwXx-bhqy6B-bhqyoR-bhqxRz-bhqxwX-bhqyZZ-bhqxgZ-bhqyGB-9hfps3-5WK3Eu-4Euxvr-covTJ-9hfprY-9hc6QR-9hc6PR-9hc6Qz-9hfps5-9hfprL-9hfps9-9hfjV5-9hfjUY-9hfjUN-9hfjUQ-9hc6QD-9hc6Px-9hc6PF-9hfprU-9hfjUS-jGW2gj-4qN1f3-4rCukE-5X9fUV-4rCu9f-4rCo9A-jGUz8i-4rCrXJ-xkN5m-4rykaa-4rCtim-2ktJU-4ryirc-D974p-4reyFM-7EK3uq-bq3rHZ-7EK21E-7EK5D3-4rCvuh" target="_blank">Jason</a></em>

@@ -27,7 +27,7 @@ s4_url2s:
 ---
 
 <p style="text-align: center;">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/07/London-walking-tour-book-bench.jpg"><img class="alignnone size-full wp-image-15116" src="http://www.insider-london.co.uk/wp-content/uploads/2014/07/London-walking-tour-book-bench.jpg" alt="London walking tour book bench" width="569" height="436" /></a>
+  <a href="/wp-content/uploads/2014/07/London-walking-tour-book-bench.jpg"><img class="alignnone size-full wp-image-15116" src="/wp-content/uploads/2014/07/London-walking-tour-book-bench.jpg" alt="London walking tour book bench" width="569" height="436" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -37,7 +37,7 @@ s4_url2s:
 Plans for the weekend yet? Well, aside from going on one of <a href="http://www.insider-london.co.uk/" target="_blank">our excellent London walking tours</a>, you could check out the results of [Books About Town](http://www.booksabouttown.org.uk/) project.
 
 <p style="text-align: center;">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/07/jungle-book.jpg"><img class="alignnone size-full wp-image-15117" src="http://www.insider-london.co.uk/wp-content/uploads/2014/07/jungle-book.jpg" alt="book art walking tour London" width="569" height="427" /></a>
+  <a href="/wp-content/uploads/2014/07/jungle-book.jpg"><img class="alignnone size-full wp-image-15117" src="/wp-content/uploads/2014/07/jungle-book.jpg" alt="book art walking tour London" width="569" height="427" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -46,7 +46,7 @@ Plans for the weekend yet? Well, aside from going on one of <a href="http://www.
 
 We wrote about [Books About Town](http://www.insider-london.co.uk/2013/12/10/london-benches-books/) back in December, a project to turn install book-shaped benches throughout London. The benches launched earlier this week, with 50 different designs by artists and writers to be discovered all around the capital. The books all have a link to London, from Mary Poppins to Bridget Jones, Peter Pan to Mrs Dalloway, meaning there should be a bench for most literary persuasions.
 
-[<img class="size-full wp-image-15118 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/07/railway-children.jpg" alt="Railway children book street art tour" width="569" height="427" />](http://www.insider-london.co.uk/wp-content/uploads/2014/07/railway-children.jpg)
+[<img class="size-full wp-image-15118 aligncenter" src="/wp-content/uploads/2014/07/railway-children.jpg" alt="Railway children book street art tour" width="569" height="427" />](/wp-content/uploads/2014/07/railway-children.jpg)
 
 <p style="text-align: center;">
   <em>The Railway Children. Bench created by One Red Shoe.</em>
@@ -56,7 +56,7 @@ There are [four different trails](http://www.booksabouttown.org.uk/?action=ListT
 
 All the benches will be auctioned on the 7 October, with profits going to the National Literary Trust.
 
-[<img class="size-full wp-image-15119 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/07/Canterbury-Tales.jpg" alt="Canterbury Tales book bench walking tour" width="569" height="427" />](http://www.insider-london.co.uk/wp-content/uploads/2014/07/Canterbury-Tales.jpg)
+[<img class="size-full wp-image-15119 aligncenter" src="/wp-content/uploads/2014/07/Canterbury-Tales.jpg" alt="Canterbury Tales book bench walking tour" width="569" height="427" />](/wp-content/uploads/2014/07/Canterbury-Tales.jpg)
 
 <p style="text-align: center;">
   <em>The Canterbury Tales. Bench created by Beth Quinton.</em>

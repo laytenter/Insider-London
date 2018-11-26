@@ -33,12 +33,12 @@ s4_url2s:
 ---
 
 <p style="text-align: center;">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/08/Sweet-Toof-barge.jpg"><img class="size-full wp-image-18526 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/08/Sweet-Toof-barge.jpg" alt="Sweet Toof London barge" width="569" height="776" /></a><em>Image courtesy of Andy Winter </em>
+  <a href="/wp-content/uploads/2014/08/Sweet-Toof-barge.jpg"><img class="size-full wp-image-18526 aligncenter" src="/wp-content/uploads/2014/08/Sweet-Toof-barge.jpg" alt="Sweet Toof London barge" width="569" height="776" /></a><em>Image courtesy of Andy Winter </em>
 </p>
 
 We&#8217;ve actually veered off the streets slightly for our street art picture this week. This image comes to us courtesy of Andy Winter, via our <a href="https://www.facebook.com/insiderlondon" target="_blank">facebook page</a>, who had the honour of getting his boat graffitied by two of London&#8217;s top artists: Sweet Toof and Paul Insect. The photo is taken at Old Ford Lock on the Regent&#8217;s Canal (<a href="http://www.insider-london.co.uk/2014/08/26/the-regents-canal-in-kings-cross-past-present-and-future/" target="_blank">where we took a walk last week</a>).
 
-[<img class="aligncenter wp-image-20950 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/08/BB-ST-Progress-shot-14.jpg" alt="Sweet Toof Bespoke Barware collaboration alternative London" width="569" height="425" />](http://www.insider-london.co.uk/wp-content/uploads/2014/08/BB-ST-Progress-shot-14.jpg)
+[<img class="aligncenter wp-image-20950 size-full" src="/wp-content/uploads/2014/08/BB-ST-Progress-shot-14.jpg" alt="Sweet Toof Bespoke Barware collaboration alternative London" width="569" height="425" />](/wp-content/uploads/2014/08/BB-ST-Progress-shot-14.jpg)
 
 <p style="text-align: center;">
   <em>Image courtesy of <a href="http://www.bespokebarware.com/" target="_blank">Bespoke Barware</a></em>

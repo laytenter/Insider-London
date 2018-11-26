@@ -26,7 +26,7 @@ s4_cdes:
 - 
 ---
 
-[<img class="aligncenter wp-image-23484 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/11/A44O0966-3673865891-O.jpg" alt="Paddington in Green Park" width="569" height="320" />](http://www.insider-london.co.uk/wp-content/uploads/2014/11/A44O0966-3673865891-O.jpg)
+[<img class="aligncenter wp-image-23484 size-full" src="/wp-content/uploads/2014/11/A44O0966-3673865891-O.jpg" alt="Paddington in Green Park" width="569" height="320" />](/wp-content/uploads/2014/11/A44O0966-3673865891-O.jpg)
 
 <p style="text-align: center;">
   <em>Paddington in Green Park</em>

@@ -37,7 +37,7 @@ s4_cdes:
 - 
 ---
 
-<img class="aligncenter size-full wp-image-24623" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/9731562839_c6cc9a63ff_z.jpg" alt="London modern architecture" width="569" height="739" />
+<img class="aligncenter size-full wp-image-24623" src="/wp-content/uploads/2015/01/9731562839_c6cc9a63ff_z.jpg" alt="London modern architecture" width="569" height="739" />
 
 <p style="text-align: center">
   <em>The Gherkin In All Its Glory. Image Credit: <a href="https://www.flickr.com/photos/duncanh1/9731562839/in/photolist-fPWNAc-7y1L1A-7QXQKv-8ieFGU-ckjYHs-bKX6E6-6t7csB-kr4Y9-buJk9m-6g7H3r-6tboRq-6AA5eR-aoMWBX-9MPdTJ-6o4rBK-u5fk1-5Xecw8-6Jjy8-p3MJDj-9xthha-28kzc-38z3kb-yF84B-56kpsm-9rVhk6-oiHNsW-Np128-n6kSc-9kSXS-9rY8fW-8AoLSx-9Samat-n6kSe-74PJLb-n6jzd-n6kSn-6d9n4-6d9n7-3QqEYZ-n6jzc-gbqrWK-6AAeuP-n6hxY-n6hxS-9rY55Q-ivLVN7-n6AXD-n6hy5-n6hy3-n6voy">Duncan</a></em>
@@ -49,7 +49,7 @@ s4_cdes:
 
 **1. Lift Off!**
 
-<img class="aligncenter size-full wp-image-24622" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/238739584_cef9ec953b_z.jpg" alt="London Modern Architecture" width="569" height="427" />
+<img class="aligncenter size-full wp-image-24622" src="/wp-content/uploads/2015/01/238739584_cef9ec953b_z.jpg" alt="London Modern Architecture" width="569" height="427" />
 
 <p style="text-align: center">
   <em>6 metres per second to get up here. Image Credit: <a href="https://www.flickr.com/photos/dgeezer/238739584/in/photolist-n6AXJ-FxZp-6Rk725-n6jza-9yZcVS-B5qRU-d8SBWW-4Wx6aR-6keak-4mqc-fPWNAc-7y1L1A-7QXQKv-8ieFGU-ckjYHs-bKX6E6-6t7csB-kr4Y9-buJk9m-6g7H3r-6tboRq-6AA5eR-aoMWBX-9MPdTJ-6o4rBK-u5fk1-5Xecw8-6Jjy8-p3MJDj-9xthha-28kzc-38z3kb-yF84B-56kpsm-9rVhk6-oiHNsW-Np128-n6kSc-9kSXS-9rY8fW-8AoLSx-9Samat-n6kSe-74PJLb-n6jzd-n6kSn-6d9n4-6d9n7-3QqEYZ-n6jzc">Diamond Geezer</a></em>
@@ -61,7 +61,7 @@ Its high powered lifts are capable of transporting 378 people at a time, at spee
 
 **2.** **Manhattans All Round**
 
-<img class="aligncenter size-full wp-image-24621" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/238684445_b2a351d82e_z.jpg" alt="London Modern Architecture" width="569" height="427" />
+<img class="aligncenter size-full wp-image-24621" src="/wp-content/uploads/2015/01/238684445_b2a351d82e_z.jpg" alt="London Modern Architecture" width="569" height="427" />
 
 <p style="text-align: center">
   <em>Top of the World. Image Credit: <a href="https://www.flickr.com/photos/dgeezer/238684445/in/photolist-n6jz4-7qYtWm-3K5cRC-6pRjbD-3LuuYc-3ihwYo-bWMy8N-8Tyef6-snrnZ-4SM4Xz-n6mj4-n6mj5-38z37b-oPV2w6-n6AXG-8DeNZ-oqWkPz-ifT2u6-bjCiuz-nh4WYd-n6hy1-pKcnnG-6rtvaw-nMJioF-pCfemc-n6kSq-oGp4DT-9xvDrS-n6DSR-n6kSp-n6jz8-8MvDpz-dDrD5F-7G45Eu-8Gxyyk-ovySjf-7krG8g-nAS2BU-8YyEF-4WjkBC-5XiqLQ-KSGmv-cxFCWQ-4Wx6fM-8Kaqft-2rUJDc-8Wi25r-2VsVi-8MjeDD-n6hxV">Diamond Geezer</a></em>
@@ -73,7 +73,7 @@ One of London’s highest lounge bar and restaurant is situated at the top of th
 
 **3. In a Premier League Of Its Own**
 
-<img class="aligncenter size-full wp-image-24620" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/8198198122_a187af540d_z.jpg" alt="London Modern Architecture" width="569" height="380" />
+<img class="aligncenter size-full wp-image-24620" src="/wp-content/uploads/2015/01/8198198122_a187af540d_z.jpg" alt="London Modern Architecture" width="569" height="380" />
 
 <p style="text-align: center">
   <em>Five Football Pitches worth of glass. Image Credit: <a href="https://www.flickr.com/photos/simon__syon/8198198122/in/photolist-durUFu-g56Wme-n6jz4-7qYtWm-3K5cRC-6pRjbD-3LuuYc-3ihwYo-bWMy8N-8Tyef6-snrnZ-4SM4Xz-n6mj4-n6mj5-38z37b-oPV2w6-n6AXG-8DeNZ-oqWkPz-ifT2u6-bjCiuz-nh4WYd-n6hy1-pKcnnG-6rtvaw-nMJioF-pCfemc-n6kSq-oGp4DT-9xvDrS-n6DSR-n6kSp-n6jz8-8MvDpz-dDrD5F-7G45Eu-8Gxyyk-ovySjf-7krG8g-nAS2BU-8YyEF-4WjkBC-5XiqLQ-KSGmv-cxFCWQ-4Wx6fM-8Kaqft-2rUJDc-8Wi25r-2VsVi">Simon & His Camer</a>a</em>
@@ -85,7 +85,7 @@ The Gherkin is covered by 24,000 sq metres of external glass or the equivalent 
 
 **4. Taking On The Mountains**
 
-<img class="aligncenter size-full wp-image-24618" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/15030109379_2de05e9c82_z.jpg" alt="London Modern Architecture" width="569" height="379" />
+<img class="aligncenter size-full wp-image-24618" src="/wp-content/uploads/2015/01/15030109379_2de05e9c82_z.jpg" alt="London Modern Architecture" width="569" height="379" />
 
 <p style="text-align: center">
   <em>Don&#8217;t Look Down. Image Credit: <a href="https://www.flickr.com/photos/londonmatt/15030109379/in/photolist-oUaeST-5mJp1G-ftfgFK-ar6dFe-6TXSbE-8inBoj-4tp9KB-dbsYDG-8LbLCd-fyis5n-a6Y2Hp-37zbWF-3enwk7-fyEZd-puMmmw-5a6wgj-tDkDs-iEqQ4-4jV3Bp-4qcpBW-9expU1-8rUn9U-9ecqUg-8rUjzj-45BSvy-2F5Gq-9yKjTB-8itoSi-g3Mx-g3Mt-g3Mp-g3Mk-6FwWPH-8iwABh-qaASTE-4SEG5A-dXJwEP-586wPT-fANhTA-4q83FF-67X7v2-6d9n3-52nRd-6KKk4B-3dzyHN-8rUkAW-9xsBeg-onu47m-4qceBW-oGot">Matt Brown</a></em>
@@ -97,7 +97,7 @@ The Gherkin is over three times the height of Niagara Falls. Water feat!
 
 **5. Wide Load**
 
-<img class="aligncenter size-full wp-image-24617" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/15127762148_1d480ae231_z.jpg" alt="London Modern Architecture" width="569" height="379" />
+<img class="aligncenter size-full wp-image-24617" src="/wp-content/uploads/2015/01/15127762148_1d480ae231_z.jpg" alt="London Modern Architecture" width="569" height="379" />
 
 <p style="text-align: center">
   <em>180! Image Credit: <a href="https://www.flickr.com/photos/dgeezer/15127762148/in/photolist-p3MJDj-9xthha-28kzc-38z3kb-yF84B-56kpsm-9rVhk6-oiHNsW-Np128-n6kSc-9kSXS-9rY8fW-8AoLSx-9Samat-n6kSe-74PJLb-n6jzd-n6kSn-6d9n4-6d9n7-3QqEYZ-n6jzc-gbqrWK-6AAeuP-n6hxY-n6hxS-9rY55Q-ivLVN7-n6AXD-n6hy5-n6hy3-n6voy-93j39g-cSkfNb-n6AXH-e9HSDp-3gJoL-5MQZyB-aj4Apj-6AEhcQ-5izZvC-5nRFuT-3MNv-aakp4q-4tsy48-511hx-84YQuv-8g1HbX-9rY3nw-9rV3L4">Diamond Geezer</a></em>
@@ -109,7 +109,7 @@ The largest circumference of the Gherkin is only two metres less than the buildi
 
 **6.** **Loose Fittings**
 
-<img class="aligncenter size-full wp-image-24608" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/Bandstand_The_Gherkin_HuftonCrow_001.jpg" alt="London Modern Architecture" width="569" height="379" />
+<img class="aligncenter size-full wp-image-24608" src="/wp-content/uploads/2015/01/Bandstand_The_Gherkin_HuftonCrow_001.jpg" alt="London Modern Architecture" width="569" height="379" />
 
 <p style="text-align: center">
   <em>It&#8217;s a Long Way Down. Image Credit: <a href="http://www.huftonandcrow.com/projects/gallery/the-gherkin/">Hufton and Crow</a></em>
@@ -121,7 +121,7 @@ In April 2005 a large window popped out of the skyscraper and fell 28 storeys to
 
 **7. All About That Base**
 
-<img class="aligncenter size-full wp-image-24615" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/2109509395_f10eb121fe_z.jpg" alt="London Modern Architecture" width="569" height="427" />
+<img class="aligncenter size-full wp-image-24615" src="/wp-content/uploads/2015/01/2109509395_f10eb121fe_z.jpg" alt="London Modern Architecture" width="569" height="427" />
 
 <p style="text-align: center">
   <em>Grave Concerns about the Gherkin. Image Credit: <a href="https://www.flickr.com/photos/imuttoo/2109509395/in/photolist-4dpMDD-durUFu-g56Wme-n6jz4-7qYtWm-3K5cRC-6pRjbD-3LuuYc-3ihwYo-bWMy8N-8Tyef6-snrnZ-4SM4Xz-n6mj4-n6mj5-38z37b-oPV2w6-n6AXG-8DeNZ-oqWkPz-ifT2u6-bjCiuz-nh4WYd-n6hy1-pKcnnG-6rtvaw-nMJioF-pCfemc-n6kSq-oGp4DT-9xvDrS-n6DSR-n6kSp-n6jz8-8MvDpz-dDrD5F-7G45Eu-8Gxyyk-ovySjf-7krG8g-nAS2BU-8YyEF-4WjkBC-5XiqLQ-KSGmv-cxFCWQ-4Wx6fM-8Kaqft-2rUJDc-8Wi25r">Ian Mutoo</a></em>
@@ -136,7 +136,7 @@ The grave of a young Roman girl was discovered during the early stages of constr
 &nbsp;
 
 <p style="text-align: center">
-  <img class="alignnone size-full wp-image-24546" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/The-Gherkin_mini.jpg" alt="the gherkin London architecture" width="569" height="380" />
+  <img class="alignnone size-full wp-image-24546" src="/wp-content/uploads/2015/01/The-Gherkin_mini.jpg" alt="the gherkin London architecture" width="569" height="380" />
 </p>
 
 <p style="text-align: center">
@@ -149,7 +149,7 @@ As well as looking pretty sweet, the swirling striped pattern visible on the ext
 
 **9. Towering Industry**
 
-<img class="aligncenter size-full wp-image-24616" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/4158166813_644d8f6f7b_z.jpg" alt="London Modern Architecture" width="569" height="547" />
+<img class="aligncenter size-full wp-image-24616" src="/wp-content/uploads/2015/01/4158166813_644d8f6f7b_z.jpg" alt="London Modern Architecture" width="569" height="547" />
 
 <p style="text-align: center">
   <em>Not quite watertight. Image Credit: <a href="https://www.flickr.com/photos/gareth1953/4158166813/in/photolist-7krG8g-nAS2BU-8YyEF-4WjkBC-5XiqLQ-KSGmv-cxFCWQ-4Wx6fM-8Kaqft-2rUJDc-8Wi25r-2VsVi-8MjeDD-n6hxV-4c1Tjk-n6jz2-5GUr-q4TLZn-6hTen4-6QWgKT-5GTW-onbUMq-81TrsM-4YEkbm-n6AXJ-FxZp-6Rk725-n6jza-9yZcVS-B5qRU-d8SBWW-4Wx6aR-6keak-4mqc-fPWNAc-7y1L1A-7QXQKv-8ieFGU-ckjYHs-bKX6E6-6t7csB-kr4Y9-buJk9m-6g7H3r-6tboRq-6AA5eR-aoMWBX-9MPdTJ-6o4rBK-u5fk1">Gareth Williams</a></em>
@@ -161,7 +161,7 @@ Over 35km of steel was used to construct the Gherkin. 10 years later, we&#8217;r
 
 ** 10.** **Accolades**
 
-<img class="aligncenter size-full wp-image-24604" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/img0.jpg" alt="London Modern Architecture" width="569" height="455" />
+<img class="aligncenter size-full wp-image-24604" src="/wp-content/uploads/2015/01/img0.jpg" alt="London Modern Architecture" width="569" height="455" />
 
 <p style="text-align: center">
   <em>Top Prize. Image Credit: <a href="http://www.fosterandpartners.com/news/archive/2004/10/30-st-mary-axe-wins-the-2004-stirling-prize/">Foster and Partners</a></em>

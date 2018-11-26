@@ -26,7 +26,7 @@ These types of musings are sort of on my mind as I have a day out west, trekking
 
 These types of musings are sort of on my mind as I have a day out west, trekking in the sunshine over to the [Graffik Gallery](http://www.graffikgallery.com/ "Graffik Gallery") on Portobello Road to have a look at South London artist](http://www.deanzeuscolman.com/#/home/4567902849 "Zeus") conversion of the gallery into a sweet shop.
 
-<a href="http://www.insider-london.co.uk/blog/2013/04/08/zeus-london-street-art/zeus/" rel="attachment wp-att-4488"><img class="alignnone size-full wp-image-4488" alt="Zeus, London street art, Walking Tours, Inisder London" src="http://www.insider-london.co.uk/wp-content/uploads/2013/02/Zeus.png" width="569" height="251" /></a>
+<a href="http://www.insider-london.co.uk/blog/2013/04/08/zeus-london-street-art/zeus/" rel="attachment wp-att-4488"><img class="alignnone size-full wp-image-4488" alt="Zeus, London street art, Walking Tours, Inisder London" src="/wp-content/uploads/2013/02/Zeus.png" width="569" height="251" /></a>
 
 First impressions are largely comprised of walking into a giant packet of love hearts. It is certainly an all encompassing experience. As we peruse a man enters the shop.
 
@@ -40,7 +40,7 @@ As we tuck in to banana foams and pink shrimps it dawns on me that as luck or se
 
 We walk through to the backroom where the theme changes ever so slightly. This painting is my personal favourite.<figure id="attachment_4493" style="width: 569px" class="wp-caption alignnone">
 
-<a href="http://www.insider-london.co.uk/blog/2013/04/08/zeus-london-street-art/mirror/" rel="attachment wp-att-4493"><img class="size-full wp-image-4493" alt="Zeus, London street art, Insider London, walking tours" src="http://www.insider-london.co.uk/wp-content/uploads/2013/02/Mirror.jpg" width="569" height="427" /></a><figcaption class="wp-caption-text">surveillance has never been so sweet</figcaption></figure> 
+<a href="http://www.insider-london.co.uk/blog/2013/04/08/zeus-london-street-art/mirror/" rel="attachment wp-att-4493"><img class="size-full wp-image-4493" alt="Zeus, London street art, Insider London, walking tours" src="/wp-content/uploads/2013/02/Mirror.jpg" width="569" height="427" /></a><figcaption class="wp-caption-text">surveillance has never been so sweet</figcaption></figure> 
 
 **Acid**
 

@@ -26,7 +26,7 @@ slide_template:
 - default
 ---
 
-[<img class="aligncenter wp-image-25097 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/04/Filming_at_Aldwych_1.jpg" alt="Filming at Aldwych Station - Photo courtesy of TfL " width="569" height="370" />](http://www.insider-london.co.uk/wp-content/uploads/2015/04/Filming_at_Aldwych_1.jpg)
+[<img class="aligncenter wp-image-25097 size-full" src="/wp-content/uploads/2015/04/Filming_at_Aldwych_1.jpg" alt="Filming at Aldwych Station - Photo courtesy of TfL " width="569" height="370" />](/wp-content/uploads/2015/04/Filming_at_Aldwych_1.jpg)
 
 <p style="text-align: center;">
   <em>Filming at Aldwych Station &#8211; Photo courtesy of TfL</em>
@@ -48,7 +48,7 @@ Shoreditch and Somerset House are among the locations set to feature in London H
 
 Due out in October, this is billed as another high-octane blockbuster, but confidentiality agreements between the production companies and Transport for London mean details of how the action plays out are being kept under wraps for now.
 
-[<img class="aligncenter wp-image-25098 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/04/Filming_at_Aldwych_image_2.jpg" alt="Filming at Aldwych station - Image courtsey of TfL" width="569" height="370" />](http://www.insider-london.co.uk/wp-content/uploads/2015/04/Filming_at_Aldwych_image_2.jpg)
+[<img class="aligncenter wp-image-25098 size-full" src="/wp-content/uploads/2015/04/Filming_at_Aldwych_image_2.jpg" alt="Filming at Aldwych station - Image courtsey of TfL" width="569" height="370" />](/wp-content/uploads/2015/04/Filming_at_Aldwych_image_2.jpg)
 
 <p style="text-align: center;">
   <em>Filming at Aldwych station &#8211; Image courtsey of TfL</em>

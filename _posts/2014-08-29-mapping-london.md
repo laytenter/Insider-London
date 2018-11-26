@@ -28,7 +28,7 @@ s4_cdes:
 - 
 ---
 
-[<img class="aligncenter wp-image-17001 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/08/reduced-image-George_Braun_and_Franz_Hogenberg_1572_768_460_90_s_c1.jpg" alt="Braun and Hogenberg 1572 Copyright Daniel Crouch " width="569" height="341" />](http://www.insider-london.co.uk/wp-content/uploads/2014/08/reduced-image-George_Braun_and_Franz_Hogenberg_1572_768_460_90_s_c1.jpg)
+[<img class="aligncenter wp-image-17001 size-full" src="/wp-content/uploads/2014/08/reduced-image-George_Braun_and_Franz_Hogenberg_1572_768_460_90_s_c1.jpg" alt="Braun and Hogenberg 1572 Copyright Daniel Crouch " width="569" height="341" />](/wp-content/uploads/2014/08/reduced-image-George_Braun_and_Franz_Hogenberg_1572_768_460_90_s_c1.jpg)
 
 <p style="text-align: center;">
   <em>Braun and Hogenberg 1572. Copyright Daniel Crouch</em>

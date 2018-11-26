@@ -22,7 +22,7 @@ guid: http://www.insider-london.co.uk/?p=7971
 
 Getting one’s bearings in a gallery or museum that doesn’t offer up a single bowl of fruit may be a bit disconcerting for the uninitiated. Such establishments can often be intimidating for the casual visitor. While the renowned Mr. So-and-So may have positively rocked the avant-garde movement of a particular decade in the last century, his work may not have entered the sphere of discussion for John Q. Public. The <a href="http://www.saatchigallery.com/" target="_blank">Saatchi Gallery of London</a> doesn’t come with any baggage whatsoever and gives each and every visitor, both the experienced gallery hopper and the novice viewer, the opportunity to discover new artists and their works.
 
-<a href="http://www.insider-london.co.uk/2013/09/27/saatchi-gallery-london/saatchi-1/" rel="attachment wp-att-7975"><img class="alignleft size-full wp-image-7975" title="Saatchi 1" alt="saatchi-london-art" src="http://www.insider-london.co.uk/wp-content/uploads/2013/09/Saatchi-1.jpg" width="569" height="323" /></a>
+<a href="http://www.insider-london.co.uk/2013/09/27/saatchi-gallery-london/saatchi-1/" rel="attachment wp-att-7975"><img class="alignleft size-full wp-image-7975" title="Saatchi 1" alt="saatchi-london-art" src="/wp-content/uploads/2013/09/Saatchi-1.jpg" width="569" height="323" /></a>
 
 ## 
 
@@ -38,7 +38,7 @@ Saatchi Gallery is currently displaying the works of over 60 artists organized i
 
 Upcoming exhibitions include “Body Language” that opens 20 November 2013, ”New Order II, British Art Today” that opens 11 December 2013, and “Painters Painters” and “Objectified: Sculpture Today” scheduled for next year.
 
-<a href="http://www.insider-london.co.uk/2013/09/27/saatchi-gallery-london/saatchi-2-2/" rel="attachment wp-att-7977"><img class="alignleft size-full wp-image-7977" title="Saatchi 2" alt="saatchi-gallery-art-london" src="http://www.insider-london.co.uk/wp-content/uploads/2013/09/Saatchi-21.jpg" width="569" height="402" /></a>
+<a href="http://www.insider-london.co.uk/2013/09/27/saatchi-gallery-london/saatchi-2-2/" rel="attachment wp-att-7977"><img class="alignleft size-full wp-image-7977" title="Saatchi 2" alt="saatchi-gallery-art-london" src="/wp-content/uploads/2013/09/Saatchi-21.jpg" width="569" height="402" /></a>
 
 For those outside of London or who can’t make it down to the Chelsea gallery, they can also find art at the [online art gallery of Saatchi](http://www.saatchionline.com/ "at the online art gallery of Saatchi"), that also features biographies of the exhibiting artists. In addition, Saatchi Gallery hosts an online exhibition space where emerging artists can show their work,  and viewers can browse or even buy if interested.
 

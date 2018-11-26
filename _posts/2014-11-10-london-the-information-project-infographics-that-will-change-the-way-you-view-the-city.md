@@ -33,7 +33,7 @@ s4_cdes:
   <div class="layoutArea">
     <div class="column">
       <p>
-        <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/11/Jacket_mini.jpg"><img class="aligncenter wp-image-23273 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/11/Jacket_mini.jpg" alt="London infographic book" width="569" height="470" /></a>
+        <a href="/wp-content/uploads/2014/11/Jacket_mini.jpg"><img class="aligncenter wp-image-23273 size-full" src="/wp-content/uploads/2014/11/Jacket_mini.jpg" alt="London infographic book" width="569" height="470" /></a>
       </p>
       
       <p>
@@ -45,7 +45,7 @@ s4_cdes:
       </p>
       
       <p>
-        <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/11/There-is-order-and-beauty-in-the-chaos-of-your-commute-smaller.min_.jpg"><img class="aligncenter wp-image-23277" src="http://www.insider-london.co.uk/wp-content/uploads/2014/11/There-is-order-and-beauty-in-the-chaos-of-your-commute-smaller.min_.jpg" alt="London commuter infographic" width="569" height="284" /></a>
+        <a href="/wp-content/uploads/2014/11/There-is-order-and-beauty-in-the-chaos-of-your-commute-smaller.min_.jpg"><img class="aligncenter wp-image-23277" src="/wp-content/uploads/2014/11/There-is-order-and-beauty-in-the-chaos-of-your-commute-smaller.min_.jpg" alt="London commuter infographic" width="569" height="284" /></a>
       </p>
       
       <p style="text-align: center;">
@@ -60,7 +60,7 @@ s4_cdes:
         <div class="layoutArea">
           <div class="column">
             <p>
-              <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/11/They-Came-They-Saw-They-Spent-p218-219-copy.min_.jpg"><img class="aligncenter wp-image-23278" src="http://www.insider-london.co.uk/wp-content/uploads/2014/11/They-Came-They-Saw-They-Spent-p218-219-copy.min_.jpg" alt="They Came, They Saw, They Spent p218-219 copy.min" width="569" height="272" /></a>
+              <a href="/wp-content/uploads/2014/11/They-Came-They-Saw-They-Spent-p218-219-copy.min_.jpg"><img class="aligncenter wp-image-23278" src="/wp-content/uploads/2014/11/They-Came-They-Saw-They-Spent-p218-219-copy.min_.jpg" alt="They Came, They Saw, They Spent p218-219 copy.min" width="569" height="272" /></a>
             </p>
             
             <p style="text-align: center;">
@@ -73,7 +73,7 @@ s4_cdes:
           </div>
           
           <div class="column">
-            <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/11/Photogenic-Features-p208-209-copy_mini.jpg"><img class="aligncenter wp-image-23274" src="http://www.insider-london.co.uk/wp-content/uploads/2014/11/Photogenic-Features-p208-209-copy_mini.jpg" alt="Flickr_zoom_final" width="569" height="240" /></a>
+            <a href="/wp-content/uploads/2014/11/Photogenic-Features-p208-209-copy_mini.jpg"><img class="aligncenter wp-image-23274" src="/wp-content/uploads/2014/11/Photogenic-Features-p208-209-copy_mini.jpg" alt="Flickr_zoom_final" width="569" height="240" /></a>
           </div>
           
           <div class="column" style="text-align: center;">

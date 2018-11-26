@@ -25,7 +25,7 @@ s4_cdes:
 - 
 ---
 
-[<img class="aligncenter wp-image-24911 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/03/king-john-teeth-worcester-museum-thumb-bone-cathedral-magna-carta-law-liberty-legacy-library-british-2.jpg" alt="king-john-teeth-worcester-museum-thumb-bone-cathedral-magna-carta-law-liberty-legacy-library-british (2)" width="569" height="395" />](http://www.insider-london.co.uk/wp-content/uploads/2015/03/king-john-teeth-worcester-museum-thumb-bone-cathedral-magna-carta-law-liberty-legacy-library-british-2.jpg)
+[<img class="aligncenter wp-image-24911 size-full" src="/wp-content/uploads/2015/03/king-john-teeth-worcester-museum-thumb-bone-cathedral-magna-carta-law-liberty-legacy-library-british-2.jpg" alt="king-john-teeth-worcester-museum-thumb-bone-cathedral-magna-carta-law-liberty-legacy-library-british (2)" width="569" height="395" />](/wp-content/uploads/2015/03/king-john-teeth-worcester-museum-thumb-bone-cathedral-magna-carta-law-liberty-legacy-library-british-2.jpg)
 
 <p style="text-align: center;">
   <em>King John&#8217;s teeth and thumb bone. Photography © Clare Kendall</em>
@@ -41,7 +41,7 @@ This was not the first time that the tomb had been opened, or raided – it had 
 
 The king was buried at Worcester Cathedral at his own request, as laid down in the earliest surviving English example of a royal will, dictated shortly before his death in October 1216. John had visited the shrine of the Anglo-Saxon Saint Wulfstan at the cathedral several times and asked to be buried near the saint. An original copy of the will on display in the exhibition is on loan from Worcester Cathedral, which is also lending the thumb bone, which was returned some 160 years after its disappearance.
 
-[<img class="aligncenter wp-image-24912" src="http://www.insider-london.co.uk/wp-content/uploads/2015/03/MagnaCartacTheBritishLibraryBoard.jpg" alt="Magna Carta C The British Library" width="569" height="386" />](http://www.insider-london.co.uk/wp-content/uploads/2015/03/MagnaCartacTheBritishLibraryBoard.jpg)
+[<img class="aligncenter wp-image-24912" src="/wp-content/uploads/2015/03/MagnaCartacTheBritishLibraryBoard.jpg" alt="Magna Carta C The British Library" width="569" height="386" />](/wp-content/uploads/2015/03/MagnaCartacTheBritishLibraryBoard.jpg)
 
 <p style="text-align: center;">
   <em>Magna Carta C The British Library Board</em>

@@ -35,7 +35,7 @@ guid: http://www.insider-london.co.uk/?p=1101
   </p>
   
   <p style="text-align: center;">
-    <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/07/bio-d.png"><img class=" wp-image-1196 aligncenter" title="bio d" src="http://www.insider-london.co.uk/wp-content/uploads/2012/07/bio-d.png" alt="" width="570" height="196" /></a>
+    <a href="/wp-content/uploads/2012/07/bio-d.png"><img class=" wp-image-1196 aligncenter" title="bio d" src="/wp-content/uploads/2012/07/bio-d.png" alt="" width="570" height="196" /></a>
   </p>
   
   <p>
@@ -59,7 +59,7 @@ guid: http://www.insider-london.co.uk/?p=1101
   </p>
   
   <p style="text-align: center;">
-    <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/07/lilys-eco-cleaner.gif"><img class=" wp-image-1197 aligncenter" title="lilys eco cleaner" src="http://www.insider-london.co.uk/wp-content/uploads/2012/07/lilys-eco-cleaner.gif" alt="" width="570" height="600" /></a>
+    <a href="/wp-content/uploads/2012/07/lilys-eco-cleaner.gif"><img class=" wp-image-1197 aligncenter" title="lilys eco cleaner" src="/wp-content/uploads/2012/07/lilys-eco-cleaner.gif" alt="" width="570" height="600" /></a>
   </p>
   
   <p>

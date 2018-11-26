@@ -24,7 +24,7 @@ s4_cdes:
 - 
 ---
 
-[<img class="wp-image-15304 size-full aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/07/Mini-Subterranean-London-resized.jpg" alt="Subterranean London von Bradley Garrett" width="569" height="457" />](http://www.insider-london.co.uk/wp-content/uploads/2014/07/Mini-Subterranean-London-resized.jpg)
+[<img class="wp-image-15304 size-full aligncenter" src="/wp-content/uploads/2014/07/Mini-Subterranean-London-resized.jpg" alt="Subterranean London von Bradley Garrett" width="569" height="457" />](/wp-content/uploads/2014/07/Mini-Subterranean-London-resized.jpg)
 
 The London we see every day is a familiar sight full of recognisable landmarks, the signposts guiding our way around the urban sprawl. But dig a little deeper, and it’s possible to discover a secret side to the city. Unearthing the hidden gems beneath these well-trodden streets is a job for those who take the path less travelled. It leads to an underbelly of subterranean passages, abandoned tube stations and beautifully crafted brickwork: a testament to a time when Great Britain’s architectural aspirations were built on reassuringly firm foundations.
 

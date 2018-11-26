@@ -19,7 +19,7 @@ guid: http://www.insider-london.co.uk/?p=886
 Sadly, all too often, when major UK retail companies talk about being ‘committed’ to green and sustainable policies it all feels a bit forced. Meaningful green strategies are all about being innovative rather than just repeating what others have said or done. Without innovation&#8230; well, let’s face it, we wouldn’t have realised anything was wrong in the first place (and thus, we’d still think that the earth was an infinite resource that we could merrily pillage forever, and that smoking was good for us).
 
 <p style="text-align: center">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/07/m-and-s-fair-trade.jpg"><img class="aligncenter  wp-image-922" src="http://www.insider-london.co.uk/wp-content/uploads/2012/07/m-and-s-fair-trade.jpg" alt="M&S Marks and Spencers Green Policy London Insider" width="570" height="180" /></a>
+  <a href="/wp-content/uploads/2012/07/m-and-s-fair-trade.jpg"><img class="aligncenter  wp-image-922" src="/wp-content/uploads/2012/07/m-and-s-fair-trade.jpg" alt="M&S Marks and Spencers Green Policy London Insider" width="570" height="180" /></a>
 </p>
 
 So when a major company actually does something innovative, and is, actually, ‘committed’ to sustainability, we all really ought to cheer (and write a blog post) about it. The major company I’m talking about is good old Marks & Spencer, which implemented what it calls ‘Plan A’, in 2007: a five-faceted initiative toward increased sustainability and environmental responsibility.
@@ -31,7 +31,7 @@ Having garnered a great deal of positive attention already, Plan A is an optimis
 And  encouragingly, they’re not really celebrating this. There’s been very little coverage. It’s just simply a case of completing what they had planned and moving on: moving on to refine other areas such as their fair-trade policy. All of their tea and coffee, for example, is fair-trade, as are a huge number of other products, including flowers. Which is far more impressive than it sounds.
 
 <p style="text-align: center">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/07/m-and-s-flowers-new1.jpg"><img class="aligncenter  wp-image-906" src="http://www.insider-london.co.uk/wp-content/uploads/2012/07/m-and-s-flowers-new1.jpg" alt="M&S Marks and Spencers Green Policy London Insider" width="570" height="200" /></a>
+  <a href="/wp-content/uploads/2012/07/m-and-s-flowers-new1.jpg"><img class="aligncenter  wp-image-906" src="/wp-content/uploads/2012/07/m-and-s-flowers-new1.jpg" alt="M&S Marks and Spencers Green Policy London Insider" width="570" height="200" /></a>
 </p>
 
  The fact is, in the Western world where decorative flowers are bought in huge volumes, they are often imported from regions like South America and Africa that are more effective at producing them. As with any product, purchasing under a fair-trade agreement guarantees that the people producing the goods are treated fairly and in humane fashion, under appropriate conditions. Marks & Spencer, as you can imagine, sell a lot of flowers. So this is fair-trade on a big scale.

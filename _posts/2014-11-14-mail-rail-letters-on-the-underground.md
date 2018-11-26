@@ -22,7 +22,7 @@ s4_cdes:
 - 
 ---
 
-[<img class="aligncenter wp-image-23257 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/11/Mail-Rail-1980s_mini.jpg" alt="Mail Rail image C. Royal Mail" width="586" height="569" />](http://www.insider-london.co.uk/wp-content/uploads/2014/11/Mail-Rail-1980s_mini.jpg)
+[<img class="aligncenter wp-image-23257 size-full" src="/wp-content/uploads/2014/11/Mail-Rail-1980s_mini.jpg" alt="Mail Rail image C. Royal Mail" width="586" height="569" />](/wp-content/uploads/2014/11/Mail-Rail-1980s_mini.jpg)
 
 <p style="text-align: center;">
   <em>Mail Rail 1980s &#8211; Copyright Royal Mail, courtesy of the British Postal Museum & Archive</em>

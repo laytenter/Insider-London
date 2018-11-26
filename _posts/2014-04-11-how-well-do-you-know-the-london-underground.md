@@ -30,4 +30,4 @@ To follow on from this, we&#8217;ve recently produced this London Underground in
 
 To view the full infographic, simply click below.
 
-<a title="CLick here to view the infographic" href="http://www.insider-london.co.uk/tube-facts-infographic/" target="_blank"><img class="alignnone size-full wp-image-13960" alt="Tube Facts Infographic" src="http://www.insider-london.co.uk/wp-content/uploads/2014/02/Tube-Facts-Infographic-Thumb.jpg" width="569" height="1570" /></a>
+<a title="CLick here to view the infographic" href="http://www.insider-london.co.uk/tube-facts-infographic/" target="_blank"><img class="alignnone size-full wp-image-13960" alt="Tube Facts Infographic" src="/wp-content/uploads/2014/02/Tube-Facts-Infographic-Thumb.jpg" width="569" height="1570" /></a>

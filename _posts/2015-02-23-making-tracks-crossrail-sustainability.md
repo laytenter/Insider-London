@@ -31,7 +31,7 @@ As of late, the talk of London town has been the new Crossrail network, due to o
 
 &nbsp;
 
-[<img class="aligncenter size-full wp-image-24805" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/BeFunky_crossrail.jpg_mini.jpg" alt="Crossrail Route" width="569" height="229" />](http://www.insider-london.co.uk/wp-content/uploads/2015/02/BeFunky_crossrail.jpg_mini.jpg)
+[<img class="aligncenter size-full wp-image-24805" src="/wp-content/uploads/2015/02/BeFunky_crossrail.jpg_mini.jpg" alt="Crossrail Route" width="569" height="229" />](/wp-content/uploads/2015/02/BeFunky_crossrail.jpg_mini.jpg)
 
 <p style="text-align: center;">
   <em>Image credit: <a href="http://www.crossrail.co.uk">Crossrail</a></em>
@@ -41,7 +41,7 @@ The latest announcement is a bike superhighway which will play the cyclist’s e
 
 As with any major construction project in the city, sustainability has been a much-talked-about issue – and one well covered by the project’s creators. As well as easing congestion in the city, the new twin-bore tunnels have been created with a focus on all areas of sustainability: economical, environmental and social.
 
-[<img class="aligncenter size-full wp-image-24806" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/BeFunky_environment.jpg_mini.jpg" alt="Crossrail Air View" width="569" height="379" />](http://www.insider-london.co.uk/wp-content/uploads/2015/02/BeFunky_environment.jpg_mini.jpg)
+[<img class="aligncenter size-full wp-image-24806" src="/wp-content/uploads/2015/02/BeFunky_environment.jpg_mini.jpg" alt="Crossrail Air View" width="569" height="379" />](/wp-content/uploads/2015/02/BeFunky_environment.jpg_mini.jpg)
 
 <p style="text-align: center;">
   <em>Image credit: <a href="http://www.crossrail.co.uk">Crossrail</a></em>
@@ -61,7 +61,7 @@ At the end of 2013, these aims appeared to be successful, with 98% of demolition
 
 &nbsp;
 
-[<img class="aligncenter size-full wp-image-24804" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/BeFunky_crossrail-art.jpg_mini.jpg" alt="Crossrail Art" width="569" height="402" />](http://www.insider-london.co.uk/wp-content/uploads/2015/02/BeFunky_crossrail-art.jpg_mini.jpg)
+[<img class="aligncenter size-full wp-image-24804" src="/wp-content/uploads/2015/02/BeFunky_crossrail-art.jpg_mini.jpg" alt="Crossrail Art" width="569" height="402" />](/wp-content/uploads/2015/02/BeFunky_crossrail-art.jpg_mini.jpg)
 
 <p style="text-align: center;">
   <em>Image credit: <a href="http://www.crossrail.co.uk">Crossrail</a></em>
@@ -79,7 +79,7 @@ Signing up to the Constructing Better Health (CBH) programme, Crossrail aims to 
 
 It’s also boosting the workforce in other professions, cutting commutes and bringing an extra 1.5-million people within 45-minutes of central London. When finished, the new rail system will increase the rail capacity of London by 10% ­­­- the biggest increase by any single project.
 
-[<img class="aligncenter size-full wp-image-24807" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/BeFunky_exhibition.jpg_mini.jpg" alt="Tunnel Exhibition" width="569" height="379" />](http://www.insider-london.co.uk/wp-content/uploads/2015/02/BeFunky_exhibition.jpg_mini.jpg)
+[<img class="aligncenter size-full wp-image-24807" src="/wp-content/uploads/2015/02/BeFunky_exhibition.jpg_mini.jpg" alt="Tunnel Exhibition" width="569" height="379" />](/wp-content/uploads/2015/02/BeFunky_exhibition.jpg_mini.jpg)
 
 <p style="text-align: center;">
   <em>Image credit: <a href="http://www.crossrail.co.uk">Crossrail</a></em>

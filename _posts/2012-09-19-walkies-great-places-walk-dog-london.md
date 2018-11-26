@@ -19,7 +19,7 @@ guid: http://www.insider-london.co.uk/?p=1554
 Having a dog in London is tough. Anyone who has ever been on a train from London Bridge at 5.30 in the company of a massive dog (I have), will know just how difficult it can be. The last thing a commuter wants to see on a wet tuesday night is a slobbering, gormless-looking alsation peering out from the one space there seemed to be available on the train. Plus, London is full of very smart and logically-minded people who are fundamentally dismayed by man&#8217;s obsession with domesticating this particular animal whilst eating its way remorselessly through most others. And those people are right to be dismayed. It is weird. And cities are ostensibly inappropriate places for animals that don&#8217;t use toilets. And most London flats are barely big enough for humans. And isn&#8217;t living in a city stressful enough without looking after a dog!?
 
 <div>
-  <figure id="attachment_1556" style="width: 569px" class="wp-caption aligncenter"><a href="http://www.insider-london.co.uk/wp-content/uploads/2012/08/dog-on-tube.jpg"><img class=" wp-image-1556" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/dog-on-tube.jpg" alt="" width="569" height="430" /></a><figcaption class="wp-caption-text">Dogs won't tut and grunt if you touch them by accident on the tube. If anything they'll like it</figcaption></figure> 
+  <figure id="attachment_1556" style="width: 569px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2012/08/dog-on-tube.jpg"><img class=" wp-image-1556" src="/wp-content/uploads/2012/08/dog-on-tube.jpg" alt="" width="569" height="430" /></a><figcaption class="wp-caption-text">Dogs won't tut and grunt if you touch them by accident on the tube. If anything they'll like it</figcaption></figure> 
   
   <p>
     But then again, have you ever thrown a stick in a London park on a beautifully sunny day, and had that stick retrieved and returned to you repeatedly by a canine friend? Our obsession with dogs is a bit like capitalism (it isn&#8217;t but just go with it). It is full of hypocrisy and paradoxes, and is almost certainly unhealthy, but it&#8217;s here and it&#8217;s not going to disappear, so perhaps it&#8217;s better just to pretend it isn&#8217;t unhealthy and go and either max out a credit card, or take a dog to one of London&#8217;s many brilliant dog-walking spots! Here are my favourites&#8230;
@@ -42,7 +42,7 @@ Having a dog in London is tough. Anyone who has ever been on a train from London
   </p>
   
   <p style="text-align: center">
-    <strong><strong>  </strong><strong> <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/08/abney-park.jpg"><img class="aligncenter  wp-image-1557" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/abney-park.jpg" alt="" width="569" height="380" /></a></strong></strong>
+    <strong><strong>  </strong><strong> <a href="/wp-content/uploads/2012/08/abney-park.jpg"><img class="aligncenter  wp-image-1557" src="/wp-content/uploads/2012/08/abney-park.jpg" alt="" width="569" height="380" /></a></strong></strong>
   </p>
   
   <p>

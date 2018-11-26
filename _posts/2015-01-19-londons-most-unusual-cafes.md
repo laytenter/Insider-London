@@ -28,7 +28,7 @@ s4_ctitle:
 - 
 ---
 
-[<img class="aligncenter size-full wp-image-24499" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/coffee-569.jpg" alt="coffee " width="569" height="569" />](http://www.insider-london.co.uk/wp-content/uploads/2015/01/coffee-569.jpg)
+[<img class="aligncenter size-full wp-image-24499" src="/wp-content/uploads/2015/01/coffee-569.jpg" alt="coffee " width="569" height="569" />](/wp-content/uploads/2015/01/coffee-569.jpg)
 
 The first coffee houses to open in London were brewing grounds for novel ideas in the fields of science and culture. People from all walks of life gathered to socialise, read newspapers and discuss current affairs: it was here that the physicist Isaac Newton debated with astronomer Edmund Halley about the orbits of the planets.
 
@@ -40,7 +40,7 @@ At  [Ziferblat](http://london.ziferblat.net/ "Ziferblat") in Old Street, you c
 
 Shoreditch is also the location for [Lady Dinah&#8217;s Cat Emporium](http://ladydinahs.com/ "Lady Dinah's Cat Emporium")  &#8211; a home for rescued cats, where customers can relax and enjoy lunch or high tea surrounded by feline friends.  Check out the kittycam on the website if you’d like to see how cute they are.   If there’s a cafe for cats, there has to be one for canines too, and sure enough, [Scooby&#8217;s Boutique](http://scoobysboutique.co.uk "Scooby's Boutique")** **is the place. The dog-friendly café in Muswell Hill offers a selection of treats including &#8220;dog-gestives” and “Flap Jack Russells&#8221; for its four-legged friends, in addition to fresh coffee, cakes and biscuits for its human customers.
 
-<img class="aligncenter wp-image-24527 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/01/Cereal-killer-cafe.jpg" alt="alternative london cafes" width="569" height="380" />
+<img class="aligncenter wp-image-24527 size-full" src="/wp-content/uploads/2015/01/Cereal-killer-cafe.jpg" alt="alternative london cafes" width="569" height="380" />
 
 <p style="text-align: center;">
   <em>Inside the Cereal Killer Cafe, Brick Lane. Image credit: <a href="https://www.flickr.com/photos/filmedbybianca/15944935110/in/photolist-bxSFuv-qydJvx-9eskfA-9aNpvr-8iicGU-7koVRD-6MErqi-7koVMg-7koVKD-9epgj6-7koVQ6-7koVTR-9epggg-9epgeM-9epgdc-7koVSv-7ksQe3-9epgbK-7ksQ7w-837uV4-qi7e36-qzu6Dw-qhZXGj-qhZYay-qzxVsp-qzxWon-pCyivS-qzxXuv-qxgLa1-qhZhvb-qhZi6Q-9pshyF-83aD55-oGzCDW-6QXM5W-7caqPD-aeWcm-bugysd-7qZB5H-4qUJg8-4qUJgg-4qUJg4-4qUPxT-4qUJgc-4qUJgp-4qUJg2-73iXPR-dR5rQM-biTbZt-bekvQ2/" target="_blank">Bianca Dubois</a></em>

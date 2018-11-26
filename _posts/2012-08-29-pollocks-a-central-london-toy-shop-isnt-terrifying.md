@@ -18,7 +18,7 @@ guid: http://www.insider-london.co.uk/?p=1523
 So I took my niece to Hamleys recently. Hamleys in Regent Street is the world&#8217;s largest toy store. It is a beautiful and historic building, established as a toy store by William Hamley in 1881. It was bombed five times during the second world war. It brings in up to five million people a year, and is a major tourist attraction. My thanks to the good people at Wikipedia for that short introduction.
 
 <p style="text-align: center">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/08/Hamleys.jpg"><img class="aligncenter  wp-image-1525" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/Hamleys.jpg" alt="" width="569" height="400" /></a>
+  <a href="/wp-content/uploads/2012/08/Hamleys.jpg"><img class="aligncenter  wp-image-1525" src="/wp-content/uploads/2012/08/Hamleys.jpg" alt="" width="569" height="400" /></a>
 </p>
 
 <div>
@@ -35,7 +35,7 @@ So I took my niece to Hamleys recently. Hamleys in Regent Street is the world&#8
   </p>
   
   <p style="text-align: center">
-    <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/08/toy-theatre.jpg"><img class="aligncenter  wp-image-1526" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/toy-theatre.jpg" alt="" width="569" height="400" /></a>
+    <a href="/wp-content/uploads/2012/08/toy-theatre.jpg"><img class="aligncenter  wp-image-1526" src="/wp-content/uploads/2012/08/toy-theatre.jpg" alt="" width="569" height="400" /></a>
   </p>
   
   <p>
@@ -43,7 +43,7 @@ So I took my niece to Hamleys recently. Hamleys in Regent Street is the world&#8
   </p>
   
   <p style="text-align: center">
-    <a href="http://www.insider-london.co.uk/wp-content/uploads/2012/08/Pollocks-Toy-Museum3.png"><img class="aligncenter  wp-image-1527" src="http://www.insider-london.co.uk/wp-content/uploads/2012/08/Pollocks-Toy-Museum3.png" alt="" width="569" height="430" /></a>
+    <a href="/wp-content/uploads/2012/08/Pollocks-Toy-Museum3.png"><img class="aligncenter  wp-image-1527" src="/wp-content/uploads/2012/08/Pollocks-Toy-Museum3.png" alt="" width="569" height="430" /></a>
   </p>
   
   <p>

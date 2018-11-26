@@ -38,7 +38,7 @@ Towering over Kings Cross and the Regents Canal like a giant metal behemoth is t
 
 The gasholder lies to the west of Granary Square, next to the soon to be rejuvenated coal drops. Just last week plans were approved to convert the gasholder into a landscaped park and events space, opening a new route down to the canal. The gasholders were taken down and painstakingly restored off site in Yorkshire before being reconstructed in a new location in Kings Cross.
 
-[<img class="wp-image-17024 size-full aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/08/Gasholder.jpg" alt="Gasholder kings cross regeneration" width="569" height="427" />](http://www.insider-london.co.uk/wp-content/uploads/2014/08/Gasholder.jpg)
+[<img class="wp-image-17024 size-full aligncenter" src="/wp-content/uploads/2014/08/Gasholder.jpg" alt="Gasholder kings cross regeneration" width="569" height="427" />](/wp-content/uploads/2014/08/Gasholder.jpg)
 
 <p style="text-align: center;">
   <em>Painstakingly restored, the 25 metre steel frames rise once again. Image Credit: Evan Parker</em>
@@ -54,7 +54,7 @@ Gasholders continued to be built throughout the 19th and 20th century and were a
 
 As gas was discovered in the North Sea in the 1960s and advancements were made in gas pipe technology, they soon became redundant. Plans were put in place at the end of the 20th century to take down the UK’s gasholders, a plan that carries on interminably to this day. Many of the remaining gasholders will be demolished in the coming years.
 
-[<img class="aligncenter size-full wp-image-21278" src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/image_2977_958_600.jpg" alt="gasholder kings cross regeneration" width="569" height="356" />](http://www.kingscross.co.uk/heritage-gasholder-no-8)
+[<img class="aligncenter size-full wp-image-21278" src="/wp-content/uploads/2014/09/image_2977_958_600.jpg" alt="gasholder kings cross regeneration" width="569" height="356" />](http://www.kingscross.co.uk/heritage-gasholder-no-8)
 
 <p style="text-align: center;">
   <em>Time for tea! Similar scenes will be seen when the public park opens for use. Image credit: <a href="http://www.kingscross.co.uk/heritage-st-pancras-station-and-midland-grand-hotel" target="_blank">Kings Cross</a></em>
@@ -64,7 +64,7 @@ The King&#8217;s Cross gasholders conjure up images of a London of a bygone era,
 
 Besides Kings Cross, other famous London gasholders include the Kennington gasholder, arguably one of the most recognisable gasholders in the country, providing an intricate steel backdrop to the Oval cricket ground and beamed into millions of televisions each year during live TV coverage of cricket games. Opinion tends to be divisive, with people tending to either love it or loathe it. Next to the Battersea Power Station lies another well-known gasholder, widely considered an eyesore and condemned to demolition as part of plans to turn it into high-density housing. While most people will not mourn its loss, it is a stark reminder of how gasholders are being consigned to the scrapheap.
 
-[<img class="aligncenter size-full wp-image-21277" src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/1408-Gasholder-Planning-1560x800.jpg" alt="Modern architecture Gasholder kings cross regeneration " width="569" height="292" />](http://www.bellphillips.com/project/gasholder-8-park/)
+[<img class="aligncenter size-full wp-image-21277" src="/wp-content/uploads/2014/09/1408-Gasholder-Planning-1560x800.jpg" alt="Modern architecture Gasholder kings cross regeneration " width="569" height="292" />](http://www.bellphillips.com/project/gasholder-8-park/)
 
 <p style="text-align: center;">
   <em>The finished gas holders with public park and housing. Image Credit: <a href="http://www.bellphillips.com/project/gasholder-8-park/" target="_blank">Bell Phillips</a></em>

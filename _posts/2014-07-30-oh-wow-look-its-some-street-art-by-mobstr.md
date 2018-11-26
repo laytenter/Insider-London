@@ -27,7 +27,7 @@ s4_cdes:
 - 
 ---
 
-[<img class="size-full wp-image-15826 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/07/Mobstr.jpg" alt="Mobstr London street art walking tour" width="569" height="427" />](http://www.insider-london.co.uk/wp-content/uploads/2014/07/Mobstr.jpg)
+[<img class="size-full wp-image-15826 aligncenter" src="/wp-content/uploads/2014/07/Mobstr.jpg" alt="Mobstr London street art walking tour" width="569" height="427" />](/wp-content/uploads/2014/07/Mobstr.jpg)
   
 Oh wow, look it&#8217;s some street art by Mobstr. This particular piece was spotted on the Hackney Road in East London. Mobstr is known for his text-based pieces: his witty stencil statements are instantly recognisable. You can find out <a href="http://mobstr.org/" target="_blank">more about him here</a>.
 

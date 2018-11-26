@@ -24,7 +24,7 @@ On a sunny day in London, thoughts tend towards outdoors drinking, perhaps in on
 
 EC4R 3AB
 
-[<img class="aligncenter wp-image-14907 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/06/Nomura-Garden1.jpg" alt="Nomura Garden London Green Financial" width="569" height="469" />](http://www.insider-london.co.uk/wp-content/uploads/2014/06/Nomura-Garden1.jpg)
+[<img class="aligncenter wp-image-14907 size-full" src="/wp-content/uploads/2014/06/Nomura-Garden1.jpg" alt="Nomura Garden London Green Financial" width="569" height="469" />](/wp-content/uploads/2014/06/Nomura-Garden1.jpg)
 
 <p style="text-align: center;">
   <em>Image credit: <a href="http://www.opensquares.org/detail/Nomura.html?lang=en" target="_blank">Marion Blair</a></em>
@@ -36,7 +36,7 @@ EC4R 3AB
 
 25 Dowgate Hill, EC4R 3SB
 
-[<img class="wp-image-14908 size-full aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/06/cannon-street-bridge.jpg" alt="London Green Cannon Bridge Roof Gardens" width="569" height="375" />](http://www.insider-london.co.uk/wp-content/uploads/2014/06/cannon-street-bridge.jpg)
+[<img class="wp-image-14908 size-full aligncenter" src="/wp-content/uploads/2014/06/cannon-street-bridge.jpg" alt="London Green Cannon Bridge Roof Gardens" width="569" height="375" />](/wp-content/uploads/2014/06/cannon-street-bridge.jpg)
 
 <p style="text-align: left;">
   Installed at the cost of around £500,000, Cannon Bridge Roof Gardens offers stunning views across London, from Tower Bridge to St Paul’s Cathedral. The acre of space has a lawn, trees and shrubs, making it more of a private park than a green roof. It’s also open to the public – that is if you attend one of the functions run by <a href="http://www.cannonbridgeroofgardens.com/venue" target="_blank">Diamond City Events at the venue</a>.
@@ -51,7 +51,7 @@ EC4R 3AB
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/06/7-More-London.jpg"><img class="alignnone size-full wp-image-14909" src="http://www.insider-london.co.uk/wp-content/uploads/2014/06/7-More-London.jpg" alt="7 More London" width="569" height="356" /></a>
+  <a href="/wp-content/uploads/2014/06/7-More-London.jpg"><img class="alignnone size-full wp-image-14909" src="/wp-content/uploads/2014/06/7-More-London.jpg" alt="7 More London" width="569" height="356" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -64,7 +64,7 @@ This Foster & Partners-designed development, now offices for PwC, currently hold
 
 2 King Edward Street EC1A 1HQ
 
-[<img class="aligncenter wp-image-14911 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/06/st-pauls-from-merrill-lynch-green-roof.jpg" alt="st pauls from merrill lynch London green financial" width="569" height="380" />](http://www.insider-london.co.uk/wp-content/uploads/2014/06/st-pauls-from-merrill-lynch-green-roof.jpg)
+[<img class="aligncenter wp-image-14911 size-full" src="/wp-content/uploads/2014/06/st-pauls-from-merrill-lynch-green-roof.jpg" alt="st pauls from merrill lynch London green financial" width="569" height="380" />](/wp-content/uploads/2014/06/st-pauls-from-merrill-lynch-green-roof.jpg)
 
 <p style="text-align: center;">
   <em>Image credit: <a href="www.flickr.com/photos/stevecadman/3849267223/" target="_blank">Steve Cadman</a></em>
@@ -75,7 +75,7 @@ Completed in 2001, this was one of the first rooftops to go green in the finance
 5. **20 Fenchurch Street**
 
 <p style="text-align: center;">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/06/20-Fenchurch-Street-garden.jpg"><img class="alignnone size-full wp-image-14912" src="http://www.insider-london.co.uk/wp-content/uploads/2014/06/20-Fenchurch-Street-garden.jpg" alt="Walkie Talkie architecture tour London" width="569" height="426" /></a>
+  <a href="/wp-content/uploads/2014/06/20-Fenchurch-Street-garden.jpg"><img class="alignnone size-full wp-image-14912" src="/wp-content/uploads/2014/06/20-Fenchurch-Street-garden.jpg" alt="Walkie Talkie architecture tour London" width="569" height="426" /></a>
 </p>
 
 <p style="text-align: center;">

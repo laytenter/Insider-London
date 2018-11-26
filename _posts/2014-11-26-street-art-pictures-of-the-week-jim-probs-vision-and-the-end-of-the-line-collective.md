@@ -34,19 +34,19 @@ s4_cdes:
 
 While last week&#8217;s street art pictures <a href="http://www.insider-london.co.uk/2014/11/19/street-art-pictures-of-the-week-bicicletas-sem-freios-and-cranio/" target="_blank">took us to Brazil</a>, this week we&#8217;re exploring new worlds and planets thanks to the work of Jim &#8216;Probs&#8217; Vision and the End of the Line collective. They specialise in fantastical, large scale murals, largely created with spray cans. Because it&#8217;s a cold November day, we&#8217;ve decided to treat you to not one, not two, not three but &#8211; you&#8217;ve guessed it! &#8211; four examples of their work. Allow yourself to be transported somewhere else entirely&#8230;
 
-<img class="aligncenter wp-image-23473 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/11/24b_mini.jpg" alt="jim probs vision street art east london" width="569" height="427" />
+<img class="aligncenter wp-image-23473 size-full" src="/wp-content/uploads/2014/11/24b_mini.jpg" alt="jim probs vision street art east london" width="569" height="427" />
 
 Holywell Lane, Shoreditch, new piece October 2014.
 
-<img class="aligncenter wp-image-23474 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/11/23_mini.jpg" alt="jim probs vision street art east london" width="569" height="427" />
+<img class="aligncenter wp-image-23474 size-full" src="/wp-content/uploads/2014/11/23_mini.jpg" alt="jim probs vision street art east london" width="569" height="427" />
 
 Redchurch Street, Shoreditch, April 2014.
 
-<img class="aligncenter wp-image-23475 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/11/22a_mini.jpg" alt="street art london" width="569" height="427" />
+<img class="aligncenter wp-image-23475 size-full" src="/wp-content/uploads/2014/11/22a_mini.jpg" alt="street art london" width="569" height="427" />
 
 From the jungle to the water, Redchurch Street, Shoreditch, March 2014 (spray cans and paint brushes).
 
-<img class="aligncenter wp-image-23476 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/11/20_mini.jpg" alt="alternative street art london" width="569" height="759" />
+<img class="aligncenter wp-image-23476 size-full" src="/wp-content/uploads/2014/11/20_mini.jpg" alt="alternative street art london" width="569" height="759" />
 
 And, from our archives, Chance Street, Shoreditch, November 2013
 

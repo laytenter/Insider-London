@@ -26,7 +26,7 @@ s4_cdes:
 - 
 ---
 
-<img class="aligncenter wp-image-24814 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2015/02/pyramid-oracle_mini.jpg" alt="pyramid oracle street art london" width="569" height="850" />
+<img class="aligncenter wp-image-24814 size-full" src="/wp-content/uploads/2015/02/pyramid-oracle_mini.jpg" alt="pyramid oracle street art london" width="569" height="850" />
 
 <p style="text-align: center;">
   <em>Image credit: <a href="www.flickr.com/photos/maureen_barlin/16620468321" target="_blank">Maureen Barlin</a></em>

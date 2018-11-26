@@ -23,7 +23,7 @@ Round three of interesting and quirky facts includes the origin of “Mind the G
 
 This is only part three of four, so make sure to keep your eyes peeled for more interesting facts!<figure id="attachment_12077" style="width: 569px" class="wp-caption aligncenter">
 
-<img class="size-full wp-image-12077 " title="tube-london-underground" alt="london-tours-underground" src="http://www.insider-london.co.uk/wp-content/uploads/2013/11/tubee.png" width="569" height="343" /><figcaption class="wp-caption-text">Photo Credit: Alberto Bissacco on Flickr</figcaption></figure> 
+<img class="size-full wp-image-12077 " title="tube-london-underground" alt="london-tours-underground" src="/wp-content/uploads/2013/11/tubee.png" width="569" height="343" /><figcaption class="wp-caption-text">Photo Credit: Alberto Bissacco on Flickr</figcaption></figure> 
 
 1. When the Circle Line opened in 1884, the Times described it as ‘a form of mild torture, which no person would undergo if he could conveniently help it’.
 

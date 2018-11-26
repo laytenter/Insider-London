@@ -27,7 +27,7 @@ s4_url2s:
 - 
 ---
 
-[<img class="size-full wp-image-15127 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/07/13.-RUN.jpg" alt="RUN street art london" width="569" height="320" />](http://www.insider-london.co.uk/wp-content/uploads/2014/07/13.-RUN.jpg)
+[<img class="size-full wp-image-15127 aligncenter" src="/wp-content/uploads/2014/07/13.-RUN.jpg" alt="RUN street art london" width="569" height="320" />](/wp-content/uploads/2014/07/13.-RUN.jpg)
 
 <p style="text-align: center;">
   <em>Image credit: RUN, Ram Place Fashion Market, 12 – 20 July.  Courtesy Barbican Art Gallery.</em>

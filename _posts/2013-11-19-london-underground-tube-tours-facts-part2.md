@@ -26,7 +26,7 @@ This is only part two of four, so make sure to keep your eyes peeled for more in
 
 &nbsp;<figure id="attachment_12059" style="width: 569px" class="wp-caption aligncenter">
 
-<img class="size-full wp-image-12059" title="tube" alt="" src="http://www.insider-london.co.uk/wp-content/uploads/2013/11/tube.png" width="569" height="407" /><figcaption class="wp-caption-text">Image Credit to Mark Hillary on Flickr</figcaption></figure> 
+<img class="size-full wp-image-12059" title="tube" alt="" src="/wp-content/uploads/2013/11/tube.png" width="569" height="407" /><figcaption class="wp-caption-text">Image Credit to Mark Hillary on Flickr</figcaption></figure> 
 
 1. Each week, Underground escalators travel the equivalent distance of going twice around the world.
 

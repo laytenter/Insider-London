@@ -35,7 +35,7 @@ The <a href="http://www.londondesignfestival.com/" target="_blank">London Design
 
 **<a href="http://www.londondesignfestival.com/va-museum" target="_blank">The V&A</a>**
 
-[<img class="aligncenter wp-image-22015 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/barber-osgerby-at-the-VA_mini.jpg" alt="barber osgerby at the V&A Museum" width="569" height="370" />](http://www.insider-london.co.uk/wp-content/uploads/2014/09/barber-osgerby-at-the-VA_mini.jpg)
+[<img class="aligncenter wp-image-22015 size-full" src="/wp-content/uploads/2014/09/barber-osgerby-at-the-VA_mini.jpg" alt="barber osgerby at the V&A Museum" width="569" height="370" />](/wp-content/uploads/2014/09/barber-osgerby-at-the-VA_mini.jpg)
 
 <p style="text-align: center;">
   <em>Double Space at the V&A. Image credit: <a href="http://www.londondesignfestival.com/events/double-space-bmw-precision-poetry-motion" target="_blank">London Design Festival</a> </em>
@@ -45,7 +45,7 @@ If you really don&#8217;t know where to start, head to the V&A Museum. It&#8217;
 
 <a href="http://www.londondesignfestival.com/a-place-called-home" target="_blank"><strong>A Place Called Home</strong></a>
 
-**<img class="aligncenter wp-image-22019 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/A-Place-Called-Home_mini.jpg" alt="A Place Called Home Trafalgar Square London" width="569" height="370" />**
+**<img class="aligncenter wp-image-22019 size-full" src="/wp-content/uploads/2014/09/A-Place-Called-Home_mini.jpg" alt="A Place Called Home Trafalgar Square London" width="569" height="370" />**
 
 <p style="text-align: center;">
   <em>Image credit: <a href="http://www.londondesignfestival.com/a-place-called-home" target="_blank">London Design Festival</a></em>
@@ -57,7 +57,7 @@ It&#8217;s not just the pigeons who will be at home in Trafalgar Square this Lon
 
 **<a href="http://www.londondesignfestival.com/events/wikihouse" target="_blank">WikiHouse</a>**
 
-[<img class="aligncenter wp-image-22020 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/wikihouse.jpg" alt="wikihouse london sustainable architecture" width="569" height="370" />](http://www.insider-london.co.uk/wp-content/uploads/2014/09/wikihouse.jpg)
+[<img class="aligncenter wp-image-22020 size-full" src="/wp-content/uploads/2014/09/wikihouse.jpg" alt="wikihouse london sustainable architecture" width="569" height="370" />](/wp-content/uploads/2014/09/wikihouse.jpg)
 
 <p style="text-align: center;">
   <em>Image credit: <a href="http://www.londondesignfestival.com/a-place-called-home" target="_blank">London Design Festival</a></em>
@@ -67,7 +67,7 @@ Similar ideas are being explored in the WikiHouse on display in Bloomsbury. The 
 
 <a href="http://www.londondesignfestival.com/shoreditch-design-triangle" target="_blank"><strong>Shoreditch Design District</strong></a>
 
-[<img class="aligncenter wp-image-22021 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/shoreditch-design-triange.jpg" alt="Shoreditch design tour" width="569" height="473" />](http://www.insider-london.co.uk/wp-content/uploads/2014/09/shoreditch-design-triange.jpg)
+[<img class="aligncenter wp-image-22021 size-full" src="/wp-content/uploads/2014/09/shoreditch-design-triange.jpg" alt="Shoreditch design tour" width="569" height="473" />](/wp-content/uploads/2014/09/shoreditch-design-triange.jpg)
 
 <p style="text-align: center;">
   <em>Image credit:<a href="http://www.shoreditchdesigntriangle.com/participants/the-saturday-market-project/" target="_blank"> Shoreditch Design Triangle</a></em>
@@ -77,7 +77,7 @@ There are various different design districts throughout the capital, but we&#821
 
 <a href="http://www.londondesignfestival.com/events/first-law-kipple" target="_blank"><strong>The First Law of Kipple</strong></a>
 
-[<img class="aligncenter wp-image-22023 " src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/First-Law-of-Kipple.jpg" alt="London Design Festival Kipple Art installation" width="569" height="370" />](http://www.insider-london.co.uk/wp-content/uploads/2014/09/First-Law-of-Kipple.jpg)
+[<img class="aligncenter wp-image-22023 " src="/wp-content/uploads/2014/09/First-Law-of-Kipple.jpg" alt="London Design Festival Kipple Art installation" width="569" height="370" />](/wp-content/uploads/2014/09/First-Law-of-Kipple.jpg)
 
 <p style="text-align: center;">
   <em>Image credit: <a href="http://www.londondesignfestival.com/news/first-law-kipple-supperclub" target="_blank">London Design Festival</a></em>
@@ -90,7 +90,7 @@ There are various different design districts throughout the capital, but we&#821
 <a href="http://camdencollective.co.uk/highline/" target="_blank"><strong>High Street High Line</strong></a>
 
 <p style="text-align: center;">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/09/‘The-Rooftop-Line’-by-Romain-Meunier-Tsvetelina-Tomova_mini.jpg"><img class="alignnone size-full wp-image-22024" src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/‘The-Rooftop-Line’-by-Romain-Meunier-Tsvetelina-Tomova_mini.jpg" alt="Rooftop line London" width="569" height="321" /></a>
+  <a href="/wp-content/uploads/2014/09/‘The-Rooftop-Line’-by-Romain-Meunier-Tsvetelina-Tomova_mini.jpg"><img class="alignnone size-full wp-image-22024" src="/wp-content/uploads/2014/09/‘The-Rooftop-Line’-by-Romain-Meunier-Tsvetelina-Tomova_mini.jpg" alt="Rooftop line London" width="569" height="321" /></a>
 </p>
 
 <p style="text-align: center;">

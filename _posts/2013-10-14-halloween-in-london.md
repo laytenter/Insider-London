@@ -25,7 +25,7 @@ guid: http://www.insider-london.co.uk/?p=8123
 </p>
 
 <p dir="ltr">
-  <img class="aligncenter size-full wp-image-8129" alt="" src="http://www.insider-london.co.uk/wp-content/uploads/2013/10/crimestories.jpg" width="569" height="380" />
+  <img class="aligncenter size-full wp-image-8129" alt="" src="/wp-content/uploads/2013/10/crimestories.jpg" width="569" height="380" />
 </p>
 
 <p dir="ltr">
@@ -93,7 +93,7 @@ guid: http://www.insider-london.co.uk/?p=8123
 </p>
 
 <p dir="ltr">
-  <img class="aligncenter size-full wp-image-8130" alt="" src="http://www.insider-london.co.uk/wp-content/uploads/2013/10/londonatnight.jpg" width="569" height="380" />
+  <img class="aligncenter size-full wp-image-8130" alt="" src="/wp-content/uploads/2013/10/londonatnight.jpg" width="569" height="380" />
 </p>
 
 <p dir="ltr">

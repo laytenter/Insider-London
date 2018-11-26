@@ -25,7 +25,7 @@ guid: http://www.insider-london.co.uk/?p=13783
 
 &nbsp;
 
-![millbank by Jim Linwood](http://www.insider-london.co.uk/wp-content/uploads/2014/02/millbank-by-Jim-Linwood-300x124.jpg)
+![millbank by Jim Linwood](/wp-content/uploads/2014/02/millbank-by-Jim-Linwood-300x124.jpg)
 
 &nbsp;
 
@@ -53,4 +53,4 @@ One wonders whether Charles Dickens, who loved to walk through London’s street
 
 &nbsp;
 
-[<img class="alignnone size-medium wp-image-13786" alt="Tower 42  done" src="http://www.insider-london.co.uk/wp-content/uploads/2014/02/Tower-42-done-300x210.jpg" width="300" height="210" />](http://www.insider-london.co.uk/wp-content/uploads/2014/02/Tower-42-done.jpg)
+[<img class="alignnone size-medium wp-image-13786" alt="Tower 42  done" src="/wp-content/uploads/2014/02/Tower-42-done-300x210.jpg" width="300" height="210" />](/wp-content/uploads/2014/02/Tower-42-done.jpg)

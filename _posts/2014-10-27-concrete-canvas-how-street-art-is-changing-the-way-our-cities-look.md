@@ -25,7 +25,7 @@ s4_url2s:
 - 
 ---
 
-[<img class="size-full wp-image-23076 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/10/Concrete-Canvas-book_mini.jpg" alt="street art london" width="569" height="735" />](http://www.insider-london.co.uk/wp-content/uploads/2014/10/Concrete-Canvas-book_mini.jpg)
+[<img class="size-full wp-image-23076 aligncenter" src="/wp-content/uploads/2014/10/Concrete-Canvas-book_mini.jpg" alt="street art london" width="569" height="735" />](/wp-content/uploads/2014/10/Concrete-Canvas-book_mini.jpg)
 
 We say it all the time but it&#8217;s true &#8211; there&#8217;s always some new artwork to spot when you go on one of our <a href="http://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">London street art and graffiti walking tours</a>. How can you keep track of it all? Perhaps more importantly, how do you make sense of it?
 

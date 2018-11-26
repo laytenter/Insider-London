@@ -21,7 +21,7 @@ layout: post
 guid: http://www.insider-london.co.uk/?p=4921
 ---
 
-<img title="gin-palaces-london-gin-history-tour" alt="London gin palace" src="http://www.insider-london.co.uk/wp-content/uploads/2013/03/gin-palaces-london-gin-history-tour.jpg" width="569" height="339" />
+<img title="gin-palaces-london-gin-history-tour" alt="London gin palace" src="/wp-content/uploads/2013/03/gin-palaces-london-gin-history-tour.jpg" width="569" height="339" />
 
 _London&#8217;s gin palaces – convivial, glamorous environments. But how did gin reinvent itself from being something drunk by children in slums just 80 years prior?_
 
@@ -59,10 +59,10 @@ If you have any other interesting facts about gin, we’d love to hear them! Ple
 
 **A few other interesting facts about Gordon’s London Dry Gin: the recipe he launched with has not been changed to this day. We know that the gin is triple distilled and takes its flavour from juniper berries, coriander seeds, angelica root, liquorice, orris root, orange and lemon peel. However, only 12 people in the world are privy to the complete recipe. Gordon’s Gin is now the world’s best selling London Dry gin.
 
-<img class="alignnone size-full wp-image-4923" title="gin-history-london-walking-tours" alt="Gin Lane by Hogarth, depicting London's gin craze" src="http://www.insider-london.co.uk/wp-content/uploads/2013/03/gin-history-london-walking-tours.jpg" width="569" height="660" />
+<img class="alignnone size-full wp-image-4923" title="gin-history-london-walking-tours" alt="Gin Lane by Hogarth, depicting London's gin craze" src="/wp-content/uploads/2013/03/gin-history-london-walking-tours.jpg" width="569" height="660" />
 
 _&#8216;Gin Lane&#8217; by William Hogarth, a print that illustrates the possible consequences of gin drinking. Note the hanged man in the building, the children drinking gin on the right hand side and the baby on a skewer in the distance._
 
-<img class="alignnone size-full wp-image-4925" title="gin-pubs-london-walking-drinking-tours" alt="An early Gordon's gin bottle" src="http://www.insider-london.co.uk/wp-content/uploads/2013/03/gin-pubs-london-walking-drinking-tours.jpg" width="569" height="590" />
+<img class="alignnone size-full wp-image-4925" title="gin-pubs-london-walking-drinking-tours" alt="An early Gordon's gin bottle" src="/wp-content/uploads/2013/03/gin-pubs-london-walking-drinking-tours.jpg" width="569" height="590" />
 
 _An early Gordon&#8217;s gin bottle. Alexander Gordon began distilling gin in 1769._

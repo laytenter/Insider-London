@@ -22,7 +22,7 @@ guid: http://www.insider-london.co.uk/?p=3344
 
 If you’ve been on our East London tour, or if you follow trends in East London, you’ll be familiar with The Macbeth in Hoxton. It is a place famous for kick-starting many a music career (Florence and Pete Doherty to name but two). Now there’s a new eclectic night for your musical delectation.<figure id="attachment_3363" style="width: 569px" class="wp-caption alignnone">
 
-[<img class="size-full wp-image-3363" src="http://www.insider-london.co.uk/wp-content/uploads/2012/11/Macbeth-Ext.jpg" alt="East London music scene, East London music trends, things to do in London, Shoreditch" width="569" height="387" />](http://www.insider-london.co.uk/wp-content/uploads/2012/11/Macbeth-Ext.jpg)<figcaption class="wp-caption-text">pic - http://www.geograph.org.uk</figcaption></figure> 
+[<img class="size-full wp-image-3363" src="/wp-content/uploads/2012/11/Macbeth-Ext.jpg" alt="East London music scene, East London music trends, things to do in London, Shoreditch" width="569" height="387" />](/wp-content/uploads/2012/11/Macbeth-Ext.jpg)<figcaption class="wp-caption-text">pic - http://www.geograph.org.uk</figcaption></figure> 
 
 **Soundyoucansee**
 
@@ -54,7 +54,7 @@ But blimey, what a school that must be!
 
 ‘Oh will you shut up! I’m trying to listen to the music’.<figure id="attachment_3360" style="width: 569px" class="wp-caption alignnone">
 
-[<img class="size-full wp-image-3360" src="http://www.insider-london.co.uk/wp-content/uploads/2012/11/Hermot1.jpg" alt="East London music scene, London music trends, London gigs, things to do in London" width="569" height="320" />](http://www.insider-london.co.uk/wp-content/uploads/2012/11/Hermot1.jpg)<figcaption class="wp-caption-text">"I'm in pain!"</figcaption></figure> 
+[<img class="size-full wp-image-3360" src="/wp-content/uploads/2012/11/Hermot1.jpg" alt="East London music scene, London music trends, London gigs, things to do in London" width="569" height="320" />](/wp-content/uploads/2012/11/Hermot1.jpg)<figcaption class="wp-caption-text">"I'm in pain!"</figcaption></figure> 
 
 The good news is Hermot are pretty special. The vocalist has the most miraculous range. From screams and yelps to the bassiest of growls. Any lower and an Aphex Twin style bass assault that suppresses your lungs will have to be endured. Guitars, lovelorn tales, drinking, bad behaviour &#8211; you know. Crack tango.
 
@@ -62,7 +62,7 @@ The good news is Hermot are pretty special. The vocalist has the most miraculous
 
 Wow. The last band is ramshackle. It’s frenetic, it’s loose, and the whole thing just about holds together. Numbering six and featuring a falsetto voice and delightful song titles like ‘Is it raining in your mouth?’, Fat Whites demand to be watched and they round off the night in fine rock n&#8217; roll style.<figure id="attachment_3365" style="width: 569px" class="wp-caption alignnone">
 
-[<img class="size-full wp-image-3365" src="http://www.insider-london.co.uk/wp-content/uploads/2012/11/Fat-Whites.jpg" alt="East London music scene, East London music trends, Shoreditch, things to do in London" width="569" height="320" />](http://www.insider-london.co.uk/wp-content/uploads/2012/11/Fat-Whites.jpg)<figcaption class="wp-caption-text">"I'm in more pain!"</figcaption></figure> 
+[<img class="size-full wp-image-3365" src="/wp-content/uploads/2012/11/Fat-Whites.jpg" alt="East London music scene, East London music trends, Shoreditch, things to do in London" width="569" height="320" />](/wp-content/uploads/2012/11/Fat-Whites.jpg)<figcaption class="wp-caption-text">"I'm in more pain!"</figcaption></figure> 
 
 Were you there? Do you know the bands? Who are your tips to be the next musical grandees? We demand your knowledge!
 

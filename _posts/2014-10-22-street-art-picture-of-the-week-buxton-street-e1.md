@@ -31,7 +31,7 @@ s4_ctitle:
 ---
 
 <p style="text-align: center;">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/10/Buxton-Street-London-street-art.jpg"><img class="size-full wp-image-23049 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/10/Buxton-Street-London-street-art.jpg" alt="Buxton Street London street art walking tour" width="569" height="380" /></a><br /> <em>Image credit: <a href="https://www.flickr.com/photos/bitboy/15437028361/in/photolist-pw7NHp-pumV1o-peUgvJ-pwhfLu-pwj3X8-pe39yA-pdqx2e-psoY1u-pcZzeP-puaggx-pcXoZV-pBvxiK-pfs6hU-ptg2Zh-pt1pGp-pbNi1W-pbMSUG-pt1qrv-pt1jkn-pbKSf6-pr3VUm-pskz25-p9J7xo-p9ruvp-p98aUF-pcytQT-ptL7TX-pcyAe4-ptLgrP-pcxxfn-pu1Jf1-pcyBXK-pcxVaq-pcymMe-pu214W-ptn9C8-pbJTWs-ptdfRq-pteSfH-prcCHQ-pbJPkb-pbJ86e-pbK7sC-prcswN-ptcGns-pbKtSv-prc4Yb-prc2wC-pbK7hM-pbJCH9" target="_blank">Bit Boy</a></em>
+  <a href="/wp-content/uploads/2014/10/Buxton-Street-London-street-art.jpg"><img class="size-full wp-image-23049 aligncenter" src="/wp-content/uploads/2014/10/Buxton-Street-London-street-art.jpg" alt="Buxton Street London street art walking tour" width="569" height="380" /></a><br /> <em>Image credit: <a href="https://www.flickr.com/photos/bitboy/15437028361/in/photolist-pw7NHp-pumV1o-peUgvJ-pwhfLu-pwj3X8-pe39yA-pdqx2e-psoY1u-pcZzeP-puaggx-pcXoZV-pBvxiK-pfs6hU-ptg2Zh-pt1pGp-pbNi1W-pbMSUG-pt1qrv-pt1jkn-pbKSf6-pr3VUm-pskz25-p9J7xo-p9ruvp-p98aUF-pcytQT-ptL7TX-pcyAe4-ptLgrP-pcxxfn-pu1Jf1-pcyBXK-pcxVaq-pcymMe-pu214W-ptn9C8-pbJTWs-ptdfRq-pteSfH-prcCHQ-pbJPkb-pbJ86e-pbK7sC-prcswN-ptcGns-pbKtSv-prc4Yb-prc2wC-pbK7hM-pbJCH9" target="_blank">Bit Boy</a></em>
 </p>
 
 <p style="text-align: left;">

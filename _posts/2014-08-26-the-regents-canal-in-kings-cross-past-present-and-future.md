@@ -46,7 +46,7 @@ The canal was built by John Nash, who shaped much of Regency London, including R
 It was the interminable march of railway development across the UK that sparked the beginning of the end for the canal. There were even unsuccessful attempts to turn the canal into a railway. The final death knell came during the especially harsh winter of 1962/3, where the canal completely froze over, meaning no cargo could move on it for weeks. The canal traffic was shifted onto road and never moved back completely. By the late 1960s commercial traffic had all but vanished.
 
 <p style="text-align: center;">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/08/Granary-Square.jpg"><img class="alignnone wp-image-17025 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/08/Granary-Square.jpg" alt="Granary Square Kings Cross regeneration" width="569" height="376" /></a>
+  <a href="/wp-content/uploads/2014/08/Granary-Square.jpg"><img class="alignnone wp-image-17025 size-full" src="/wp-content/uploads/2014/08/Granary-Square.jpg" alt="Granary Square Kings Cross regeneration" width="569" height="376" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -63,7 +63,7 @@ Granary Square provides a focus for the area, with sweeping steps running down t
 
 This sense of dynamism and creativity has flooded over into the surrounding area, with artwork found along the canal, from temporary street furniture, such as Granary Square’s grass steps installation or even poetry along the canal wall.
 
-[<img class="wp-image-17023 size-full aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/08/Fox-poetry.jpg" alt="Regent's Canal Kings cross regeneration" width="569" height="681" />](http://www.insider-london.co.uk/wp-content/uploads/2014/08/Fox-poetry.jpg)
+[<img class="wp-image-17023 size-full aligncenter" src="/wp-content/uploads/2014/08/Fox-poetry.jpg" alt="Regent's Canal Kings cross regeneration" width="569" height="681" />](/wp-content/uploads/2014/08/Fox-poetry.jpg)
 
 <p style="text-align: center;">
   <i>Foxy poetry can be found along the canal pathway! Image Credit: Evan Parker</i>
@@ -72,7 +72,7 @@ This sense of dynamism and creativity has flooded over into the surrounding area
 Along the pathway many interesting pieces of sustainable architecture can be found. [Shrimpy&#8217;s at The Filling Station](http://shrimpys.co.uk/) is a temporary restaurant set in a former petrol station. It is stunningly lit at night and indicative of how the most mundane and least treasured parts of our landscape can become something beautiful and interesting.
 
 <p style="text-align: center;">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/08/Filling-Station.jpg"><img class="alignnone wp-image-17022 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/08/Filling-Station.jpg" alt="Kings Cross Regeneration Filling Station" width="569" height="427" /></a>
+  <a href="/wp-content/uploads/2014/08/Filling-Station.jpg"><img class="alignnone wp-image-17022 size-full" src="/wp-content/uploads/2014/08/Filling-Station.jpg" alt="Kings Cross Regeneration Filling Station" width="569" height="427" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -82,7 +82,7 @@ Along the pathway many interesting pieces of sustainable architecture can be fou
 Leafy [Camley Street Natural Park](http://www.insider-london.co.uk/2014/06/27/urban-bees-interview/) is sandwiched between the Regents Canal and the no mans land that is the back end of St Pancras International. It is surprisingly expansive for a park so secluded. Its newest addition is Viewpoint, a floating platform designed by young Finnish architects. Modelled on the rocky islands found in Finland, the ’islet’ seating provides a suitable retreat from the hubbub of King&#8217;s Cross &#8211; depending on whether you can find the blimming thing that is!
 
 <p style="text-align: center;">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/08/shelter.jpg"><img class="alignnone wp-image-17027 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/08/shelter.jpg" alt="Camley Street Natural Park Alternative London walking tours" width="569" height="427" /></a>
+  <a href="/wp-content/uploads/2014/08/shelter.jpg"><img class="alignnone wp-image-17027 size-full" src="/wp-content/uploads/2014/08/shelter.jpg" alt="Camley Street Natural Park Alternative London walking tours" width="569" height="427" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -98,7 +98,7 @@ King&#8217;s Cross may have changed irrevocably already, but there is much more 
 Sadly, plans were killed off for an all glass footbridge over the Regents Canal, designed by Olympic cauldron designer Thomas Heatherwick. Made of 1000 sheets of glass supporting its own weight, it would have been a world first. But, during the recession, its £5 million price tag was hardly justified. The good news is that Heatherwick has recently been commissioned to build a revised bridge at the same location. Expect something less shiny and glassy, but spectacular nonetheless.
 
 <p style="text-align: center;">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/08/Heatherwick-bridge.jpg"><img class="wp-image-17026 size-full aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/08/Heatherwick-bridge.jpg" alt="Glass bridge quirky London" width="569" height="338" /></a><br /> <em>Glass bridge that will sadly never be&#8230;. Image Credit: <a href="http://www.archello.com/en/project/glass-bridge">Archello</a></em>
+  <a href="/wp-content/uploads/2014/08/Heatherwick-bridge.jpg"><img class="wp-image-17026 size-full aligncenter" src="/wp-content/uploads/2014/08/Heatherwick-bridge.jpg" alt="Glass bridge quirky London" width="569" height="338" /></a><br /> <em>Glass bridge that will sadly never be&#8230;. Image Credit: <a href="http://www.archello.com/en/project/glass-bridge">Archello</a></em>
 </p>
 
 <p style="text-align: left;">
@@ -106,12 +106,12 @@ Sadly, plans were killed off for an all glass footbridge over the Regents Canal,
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/08/Gasholder.jpg"><img class="wp-image-17024 size-full aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/08/Gasholder.jpg" alt="Gasholder kings cross regeneration" width="569" height="427" /></a><br /> <em>Grade II listed Victorian gasholders. Image Credit: Evan Parker</em>
+  <a href="/wp-content/uploads/2014/08/Gasholder.jpg"><img class="wp-image-17024 size-full aligncenter" src="/wp-content/uploads/2014/08/Gasholder.jpg" alt="Gasholder kings cross regeneration" width="569" height="427" /></a><br /> <em>Grade II listed Victorian gasholders. Image Credit: Evan Parker</em>
 </p>
 
 Overlooked by the Gasholders, the Coal Drops once stored coal that powered London’s homes. Now they are being transformed into an exciting retail and bar quarter to rival nearby Camden Town, preserving the Victorian brick arches and cobbled streets.
 
-[<img class="wp-image-16995 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/08/coal-drop-arts-market-n1c-st-pancras-96-p-300x234.jpg" alt="coal drops alternative walking tours london" width="569" height="445" />](http://www.insider-london.co.uk/wp-content/uploads/2014/08/coal-drop-arts-market-n1c-st-pancras-96-p.jpg)
+[<img class="wp-image-16995 aligncenter" src="/wp-content/uploads/2014/08/coal-drop-arts-market-n1c-st-pancras-96-p-300x234.jpg" alt="coal drops alternative walking tours london" width="569" height="445" />](/wp-content/uploads/2014/08/coal-drop-arts-market-n1c-st-pancras-96-p.jpg)
 
 <p style="text-align: center;">
   <em>Shop till you drop at the coal drops! Image Credit: <a href="http://www.onepercent4art.com/coal-drop-arts-market-n1c-st-pancras-96-p.asp">OnePercent4Art</a></em>

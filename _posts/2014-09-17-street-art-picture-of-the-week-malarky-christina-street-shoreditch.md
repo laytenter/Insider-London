@@ -28,7 +28,7 @@ s4_cdes:
 - 
 ---
 
-[<img class="aligncenter wp-image-22034 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/Malarky-Christina-Street.jpg" alt="Malarky london street art walking tour" width="569" height="759" />](http://www.insider-london.co.uk/wp-content/uploads/2014/09/Malarky-Christina-Street.jpg)
+[<img class="aligncenter wp-image-22034 size-full" src="/wp-content/uploads/2014/09/Malarky-Christina-Street.jpg" alt="Malarky london street art walking tour" width="569" height="759" />](/wp-content/uploads/2014/09/Malarky-Christina-Street.jpg)
 
 We may have told you about some <a href="http://www.insider-london.co.uk/2012/09/19/walkies-great-places-walk-dog-london/" target="_blank">great places for dog walking</a>, but we&#8217;re also cat lovers at Insider London. Especially if they&#8217;re as striking and colourful as this purr-fect piece by Malarky. Malarky describes himself as a street artist, illustrator and skateboarder and his brightly coloured creatures have appeared on walls, trucks and &#8211; in this case &#8211; shutters around the capital. See his equally <a href="http://www.malarko.com/" target="_blank">colourful website for more</a>.
 

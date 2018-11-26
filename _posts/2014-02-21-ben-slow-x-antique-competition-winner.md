@@ -11,7 +11,7 @@ layout: post
 guid: http://www.insider-london.co.uk/?p=13974
 ---
 
-<img class="alignnone size-full wp-image-13735" alt="Antique Ben Slow T Shirt" src="http://www.insider-london.co.uk/wp-content/uploads/2014/01/Antique-Ben-Slow-T-Shirt.jpg" width="566" height="337" />
+<img class="alignnone size-full wp-image-13735" alt="Antique Ben Slow T Shirt" src="/wp-content/uploads/2014/01/Antique-Ben-Slow-T-Shirt.jpg" width="566" height="337" />
 
 Here at Insider London we are pleased to announce that our competition to win a Ben Slow x Antique collaboration t-shirt has successfully ended. We have randomly selected a winner, and the limited edition t-shirt has now been dispatched.
 

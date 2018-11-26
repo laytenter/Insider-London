@@ -31,7 +31,7 @@ s4_cdes:
 - 
 ---
 
-<img class="aligncenter wp-image-24427 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/12/Flanders_mini.jpg" alt="London street art" width="569" height="297" />
+<img class="aligncenter wp-image-24427 size-full" src="/wp-content/uploads/2014/12/Flanders_mini.jpg" alt="London street art" width="569" height="297" />
 
 <p style="text-align: center;">
   <em>Image credit: <a href="http://www.visitflanders.co.uk/discover/flanders-fields-/the-christmas-truce-in-flanders-fields/" target="_blank">Visit Flanders</a></em>
@@ -45,7 +45,7 @@ s4_cdes:
   The mural captures the moment in the First World War when German and British soldiers called a temporary truce in the fighting and met in No Man&#8217;s Land on Christmas Day. They exchanged drinks, food and cigarettes, and played football. It&#8217;s a powerful image of managing to find peace in the middle of hostilities.
 </p>
 
-<img class="aligncenter wp-image-24428 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/12/First-World-War-street-art-London.jpg" alt="First World War street art London" width="569" height="362" />
+<img class="aligncenter wp-image-24428 size-full" src="/wp-content/uploads/2014/12/First-World-War-street-art-London.jpg" alt="First World War street art London" width="569" height="362" />
 
 <p style="text-align: center;">
   <em><a href="http://www.visitflanders.co.uk/discover/flanders-fields-/the-christmas-truce-in-flanders-fields/" target="_blank">Image credit: Visit Flanders</a></em>

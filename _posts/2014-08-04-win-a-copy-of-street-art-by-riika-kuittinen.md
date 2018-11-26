@@ -25,7 +25,7 @@ s4_cdes:
 ---
 
 <div class="yiv9508434385" style="color: #000000;">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/08/Street-Art-spread-4_mini.jpg"><img class="size-full wp-image-15874 aligncenter" src="http://www.insider-london.co.uk/wp-content/uploads/2014/08/Street-Art-spread-4_mini.jpg" alt="street art london book" width="569" height="380" /></a>
+  <a href="/wp-content/uploads/2014/08/Street-Art-spread-4_mini.jpg"><img class="size-full wp-image-15874 aligncenter" src="/wp-content/uploads/2014/08/Street-Art-spread-4_mini.jpg" alt="street art london book" width="569" height="380" /></a>
 </div>
 
 To celebrate our love of street art we’ve persuaded those nice people at the V&A to let us giveaway three copies of <a href="http://www.vandashop.com/V-A-Enterprises-Street-Art/dp/1851776257?field_availability=-1&field_browse=1960008031&field_keywords=street+art&id=V+A+Enterprises+Street+Art&ie=UTF8&refinementHistory=subjectbin%2Cprice%2Cgeneric_text_1-bin&searchKeywords=street+art&searchNodeID1=1960008031&searchPage=1&searchRank=generic-one-asc-rank&searchSize=12" target="_blank">their book Street Art by Riika Kuittinen</a>.
@@ -39,7 +39,7 @@ To celebrate our love of street art we’ve persuaded those nice people at the V
 </div>
 
 <div class="yiv9508434385" style="color: #000000; text-align: center;">
-  <a href="http://www.insider-london.co.uk/wp-content/uploads/2014/08/Street-Art-B_mini.jpeg"><img class="alignnone size-full wp-image-15875" src="http://www.insider-london.co.uk/wp-content/uploads/2014/08/Street-Art-B_mini.jpeg" alt="book London street art competition" width="569" height="519" /></a>
+  <a href="/wp-content/uploads/2014/08/Street-Art-B_mini.jpeg"><img class="alignnone size-full wp-image-15875" src="/wp-content/uploads/2014/08/Street-Art-B_mini.jpeg" alt="book London street art competition" width="569" height="519" /></a>
 </div>
 
 It’s really easy to get your hands on one of these books. **To enter, you can:**

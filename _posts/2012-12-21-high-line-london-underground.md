@@ -25,7 +25,7 @@ Since then, the tunnels have remained empty, apart from a group of subterranean 
 
 But now their future may be on the up! (The tunnels, not the subterranean obsessives) London High Line disused space architecture competition, inspired by the success of the New York High Line competition, announced it’s winner last month. And it was&#8230; A mushroom garden! Yep, that’s right. Now, before you start quipping about how _that isn’t architecture, that’s just damp and neglect,_ just hear me out.
 
-[<img class="aligncenter size-full wp-image-3468" src="http://www.insider-london.co.uk/wp-content/uploads/2012/12/Pop-Down.jpg" alt="" width="569" height="420" />](http://www.insider-london.co.uk/wp-content/uploads/2012/12/Pop-Down.jpg)
+[<img class="aligncenter size-full wp-image-3468" src="/wp-content/uploads/2012/12/Pop-Down.jpg" alt="" width="569" height="420" />](/wp-content/uploads/2012/12/Pop-Down.jpg)
 
 Fletcher Priest architects beat a number of spanking great ideas from lido canals to bus stop roof gardens. There would be Perspex mushrooms at street level to let in the sunlight for what we all know from biology is _photosynthesis. _We the public would be able to traverse the tunnels, admiring the various fungi.
 

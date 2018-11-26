@@ -31,7 +31,7 @@ s4_cdes:
 - 
 ---
 
-[<img class="aligncenter wp-image-22150 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/makersCAFE_mini.jpg" alt="makesCAFE alternative London" width="569" height="569" />](http://www.insider-london.co.uk/wp-content/uploads/2014/09/makersCAFE_mini.jpg)
+[<img class="aligncenter wp-image-22150 size-full" src="/wp-content/uploads/2014/09/makersCAFE_mini.jpg" alt="makesCAFE alternative London" width="569" height="569" />](/wp-content/uploads/2014/09/makersCAFE_mini.jpg)
 
 Anything you like with your coffee? The answer to that question is slightly unexpected if you&#8217;re talking about <a href="http://www.makerscafe.com/" target="_blank">MakersCAFE</a>. This space, which opened in Shoreditch last month, is the UK&#8217;s first 3d printing cafe. An espresso here comes with a side of experimentation. We spoke to founder Soner Ozenc to find out more.
 
@@ -39,7 +39,7 @@ Anything you like with your coffee? The answer to that question is slightly unex
 
 We were running our online laser cutting business, <a href="http://www.razorlab.co.uk/" target="_blank">RazorLAB</a>. That’s a 24 hour global fully automated service. But we realised that these new manufacturing processes and technology felt alien to people, they had no idea how they actually worked or what a 3d printer, for example, looked like. Coffee is the icebreaker that stops something like 3d printing being so intimidating. We wanted to let people see how things are made and to make that whole process sexy, nice and welcoming.
 
-[<img class="aligncenter wp-image-22151 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/3d-mug-printing.jpg" alt="3d printing alternative London" width="569" height="569" />](http://www.insider-london.co.uk/wp-content/uploads/2014/09/3d-mug-printing.jpg)
+[<img class="aligncenter wp-image-22151 size-full" src="/wp-content/uploads/2014/09/3d-mug-printing.jpg" alt="3d printing alternative London" width="569" height="569" />](/wp-content/uploads/2014/09/3d-mug-printing.jpg)
 
 <p style="text-align: center;">
   <em>3d printing in action at MakersCAFE</em>
@@ -53,7 +53,7 @@ Yes, our decision to base here was very intentional and we do have a large propo
 
 They will not be pushed to do or buy anything.  That’s very important to us. They are welcome to look and touch and ask questions without the pressure to buy. If they did want to try out 3d printing, they can download the software from the internet and try and prep their files before coming in. We also run a £1 a minute consultancy service, so we can help them get to a stage when they can run their files and make their idea a reality.
 
-[<img class="aligncenter wp-image-22152 size-full" src="http://www.insider-london.co.uk/wp-content/uploads/2014/09/3d-cafe-in-action.jpg" alt="3d cafe" width="569" height="569" />](http://www.insider-london.co.uk/wp-content/uploads/2014/09/3d-cafe-in-action.jpg)
+[<img class="aligncenter wp-image-22152 size-full" src="/wp-content/uploads/2014/09/3d-cafe-in-action.jpg" alt="3d cafe" width="569" height="569" />](/wp-content/uploads/2014/09/3d-cafe-in-action.jpg)
 
 <p style="text-align: center;">
   <em>Inside MakersCAFE</em>
