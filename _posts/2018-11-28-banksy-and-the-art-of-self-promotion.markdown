@@ -1,7 +1,7 @@
 ---
 title: Banksy and the art of self-promotion
 date: 2018-11-28 13:12:00 Z
-permalink: "/banksy-and-the-art-of-self-presentation/"
+permalink: "/banksy-and-the-art-of-self-promotion/"
 description: And so we have the incredible moment last month in Sotheby’s when Banksy’s
   Girl with Balloon descended through the bottom of the frame.
 heading: Banksy and the art of self-promotion
