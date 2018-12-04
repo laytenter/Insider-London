@@ -29,13 +29,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=24432
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 Happy new year from Insider London! Before we plunge straight into another year of bringing you the finest London finds and facts, let&#8217;s look back over some of our favourite posts of last year.
@@ -44,7 +44,7 @@ Happy new year from Insider London! Before we plunge straight into another year 
 
 <img class="aligncenter wp-image-13960 " src="/wp-content/uploads/2014/02/Tube-Facts-Infographic-Thumb.jpg" alt="Tube Facts Infographic Thumb" width="569" height="1570" />
 
-We love the London Underground and Tube. So much so that we produced this almighty <a href="https://www.insider-london.co.uk/tube-facts-infographic/" target="_blank">London tube facts infographic</a> (for a larger version <a href="https://www.insider-london.co.uk/tube-facts-infographic/" target="_blank">just click here</a>). Something to think about before you decide to take the stairs at Hampstead. For more London Underground stats, we also pulled together <a href="/insider-londons-best-of-the-london-underground-and-tube/" target="_blank">our all-time favourite posts here</a>, and learned about plans for <a href="/the-next-generation-of-london-underground-trains/" target="_blank">the next generation of tube trains here</a>.
+For more London Underground stats, we also pulled together <a href="/insider-londons-best-of-the-london-underground-and-tube/" target="_blank">our all-time favourite posts here</a>, and learned about plans for <a href="/the-next-generation-of-london-underground-trains/" target="_blank">the next generation of tube trains here</a>.
 
 <img class="aligncenter wp-image-13919 size-full" src="/wp-content/uploads/2014/02/Growing-Underground-Tunnel.jpg" alt="Growing Underground Tunnel" width="569" height="430" />
 

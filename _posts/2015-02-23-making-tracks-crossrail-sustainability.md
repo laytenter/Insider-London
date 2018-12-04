@@ -18,13 +18,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=24802
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 As of late, the talk of London town has been the new Crossrail network, due to open in 2018. The route will connect East and West London, serving more than 40 stations and cutting down travel times across the city.
@@ -87,4 +87,4 @@ It’s also boosting the workforce in other professions, cutting commutes and br
 
 If you want to find about more about the Crossrail project, visit the [London Transport Museum](http://www.ltmuseum.co.uk/), which will be running an exhibition entitled, “Breakthrough: Crossrail’s Tunnelling Story” until August 2015.
 
-Discover more about London’s rail lines on our [London Underground / Tube walking tour](https://www.insider-london.co.uk/london-underground-tube-tours/), or explore sustainability in the capital on our [Cutting-Edge Green tour](https://www.insider-london.co.uk/london-eco-green-sustainable-walking-tour/).
+Discover more about London’s rail lines on our [London Underground / Tube walking tour](/tours/london-underground-and-tube-tour/), or explore sustainability in the capital on our [Cutting-Edge Green tour](/tours/cutting-edge-green-tour/).

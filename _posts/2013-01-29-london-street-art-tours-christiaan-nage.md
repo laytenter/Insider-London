@@ -42,7 +42,7 @@ Well the mushroom is my new different. I’ve been a traveling painter for a lon
 
 But for now the world needs to be covered in mushrooms. I haven’t even been doing it that long. I think it’s about three years now and I only got serious about it about a year ago.
 
-<a href="/london-street-art-tours-christiaan-nage/paris-hilton-hits-cape-town-redux/" rel="attachment wp-att-4052"><img class="alignnone size-full wp-image-4052" alt="Street Art, Mushrooms, Christiaan Nagel, Insider London" src="/wp-content/uploads/2013/01/Paris-Hilton-hits-Cape-Town-redux.jpg" width="569" height="379" /></a>
+<img class="alignnone size-full wp-image-4052" alt="Street Art, Mushrooms, Christiaan Nagel, Insider London" src="/wp-content/uploads/2013/01/Paris-Hilton-hits-Cape-Town-redux.jpg" width="569" height="379" />
 
 **If we think about your work in East London. Is the idea of mushrooms growing anywhere as long as the conditions are perfect a reflection on the area bringing out the creativity of people? Are you influenced by other art/culture there or is London just a good place for you to exhibit your work?**
 

@@ -23,13 +23,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=24627
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 Well, we did it &#8211; we made it through January, spirits &#8211; if not all our resolutions &#8211; intact. How are you doing? Why not make the most of the dark February days to do a bit of catching up with some of <a href="https://www.insider-london.co.uk/blog/" target="_blank">Insider London blog posts</a> from January?
@@ -74,4 +74,4 @@ We&#8217;ve been checking out loads of street art this month, as ever. It&#8217;
   <em>Image credit: <a href="/londons-most-unusual-cafes/" target="_blank">Bianca Dubois</a></em>
 </p>
 
-Feeling exhausted after that little lot? Maybe it&#8217;s time for a sit down in one of London&#8217;s cafes. Dogs, cats, cereals: we&#8217;ve got them all covered in <a href="/londons-most-unusual-cafes/" target="_blank">our round-up of some of London&#8217;s unusual cafes</a>. Missed a favourite? Get in touch on <a href="https://twitter.com/insiderlondon" target="_blank">Twitter</a> or <a href="www.facebook.com/insiderlondon" target="_blank">Facebook</a> and let us know. And come and join us on one of our alternative London walking tours: we deal in everything from <a href="https://www.insider-london.co.uk/sustainable-green-building-london-tours-2/" target="_blank">sustainable architecture</a> to <a href="https://www.insider-london.co.uk/weird-london-murders-walking-tours/" target="_blank">death and debauchery</a>&#8230;
+Feeling exhausted after that little lot? Maybe it&#8217;s time for a sit down in one of London&#8217;s cafes. Dogs, cats, cereals: we&#8217;ve got them all covered in <a href="/londons-most-unusual-cafes/" target="_blank">our round-up of some of London&#8217;s unusual cafes</a>. Missed a favourite? Get in touch on <a href="https://twitter.com/insiderlondon" target="_blank">Twitter</a> or <a href="https://www.facebook.com/insiderlondon" target="_blank">Facebook</a> and let us know. And come and join us on one of our alternative London walking tours: we deal in everything from <a href="https://www.insider-london.co.uk/sustainable-green-building-london-tours-2/" target="_blank">sustainable architecture</a> to <a href="https://www.insider-london.co.uk/weird-london-murders-walking-tours/" target="_blank">death and debauchery</a>&#8230;

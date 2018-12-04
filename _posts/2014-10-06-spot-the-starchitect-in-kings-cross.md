@@ -30,13 +30,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=22386
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 [<img class="aligncenter wp-image-22841 size-full" src="/wp-content/uploads/2014/10/IMG_4730.jpg" alt="David Chipperfield modern and sustainable architecture" width="569" height="759" />](/wp-content/uploads/2014/10/IMG_4730.jpg)
@@ -97,7 +97,7 @@ At street level shops and cafes will energise the frontage of One Pancras Square
   <strong>Public Space</strong>
 </p>
 
-[<img class="aligncenter size-full wp-image-22836" src="/wp-content/uploads/2014/09/image_1188_800_800.jpg" alt="image_1188_800_800" width="569" height="569" />](www.kingscross.co.uk)
+[<img class="aligncenter size-full wp-image-22836" src="/wp-content/uploads/2014/09/image_1188_800_800.jpg" alt="image_1188_800_800" width="569" height="569" />](http://www.kingscross.co.uk)
 
 <p style="text-align: center;">
   <em>Perfect place for lunch or a crafty lunchtime drink! Image Credit: <a href="http://www.kingscross.co.uk/" target="_blank">Kings Cross</a></em>

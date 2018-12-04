@@ -23,6 +23,6 @@ Our [City Finance Walking Tour](/tours/london-finance-walking-tour/) provides a 
 
 <p><img src="{{ site.baseurl }}/images/arjun-talk-3-770x578.JPG" alt="Happy students enjoying the Silicon roundabout tour" /></p>
 
-Insider London also offer a range of exciting walking tours around London, revealing secret stories from the city’s history and visiting fascinating but little-known sites around town. These tours make fantastic away-days for schools and colleges looking to create a fun yet educational school trip. Why not consider our [Street Art Tour](/tours/street-art) for a group of art students or our [Tour of the East End](/tours/tour-of-east-end-gangs-crimes-and-hasher-times/) for history students. Or just let us know what you’re studying with your class and we will recommend a tour to suit you!
+Insider London also offer a range of exciting walking tours around London, revealing secret stories from the city’s history and visiting fascinating but little-known sites around town. These tours make fantastic away-days for schools and colleges looking to create a fun yet educational school trip. Why not consider our [Street Art Tour](/tours/street-art) for a group of art students or just let us know what you’re studying with your class and we will recommend a tour to suit you!
 
 Looking to arrange a bespoke tour for a group of school, college or university students? [Get in touch](/contact-us/) with the Insider London team today to book your tour!

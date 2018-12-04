@@ -17,19 +17,19 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=24812
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 <img class="aligncenter wp-image-24814 size-full" src="/wp-content/uploads/2015/02/pyramid-oracle_mini.jpg" alt="pyramid oracle street art london" width="569" height="850" />
 
 <p style="text-align: center;">
-  <em>Image credit: <a href="www.flickr.com/photos/maureen_barlin/16620468321" target="_blank">Maureen Barlin</a></em>
+  <em>Image credit: <a href="https://www.flickr.com/photos/maureen_barlin/16620468321" target="_blank">Maureen Barlin</a></em>
 </p>
 
 Love this piece by Pyramid Oracle, as spotted in Shoreditch. This piece is hand-pasted but you can see a variety of styles at work on this US-based artist&#8217;s recent London visit. There&#8217;s more examples to <a href="/street-art-pictures-of-the-week-camden-market/" target="_blank">spot in Camden</a>, or you can see more on <a href="https://instagram.com/pyramidoracle/" target="_blank">the Pyramid Oracle Instagram feed</a>.

@@ -19,7 +19,7 @@ Though London’s iconic buildings appear to stand immutable through time – We
 
 ##Culture Calls
 
-Though we may not have believed it in school, it’s true that education doesn’t end with a degree. Retirement is the perfect time to advance the pursuit of lifelong learning, and what better place is there to do it than London, a world museum capital? A visit to London is the perfect opportunity to discover the world of contemporary art at [Tate Modern](www.tate.org.uk/visit/tate-modern) or revisit old masters at the [National Gallery](https://www.nationalgallery.org.uk/). However, if your passions run slightly more niche, don’t be discouraged! London has museums big and small, and whether you’re curious about ]historical medical advances
+Though we may not have believed it in school, it’s true that education doesn’t end with a degree. Retirement is the perfect time to advance the pursuit of lifelong learning, and what better place is there to do it than London, a world museum capital? A visit to London is the perfect opportunity to discover the world of contemporary art at [Tate Modern](http://www.tate.org.uk/visit/tate-modern) or revisit old masters at the [National Gallery](https://www.nationalgallery.org.uk/). However, if your passions run slightly more niche, don’t be discouraged! London has museums big and small, and whether you’re curious about ]historical medical advances
 (http://www.aagbi.org/education/heritage-centre), [magic](http://themagiccircle.co.uk/) or the history of [London’s canals](http://www.canalmuseum.org.uk/), the chance to dig deeper is right at your fingertips.
 
 ##Historical London

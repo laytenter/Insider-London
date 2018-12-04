@@ -21,13 +21,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=15133
 s4_cdes:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_image2s:
-- 
+-
 s4_url2s:
-- 
+-
 ---
 
 When’s it okay to eat out of a skip? When it’s an organic vegetable garden!
@@ -64,4 +64,4 @@ With regular school visits and input from the local community, this inspirationa
   <em>Image credit: <a href="http://globalgeneration.org.uk/kings-cross-skip-garden" target="_blank">Global Generation</a></em>
 </p>
 
-You can take a tour of the Skip Garden by inquiring at the [Kings Cross Visitor Centre](http://www.kingscross.co.uk/visit-kings-cross "Kings Cross Visitor Centre") and you can explore more of the regeneration on Insider London&#8217;s [Kings Cross Regeneration and Innovation Walking Tour](https://www.insider-london.co.uk/kings-cross-innovation-tour/). For more insight into sustainable London, check out our [Cutting-Edge Green Tour](https://www.insider-london.co.uk/london-eco-green-sustainable-walking-tour) too.
+You can take a tour of the Skip Garden by inquiring at the [Kings Cross Visitor Centre](http://www.kingscross.co.uk/visit-kings-cross "Kings Cross Visitor Centre") and you can explore more of the regeneration on Insider London&#8217;s [Kings Cross Regeneration and Innovation Walking Tour](https://www.insider-london.co.uk/kings-cross-innovation-tour/). For more insight into sustainable London, check out our [Cutting-Edge Green Tour](/tours/cutting-edge-green-tour/) too.

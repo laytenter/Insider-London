@@ -22,13 +22,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=25054
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 slide_template:
 - default
 ---
@@ -69,4 +69,4 @@ With some of Britain’s leading cultural and academic institutions – such as 
   <em>Image credit: <a href="http://www.londonfestivalofarchitecture.org/">London Festival of Architecture</a></em>
 </p>
 
- If you want to explore some of London’s best architecture, join one of our walking tours. You can choose from [Modern Architecture](https://www.insider-london.co.uk/london-architecture-walking-tours/), where you’ll see hidden wonders as well as iconic buildings, or [Sustainable Architecture](https://www.insider-london.co.uk/sustainable-green-building-london-tours-2/), where you’ll see the best of London’s green structures. You can even mix-and-match with a [bespoke tour](https://www.insider-london.co.uk/private-bespoke-tours-london-walking-tours/), where the agenda will be tailored to suit you.
+ If you want to explore some of London’s best architecture, join one of our walking tours. You can choose from [Modern Architecture](https://www.insider-london.co.uk/london-architecture-walking-tours/), where you’ll see hidden wonders as well as iconic buildings, or [Sustainable Architecture](https://www.insider-london.co.uk/sustainable-green-building-london-tours-2/), where you’ll see the best of London’s green structures. You can even mix-and-match with a [bespoke tour](/tours/private-tours/), where the agenda will be tailored to suit you.

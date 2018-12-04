@@ -15,13 +15,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=15301
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 [<img class="wp-image-15304 size-full aligncenter" src="/wp-content/uploads/2014/07/Mini-Subterranean-London-resized.jpg" alt="Subterranean London von Bradley Garrett" width="569" height="457" />](/wp-content/uploads/2014/07/Mini-Subterranean-London-resized.jpg)
@@ -38,6 +38,6 @@ Another strand of his exploration follows the course of London’s subterranean 
 
 His latest book, <a href="http://www.amazon.co.uk/Subterranean-London-Cracking-Bradley-Garrett/dp/3791349457/ref=sr_1_2?ie=UTF8&qid=1405942295&sr=8-2&keywords=Bradley+Garrett" target="_blank">Subterranean London: Cracking the Capital</a> is a co-operation with fellow urbexers documenting hidden corners of the city. It takes readers on a journey down the Rabbit Hole to explore London’s rich architectural heritage, affording a rare insight into locations where few have set foot. This striking collection of extraordinary images, viewing the capital from an unusual perspective, will be a source of fascination to anyone with an interest in what lies beneath the surface.
 
-You can find out more about Bradley Garrett <a href="www.bradleygarrett.com" target="_blank">on his website</a>. He is a guest on BBC Radio 4&#8217;s <a href="http://www.bbc.co.uk/programmes/b00k3wvk" target="_blank">The Museum of Curiosity</a>, airing in November. <a href="http://www.amazon.co.uk/Explore-Everything-Place-hacking-Bradley-Garrett/dp/1781681295/ref=sr_1_1?ie=UTF8&qid=1405942295&sr=8-1&keywords=Bradley+Garrett" target="_blank">Explore Everything: Place-Hacking the City</a> is published by Verso and <a href="http://www.amazon.co.uk/Subterranean-London-Cracking-Bradley-Garrett/dp/3791349457/ref=sr_1_2?ie=UTF8&qid=1405942295&sr=8-2&keywords=Bradley+Garrett" target="_blank">Subterranean London: Cracking the Capital</a>, published by Prestel, will be available from 1 September.
+You can find out more about Bradley Garrett <a href="http://www.bradleygarrett.com" target="_blank">on his website</a>. He is a guest on BBC Radio 4&#8217;s <a href="http://www.bbc.co.uk/programmes/b00k3wvk" target="_blank">The Museum of Curiosity</a>, airing in November. <a href="http://www.amazon.co.uk/Explore-Everything-Place-hacking-Bradley-Garrett/dp/1781681295/ref=sr_1_1?ie=UTF8&qid=1405942295&sr=8-1&keywords=Bradley+Garrett" target="_blank">Explore Everything: Place-Hacking the City</a> is published by Verso and <a href="http://www.amazon.co.uk/Subterranean-London-Cracking-Bradley-Garrett/dp/3791349457/ref=sr_1_2?ie=UTF8&qid=1405942295&sr=8-2&keywords=Bradley+Garrett" target="_blank">Subterranean London: Cracking the Capital</a>, published by Prestel, will be available from 1 September.
 
 And, for further exploration of subterranean London (albeit under full supervision), why not join one of our <a title="Underground tube walking tours" href="https://www.insider-london.co.uk/london-underground-tube-tours/" target="_blank">underground group walking tours</a>? Or perhaps <a title="quirky London walking tours" href="https://www.insider-london.co.uk/quirky-weird-london-walking-tours/" target="_blank">discover some unusual aspects of London’s history</a>?

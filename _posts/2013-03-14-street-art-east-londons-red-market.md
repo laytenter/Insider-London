@@ -21,7 +21,7 @@ guid: https://www.insider-london.co.uk/?p=4796
 
 Yesterday we were scouting around for some new finds for our <a href="/london-graffiti-artists-walking-tours/" target="_blank">Street Art Tour</a> and found that <a href="http://redmarketlondon.com/" target="_blank">The Red Market</a> was open&#8230; we wandered in and had a look around to find some gorgeous pieces. Here they are!
 
-<a href="/street-art-east-londons-red-market/" rel="attachment wp-att-4807"><img class="alignnone size-full wp-image-4807" title="london-street-art-tours-shoreditch" alt="Street art at the Red Market, East London" src="/wp-content/uploads/2013/03/london-street-art-tours-shoreditch.jpg" width="569" height="427" /></a>
+<img title="london-street-art-tours-shoreditch" alt="Street art at the Red Market, East London" src="/wp-content/uploads/2013/03/london-street-art-tours-shoreditch.jpg" />
 
 This artist had covered over all the street art on the wall and was painting her own massive piece. She was 2 weeks in to a 4 week project. The whole thing will be documented stop animation – we&#8217;ll post it here when it&#8217;s done.
 

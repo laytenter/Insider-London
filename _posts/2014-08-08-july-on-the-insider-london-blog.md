@@ -19,13 +19,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=15919
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 Summer is the perfect time to explore London and we&#8217;ve been all over the city this July, from skips to subterranean tunnels. Been too busy eating ice creams to read our blog? Here&#8217;s what you have missed.
@@ -42,7 +42,7 @@ An added incentive for getting out and about at the moment are <a href="/londons
   Image credit: <a href="http://www.kingscross.co.uk/" target="_blank">King&#8217;s Cross</a>
 </p>
 
-We have been getting to know King&#8217;s Cross even better recently, from the stunning array of <a href="/art-station-the-kings-cross-regeneration/" target="_blank">public art</a> in the area to <a href="/kings-cross-station-kings-cross-regeneration/" target="_blank">the impact of the station itself</a>. We spoke to arty newcomers <a href="/the-house-of-illustration-kings-cross/" target="_blank">The House of Illustration</a> and got our hands grubby at <a href="%20/global-generation-the-skip-garden/" target="_blank">the Skip Garden project</a> (if you&#8217;d like to do more of that, check out our guide to <a href="/global-generation-the-skip-garden/" target="_blank">ecology volunteering projects in London</a>).
+We have been getting to know King&#8217;s Cross even better recently, from the stunning array of <a href="/art-station-the-kings-cross-regeneration/">public art</a> in the area to <a href="/kings-cross-station-kings-cross-regeneration/">the impact of the station itself</a>. We spoke to arty newcomers <a href="/the-house-of-illustration-kings-cross/" target="_blank">The House of Illustration</a> and got our hands grubby at <a href="/global-generation-the-skip-garden/" >the Skip Garden project</a> (if you&#8217;d like to do more of that, check out our guide to <a href="/global-generation-the-skip-garden/" target="_blank">ecology volunteering projects in London</a>).
 
 [<img class="size-full wp-image-15826 aligncenter" src="/wp-content/uploads/2014/07/Mobstr.jpg" alt="Mobstr London street art walking tour" width="569" height="427" />](/wp-content/uploads/2014/07/Mobstr.jpg)
 

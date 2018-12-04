@@ -1,7 +1,7 @@
 ---
 title: Protein Forum &#8211; The Future of Music Listening (pt 1)
 date: 2012-12-17 15:42:43 Z
-permalink: "/protein-future-music-trends-londo/"
+permalink: "/protein-future-music-trends-london/"
 categories:
 - blog
 - East London

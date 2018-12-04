@@ -22,13 +22,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=21294
 s4_cdes:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_image2s:
-- 
+-
 s4_url2s:
-- 
+-
 ---
 
 Well, we&#8217;re not quite sure how it happened but apparently it&#8217;s already September. We&#8217;ve bought ourselves a new notebook and pencil in readiness for the excitement of autumn in London but, before we start with that, let&#8217;s celebrate some of the best bits of August.
@@ -49,7 +49,7 @@ Did you catch anything of <a href="/london-festival-of-architecture-2014-the-bes
   <em>Braun and Hogenberg 1572. Copyright Daniel Crouch </em>
 </p>
 
-Also just opened is a display about the <a href="/mapping-london/" target="_blank">mapping of Londo</a>n, featuring this incredible 16th-century map. You&#8217;ll need to head down to the Science Museum too, before the 14 September, for <a href="/the-rubbish-collection-at-the-science-museum/" target="_blank">an exhibition which is, literally, rubbish</a>.
+Also just opened is a display about the <a href="/mapping-london/" target="_blank">mapping of Londo</a>n, featuring this incredible 16th-century map. You&#8217;ll need to head down to the Science Museum too, before the 14 September, for <a href="/the-rubbish-collection-at-the-science-museum/">an exhibition which is, literally, rubbish</a>.
 
 <p style="text-align: center;">
   <a href="/wp-content/uploads/2014/08/Gasholder.jpg"><img class="alignnone size-full wp-image-17024" src="/wp-content/uploads/2014/08/Gasholder.jpg" alt="Gasholder kings cross regeneration" width="569" height="427" /></a>

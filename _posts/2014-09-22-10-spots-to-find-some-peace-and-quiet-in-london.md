@@ -22,13 +22,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=22159
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 Sometimes the pace of London life can all get too much. We all feel it: it&#8217;s why Siobhan Wall&#8217;s <a href="http://www.amazon.co.uk/Quiet-London-Siobhan-Wall/dp/0711231907" target="_blank">Quiet London book</a> was such a success. Its soothing pages directed frazzled Londoners to quiet spots in the capital to meet and talk, and sit and think.
@@ -40,7 +40,7 @@ In three new books, Siobhan has unearthed many more hidden, peaceful gems. <a hr
 [<img class="aligncenter wp-image-22164 size-full" src="/wp-content/uploads/2014/09/East-India-Docks.jpg" alt="East india docks" width="569" height="427" />](/wp-content/uploads/2014/09/East-India-Docks.jpg)
 
 <p style="text-align: center;">
-  <em>East India Docks. Image credit: <a href="www.flickr.com/photos/16801915@N06/6915212100" target="_blank">Reading Tom</a></em>
+  <em>East India Docks. Image credit: <a href="https://https://www.flickr.com/photos/16801915@N06/6915212100" target="_blank">Reading Tom</a></em>
 </p>
 
 1. <a href="http://www.visitleevalley.org.uk/en/content/cms/nature/nature-reserve/bow-creek/" target="_blank">East India Dock Basin</a>
@@ -58,7 +58,7 @@ We&#8217;ll be using this to relax after one of our <a href="https://www.insider
 [<img class="aligncenter wp-image-22165 size-full" src="/wp-content/uploads/2014/09/Cloister-cafe.jpg" alt="cloister cafe" width="569" height="425" />](/wp-content/uploads/2014/09/Cloister-cafe.jpg)
 
 <p style="text-align: center;">
-  <em>The Cloister Cafe. Image credit: <a href="www.flickr.com/photos/markdodds/6257401330" target="_blank">J Mark Dodds</a></em>
+  <em>The Cloister Cafe. Image credit: <a href="https://www.flickr.com/photos/markdodds/6257401330" target="_blank">J Mark Dodds</a></em>
 </p>
 
 4. <a href="http://www.greatstbarts.com/Pages/Cloister_Cafe/cafe.html" target="_blank">The Cloister Cafe, Great St Bartholomew&#8217;s</a>
@@ -72,7 +72,7 @@ Sound as much fun as pulling teeth? This small museum will help convince you how
 [<img class="aligncenter wp-image-22166 size-full" src="/wp-content/uploads/2014/09/calthorpe-project.jpg" alt="Calthorpe project gardens" width="569" height="380" />](/wp-content/uploads/2014/09/calthorpe-project.jpg)
 
 <p style="text-align: center;">
-  <em>Calthorpe Project Gardens. Image credit: <a href="www.flickr.com/photos/55935853@N00/8699311492" target="_blank">Ewan Munro</a></em>
+  <em>Calthorpe Project Gardens. Image credit: <a href="https://www.flickr.com/photos/55935853@N00/8699311492" target="_blank">Ewan Munro</a></em>
 </p>
 
 6. <a href="http://www.calthorpeproject.org.uk/" target="_blank">Calthorpe Gardens</a>
@@ -90,7 +90,7 @@ Another place to escape the frantic pace of Old Street, this garden has been a p
 [<img class="aligncenter wp-image-22167 size-full" src="/wp-content/uploads/2014/09/paul-rothe_mini.jpg" alt="paul rothe deli london" width="569" height="381" />](/wp-content/uploads/2014/09/paul-rothe_mini.jpg)
 
 <p style="text-align: center;">
-  <em>Inside Paul Rothe & Son deli. Image credit: <a href="www.flickr.com/photos/rocketlass/8420523372" target="_blank">Stacey Shintani</a></em>
+  <em>Inside Paul Rothe & Son deli. Image credit: <a href="https://www.flickr.com/photos/rocketlass/8420523372" target="_blank">Stacey Shintani</a></em>
 </p>
 
 9. <a href="http://paulrotheandsondelicatessen.co.uk/" target="_blank">Paul Rothe & Son Delicatessen</a>

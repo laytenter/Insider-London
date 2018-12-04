@@ -28,7 +28,7 @@ This?
 [<img class="size-full wp-image-14929 aligncenter" src="/wp-content/uploads/2014/06/london-sustainable-architecture-acquatics-centre-e1402671820645.jpg" alt="london sustainable architecture acquatics centre" width="569" height="427" />](/wp-content/uploads/2014/06/london-sustainable-architecture-acquatics-centre-e1402671820645.jpg)
 
 <p style="text-align: center;">
-  <em>Image credit: <a href="www.flickr.com/photos/adeleprince/13957701270" target="_blank">Adele Prince</a></em>
+  <em>Image credit: <a href="https://www.flickr.com/photos/adeleprince/13957701270" target="_blank">Adele Prince</a></em>
 </p>
 
 This?
@@ -48,7 +48,7 @@ Or this?
 &nbsp;
 
 <p style="text-align: center;">
-  <em>Image credit: <a href="www.flickr.com/photos/calotype46/6626975967" target="_blank">Snapshooter46</a></em>
+  <em>Image credit: <a href="https://www.flickr.com/photos/calotype46/6626975967" target="_blank">Snapshooter46</a></em>
 </p>
 
 This first image is Zaha Hadid’s Aquatic centre in the Olympic park, London. The games had sustainability at their absolute core, being an opportunity for Britain to display its credentials in this field. The very idea of the ‘legacy’ of the games – what happens to the site post-Olympics – is one of sustainability. Anyway, 2012 was an opportunity to showcase how far sustainable architecture, both in theory and in practice, had come in Britain. Recycled materials, renewable energies and sustainable sourcing all featured heavily in the construction of the buildings. The Aquatics centre’s ceiling consists of 30,000 strips of sustainably sourced Red Lauro timber; conversely, half of the aluminium roof covering is recycled. Addressing ‘legacy’, the plumbing throughout the building is low-flow, essentially using less water which will enable the building to save 29% on water over its lifespan. Carbon emissions were 10% lower than the original design, achieved by a variety of methods; for instance, the 866,000 ceramic tiles in the various pools in the building were delivered by train to the Olympic site rather than road.
@@ -60,7 +60,7 @@ This first image is Zaha Hadid’s Aquatic centre in the Olympic park, London. T
 &nbsp;
 
 <p style="text-align: center;">
-  <em>Image credit: <a href="www.flickr.com/photos/adeleprince/13957701270" target="_blank">Adele Prince</a></em>
+  <em>Image credit: <a href="https://www.flickr.com/photos/adeleprince/13957701270" target="_blank">Adele Prince</a></em>
 </p>
 
 In all of these aspects the Aquatics centre is typical of the other buildings on the Olympic site. Following their example, ‘sustainable’ architecture would seem to involve intelligent sourcing of material, either reclaimed or new and measures to reduce energy consumption, both in construction and in use. But the Olympics were a vast, one off event that achieved equally vast, one-off projects. Buildings needed to be icons and were designed as such, particularly with reference to the sports contained within them. The Aquatics centre is very… aquatic. But what happens when this need is stripped away, and sustainability is permitted to guide the appearance of the building? What does more commonplace ‘sustainable’ architecture look like?

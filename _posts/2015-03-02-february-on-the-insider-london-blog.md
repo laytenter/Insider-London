@@ -25,13 +25,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=24860
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 February is the cruellest month &#8211; or so the poem goes. Well, it&#8217;s certainly one of the coolest. We&#8217;ve been keeping ourselves busy, however. Here are our favourite posts from the last month.
@@ -50,7 +50,7 @@ Something to celebrate in the midst of Feb (other than Valentine&#8217;s Day. Or
   <em>Image credit: <a href="http://cevicheuk.com/">Ceviche</a></em>
 </p>
 
-Another reason to celebrate was London&#8217;s showing at the Sustainable Restaurant Awards. We profiled [the London contenders on the shortlist here](Sustainable%20Restaurant Awards 2015). The winners have now been announced &#8211; winners included Wahaca, The Truscott Arms and Ceviche (a delicious-looking dish is pictured above).
+Another reason to celebrate was London&#8217;s showing at the Sustainable Restaurant Awards. We profiled [the London contenders on the shortlist here](/the-sustainable-restaurant-awards-2015/). The winners have now been announced &#8211; winners included Wahaca, The Truscott Arms and Ceviche (a delicious-looking dish is pictured above).
 
 Sustainability can mean many different things and &#8211; for something slightly different &#8211; we took an in-depth look at [the initiatives being implemented by the CrossRail project](/making-tracks-crossrail-sustainability/).
 

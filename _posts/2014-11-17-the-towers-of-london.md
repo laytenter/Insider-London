@@ -16,13 +16,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=23302
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 The news that London is set to be hit with 230 new towers has been making the headlines recently, but tall buildings are nothing new to the capital. We’re taking a look at some of the city’s tallest towers from throughout the ages, comparing structures from 1100 all the way to the present day. You can check out some of the city&#8217;s most modern additions on our [Modern Architecture walking tour](https://www.insider-london.co.uk/london-architecture-walking-tours/).
@@ -68,7 +68,7 @@ The news that London is set to be hit with 230 new towers has been making the he
 <img class="aligncenter size-full wp-image-23309" src="/wp-content/uploads/2014/11/BeFunky_victoria-tower.jpg_mini.jpg" alt="Victoria Tower" width="569" height="455" />
 
 <p style="text-align: center">
-  <em>Image credit: <a href="www.destination360.com">Destination 360</a></em>
+  <em>Image credit: <a href="http://www.destination360.com">Destination 360</a></em>
 </p>
 
 **Name: **Victoria Tower
@@ -108,7 +108,7 @@ The news that London is set to be hit with 230 new towers has been making the he
 </p>
 
 <p style="text-align: center">
-  <em>Image credit: <a href="www.flickr.com/photos/fsse-info/9551455042" target="_blank">fsseinfo</a></em>
+  <em>Image credit: <a href="https://www.flickr.com/photos/fsse-info/9551455042" target="_blank">fsseinfo</a></em>
 </p>
 
 **Name:** The Shard

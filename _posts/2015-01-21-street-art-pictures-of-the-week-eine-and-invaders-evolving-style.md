@@ -19,13 +19,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=24533
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 <img class="aligncenter wp-image-24536 size-full" src="/wp-content/uploads/2015/01/27b_mini.jpg" alt="Invader street art picture London walking tour" width="560" height="475" />
@@ -38,4 +38,4 @@ The above piece is an old favourite by Invader, photographed on Holywell Lane/Cu
 
 This second picture, meanwhile, shows a work by Ben Eine &#8211; best known for his 3-coloured letters on street shutters. This piece, created last summer in Club Row with spray cans, is a much more involved mural with elaborate lettering.
 
-_Spotted any great street art recently? Drop us a line on <a href="https://www.facebook.com/insiderlondon" target="_blank">Facebook</a> or <a href="twitter.com/insiderlondon" target="_blank">Twitter</a> and let us know about it. And, if not, come and join us on a <a href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">London street art and graffiti walking tour</a> and we can help you spot some! _
+_Spotted any great street art recently? Drop us a line on <a href="https://www.facebook.com/insiderlondon" target="_blank">Facebook</a> or <a href="https://twitter.com/insiderlondon" target="_blank">Twitter</a> and let us know about it. And, if not, come and join us on a <a href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">London street art and graffiti walking tour</a> and we can help you spot some! _

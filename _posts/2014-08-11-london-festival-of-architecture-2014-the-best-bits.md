@@ -16,13 +16,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=15862
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 Londoners with a keen eye for design will have had plenty to behold this summer, thanks to the Festival of Architecture, a celebration first initiated by The Architecture Foundation ten years ago. From family events to professional competitions, indoor exhibitions to outdoor spaces, there’s been a lot going on in the capital city – ‘Capital’ itself being the theme for 2014 &#8211; with the festival featuring over 150 installations. Check out our round-up of the best bits from this year’s collection.
@@ -34,7 +34,7 @@ Chilean architect, Smiljan Radić created this cylindrical shell. It sits suspen
 [<img class="aligncenter size-full wp-image-15869" src="/wp-content/uploads/2014/08/BeFunky_lfa-serpentine-pavillion.jpg_mini.jpg" alt="LFA" width="569" height="378" />](/wp-content/uploads/2014/08/BeFunky_lfa-serpentine-pavillion.jpg_mini.jpg)
 
 <p style="text-align: center">
-  <em>Image via <a href="www.serpentinegalleries.org">Serpentine Galleries</a></em>
+  <em>Image via <a href="http://www.serpentinegalleries.org">Serpentine Galleries</a></em>
 </p>
 
  [Re-imagining Hammersmith](http://www.westlondonlink.co.uk/)
@@ -44,7 +44,7 @@ Four local Hammersmith schools sent their students on a mission to dream up a ne
 <img class="aligncenter size-full wp-image-15867" src="/wp-content/uploads/2014/08/BeFunky_lfa-hammersmith.jpg_mini.jpg" alt="Architecture Design Competition" width="569" height="465" />
 
 <p style="text-align: center">
-  <em>Image via <a href="westlondonlink.co.uk">West London Link</a></em>
+  <em>Image via <a href="https://www.westlondonlink.co.uk">West London Link</a></em>
 </p>
 
  [The LEGO Challenge](https://www.royalacademy.org.uk/event/209)
@@ -54,7 +54,7 @@ And from actual kids to adults who just wanted an excuse to play with LEGO, ever
 <img class="aligncenter size-full wp-image-15868" src="/wp-content/uploads/2014/08/BeFunky_lfa-LEGO.jpg_mini.jpg" alt="Competition" width="569" height="464" />
 
 <p style="text-align: center">
-  <em>Image via <a href="royalacademy.org.uk">Royal Academy</a></em>
+  <em>Image via <a href="https://www.royalacademy.org.uk">Royal Academy</a></em>
 </p>
 
 [Bike Rides](http://www.londonarchitecturediary.com/)
@@ -64,7 +64,7 @@ For those who prefer their architecture outdoors, organised bike rides took grou
 <img class="aligncenter size-full wp-image-15864" src="/wp-content/uploads/2014/08/BeFunky_lfa-bike-ride.jpg_mini.jpg" alt="Bike Tour" width="560" height="373" />
 
 <p style="text-align: center">
-  <em>Image via <a href="bdonline.co.uk">BD Online</a></em>
+  <em>Image via <a href="http://www.bdonline.co.uk">BD Online</a></em>
 </p>
 
 [Cloud Architecture](http://www.cloud-arch.com/)
@@ -74,7 +74,7 @@ On the subject of iconic landmarks, Old Spitalfields Market looks like it’s ab
 <img class="aligncenter size-full wp-image-15865" src="/wp-content/uploads/2014/08/BeFunky_lfa-cloud.jpg_mini.jpg" alt="Spitalfields Market" width="569" height="379" />
 
 <p style="text-align: center">
-  <em>Image via <a href="cloud-arch.com">Cloud Architecture</a></em>
+  <em>Image via <a href="http://www.cloud-arch.com">Cloud Architecture</a></em>
 </p>
 
 [The Power of Architecture](http://designmuseum.org/exhibitions/2014/louis-kahn)
@@ -84,5 +84,5 @@ London’s Design Museum are celebrating American architect Louis Kahn &#8211; r
 <img class="aligncenter size-full wp-image-15866" src="/wp-content/uploads/2014/08/BeFunky_lfa-design-museum.jpg_mini.jpg" alt="London Design Museum" width="569" height="288" />
 
 <p style="text-align: center">
-   <em>Image via <a href="londonarchitecturediary.com">London Architecture Diary</a></em>
+   <em>Image via <a href="http://www.londonarchitecturediary.com">London Architecture Diary</a></em>
 </p>

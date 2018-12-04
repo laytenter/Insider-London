@@ -20,12 +20,10 @@ layout: post
 guid: https://www.insider-london.co.uk/?p=4486
 ---
 
-<p style="text-align: center;">
-  <a href="/future-film-bfi-london/strings/" target="_blank" rel="attachment wp-att-4584"><img class="aligncenter size-full wp-image-4584" alt="Strings" src="/wp-content/uploads/2013/02/Strings.jpg" width="569" height="320" /></a>
-</p>
+<img class="aligncenter size-full wp-image-4584" alt="Strings" src="/wp-content/uploads/2013/02/Strings.jpg" />
 
 Last week I went to the <a href="https://www.insider-london.co.uk/?p=4395&preview=true" target="_blank">BFI Future Film Festival</a>, and spent a packed day watching inspiring films by new filmmakers, and learning the secrets to nurturing your big-screen aspirations.
-  
+
 I was also lucky enough to grab 10 minutes with past Future Film Award winner <a href="http://rob-savage.co.uk/" target="_blank">Rob Savage</a>, whose BIFA award winning film &#8216;Strings&#8217; was screened at the festival.
 
 **There’s a lot of focus on your age- you’re only 20. How does it feel to be a role model for other young film makers?**

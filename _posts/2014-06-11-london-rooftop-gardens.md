@@ -67,7 +67,7 @@ This Foster & Partners-designed development, now offices for PwC, currently hold
 [<img class="aligncenter wp-image-14911 size-full" src="/wp-content/uploads/2014/06/st-pauls-from-merrill-lynch-green-roof.jpg" alt="st pauls from merrill lynch London green financial" width="569" height="380" />](/wp-content/uploads/2014/06/st-pauls-from-merrill-lynch-green-roof.jpg)
 
 <p style="text-align: center;">
-  <em>Image credit: <a href="www.flickr.com/photos/stevecadman/3849267223/" target="_blank">Steve Cadman</a></em>
+  <em>Image credit: <a href="https://www.flickr.com/photos/stevecadman/3849267223/" target="_blank">Steve Cadman</a></em>
 </p>
 
 Completed in 2001, this was one of the first rooftops to go green in the finance world, with a large, accessible intensive roof garden, complete with views towards St. Paul’s (as you can see from <a href="https://www.flickr.com/photos/stevecadman/3849267223" target="_blank">this photograph</a>, taken on the Merrill Lynch roof). Predating BREEAM ratings, the garden was created primarily with the aim of creating an attractive overall workspace, with the benefits that brings to employees. And, where it led, many have followed…

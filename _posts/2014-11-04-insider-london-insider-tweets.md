@@ -10,13 +10,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=23107
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 [<img class="aligncenter wp-image-23110 size-full" src="/wp-content/uploads/2014/10/Insider-London.png" alt="Insider London" width="569" height="504" />](/wp-content/uploads/2014/10/Insider-London.png)
@@ -31,4 +31,4 @@ Their [London team](http://www.hoteldirect.co.uk/london/) were looking for a way
 
 Every week, Hotel Direct will be interviewing each member of the list on their blog, to find out what each influencer can offer to you London-lovers out there, with our very own [Frances featuring in this week’s interview](http://events.hoteldirect.co.uk/twitter-guide/insider-london/).
 
-And, if you&#8217;re not following us already, our twitter feed can be found at <a href="twitter.com/insiderlondon" target="_blank">@insiderlondon</a>.
+And, if you&#8217;re not following us already, our twitter feed can be found at <a href="https://twitter.com/insiderlondon" target="_blank">@insiderlondon</a>.

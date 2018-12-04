@@ -15,13 +15,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=23118
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 You may have remember remembered the 5th of November, but what did you miss on the Insider London blog over October? No gunpowder, treason and plot around these parts, but we do have <a href="/sherlock-homes-the-great-detective/" target="_blank">Sherlock Holmes</a>, <a href="/the-next-generation-of-london-underground-trains/" target="_blank">tube trains</a> and <a href="/shuttlecock-and-a-new-pop-up-dining-experience/" target="_blank">Shuttlecock pop-ups</a>. Read on to find out how we really marked the month with a bang&#8230;
@@ -55,7 +55,7 @@ Recognise this building? This lighthouse doesn&#8217;t guide poor sailors away f
 </p>
 
 <p style="text-align: left;">
-  We&#8217;ve also just launched a <a href="https://www.insider-london.co.uk/alternative-london-tours/londonfinancewalkingtour/" target="_blank">London finance tour</a>, so you can discover how the history of cash has shaped the capital. And, to help with saving a bit of money, don&#8217;t forget to check out <a href="/money-off-your-london-rent-with-myrooms/" target="_blank">our promotion with MyRooms </a>to get a discount off your London rent.
+  We&#8217;ve also just launched a <a href="/alternative-london-tours/" target="_blank">London finance tour</a>, so you can discover how the history of cash has shaped the capital. And, to help with saving a bit of money, don&#8217;t forget to check out <a href="/money-off-your-london-rent-with-myrooms/" target="_blank">our promotion with MyRooms </a>to get a discount off your London rent.
 </p>
 
 <p style="text-align: left;">

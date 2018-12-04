@@ -15,13 +15,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=23113
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 [<img class="aligncenter wp-image-23049 size-full" src="/wp-content/uploads/2014/10/Buxton-Street-London-street-art.jpg" alt="Buxton Street London street art walking tour" width="569" height="380" />](/wp-content/uploads/2014/10/Buxton-Street-London-street-art.jpg)
@@ -39,11 +39,11 @@ The Outings Project encourages you to go into a gallery, take a photo with your 
 </div>
 
 <div style="text-align: center;">
-  <em>One of the portraits being pasted up, Madrid. Image credit: <a href="www.flickr.com/photos/outingsproject/14995293964/" target="_blank">The Outings Project</a></em>
+  <em>One of the portraits being pasted up, Madrid. Image credit: <a href="https://www.flickr.com/photos/outingsproject/14995293964/" target="_blank">The Outings Project</a></em>
 </div>
 
 **Why do you think it’s important to take these artworks outside of the museum?**
-  
+
 If your brain can&#8217;t handle watching a lot of movies in only one day, how your brain can view 500 paintings in two hours during a museum visit ? We have no choice: the exhibition system makes you focus on the &#8216;star&#8217; paintings, rather than being able to appreciate lots of paintings. We make the choice to show forgotten pictures.
 
 <div>
@@ -55,11 +55,11 @@ If your brain can&#8217;t handle watching a lot of movies in only one day, how y
 </div>
 
 **What kind of reaction do you get from people who see the works on the street?**
-  
+
 One thing surprised really us : we have exactly the same reaction from &#8220;hip-hop teenagers&#8221; or &#8220;harpsichord old men&#8221;: they think its very beautiful. Probably because its our common culture.
 
 **What’s been your favourite placing of a work to date?**
-  
+
 Paris is great to stick, because there is a real interaction between the old city and the old peoples. They seem really in place back in the same town where they once lived.
 
 <div>
@@ -67,15 +67,15 @@ Paris is great to stick, because there is a real interaction between the old cit
 </div>
 
 <div style="text-align: center;">
-  <em>Paris. Image credit: <a href="www.flickr.com/photos/outingsproject/14995090053/in/photostream/" target="_blank">The Outings Project</a></em>
+  <em>Paris. Image credit: <a href="https://www.flickr.com/photos/outingsproject/14995090053/in/photostream/" target="_blank">The Outings Project</a></em>
 </div>
 
 **Have you been working directly with any of the museums on the project?**
-  
+
 We want to! We only started the project in August, but we have already a contact with one french fine art museum.
 
 **Where’s next in the world?**
-  
+
 <a href="http://www.outings-project.org/#!asuncion-paraguay/c6u6" target="_blank">Asuncion, Paraguay</a>, is the most recent project. Padova in Italy, Provo in Utah, and Tirana in Albania are coming soon!
 
 <div>
@@ -90,7 +90,7 @@ We want to! We only started the project in August, but we have already a contact
 </div>
 
 **What are your ambitions for the project?**
-  
+
 It&#8217;s a participative project. We want to see people from all around the world to discover act of sticking in the street and become street artists in the project! On our website, we tell you exactly how to do it.
 
 **Thanks Julien!**

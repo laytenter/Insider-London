@@ -17,13 +17,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=24890
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 Silicon Roundabout’s expected makeover has been a talking point since TfL unveiled its plans to transform the area into a pedestrian-friendly zone, demolishing the renowned roundabout in favour of a large public square, cycle lanes and pop-up shops.
@@ -51,7 +51,7 @@ The centre was designed to support up to 200 start-ups per year, helping an esti
 Work was planned to start in 2014, but in March of that year, it was announced that no final decisions had been made, and the money will remain with the treasury until an agreement has been reached.
 
 <p style="text-align: center;">
-   <a href="/wp-content/uploads/2015/03/Amazon.jpg.jpg"><img class="aligncenter size-full wp-image-24895" src="/wp-content/uploads/2015/03/Amazon.jpg.jpg" alt="Amazon" width="569" height="267" /></a><em>Image Credit: <a href="amazon.co.uk">Amazon</a></em>
+   <a href="/wp-content/uploads/2015/03/Amazon.jpg.jpg"><img class="aligncenter size-full wp-image-24895" src="/wp-content/uploads/2015/03/Amazon.jpg.jpg" alt="Amazon" width="569" height="267" /></a><em>Image Credit: <a href="https://www.amazon.co.uk">Amazon</a></em>
 </p>
 
 **Amazon’s Arrival**
@@ -73,7 +73,7 @@ Smaller companies, however, are finding it harder to set up shop in the area wit
 Some are concerned that the price hike will see start-ups moving to other areas of the capital, with King’s Cross and the East End becoming increasingly popular places.
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-24896" src="/wp-content/uploads/2015/03/virgin-logo.jpg" alt="Virgin Media" width="569" height="478" /><em>Image Credit: <a href="virginmedia.com">Virgin Media </a></em>
+  <img class="aligncenter size-full wp-image-24896" src="/wp-content/uploads/2015/03/virgin-logo.jpg" alt="Virgin Media" width="569" height="478" /><em>Image Credit: <a href="https://www.virginmedia.com">Virgin Media </a></em>
 </p>
 
 &nbsp;

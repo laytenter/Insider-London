@@ -19,13 +19,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=15191
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 You don&#8217;t need to jet off to the Amazon to get to grips with nature. We’ve found some brilliant ecology volunteering opportunities here in London, all within view of your nearest Pret A Manger.
@@ -61,7 +61,7 @@ Amongst their many volunteer opportunities there’s the chance to get involved 
 [<img class="aligncenter size-full wp-image-15196" src="/wp-content/uploads/2014/07/BeFunky_moth.jpg_mini.jpg" alt="London Wildlife" width="569" height="369" />](/wp-content/uploads/2014/07/BeFunky_moth.jpg_mini.jpg)
 
 <p style="text-align: center;">
-  <em>Image via <a title="London Wildlife" href="www.wildlifetrusts.org" target="_blank">wildlifetrusts.org</a></em>
+  <em>Image via <a title="London Wildlife" href="http://www.wildlifetrusts.org" target="_blank">wildlifetrusts.org</a></em>
 </p>
 
 And once you’re all green-fingered-out for the day, you and your fellow volunteers can enjoy the fruits of your labour by taking a group tour with Insider London. You can join the <a title="Alternative Walking Tour" href="https://www.insider-london.co.uk/london-eco-green-sustainable-walking-tour/" target="_blank">Cutting-Edge Green Tour</a>, or get in touch to <a title="Custom Walking Tours" href="https://www.insider-london.co.uk/private-bespoke-tours-london-walking-tours/" target="_blank">build your own custom itinerary</a>.
