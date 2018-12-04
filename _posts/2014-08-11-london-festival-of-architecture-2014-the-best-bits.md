@@ -16,13 +16,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=15862
 s4_url2s:
--
+- 
 s4_image2s:
--
+- 
 s4_ctitle:
--
+- 
 s4_cdes:
--
+- 
 ---
 
 Londoners with a keen eye for design will have had plenty to behold this summer, thanks to the Festival of Architecture, a celebration first initiated by The Architecture Foundation ten years ago. From family events to professional competitions, indoor exhibitions to outdoor spaces, there’s been a lot going on in the capital city – ‘Capital’ itself being the theme for 2014 &#8211; with the festival featuring over 150 installations. Check out our round-up of the best bits from this year’s collection.

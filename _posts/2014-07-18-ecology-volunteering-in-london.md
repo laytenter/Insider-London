@@ -19,13 +19,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=15191
 s4_url2s:
--
+- 
 s4_image2s:
--
+- 
 s4_ctitle:
--
+- 
 s4_cdes:
--
+- 
 ---
 
 You don&#8217;t need to jet off to the Amazon to get to grips with nature. We’ve found some brilliant ecology volunteering opportunities here in London, all within view of your nearest Pret A Manger.

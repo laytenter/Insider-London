@@ -18,13 +18,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=24802
 s4_url2s:
--
+- 
 s4_image2s:
--
+- 
 s4_ctitle:
--
+- 
 s4_cdes:
--
+- 
 ---
 
 As of late, the talk of London town has been the new Crossrail network, due to open in 2018. The route will connect East and West London, serving more than 40 stations and cutting down travel times across the city.

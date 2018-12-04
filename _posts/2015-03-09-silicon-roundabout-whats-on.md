@@ -17,13 +17,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=24890
 s4_url2s:
--
+- 
 s4_image2s:
--
+- 
 s4_ctitle:
--
+- 
 s4_cdes:
--
+- 
 ---
 
 Silicon Roundabout’s expected makeover has been a talking point since TfL unveiled its plans to transform the area into a pedestrian-friendly zone, demolishing the renowned roundabout in favour of a large public square, cycle lanes and pop-up shops.

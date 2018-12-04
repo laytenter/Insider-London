@@ -15,13 +15,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=23118
 s4_url2s:
--
+- 
 s4_image2s:
--
+- 
 s4_ctitle:
--
+- 
 s4_cdes:
--
+- 
 ---
 
 You may have remember remembered the 5th of November, but what did you miss on the Insider London blog over October? No gunpowder, treason and plot around these parts, but we do have <a href="/sherlock-homes-the-great-detective/" target="_blank">Sherlock Holmes</a>, <a href="/the-next-generation-of-london-underground-trains/" target="_blank">tube trains</a> and <a href="/shuttlecock-and-a-new-pop-up-dining-experience/" target="_blank">Shuttlecock pop-ups</a>. Read on to find out how we really marked the month with a bang&#8230;

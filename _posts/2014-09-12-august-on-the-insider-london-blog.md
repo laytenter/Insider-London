@@ -22,13 +22,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=21294
 s4_cdes:
--
+- 
 s4_ctitle:
--
+- 
 s4_image2s:
--
+- 
 s4_url2s:
--
+- 
 ---
 
 Well, we&#8217;re not quite sure how it happened but apparently it&#8217;s already September. We&#8217;ve bought ourselves a new notebook and pencil in readiness for the excitement of autumn in London but, before we start with that, let&#8217;s celebrate some of the best bits of August.

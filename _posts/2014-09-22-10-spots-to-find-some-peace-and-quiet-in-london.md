@@ -22,13 +22,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=22159
 s4_url2s:
--
+- 
 s4_image2s:
--
+- 
 s4_ctitle:
--
+- 
 s4_cdes:
--
+- 
 ---
 
 Sometimes the pace of London life can all get too much. We all feel it: it&#8217;s why Siobhan Wall&#8217;s <a href="http://www.amazon.co.uk/Quiet-London-Siobhan-Wall/dp/0711231907" target="_blank">Quiet London book</a> was such a success. Its soothing pages directed frazzled Londoners to quiet spots in the capital to meet and talk, and sit and think.
