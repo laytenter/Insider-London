@@ -10,11 +10,17 @@ heading: Are you Christmas shopping like a millenial?
 layout: post
 ---
 
+![christmas shopping](/uploads/christmas%20shopping.jpg)
+
 Will shops be in trouble this festive season? In the face of high rents and student debt, “Generation Z” is believed to be more cautious about spending money. Earlier this year, the Guardian reported millenial spending habits as one reason why the [high street is in trouble with over 6,000 closures](https://www.theguardian.com/business/2018/apr/11/tough-year-high-street-internet-shopping-weak-pound). The latest figures from Barclaycard confirm a [decrease in spending in department stores, on vehicle sales and on household appliances](https://www.theguardian.com/business/2017/may/13/just-do-it-the-experience-economy-and-how-we-turned-our-backs-on-stuff).  
 
  
 
-Anyone heading to Central London for their Christmas shopping may notice the increasing amount of colourful concept bars and trendy cafes, but perhaps Oxford Street is less crowded this year? (We can live in hope.) Millenials in particular, we are told, have different spending habits to their elders. According to the BBC, they flock to novelty cocktail bars and restaurants because they [prefer experiences to materiel spending](https://www.bbc.co.uk/news/business-45642270).  
+Anyone heading to Central London for their Christmas shopping may notice the increasing amount of colourful concept bars and trendy cafes, but perhaps Oxford Street is less crowded this year? (We can live in hope.) Millenials in particular, we are told, have different spending habits to their elders. According to the BBC, they flock to novelty cocktail bars and restaurants because they [prefer experiences to material spending](https://www.bbc.co.uk/news/business-45642270). 
+
+![christmas shopping experiences](/uploads/christmas%20shopping%20experiences.jpg) 
+
+
 
  
 
