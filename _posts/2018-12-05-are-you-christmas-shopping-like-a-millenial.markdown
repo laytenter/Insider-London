@@ -2,7 +2,6 @@
 title: Are you Christmas shopping like a millenial?
 date: 2018-12-05 15:48:00 Z
 permalink: "/are-you-christmas-shopping-like-a-millenial/"
-published: false
 description: Will shops be in trouble this festive season? In the face of high rents
   and student debt, “Generation Z” is believed to be more cautious about spending
   money.
