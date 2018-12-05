@@ -17,7 +17,7 @@ Will shops be in trouble this festive season? In the face of high rents and stud
 
 Anyone heading to Central London for their Christmas shopping may notice the increasing amount of colourful concept bars and trendy cafes, but perhaps Oxford Street is less crowded this year? (We can live in hope.) Millenials in particular, we are told, have different spending habits to their elders. According to the BBC, they flock to novelty cocktail bars and restaurants because they [prefer experiences to material spending](https://www.bbc.co.uk/news/business-45642270). 
 
-![christmas shopping experiences](/uploads/christmas%20shopping%20experiences.jpg) 
+
 
 
 
@@ -25,7 +25,7 @@ Anyone heading to Central London for their Christmas shopping may notice the inc
 
 Returning to the data from Barclaycard, there were notable exceptions to the spending cuts. Figures for April of this year for example show a 20% increase in spending in pubs compared with April 2017. Similarly restaurants are enjoying a 16% rise, just above theatres and cinemas which saw a 13% rise. The CEO of Next, Lord Wolfson, blamed the retail giant's profit drops on [consumers spending more money on holidays and less money on clothes](https://www.theguardian.com/business/2017/mar/23/next-price-rises-profits-fall-pound-brexit). Ikea suggested last year [we have reached “peak stuff”](https://www.ft.com/content/f4b47ecc-bdf2-11e5-846f-79b0e3d20eaf). In other words, we just do not need – or do not want – any more material goods.  
 
- 
+![christmas shopping experiences](/uploads/christmas%20shopping%20experiences.jpg)  
 
 These changing spending habits are said to be part of the “experience economy”. Commentators cite the boom of the sharing economy, and millennial bloggers with an philosophical streak describe watching their elders lose their homes, their savings and their entire materiel lives in the [2008 financial crisis](https://medium.com/@BlakeMichelleM/nownership-no-problem-why-millennials-value-experiences-over-owning-things-587707816b12). What is more reliable than materiel goods they ask? “Experiences” they reply.  
 
