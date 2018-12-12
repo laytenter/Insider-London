@@ -2,7 +2,6 @@
 title: Livery Companies
 date: 2018-12-12 16:07:00 Z
 permalink: "/livery-companies/"
-published: false
 description: The oldest livery companies date back to the 13th century and the original
   idea behind their creation was to regulate and protect the various industries that
   operated in the City.
