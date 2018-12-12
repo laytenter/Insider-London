@@ -1,6 +1,6 @@
 ---
 title: Educational Tours in London | School Tours
-date: 2015-05-11 15:47:17 Z
+date: 2015-05-11 15:47:00 Z
 permalink: "/tours/educational-walking-tours/"
 heading: Educational Tours
 description: Our educational guided tours are perfect for corporate events or student
@@ -18,7 +18,7 @@ Discover the rich and varied visual marketing and merchandising techniques of re
 
 For more information about our education tours please download our PDF brochure
 
-<a class="btn btn--small btn--red" href="/assets/insider-london-web-brochure.pdf">View Brochure
+<a class="btn btn--small btn--red" href="/assets/insider-london-educational-brochure.pdf">View Brochure
 </a>
 
 <div class="layout">
