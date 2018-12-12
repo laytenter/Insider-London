@@ -26,6 +26,8 @@ Well, to an extent this depends on whether the company has maintained a role in 
 
 A separate function of the livery companies is more political.  The [Lord Mayor](https://www.cityoflondon.gov.uk/about-the-city/the-lord-mayor/Pages/default.aspx) is elected at Common Hall, comprising liverymen belonging to all of the City's livery companies.  This is a role that has been in place for hundreds of years.  The newly appointed Lord Mayor, Peter Eltsin, is the 691st.  However, this does not help explain why new livery companies continue to appear.  And this is not an easy process.  Apparently, a new company can expect to wait up to 14 years to be accepted and must demonstrate a very healthy bank balance.
 
+<iframe width="900" height="520" src="https://www.youtube.com/embed/qSBSKGxP-3E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 So, how are we to understand these institutions?  The connection with the past must play a role.  Exclusivity must equally be an enticing factor; after all most companies do not struggle to attract applications.  Perhaps it is just the mixture of charity and social life.  It is difficult to come to a defining answer and companies are known for not always being keen to explain themselves to others.  Some are genuinely wealthy – the Mercers have a residential portfolio in Covent Garden and the [Royal Exchange](http://www.theroyalexchange.co.uk/) complex, the grandest shopping arcade in the City. 
 
