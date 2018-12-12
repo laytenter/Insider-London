@@ -18,7 +18,7 @@ Discover the rich and varied visual marketing and merchandising techniques of re
 
 For more information about our education tours please download our PDF brochure
 
-<a class="btn btn--small btn--red" href="/assets/insider-london-educational-brochure.pdf">View Brochure
+<a class="btn btn--small btn--red" href="/assets/insider-london-web-brochure.pdf">View Brochure
 </a>
 
 <div class="layout">
