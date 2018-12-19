@@ -13,16 +13,16 @@ layout: post
 
  
 
-Leave the car at home as you enter Central London's vibrant new pedestrianised zone and one of the UK's most successful regeneration projects in recent years. The £500M revamp of Kings Cross has impressive credentials, not least with regards to sustainability. From sustainable architecture to energy systems and improvements to the public realm, the Knowledge Quarter, as the area is now known, even includes three completed buildings in a single square (Pancras Square), which have all achieved the highly-sought after BREEAM “Outstanding” rating. 
+Leave the car at home as you enter Central London's vibrant new pedestrianised zone and one of the UK's most successful regeneration projects in recent years. The £500M revamp of King's Cross has impressive credentials, not least with regards to sustainability. From sustainable architecture to energy systems and improvements to the public realm, the Knowledge Quarter, as the area is now known, even includes three completed buildings in a single square (Pancras Square), which have all achieved the highly-sought after BREEAM “Outstanding” rating. 
 
  
 
-Read on for five striking sustainable features which firmly mark Kings Cross on the green map.  
+Read on for five striking sustainable features which firmly mark King's Cross on the green map.  
 
  
 
   
-##1. Centralised Heating & Hot Water 
+## 1. Centralised Heating & Hot Water 
 
  
 
@@ -32,7 +32,7 @@ Providing close to 100% of the development's heating and hot water, all new buil
 
  
 
-##2. Kings Cross Station Energy 
+## 2. King's Cross Station Energy 
 
  
 
@@ -42,17 +42,17 @@ Hidden behind the beautiful lattice of the headline-grabbing concourse roof, is 
 
  
 
-##3. The IOP Building 
+## 3. The IOP Building 
 
  
 
-Just up the road from Kings Cross Station you will be able to find the HQ of the historic Institute of Physics. Not the highest rated building in the area with regards to the BREEAM sustainability assessment rating, but the IOP Building arguably deserves high praise for its innovative  use of green technology. 100% of the cooling and heating is a geothermal hybridge system, with a boiler back up. While geothermal energy is often a less popular energy choice here in Britain, this installation is leading the way. The piles used are the [first of their kind in the country](http://www.murphygroup.com/projects/institute-of-physics/) and the dig needed is significantly reduced, 75 metres as opposed to the typical 200m. This means energy and cost savings all round.  
+Just up the road from King's Cross Station you will be able to find the HQ of the historic Institute of Physics. Not the highest rated building in the area with regards to the BREEAM sustainability assessment rating, but the IOP Building arguably deserves high praise for its innovative  use of green technology. 100% of the cooling and heating is a geothermal hybridge system, with a boiler back up. While geothermal energy is often a less popular energy choice here in Britain, this installation is leading the way. The piles used are the [first of their kind in the country](http://www.murphygroup.com/projects/institute-of-physics/) and the dig needed is significantly reduced, 75 metres as opposed to the typical 200m. This means energy and cost savings all round.  
 
  
 ![kings cross new buildings](/uploads/kings%20cross%20new%20building.jpg)
  
 
-##4. Greening the public realm 
+## 4. Greening the public realm 
 
  
 
@@ -62,11 +62,11 @@ Over 40% of the development is public space and [much of this is green](https://
 
  
 
-##5. Waste reduction is a high priority 
+## 5. Waste reduction is a high priority 
 
  
 
-The most recent statistics available for Kings Cross wastage show that in 2014/2015 over 90% of construction waste was diverted from landfill. The same time period saw the local authority achieving zero waste to landfill for the area. The waste from public areas, as well as the buildings, is channelled through three streams. Direct waste is shipped to a materials recovery facility in Sutton whilst the food waste is collected by [Bio Collectors](https://www.biocollectors.com/) who make fertiliser from the organic remains. Lastly the third stream of mixed waste is incinerated in Deptford, generating further energy.  
+The most recent statistics available for King's Cross wastage show that in 2014/2015 over 90% of construction waste was diverted from landfill. The same time period saw the local authority achieving zero waste to landfill for the area. The waste from public areas, as well as the buildings, is channelled through three streams. Direct waste is shipped to a materials recovery facility in Sutton whilst the food waste is collected by [Bio Collectors](https://www.biocollectors.com/) who make fertiliser from the organic remains. Lastly the third stream of mixed waste is incinerated in Deptford, generating further energy.  
 
  
 
