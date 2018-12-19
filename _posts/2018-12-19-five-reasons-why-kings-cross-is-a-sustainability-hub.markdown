@@ -2,7 +2,6 @@
 title: Five reasons why Kings Cross is a sustainability hub
 date: 2018-12-19 16:02:00 Z
 permalink: "/five-reasons-why-kings-cross-is-a-sustainability-hub/"
-published: false
 description: Leave the car at home as you enter Central London's vibrant new pedestrianised
   zone and one of the UK's most successful regeneration projects in recent years.
 heading: 'Five reasons why Kings Cross is a sustainability hub '
