@@ -49,7 +49,7 @@ Hidden behind the beautiful lattice of the headline-grabbing concourse roof, is 
 Just up the road from Kings Cross Station you will be able to find the HQ of the historic Institute of Physics. Not the highest rated building in the area with regards to the BREEAM sustainability assessment rating, but the IOP Building arguably deserves high praise for its innovative  use of green technology. 100% of the cooling and heating is a geothermal hybridge system, with a boiler back up. While geothermal energy is often a less popular energy choice here in Britain, this installation is leading the way. The piles used are the [first of their kind in the country](http://www.murphygroup.com/projects/institute-of-physics/) and the dig needed is significantly reduced, 75 metres as opposed to the typical 200m. This means energy and cost savings all round.  
 
  
-
+![kings cross new buildings](/uploads/kings%20cross%20new%20building.jpg)
  
 
 ##4. Greening the public realm 
