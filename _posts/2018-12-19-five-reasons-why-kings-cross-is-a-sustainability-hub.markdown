@@ -9,7 +9,7 @@ heading: 'Five reasons why Kings Cross is a sustainability hub '
 layout: post
 ---
 
-Five reasons why Kings Cross is a sustainability hub 
+![kings cross station](/uploads/Kings%20Cross%20Station.jpg)
 
  
 
@@ -22,8 +22,7 @@ Read on for five striking sustainable features which firmly mark Kings Cross on 
  
 
   
-
-Centralised Heating & Hot Water 
+##1. Centralised Heating & Hot Water 
 
  
 
@@ -33,17 +32,17 @@ Providing close to 100% of the development's heating and hot water, all new buil
 
  
 
-2. Kings Cross Station Energy 
+##2. Kings Cross Station Energy 
 
  
 
-Hidden behind the beautiful lattice of the headline-grabbing concourse roof, is a lesser-known green feature by [Sundog Energy](https://www.sundog-energy.co.uk/). An impressive 2,300m array of photovoltaic panels [cuts carbon dioxide emissions by 100 tonnes annually](https://www.sundog-energy.co.uk/) and [has saved the station more than £125,000.  (https://www.businessgreen.com/bg/news/3065996/kings-cross-cuts-co2-emissions-by-40-tonnes-thanks-to-solar-installation), This is a key step towards Network Rail's goals of [reducing their emissions by 25% per passenger kilometre by 2020](http://www.businessgreen.com/bg/news/2113286/uk-rail-network-signals-intention-cut-carbon-emissions-quarter). 
+Hidden behind the beautiful lattice of the headline-grabbing concourse roof, is a lesser-known green feature by [Sundog Energy](https://www.sundog-energy.co.uk/). An impressive 2,300m array of photovoltaic panels [cuts carbon dioxide emissions by 100 tonnes annually](https://www.sundog-energy.co.uk/) and [has saved the station more than £125,000](https://www.businessgreen.com/bg/news/3065996/kings-cross-cuts-co2-emissions-by-40-tonnes-thanks-to-solar-installation). This is a key step towards Network Rail's goals of [reducing their emissions by 25% per passenger kilometre by 2020](http://www.businessgreen.com/bg/news/2113286/uk-rail-network-signals-intention-cut-carbon-emissions-quarter). 
 
  
 
  
 
-3. The IOP Building 
+##3. The IOP Building 
 
  
 
@@ -53,7 +52,7 @@ Just up the road from Kings Cross Station you will be able to find the HQ of the
 
  
 
-Greening the public realm 
+##4. Greening the public realm 
 
  
 
@@ -63,7 +62,7 @@ Over 40% of the development is public space and [much of this is green](https://
 
  
 
-Waste reduction is a high priority 
+##5. Waste reduction is a high priority 
 
  
 
