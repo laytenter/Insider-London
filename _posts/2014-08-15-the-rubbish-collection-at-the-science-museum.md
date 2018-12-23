@@ -15,13 +15,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=15818
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 [<img class="aligncenter size-full wp-image-15833" src="/wp-content/uploads/2014/07/The_Rubbish_Collection_at_the_Science_Museum_C_Katherine_Lee-dale_mini.jpg" alt="The_Rubbish_Collection_at_the_Science_Museum_C_Katherine_Lee dale_mini" width="569" height="379" />](/wp-content/uploads/2014/07/The_Rubbish_Collection_at_the_Science_Museum_C_Katherine_Lee-dale_mini.jpg)
@@ -42,7 +42,4 @@ The exhibition runs until 14 September. Entry is free.
 
 <a title="The Science Museum" href="http://www.sciencemuseum.org.uk" target="_blank">Science Museum</a>, Exhibition Road, South Kensington, London, SW7
 
-Find out more about eco-friendly London on a <a title="Cutting Edge Green Tour" href="https://www.insider-london.co.uk/london-eco-green-sustainable-walking-tour" target="_blank">Cutting Edge Green tour</a>
-
-<div class="srg">
-</div>
+Find out more about eco-friendly London on a <a title="Cutting Edge Green Tour" href="https://www.insider-london.co.uk/tours/cutting-edge-green-tour/" target="_blank">Cutting Edge Green tour</a>

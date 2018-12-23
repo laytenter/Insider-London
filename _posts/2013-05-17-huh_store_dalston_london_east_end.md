@@ -18,12 +18,15 @@ layout: post
 guid: https://www.insider-london.co.uk/?p=2394
 ---
 
-**Dalston offers a great selection of coffee shops, bars, resturants and clubs. But the area actually has a few hidden gems when it comes to shopping. This is the first part in a new series that puts the spotlight on those Dalston-based retail havens. This week we&#8217;re starting with the HUH store Dalston.**<figure id="attachment_2399" style="width: 569px" class="wp-caption alignnone">
+**Dalston offers a great selection of coffee shops, bars, resturants and clubs. But the area actually has a few hidden gems when it comes to shopping. This is the first part in a new series that puts the spotlight on those Dalston-based retail havens. This week we&#8217;re starting with the HUH store Dalston.
 
-[<img class="size-full wp-image-2399" alt="" src="/wp-content/uploads/2012/11/dalston-shops-east-london-shoreditch.jpg" width="569" height="379" />](/wp-content/uploads/2012/11/dalston-shops-east-london-shoreditch.jpg)<figcaption class="wp-caption-text">The warm and stylish interoir of the HUH. store</figcaption></figure>
+<figure>
+<img class="size-full wp-image-2399" alt="" src="/wp-content/uploads/2012/11/dalston-shops-east-london-shoreditch.jpg" width="569" height="379" />
+<figcaption>The warm and stylish interoir of the HUH. store</figcaption>
+</figure>
 
 <p style="text-align: justify;">
-  The HUH store in Dalston is an offshoot of the very popular online arts, culture, fashion, design and lifestyle <a href="www.huhmagazine.co.uk">website</a> of the same name. The store is a carefully curated mix of men&#8217;s and women&#8217;s clothing with some homeware/accessories.
+  The HUH store in Dalston is an offshoot of the very popular online arts, culture, fashion, design and lifestyle <a href="http://www.huhmagazine.co.uk">website</a> of the same name. The store is a carefully curated mix of men&#8217;s and women&#8217;s clothing with some homeware/accessories.
 </p>
 
 <p style="text-align: justify;">

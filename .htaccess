@@ -27,7 +27,7 @@ redirect 301 /sustainability-experience-london-tour/ https://www.insider-london.
 redirect 301 /london-walking-tours-london/ https://www.insider-london.co.uk/contact-us/
 redirect 301 /technology-experience-london-tour/ https://www.insider-london.co.uk/
 redirect 301 /lead-tour-guides-wanted/ https://www.insider-london.co.uk/
-redirect 301 /london-underground-tube-tours/ https://www.insider-london.co.uk/tours/london-underground-and-tube-tours/
+redirect 301 /london-underground-tube-tours/ https://www.insider-london.co.uk/tours/london-underground-and-tube-tour/
 redirect 301 /london-sightseeing-graffiti-walking-tours/ https://www.insider-london.co.uk/product/street-art/
 redirect 301 /weird-london-murders-walking-tours/ https://www.insider-london.co.uk/product/the-death-and-debauchery-tour/
 redirect 301 /web-andor-graphic-designer-wanted/ https://www.insider-london.co.uk/
@@ -104,9 +104,10 @@ RewriteRule ^[0-9]+/[0-9]+/[0-9]+/([^/]+)/?$ /$1 [R=301,L]
 #RewriteCond %{REQUEST_URI} !^blog/page
 #RewriteRule ^blog/(.+) /$1 [R=301,L]
 
+# Consider removing this.
 RewriteCond %{THE_REQUEST} ^(GET|HEAD)\ /.+\.html\ https
 RewriteCond %{REQUEST_FILENAME} !^google
-RewriteRule ^(.+)\.html$ https://%{https_HOST}/$1 [R=301,L]
+RewriteRule ^(.+)\.html$ https://%{HTTP_HOST}/$1 [R=301,L]
 
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME}.html -f

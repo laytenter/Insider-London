@@ -78,7 +78,7 @@ You’ll notice the building looks quite skeletal. This is to permit the maximum
 </p>
 
 <p style="text-align: center;">
-  <em>Image credit: <a href="www.flickr.com/photos/calotype46/6626975967" target="_blank">Snapshooter46</a></em>
+  <em>Image credit: <a href="https://www.flickr.com/photos/calotype46/6626975967" target="_blank">Snapshooter46</a></em>
 </p>
 
 This final image – traditional Victorian houses – is not what might spring to mind immediately when thinking about ‘sustainable’ architecture. When we think of past ages like the Victorian era we think of smoky, energy-consumptive polluting periods. Sustainability feels like the opposite of this: lean, clean and green, and the buildings described above certainly fit this trend. But it’s just as important to make the existing stock of buildings sustainable as it is to create spangled paragons of sustainability like the two discussed above. Buildings of ‘traditional’ construction were designed differently – there’s no doubt about that – but with a few modifications they can be made to run very efficiently. There are many measures you can take, most of them obvious, such as installing thick curtains before windows to prevent heat escaping. The general point about older buildings is that the reuse of them – done in a sensitive, low-key way – is the most sustainable form of architecture. Modest conversions of humble houses, such as those illustrated, consume and produce very little energy. This is important for these are the sorts of buildings people actually live in. If we want to make architecture sustainable, surely that which is all around us should be the place from which we begin?

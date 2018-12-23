@@ -19,20 +19,18 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=23455
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 Okay, we hold our hands up &#8211; we&#8217;re real tube geeks at Insider London, as anyone who has been on one of our <a href="https://www.insider-london.co.uk/london-underground-tube-tours/" target="_blank">London Underground and Tube Tours</a> would probably agree. We&#8217;re also shared a lot of our, erm, enthusiasm on this blog, and have pulled together some of the best bits. Here is Insider London&#8217;s Best of the London Underground and Tube.
 
-&nbsp;
-
-[<img class="aligncenter wp-image-13960 size-full" src="/wp-content/uploads/2014/02/Tube-Facts-Infographic-Thumb.jpg" alt="Tube Facts Infographic Thumb" width="569" height="1570" />](https://www.insider-london.co.uk/tube-facts-infographic/)
+<img src="/wp-content/uploads/2014/02/Tube-Facts-Infographic-Thumb.jpg" alt="Tube Facts Infographic Thumb" />
 
 One quick way to get your head around the stats of the Underground is our <a href="/how-well-do-you-know-the-london-underground/" target="_blank">Tube facts infographic</a> (just click on the image to see a large version). Along a similar vein, although not strictly about tubes, are <a href="/london-the-information-project-infographics-that-will-change-the-way-you-view-the-city/" target="_blank">these maps and infographics we shared from The Information Capital book</a>.
 

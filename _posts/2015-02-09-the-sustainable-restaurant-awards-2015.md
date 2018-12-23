@@ -18,13 +18,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=24673
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 It’s award season – and not just for the film stars. The Sustainable Restaurant Association is hosting their annual awards on 23 February. With the shortlist announced, we’ve profiled their London picks.
@@ -197,4 +197,4 @@ It’s award season – and not just for the film stars. The Sustainable Restaur
 
 &nbsp;
 
-To find more sustainable spots in London, join our [Cutting-Edge Green Tour](https://www.insider-london.co.uk/london-eco-green-sustainable-walking-tour/). You can also check out our [Sustainable Architecture](https://www.insider-london.co.uk/sustainable-green-building-london-tours-2/) Tour to see the city’s greenest buildings.
+To find more sustainable spots in London, join our [Cutting-Edge Green Tour](/tours/cutting-edge-green-tour/). You can also check out our [Sustainable Architecture](https://www.insider-london.co.uk/sustainable-green-building-london-tours-2/) Tour to see the city’s greenest buildings.

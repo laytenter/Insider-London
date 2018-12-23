@@ -13,11 +13,11 @@ guid: https://www.insider-london.co.uk/?p=13743
 
 [<img class="alignnone size-full wp-image-13735" alt="Antique Ben Slow T Shirt" src="/wp-content/uploads/2014/01/Antique-Ben-Slow-T-Shirt.jpg" width="566" height="337" />](/wp-content/uploads/2014/01/Antique-Ben-Slow-T-Shirt.jpg)
 
-Here at Insider London, we recently caught up with Antique Clothing to discuss their exciting new collaborative project with London street artist Ben Slow. You can [read the interview here](/antique-ben-slow-collaboration/‎), but if you&#8217;ve already done so, you may have noticed our mention of a free t-shirt giveaway.
+Here at Insider London, we recently caught up with Antique Clothing to discuss their exciting new collaborative project with London street artist Ben Slow. You can [read the interview here](/antique-ben-slow-collaboration/‎), but if you've already done so, you may have noticed our mention of a free t-shirt giveaway.
 
-As with all of Antique Clothing&#8217;s designs, this Ben Slow t-shirt is a limited edition. Only a certain number will be printed, and when they&#8217;re gone, they&#8217;re gone. Just as a lot of London&#8217;s street art can disappear in a matter of hours or days, so too can these unique t-shirts.
+As with all of Antique Clothing's designs, this Ben Slow t-shirt is a limited edition. Only a certain number will be printed, and when they're gone, they're gone. Just as a lot of London's street art can disappear in a matter of hours or days, so too can these unique t-shirts.
 
-If you&#8217;d like to win one of these unique t-shirts, then entering the competition couldn&#8217;t be simpler.
+If you'd like to win one of these unique t-shirts, then entering the competition couldn't be simpler.
 
 **Step 1**
 
@@ -31,6 +31,6 @@ Write your name in a comment on the official competition post, found on our Face
 
 Cross your fingers!
 
-We will be closing the competition in two weeks&#8217; time, and will be contacting the lucky winner through Facebook. You&#8217;ll need to supply us with a postal address at which to send you the t-shirt, but you won&#8217;t need to pay any postage.
+We will be closing the competition in two weeks' time, and will be contacting the lucky winner through Facebook. You'll need to supply us with a postal address at which to send you the t-shirt, but you won't need to pay any postage.
 
 Good luck!

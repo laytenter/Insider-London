@@ -29,13 +29,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=24432
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 Happy new year from Insider London! Before we plunge straight into another year of bringing you the finest London finds and facts, let&#8217;s look back over some of our favourite posts of last year.
@@ -57,7 +57,7 @@ One man who goes where others fear to tread underground &#8211; and is more than
 <img class="aligncenter wp-image-14911 size-full" src="/wp-content/uploads/2014/06/st-pauls-from-merrill-lynch-green-roof.jpg" alt="st pauls from merrill lynch green roof" width="569" height="380" />
 
 <p style="text-align: center;">
-  <em>Image credit: <a href="www.flickr.com/photos/stevecadman/3849267223/" target="_blank">Steve Cadman</a></em>
+  <em>Image credit: <a href="https://www.flickr.com/photos/stevecadman/3849267223/" target="_blank">Steve Cadman</a></em>
 </p>
 
 <p style="text-align: left;">

@@ -71,7 +71,7 @@ Perspicere geometric threading vs Aida&#8217;s printing – love this too!
 
 &nbsp;
 
-<a href="/street-art-east-londons-red-market/new-street-art-2013-walking-tours-london/" rel="attachment wp-att-4809"><img title="new-street-art-2013-walking-tours-london" alt="Street art at the Red Market, East London" src="/wp-content/uploads/2013/03/new-street-art-2013-walking-tours-london.jpg" width="569" height="759" /></a>
+<img title="new-street-art-2013-walking-tours-london" alt="Street art at the Red Market, East London" src="/wp-content/uploads/2013/03/new-street-art-2013-walking-tours-london.jpg" />
 
 Even the main gate to the space has an amazing image over it.
 
