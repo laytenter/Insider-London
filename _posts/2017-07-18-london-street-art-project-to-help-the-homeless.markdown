@@ -1,6 +1,7 @@
 ---
 title: London Street Art Project To Help The Homeless
-date: 2017-07-18 13:13:00 Z
+date: 2017-07-18 13:13:00
+layout: post
 permalink: "/london-street-art-project-to-help-the-homeless-street-art-tour-london/"
 categories:
 - blog

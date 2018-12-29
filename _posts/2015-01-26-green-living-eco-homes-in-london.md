@@ -21,13 +21,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=24562
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 With rent, gas prices and eco-awareness on the rise, there’s never been a better time to seek out alternative accommodations in London. We’ve pulled together a list of some quirky homes in the capital that are as innovative as they are environmentally-friendly.
@@ -82,4 +82,4 @@ Okay, they’re not actual huts – but that’s the aura emulated by the beauti
 
 The project was awarded an Ecohomes ‘Excellent’ standard, a Building for Life Silver Standard and took home a 2010 award from the Royal Institute of British Architects – and all for good reason. Well-insulated FSC-certified wood houses are topped with green roofs. The buildings boast simple structures and lightweight constructions that aid energy-efficiency.
 
-_To find out more about green buildings in London, check out our [Sustainable Architecture](https://www.insider-london.co.uk/sustainable-green-building-london-tours-2/) tour. Those looking to keep on top of the latest innovation should also join our [Cutting-Edge Green](https://www.insider-london.co.uk/london-eco-green-sustainable-walking-tour/) tour._
+_To find out more about green buildings in London, check out our [Sustainable Architecture](https://www.insider-london.co.uk/sustainable-green-building-london-tours-2/) tour. Those looking to keep on top of the latest innovation should also join our [Cutting-Edge Green](https://www.insider-london.co.uk/tours/cutting-edge-green-tour/) tour._

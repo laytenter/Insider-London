@@ -27,13 +27,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=24786
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 **London has really got on board with the potential for container architecture &#8211; that is, creating new structures from disused shipping containers. We explore the many ways they have been put to use around the capital&#8230;**
@@ -116,4 +116,4 @@ You&#8217;ve worked and rested &#8211; now containers are also coming into play.
 
 Further along the river, Mexican street food chain Wahaca created a colourful branch amidst the concrete of the South Bank. You can <a href="http://www.wahaca.co.uk/2012/07/how-we-built-the-wahaca-southbank-experiment/" target="_blank">find out more about the build here</a>.
 
-_Such projects only look set to increase over the coming years, so watch this space. To find out more about eco projects in the capital, why not take one of Insider London&#8217;s <a href="https://www.insider-london.co.uk/london-eco-green-sustainable-walking-tour/" target="_blank">cutting-edge green walking tours</a>? Our <a href="https://www.insider-london.co.uk/silicon-roundabout-tech-city-tour/" target="_blank">tech city tour</a> will fill you in on the latest London innovations too. _
+_Such projects only look set to increase over the coming years, so watch this space. To find out more about eco projects in the capital, why not take one of Insider London&#8217;s <a href="https://www.insider-london.co.uk/tours/cutting-edge-green-tour/" target="_blank">cutting-edge green walking tours</a>? Our <a href="https://www.insider-london.co.uk/silicon-roundabout-tech-city-tour/" target="_blank">tech city tour</a> will fill you in on the latest London innovations too. _

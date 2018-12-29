@@ -10,20 +10,20 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=23107
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 [<img class="aligncenter wp-image-23110 size-full" src="/wp-content/uploads/2014/10/Insider-London.png" alt="Insider London" width="569" height="504" />](/wp-content/uploads/2014/10/Insider-London.png)
 
 Whether you are a tourist, a local or just a London enthusiast, the fact that you have landed on our site tells us that you are potentially on the lookout for something a little different and alternative rather than the usual London experiences that you might expect to find in this great city.
 
-Well, you’ve certainly come to the right place! We are passionate about all things ‘off the beaten track’, proud to offer a range of tours from an [alternative history](https://www.insider-london.co.uk/sightseeing-london-walking-tours/) of London to a route outlaying all that is [eco-friendly](https://www.insider-london.co.uk/london-eco-green-sustainable-walking-tour/) about this ever evolving metropolis of ours.
+Well, you’ve certainly come to the right place! We are passionate about all things ‘off the beaten track’, proud to offer a range of tours from an [alternative history](https://www.insider-london.co.uk/sightseeing-london-walking-tours/) of London to a route outlaying all that is [eco-friendly](https://www.insider-london.co.uk/tours/cutting-edge-green-tour/) about this ever evolving metropolis of ours.
 
 And we are now also proud to say we’re part of a larger group of London enthusiasts, finding our way into the top 20 of the most influential London tweeters, as chosen by the guys at Hotel Direct.
 
