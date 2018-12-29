@@ -4,7 +4,7 @@ date: 2016-07-15 11:25:00 Z
 permalink: "/5-secrets-you-never-knew-about-the-east-end/"
 categories:
 - blog
-Key: 
+Key:
 layout: post
 ---
 
@@ -24,7 +24,7 @@ While we’re on the subject of Huguenot sillk-weavers, the astonishing ‘still
 
 ##Clandestine Cuisine
 
-The East End has a seemingly infinite variety of restaurants and cafes, and is even known as the curry capital of the UK. If you’re looking for a meal that’s a little further from the beaten track, you could try the Rochelle School Canteen. Ring the buzzer and you’ll find one of London’s best-kept restaurant secrets in a space that was once a school bike shed. The canteen serves simple dishes with fresh ingredients from an ever-changing menu. The locale adds a nostalgic feel, with no need to worry about cardboard school dinners! If you’re in Brick Lane and looking for a quick foodie fix, you can’t do better than Brick Lane Beigel Bake, a ridiculously cheap and delicious bakery that’s inexplicably open 24/7. 
+The East End has a seemingly infinite variety of restaurants and cafes, and is even known as the curry capital of the UK. If you’re looking for a meal that’s a little further from the beaten track, you could try the Rochelle School Canteen. Ring the buzzer and you’ll find one of London’s best-kept restaurant secrets in a space that was once a school bike shed. The canteen serves simple dishes with fresh ingredients from an ever-changing menu. The locale adds a nostalgic feel, with no need to worry about cardboard school dinners! If you’re in Brick Lane and looking for a quick foodie fix, you can’t do better than Brick Lane Beigel Bake, a ridiculously cheap and delicious bakery that’s inexplicably open 24/7.
 
 
 ##Market Day
@@ -32,8 +32,6 @@ The East End has a seemingly infinite variety of restaurants and cafes, and is e
 Some of the city’s best spots to shop are scattered across the East End’s many market areas. Grab a coffee and some fresh blooms at Columbia Road Flower Market or vintage clothes and knick-knacks from Brick Lane. Spitalfields offers a more upmarket selection, check it out at the weekend for a fantastic second-hand book market. The space itself was the ancient site of a Medieval hospital, ‘The Priory of St Mary of the Spittle’. For more fascinating London history, have a look at Whitechapel Bell Foundry, the oldest manufacturing company in Britain, which since 1570 has made many famous bells, including the Liberty Bell, Big Ben and those at Westminster Abbey.
 
 
-##Quirky Commerce
+## Quirky Commerce
 
 There are more chains and upmarket shops in the East End than ever, but the area retains some of its strangest commercial outlets. Check out film buff’s delight Umit, where the obsessive owner sells only Super 8 cartridges. He’ll even come round to your house with a projector to play a film of your choice for £150. Over by Broadway Market there’s Lock 7, a café-cum-bike-shop where you can eat cake overlooking the canal while your punctures are repaired. If you’re a hardcore Whovian, there’s The Who Shop which sells basically all Dr. Who merchandise ever, and regularly hosts signings from little-remembered actors from the show’s early days.
-
-This is just a taster of the delights and hidden pleasures that London’s East End has to offer. If you’d like to learn more, why not try our [East End Walking Tour](/tours/tour-of-east-end-gangs-crimes-and-hasher-times/) which is full of the area’s history, quirky facts and even a chance for a pint at one of the best local pubs.

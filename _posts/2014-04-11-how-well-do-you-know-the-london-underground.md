@@ -28,6 +28,4 @@ Here at Insider London we&#8217;re obsessed with all things London Underground. 
 
 To follow on from this, we&#8217;ve recently produced this London Underground infographic. Why not check it out, and see how much you didn&#8217;t know about the Tube?
 
-To view the full infographic, simply click below.
-
-<a title="CLick here to view the infographic" href="https://www.insider-london.co.uk/tube-facts-infographic/" target="_blank"><img class="alignnone size-full wp-image-13960" alt="Tube Facts Infographic" src="/wp-content/uploads/2014/02/Tube-Facts-Infographic-Thumb.jpg" width="569" height="1570" /></a>
+<img class="alignnone size-full wp-image-13960" alt="Tube Facts Infographic" src="/wp-content/uploads/2014/02/Tube-Facts-Infographic-Thumb.jpg" />

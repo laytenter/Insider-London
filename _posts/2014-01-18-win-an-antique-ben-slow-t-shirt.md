@@ -13,7 +13,7 @@ guid: https://www.insider-london.co.uk/?p=13743
 
 [<img class="alignnone size-full wp-image-13735" alt="Antique Ben Slow T Shirt" src="/wp-content/uploads/2014/01/Antique-Ben-Slow-T-Shirt.jpg" width="566" height="337" />](/wp-content/uploads/2014/01/Antique-Ben-Slow-T-Shirt.jpg)
 
-Here at Insider London, we recently caught up with Antique Clothing to discuss their exciting new collaborative project with London street artist Ben Slow. You can [read the interview here](/antique-ben-slow-collaboration/‎), but if you've already done so, you may have noticed our mention of a free t-shirt giveaway.
+Here at Insider London, we recently caught up with Antique Clothing to discuss their exciting new collaborative project with London street artist Ben Slow. You can [read the interview here](/antique-ben-slow-collaboration/‎) but if you've already done so, you may have noticed our mention of a free t-shirt give-away.
 
 As with all of Antique Clothing's designs, this Ben Slow t-shirt is a limited edition. Only a certain number will be printed, and when they're gone, they're gone. Just as a lot of London's street art can disappear in a matter of hours or days, so too can these unique t-shirts.
 
