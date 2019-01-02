@@ -18,7 +18,7 @@ Every May, City Hall implores Londoners: [“take to your feet!”](https://www.
 
  
 
-##It's an easy way to trim down after Christmas trimmings!  
+## It's an easy way to trim down after Christmas trimmings!  
 
  
 
@@ -26,7 +26,7 @@ The physical health benefits of walking are numerous. One recent study found a s
 
  
 
-##It's a proven way to relax  
+## It's a proven way to relax  
 
  
 
@@ -34,7 +34,7 @@ It's no secret that exercise releases endorphins but even from regular gentle wa
 
  
 
-##It helps reduce pollution 
+## It helps reduce pollution 
 
  
 
@@ -42,7 +42,7 @@ It's no secret that exercise releases endorphins but even from regular gentle wa
 
  
 
-##You can discover more! 
+## You can discover more! 
 
  
 
