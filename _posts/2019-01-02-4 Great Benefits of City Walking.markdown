@@ -58,4 +58,4 @@ Step out of the commute and take the time to stroll around and absorb the richne
 
  
 
-When you walk in London, the world is at your feet (pardon the pun)– so join Insider London to explore the most exciting dimensions of our global city with an [alternative walking tour](link). 
+When you walk in London, the world is at your feet (pardon the pun) – so join Insider London to explore the most exciting dimensions of our global city with an [alternative walking tour](link). 
