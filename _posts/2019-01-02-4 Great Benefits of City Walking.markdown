@@ -51,8 +51,7 @@ Step out of the commute and take the time to stroll around and absorb the richne
  
 
  
-![street art walking in London]
-(/uploads/streetart%20walking%20in%20london.jpg)
+![street art walking in London](/uploads/streetart%20walking%20in%20london.jpg)
 *“taken on our street art walk”*
 
  
