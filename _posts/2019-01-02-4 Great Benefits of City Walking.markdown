@@ -12,7 +12,7 @@ Every May, City Hall implores Londoners: [“take to your feet!”](https://www.
 
  
 
-![picture of London looking exciting]()
+![walking in london](/uploads/walking%20in%20london.jpg)
 
  
 
@@ -51,8 +51,9 @@ Step out of the commute and take the time to stroll around and absorb the richne
  
 
  
-
-[Picture of Street Art – caption “taken on our street art walk”]  
+![street art walking in London]
+(/uploads/streetart%20walking%20in%20london.jpg)
+*“taken on our street art walk”*
 
  
 
