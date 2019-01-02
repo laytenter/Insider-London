@@ -5,7 +5,7 @@ collections:
   authors:
     title: Authors
     output: true
-    permalink: "/authors/:path"
+    permalink: "/authors/:path/"
   posts:
     title: Posts
     output: true
@@ -19,31 +19,36 @@ collections:
 defaults:
 - scope:
     path: ''
+    type: authors
+  values:
+    layout: page
+- scope:
+    path: ''
     type: posts
   values:
-    description: 
-    author: 
-    heading: 
+    description:
+    author:
+    heading:
 - scope:
     path: ''
     type: tours
   values:
-    heading: 
-    description: 
+    heading:
+    description:
     gallery:
-    - image: 
-      caption: 
-      alt: 
+    - image:
+      caption:
+      alt:
 - scope:
     path: ''
     type: authors
   values:
-    image: 
+    image:
 social:
   name: Insider London
   links:
   - http://www.facebook.com/insiderlondon
-  - https://twitter.com/#!/insiderlondon
+  - https://twitter.com/insiderlondon
   - https://www.instagram.com/insiderlondontours/
 twitter:
   username: insiderlondon

@@ -8,6 +8,7 @@ guid: "/?page_id=3518"
 slide_template:
 - default
 layout: page
+sitemap: false
 ---
 
 ### Get in touch
@@ -25,4 +26,3 @@ layout: page
 </p>
 
 ### ...or use the contact form below
-

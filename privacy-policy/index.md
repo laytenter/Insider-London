@@ -5,6 +5,7 @@ description: This Privacy Policy describes how your personal information is coll
   used, and shared when you visit or make a purchase from the site
 author: london75
 layout: page
+sitemap: false
 ---
 
 This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from https://www.insider-london.co.uk/ (the “Site”).

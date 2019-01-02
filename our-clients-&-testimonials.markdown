@@ -3,6 +3,7 @@ title: Our Clients & Testimonials
 date: 2018-09-29 10:30:00 Z
 permalink: "/our-clients-&-testimonials/"
 layout: page
+sitemap: false
 ---
 
 “By the end of the tour I wanted to explore more nooks and crannies, alleyways, pubs, squares and markets and everything! I can’t recommend this walking tour enough – it is money well spent and I guarantee you won’t be disappointed.” - **Imperial College, Finance Tour**

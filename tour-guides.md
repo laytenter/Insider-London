@@ -4,6 +4,7 @@ permalink: "/tour-guides/"
 desription: Tour Guides London | Insider London's guided walking tours are planned
   and led by our team of lovely guides. Read on to meet the team.
 layout: page
+sitemap: false
 ---
 
 Insider London's guided walking tours are planned and led by our team of lovely guides. Read on to meet the team.
