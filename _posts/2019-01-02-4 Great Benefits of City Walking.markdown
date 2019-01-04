@@ -8,14 +8,10 @@ heading: 4 Great Benefits of City Walking
 layout: post
 ---
 
-Every May, City Hall implores Londoners: [“take to your feet!”](https://www.livingstreets.org.uk/nwm), but here at Insider London we ask: why stop there? Read on for four reasons why foot-travel is the king of urban transportation in the all-year-round city of London! 
-
- 
-
 ![walking in london](/uploads/walking%20in%20london.jpg)
 
  
-
+Every May, City Hall implores Londoners: [“take to your feet!”](https://www.livingstreets.org.uk/nwm), but here at Insider London we ask: why stop there? Read on for four reasons why foot-travel is the king of urban transportation in the all-year-round city of London! 
  
 
 ## It's an easy way to trim down after Christmas trimmings!  
