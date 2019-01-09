@@ -2,6 +2,7 @@
 title: Education Programme with the High Commission of Gujurat
 date: 2019-01-09 15:19:00 Z
 permalink: "/educational-programme-with-the-high-commission-of-gujurat/"
+published: false
 description: 'Insider London organised an inspiring 2 day programme for professors
   from Gujarat universities. '
 heading: Education Programme with the High Commission of Gujurat
@@ -9,6 +10,7 @@ layout: post
 ---
 
 ![]()
+
 Working with GTEP Education in conjunction with the High Commission of Gujurat, Insider London organised an inspiring 2 day programme for professors from Gujarat universities. 
 
  
@@ -33,7 +35,7 @@ On Friday 6th December we met again for a visit to the highly-prestigious [Triba
 
  
 
-[picture from Tribal Worldwide] 
+![picture from Tribal Worldwide]()
 
  
 
@@ -45,7 +47,7 @@ In the afternoon, our programme was rounded off with a fun and interactive leade
 
  
 
-[picture from workshop] 
+![picture from workshop]()
 
  
 
