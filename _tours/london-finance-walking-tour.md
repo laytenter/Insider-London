@@ -1,5 +1,5 @@
 ---
-title: London Finance Tour | Insider London Walking Tours
+title: London Finance Tour
 date: 2011-01-01 10:43:00 Z
 categories:
 - educational
