@@ -29,7 +29,7 @@ So, how has London fared in implementing the legacy?  To be honest there have be
 
 In 2010 David Cameron Launched Tech City in an attempt to give more impetus to the already emerging area that was dubbed ‘Silicon Roundabout’.  One aspect of the Prime Minister’s vision was for an avenue of technology that stretched from Old Street's Silicon Roundabout to the Olympic Park five miles away in Stratford.  This was quite a vision and it is difficult to claim that this has taken place.  However, the Olympic Park does now boast Here East which they describe as ‘London’s home for making’.  [“It is a dedicated place for individuals and companies who embrace and pioneer technology, share expertise and are creating the products of tomorrow.”](https://hereeast.com/about-us/)  And in terms of tech startups Here East has opened Plexal, a coworking space that offers small companies the opportunity to scale. 
 
-!(plexal london olympic park)[/uploads/plexal.jpg]
+![plexal london olympic park](/uploads/plexal.jpg)
 
 However, perhaps the biggest boost to this space was announced in April last year with the launch of the London Cyber Innovation Centre.  Claire Cockerton the former CEO and founder of Plexal has no doubt about the significance of this progamme: 
 
