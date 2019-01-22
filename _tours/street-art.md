@@ -7,9 +7,9 @@ tags:
 - historical
 - all
 - streetart
-heading: London Street Art Tour
-description: A street art tour London that shows off all the underground culture of
-  the city. Perfect for tourists and private parties. Visit insider-london.co.uk.
+heading: Street Art Tour London
+description: 'Discover murals and art installations by artists such as Banksy, D*Face,
+  James Cochrane, Stik, Shepard Fairy, Space Invader and many more! '
 gallery:
 - image: "/uploads/Title%20Street%20Art.jpg"
   caption: Street Art in London's East End is everywhere!
@@ -76,7 +76,7 @@ The Street Art Tour is a hit for all kinds of people and since the street art sc
 
 Outside of Shoreditch High Street Overground station. ([to the map](#map))
 
-### How long is the street art tour?
+### How long is the street art tour london?
 
 Approximately two hours            
 
