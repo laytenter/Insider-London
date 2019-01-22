@@ -54,8 +54,7 @@ related:
 layout: tour
 ---
 
-London is filled with street art and graffiti hotspots with artists from around the world leaving their mark. Whether you are a seasoned visitor, on your very first trip, or have called this city home for years, it can be sometimes difficult to spot the hidden treasures London has to offer. Come and join one of street art tours of London and you'll discover some of the best street art london has to offer.
-
+London is filled with street art and graffiti hotspots with artists from around the world leaving their mark. Whether you are a seasoned visitor, on your very first trip, or have called this city home for years, it can be sometimes difficult to spot the hidden treasures London has to offer. 
 
 ## Highlights of the London Street Art Tour include:
 
