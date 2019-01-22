@@ -1,5 +1,5 @@
 ---
-title: Street Art Tour London | Graffiti Tours
+title: Street Art Tour London
 date: 2005-01-01 10:39:00 Z
 categories:
 - hidden
@@ -7,7 +7,7 @@ tags:
 - historical
 - all
 - streetart
-heading: Street Art Tour
+heading: London Street Art Tour
 description: A street art tour London that shows off all the underground culture of
   the city. Perfect for tourists and private parties. Visit insider-london.co.uk.
 gallery:
@@ -17,16 +17,16 @@ gallery:
 - image: "/uploads/web_17-10-11%20StreetArt%20KhanhEden.jpg"
   caption: A great group of students in Rivington Street - one of East London's street
     art hot spots!
-  alt: A great group of students in Rivington Street - one of East London's street
-    art hot spots!
+  alt: A great group of students in Rivington Street enjoying our street art tour
+    of london.
 - image: "/uploads/web_17-10-11%20StreetArt%20Eden%20Banksy.jpg"
   caption: A must see on the route - Banksy!
-  alt: A must see on the route - Banksy!
+  alt: A piece of Bansky as seen on our London street art tour
 - image: "/uploads/web_17-07-20_StreetArt_Julia_na_RickNMorty.jpg"
   caption: Carrefour Executives on London Business School's training programme on
     our Street Art Tour!
   alt: Carrefour Executives on London Business School's training programme on our
-    Street Art Tour!
+    Street Art Tour, London!
 - image: "/uploads/web_17-01-28%20StreetArt%20Jonas.JPG"
   caption: A brilliant shot from one of our private tours. We love you too, urbansolid!
   alt: A brilliant shot from one of our private tours. We love you too, urbansolid!
@@ -54,7 +54,7 @@ related:
 layout: tour
 ---
 
-London is filled with street art and graffiti hotspots with artists from around the world leaving their mark. Whether you are a seasoned visitor, on your very first trip, or have called this city home for years, it can be sometimes difficult to spot the hidden treasures London has to offer.
+London is filled with street art and graffiti hotspots with artists from around the world leaving their mark. Whether you are a seasoned visitor, on your very first trip, or have called this city home for years, it can be sometimes difficult to spot the hidden treasures London has to offer. Come and join one of street art tours of London and you'll discover some of the best street art london has to offer.
 
 
 ## Highlights of the London Street Art Tour include:
@@ -77,7 +77,7 @@ The Street Art Tour is a hit for all kinds of people and since the street art sc
 
 Outside of Shoreditch High Street Overground station. ([to the map](#map))
 
-### How long is the tour?
+### How long is the street art tour?
 
 Approximately two hours            
 
