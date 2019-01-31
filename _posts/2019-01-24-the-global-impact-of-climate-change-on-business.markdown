@@ -10,11 +10,11 @@ layout: post
 
 ![global warming london](/uploads/climate%20change.jpg)
 
-As climate change makes headlines on an almost daily basis, the world is beginning to discover the true extent of its impact across a variety of sectors.  A recent Global Risk Report by the World Economic Forum established [the biggest risks faced by the world in 2017](https://europe.solveclimatechange.com/how-climate-change-will-transform-business-and-the-workforce/) and weapons of mass destruction was the only significant risk, in the top five, that was not directly linked to climate change. The other four were extreme weather events, water crises, major natural disasters and the failure of climate change mitigation and adaptation. 
+As climate change continues to dominate the front page, the world is beginning to discover the true extent of its impact across a variety of sectors.  A recent Global Risk Report by the World Economic Forum established [the biggest risks faced by the world in 2017](https://europe.solveclimatechange.com/how-climate-change-will-transform-business-and-the-workforce/) and weapons of mass destruction was the only significant risk, in the top five, that was not directly linked to climate change. The other four were extreme weather events, water crises, major natural disasters and the failure of climate change mitigation and adaptation. 
 
  
 
-The effect of climate change on economic growth and how businesses will operate are increasingly in the spotlight. This week, we take a look at a range of business case studies across key areas of disruption and change: supply chain, energy and water, and the workforce.  
+The effect of climate change on economic growth and how businesses will operate is increasingly in the spotlight. This week, we take a look at a range of business case studies across key areas of disruption and change: supply chain, energy and water, and the workforce.  
 
  
 
@@ -26,11 +26,11 @@ The Global Resource Challenges Report stated that 66% of executives surveyed agr
 
  
 
-One domain which is changing and adapting is world's coffee industry. Whilst world-coffee demand is set to double by 2050, more than half of the world's coffee growing land [is likely to become unsuitable in the coming decades](https://www.theguardian.com/food/2019/jan/07/the-end-of-coffee-could-australia-save-the-worlds-beans). Climate change is likely to cause extreme weather and lead to increasing attacks by diseases and pets. In light of this, Australian scientists are now testing “climate-resistant varieties” after a heat-wave devastated coffee growing plantations across the country. In coffee-growing mountainous regions in Kenya, scientists now report beetles being found 300m higher than ever before, whilst Costa Rican communities who have grown coffee since the early 1800s are reported to be [switching to a less risky crop: oranges](https://www.wri.org/blog/2018/08/thanks-climate-change-oranges-are-becoming-new-coffee-some-parts-costa-rica).  
+One domain which is changing and adapting is world's coffee industry. Whilst world-coffee demand is set to double by 2050, more than half of the world's coffee growing land [is likely to become unsuitable in the coming decades](https://www.theguardian.com/food/2019/jan/07/the-end-of-coffee-could-australia-save-the-worlds-beans). Climate change is likely to cause extreme weather and lead to increasing attacks by diseases and pests. In light of this, Australian scientists are now testing “climate-resistant varieties” after a heat-wave devastated coffee growing plantations across the country. In coffee-growing mountainous regions in Kenya, scientists now report beetles being found 300m higher than ever before, whilst Costa Rican communities who have grown coffee since the early 1800s are reported to be [switching to a less risky crop: oranges](https://www.wri.org/blog/2018/08/thanks-climate-change-oranges-are-becoming-new-coffee-some-parts-costa-rica).  
 
  ![global warming cuts coffee](/uploads/global%20warming%20coffee%20cuts.jpg)
 
-Another clear example of climate-related supply chain disruption lies in 2016 with one of the world's largest automotive manufacturers: Toyota. Following earthquakes in the South of Japan, the global multinationals “just in time” philosophy was thrown into question as it was forced to suspend production at plants across the country. This philosophy was designed to reduce costs and the inventory by permitting Toyota to receive small quantities of materials from suppliers only when they are needed. Unable to source materials from suppliers after the natural disaster, the manufacturer was left vulnerable to shortages, as well as dealing with the considerable damage to individual factory. This is not the first time Toyota has faced these challenges, so the firm has begun to standardise parts across different models so that [increased in-house production will be possible in the face of of emergencies](https://www.reuters.com/article/us-japan-quake-toyota-idUSKCN0XE08O).  
+Another clear example of climate-related supply chain disruption lies in 2016 with one of the world's largest automotive manufacturers: Toyota. Following earthquakes in the South of Japan, the global multinationals “just in time” philosophy was thrown into question as it was forced to suspend production at plants across the country. This philosophy was designed to reduce costs and the inventory by permitting Toyota to receive small quantities of materials from suppliers only when needed. Unable to source materials from suppliers after the natural disaster, the manufacturer was left vulnerable to shortages, as well as dealing with the considerable damage to individual factory. This is not the first time Toyota has faced these challenges, so the firm has begun to standardise parts across different models so that [increased in-house production will be possible in the face of of emergencies](https://www.reuters.com/article/us-japan-quake-toyota-idUSKCN0XE08O).  
 
  
 
@@ -40,7 +40,7 @@ Another clear example of climate-related supply chain disruption lies in 2016 wi
 
  
 
-American market researcher and financial analyst centre, Forrester, discuss the change in business and operating models tin terms of businesses moving to diversify their sources, [not only of materials but of energy too](https://go.forrester.com/what-it-means/ep75-climate-change-business-risk/). Praising moves from centralised energy systems to micro-grids, Forrester analysts assert the need for businesses to reduce their reliance on one single source or grid. They also discussed the increased energy demand of specific sectors for climate adaptation. 
+American market researcher and financial analyst centre, Forrester,  discussed the change in business and operating models tin terms of businesses moving to diversify their sources, [not only of materials but of energy too](https://go.forrester.com/what-it-means/ep75-climate-change-business-risk/). Praising moves from centralised energy systems to micro-grids, Forrester analysts assert the need for businesses to reduce their reliance on one single source or grid. They also discussed the increased energy demand of specific sectors for climate adaptation. 
 
  
 
@@ -67,7 +67,7 @@ Furthermore, it's well-known that the productivity of office workers decreases a
 
  
 
-In terms of how the employment market is changing, the BBC recently reported on the [economic benefits to environmentally-savvy workers in the current economy](http://www.bbc.com/future/story/20170705-how-climate-change-could-transform-the-work-force) Pointing to the example of civil engineers and increased rainfall, the report establishes that in many sectors, the majority of the workforce are not trained in climate change adaptation. Those that are, therefore, are highly-sought after. 
+In terms of how the employment market is changing, the BBC recently reported on the [economic benefits to environmentally-savvy workers in the current economy](http://www.bbc.com/future/story/20170705-how-climate-change-could-transform-the-work-force). Pointing to the example of civil engineers and increased rainfall, the report establishes that in many sectors, the majority of the workforce are not trained in climate change adaptation. Those that are, therefore, are highly-sought after. 
 
  
 
