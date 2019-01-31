@@ -44,8 +44,8 @@ trekksoft-tour-id: 50198
 price: 40
 author: london75
 show_book: true
-thumb: Fotolia_13198648_S-420x287.jpg
-banner: Fotolia_13198648_S-772x528.jpg
+thumb: Thumb_City-of-London_Mordern-Architecute-Tour.jpg
+banner: Title_City-of-London_Mordern-Architecute-Tour.jpg
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9933.977038456189!2d-0.1118593163905431!3d51.504147652887916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604a5507854bb%3A0xd14c94cb200dcb1!2sSouthwark+Station!5e0!3m2!1sen!2s!4v1431589184611
 hidden: true
 related:
