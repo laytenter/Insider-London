@@ -11,7 +11,7 @@ layout: post
 
 ![lego serious play](/uploads/lego%20serious%20play%20title.jpg)
 
-Toy industry giant, LEGO, has upheld a strong ethos and company culture since its founding in Denmark in 1932. Almost a century later, the brand has been faced with numerous challenges when moving into the modern world. Lego has successfully transitioned into the digital world, launching its website in 1996 as well as video games from 1997, a social networking site and an upcoming feature film. Lego has also addressed sustainability concerns, [breaking off a partnership with Shell](https://www.greenpeace.org.uk/how-lego-got-awesome-savethearctic-20141009/) and  launching plant-based bricks (https://www.lego.com/en-us/aboutus/news-room/2018/march/pfp)  
+Toy industry giant, LEGO, has upheld a strong ethos and company culture since its founding in Denmark in 1932. Almost a century later, the brand has been faced with numerous challenges when moving into the modern world. Lego has successfully transitioned into the digital world, launching its website in 1996 as well as video games from 1997, a social networking site and an upcoming feature film. Lego has also addressed sustainability concerns, [breaking off a partnership with Shell](https://www.greenpeace.org.uk/how-lego-got-awesome-savethearctic-20141009/) and launching plant-based bricks (https://www.lego.com/en-us/aboutus/news-room/2018/march/pfp)  
 
  
 
