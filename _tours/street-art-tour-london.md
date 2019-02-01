@@ -18,7 +18,7 @@ gallery:
   caption: A great group of students in Rivington Street - one of East Londons street
     art hot spots!
   alt: A large group of students in Rivington Street enjoying our london street art
-    tour of london.
+    tour.
 - image: "/uploads/web_17-10-11%20StreetArt%20Eden%20Banksy.jpg"
   caption: The Insider London Street art tour of London takes in Designated Graffiti
     Area by Banksy
@@ -31,7 +31,8 @@ gallery:
     London Street Art Tour!
 - image: "/uploads/web_17-01-28%20StreetArt%20Jonas.JPG"
   caption: Street art is interactive! We love you too, urbansolid!
-  alt: Two . We love you too, urbansolid!
+  alt: Two of our tour guests alongside some street art manakins!. We love you too,
+    urbansolid!
 - image: "/uploads/web_17-02-17%20StreetArt%20Jonas.jpg"
   caption: We love showing students around the East End's street art - here it's Ben
     Eine's Like Nothing.
