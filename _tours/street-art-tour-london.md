@@ -8,7 +8,8 @@ tags:
 - all
 - streetart
 heading: Street Art Tour London
-description: Join the Insider London Street Art tour and discover London's street art hotspots and the hidden treasures London has to offer.
+description: Join the Insider London Street Art tour and discover London's street
+  art hotspots and the hidden treasures London has to offer.
 gallery:
 - image: "/uploads/Title%20Street%20Art.jpg"
   caption: Street Art is everywhere in London's East End!
@@ -16,11 +17,13 @@ gallery:
 - image: "/uploads/web_17-10-11%20StreetArt%20KhanhEden.jpg"
   caption: A great group of students in Rivington Street - one of East Londons street
     art hot spots!
-  alt: A large group of students in Rivington Street enjoying our london street art tour
-    of london.
+  alt: A large group of students in Rivington Street enjoying our london street art
+    tour of london.
 - image: "/uploads/web_17-10-11%20StreetArt%20Eden%20Banksy.jpg"
-  caption: The Insider London Street art tour of London takes in Designated Graffiti Area by Banksy
-  alt: Insider London tour guide Eden and a group of students alongside Designated Graffiti Area by Bansky.
+  caption: The Insider London Street art tour of London takes in Designated Graffiti
+    Area by Banksy
+  alt: Insider London tour guide Eden and a group of students alongside Designated
+    Graffiti Area by Bansky.
 - image: "/uploads/web_17-07-20_StreetArt_Julia_na_RickNMorty.jpg"
   caption: Carrefour Executives on London Business School's training programme on
     our Street Art Tour!
