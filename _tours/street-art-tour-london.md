@@ -1,5 +1,5 @@
 ---
-title: Street Art Tour London
+title: Street Art Tour London - Street art walking tour London
 date: 2005-01-01 10:39:00 Z
 categories:
 - hidden
@@ -8,33 +8,31 @@ tags:
 - all
 - streetart
 heading: Street Art Tour London
-description: 'Discover murals and art installations by artists such as Banksy, D*Face,
-  James Cochrane, Stik, Shepard Fairy, Space Invader and many more! '
+description: Join the Insider London Street Art tour and discover London's street art hotspots and the hidden treasures London has to offer.
 gallery:
 - image: "/uploads/Title%20Street%20Art.jpg"
-  caption: Street Art in London's East End is everywhere!
-  alt: Street Art in London's East End is everywhere!
+  caption: Street Art is everywhere in London's East End!
+  alt: A colourful street art mural covering a wall in London's East End!
 - image: "/uploads/web_17-10-11%20StreetArt%20KhanhEden.jpg"
-  caption: A great group of students in Rivington Street - one of East London's street
+  caption: A great group of students in Rivington Street - one of East Londons street
     art hot spots!
-  alt: A great group of students in Rivington Street enjoying our street art tour
+  alt: A large group of students in Rivington Street enjoying our london street art tour
     of london.
 - image: "/uploads/web_17-10-11%20StreetArt%20Eden%20Banksy.jpg"
-  caption: A must see on the route - Banksy!
-  alt: A piece of Bansky as seen on our London street art tour
+  caption: The Insider London Street art tour of London takes in Designated Graffiti Area by Banksy
+  alt: Insider London tour guide Eden and a group of students alongside Designated Graffiti Area by Bansky.
 - image: "/uploads/web_17-07-20_StreetArt_Julia_na_RickNMorty.jpg"
   caption: Carrefour Executives on London Business School's training programme on
     our Street Art Tour!
   alt: Carrefour Executives on London Business School's training programme on our
-    Street Art Tour, London!
+    London Street Art Tour!
 - image: "/uploads/web_17-01-28%20StreetArt%20Jonas.JPG"
-  caption: A brilliant shot from one of our private tours. We love you too, urbansolid!
-  alt: A brilliant shot from one of our private tours. We love you too, urbansolid!
+  caption: Street art is interactive! We love you too, urbansolid!
+  alt: Two . We love you too, urbansolid!
 - image: "/uploads/web_17-02-17%20StreetArt%20Jonas.jpg"
   caption: We love showing students around the East End's street art - here it's Ben
     Eine's Like Nothing.
-  alt: We love showing students around the East End's street art - here it's Ben Eine's
-    Like Nothing.
+  alt: A large group of students huddled around Ben Eine's Like Nothing.
 featured: true
 tour-id: 29326
 trekksoft-tour-id: 50188
@@ -54,9 +52,9 @@ related:
 layout: tour
 ---
 
-London is filled with street art and graffiti hotspots with artists from around the world leaving their mark. Whether you are a seasoned visitor, on your very first trip, or have called this city home for years, it can be sometimes difficult to spot the hidden treasures London has to offer. 
+London is filled with street art and graffiti hotspots with artists from around the world leaving their mark. Whether you are a seasoned visitor, on your very first trip, or have called this city home for years, it can be sometimes difficult to spot the hidden treasures London has to offer.
 
-## Highlights of the London Street Art Tour include:
+## Highlights of the London Street Art Tour:
 
 - Discover one of the earliest (now protected) works by world-famous graffiti artist Banksy.
 

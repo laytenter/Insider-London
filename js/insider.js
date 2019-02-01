@@ -84,8 +84,8 @@ jt.nav.mobileMenu();
 
       setInterval(function () {
         slider.next();
-      }, 3000 + 300); // Interval + Transition
-      
+      }, 5000 + 300); // Interval + Transition
+
     }
 
 

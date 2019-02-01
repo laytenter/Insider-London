@@ -5,7 +5,7 @@
           {% for gal in page.gallery %}
             {% if gal.image %}
               <li class="js_slide">
-                  <img src="{{ gal.image }}" alt="{{ gal.alt }}">
+                {% include gallery.html %}
               </li>
             {% endif %}
           {% endfor %}

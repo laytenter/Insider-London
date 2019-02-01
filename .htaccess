@@ -66,6 +66,7 @@ redirect 301 /shop/feed/?product_cat=gift-vouchers	https://www.insider-london.co
 # Redirect old tour urls...13/09/2017
 redirect 301 /tours/historical-tours/ https://www.insider-london.co.uk/tours/historical-walking-tours/
 redirect 301 /tours/educational-tours/ https://www.insider-london.co.uk/tours/educational-walking-tours/
+redirect 301 /tours/street-art/ /tours/street-art-tour-london/
 
 
 # End legacy 301s
