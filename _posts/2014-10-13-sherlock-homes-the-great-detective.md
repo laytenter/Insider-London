@@ -58,4 +58,4 @@ _[In conversation with Anthony Horowitz](http://www.museumoflondon.org.uk/london
 
 [Archaeological Mysteries](http://www.museumoflondon.org.uk/london-wall/whats-on/adult-events/talks-and-workshops/#sthash.XUUJyQyI.dpuf%20 "rchaeological Mysteries") Discover your inner Sherlock and find out how archaeologists piece together London’s buried mysteries on an interactive tour of the Archaeological Archive. This event takes place at  Mortimer Wheeler House. Book in advance £7.50
 
-Find out more fascinating facts about London History on a [Quirky London Tour](https://www.insider-london.co.uk/quirky-weird-london-walking-tours/ "Quirky London Walking Tour")
+Find out more fascinating facts about London History on a [Quirky London Tour](https://www.insider-london.co.uk/tours/quirky-tour/ "Quirky London Walking Tour")

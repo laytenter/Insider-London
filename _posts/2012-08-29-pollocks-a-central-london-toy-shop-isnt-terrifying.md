@@ -59,6 +59,6 @@ So I took my niece to Hamleys recently. Hamleys in Regent Street is the world&#8
   </p>
   
   <p>
-    <em>A visit to Pollock&#8217;s Toy Store in Covent Garden is included in Insider London&#8217;s <a href="https://www.insider-london.co.uk/quirky-weird-london-walking-tours/">Quirky Tour</a></em>
+    <em>A visit to Pollock&#8217;s Toy Store in Covent Garden is included in Insider London&#8217;s <a href="https://www.insider-london.co.uk/tours/quirky-tour/">Quirky Tour</a></em>
   </p>
 </div>

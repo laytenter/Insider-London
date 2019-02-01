@@ -119,7 +119,7 @@ guid: https://www.insider-london.co.uk/?p=15077
 </p>
 
 <p class="yiv8873166317MsoNormal" style="color: #000000;">
-  <em>There&#8217;s more about London&#8217;s hidden rooftop gardens on the blog <a href="/london-rooftop-gardens/" target="_blank">here</a>, or come on one of our <a href="https://www.insider-london.co.uk/sustainable-green-building-london-tours-2/" target="_blank">Sustainable architecture</a> or <a href="https://www.insider-london.co.uk/kings-cross-innovation-tour/" target="_blank">King&#8217;s Cross regeneration</a> walking tours of London. </em>
+  <em>There&#8217;s more about London&#8217;s hidden rooftop gardens on the blog <a href="/london-rooftop-gardens/" target="_blank">here</a>, or come on one of our <a href="https://www.insider-london.co.uk/tours/sustainable-london-architecture-tour/" target="_blank">Sustainable architecture</a> or <a href="https://www.insider-london.co.uk/kings-cross-innovation-tour/" target="_blank">King&#8217;s Cross regeneration</a> walking tours of London. </em>
 </p>
 
 <p class="yiv8873166317MsoNormal" style="color: #000000;">

@@ -50,4 +50,4 @@ From the jungle to the water, Redchurch Street, Shoreditch, March 2014 (spray ca
 
 And, from our archives, Chance Street, Shoreditch, November 2013
 
-You can read a great interview with Jim about his work and the role of the collective <a href="https://www.rockwellhouse.co/jim-and-matilda/" target="_blank">here</a>. And come and join us on <a href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">one of our street art and graffiti walking tours</a> to discover some great new pieces.
+You can read a great interview with Jim about his work and the role of the collective <a href="https://www.rockwellhouse.co/jim-and-matilda/" target="_blank">here</a>. And come and join us on <a href="https://www.insider-london.co.uk/tours/street-art-tour-london/" target="_blank">one of our street art and graffiti walking tours</a> to discover some great new pieces.

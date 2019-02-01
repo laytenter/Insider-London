@@ -36,4 +36,4 @@ Here is SAKI&Bitches&#8217; version of &#8216;London Zoo&#8217;, where voluptuou
 
 Want to see more of her work? She&#8217;s got pieces in the Lollipop Gallery&#8217;s current show &#8211; &#8216;Fem Graff&#8217; &#8211; featuring the work of several female street artists. It&#8217;s on until 22 Feb &#8211; <a href="http://www.lollipopgallery.com/shows/current-show" target="_blank">find out more details here</a> &#8211; we recommend you checking it out.
 
-For more street art, come and join us on one of our <a href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">London street art & graffiti walking tours</a> &#8211; there&#8217;s always something new to spot.
+For more street art, come and join us on one of our <a href="https://www.insider-london.co.uk/tours/street-art-tour-london/" target="_blank">London street art & graffiti walking tours</a> &#8211; there&#8217;s always something new to spot.

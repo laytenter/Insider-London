@@ -12,7 +12,7 @@ layout: post
 
 London is well-known for its wide range of art galleries, many of which are free to visit, not to mention its thriving arts scene. But not all of the capital’s art can be found hanging in galleries - there’s plenty to see on the streets too, if you know where to look.
 
-If you don’t have the time or inclination to go on hunt for street art yourself, joining our [street art tour in London](https://www.insider-london.co.uk/tours/street-art/) could be the way to go. 
+If you don’t have the time or inclination to go on hunt for street art yourself, joining our [street art tour in London](https://www.insider-london.co.uk/tours/street-art-tour-london/) could be the way to go. 
 
 We’ll take you to see gems by the likes of Banksy (one of his earliest works, in fact) and Belgian graffiti artist ROA, as well as many more murals and scenes created by artists such as Stik, D*Face and Invader, among others. 
 

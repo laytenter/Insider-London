@@ -58,6 +58,6 @@ But then again there are some really good international street artists who fly b
 
 Nice one bra&#8230;..
 
-_**If you want to learn more about East London street art, why not pop along on one of our [street art tours](https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/ "East London Street Art Walking Tour")&#8230;.it&#8217;s different every time.**_
+_**If you want to learn more about East London street art, why not pop along on one of our [street art tours](https://www.insider-london.co.uk/tours/street-art-tour-london/ "East London Street Art Walking Tour")&#8230;.it&#8217;s different every time.**_
 
 &nbsp;

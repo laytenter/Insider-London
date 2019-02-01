@@ -24,4 +24,4 @@ s4_image2s:
 
 This well-accessorised fellow is the result of a collaboration between Unga of Broken Fingaz Crew and INSA. If the bright chevrons aren&#8217;t enough to convince you to put on your shades, it&#8217;s even more mind-boggling than it might first appear. Check out this piece of <a href="http://www.insaland.com/blog/on-the-brain" target="_blank">GIF magic on INSA&#8217;s blog</a>. We also had the fun of interviewing Broken Fingaz Crew last year, <a href="/london-street-art-walking-tours-broken-fingaz-crew/" target="_blank">you can have a read of that here</a>.
 
-For more of the city&#8217;s best street art, come and join us on one of our <a href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">London street art and graffiti walking tours</a>. They&#8217;re different every time. Sunglasses, however, are not included.
+For more of the city&#8217;s best street art, come and join us on one of our <a href="https://www.insider-london.co.uk/tours/street-art-tour-london/" target="_blank">London street art and graffiti walking tours</a>. They&#8217;re different every time. Sunglasses, however, are not included.

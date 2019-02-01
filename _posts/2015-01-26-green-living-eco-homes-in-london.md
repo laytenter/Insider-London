@@ -82,4 +82,4 @@ Okay, they’re not actual huts – but that’s the aura emulated by the beauti
 
 The project was awarded an Ecohomes ‘Excellent’ standard, a Building for Life Silver Standard and took home a 2010 award from the Royal Institute of British Architects – and all for good reason. Well-insulated FSC-certified wood houses are topped with green roofs. The buildings boast simple structures and lightweight constructions that aid energy-efficiency.
 
-_To find out more about green buildings in London, check out our [Sustainable Architecture](https://www.insider-london.co.uk/sustainable-green-building-london-tours-2/) tour. Those looking to keep on top of the latest innovation should also join our [Cutting-Edge Green](https://www.insider-london.co.uk/tours/cutting-edge-green-tour/) tour._
+_To find out more about green buildings in London, check out our [Sustainable Architecture](https://www.insider-london.co.uk/tours/sustainable-london-architecture-tour/) tour. Those looking to keep on top of the latest innovation should also join our [Cutting-Edge Green](https://www.insider-london.co.uk/tours/cutting-edge-green-tour/) tour._

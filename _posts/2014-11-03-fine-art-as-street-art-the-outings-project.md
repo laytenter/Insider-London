@@ -95,4 +95,4 @@ It&#8217;s a participative project. We want to see people from all around the wo
 
 **Thanks Julien!**
 
-To find out more, and learn how to liberate your own artwork visit <a href="http://www.outings-project.org/#!process/c17f1" target="_blank">The Outings Project website</a>. And for more of what&#8217;s new in London street art scene, come and join us on one of our <a href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">London street art walking tours</a>.
+To find out more, and learn how to liberate your own artwork visit <a href="http://www.outings-project.org/#!process/c17f1" target="_blank">The Outings Project website</a>. And for more of what&#8217;s new in London street art scene, come and join us on one of our <a href="https://www.insider-london.co.uk/tours/street-art-tour-london/" target="_blank">London street art walking tours</a>.

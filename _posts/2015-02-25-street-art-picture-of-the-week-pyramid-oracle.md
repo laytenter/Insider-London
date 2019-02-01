@@ -34,4 +34,4 @@ s4_cdes:
 
 Love this piece by Pyramid Oracle, as spotted in Shoreditch. This piece is hand-pasted but you can see a variety of styles at work on this US-based artist&#8217;s recent London visit. There&#8217;s more examples to <a href="/street-art-pictures-of-the-week-camden-market/" target="_blank">spot in Camden</a>, or you can see more on <a href="https://instagram.com/pyramidoracle/" target="_blank">the Pyramid Oracle Instagram feed</a>.
 
-Like more? Discover more about London&#8217;s amazing street art scene on an <a href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">Insider London street art and graffiti walking tour</a>. There&#8217;s always something new to spot.
+Like more? Discover more about London&#8217;s amazing street art scene on an <a href="https://www.insider-london.co.uk/tours/street-art-tour-london/" target="_blank">Insider London street art and graffiti walking tour</a>. There&#8217;s always something new to spot.

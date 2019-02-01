@@ -50,12 +50,12 @@ The other part of gin’s reinvention came with the arrival of gin palaces in th
 The aesthetic of the gin palace was aided by numerous recent innovations. In the early 1800s, gas lighting was introduced – for example, Pall Mall was lit by gas lamps in 1807. In 1832, sheet glass was invented, making this much more affordable and accessible. Mirrors were also put within reach from 1835, when the silvered-glass mirror was invented. All of these innovations meant that gin palaces could supply glorious amounts of light, day or night. More importantly, they were far more glamorous and exciting than the competing beer shops.
 
 So, with innovations in gin’s production and the appearance of its environment, gin moved from being a deadly and foul drink to something sophisticated that was quaffed in sparkling surroundings. It moved an incredibly long way between 1750 and 1850.
-  
+
 If you have any other interesting facts about gin, we’d love to hear them! Please share your thoughts by leaving a comment below.
 
 &nbsp;
 
-*There’s lots to say about the gin craze and gin palaces, but unfortunately we don’t have space here. You can find out more about both the gin craze and gin palaces from various sources, including our <a href="https://www.insider-london.co.uk/weird-london-murders-walking-tours/" target="_blank">Death and Debauchery Walking Tour</a>. You can also check out one of London’s last gin palaces on our <a href="https://www.insider-london.co.uk/london-pub-tours-drinking-tour/" target="_blank">History of Drinking Tour</a>.
+*There’s lots to say about the gin craze and gin palaces, but unfortunately we don’t have space here. You can find out more about both the gin craze and gin palaces from various sources, including our <a href="/tours/the-death-and-debauchery-tour/" target="_blank">Death and Debauchery Walking Tour</a>. You can also check out one of London’s last gin palaces on our <a href="https://www.insider-london.co.uk/tours/history-of-drinking-and-pubs/" target="_blank">History of Drinking Tour</a>.
 
 **A few other interesting facts about Gordon’s London Dry Gin: the recipe he launched with has not been changed to this day. We know that the gin is triple distilled and takes its flavour from juniper berries, coriander seeds, angelica root, liquorice, orris root, orange and lemon peel. However, only 12 people in the world are privy to the complete recipe. Gordon’s Gin is now the world’s best selling London Dry gin.
 

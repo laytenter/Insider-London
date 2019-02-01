@@ -28,10 +28,8 @@ We make our way downstairs to where the basement had been in times of yore – a
 
 Watch the video to find out what happened……
 
-
-
 Have you seen a ghost? Did your friends believe you? Have you heard Lily? We want to know!
 
 Or – if you don’t believe in ghosts, tell us why!
 
-For more chilling stories why not come on our [Death & Debauchery Tour](https://www.insider-london.co.uk/weird-london-murders-walking-tours/ "Death & Debauchery Tour")? It’s guaranteed to chill…..
+For more chilling stories why not come on our [Death & Debauchery Tour](/tours/the-death-and-debauchery-tour/)? It’s guaranteed to chill…..

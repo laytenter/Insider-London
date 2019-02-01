@@ -58,4 +58,4 @@ The statues will be auctioned to raise money for charities including the Nationa
 
 Discover more about Paddington station and the rest of the London Underground on a [London Underground Tube Tour](https://www.insider-london.co.uk/london-underground-tube-tours/ "London Underground Tube Tour")
 
-If you&#8217;re inspired by the colourful statues around the capital, you might enjoy a  [London Graffiti and Street Art Tour](https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/ "London Graffiti and Street Art Tour")
+If you&#8217;re inspired by the colourful statues around the capital, you might enjoy a  [London Graffiti and Street Art Tour](https://www.insider-london.co.uk/tours/street-art-tour-london/ "London Graffiti and Street Art Tour")

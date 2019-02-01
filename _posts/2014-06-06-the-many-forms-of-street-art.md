@@ -72,5 +72,5 @@ guid: https://www.insider-london.co.uk/?p=14855
   </p>
   
   <p>
-    <em>Want to know more? Come and join us on one of our <a href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">London Street Art & Graffiti tours</a>. <span style="color: #4d4d4d;">Due to the ever-changing nature of London’s street art scene, the walking tour is different every time. You never know what you might discover. </span></em>
+    <em>Want to know more? Come and join us on one of our <a href="https://www.insider-london.co.uk/tours/street-art-tour-london/" target="_blank">London Street Art & Graffiti tours</a>. <span style="color: #4d4d4d;">Due to the ever-changing nature of London’s street art scene, the walking tour is different every time. You never know what you might discover. </span></em>
   </p>

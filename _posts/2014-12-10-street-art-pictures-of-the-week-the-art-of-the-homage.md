@@ -45,6 +45,6 @@ This spray can piece, spotted in Allen Gardens, is a tribute to King Robbo by an
 
 This piece above, and at the top of the post, is a new piece on Grimsby Street, just off Brick Lane by DSCreet. The subjects of this homage &#8211; Lee and Muz &#8211; may not be known to the general public but they are known to the artist. This is a personal act of commemoration in a very public way.
 
-Want to see more great examples of street art? Come and join us on one of our <a href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">London street art and graffiti walking tours</a>.
+Want to see more great examples of street art? Come and join us on one of our <a href="https://www.insider-london.co.uk/tours/street-art-tour-london/" target="_blank">London street art and graffiti walking tours</a>.
 
 &nbsp;

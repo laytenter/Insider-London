@@ -104,4 +104,4 @@ Build on the site of what was once an ancient ford, the Chelsea Bridge also conn
 
 &nbsp;
 
-To discover more of London’s latest landmarks, join our [Modern Architecture](https://www.insider-london.co.uk/london-architecture-walking-tours/) walking tour. And, if you’d like to explore other green spots while you wait for the Garden Bridge to open, check out our [Sustainable London](https://www.insider-london.co.uk/sustainable-green-building-london-tours-2/) walking tour.
+To discover more of London’s latest landmarks, join our [Modern Architecture](https://www.insider-london.co.uk/tours/modern-architecture-tour/) walking tour. And, if you’d like to explore other green spots while you wait for the Garden Bridge to open, check out our [Sustainable London](https://www.insider-london.co.uk/tours/sustainable-london-architecture-tour/) walking tour.

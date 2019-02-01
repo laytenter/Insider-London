@@ -34,4 +34,4 @@ Whatever Bansky’s motives or objectives it is impossible not to have at least 
 
 ![is this banksy](/uploads/isthisbanksy%20(2).jpg)
 
-Join us for a [Street Art tour](https://www.insider-london.co.uk/tours/street-art/) and let’s chat Banksy. 
+Join us for a [Street Art tour](https://www.insider-london.co.uk/tours/street-art-tour-london/) and let’s chat Banksy. 

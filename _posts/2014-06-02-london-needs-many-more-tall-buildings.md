@@ -31,4 +31,4 @@ But perhaps the meeting we’re most looking forward to is between Simon Jenkins
 
 **Tickets for the event are sold out but the event will be live webcast on the <a href="http://www.lse.ac.uk/publicEvents/events/2014/06/20140602t1830vPT.aspx" target="_blank">LSE site</a>, and should be available as a podcast later this week. You can follow the debate on Twitter, as we will be using the hashtag #londonskyline.**
 
-_Want to find more out about modern architecture in London? Take a look at our <a href="https://www.insider-london.co.uk/london-architecture-walking-tours/" target="_blank">London architecture tour</a> and <a href="https://www.insider-london.co.uk/sustainable-green-building-london-tours-2/" target="_blank">Sustainable architecture tour</a>. _
+_Want to find more out about modern architecture in London? Take a look at our <a href="https://www.insider-london.co.uk/tours/modern-architecture-tour/" target="_blank">London architecture tour</a> and <a href="https://www.insider-london.co.uk/tours/sustainable-london-architecture-tour/" target="_blank">Sustainable architecture tour</a>. _

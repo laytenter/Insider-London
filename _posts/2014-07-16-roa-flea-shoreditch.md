@@ -33,6 +33,6 @@ We’re big fans of Belgian street art Roa at Insider London, so we were delight
 <figcaption>Image credit: londonmatt - Via Flicker </figcaption>
 </figure>
 
-Take a look at more work by Roa <a href="/street-art-east-londons-red-market/" target="_blank">on our blog here</a>, or why not come and check some out in the flesh (no real fleas, promise) on <a href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">one of our London street art and graffiti walking tours</a>?
+Take a look at more work by Roa <a href="/street-art-east-londons-red-market/" target="_blank">on our blog here</a>, or why not come and check some out in the flesh (no real fleas, promise) on <a href="https://www.insider-london.co.uk/tours/street-art-tour-london/" target="_blank">one of our London street art and graffiti walking tours</a>?
 
 Spotted something great on London’s streets you want to share? <span style="color: #4d4d4d;">Email </span><a id="yui_3_16_0_1_1402043296792_83087" style="color: #196ad4;" href="mailto:frances@insider-london.co.uk" target="_blank" rel="nofollow" shape="rect">frances@insider-london.co.uk</a><span style="color: #4d4d4d;"> with more details: we’d love to feature it on our blog. </span>

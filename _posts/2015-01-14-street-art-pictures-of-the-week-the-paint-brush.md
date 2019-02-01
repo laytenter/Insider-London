@@ -45,4 +45,4 @@ This piece on Cheshire Street, meanwhile, was created by ALO. This Italian artis
 
 We should also flag up another favourite &#8211; Phlegm &#8211; whose amazing Hanbury Street mural we highlighted in October. <a href="/street-art-picture-of-the-week-phlegm-hanbury-street/" target="_blank">Check it out here</a>.
 
-For more great street art, why not come on one of our <a href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">Insider London street art and graffiti walking tours</a>? There&#8217;s always something cool to discover.
+For more great street art, why not come on one of our <a href="https://www.insider-london.co.uk/tours/street-art-tour-london/" target="_blank">Insider London street art and graffiti walking tours</a>? There&#8217;s always something cool to discover.

@@ -31,4 +31,4 @@ s4_cdes:
   
 Howdy! Our street art picture this week is this rather handsome cowboy. London isn&#8217;t really known for its stetson-wearing cowboys, so perhaps it comes as no surprise that this one comes courtesy of an LA-based graffiti artist, El Mac. You can read more about <a href="http://elmac.net/" target="_blank">his work here</a>.
 
-Spotted something great on the streets? Why not share it with Insider London? You can get in touch at frances@insider-london.co.uk or through <a href="https://www.facebook.com/insiderlondon" target="_blank">our facebook page</a>. Or come and join us on one of our <a href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">street art walking tours</a>.
+Spotted something great on the streets? Why not share it with Insider London? You can get in touch at frances@insider-london.co.uk or through <a href="https://www.facebook.com/insiderlondon" target="_blank">our facebook page</a>. Or come and join us on one of our <a href="https://www.insider-london.co.uk/tours/street-art-tour-london/" target="_blank">street art walking tours</a>.

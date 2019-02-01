@@ -48,7 +48,7 @@ s4_url2s:
 </p>
 
 <p class="yiv8098260952MsoNormal">
-  We&#8217;ve spotted <a href="http://www.myrooms.co.uk/search/sclater-street-brick-lane-e1-1-double-bedroom-available/">this room</a> a stone&#8217;s throw away from <strong>Brick Lane</strong>. Brick Lane is well known for its restaurants, markets, brilliant people watching and <a href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/">street art spotting</a> &#8211; such as <a href="/smiley-otto-schade-street-art-london-brick-lane/">Otto Schade&#8217;s London Smiley</a> pictured above. Take a look at our <a href="/shoreditch-bars-drinking-guide-london/">Shoreditch bar guide</a> to look at all the great drinking establishments that will be on your doorway too.
+  We&#8217;ve spotted <a href="http://www.myrooms.co.uk/search/sclater-street-brick-lane-e1-1-double-bedroom-available/">this room</a> a stone&#8217;s throw away from <strong>Brick Lane</strong>. Brick Lane is well known for its restaurants, markets, brilliant people watching and <a href="https://www.insider-london.co.uk/tours/street-art-tour-london/">street art spotting</a> &#8211; such as <a href="/smiley-otto-schade-street-art-london-brick-lane/">Otto Schade&#8217;s London Smiley</a> pictured above. Take a look at our <a href="/shoreditch-bars-drinking-guide-london/">Shoreditch bar guide</a> to look at all the great drinking establishments that will be on your doorway too.
 </p>
 
 <p class="yiv8098260952MsoNormal">

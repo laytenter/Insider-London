@@ -46,4 +46,4 @@ Same alleyway, this is the work of UK artist Inkfetish.
 
 This final example is by the Italian artist RUN &#8211; you can [see another example of his work from earlier in the year here](/street-art-london-run-at-ram-place-fashion-market-hackney/). This piece is on Grimsby Street, retouched over one of his old pieces.
 
-Seen any great street art recently? Let us know in the comments. And, if you haven&#8217;t, why not come on one of our L<a href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">ondon street art and graffiti walking tours</a> &#8211; there&#8217;s something new to spot every time.
+Seen any great street art recently? Let us know in the comments. And, if you haven&#8217;t, why not come on one of our L<a href="https://www.insider-london.co.uk/tours/street-art-tour-london/" target="_blank">ondon street art and graffiti walking tours</a> &#8211; there&#8217;s something new to spot every time.

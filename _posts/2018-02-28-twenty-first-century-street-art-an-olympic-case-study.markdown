@@ -29,6 +29,6 @@ However, a far more sinister milestone arrived with the arrest of Darren Cullen,
 
 To conclude: How can we make sense of this confusing series of events? How can we explain why art is simultaneously commissioned and covered up for one event? Why did the Olympics commission Darren Cullen yet provoke his arrest? It seems, despite the rising profile of street art, the Olympics provide us with a more nuanced account of its status twenty-first century Britain. We are seemingly no closer to defining what constitutes street art, and what constitutes an anti-social crime. 
 
-Explore the lively debates of the London Street Art scene as well as countless beautiful pieces on our [Shoreditch Street Art Tour](https://www.insider-london.co.uk/tours/street-art/)!
+Explore the lively debates of the London Street Art scene as well as countless beautiful pieces on our [Shoreditch Street Art Tour](https://www.insider-london.co.uk/tours/street-art-tour-london/)!
 
 [Click here for street art reactions to the 2012 Olympics.](http://www.dontpaniconline.com/magazine/arts/top-ten-olympic-street-art-pieces)

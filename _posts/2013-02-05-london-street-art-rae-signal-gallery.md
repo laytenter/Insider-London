@@ -43,4 +43,4 @@ There’s also a take on religious imagery- though here the angels look strung o
 
 And present throughout is RAE’s calling-card, a sort of robotic cyborg-pig creature. It looks menacing yet friendly at the same time, though in need of some dentistry. Or maybe it’s just me. Why don’t you go for yourself and let us know what you think? It’s free to get in though if you plan on purchasing some of the work on display take a big, _BIG_, briefcase of unmarked bills or else a credit card with plenty of leeway. The prices certainly made my eyes water!
 
-And while you’re in the area, why not pop along on one of our [street art walking tours](https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/ "Street Art walking tours") round East London? They certainly won’t break the bank….
+And while you’re in the area, why not pop along on one of our [street art walking tours](https://www.insider-london.co.uk/tours/street-art-tour-london/ "Street Art walking tours") round East London? They certainly won’t break the bank….

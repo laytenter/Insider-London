@@ -59,7 +59,7 @@ And from actual kids to adults who just wanted an excuse to play with LEGO, ever
 
 [Bike Rides](http://www.londonarchitecturediary.com/)
 
-For those who prefer their architecture outdoors, organised bike rides took groups on tours of the city’s centrepieces. Churches, canals and structures were covered on this all-wheeled expedition. For those who want to do some of their own exploring, you can always check out our [modern architecture walking tour](https://www.insider-london.co.uk/london-architecture-walking-tours/).
+For those who prefer their architecture outdoors, organised bike rides took groups on tours of the city’s centrepieces. Churches, canals and structures were covered on this all-wheeled expedition. For those who want to do some of their own exploring, you can always check out our [modern architecture walking tour](https://www.insider-london.co.uk/tours/modern-architecture-tour/).
 
 <img class="aligncenter size-full wp-image-15864" src="/wp-content/uploads/2014/08/BeFunky_lfa-bike-ride.jpg_mini.jpg" alt="Bike Tour" width="560" height="373" />
 

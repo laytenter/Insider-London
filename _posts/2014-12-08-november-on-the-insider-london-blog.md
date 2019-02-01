@@ -61,4 +61,4 @@ We shared some stunning maps and infographics from new book, <a href="/london-th
   <em>Image credit: <a href="http://www.flickr.com/photos/fsse-info/9551455042" target="_blank">fsse8info</a></em>
 </p>
 
-And, finally, we played a game of top trumps with <a href="/the-towers-of-london/" target="_blank">some of London&#8217;s historic tall buildings</a>. Which is your favourite? Let us know in the comments, or <a href="https://www.insider-london.co.uk/london-architecture-walking-tours/" target="_blank">come on one of our modern architecture tours </a>and let us know for yourself.
+And, finally, we played a game of top trumps with <a href="/the-towers-of-london/" target="_blank">some of London&#8217;s historic tall buildings</a>. Which is your favourite? Let us know in the comments, or <a href="https://www.insider-london.co.uk/tours/modern-architecture-tour/" target="_blank">come on one of our modern architecture tours </a>and let us know for yourself.

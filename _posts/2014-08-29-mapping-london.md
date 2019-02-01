@@ -48,4 +48,4 @@ _Entry to Mapping London, part of the [Totally Thames](http://totallythames.org/
 
 _<a title="A History of the 20th Century in 100 Maps" href="http://shop.bl.uk/mall/productpage.cfm/BritishLibrary/_ISBN_9780712358569/89198/A-History-of-the-20th-Century-in-100-Maps-%28hardback%29" target="_blank"><span style="text-decoration: underline;">A History of the 20th Century in 100 Maps</span></a> will be published in October and is available for pre-order from the British Library online shop, priced £25._
 
-Want to know more unusual facts about London? Why not come and join us on a [Quirky London tour](https://www.insider-london.co.uk/quirky-weird-london-walking-tours/ "Quirky London tour")?
+Want to know more unusual facts about London? Why not come and join us on a [Quirky London tour](https://www.insider-london.co.uk/tours/quirky-tour/ "Quirky London tour")?

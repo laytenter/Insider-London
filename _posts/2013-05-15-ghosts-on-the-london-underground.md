@@ -25,4 +25,4 @@ Anne and her sister were apprentices at a milliner’s run by Mrs Metyard and he
 
 
 
-Have you heard the Screaming Spectre? Have you seen any other ghosts on the London Underground? Have you got any of your own ghost stories to share? We want to know. And if you want to learn more about ghostly goings on in London, why not join us on our chilling [Death & Debauchery walking tour](https://www.insider-london.co.uk/weird-london-murders-walking-tours/).
+Have you heard the Screaming Spectre? Have you seen any other ghosts on the London Underground? Have you got any of your own ghost stories to share? We want to know. And if you want to learn more about ghostly goings on in London, why not join us on our chilling [Death & Debauchery walking tour](/tours/the-death-and-debauchery-tour/).

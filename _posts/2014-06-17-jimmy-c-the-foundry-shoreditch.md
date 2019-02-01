@@ -29,5 +29,5 @@ guid: https://www.insider-london.co.uk/?p=15016
 </p>
 
 <p style="color: #4d4d4d;">
-  Got a great picture of London’s Street Art you’d like to share with us? Email <a id="yui_3_16_0_1_1402043296792_83087" style="color: #196ad4;" href="mailto:frances@insider-london.co.uk" target="_blank" rel="nofollow" shape="rect">frances@insider-london.co.uk</a>. And you can find out more about <a style="color: #1994e6;" href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">London’s Street Art and Graffiti Art</a> on one of our tours.
+  Got a great picture of London’s Street Art you’d like to share with us? Email <a id="yui_3_16_0_1_1402043296792_83087" style="color: #196ad4;" href="mailto:frances@insider-london.co.uk" target="_blank" rel="nofollow" shape="rect">frances@insider-london.co.uk</a>. And you can find out more about <a style="color: #1994e6;" href="https://www.insider-london.co.uk/tours/street-art-tour-london/" target="_blank">London’s Street Art and Graffiti Art</a> on one of our tours.
 </p>

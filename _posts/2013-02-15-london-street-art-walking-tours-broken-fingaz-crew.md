@@ -99,4 +99,4 @@ Mmm… [Athens is one of the most bombed cities](http://www.youtube.com/watch?f
 
 ****Yeah, and it was nice to see the [Espo](http://www.fecalface.com/SF/features-mainmenu-102/1736-steve-powers-a-love-letter-for-you "Steve Powers AKA Espo") piece. The [Sweet Toof](http://sweettoof.com/?gallery=street "Sweet Toof") bombings are always cool, he has some nice spots.
 
-**So. Head to Athens I guess&#8230;but in the meantime join us on our [street art walking tour](https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/ "Street Art walking tour")&#8230;.you never know how long a piece might last&#8230;..**
+**So. Head to Athens I guess&#8230;but in the meantime join us on our [street art walking tour](https://www.insider-london.co.uk/tours/street-art-tour-london/ "Street Art walking tour")&#8230;.you never know how long a piece might last&#8230;..**

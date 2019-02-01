@@ -56,6 +56,6 @@ not that much
 
 <a href="/london-street-art-interview-c215/" rel="attachment wp-att-4129"><img class="size-full wp-image-4129  " alt="Bukowski, C215, Eastend street art Insider London, walking tours" src="/wp-content/uploads/2013/01/bigbuk.jpg" width="569" height="272" /></a><figcaption class="wp-caption-text">Charles Bukowski &#8211; another man who chose his words carefully</figcaption></figure>
 
-If you want to see some of C215’s work, join us on our [street art tour](https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/ "Eastend street art tour")! It’s always changing so see it while you can… and catch these latest efforts as the paint dries…
+If you want to see some of C215’s work, join us on our [street art tour](https://www.insider-london.co.uk/tours/street-art-tour-london/ "Eastend street art tour")! It’s always changing so see it while you can… and catch these latest efforts as the paint dries…
 
 _all images provided by C215_

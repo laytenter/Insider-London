@@ -19,6 +19,6 @@ guid: https://www.insider-london.co.uk/?p=15108
   
 The Avon and Somerset Constabulary is instantly recognisable as a piece of Banksy. It dates to 2001 and was shown at his first major exhibition in the UK – The Severnshed show in 2000. It&#8217;s currently on display at Sotheby&#8217;s, part of <a href="http://www.sothebys.com/en/auctions/2014/banksy-steve-lazarides-ls1403.html" target="_blank">BANKSY: The Unauthorised Retrospective</a>, curated by Steve Lazarides. You can read our thoughts on the exhibition <a href="/banksy-london-street-art/" target="_blank">on the blog here</a>.
 
-Want to know more about street art? Why not come on one of our <a href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">London street art and graffiti walking tours</a>, or check back on the blog next Wednesday for our next street art picture of the week.
+Want to know more about street art? Why not come on one of our <a href="https://www.insider-london.co.uk/tours/street-art-tour-london/" target="_blank">London street art and graffiti walking tours</a>, or check back on the blog next Wednesday for our next street art picture of the week.
 
 Image thanks to <a href="http://www.sothebys.com/en/auctions/2014/banksy-steve-lazarides-ls1403.html" target="_blank">Sotheby&#8217;s</a>.

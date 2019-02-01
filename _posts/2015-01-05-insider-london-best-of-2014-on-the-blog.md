@@ -90,6 +90,6 @@ We love seeking out the quirky unusual around this great city. Check out <a href
 
 But for true London geeks, we really recommend you pick up a copy of The Information Capital. You can see some of its brilliant maps and infographics <a href="/london-the-information-project-infographics-that-will-change-the-way-you-view-the-city/" target="_blank">in this post</a>.
 
-We hope you enjoyed 2014 as much as we did, and we look forward to seeing you on one of our <a href="https://www.insider-london.co.uk/alternative-london-tours/" target="_blank">Insider London alternative walking tours in 2015</a>!
+We hope you enjoyed 2014 as much as we did, and we look forward to seeing you on one of our <a href="https://www.insider-london.co.uk/tours/" target="_blank">Insider London alternative walking tours in 2015</a>!
 
 &nbsp;

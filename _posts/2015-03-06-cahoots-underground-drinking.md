@@ -32,7 +32,7 @@ s4_cdes:
 
 <img class="aligncenter wp-image-24880 size-full" src="/wp-content/uploads/2015/03/cahoots-3_mini.jpg" alt="alternative london underground" width="569" height="378" />
   
-We love all things <a href="https://www.insider-london.co.uk/london-underground-tube-tours/" target="_blank">London Underground</a>. We&#8217;re also <a href="https://www.insider-london.co.uk/london-pub-tours-drinking-tour/" target="_blank">fond of a drink or two</a>. So, no surprises that we&#8217;re intrigued by the concepts of [Cahoots](http://cahoots-london.com/) which opened yesterday. The bar has been given a late 1940s theme, inspired by the London Underground stations that were used as air raid shelters in the Second World War.
+We love all things <a href="https://www.insider-london.co.uk/london-underground-tube-tours/" target="_blank">London Underground</a>. We&#8217;re also <a href="https://www.insider-london.co.uk/tours/history-of-drinking-and-pubs/" target="_blank">fond of a drink or two</a>. So, no surprises that we&#8217;re intrigued by the concepts of [Cahoots](http://cahoots-london.com/) which opened yesterday. The bar has been given a late 1940s theme, inspired by the London Underground stations that were used as air raid shelters in the Second World War.
 
 <img class="aligncenter wp-image-24881 size-full" src="/wp-content/uploads/2015/03/cahoots-2_mini.jpg" alt="quirky London bars" width="569" height="856" />
 

@@ -46,4 +46,4 @@ We&#8217;ve actually veered off the streets slightly for our street art picture 
 
 Sweet Toof has been especially busy recently: he&#8217;s also collaborated with Hackney Wick-based Bespoke Barware on a <a href="http://www.bespokebarware.com/news/sweet-toof-special-editions/" target="_blank">special edition range of cocktail mugs</a>. We&#8217;ll take one of the <a href="http://www.bespokebarware.com/shop/sweet-toof-skull-mug/" target="_blank">skull mugs</a> please.
 
-Want more street art? Why not come on one of our <a href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">London street art and graffiti walking tours</a> &#8211; there is always something new to spot. And if you&#8217;ve spied any exciting pieces of art, do let us know: we&#8217;d love to feature it on the blog.
+Want more street art? Why not come on one of our <a href="https://www.insider-london.co.uk/tours/street-art-tour-london/" target="_blank">London street art and graffiti walking tours</a> &#8211; there is always something new to spot. And if you&#8217;ve spied any exciting pieces of art, do let us know: we&#8217;d love to feature it on the blog.

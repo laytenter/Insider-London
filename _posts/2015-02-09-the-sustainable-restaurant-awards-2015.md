@@ -197,4 +197,4 @@ It’s award season – and not just for the film stars. The Sustainable Restaur
 
 &nbsp;
 
-To find more sustainable spots in London, join our [Cutting-Edge Green Tour](/tours/cutting-edge-green-tour/). You can also check out our [Sustainable Architecture](https://www.insider-london.co.uk/sustainable-green-building-london-tours-2/) Tour to see the city’s greenest buildings.
+To find more sustainable spots in London, join our [Cutting-Edge Green Tour](/tours/cutting-edge-green-tour/). You can also check out our [Sustainable Architecture](https://www.insider-london.co.uk/tours/sustainable-london-architecture-tour/) Tour to see the city’s greenest buildings.

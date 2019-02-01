@@ -13,14 +13,14 @@ redirect 301 /olu-thank-page/ https://www.insider-london.co.uk/
 redirect 301 /blog-application-form/ https://www.insider-london.co.uk/blog-2/
 redirect 301 /location/blackfriars-station/ https://www.insider-london.co.uk/
 redirect 301 /london-student-tour/ https://www.insider-london.co.uk/product-category/tours/
-redirect 301 /alternative-london-tours/ https://www.insider-london.co.uk/product-category/tours/
+redirect 301 /alternative-london-tours/ https://www.insider-london.co.uk/tours/
 redirect 301 /test/ https://www.insider-london.co.uk/
 redirect 301 /architecture-planning-london-tour/ https://www.insider-london.co.uk/product-category/tours/
 redirect 301 /bespoke-london-walking-tours/ https://www.insider-london.co.uk/
 redirect 301 /business-visits-london-students/ https://www.insider-london.co.uk/product/in-depth-business-tour/
 redirect 301 /sightseeing-london-walking-tours/ https://www.insider-london.co.uk/product-category/tours/
 redirect 301 /london-tours-operations-assistant/ https://www.insider-london.co.uk/
-redirect 301 /london-architecture-walking-tours/ https://www.insider-london.co.uk/product/modern-architecture-tour/
+redirect 301 /london-architecture-walking-tours/ https://www.insider-london.co.uk/tours/modern-architecture-tour/
 redirect 301 /business-experience-london-tour/ https://www.insider-london.co.uk/product/in-depth-business-tour/
 redirect 301 /hen-weekends-london-tours/ https://www.insider-london.co.uk/
 redirect 301 /sustainability-experience-london-tour/ https://www.insider-london.co.uk/product/sustainable-london-architecture-tour/
@@ -75,15 +75,19 @@ redirect 301 /tours/street-art/ /tours/street-art-tour-london/
 
 RewriteEngine On
 
+#-----------------redirect to https-----------------
+RewriteCond %{HTTPS} !on [OR]
+RewriteCond %{HTTP_HOST} !^www\. [NC]
+RewriteRule ^ https://www.insider-london.co.uk%{REQUEST_URI} [L,R=301,NE]
 
-RewriteCond %{HTTPS} !=on
-RewriteCond %{HTTP_HOST} ^www\.insider-london\.co.uk$
-RewriteRule ^(.*)$ https://www.insider-london.co.uk/$1 [R=301,L]
+#RewriteCond %{HTTPS} !=on
+#RewriteCond %{HTTP_HOST} ^www\.insider-london\.co.uk$
+#RewriteRule ^(.*)$ https://www.insider-london.co.uk/$1 [R=301,L]
 
 # Redirect non 'www' https traffic to www
-RewriteCond %{HTTPS} on
-RewriteCond %{HTTP_HOST} ^insider-london.co.uk [NC]
-RewriteRule ^(.*)$ https://www.insider-london.co.uk/$1 [L,R=301]
+#RewriteCond %{HTTPS} on
+#RewriteCond %{HTTP_HOST} ^insider-london.co.uk [NC]
+#RewriteRule ^(.*)$ https://www.insider-london.co.uk/$1 [L,R=301]
 
 #Ignore Google verification file
 RewriteRule ^google3d11bb01af91a5dc.html$ - [L]

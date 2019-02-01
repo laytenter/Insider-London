@@ -293,4 +293,4 @@ Starting at the visitor’s centre, families can pick up instructions and a map 
   <em>image via <a href="http://www.kingscross.co.uk/">kingscross.co.uk</a></em>
 </p>
 
-Explore more of the city’s art and find out what else the regeneration will bring with our [King’s Cross Regeneration Tour](https://www.insider-london.co.uk/kings-cross-innovation-tour/). Alternately, satiate your inner art-seeker with our [Street Art Tour](https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/).
+Explore more of the city’s art and find out what else the regeneration will bring with our [King’s Cross Regeneration Tour](https://www.insider-london.co.uk/kings-cross-innovation-tour/). Alternately, satiate your inner art-seeker with our [Street Art Tour](https://www.insider-london.co.uk/tours/street-art-tour-london/).

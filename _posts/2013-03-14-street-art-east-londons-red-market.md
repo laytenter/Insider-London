@@ -19,7 +19,7 @@ layout: post
 guid: https://www.insider-london.co.uk/?p=4796
 ---
 
-Yesterday we were scouting around for some new finds for our <a href="/london-graffiti-artists-walking-tours/" target="_blank">Street Art Tour</a> and found that <a href="http://redmarketlondon.com/" target="_blank">The Red Market</a> was open&#8230; we wandered in and had a look around to find some gorgeous pieces. Here they are!
+Yesterday we were scouting around for some new finds for our <a href="/tours/street-art-tour-london/" target="_blank">Street Art Tour</a> and found that <a href="http://redmarketlondon.com/" target="_blank">The Red Market</a> was open&#8230; we wandered in and had a look around to find some gorgeous pieces. Here they are!
 
 <img title="london-street-art-tours-shoreditch" alt="Street art at the Red Market, East London" src="/wp-content/uploads/2013/03/london-street-art-tours-shoreditch.jpg" />
 

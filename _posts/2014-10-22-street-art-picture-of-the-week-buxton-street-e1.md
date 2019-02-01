@@ -39,5 +39,5 @@ s4_ctitle:
 </p>
 
 <p style="text-align: left;">
-  Want to join us on hunting down London&#8217;s best street art? Come and <a href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">join one of our street art and graffiti walking tours</a>. It&#8217;s always a new experience.
+  Want to join us on hunting down London&#8217;s best street art? Come and <a href="https://www.insider-london.co.uk/tours/street-art-tour-london/" target="_blank">join one of our street art and graffiti walking tours</a>. It&#8217;s always a new experience.
 </p>

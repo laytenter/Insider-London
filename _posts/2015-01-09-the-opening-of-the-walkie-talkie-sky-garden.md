@@ -54,4 +54,4 @@ Its definition of “public park” is also fairly questionable &#8211; visits h
 
 What do you think? Will you be planning a visit? If so, you can <a href="https://skygardentickets.com/skygardenpublic_ui/(S(mdslx4cbunu1opbcqodwgtbc))/filters/" target="_blank">book your free slot here</a>. At time of writing, January was already fully booked up, with February getting there fast&#8230;.
 
-And to find out more about London’s ever changing architecture, why not come on one of our Insider London <a href="https://www.insider-london.co.uk/london-architecture-walking-tours/" target="_blank">modern architecture</a> or <a href="https://www.insider-london.co.uk/sustainable-green-building-london-tours-2/" target="_blank">sustainable architecture walking tours</a>?
+And to find out more about London’s ever changing architecture, why not come on one of our Insider London <a href="https://www.insider-london.co.uk/tours/modern-architecture-tour/" target="_blank">modern architecture</a> or <a href="https://www.insider-london.co.uk/tours/sustainable-london-architecture-tour/" target="_blank">sustainable architecture walking tours</a>?

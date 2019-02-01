@@ -27,7 +27,7 @@ s4_url2s:
 
 [<img class="size-full wp-image-23076 aligncenter" src="/wp-content/uploads/2014/10/Concrete-Canvas-book_mini.jpg" alt="street art london" width="569" height="735" />](/wp-content/uploads/2014/10/Concrete-Canvas-book_mini.jpg)
 
-We say it all the time but it&#8217;s true &#8211; there&#8217;s always some new artwork to spot when you go on one of our <a href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">London street art and graffiti walking tours</a>. How can you keep track of it all? Perhaps more importantly, how do you make sense of it?
+We say it all the time but it&#8217;s true &#8211; there&#8217;s always some new artwork to spot when you go on one of our <a href="https://www.insider-london.co.uk/tours/street-art-tour-london/" target="_blank">London street art and graffiti walking tours</a>. How can you keep track of it all? Perhaps more importantly, how do you make sense of it?
 
 An attempt to do that is Lee Bofki&#8217;s new book <a href="http://www.amazon.co.uk/Concrete-Canvas-Street-Changing-Cities/dp/1844037827/ref=sr_1_1?ie=UTF8&qid=1414350890&sr=8-1&keywords=concrete+canvas" target="_blank">Concrete Canvas: How street art is changing the way our cities look</a>. Bofki is the co-founder and CEO of <a href="http://globalstreetart.com/" target="_blank">Global Street Art</a>, and this book is illustrated with a selection of the 50,000 plus global examples of street art they&#8217;ve collected on their site.
 
@@ -39,6 +39,6 @@ The book also explores the different techniques and examples of experimentation 
 
 It&#8217;s a fascinating attempt at making sense of the varied global climate of street art and where it could go to next. And you can pick up a copy for a very reasonable £13.60 from <a href="http://www.amazon.co.uk/Concrete-Canvas-Street-Changing-Cities/dp/1844037827/ref=sr_1_1?ie=UTF8&qid=1414350890&sr=8-1&keywords=concrete+canvas" target="_blank">Amazon</a>.
 
-_Want to see what&#8217;s happening on London&#8217;s streets right now? Come join one of our <a href="https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/" target="_blank">street art and graffiti walking tours</a>. _
+_Want to see what&#8217;s happening on London&#8217;s streets right now? Come join one of our <a href="https://www.insider-london.co.uk/tours/street-art-tour-london/" target="_blank">street art and graffiti walking tours</a>. _
 
 &nbsp;

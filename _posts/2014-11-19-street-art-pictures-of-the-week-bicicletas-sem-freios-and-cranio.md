@@ -40,4 +40,4 @@ We&#8217;re pairing their work with Cranio &#8211; [whose work we featured on th
 
 [<img class="aligncenter wp-image-23443 size-full" src="/wp-content/uploads/2014/11/9a_mini.jpg" alt="cranio street art london" width="569" height="759" />](/wp-content/uploads/2014/11/9a_mini.jpg)
   
-Want to check out more street art? Come and join us on one of our [London street art and graffiti walking tours](https://www.insider-london.co.uk/london-graffiti-artists-walking-tours/).
+Want to check out more street art? Come and join us on one of our [London street art and graffiti walking tours](https://www.insider-london.co.uk/tours/street-art-tour-london/).
