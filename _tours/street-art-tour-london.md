@@ -1,5 +1,5 @@
 ---
-title: Street Art Tour London - Street art walking tour London
+title: Street Art Tour London, Shoreditch Street art
 date: 2005-01-01 10:39:00 Z
 categories:
 - hidden
@@ -22,8 +22,8 @@ gallery:
 - image: "/uploads/web_17-10-11%20StreetArt%20Eden%20Banksy.jpg"
   caption: The Insider London Street art tour of London takes in Designated Graffiti
     Area by Banksy
-  alt: Insider London tour guide Eden and a group of students alongside Designated
-    Graffiti Area by Bansky.
+  alt: The Insider London Street art tour guide Eden and a group of students alongside
+    Designated Graffiti Area by Bansky.
 - image: "/uploads/web_17-07-20_StreetArt_Julia_na_RickNMorty.jpg"
   caption: Carrefour Executives on London Business School's training programme on
     our Street Art Tour!
@@ -58,7 +58,7 @@ layout: tour
 
 London is filled with street art and graffiti hotspots with artists from around the world leaving their mark. Whether you are a seasoned visitor, on your very first trip, or have called this city home for years, it can be sometimes difficult to spot the hidden treasures London has to offer.
 
-## Highlights of the London Street Art Tour:
+## Highlights of the Street Art Tour:
 
 - Discover one of the earliest (now protected) works by world-famous graffiti artist Banksy.
 
