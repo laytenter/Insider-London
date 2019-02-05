@@ -16,13 +16,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=24909
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 [<img class="aligncenter wp-image-24911 size-full" src="/wp-content/uploads/2015/03/king-john-teeth-worcester-museum-thumb-bone-cathedral-magna-carta-law-liberty-legacy-library-british-2.jpg" alt="king-john-teeth-worcester-museum-thumb-bone-cathedral-magna-carta-law-liberty-legacy-library-british (2)" width="569" height="395" />](/wp-content/uploads/2015/03/king-john-teeth-worcester-museum-thumb-bone-cathedral-magna-carta-law-liberty-legacy-library-british-2.jpg)
@@ -59,4 +59,4 @@ Law, Liberty, Legacy is on view at the British Library  from Friday 13 March to
 
 Further information about events in London and around the country is available at [Magna Carta 800](http://magnacarta800th.com/ "Magna Carta 800")
 
-Find out more fascinating facts about London’s colourful past on an [ Alternative History Walking Tour](https://www.insider-london.co.uk/sightseeing-london-walking-tours/ "Alternative History Walking Tour")
+Find out more fascinating facts about London’s colourful past on an [ Alternative History Walking Tour](https://www.insider-london.co.uk/tours/ "Alternative History Walking Tour")
