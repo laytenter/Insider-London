@@ -68,6 +68,8 @@ Approximately two hours
 
 The Tour runs weekly: 7pm Saturday
 
+From 1st May this tour will be on Fridays at 7pm
+
 The History of Drinking and Pubs Tour may also be booked as a private tour at a time suitable for you and your party, <a href="/contact-us/">please send us an email to make an enquiry.</a>
 
 ### Where does the Tour finish?
