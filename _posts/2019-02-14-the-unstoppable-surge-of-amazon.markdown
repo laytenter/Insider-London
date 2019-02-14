@@ -26,9 +26,7 @@ Firstly, anyone who visits one of the seven [London branches](https://www.wholef
 
  
 
-However, the elephant in the room is data. The Amazon and Wholefoods combination has enormous potential particularly as [many shoppers continue to browse online but purchase in brick and mortar](https://www.cnbc.com/2018/06/15/a-year-after-amazon-announced-whole-foods-deal-heres-where-we-stand.html ). Herman Simon goes so far as to call Wholefoods Market as [“pricing laboratory”](https://hbr.org/2017/09/whole-foods-is-becoming-amazons-brick-and-mortar-pricing-lab?referral=03758&cm_vc=rr_item_page.top_right). He stated in 2017 “By buying Whole Foods, Amazon gets virtually limitless possibilities to test products and services, test price points and assortment interactions, redefine the price perception for organic and healthier foods, merge offline and online shopping  
-
-experiences, and perhaps test home delivery or store pickup with ideal early adopters.”  
+However, the elephant in the room is data. The Amazon and Wholefoods combination has enormous potential particularly as [many shoppers continue to browse online but purchase in brick and mortar](https://www.cnbc.com/2018/06/15/a-year-after-amazon-announced-whole-foods-deal-heres-where-we-stand.html ). Herman Simon goes so far as to call Wholefoods Market as [“pricing laboratory”](https://hbr.org/2017/09/whole-foods-is-becoming-amazons-brick-and-mortar-pricing-lab?referral=03758&cm_vc=rr_item_page.top_right). He stated in 2017 “By buying Whole Foods, Amazon gets virtually limitless possibilities to test products and services, test price points and assortment interactions, redefine the price perception for organic and healthier foods, merge offline and online shopping experiences, and perhaps test home delivery or store pickup with ideal early adopters.”  
 
  
 
