@@ -63,10 +63,13 @@ redirect 301 /product/modern	https://www.insider-london.co.uk
 redirect 301 /product/london-underground/	https://www.insider-london.co.uk/product/london-underground-and-tube-tour/
 redirect 301 /product/silicon-roundabout-and-tech-city/	https://www.insider-london.co.uk/product/silicon-roundabout-and-tech-city-tour/
 redirect 301 /shop/feed/?product_cat=gift-vouchers	https://www.insider-london.co.uk/gift-vouchers/
+redirect 301 /tours/in-depth-business-tour/ https://www.insider-london.co.uk/in-depth-business-visits/
 # Redirect old tour urls...13/09/2017
 redirect 301 /tours/historical-tours/ https://www.insider-london.co.uk/tours/historical-walking-tours/
 redirect 301 /tours/educational-tours/ https://www.insider-london.co.uk/tours/educational-walking-tours/
 redirect 301 /tours/street-art/ /tours/street-art-tour-london/
+
+
 
 
 # End legacy 301s
