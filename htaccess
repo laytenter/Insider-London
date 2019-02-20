@@ -68,7 +68,7 @@ redirect 301 /tours/historical-tours/ https://www.insider-london.co.uk/tours/his
 redirect 301 /tours/educational-tours/ https://www.insider-london.co.uk/tours/educational-walking-tours/
 redirect 301 /tours/street-art/ /tours/street-art-tour-london/
 
-redirect 301 /tours/in-depth-business-tour/ /tours/in-depth-business-visits/
+redirect 301 /tours/in-depth-business-tour/ https://www.insider-london.co.uk/in-depth-business-vists/
 
 
 # End legacy 301s
