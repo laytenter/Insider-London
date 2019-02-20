@@ -30,7 +30,7 @@ Londoners, (particularly the poor of London) began to drink gin in large quantit
 
  
 
-More gruesome though, are the tales of the gin-crazed themselves. In 1734, Judith Defour was hanged at Tyburn after strangling her own child, [selling her clothes and using the money to buy gin](http://www.executedtoday.com/2016/03/08/1734-judith-defour-in-the-gin-craze/). There are many such stories, some with strong evidence, others more likely to be urban myths and anti-gin propaganda. There were even stories of [women who spontaneously combusted after drinking gin(https://www.historyextra.com/period/victorian/the-18th-century-craze-for-gin/).  
+More gruesome though, are the tales of the gin-crazed themselves. In 1734, Judith Defour was hanged at Tyburn after strangling her own child, [selling her clothes and using the money to buy gin](http://www.executedtoday.com/2016/03/08/1734-judith-defour-in-the-gin-craze/). There are many such stories, some with strong evidence, others more likely to be urban myths and anti-gin propaganda. There were even stories of [women who spontaneously combusted after drinking gin](https://www.historyextra.com/period/victorian/the-18th-century-craze-for-gin/).  
 
  
 
