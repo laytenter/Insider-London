@@ -1,6 +1,7 @@
 ---
 title: In-Depth Business Tours & Visits | Business Visits London
 date: 2015-08-28 10:51:00 Z
+permalink: "/in-depth-business-vists/"
 tags:
 - educational
 - bvisits
