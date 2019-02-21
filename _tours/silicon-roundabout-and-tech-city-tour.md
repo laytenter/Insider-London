@@ -80,7 +80,7 @@ On this tour you will:
 
  
 
-This is an exterior walking tour of one of London's most forward-thinking districts. For an in-depth understand of London's tech scene, pair this educational guided tour with a [business visit](link) to a pioneering tech start-up. 
+This is an exterior walking tour of one of London's most forward-thinking districts. For an in-depth understand of London's tech scene, pair this educational guided tour with a [business visit](https://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/) to a pioneering tech start-up. 
 
 ## What you need to know
 
