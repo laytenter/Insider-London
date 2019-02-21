@@ -60,7 +60,7 @@ With start-up success stories of all kind, between 2012 and 2014, Silicon Rounda
 
 On this tour you will: 
 
--Understand the unliky origins of the name “Silicon Roundabout” 
+-Understand the unlikely origins of the name “Silicon Roundabout” 
 
 -See one of the UK's first bitcoin ATMs 
 
