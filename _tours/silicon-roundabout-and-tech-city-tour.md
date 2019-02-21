@@ -48,52 +48,39 @@ related:
 layout: tour
 ---
 
-The UK’s Digital industry is booming. It’s epicentre – an unassuming roundabout in East London.
+Welcome to the epicentre of London's booming tech start-up industry! 
 
-Known as Silicon Roundabout or Tech City, this area of London is home to the world’s third biggest start-up tech cluster and is currently snapping at the heels of New York City and San Francisco’s tech scene.
+Come and discover the unassuming roundabout which over the course of the last decade has earned a reputation as the perfect incubator for the modern start-up. Traversing the art-lined streets of colourful Shoreditch, we explore the curious origins and exciting developments of the one-and-only Silicon Roundabout. Discover why students and corporate groups are flocking to the area for inspiration. 
 
-Last year Silicon Roundabout launched over 15,500 new businesses – nearly five times as many launched in Canary Wharf. It is also where some of the biggest tech companies in the world have put down roots, including heavy hitters Google and Amazon, alongside Zoopla, Asos, Moo, Spotify, Songkick.com, Mind Candy and more.
+ 
 
-But how did this tech start-up metropolis come about?
+With start-up success stories of all kind, between 2012 and 2014, Silicon Roundabout boasted 32,000 businesses founded in a single postcode – more than any other postcode in history. This eye-opening educational tour delves into the foundations and development of the business eco-system. 
 
-Award-winning Insider London’s Silicon Roundabout tour offers an eye-opening educational insight into how Shoreditch spawned a tech monster to rival San Fran’s Silicon Valley.
+## Highlights
 
-### London’s Silicon Roundabout Tour – Best Shoreditch Walking Tour
+On this tour you will: 
 
-Starting at Shoreditch Grind, a funky little coffee shop come recording studio, our professional and knowledgeable tour guide will take you on an entertaining two-hour loop via Shoreditch, Hoxton and Old Street through this innovative and vibrant part of London.
+-Understand the unlike origins of the name “Silicon Roundabout” 
 
-Taking in co-worker spaces (where lots of tech start-ups begin), creative spaces, pop-up spaces and some downright crackers spaces, you’ll hear how Silicon Roundabout has earned its global profile before finishing at Google Campus, the UK’s biggest ‘incubator’ for tech minded start-ups.
+-See one of the UK's first bitcoin ATMs 
 
-![London Tech City Tour](/uploads/web_17-08-03_SR_Dean_na_Ziferblat.jpg)
-*Inside Ziferblat, one of the most creative co-working spaces we know!*
+-Discover how and why the area provides the ultimate conditions for start-ups to thrive 
 
-## Learn Silicon Roundabout's Secrets
+-Understand key differences between Silicon Roundabout and Silicon Valley 
 
-You’ll discover:
+-Find out why some of the world's move powerful companies such as Barclays, Google and Amazon are moving into “the sweet spot” 
 
-- How Silicon Roundabout grew off its own creative steam with no centralised plan
+-Find out how Silicon Roundabout has impacted the local area 
 
-- The critical, and sometimes controversial, differences between Silicon Roundabout and Tech City
+-Debate whether the Silicon Roundabout can maintain it's global, growing prestige  
 
-- Why one hugely successful tech business chose London’s Silicon Roundabout over California’s Silicon Valley
+ 
 
-- The unique relationship between Silicon Roundabout’s tech businesses and the area’s artists and musicians
+ 
 
-- What Silicon Roundabout has in common with a coral reef
+ 
 
-- Why people continue to commute here every day &#8211; despite it being easier than ever to log on from home in your pjs
-
-- Where the phrase ‘flat white economy’ comes from
-
-- Where you can exchange hard cash for virtual currency
-
-- How the lifecycle of a start-up develops, from renting co-worker space through to securing investment, to attracting super talented staff and beyond
-
-- Whether cracks are beginning to show in this tech empire. As larger companies stake their claim on the area, is Silicon Roundabout becoming a victim of its own success?
-
-Perfect for bringing academic courses to life, a fun team-building activity or to introduce your client or student groups to the area, this intriguing educational walking tour takes you right to the cutting-edge heart of the capital.
-
-See where tomorrow’s trends are created, where killer concepts are born, where tube carriages double as office space and the only place in the world where you can buy an alcoholic smoothie.
+This is an exterior walking tour of one of London's most forward-thinking districts. For an in-depth understand of London's tech scene, pair this educational guided tour with a [business visit](link) to a pioneering tech start-up. 
 
 ## What you need to know
 
