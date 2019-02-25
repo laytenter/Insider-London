@@ -60,19 +60,19 @@ With start-up success stories of all kind, between 2012 and 2014, Silicon Rounda
 
 On this tour you will: 
 
--Understand the unlikely origins of the name “Silicon Roundabout” 
+* Understand the unlikely origins of the name “Silicon Roundabout” 
 
--See one of the UK's first bitcoin ATMs 
+* See one of the UK's first bitcoin ATMs 
 
--Discover how and why the area provides the ultimate conditions for start-ups to thrive 
+* Discover how and why the area provides the ultimate conditions for start-ups to thrive 
 
--Understand key differences between Silicon Roundabout and Silicon Valley 
+* Understand key differences between Silicon Roundabout and Silicon Valley 
 
--Find out why some of the world's move powerful companies such as Barclays, Google and Amazon are moving into “the sweet spot” 
+* Find out why some of the world's move powerful companies such as Barclays, Google and Amazon are moving into “the sweet spot” 
 
--Find out how Silicon Roundabout has impacted the local area 
+* Find out how Silicon Roundabout has impacted the local area 
 
--Debate whether the Silicon Roundabout can maintain it's global, growing prestige  
+* Debate whether the Silicon Roundabout can maintain it's global, growing prestige  
 
  
 
