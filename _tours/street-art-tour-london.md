@@ -10,7 +10,7 @@ tags:
 heading: Street Art Tour London
 description: Join the Insider London Street Art tour and discover London's street
   art hotspots and the hidden treasures London has to offer.
-gallery:
+gallery.off:
 - image: "/uploads/Title%20Street%20Art.jpg"
   caption: Street Art is everywhere in London's East End!
   alt: A colourful street art mural covering a wall in London's East End!
@@ -55,6 +55,8 @@ related:
 - 32336
 layout: tour
 ---
+
+<iframe width="772" height="528" src="https://www.youtube.com/embed/K2X8Pjrwuxc" autoplay=1;rel="0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 London is filled with street art and graffiti hotspots with artists from around the world leaving their mark. Whether you are a seasoned visitor, on your very first trip, or have called this city home for years, it can be sometimes difficult to spot the hidden treasures London has to offer.
 
