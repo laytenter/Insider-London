@@ -42,4 +42,6 @@ When acts were passed to end the gin craze, there were actually [funerals for Mo
 
  
 
-Come and explore the glorious history of British boozing with us on our [History of Pubs and Drinking Tour](https://www.insider-london.co.uk/tours/history-of-drinking-and-pubs/). This tour takes place on Saturday's at 7pm and then on Friday's at 7pm from 1st May. 
+Come and explore the glorious history of British boozing with us on our [History of Pubs and Drinking Tour](https://www.insider-london.co.uk/tours/history-of-drinking-and-pubs/). 
+
+Why not join our St Patrick's Day Special - simply select the 16th March when booking!
