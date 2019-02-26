@@ -46,7 +46,7 @@ price: 20
 thumb: 5103793738_5df66b09ba_o-300x200.jpeg
 thumbsrcset: "/assets/images/5103793738_5df66b09ba_o-445x304.jpeg 445w, /assets/images/5103793738_5df66b09ba_o-568x388.jpeg
   568w"
-banner: Street Art 3-large.JPG
+banner.off: Street Art 3-large.JPG
 hidden: true
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9930.18992237212!2d-0.08116377516709032!3d51.521517516813866!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761cb7237e45d3%3A0x832e68d6f5c3b9b0!2sShoreditch+High+Street!5e0!3m2!1sen!2s!4v1431588607125
 related:
