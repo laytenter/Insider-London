@@ -1,10 +1,10 @@
 ---
-title: London is Getting Taller
+title: London Continues To Grow Up
 date: 2019-02-28 09:48:00 Z
-permalink: "/london-is-getting-taller/"
+permalink: "/london-continues-to-grow-up/"
 description: “What a difference three decades makes. Thirty years ago, the word “high-rise”
   was associated with something very different."
-heading: London is Getting Taller
+heading: London Continues To Grow Up
 layout: post
 ---
 
