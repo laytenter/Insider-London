@@ -9,6 +9,7 @@ id: 13974
 author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=13974
+robots: noindex
 ---
 
 <img class="alignnone size-full wp-image-13735" alt="Antique Ben Slow T Shirt" src="/wp-content/uploads/2014/01/Antique-Ben-Slow-T-Shirt.jpg" width="566" height="337" />

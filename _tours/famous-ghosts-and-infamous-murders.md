@@ -28,10 +28,8 @@ related:
 banner: blank banner.jpg
 hidden: true
 layout: tour
+embed: https://www.youtube.com/embed/r5_6ln8v_WM
 ---
-
-<iframe width="772" height="528" src="https://www.youtube.com/embed/r5_6ln8v_WM?autoplay=1;rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 
 London town is no stranger to ghost stories, the city has its fair share and our Insider guides will tell you who they are, what they are and where they hide. Walking down the back streets and alleyways of London’s West End, we will bring to light its history and the lives of those who are still known to haunt the area today.
 

@@ -26,24 +26,25 @@ defaults:
     path: ''
     type: posts
   values:
-    description: 
-    author: 
-    heading: 
+    description:
+    author:
+    heading:
 - scope:
     path: ''
     type: tours
   values:
-    heading: 
-    description: 
+    heading:
+    description:
     gallery:
-    - image: 
-      caption: 
-      alt: 
+    - image:
+      caption:
+      alt:
+    embed:
 - scope:
     path: ''
     type: authors
   values:
-    image: 
+    image:
 social:
   name: Insider London
   links:
@@ -61,7 +62,7 @@ lang: en_GB
 lsi: false
 paginate: 10
 paginate_path: "/blog/page/:num/"
-gems:
+plugins:
 - jekyll-paginate
 - jekyll-seo-tag
 - jekyll-sitemap

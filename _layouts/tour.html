@@ -21,6 +21,9 @@ layout: default
   </header>
   <div class="layout">
     <div class="layout__item u-3/5-lap u-2/3-desk">
+      {% if page.embed %}
+        {% include embed.html src=page.embed %}
+      {% endif %}
       {% if page.gallery.size > 1 %}
         {% include slideshow.html %}
       {% else %}
@@ -45,8 +48,6 @@ layout: default
       <p class="palm-mt0 lap-and-up-mt0">
         {% include  share-icons.html %}
       </p>
-
-
       {% if page.show_book %}
         {% include tour-side-bar.html buttonid="BookNow1" %}
       {% else %}
