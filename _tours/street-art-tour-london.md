@@ -53,6 +53,7 @@ related:
 - 32569
 - 32334
 - 32336
+embed: https://www.youtube.com/embed/K2X8Pjrwuxc
 layout: tour
 ---
 
