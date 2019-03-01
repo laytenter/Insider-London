@@ -55,7 +55,6 @@ related:
 - 32336
 embed: https://www.youtube.com/embed/K2X8Pjrwuxc
 layout: tour
-embed: https://www.youtube.com/embed/K2X8Pjrwuxc
 ---
 
 London is filled with street art and graffiti hotspots with artists from around the world leaving their mark. Whether you are a seasoned visitor, on your very first trip, or have called this city home for years, it can be sometimes difficult to spot the hidden treasures London has to offer.
