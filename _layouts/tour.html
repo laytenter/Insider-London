@@ -23,7 +23,7 @@ layout: default
     <div class="layout__item u-3/5-lap u-2/3-desk">
       {% if page.embed %}
         {% include embed.html src=page.embed %}
-      {% else if page.gallery.size > 1 %}
+      {% elsif page.gallery.size > 1 %}
         {% include slideshow.html %}
       {% else %}
         <p class="palm-mt0 lap-and-up-mt0">
