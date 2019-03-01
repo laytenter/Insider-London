@@ -6,19 +6,19 @@ categories:
 - blog
 - London Street Art &amp; Graffiti
 tags:
-  - street-art
+- street-art
 id: 18598
 author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=18598
 s4_url2s:
--
+- 
 s4_image2s:
--
+- 
 s4_ctitle:
--
+- 
 s4_cdes:
--
+- 
 ---
 
 [<img class="size-full wp-image-18600 aligncenter" src="/wp-content/uploads/2014/08/El-Mac-cowboy.jpg" alt="Street art walking tour cowboy " width="569" height="656" />](/wp-content/uploads/2014/08/El-Mac-cowboy.jpg)
