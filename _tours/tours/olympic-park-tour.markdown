@@ -5,6 +5,8 @@ permalink: "/tours/olympic-park-tour/"
 published: false
 categories:
 - educational
+gallery:
+- image: "/uploads/olympic%20park%20tour.jpg"
 layout: tour
 ---
 
