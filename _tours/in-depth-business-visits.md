@@ -10,18 +10,27 @@ heading: Educational In-depth Business Visits
 description: Business Visits London | Learn the secrets behind the capital’s most
   successful companies
 gallery:
-- image: "/uploads/natwest-slider.jpg"
-  caption: Lovely Limkokwing students from all over the world visiting Verb Brands
-    and its founder Chris Donnelly.
-  alt: Lovely Limkokwing students from all over the world visiting Verb Brands and
-    its founder Chris Donnelly.
-- image: "/uploads/verb-slider.jpg"
-  caption: Sberbank executives and Percent founder and CEO Henry Ludlam at a bespoke
-    fintech startup event.
-  alt: 
 - image: "/uploads/bp-slider.jpg"
-  caption: Students from Hong Kong University visiting Ogilvy.
-  alt: Students from Hong Kong University visiting Ogilvy.
+  caption: Students from Limkokwing University visiting BP Trading at 1 Canary Wharf
+  alt: Students from Limkokwing University visiting BP Trading at 1 Canary Wharf
+- image: "/uploads/lego%20serious%20play.jpg"
+  caption: Chinese students visiting LEGO's London Hub and discovering LEGO Serious
+    Play
+  alt: Chinese students visiting LEGO's London Hub and discovering LEGO Serious Play
+- image: "/uploads/tribal%20worldwide%20high%20commission%20gujurat.jpg"
+  caption: Indian professors in conjunction with the High Commission of Gujurat visiting
+    Tribal Worldwide
+  alt: Indian professors in conjunction with the High Commission of Gujurat visiting
+    Tribal Worldwide
+- image: 
+  caption: 
+  alt: 
+- image: "/uploads/fintech%20workshop%20IBK.jpg"
+  caption: Industrial Bank of Korea outside our  Fintech for the Future Workshop
+  alt: Industrial Bank of Korea outside our  Fintech for the Future Workshop
+- image: "/uploads/verb%20visit.jpg"
+  caption: British students discovering digital marketing at Verb
+  alt: British students discovering digital marketing at Verb
 tour-id: 29344
 author: london75
 guid: "/?post_type=product&#038;p=29344"
