@@ -43,6 +43,5 @@ Ever wondered where that distinctive outside facade came from? In 1872, having t
 ## 5.
  The first Irish pub outside of Ireland is still open for business right here in London. When the S. G. Mooney & Son Brewery chain of Dublin bought the Boar's Head on Fleet Street, [the establishment was renamed The Tipperary and refurbished in true Irish style](https://www.londonremembers.com/memorials/tipperary-pub) . The Tipperary became the first pub outside Ireland to have bottled Guinness and later draft 
 
- 
 
-Come and raise a glass in The Tipperary on our St Patrick's Day Special Pub Tour! Simply select March 16th on the calendar (http://irishpubcompany.com/history-of-irish-pubs/) 
+Come and raise a glass in The Tipperary on [our St Patrick's Day Special Pub Tour!](https://www.insider-london.co.uk/tours/history-of-drinking-and-pubs/) Simply select March 16th on the calendar!
