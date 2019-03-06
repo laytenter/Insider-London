@@ -2,6 +2,9 @@
 title: Five Facts About Irish Pubs
 date: 2019-03-06 13:39:00 Z
 permalink: "/five-facts-about-irish-pubs/"
+description: 'Ireland has more than 10,000 pubs  and there are thousands more Irish
+  pubs worldwide from Moscow to Kathmandu ! In the run up to St Patrick''s Day, we
+  present our top five facts about the beloved Irish pub. '
 heading: Five Facts About Irish Pubs
 layout: post
 ---
