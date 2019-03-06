@@ -6,7 +6,7 @@ heading: Five Facts About Irish Pubs
 layout: post
 ---
 
-![]()
+![irish pub facts st patricks day](/uploads/guinness-irish-pub.jpg)
 
 [Ireland has more than 10,000 pubs](http://irishpubcompany.com/history-of-irish-pubs/) and there are thousands more Irish pubs worldwide [from Moscow to Kathmandu](https://www.theguardian.com/travel/2014/dec/15/irish-pubs-around-the-world)! In the run up to St Patrick's Day, and our [History of Drinking special on 16th March](https://www.insider-london.co.uk/tours/history-of-drinking-and-pubs/), we present our top five facts about the beloved Irish pub. 
 
@@ -23,11 +23,12 @@ The oldest known piece of graffiti in Ireland is located in Dublin's oldest pub,
   
 
 ## 3.
-Ever wondered where that outside distinctive outside facade came from? In 1872, having the name of the pub's proprietor over the front door [became a legal requirement](https://www.irishpost.com/life-style/a-brief-history-of-the-irish-pub-in-12-steps-90113). The tradition of proudly displaying a name outside continues to this day in many Irish pubs around the world - generally  in a Celtic or Gothic typeface. 
+Ever wondered where that distinctive outside facade came from? In 1872, having the name of the pub's proprietor over the front door [became a legal requirement](https://www.irishpost.com/life-style/a-brief-history-of-the-irish-pub-in-12-steps-90113). The tradition of proudly displaying a name outside continues to this day in many Irish pubs around the world - generally  in a Celtic or Gothic typeface. 
+
 
  
 
-![]()https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiGwPqujdzgAhUNhRoKHQBfAEcQjRx6BAgBEAU&url=https%3A%2F%2Fwww.htrnews.com%2Fstory%2Fmoney%2F2018%2F06%2F08%2Fmanitowoc-moores-irish-pub-expands-menu-milwaukee-pc-closes-business-news%2F674359002%2F&psig=AOvVaw0hpR0c9hdU8jFr7GhsRM_K&ust=1551363440851835 
+![irish pub front](/uploads/irish%20pub.jpg)
 
  
 
