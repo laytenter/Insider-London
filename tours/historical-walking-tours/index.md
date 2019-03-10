@@ -1,8 +1,8 @@
 ---
-title: London History Tours | Historical Walking Tours
+title: London History Tours
 date: 2015-05-11 15:47:00 Z
 permalink: "/tours/historical-walking-tours/"
-heading: Historical Tours
+heading: London History Tours
 id: 25099
 description: 'Join one of Insider London''s history tours and get a unique perspective
   on London''s historical past and present. From famous ghosts to street art and everything
