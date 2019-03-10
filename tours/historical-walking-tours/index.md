@@ -1,12 +1,13 @@
 ---
 title: London History Tours | Historical Walking Tours
-date: 2015-05-11 15:47:17 Z
+date: 2015-05-11 15:47:00 Z
 permalink: "/tours/historical-walking-tours/"
 heading: Historical Tours
 id: 25099
+description: 'Join one of the Insider London history tours and get a unique perspective
+  on London''s historical past and present. From famous ghosts to street art and everything
+  in betewen! '
 layout: page
-description: We provide the most entertaining and informative London history tours.
-  Ideal for tourists, schools and corporate events. Learn more at insider-london.co.uk.
 ---
 
   <p>Our London history tours run regularly as group tours for everyone to enjoy. Our Street Art Tour showcases the most beautiful pieces in vibrant Shoreditch whilst our Quirky Tour traverses colourful Covent Garden to unearth the weird and wonderful stories of the West End. The original Underground/Tube Tour provides fascinating insight into the lifeblood of London with more than 150 years of transport history, and the lifeblood of London.</p>
