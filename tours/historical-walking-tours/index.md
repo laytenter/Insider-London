@@ -4,9 +4,9 @@ date: 2015-05-11 15:47:00 Z
 permalink: "/tours/historical-walking-tours/"
 heading: Historical Tours
 id: 25099
-description: 'Join one of the Insider London history tours and get a unique perspective
+description: 'Join one of Insider London''s history tours and get a unique perspective
   on London''s historical past and present. From famous ghosts to street art and everything
-  in betewen! '
+  in between! '
 layout: page
 ---
 
