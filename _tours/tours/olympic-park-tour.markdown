@@ -7,6 +7,11 @@ categories:
 - educational
 gallery:
 - image: "/uploads/olympic%20park%20tour.jpg"
+  caption: 
+  alt: 
+- image: "/uploads/here%20east%20olympic%20park%20tour.jpg"
+  caption: 
+  alt: 
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5118.092747367401!2d-0.012447458616203467!3d51.54163061814692!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4f03219e6ec28ba!2sStratford+Station!5e0!3m2!1sen!2suk!4v1552320935478
 thumb: olympic%20park%20thumb.jpg
 banner: olympic%20park%20tour.jpg
