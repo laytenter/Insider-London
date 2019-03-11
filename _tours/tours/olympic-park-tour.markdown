@@ -7,7 +7,9 @@ categories:
 - educational
 gallery:
 - image: "/uploads/olympic%20park%20tour.jpg"
-map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d460.0292420504478!2d-0.002722115628327356!3d51.5416118510822!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4f03219e6ec28ba!2sStratford+Station!5e1!3m2!1sen!2suk!4v1552320343405
+map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5118.092747367401!2d-0.012447458616203467!3d51.54163061814692!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4f03219e6ec28ba!2sStratford+Station!5e0!3m2!1sen!2suk!4v1552320935478
+thumb: olympic%20park%20tour.jpg
+banner: olympic%20park%20tour.jpg
 layout: tour
 ---
 
