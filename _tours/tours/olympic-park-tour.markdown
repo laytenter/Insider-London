@@ -7,6 +7,7 @@ categories:
 - educational
 gallery:
 - image: "/uploads/olympic%20park%20tour.jpg"
+map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d460.0292420504478!2d-0.002722115628327356!3d51.5416118510822!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4f03219e6ec28ba!2sStratford+Station!5e1!3m2!1sen!2suk!4v1552320343405
 layout: tour
 ---
 
@@ -27,3 +28,28 @@ Learn about this previously unfashionable area of east London and why it now has
 * Have a look inside the outstanding velodrome and appreciate just how steep these indoor tracks are 
 
 * Gain an insight into one of the most significant technology hubs in the United Kingdom 
+
+## What you need to know:
+
+### Where do we meet?
+
+We meet at the Westfield Exit of Stratford Tube Station
+
+ ([to the map](#map))
+
+### How long is the tour?
+
+The tour lasts approximately two hours.
+
+### Where does the tour finish?
+
+We'll end at Here East, which is five minutes away from Stratford Station on the free shuttle bus
+            
+
+This tour is only available for private parties and can be arranged for any date or time. Furthermore, we are happy to create a bespoke programme to reflect your specific needs.
+
+To book the private tour, or find out more, call 0207 183 1055, or email <a href="mailto:contact@insider-london.co.uk">contact@insider-london.co.uk</a>        
+
+
+<h3 id="map">Meeting Point - Map</h3>
+{% include tour-map.html %}
