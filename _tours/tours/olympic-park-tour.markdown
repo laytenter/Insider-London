@@ -2,7 +2,6 @@
 title: Olympic Park Tour
 date: 2019-03-06 14:40:00 Z
 permalink: "/tours/olympic-park-tour/"
-published: false
 categories:
 - educational
 gallery:
