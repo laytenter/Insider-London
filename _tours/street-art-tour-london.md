@@ -10,7 +10,7 @@ tags:
 heading: Street Art Tour London
 description: Join the Insider London Street Art tour and discover London's street
   art hotspots and the hidden treasures London has to offer.
-gallery.off:
+gallery:
 - image: "/uploads/Title%20Street%20Art.jpg"
   caption: Street Art is everywhere in London's East End!
   alt: A colourful street art mural covering a wall in London's East End!
@@ -72,6 +72,11 @@ London is filled with street art and graffiti hotspots with artists from around 
 - Discover murals and art installations by artists such as D*Face, James Cochrane, Stik, Shepard Fairy, Space Invader and many more!
 
 The Street Art Tour is a hit for all kinds of people and since the street art scene is ever-evolving, our tour guides continually update their own knowledge so that you don’t miss out on the exclusives. The Street Art Tour of London is a walking tour that keeps continuing, with new art to find around every corner.
+
+{% if page.embed != '' and page.gallery.size > 1 %}
+### Tour gallery
+  {% include slideshow.html %}
+{% endif %}
 
 ## What you need to know
 
