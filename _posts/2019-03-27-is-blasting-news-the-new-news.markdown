@@ -21,7 +21,7 @@ Of course, the Guardian is an esteemed newspaper with a long history and real cr
 
 Anyone can submit a story to Blasting News but all stories are then rigorously checked before going public.  Initial checks are conducted by algorithms that check for plagiarism and to ensure there is a logical structure to the story.  At this point a human takes over.  An editor or ‘senior blaster’ reads the copy and makes the final decision about whether or not to publish. 
 
-<iframe width="850" height="500" src="https://www.youtube.com/embed/ySrZChpDfas" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="858" height="495" src="https://www.youtube.com/embed/ySrZChpDfas" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  
 
