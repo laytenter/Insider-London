@@ -9,6 +9,16 @@ tags:
 - all
 description: Join Insider London on London's only sustainable architecture tour and
   discover London's greenest skyscrapers
+gallery:
+- image: "/uploads/sustainable%20architecture%20tour%20title%20pic.jpg"
+  caption: 
+  alt: 
+- image: "/uploads/sustainable%20architecture%20tour%20the%20shard.jpg"
+  caption: 
+  alt: 
+- image: 
+  caption: 
+  alt: 
 tour-id: 29342
 author: london75
 show_book: false
