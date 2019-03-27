@@ -11,7 +11,6 @@ categories:
 tags:
 - City of London
 - London
-- modern architecture
 - Quirky
 - Square Mile
 - weird and bizarre
@@ -21,13 +20,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=24901
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 <p style="text-align: left">

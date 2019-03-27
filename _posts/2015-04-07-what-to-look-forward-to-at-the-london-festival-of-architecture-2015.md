@@ -7,30 +7,21 @@ categories:
 - Green London
 - Modern Architecture
 - Sustainable Architecture
-tags:
-- architecture
-- Central London
-- City of London
-- festival
-- green London
-- London
-- modern architecture
-- Sustainable Architecture
-- sustainable london
 id: 25054
 author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=25054
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 slide_template:
 - default
+noindex: 1
 ---
 
 Throughout June 2015, London will play host to a month-long, city-wide celebration of innovation and experimentation in architecture. The London Festival of Architecture was set up more than ten years ago by The Architecture Foundation, and each year introduces a new theme – with “Work in Progress” being the focus for 2015.

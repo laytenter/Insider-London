@@ -10,28 +10,19 @@ categories:
 - Other
 - Sustainable Architecture
 tags:
-- City of London
-- London
-- London Skyscraper
-- London Towers
-- London walking tours
 - modern architecture
-- Modern London
-- Skyscraper
-- towers
-- walkie-talkie
 id: 25065
 author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=25065
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 slide_template:
 - default
 ---
@@ -44,7 +35,7 @@ slide_template:
 
 20 Fenchurch  Street, also known as the Walkie-Talkie tower for its distinctive top heavy shape, is possibly one the more contentious tall buildings of recent times. It bulges out of the heart of historic London, to some literally sticking out like a sore thumb. Designed by Uruguayan architect Rafael Viñoly it has certainly left an indelible mark on London’s urban fabric for better or worse.
 
-&nbsp;
+{% include silo.html %}
 
 <p style="text-align: center;">
   <strong>1. Sky Gardens</strong>

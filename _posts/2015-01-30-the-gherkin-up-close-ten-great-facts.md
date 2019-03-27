@@ -2,42 +2,25 @@
 title: 'The Gherkin Up Close: Ten Great Facts'
 date: 2015-01-30 10:30:06 Z
 permalink: "/the-gherkin-up-close-ten-great-facts/"
-categories:
-- blog
-- East London
-- Food and drink
-- Green London
-- Modern Architecture
-- Other
-- Quirky, weird and bizarre London
-- Sustainable Architecture
+
 tags:
-- City of London
-- East London
-- food and drink
-- Modern
 - modern architecture
-- Quirky
-- quirky london
-- Sustainable Architecture
-- sustainable london
-- sustainibility
-- The Gherkin
+
 id: 24584
 author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=24584
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
-<img class="aligncenter size-full wp-image-24623" src="/wp-content/uploads/2015/01/9731562839_c6cc9a63ff_z.jpg" alt="London modern architecture" width="569" height="739" />
+<img class="aligncenter size-full wp-image-24623" src="/wp-content/uploads/2015/01/9731562839_c6cc9a63ff_z.jpg" alt="London modern architecture" />
 
 <p style="text-align: center">
   <em>The Gherkin In All Its Glory. Image Credit: <a href="https://www.flickr.com/photos/duncanh1/9731562839/in/photolist-fPWNAc-7y1L1A-7QXQKv-8ieFGU-ckjYHs-bKX6E6-6t7csB-kr4Y9-buJk9m-6g7H3r-6tboRq-6AA5eR-aoMWBX-9MPdTJ-6o4rBK-u5fk1-5Xecw8-6Jjy8-p3MJDj-9xthha-28kzc-38z3kb-yF84B-56kpsm-9rVhk6-oiHNsW-Np128-n6kSc-9kSXS-9rY8fW-8AoLSx-9Samat-n6kSe-74PJLb-n6jzd-n6kSn-6d9n4-6d9n7-3QqEYZ-n6jzc-gbqrWK-6AAeuP-n6hxY-n6hxS-9rY55Q-ivLVN7-n6AXD-n6hy5-n6hy3-n6voy">Duncan</a></em>
@@ -45,7 +28,7 @@ s4_cdes:
 
 30 St Mary Axe, or The Gherkin as it is popularly known, is one of London’s most well known skyscrapers. Cool as a cucumber and uniquely shaped, it has earned itself a coveted place in the hearts of Londoners and amongst the enduring icons of Buckingham Palace, The London Eye, St Paul’s and Big Ben as one of London’s great buildings. But how well do you know the building? Insider London brings you ten great facts about The Gherkin.
 
-&nbsp;
+{% include silo.html %}
 
 **1. Lift Off!**
 
@@ -56,8 +39,6 @@ s4_cdes:
 </p>
 
 Its high powered lifts are capable of transporting 378 people at a time, at speeds of 6m per second. Charlie can keep his glass elevator, thank you very much!
-
-&nbsp;
 
 **2.** **Manhattans All Round**
 

@@ -8,34 +8,19 @@ categories:
 - Other
 - Quirky, weird and bizarre London
 tags:
-- architecture
-- bars
-- bishopsgate
-- City of London
-- Dining
-- Drinking in London
-- eating
-- food
-- IRA
-- london skyline
 - modern architecture
-- Richard Seifert
-- sky lobby
-- skyscrapers
-- tower 42
-- towers
 id: 24713
 author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=24713
 s4_ctitle:
-- 
+-
 s4_image2s:
-- 
+-
 s4_url2s:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 <img class="aligncenter size-full wp-image-24772" src="/wp-content/uploads/2015/02/3075715534_f4c33b3ff4_z.jpg" alt="London architecture " width="569" height="427" />
@@ -45,6 +30,8 @@ s4_cdes:
 </p>
 
 Following on from the news that Tower 42 will not be joining an inventory of postwar buildings recently listed by English Heritage, we&#8217;re giving you ten great facts about one of the best lesser known skyscrapers in London. When the sun gleams on the vertical cladding stripes, you can imagine the building matching the pinstripe suits worn by City workers when it was first built. If that makes it sounds slightly old fashioned, then it is true that Tower 42 is frequently overshadowed by its newer neighbours, but that makes it no less interesting and a figure of the City skyline. Unfortunately, its death knell has potentially been sounded after a review concluded that the building doesn&#8217;t retain enough of its original features to make it a heritage asset worthy of listing and, although there are no plans to redevelop the building, this decision paves the way for major changes. Before that day comes however, here are ten fascinating facts to commemorate one of London’s first true skyscrapers.
+
+{% include silo.html %}
 
 <p style="text-align: center">
   1. London&#8217;s First Proper &#8216;Scraper

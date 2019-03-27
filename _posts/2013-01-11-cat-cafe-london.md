@@ -14,9 +14,10 @@ id: 25427
 author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=3880
+noindex: 1
 ---
 
-<figure style="width: 569px" class="wp-caption aligncenter"><a href="/cat-cafe-london/" rel="attachment wp-att-3885"><img class=" " alt="london-cafes-quirky-cats" src="/wp-content/uploads/2013/01/kitteninteacup1.jpg" width="569" height="379" /></a><figcaption class="wp-caption-text">Persian kitten by Shutterstock</figcaption></figure> 
+<figure style="width: 569px" class="wp-caption aligncenter"><a href="/cat-cafe-london/" rel="attachment wp-att-3885"><img class=" " alt="london-cafes-quirky-cats" src="/wp-content/uploads/2013/01/kitteninteacup1.jpg" width="569" height="379" /></a><figcaption class="wp-caption-text">Persian kitten by Shutterstock</figcaption></figure>
 
 **I live in a seven person house in South London. It’s a nice but fairly old house, and things fall off it, fall apart in it and generally just break in it quite often. We also have mice, and have had mice for three years. I’m ashamed to say we’ve gone to town on them over the years, gradually building from gentle hints with steel wool, peppermint and incense (I read it on the internet), to finally bringing out the big guns with horrible, snappy, don’t-want-to-check-it-but-have-to traps&#8230;**
 

@@ -10,31 +10,24 @@ categories:
 - Quirky, weird and bizarre London
 - Sustainable Architecture
 tags:
-- Design
-- heritage
-- industrial architecture
-- Kings Cross Central
-- Kings Cross Regeneration
 - modern architecture
-- parks
-- parks in london
-- Regents Canal
-- Sustainable Architecture
 id: 21271
 author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=21271
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 s4_image2s:
-- 
+-
 s4_url2s:
-- 
+-
 ---
 
 Towering over Kings Cross and the Regents Canal like a giant metal behemoth is the grade II listed Gasholder No.8. a relic of Kings Cross’ industrial past that, like much of the area’s heritage, is being salvaged, reused and given a new lease of life as part of the Kings Cross Regeneration.
+
+{% include silo.html %}
 
 The gasholder lies to the west of Granary Square, next to the soon to be rejuvenated coal drops. Just last week plans were approved to convert the gasholder into a landscaped park and events space, opening a new route down to the canal. The gasholders were taken down and painstakingly restored off site in Yorkshire before being reconstructed in a new location in Kings Cross.
 

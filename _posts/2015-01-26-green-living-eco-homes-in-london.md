@@ -13,7 +13,6 @@ tags:
 - architecture
 - green
 - green London
-- modern architecture
 - Sustainable Architecture
 - sustainable london
 id: 24562
@@ -21,13 +20,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=24562
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 With rent, gas prices and eco-awareness on the rise, there’s never been a better time to seek out alternative accommodations in London. We’ve pulled together a list of some quirky homes in the capital that are as innovative as they are environmentally-friendly.

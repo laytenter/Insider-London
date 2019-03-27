@@ -27,13 +27,14 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=24786
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
+noindex: 1
 ---
 
 **London has really got on board with the potential for container architecture &#8211; that is, creating new structures from disused shipping containers. We explore the many ways they have been put to use around the capital&#8230;**

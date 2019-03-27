@@ -8,29 +8,24 @@ categories:
 - Other
 - Sustainable Architecture
 tags:
-- architecture
-- cheesegrater
-- gherkin
 - modern architecture
-- skyscrapers
-- strata
-- Sustainable Architecture
-- walkie-talkie
 id: 24530
 author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=24530
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 We recently shared our <a href="/londons-top-ten-skyscrapers-under-construction-in-2015/" target="_blank">top ten London skyscrapers that are being built this year</a>. They all look pretty fancy right? But everything doesn&#8217;t always go to plan. These <a href="https://www.flickr.com/photos/pahudson/7280132242/in/photolist-eAURuJ-Kgucb-dS7mXK-c6jzFq-bTjGaM-2pbi5C-FwTV6-7EC1fF-h6eFrs-h6gtDc-oqciPV-ayGooz-ayK2bC-ayJQSE-4rqjgo-2BayW6-CaQ66-CaQa9-ayJNZd-CaQ2j-4ov7e6-oni6yD-2BeY5G-4ov7G6-gf136p-pQtf5T-H7zn4-j88Eea-9MGpri-abJwPy-euHKsg-dxU6Sa-3RZtR8-94Gcjc-4sv9qB-4CXJ3u-7cVHB8-8UmUC4-a23bQK-6uuAuD-ep8spu-aBoFxn-vaxRs-4BN3oV-fyXNHM-fyXDPP-4ULBqN-6sgxte-baG8G2-9tnWNL" target="_blank">buildings</a> are created by some of the world&#8217;s top architects, use sophisticated technology to conform to environmental standards and can cost billions to build, but sometimes things in these London architectural landmarks simply go wrong. For example&#8230;
+
+{% include silo.html %}
 
 **Bits fall off! **
 

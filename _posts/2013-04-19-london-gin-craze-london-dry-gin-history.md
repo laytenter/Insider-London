@@ -7,14 +7,7 @@ categories:
 - London Pubs and nights out
 - Quirky, weird and bizarre London
 tags:
-- Death and Debauchery Tour
-- Drinking in London
-- gin craze
-- gin palaces
-- History of Drinking Tour
-- London gin
-- London history
-- missing history
+  - drinking
 id: 4921
 author: london75
 layout: post
@@ -23,11 +16,11 @@ guid: https://www.insider-london.co.uk/?p=4921
 
 <img title="gin-palaces-london-gin-history-tour" alt="London gin palace" src="/wp-content/uploads/2013/03/gin-palaces-london-gin-history-tour.jpg" width="569" height="339" />
 
-_London&#8217;s gin palaces – convivial, glamorous environments. But how did gin reinvent itself from being something drunk by children in slums just 80 years prior?_
-
-&nbsp;
+London&#8217;s gin palaces – convivial, glamorous environments. But how did gin reinvent itself from being something drunk by children in slums just 80 years prior?
 
 Fans of booze and/or history may know a few things about gin’s past. One being that the gin craze raged in London between 1720 and 1751, during which time adults would drink an average of half a pint of gin a day. The gin consumption of the average child’s wasn’t far off this either.
+
+{% include silo.html %}
 
 Then, from 1830, the gin palace was born. These were brightly lit, welcoming spaces that were adorned with lamps, mirrors and cut glass.*
 

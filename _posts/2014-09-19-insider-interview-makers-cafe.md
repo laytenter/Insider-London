@@ -22,13 +22,14 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=21327
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
+noindex: 1
 ---
 
 [<img class="aligncenter wp-image-22150 size-full" src="/wp-content/uploads/2014/09/makersCAFE_mini.jpg" alt="makesCAFE alternative London" width="569" height="569" />](/wp-content/uploads/2014/09/makersCAFE_mini.jpg)

@@ -6,22 +6,18 @@ categories:
 - blog
 - Food and drink
 - Modern Architecture
-tags:
-- activities in London
-- modern architecture
-- Tech City
 id: 24741
 author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=24741
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 &nbsp;

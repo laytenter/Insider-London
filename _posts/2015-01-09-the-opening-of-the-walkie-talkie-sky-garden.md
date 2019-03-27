@@ -6,24 +6,19 @@ categories:
 - blog
 - Modern Architecture
 tags:
-- 20 fenchurch street
-- architecture
 - modern architecture
-- sky garden
-- skyscrapers
-- the walkie talkie
 id: 24449
 author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=24449
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 <img class="aligncenter wp-image-24456 size-full" src="/wp-content/uploads/2015/01/walkie-talkie_mini.jpg" alt="20 Fenchurch Street Walkie Talkie" width="569" height="461" />
@@ -33,6 +28,8 @@ s4_cdes:
 </p>
 
 It’s been dominating London’s skyline for a while now but &#8211; finally &#8211; on Monday, perhaps the most appealing aspect of 20 Fenchurch Street (more commonly known as “the walkie-talkie”), its ‘Sky Garden’ will be open to its first public visitors.
+
+{% include silo.html %}
 
 Billing itself as “London’s highest public park”, the garden taking up the top three floors of the Rafael Viñoly-designed building, was a key factor in securing planning permission and, understandably, this opening has been highly anticipated &#8211; after all, who wouldn’t want to enjoy those views? But it also attracted criticism because of the serious energy needed to maintain a garden at that height.
 

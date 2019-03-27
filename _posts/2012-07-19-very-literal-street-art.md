@@ -12,6 +12,7 @@ tags:
 id: 783
 author: london75
 layout: post
+noindex: 1
 ---
 
 <p style="text-align: center">
