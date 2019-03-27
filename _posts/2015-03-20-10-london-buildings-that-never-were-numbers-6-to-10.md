@@ -21,13 +21,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=24920
 s4_url2s:
--
+- 
 s4_image2s:
--
+- 
 s4_ctitle:
--
+- 
 s4_cdes:
--
+- 
 ---
 
 Last week, we took you on a whirlwind tour of five London architectural projects that never came to fruition &#8211; <a href="https://www.insider-london.co.uk/?p=24901" target="_blank">you can see the list here</a>. But London&#8217;s history contains so many, many more, so today we&#8217;re back to show you a further five.

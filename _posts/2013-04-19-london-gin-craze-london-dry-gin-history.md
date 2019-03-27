@@ -7,7 +7,7 @@ categories:
 - London Pubs and nights out
 - Quirky, weird and bizarre London
 tags:
-  - drinking
+- drinking
 id: 4921
 author: london75
 layout: post

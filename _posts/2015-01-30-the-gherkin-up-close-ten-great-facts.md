@@ -2,22 +2,20 @@
 title: 'The Gherkin Up Close: Ten Great Facts'
 date: 2015-01-30 10:30:06 Z
 permalink: "/the-gherkin-up-close-ten-great-facts/"
-
 tags:
 - modern architecture
-
 id: 24584
 author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=24584
 s4_url2s:
--
+- 
 s4_image2s:
--
+- 
 s4_ctitle:
--
+- 
 s4_cdes:
--
+- 
 ---
 
 <img class="aligncenter size-full wp-image-24623" src="/wp-content/uploads/2015/01/9731562839_c6cc9a63ff_z.jpg" alt="London modern architecture" />

@@ -16,13 +16,13 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=21271
 s4_ctitle:
--
+- 
 s4_cdes:
--
+- 
 s4_image2s:
--
+- 
 s4_url2s:
--
+- 
 ---
 
 Towering over Kings Cross and the Regents Canal like a giant metal behemoth is the grade II listed Gasholder No.8. a relic of Kings Cross’ industrial past that, like much of the area’s heritage, is being salvaged, reused and given a new lease of life as part of the Kings Cross Regeneration.
