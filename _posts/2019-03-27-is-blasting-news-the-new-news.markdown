@@ -1,6 +1,7 @@
 ---
 title: Is Blasting News the New News
 date: 2019-03-27 11:11:00 Z
+permalink: "/is-blasting-news-the-new-news/"
 layout: post
 ---
 
