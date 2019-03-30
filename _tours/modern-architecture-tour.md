@@ -30,7 +30,7 @@ gallery:
     taken on Millenium Bridge.
   alt: A picture of three lovely guests on a private Modern Architecture Tour, taken
     on Millenium Bridge.
-- image: "/uploads/modern%20architecture%20tour%2002.jpg"
+- image: 
   caption: 
   alt: 
 - image: "/uploads/web_17-12-01%20MA%20Robert%20Chapman%20Taylor%20City%20model.JPG"
@@ -38,10 +38,10 @@ gallery:
     bespoke tour.
   alt: A group from Chapman Taylor, having a look at a model of the City on a bespoke
     tour.
-- image: "/uploads/modern%20architecture%20tour%20neo%20bankside.jpg"
+- image: 
   caption: 
   alt: 
-- image: "/uploads/modern%20architecture%20tour%20walkie%20talkie.jpg"
+- image: 
   caption: 
   alt: 
 tour-id: 29338
