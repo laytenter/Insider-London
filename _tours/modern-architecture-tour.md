@@ -21,10 +21,6 @@ gallery:
     of the new  Bloomberg Building!
   alt: A group of Bavarian teachers on our Modern Architecture Tour, in front of the
     new  Bloomberg Building!
-- image: "/uploads/web_17-12-01%20Modern%20Architecture%20Andy%20Leadenhall%20Market.JPG"
-  caption: A group of professionals on our Modern Architecture Tour, in Leadenhall
-    Market!
-  alt: A group of professionals on our Modern Architecture Tour, in Leadenhall Market!
 - image: "/uploads/Millenium%20Bridge%20and%20St%20Pauls_Modern%20Architecture.jpg"
   caption: London sports an incredible mix of old and modern architecture.
   alt: Millennium Bridge and St. Pauls - London sports an incredible mix of old and
@@ -34,11 +30,20 @@ gallery:
     taken on Millenium Bridge.
   alt: A picture of three lovely guests on a private Modern Architecture Tour, taken
     on Millenium Bridge.
+- image: "/uploads/modern%20architecture%20tour%2002.jpg"
+  caption: 
+  alt: 
 - image: "/uploads/web_17-12-01%20MA%20Robert%20Chapman%20Taylor%20City%20model.JPG"
   caption: A group from Chapman Taylor, having a look at a model of the City on a
     bespoke tour.
   alt: A group from Chapman Taylor, having a look at a model of the City on a bespoke
     tour.
+- image: "/uploads/modern%20architecture%20tour%20neo%20bankside.jpg"
+  caption: 
+  alt: 
+- image: "/uploads/modern%20architecture%20tour%20walkie%20talkie.jpg"
+  caption: 
+  alt: 
 tour-id: 29338
 trekksoft-tour-id: 50198
 price: 40
