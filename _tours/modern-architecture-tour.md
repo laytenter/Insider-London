@@ -30,7 +30,7 @@ gallery:
     taken on Millenium Bridge.
   alt: A picture of three lovely guests on a private Modern Architecture Tour, taken
     on Millenium Bridge.
-- image: 
+- image: "/uploads/modern%20architecture%20tour%2002.jpg"
   caption: 
   alt: 
 - image: "/uploads/web_17-12-01%20MA%20Robert%20Chapman%20Taylor%20City%20model.JPG"
