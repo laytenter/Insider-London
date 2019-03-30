@@ -38,11 +38,11 @@ gallery:
     bespoke tour.
   alt: A group from Chapman Taylor, having a look at a model of the City on a bespoke
     tour.
-- image: 
-  caption: 
+- image: "/uploads/modern%20architecture%20tour%20neo%20bankside.jpg"
+  caption: "."
   alt: 
-- image: 
-  caption: 
+- image: "/uploads/modern%20architecture%20tour%20walkie%20talkie.jpg"
+  caption: "."
   alt: 
 tour-id: 29338
 trekksoft-tour-id: 50198
