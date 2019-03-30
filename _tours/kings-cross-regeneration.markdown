@@ -17,7 +17,7 @@ gallery:
 - image: "/uploads/kings%20cross%20tour%20francis%20crick.JPG"
   caption: 
   alt: 
-- image: 
+- image: "/uploads/kings%20cross%20tour%20coal%20drops.jpg"
   caption: 
   alt: 
 - image: "/uploads/kings%20cross%20tour%20st%20pancras%20hotel.JPG"
