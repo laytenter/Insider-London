@@ -79,7 +79,7 @@ Under Waterloo Station, this 300m tunnel was formerly used by the Eurostar. Now 
 Saving the best until last – it's said that Shoreditch has the second greatest concentration of street art in the world, second only to New York. From world famous artists like Banksy, Invader and Shepard Fairey to local underground artists and rising stars, then Shoreditch has it all. Intermixed with funky boutiques, art galleries and an amazing range of street food, the area certainly has cool factor (even if prices have risen dramatically). Join us on a [Shoreditch Street Art Tour](https://www.insider-london.co.uk/tours/street-art-tour-london/) to explore the debates and controversies of London’s colourful street art scene and discover stunning art in varied forms. 
 
  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K2X8Pjrwuxc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="900" height="520" src="https://www.youtube.com/embed/K2X8Pjrwuxc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  
 
