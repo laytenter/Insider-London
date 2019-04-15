@@ -52,14 +52,19 @@ Let Insider London show you the secrets to London's success.
 
 Our in-depth educational business visits showcase some of the world's most powerful companies as well as the capital's most innovative entrepreneurs, including:
 
-- **Think Rise** - The pioneers of fintech and part of the Barclays group. This is the largest fintech co-working space in Europe housing more than 40 companies. Visit the HQ of a vibrant community of rising stars and current industry leaders. See how Barclays, the creator of the world’s first cash machine, remains at the forefront of innovation through creativity and collaboration.
-- **BP Trading ** - Experience the commercial face of the global giant, BP, with over 280 traders world-wide and partners in more than 40 countries. World-class control infrastructure seamlessly blends supply, trading, risk management and information technology skills. Come and meet the faces behind one of the biggest global multi-nationals at their striking HQ, One Canada Square.
-- **Tribal Worldwide** - The global technology-based marketing agency, part of the Omnicons Group. Optimising the customer experience, both online and offline this talented team of developers and market analysts develop advanced technical solutions for the likes of BA, McDonalds, Adidas and Volkswagen.
-- **Livery Company** -  uncover the exclusive world of some of the oldest and most venerated trade associations in the world. Playing a critical role in the City of London for centuries, discover the past, present and future of these medieval guilds which have evolved into modern corporations.
-- **BBC** – the world's oldest national broadcaster opens its doors to you. This highly respected global influencer has been critical in shaping British cultural life and remains the largest broadcaster on the planet, at the forefront of cutting-edge journalism on the world-stage.
-- **Verb Brands ** - A leading agency in the luxury sector, whose founder started the company when he was just a university student. Get a front-row seat to ground-breaking twenty-first century marketing and discover the charismatic CEO of this distinguished agency, boasting clients such as Sunseeker and Jimmy Choo.
-- **Level39** - one of the world's biggest fintech hubs at non-other than 1 Canada Square. Meet the fintech entrepreneurs leading innovation in cybersecurity, fintech and retail tech. With exclusive access to this forward-thinking community, discover the pioneering future systems of global finance and business.
-- **ICAEW** – the international-recognised accountancy qualification has a global reach. With this interactive workshop, identify crucial characteristics of commercial success and hone your commercial awareness skills. This is an opportunity to experience life as a professional chartered accountant whilst putting your strategic business skills to the test.
+**Crowdcube** – discover the UK's biggest crowdfunding equity platform. Experience the new way of raising capital with this critical instrument of the modern start-up. Bypassing banks and business angels, Crowdcube has launched countless stars.
+
+**Level39** - one of the world’s biggest fintech hubs at non-other than 1 Canada Square. Meet the fintech entrepreneurs leading innovation in cybersecurity, fintech and retail tech. With exclusive access to this forward-thinking community, discover the pioneering future systems of global finance and business.
+
+**LEGO** – the world's largest company. Come and tour their London hub and discover their distinctive company culture and business ethos. This visit is rounded off with a taster of the exciting LEGO Serious Play Initiative.
+
+**Tribal Worldwide** - The global technology-based marketing agency, part of the Omnicons Group. Optimising the customer experience, both online and offline this talented team of developers and market analysts develop advanced technical solutions for the likes of BA, McDonalds, Adidas and Volkswagen.
+
+**Verb Brands**  - A leading agency in the luxury sector, whose founder started the company when he was just a university student. Get a front-row seat to ground-breaking twenty-first century marketing and discover the charismatic CEO of this distinguished agency, boasting clients such as Sunseeker and Jimmy Choo.
+
+**Minerva Labs** – one of the UK's fastest growing beauty brands. The ground-breaking laboratory behind Gold Collagen develops cutting-edge products for the anti-ageing market. Their innovative developments are supported by international studied and protected by world-wide patents.
+
+**BP Trading**  - Experience the commercial face of the global giant, BP, with over 280 traders world-wide and partners in more than 40 countries. World-class control infrastructure seamlessly blends supply, trading, risk management and information technology skills. Come and meet the faces behind one of the biggest global multi-nationals at their striking HQ, One Canada Square. 
 
 London is one-of-a-kind thriving hub – a world city combining arts, technology, finance and politics. Here in London we have close relationships with groundbreaking company founders and CEOs in an extensive range of industries from fintech to urban agriculture. An in-depth business visit is the perfect way to get the insider tips that will inspire your students or take your team to the next level. 
 
