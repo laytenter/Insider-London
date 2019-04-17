@@ -5,7 +5,7 @@ permalink: "/top-five-ways-to-spend-your-bank-holiday-in-london/"
 layout: post
 ---
 
-![London Easter Bank Holiday](/uploads/feast%20of%20st%20george.jpg) Feast of St George 
+![London Easter Bank Holiday](/uploads/feast%20of%20st%20george.jpg) *Feast of St George *
 
  
 
