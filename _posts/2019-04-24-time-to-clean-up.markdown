@@ -6,9 +6,9 @@ published: false
 layout: post
 ---
 
-![]()
+![london climate change](/uploads/london%20climate%20change.jpg)
 
-It is virtually impossible to ignore environmental issues in this day and age.  This week we have had a series of demonstrations in London under the banner of [‘Extinction Rebellion’] and surely things have gone far enough when Richard Madeley pointed out that [David Attenborough is not a saint.]()
+It is virtually impossible to ignore environmental issues in this day and age.  This week we have had a series of demonstrations in London under the banner of [‘Extinction Rebellion’](https://www.bbc.co.uk/news/uk-england-london-47959207) and surely things have gone far enough when Richard Madeley pointed out that [David Attenborough is not a saint.](https://www.standard.co.uk/stayingin/tvfilm/disrespectful-richard-madeley-sparks-outrage-as-he-denies-sir-david-attenborough-saint-status-a4118836.html)
 
  
 
@@ -18,9 +18,10 @@ Climate change is now accepted by the vast majority of leading scientists made c
 
 Increasingly entrepreneurs are considering new ways that technology can be used to improve the environment and promote sustainability in society.  Just as the financial world is having to accept disruptive ideas usually referred to as fintech, technology start-ups in the area of environmentalism use the term cleantech.  Clean technology is largely centred around the following key areas; sustainable energy and reducing our dependency on fossil fuels, the provision of clean water to all who need it, pollution reduction, recycling and waste management. 
 
+
  
 
-This is no longer a niche area evidenced by the involvement of companies of the size and stature of [McKinsey & Company]().  On their website they say the following: 
+This is no longer a niche area evidenced by the involvement of companies of the size and stature of [McKinsey & Company](https://www.mckinsey.com/).  On their website they say the following: 
 
  
 
@@ -32,7 +33,9 @@ As with more areas of innovative business the truth of success will be found by 
 
  
 
-At Insider London we have appreciated for several years the growing interest in green technology and sustainability.  [Our Cutting Edge Green Tour]() involves a walk through the centre of London that explores how London is confronting sustainability, whether it’s public transport, green hotels or major building projects.  We are also delighted to now be able to offer a [Business Visit]() to an exciting start-up, [Desolenator]().  Their aim is to raise the profile of the water crisis globally and they have developed a technology that “turns undrinkable water sources drinkable”. 
+At Insider London we have appreciated for several years the growing interest in green technology and sustainability.  [Our Cutting Edge Green Tour](https://www.insider-london.co.uk/tours/cutting-edge-green-tour/) involves a walk through the centre of London that explores how London is confronting sustainability, whether it’s public transport, green hotels or major building projects.  We are also delighted to now be able to offer a [Business Visit](https://www.insider-london.co.uk/in-depth-business-visits/) to an exciting start-up, [Desolenator](https://desolenator.com/).  Their aim is to raise the profile of the water crisis globally and they have developed a technology that “turns undrinkable water sources drinkable”. 
+
+![climate change water](/uploads/water%20consumption.jpg)
 
  
 
