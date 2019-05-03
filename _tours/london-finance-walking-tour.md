@@ -31,6 +31,7 @@ gallery:
 - image: "/uploads/760x428%2017-10-01%20Finance%20Julia%20Leadenhall%20Market.jpg"
   caption: A group of students on our City of London Finance Tour in Leadenhall Market.
   alt: A group of students on our City of London Finance Tour in Leadenhall Market.
+order: 1
 tour-id: 29332
 author: london75
 guid: "/?post_type=product&#038;p=29332"
