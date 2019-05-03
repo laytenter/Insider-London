@@ -22,7 +22,7 @@ For more information about our education tours please download our PDF brochure
 </a>
 
 <div class="layout">
-  {% assign tours = site.tours | where: "categories", "educational" %}
+  {% assign tours = site.tours | where: "categories", "educational" | sort:"order","last" %}
   {% for tour in tours %}
   <div class="layout__item u-1/4 u-1/3-lap u-1/2-palm">
   {% include tour-block.html %}
