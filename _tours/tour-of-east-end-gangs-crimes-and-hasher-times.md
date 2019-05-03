@@ -11,6 +11,7 @@ tags:
 heading: Tour of East End - Gangs, Crimes and Harsher Times
 description: London’s East End in the Victorian Era has more to offer than just Jack
   the Ripper. Learn about Victorian gangs and crime on our East End Tour at insider-london.co.uk.
+order: 5
 tour-id: 32569
 trekksoft-tour-id: 50202
 author: london75
