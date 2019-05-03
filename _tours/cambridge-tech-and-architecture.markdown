@@ -15,7 +15,6 @@ thumb: london-walks-cambridge-thumb-420x287.jpg
 banner: cambridgepunt@300x.png
 hidden: true
 layout: tour
-order: 2
 ---
 
 Venture out of London and into one of the UK's most exciting cities, with a bespoke day tour of one of the world’s leading tech hubs. Insider London is launching a fantastic new programme, exploring the seamless integration of the traditional with the cutting-edge, in the beautiful city of Cambridge. From cleantech to architecture – discover how this historic medieval town maintains its status as a world-leading centre for development and innovation.
