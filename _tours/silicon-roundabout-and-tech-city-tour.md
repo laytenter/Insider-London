@@ -33,6 +33,7 @@ gallery:
     in January 2018!
   alt: A  large group of Imperial College's students in front of Google Campus in
     January 2018!
+order: 3
 tour-id: 29347
 author: london75
 guid: "/?post_type=product&#038;p=29347"
