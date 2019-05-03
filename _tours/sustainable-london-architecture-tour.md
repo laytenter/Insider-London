@@ -19,6 +19,7 @@ gallery:
 - image: 
   caption: 
   alt: 
+order: 8
 show_book: false
 tour-id: 29342
 author: london75
