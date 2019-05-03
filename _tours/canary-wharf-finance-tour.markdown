@@ -31,13 +31,13 @@ gallery:
 - image: "/uploads/760x428%20Students%20from%20Imperial%20College%20-%20CW%20-%2017-07-25%20-%20Andy.JPG"
   caption: Students from Imperial College on our Canary Wharf Tour.
   alt: Students from Imperial College on our Canary Wharf Tour.
+order: 2
 show_book: false
 thumb: canary-wharf-420x287.jpg
 banner: HSBC-canary-wharf-772x579.jpg
 tour-id: 11227
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.4615229364513!2d-0.023061684445140913!3d51.50474831871841!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487602b7814a1599%3A0xc14ad850c6d1b813!2sCanary+Wharf!5e0!3m2!1sde!2suk!4v1518621456095
 layout: tour
-order: 1
 ---
 
 Tour of Canary Wharf – the New Finance Centre of London takes you around and inside the amazing development that is east London’s most pivotal, and important, business district CANARY WHARF.
