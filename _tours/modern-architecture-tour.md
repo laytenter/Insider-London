@@ -44,6 +44,7 @@ gallery:
 - image: "/uploads/modern%20architecture%20tour%20walkie%20talkie.jpg"
   caption: "."
   alt: 
+order: 7
 tour-id: 29338
 trekksoft-tour-id: 50198
 price: 40
