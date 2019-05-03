@@ -26,26 +26,26 @@ defaults:
     path: ''
     type: posts
   values:
-    description:
-    author:
-    heading:
+    description: 
+    author: 
+    heading: 
 - scope:
     path: ''
     type: tours
   values:
-    heading:
-    description:
+    heading: 
+    description: 
     gallery:
-    - image:
-      caption:
-      alt:
-    embed:
-    order:  
+    - image: 
+      caption: 
+      alt: 
+    embed: 
+    order: 
 - scope:
     path: ''
     type: authors
   values:
-    image:
+    image: 
 social:
   name: Insider London
   links:
