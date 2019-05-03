@@ -28,6 +28,7 @@ gallery:
   caption: Language students from Italy on our West End Retail Design tour in Air
     Street.
   alt: Language students from Italy on our West End Retail Design tour in Air Street.
+order: 4
 tour-id: 29334
 author: london75
 guid: "/?post_type=product&#038;p=29334"
