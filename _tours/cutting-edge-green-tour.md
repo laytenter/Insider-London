@@ -26,6 +26,7 @@ gallery:
 - image: "/uploads/17-09-21%20CEGT%20Jonas.jpg"
   caption: Another happy student group on our Cutting Edge Green Tour.
   alt: Another happy student group on our Cutting Edge Green Tour.
+order: 9
 tour-id: 29340
 author: london75
 show_book: false
