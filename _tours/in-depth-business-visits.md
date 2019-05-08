@@ -31,6 +31,7 @@ gallery:
 - image: "/uploads/verb%20visit.jpg"
   caption: British students discovering digital marketing at Verb
   alt: British students discovering digital marketing at Verb
+embed: https://www.youtube.com/embed/FcdAmAP6_kw
 tour-id: 29344
 author: london75
 guid: "/?post_type=product&#038;p=29344"
@@ -78,8 +79,10 @@ Insider London’s Business Visits are a unique opportunity for **corporate gr
 
 <a class="btn btn--small btn--red" href="/assets/in-depth-business-visits_brochure_Insider_London.pdf">View Brochure</a>
 
-![Business Visits London](/uploads/17-10-25%20Sperbank.jpg)
-*Sperbank executives visiting a fintech start-up showcase and personal Q&A at Wayra in October '17*
+{% if page.embed != '' and page.gallery.size > 1 %}
+### Tour gallery
+  {% include slideshow.html %}
+{% endif %}
 
 ## Workshops
 Insider London also hosts engaging and **interactive workshops** with top industry professionals. The precise subject matter of talks and workshops can be oriented around the interests and requirements of your group. Previous workshops have included: 
