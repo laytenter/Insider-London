@@ -6,7 +6,7 @@ published: false
 layout: post
 ---
 
-![]()
+![department store decline](/uploads/decline%20of%20department%20store%20house%20of%20fraser%20.jpg)
 
  
 
@@ -34,7 +34,7 @@ Nevertheless, there is a general consensus among academics and industry experts 
 
  
 
-For one Diane Werhle of market research firm Springboard admits that the [USP of the department store has been weakened in the internet age] (https://www.bbc.co.uk/news/business-44358704) (having many brands all together and easily accessible) but says this is only a decisive factor for brands who are already underperforming. She explains that department stores “haven't changed in 10, maybe 20 years... if we are to go shopping we need to have a good experience, excitement and entertainment. [A lot of today's department stores don't supply that." ](https://www.bbc.co.uk/news/business-44358704). 
+For one Diane Werhle of market research firm Springboard admits that the [USP of the department store has been weakened in the internet age](https://www.bbc.co.uk/news/business-44358704) (having many brands all together and easily accessible) but says this is only a decisive factor for brands who are already underperforming. She explains that department stores “haven't changed in 10, maybe 20 years... if we are to go shopping we need to have a good experience, excitement and entertainment. [A lot of today's department stores don't supply that."](https://www.bbc.co.uk/news/business-44358704). 
 
  
 
