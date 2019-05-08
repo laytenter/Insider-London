@@ -1,7 +1,7 @@
 ---
 title: The Department Store's Decline and How it Reflects Retail Trends
 date: 2019-05-08 08:31:00 Z
-permalink: The-Department-Stores-Decline-and-How-it-Reflects-Retail-Trends /
+permalink: "/The-Department-Stores-Decline-and-How-it-Reflects-Retail-Trends/"
 layout: post
 ---
 
