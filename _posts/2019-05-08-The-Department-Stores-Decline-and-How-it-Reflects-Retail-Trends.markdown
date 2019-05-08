@@ -24,7 +24,7 @@ Anusha Couttigane, the principal analyst for fashion EMBEA at Kantar Consulting 
 
 A third reason is provided by Ruth Marciniak, Senior Lecturer, Fashion Marketing, Glasgow Caledonian University is not alone as she deplores [both Debenhams and House of Fraser](https://theconversation.com/department-stores-are-not-doomed-take-a-look-at-whos-doing-it-right-99237) in lacking a brand identity in themselves. This is echoed by other voices who describe the [“the rise of the brand”](https://www.theguardian.com/business/2018/jun/22/the-death-of-the-department-store-a-place-out-of-time) and point out people have a greater relationship with brands due to social media, which is partially why they will seek out their pop up shops or attend launches. 
 
- 
+ ![decline of the department store](/uploads/department%20store%20decline.jpg)
 
 The examples given above barely scratch the surface of reasons being proffered for the demise of the department store. Others blame fast-fashion brands whose agility better enables them to stay on trend, a race to the bottom with different department stores competing to offer the best discounts and offers, an out-dated business rate system, raising overheads such as higher minimum wage – the list goes on. The cliché grumblings about the unfairness of e-commerce are of course always present too. 
 
@@ -38,7 +38,7 @@ For one Diane Werhle of market research firm Springboard admits that the [USP of
 
  
 
-[A.T. Kearny](https://www.retaildive.com/news/is-the-american-mall-dead-or-poised-to-thrive/516752/)describes a global shift to “consumer engagement spaces” in the face of consumers being less interested in owning more goods and more interested in having interesting experiences. 
+[A.T. Kearny](https://www.retaildive.com/news/is-the-american-mall-dead-or-poised-to-thrive/516752/) describes a global shift to “consumer engagement spaces” in the face of consumers being less interested in owning more goods and more interested in having interesting experiences. 
 
  
 
