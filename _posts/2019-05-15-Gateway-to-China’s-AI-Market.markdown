@@ -2,6 +2,8 @@
 title: Gateway to China’s AI Market
 date: 2019-05-15 09:49:00 Z
 permalink: "/Gateway-to-China’s-AI-Market/"
+description: 'Insider London was delighted to be invited to the recent AI Forum, “Gateway
+  to China: the Future of Innovation in Artificial Intelligence”.'
 layout: post
 ---
 
