@@ -15,7 +15,6 @@ heading: The Future of Fintech – Blockchain in Practice with IBK
 layout: post
 ---
 
-
 ![DgTPrqdUYAIXlIr.jpg](/uploads/DgTPrqdUYAIXlIr.jpg) 
  
 
