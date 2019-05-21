@@ -1,7 +1,7 @@
 ---
 title: 'Pussy(s) Galore: cat cafe comes to London'
 date: 2013-01-11 15:34:58 Z
-permalink: "/cat-cafe-london/"
+permalink: "/blog/cat-cafe-london/"
 categories:
 - blog
 - Quirky, weird and bizarre London

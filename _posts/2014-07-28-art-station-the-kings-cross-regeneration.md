@@ -1,7 +1,7 @@
 ---
 title: 'Art Station: The King&#8217;s Cross Regeneration'
 date: 2014-07-28 12:13:25 Z
-permalink: "/art-station-the-kings-cross-regeneration/"
+permalink: "/blog/art-station-the-kings-cross-regeneration/"
 categories:
 - blog
 - Kings Cross regeneration

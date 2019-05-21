@@ -1,7 +1,7 @@
 ---
 title: 'Street Art Picture of the Week: Fan, Horror Crew'
 date: 2015-02-11 11:00:29 Z
-permalink: "/street-art-picture-of-the-week-fan-horror-crew/"
+permalink: "/blog/street-art-picture-of-the-week-fan-horror-crew/"
 categories:
 - blog
 - East London

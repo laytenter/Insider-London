@@ -1,7 +1,7 @@
 ---
 title: 'Shoreditch Bars: A drinker&#8217;s guide'
 date: 2012-10-30 11:21:40 Z
-permalink: "/shoreditch-bars-drinking-guide-london/"
+permalink: "/blog/shoreditch-bars-drinking-guide-london/"
 categories:
 - blog
 - East London

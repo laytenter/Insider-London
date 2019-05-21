@@ -1,7 +1,7 @@
 ---
 title: One Direction's One Thing – a London sightseer's guide-map
 date: 2013-02-24 11:36:26 Z
-permalink: "/one-direction-one-thing-london-video-tour/"
+permalink: "/blog/one-direction-one-thing-london-video-tour/"
 categories:
 - blog
 - Quirky, weird and bizarre London

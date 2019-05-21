@@ -1,13 +1,14 @@
 ---
 title: Interview with Innovation Warehouse's Bianca Anason
 date: 2017-06-19 20:13:00 Z
-permalink: "/interview-with-innovation-warehouses-bianca-anason/"
+permalink: "/blog/interview-with-innovation-warehouses-bianca-anason/"
 layout: post
+noindex: 1
 ---
 
 ![Untitled design-21-738c17.png](/uploads/Untitled%20design-21-738c17.png)
 
-In a latest blog post of ours, we listed Innovation Warehouse as one of[ 5 brilliant coworking spaces in London](https://www.insider-london.co.uk/coworking-spaces-london/). Insider London has sat down with its Operation and Community Manager, Bianca Anason, to find out more about this company. 
+In a latest blog post of ours, we listed Innovation Warehouse as one of[ 5 brilliant coworking spaces in London](https://www.insider-london.co.uk/coworking-spaces-london/). Insider London has sat down with its Operation and Community Manager, Bianca Anason, to find out more about this company.
 
 **How do you describe Innovation Warehouse and what you do?**
 
@@ -35,4 +36,4 @@ Listening is also part of the key. Take advice in a constructive manner and acce
 
 The biggest advantages of being part of Innovation Warehouse are the automatic enrolment into an open network of like-minded founders, experienced mentors, and potential investors as well as being in constant touch with the latest insights. We help them deal with challenges such convincing discerning investors, competing on a buyer’s market as well as finding the right talent.
 
-If you wish to get in touch with Innovation Warehouse you can drop them a line at london@innovationwarehouse.org or info@innovationwarehouse.org. 
+If you wish to get in touch with Innovation Warehouse you can drop them a line at london@innovationwarehouse.org or info@innovationwarehouse.org.

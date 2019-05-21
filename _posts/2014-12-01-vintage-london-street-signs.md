@@ -1,7 +1,7 @@
 ---
 title: Vintage London Street Signs
 date: 2014-12-01 10:30:27 Z
-permalink: "/vintage-london-street-signs/"
+permalink: "/blog/vintage-london-street-signs/"
 categories:
 - blog
 - East London

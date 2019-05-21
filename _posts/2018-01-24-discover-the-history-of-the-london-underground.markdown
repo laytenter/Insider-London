@@ -1,7 +1,7 @@
 ---
 title: Discover The History Of The London Underground!
 date: 2018-01-24 07:33:00 Z
-permalink: "/discover-the-history-of-London-Underground/"
+permalink: "/blog/discover-the-history-of-London-Underground/"
 description: Did you know the Underground was first built in 1863 and has been expanding
   ever since? Find out all you need to know here and on London Underground tours.
 layout: post

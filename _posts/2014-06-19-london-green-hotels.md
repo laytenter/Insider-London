@@ -1,7 +1,7 @@
 ---
 title: How Green Is Your Hotel? Inside 5 London Hotels
 date: 2014-06-19 11:00:26 Z
-permalink: "/london-green-hotels/"
+permalink: "/blog/london-green-hotels/"
 categories:
 - blog
 - Green London

@@ -1,7 +1,7 @@
 ---
 title: 'Street Art Picture of the Week: Smiley by Otto Schade, Brick Lane'
 date: 2014-08-13 11:30:11 Z
-permalink: "/smiley-otto-schade-street-art-london-brick-lane/"
+permalink: "/blog/smiley-otto-schade-street-art-london-brick-lane/"
 categories:
 - blog
 - London Street Art &amp; Graffiti

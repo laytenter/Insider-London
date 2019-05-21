@@ -2,7 +2,7 @@
 title: Thank you for a fantastic 2017! | Looking back on the year | Looking forward
   to the new year
 date: 2017-12-20 08:53:00 Z
-permalink: "/thank-you-2017/"
+permalink: "/blog/thank-you-2017/"
 tags:
 - all
 description: 2017 is coming to an end. We look back in gratitude, and look forward

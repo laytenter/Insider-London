@@ -1,7 +1,7 @@
 ---
 title: 5 Brilliant Coworking Spaces in London
 date: 2017-06-06 19:39:00 Z
-permalink: "/coworking-spaces-london/"
+permalink: "/blog/coworking-spaces-london/"
 layout: post
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Street Art Pictures of the Week: Stik'
 date: 2014-12-03 10:30:37 Z
-permalink: "/street-art-pictures-of-the-week-stik/"
+permalink: "/blog/street-art-pictures-of-the-week-stik/"
 categories:
 - blog
 - East London

@@ -1,7 +1,7 @@
 ---
 title: Very Literal Street Art
 date: 2012-07-19 11:52:24 Z
-permalink: "/very-literal-street-art/"
+permalink: "/blog/very-literal-street-art/"
 categories:
 - blog
 - London Street Art &amp; Graffiti

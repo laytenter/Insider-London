@@ -1,7 +1,7 @@
 ---
 title: London&#8217;s Quizzical Eyebrow &#8211; the essential London pub quiz guide
 date: 2012-12-10 16:10:38 Z
-permalink: "/london-pub-quiz-guide-insider-london/"
+permalink: "/blog/london-pub-quiz-guide-insider-london/"
 categories:
 - blog
 - London Pubs and nights out

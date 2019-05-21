@@ -1,7 +1,7 @@
 ---
 title: History of Drinking in London
 date: 2016-12-30 20:01:00 Z
-permalink: "/history-of-drinking-in-london/"
+permalink: "/blog/history-of-drinking-in-london/"
 layout: post
 ---
 

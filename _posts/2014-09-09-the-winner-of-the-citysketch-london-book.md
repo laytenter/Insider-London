@@ -1,7 +1,7 @@
 ---
 title: The winner of the CitySketch London book!
 date: 2014-09-09 11:30:04 Z
-permalink: "/the-winner-of-the-citysketch-london-book/"
+permalink: "/blog/the-winner-of-the-citysketch-london-book/"
 categories:
 - blog
 - Other

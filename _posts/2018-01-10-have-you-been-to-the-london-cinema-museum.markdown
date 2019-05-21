@@ -1,7 +1,7 @@
 ---
 title: Have You Been To The London Cinema Museum?
 date: 2018-01-10 08:46:00 Z
-permalink: "/london-cinema-museum/"
+permalink: "/blog/london-cinema-museum/"
 description: Include a trip to the London Cinema Museum on tours in London. It might
   soon be closed – it used to be the workhouse where Charlie Chaplin went as a child!
 heading: Have You Been To The London Cinema Museum?

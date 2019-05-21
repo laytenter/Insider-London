@@ -1,7 +1,7 @@
 ---
 title: What is sustainable architecture?
 date: 2014-06-13 14:26:39 Z
-permalink: "/what-is-sustainable-architecture/"
+permalink: "/blog/what-is-sustainable-architecture/"
 categories:
 - blog
 - Green London

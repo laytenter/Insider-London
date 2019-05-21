@@ -1,7 +1,7 @@
 ---
 title: The Amazing Growth of UK Fintech Industry
 date: 2019-02-06 10:06:00 Z
-permalink: "/the-amazing-growth-of-uk-fintech-industry/"
+permalink: "/blog/the-amazing-growth-of-uk-fintech-industry/"
 description: The growth of FinTech companies over the last decade has been phenomenal.  In
   2017, over £800 million was invested in London-based FinTech start-ups - that’s
   double 2016’s figure

@@ -1,7 +1,7 @@
 ---
 title: 'Making Tracks: Crossrail &#038; Sustainability'
 date: 2015-02-23 12:58:03 Z
-permalink: "/making-tracks-crossrail-sustainability/"
+permalink: "/blog/making-tracks-crossrail-sustainability/"
 categories:
 - blog
 - Green London

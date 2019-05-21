@@ -1,7 +1,7 @@
 ---
 title: Thirsty Thoughts Radical Collaboration Workshop with London Business School
 date: 2019-04-30 08:31:00 Z
-permalink: "/thirsty-thoughts-radical-collaboration-workshop-with-london-business-school/"
+permalink: "/blog/thirsty-thoughts-radical-collaboration-workshop-with-london-business-school/"
 layout: post
 ---
 

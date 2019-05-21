@@ -1,7 +1,7 @@
 ---
 title: 'King&#8217;s Cross Gasholder No.8: A New Beginning'
 date: 2014-09-08 11:30:42 Z
-permalink: "/kings-cross-gasholder-no-8-a-new-beginning/"
+permalink: "/blog/kings-cross-gasholder-no-8-a-new-beginning/"
 categories:
 - blog
 - Kings Cross regeneration

@@ -1,7 +1,7 @@
 ---
 title: 24/7 Brick Lane Bagels
 date: 2012-08-01 11:30:40 Z
-permalink: "/247-brick-lane-bagels/"
+permalink: "/blog/247-brick-lane-bagels/"
 categories:
 - blog
 - East London

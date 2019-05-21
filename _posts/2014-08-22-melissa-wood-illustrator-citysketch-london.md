@@ -1,7 +1,7 @@
 ---
 title: 'Insider Interview: Melissa Wood, illustrator of CitySketch London'
 date: 2014-08-22 11:30:40 Z
-permalink: "/melissa-wood-illustrator-citysketch-london/"
+permalink: "/blog/melissa-wood-illustrator-citysketch-london/"
 categories:
 - blog
 - Other

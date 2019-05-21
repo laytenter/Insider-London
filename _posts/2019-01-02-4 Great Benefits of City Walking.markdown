@@ -1,7 +1,7 @@
 ---
 title: 4 Great Benefits of City Walking
 date: 2019-01-02 15:12:00 Z
-permalink: "/4-great-benefits-of-city-walking/"
+permalink: "/blog/4-great-benefits-of-city-walking/"
 description: 'Every May, City Hall implores Londoners: “take to your feet!", but here
   at Insider London we ask: why stop there?'
 heading: 4 Great Benefits of City Walking

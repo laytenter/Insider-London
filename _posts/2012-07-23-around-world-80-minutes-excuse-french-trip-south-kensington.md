@@ -2,7 +2,7 @@
 title: Around the World in 80 Minutes &#8211; Excuse my French &#8211; a trip to South
   Kensington
 date: 2012-07-23 07:07:58 Z
-permalink: "/around-world-80-minutes-excuse-french-trip-south-kensington/"
+permalink: "/blog/around-world-80-minutes-excuse-french-trip-south-kensington/"
 categories:
 - blog
 - Around the World in 80 Minutes
@@ -14,6 +14,7 @@ tags:
 id: 1044
 author: london75
 layout: post
+noindex: 1
 ---
 
 <div>

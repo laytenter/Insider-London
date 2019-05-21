@@ -1,7 +1,7 @@
 ---
 title: Here’s Why London Archaeological Excavations Are Few And Far Between
 date: 2018-04-18 11:13:00 Z
-permalink: "/archaeological-excavations-in-London/"
+permalink: "/blog/archaeological-excavations-in-London/"
 description: Did you know a walrus was once discovered under St Pancras train station?
   This and more fun facts on the Insider London guided tours blog now. Take a look!
 layout: post

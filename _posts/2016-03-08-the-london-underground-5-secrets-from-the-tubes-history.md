@@ -1,7 +1,7 @@
 ---
 title: The London Underground - 5 Secrets from The Tube's History
 date: 2016-03-08 20:49:24 Z
-permalink: "/the-london-underground-5-secrets-from-the-tubes-history/"
+permalink: "/blog/the-london-underground-5-secrets-from-the-tubes-history/"
 categories:
 - blog
 layout: post

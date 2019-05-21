@@ -1,7 +1,7 @@
 ---
 title: 'Insider Interview: Soner Ozenc of MakersCAFE'
 date: 2014-09-19 09:30:56 Z
-permalink: "/insider-interview-makers-cafe/"
+permalink: "/blog/insider-interview-makers-cafe/"
 categories:
 - blog
 - East London

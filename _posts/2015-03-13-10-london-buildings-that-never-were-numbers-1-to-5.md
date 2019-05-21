@@ -1,7 +1,7 @@
 ---
 title: '10 London buildings that never were: Numbers 1 to 5'
 date: 2015-03-13 10:30:15 Z
-permalink: "/10-london-buildings-that-never-were-numbers-1-to-5/"
+permalink: "/blog/10-london-buildings-that-never-were-numbers-1-to-5/"
 categories:
 - blog
 - Modern Architecture

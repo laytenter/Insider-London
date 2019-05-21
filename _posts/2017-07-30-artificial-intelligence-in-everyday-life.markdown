@@ -1,7 +1,7 @@
 ---
 title: Artificial Intelligence in Everyday Life
 date: 2017-07-30 17:11:00 Z
-permalink: "/artificial-intelligence-in-everyday-life/"
+permalink: "/blog/artificial-intelligence-in-everyday-life/"
 tags:
 - educational
 description: Artificial intelligence is slowly seeping into our lives. Here's a short

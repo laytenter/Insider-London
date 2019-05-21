@@ -1,7 +1,7 @@
 ---
 title: 'Street Art Picture of the Week: Eine&#8217;s Extortionists, Ebor Street, Shoreditch'
 date: 2014-08-20 11:30:46 Z
-permalink: "/street-art-picture-of-the-week-eines-extortionists-ebor-street-shoreditch/"
+permalink: "/blog/street-art-picture-of-the-week-eines-extortionists-ebor-street-shoreditch/"
 categories:
 - blog
 - London Street Art &amp; Graffiti

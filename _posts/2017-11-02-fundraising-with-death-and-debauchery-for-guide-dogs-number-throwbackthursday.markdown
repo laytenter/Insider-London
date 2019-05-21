@@ -1,7 +1,7 @@
 ---
 title: "#throwback: Death and Debauchery Tour for a good cause"
 date: 2017-11-02 14:03:00 Z
-permalink: "/dnd-gd-fundraiser-throwback/"
+permalink: "/blog/dnd-gd-fundraiser-throwback/"
 tags:
 - dnd
 description: A few months ago, we successfully raised £800 for Guide Dogs. Let's look

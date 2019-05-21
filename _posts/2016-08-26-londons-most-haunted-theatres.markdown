@@ -1,7 +1,7 @@
 ---
 title: London’s Most Haunted Theatres
 date: 2016-08-26 07:48:00 Z
-permalink: "/londons-most-haunted-theatres/"
+permalink: "/blog/londons-most-haunted-theatres/"
 categories:
 - blog
 layout: post

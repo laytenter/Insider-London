@@ -1,7 +1,7 @@
 ---
 title: Have a butcher&#8217;s at Smithfield Market
 date: 2013-07-08 11:37:02 Z
-permalink: "/london-farringdon-smithfield-market/"
+permalink: "/blog/london-farringdon-smithfield-market/"
 categories:
 - blog
 - Quirky, weird and bizarre London

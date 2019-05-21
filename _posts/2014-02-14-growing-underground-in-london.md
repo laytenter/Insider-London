@@ -1,7 +1,7 @@
 ---
 title: Growing Underground in London
 date: 2014-02-14 11:00:43 Z
-permalink: "/growing-underground-in-london/"
+permalink: "/blog/growing-underground-in-london/"
 categories:
 - blog
 - Other

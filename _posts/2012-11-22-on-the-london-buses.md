@@ -1,7 +1,7 @@
 ---
 title: On The Buses&#8230;
 date: 2012-11-22 17:54:03 Z
-permalink: "/on-the-london-buses/"
+permalink: "/blog/on-the-london-buses/"
 categories:
 - blog
 - Quirky, weird and bizarre London

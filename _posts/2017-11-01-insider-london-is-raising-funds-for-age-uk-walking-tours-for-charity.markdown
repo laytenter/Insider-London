@@ -1,12 +1,13 @@
 ---
 title: Insider London is raising funds for Age UK
 date: 2017-11-01 14:00:00 Z
-permalink: "/ageuk-fundraiser/"
+permalink: "/blog/ageuk-fundraiser/"
 tags:
 - all
 description: On December 2nd and 3rd, we'll run five special tours to raise funds
   for AgeUK. Read more on how to explore London and support charity.
 layout: post
+noindex: 1
 ---
 
 ![Age UK announcement_web.jpg](/uploads/Age%20UK%20announcement_web.jpg)

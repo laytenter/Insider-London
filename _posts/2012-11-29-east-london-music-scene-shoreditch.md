@@ -1,7 +1,7 @@
 ---
 title: What&#8217;s new on the East London music scene?
 date: 2012-11-29 14:18:18 Z
-permalink: "/east-london-music-scene-shoreditch/"
+permalink: "/blog/east-london-music-scene-shoreditch/"
 categories:
 - blog
 - East London

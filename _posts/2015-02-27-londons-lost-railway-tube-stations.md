@@ -1,7 +1,7 @@
 ---
 title: London&#8217;s Lost Railway &#038; Tube Stations
 date: 2015-02-27 10:30:00 Z
-permalink: "/londons-lost-railway-tube-stations/"
+permalink: "/blog/londons-lost-railway-tube-stations/"
 categories:
 - blog
 - East London

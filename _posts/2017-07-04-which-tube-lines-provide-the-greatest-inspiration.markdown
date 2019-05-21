@@ -1,7 +1,7 @@
 ---
 title: Which Tube Lines Provide The Greatest Inspiration?
 date: 2017-07-04 13:52:00 Z
-permalink: "/london-underground-tours-which-tube-lines-provide-the-greatest-inspiration/"
+permalink: "/blog/london-underground-tours-which-tube-lines-provide-the-greatest-inspiration/"
 categories:
 - blog
 tags:

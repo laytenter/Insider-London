@@ -1,7 +1,7 @@
 ---
 title: Exploring London's Financial and Digital Hubs
 date: 2016-03-08 10:23:24 Z
-permalink: "/exploring-londons-financial-and-digital-hubs/"
+permalink: "/blog/exploring-londons-financial-and-digital-hubs/"
 categories:
 - blog
 layout: post

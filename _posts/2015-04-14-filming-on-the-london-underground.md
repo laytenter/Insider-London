@@ -1,7 +1,7 @@
 ---
 title: Filming on the London Underground
 date: 2015-04-14 14:00:17 Z
-permalink: "/filming-on-the-london-underground/"
+permalink: "/blog/filming-on-the-london-underground/"
 categories:
 - blog
 - London Underground/Tube

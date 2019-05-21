@@ -1,7 +1,7 @@
 ---
 title: The UK&#8217;s big green giant
 date: 2012-07-21 15:59:48 Z
-permalink: "/big-green-giant/"
+permalink: "/blog/big-green-giant/"
 categories:
 - blog
 - Green London
@@ -14,6 +14,7 @@ id: 886
 author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=886
+noindex: 1
 ---
 
 Sadly, all too often, when major UK retail companies talk about being ‘committed’ to green and sustainable policies it all feels a bit forced. Meaningful green strategies are all about being innovative rather than just repeating what others have said or done. Without innovation&#8230; well, let’s face it, we wouldn’t have realised anything was wrong in the first place (and thus, we’d still think that the earth was an infinite resource that we could merrily pillage forever, and that smoking was good for us).

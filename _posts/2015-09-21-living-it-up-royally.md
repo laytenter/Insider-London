@@ -1,7 +1,7 @@
 ---
 title: Living it up, Royally
 date: 2015-09-21 14:44:54 Z
-permalink: "/living-it-up-royally/"
+permalink: "/blog/living-it-up-royally/"
 categories:
 - blog
 - Uncategorised
@@ -11,6 +11,7 @@ layout: post
 guid: https://www.insider-london.co.uk/?p=31154
 slide_template:
 - default
+noindex: 1
 ---
 
 The City of Westminster feels entirely different to the City of London as it should, being that they are entirely different cities.  Both predating the Norman conquest in the 11th-Century, the City of Westminster appealed to the powerful and wealthy in its early stages. Today, two areas may be considered to be its crown jewels- St. James&#8217;s and Piccadilly. People flock to numerous areas of greater London for various reasons such as the East End due to its hip-scene and artisan connections but it was Piccadilly that attracted the hip Londoners of the swinging&#8217; 60&#8217;s and has remained home to shopkeepers and craftsmen whom serve the average commoner to the monarchy, personally.  Many visit the grand estates of Hampton Court Palace and Kensington Palace which are undoubtedly grand, historical treasures but it is in St. James&#8217;s where you will find the official residences of the sovereign and Buckingham Palace just behind the most beautiful royal park, St. James&#8217;s Park; not to mention several other palaces and stately homes within a short walking distance.  Many people venture to Southwark, enticed by the seedier history of the old city, however Piccadilly boasts its own amusing tales with the secret lives of those living above the beautiful shops in the Arcades and what went on behind the closed doors of the clubs and assembly rooms.

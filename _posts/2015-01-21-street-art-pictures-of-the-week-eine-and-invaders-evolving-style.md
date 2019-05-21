@@ -1,7 +1,7 @@
 ---
 title: 'Street Art Pictures of the Week: Eine and Invader&#8217;s evolving style'
 date: 2015-01-21 10:30:09 Z
-permalink: "/street-art-pictures-of-the-week-eine-and-invaders-evolving-style/"
+permalink: "/blog/street-art-pictures-of-the-week-eine-and-invaders-evolving-style/"
 categories:
 - blog
 - East London

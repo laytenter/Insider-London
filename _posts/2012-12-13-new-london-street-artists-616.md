@@ -1,7 +1,7 @@
 ---
 title: New London Street Artists &#8211; 616
 date: 2012-12-13 11:59:50 Z
-permalink: "/new-london-street-artists-616/"
+permalink: "/blog/new-london-street-artists-616/"
 categories:
 - blog
 - London Street Art &amp; Graffiti

@@ -1,7 +1,7 @@
 ---
 title: '10 London buildings that never were: Numbers 6 to 10'
 date: 2015-03-20 10:30:03 Z
-permalink: "/10-london-buildings-that-never-were-numbers-6-to-10/"
+permalink: "/blog/10-london-buildings-that-never-were-numbers-6-to-10/"
 categories:
 - blog
 - Green London

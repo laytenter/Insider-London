@@ -1,7 +1,7 @@
 ---
 title: 'Street Art Picture of the Week: 1914 Christmas Truce'
 date: 2014-12-23 10:30:51 Z
-permalink: "/street-art-picture-of-the-week-1914-christmas-truce/"
+permalink: "/blog/street-art-picture-of-the-week-1914-christmas-truce/"
 categories:
 - blog
 - East London
@@ -22,13 +22,14 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=24423
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
+noindex: 1
 ---
 
 <img class="aligncenter wp-image-24427 size-full" src="/wp-content/uploads/2014/12/Flanders_mini.jpg" alt="London street art" width="569" height="297" />

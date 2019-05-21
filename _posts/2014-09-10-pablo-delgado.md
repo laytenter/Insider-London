@@ -1,7 +1,7 @@
 ---
 title: 'Street Art Picture of the Week: Pablo Delgado'
 date: 2014-09-10 11:30:45 Z
-permalink: "/pablo-delgado/"
+permalink: "/blog/pablo-delgado/"
 categories:
 - blog
 - East London

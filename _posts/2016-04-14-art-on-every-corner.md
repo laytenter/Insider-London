@@ -1,7 +1,7 @@
 ---
 title: "\uFEFFArt on every Corner"
 date: 2016-04-14 19:47:24 Z
-permalink: "/art-on-every-corner/"
+permalink: "/blog/art-on-every-corner/"
 categories:
 - blog
 layout: post

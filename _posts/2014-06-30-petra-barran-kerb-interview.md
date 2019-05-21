@@ -1,7 +1,7 @@
 ---
 title: 'Insider Interview: Petra Barran of KERB'
 date: 2014-06-30 12:30:25 Z
-permalink: "/petra-barran-kerb-interview/"
+permalink: "/blog/petra-barran-kerb-interview/"
 categories:
 - blog
 - Food and drink

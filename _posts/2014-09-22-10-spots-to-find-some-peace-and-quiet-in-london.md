@@ -1,7 +1,7 @@
 ---
 title: 10 spots to find some peace and quiet in London
 date: 2014-09-22 16:19:55 Z
-permalink: "/10-spots-to-find-some-peace-and-quiet-in-london/"
+permalink: "/blog/10-spots-to-find-some-peace-and-quiet-in-london/"
 categories:
 - blog
 - East London

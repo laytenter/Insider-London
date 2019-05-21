@@ -1,7 +1,7 @@
 ---
 title: Our Christmas Specials for You | Walking Tours for Christmas | London at Christmas
 date: 2017-11-18 09:30:00 Z
-permalink: "/christmas-special-2017/"
+permalink: "/blog/christmas-special-2017/"
 tags:
 - all
 description: 'Christmas Special: Two special walking tours to discover London at Christmas

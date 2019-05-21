@@ -2,7 +2,7 @@
 title: 'Street Art Picture of the Week: Cupid&#8217;s Hit Squad, Whitecross Street,
   London EC1'
 date: 2014-11-05 09:30:53 Z
-permalink: "/street-art-picture-of-the-week-cupids-hit-squad-whitecross-street-london-ec1/"
+permalink: "/blog/street-art-picture-of-the-week-cupids-hit-squad-whitecross-street-london-ec1/"
 categories:
 - blog
 - London Street Art &amp; Graffiti

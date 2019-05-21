@@ -1,7 +1,7 @@
 ---
 title: Ghosts, Murders and Halloween
 date: 2015-10-23 10:48:11 Z
-permalink: "/ghosts-murders-and-halloween/"
+permalink: "/blog/ghosts-murders-and-halloween/"
 categories:
 - blog
 tags:

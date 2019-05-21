@@ -1,7 +1,7 @@
 ---
 title: London&#8217;s most unusual phone boxes
 date: 2015-02-06 10:30:00 Z
-permalink: "/londons-most-unusual-phone-boxes/"
+permalink: "/blog/londons-most-unusual-phone-boxes/"
 categories:
 - blog
 - Green London

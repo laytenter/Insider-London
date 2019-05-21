@@ -1,7 +1,7 @@
 ---
 title: The Hidden Speakeasies of the East End
 date: 2012-08-16 09:01:39 Z
-permalink: "/the-hidden-speakeasies-east-end/"
+permalink: "/blog/the-hidden-speakeasies-east-end/"
 categories:
 - blog
 - London Pubs and nights out

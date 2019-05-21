@@ -1,7 +1,7 @@
 ---
 title: Discover More Than Jack The Ripper On A London Tour
 date: 2018-05-03 14:38:00 Z
-permalink: "/More-Than-Jack-The-Ripper-On-A-London-Tour/"
+permalink: "/blog/More-Than-Jack-The-Ripper-On-A-London-Tour/"
 description: A Jack the Ripper tour of London is a great and interesting day out!
   Did you know the killer was never caught? Find out more about this on the blog now.
 layout: post

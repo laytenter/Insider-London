@@ -1,7 +1,7 @@
 ---
 title: Christmas with Insider London
 date: 2016-11-23 14:44:00 Z
-permalink: "/christmas-with-insider-london/"
+permalink: "/blog/christmas-with-insider-london/"
 layout: post
 ---
 

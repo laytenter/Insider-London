@@ -1,7 +1,7 @@
 ---
 title: 'Sherlock Homes: The Great Detective'
 date: 2014-10-13 10:30:05 Z
-permalink: "/sherlock-homes-the-great-detective/"
+permalink: "/blog/sherlock-homes-the-great-detective/"
 categories:
 - blog
 - Other

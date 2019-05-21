@@ -1,7 +1,7 @@
 ---
 title: London in the Rain - What to do when the weather is bad
 date: 2016-03-08 20:37:24 Z
-permalink: "/london-in-the-rain-what-to-do-when-the-weather-is-bad/"
+permalink: "/blog/london-in-the-rain-what-to-do-when-the-weather-is-bad/"
 categories:
 - blog
 layout: post

@@ -1,7 +1,7 @@
 ---
 title: Autumn with Insider London
 date: 2017-10-18 10:43:00 Z
-permalink: "/autumn-insider-london/"
+permalink: "/blog/autumn-insider-london/"
 tags:
 - ghost
 - tube

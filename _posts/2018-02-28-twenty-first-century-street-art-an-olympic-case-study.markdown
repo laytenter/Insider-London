@@ -1,7 +1,7 @@
 ---
 title: 'Twenty-first Century Street Art: An Olympic Case Study'
 date: 2018-02-28 11:01:00 Z
-permalink: "/street-art-and-Olympics/"
+permalink: "/blog/street-art-and-Olympics/"
 tags:
 - street-art
 description: 'As Pyeonchang''s Winter Olympics draw to a close, we cast a look back

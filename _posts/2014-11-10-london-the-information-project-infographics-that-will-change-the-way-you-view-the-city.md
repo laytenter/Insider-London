@@ -2,7 +2,7 @@
 title: 'London The Information Capital: Infographics that will change the way you
   view the city'
 date: 2014-11-10 10:00:15 Z
-permalink: "/london-the-information-project-infographics-that-will-change-the-way-you-view-the-city/"
+permalink: "/blog/london-the-information-project-infographics-that-will-change-the-way-you-view-the-city/"
 categories:
 - blog
 - London Underground/Tube

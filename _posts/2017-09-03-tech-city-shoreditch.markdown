@@ -1,7 +1,7 @@
 ---
 title: Tech City Shoreditch
 date: 2017-09-03 10:45:00 Z
-permalink: "/tech-city-shoreditch/"
+permalink: "/blog/tech-city-shoreditch/"
 tags:
 - SR
 description: Find out about The Stage's interactive map of the epicentre of London's

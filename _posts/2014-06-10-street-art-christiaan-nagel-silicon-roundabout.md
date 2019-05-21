@@ -1,7 +1,7 @@
 ---
 title: 'Street Art Picture of the Week: Christiaan Nagel, Silicon Roundabout'
 date: 2014-06-10 11:30:19 Z
-permalink: "/street-art-christiaan-nagel-silicon-roundabout/"
+permalink: "/blog/street-art-christiaan-nagel-silicon-roundabout/"
 categories:
 - blog
 - East London

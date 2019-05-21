@@ -1,7 +1,7 @@
 ---
 title: FOOD TOUR OF LONDON
 date: 2018-08-01 11:49:00 Z
-permalink: "/food-tour-of-london/"
+permalink: "/blog/food-tour-of-london/"
 tags:
 - london tours
 description: 'When your belly starts to rumble... the question on every Londoner''s

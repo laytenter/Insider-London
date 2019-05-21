@@ -1,7 +1,7 @@
 ---
 title: Christmas gifts for London Lovers
 date: 2014-12-15 10:30:37 Z
-permalink: "/christmas-gifts-for-london-lovers/"
+permalink: "/blog/christmas-gifts-for-london-lovers/"
 categories:
 - blog
 - London Underground/Tube

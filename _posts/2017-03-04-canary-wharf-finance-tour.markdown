@@ -1,7 +1,7 @@
 ---
 title: Canary Wharf Finance Tour
 date: 2017-03-04 19:32:00 Z
-permalink: "/canary-wharf-finance-tour/"
+permalink: "/blog/canary-wharf-finance-tour/"
 layout: post
 ---
 

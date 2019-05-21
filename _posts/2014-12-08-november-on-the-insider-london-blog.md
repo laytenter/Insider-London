@@ -1,7 +1,7 @@
 ---
 title: November on the Insider London blog
 date: 2014-12-08 10:30:30 Z
-permalink: "/november-on-the-insider-london-blog/"
+permalink: "/blog/november-on-the-insider-london-blog/"
 categories:
 - blog
 - East London

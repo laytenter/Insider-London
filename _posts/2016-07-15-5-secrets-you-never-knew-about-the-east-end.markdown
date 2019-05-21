@@ -1,7 +1,7 @@
 ---
 title: London’s East End Secrets
 date: 2016-07-15 11:25:00 Z
-permalink: "/5-secrets-you-never-knew-about-the-east-end/"
+permalink: "/blog/5-secrets-you-never-knew-about-the-east-end/"
 categories:
 - blog
 Key: 

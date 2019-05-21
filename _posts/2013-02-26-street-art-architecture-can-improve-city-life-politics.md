@@ -1,7 +1,7 @@
 ---
 title: How Street Art and Architecture can Improve City Life and Politics
 date: 2013-02-26 13:22:59 Z
-permalink: "/street-art-architecture-can-improve-city-life-politics/"
+permalink: "/blog/street-art-architecture-can-improve-city-life-politics/"
 categories:
 - blog
 - London Street Art &amp; Graffiti

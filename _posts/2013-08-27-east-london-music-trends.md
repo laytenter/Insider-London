@@ -1,7 +1,7 @@
 ---
 title: East London Music Trends &#8211; Soundyoucansee interview (pt1)
 date: 2013-08-27 15:27:55 Z
-permalink: "/east-london-music-trends/"
+permalink: "/blog/east-london-music-trends/"
 categories:
 - blog
 - East London

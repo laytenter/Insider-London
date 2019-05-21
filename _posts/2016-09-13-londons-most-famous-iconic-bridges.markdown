@@ -1,7 +1,7 @@
 ---
 title: London's most famous Iconic Bridges
 date: 2016-09-13 10:11:00 Z
-permalink: "/londons-most-famous-iconic-bridges/"
+permalink: "/blog/londons-most-famous-iconic-bridges/"
 categories:
 - blog
 layout: post

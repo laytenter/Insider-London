@@ -1,7 +1,7 @@
 ---
 title: 'Insider Interview: Urban Bees'
 date: 2014-06-27 11:30:47 Z
-permalink: "/urban-bees-interview/"
+permalink: "/blog/urban-bees-interview/"
 categories:
 - blog
 - Green London

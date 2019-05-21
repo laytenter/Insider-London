@@ -2,7 +2,7 @@
 title: Why experiences are better gifts than things | Why experiences are the best
   Christmas gift ever
 date: 2017-11-15 09:00:00 Z
-permalink: "/why-experiences-are-the-best-gifts/"
+permalink: "/blog/why-experiences-are-the-best-gifts/"
 tags:
 - all
 description: Summer's just over and... woops! It's Christmas! If you're looking for

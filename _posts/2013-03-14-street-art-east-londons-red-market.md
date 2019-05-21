@@ -1,7 +1,7 @@
 ---
 title: Street Art at East London&#8217;s Red Market
 date: 2013-03-14 19:41:19 Z
-permalink: "/street-art-east-londons-red-market/"
+permalink: "/blog/street-art-east-londons-red-market/"
 categories:
 - blog
 - London Street Art &amp; Graffiti

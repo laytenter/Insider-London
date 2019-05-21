@@ -1,7 +1,7 @@
 ---
 title: London Street Art
 date: 2017-01-21 11:50:00 Z
-permalink: "/london-street-art/"
+permalink: "/blog/london-street-art/"
 layout: post
 ---
 

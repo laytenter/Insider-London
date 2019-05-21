@@ -1,7 +1,7 @@
 ---
 title: 20in20 Fundraiser Event
 date: 2017-05-30 20:58:00 Z
-permalink: "/20in20fundraiserevent/"
+permalink: "/blog/20in20fundraiserevent/"
 layout: post
 ---
 

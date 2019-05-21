@@ -1,7 +1,7 @@
 ---
 title: "\uFEFFStudents! Discover the Secrets of Business"
 date: 2016-04-06 08:37:24 Z
-permalink: "/students-discover-the-secrets-of-business/"
+permalink: "/blog/students-discover-the-secrets-of-business/"
 categories:
 - blog
 layout: post

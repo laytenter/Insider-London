@@ -1,7 +1,7 @@
 ---
 title: Must-Know Facts About Windsor Castle
 date: 2018-05-23 08:30:00 Z
-permalink: "/must-know-facts-about-windsor-castle/"
+permalink: "/blog/must-know-facts-about-windsor-castle/"
 description: Did you know there are over 200,000 books in the library? Find this and
   other fun facts on our blow now. Then go on a London guided walk to find out even
   more!

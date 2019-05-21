@@ -1,7 +1,7 @@
 ---
 title: A King’s Cross Station for the 21st Century
 date: 2014-07-11 11:30:20 Z
-permalink: "/kings-cross-station-kings-cross-regeneration/"
+permalink: "/blog/kings-cross-station-kings-cross-regeneration/"
 categories:
 - blog
 - Kings Cross regeneration

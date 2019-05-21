@@ -1,7 +1,7 @@
 ---
 title: The City and its Eastern Cluster
 date: 2018-10-10 14:50:00 Z
-permalink: "/the-city-and-its-eastern-cluster/"
+permalink: "/blog/the-city-and-its-eastern-cluster/"
 description: In terms of urban development how can an area be expanded when borders
   are clearly defined?  Answer – the only way is up.
 heading: 'The City and its Eastern Cluster '

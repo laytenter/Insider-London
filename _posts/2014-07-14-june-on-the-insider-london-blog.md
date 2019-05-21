@@ -1,7 +1,7 @@
 ---
 title: 'You May Have Missed: June on the Insider London blog'
 date: 2014-07-14 12:33:03 Z
-permalink: "/june-on-the-insider-london-blog/"
+permalink: "/blog/june-on-the-insider-london-blog/"
 categories:
 - blog
 - Green London

@@ -1,7 +1,7 @@
 ---
 title: 'Street Art Picture of the Week: SAKI &#038; Bitches'
 date: 2015-02-04 10:30:36 Z
-permalink: "/street-art-picture-of-the-week-saki-bitches/"
+permalink: "/blog/street-art-picture-of-the-week-saki-bitches/"
 categories:
 - blog
 - London Street Art &amp; Graffiti

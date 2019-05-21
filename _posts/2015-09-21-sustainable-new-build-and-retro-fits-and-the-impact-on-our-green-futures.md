@@ -1,7 +1,7 @@
 ---
 title: Sustainable new build and Retro-fits and the impact on our green futures.
 date: 2015-09-21 14:46:08 Z
-permalink: "/sustainable-new-build-and-retro-fits-and-the-impact-on-our-green-futures/"
+permalink: "/blog/sustainable-new-build-and-retro-fits-and-the-impact-on-our-green-futures/"
 categories:
 - blog
 - Uncategorised

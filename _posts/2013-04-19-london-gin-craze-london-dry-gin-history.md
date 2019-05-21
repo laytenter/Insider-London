@@ -1,7 +1,7 @@
 ---
 title: The evolution of gin in London, 1750 &#8211; 1850
 date: 2013-04-19 15:45:34 Z
-permalink: "/london-gin-craze-london-dry-gin-history/"
+permalink: "/blog/london-gin-craze-london-dry-gin-history/"
 categories:
 - blog
 - London Pubs and nights out

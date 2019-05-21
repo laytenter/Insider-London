@@ -1,7 +1,7 @@
 ---
 title: 'Insider London: Insider Tweets'
 date: 2014-11-04 10:30:49 Z
-permalink: "/insider-london-insider-tweets/"
+permalink: "/blog/insider-london-insider-tweets/"
 categories:
 - blog
 - Other

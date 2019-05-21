@@ -1,7 +1,7 @@
 ---
 title: Discover The Changing Face Of The City Of London
 date: 2017-06-19 13:30:00 Z
-permalink: "/discover-the-changing-face-of-the-city-of-london-history-tour/"
+permalink: "/blog/discover-the-changing-face-of-the-city-of-london-history-tour/"
 categories:
 - blog
 tags:

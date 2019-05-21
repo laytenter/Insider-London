@@ -1,7 +1,7 @@
 ---
 title: Streetwise, Artful Marketing
 date: 2014-08-01 11:30:17 Z
-permalink: "/streetwise-artful-marketing/"
+permalink: "/blog/streetwise-artful-marketing/"
 categories:
 - blog
 - London Street Art &amp; Graffiti
@@ -17,13 +17,14 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=15807
 s4_image2s:
-- 
+-
 s4_url2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
+noindex: 1
 ---
 
 [<img class="size-full wp-image-15844 aligncenter" src="/wp-content/uploads/2014/08/Shepherd-Fairey.jpg" alt="Shepard Fairey street art tour london" width="569" height="427" />](/wp-content/uploads/2014/08/Shepherd-Fairey.jpg)

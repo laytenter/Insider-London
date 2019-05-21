@@ -1,7 +1,7 @@
 ---
 title: History of the London Underground and Tube
 date: 2016-08-08 19:53:00 Z
-permalink: "/a-short-history-of-the-tube/"
+permalink: "/blog/a-short-history-of-the-tube/"
 categories:
 - blog
 layout: post

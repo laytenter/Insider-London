@@ -1,7 +1,7 @@
 ---
 title: Go crazy golf crazy at Shoreditch&#8217;s new Swingers
 date: 2014-09-05 11:30:25 Z
-permalink: "/swingers-crazy-golf-shoreditch/"
+permalink: "/blog/swingers-crazy-golf-shoreditch/"
 categories:
 - blog
 - East London

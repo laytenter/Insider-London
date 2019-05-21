@@ -1,7 +1,7 @@
 ---
 title: A Quick Guide To Cockney Rhyming Slang
 date: 2017-04-11 10:15:00 Z
-permalink: "/walking-tours-london-cockney-slang/"
+permalink: "/blog/walking-tours-london-cockney-slang/"
 categories:
 - blog
 tags:

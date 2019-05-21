@@ -1,7 +1,7 @@
 ---
 title: Eco Fiction
 date: 2012-08-17 08:28:50 Z
-permalink: "/eco-fiction/"
+permalink: "/blog/eco-fiction/"
 categories:
 - blog
 - Green London

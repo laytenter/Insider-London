@@ -1,7 +1,7 @@
 ---
 title: Fresh faces at the Saatchi Gallery London
 date: 2013-09-27 10:41:13 Z
-permalink: "/saatchi-gallery-london/"
+permalink: "/blog/saatchi-gallery-london/"
 categories:
 - blog
 - Quirky, weird and bizarre London

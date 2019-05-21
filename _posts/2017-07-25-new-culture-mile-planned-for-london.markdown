@@ -1,7 +1,7 @@
 ---
 title: New Culture Mile Planned For London
 date: 2017-07-25 13:27:00 Z
-permalink: "/new-culture-mile-planned-for-london-walking-tours-london/"
+permalink: "/blog/new-culture-mile-planned-for-london-walking-tours-london/"
 categories:
 - blog
 tags:

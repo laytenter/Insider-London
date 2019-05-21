@@ -1,7 +1,7 @@
 ---
 title: 'London&#8217;s Magnificent Seven Victorian Cemeteries: the Low-Down Part 1'
 date: 2012-12-04 09:39:59 Z
-permalink: "/london-magnificent-seven-victorian-cemeteries-walks-london-marx-highgate-westnorwood/"
+permalink: "/blog/london-magnificent-seven-victorian-cemeteries-walks-london-marx-highgate-westnorwood/"
 categories:
 - blog
 - Green London

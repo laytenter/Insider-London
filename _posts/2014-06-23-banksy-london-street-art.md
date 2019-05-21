@@ -1,7 +1,7 @@
 ---
 title: Banksy Banks It At Sotheby&#8217;s
 date: 2014-06-23 11:30:09 Z
-permalink: "/banksy-london-street-art/"
+permalink: "/blog/banksy-london-street-art/"
 categories:
 - blog
 - London Street Art &amp; Graffiti

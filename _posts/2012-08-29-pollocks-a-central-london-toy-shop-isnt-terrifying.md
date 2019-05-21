@@ -1,7 +1,7 @@
 ---
 title: 'Pollock&#8217;s: A central London toy shop that isn&#8217;t terrifying'
 date: 2012-08-29 11:19:11 Z
-permalink: "/pollocks-a-central-london-toy-shop-isnt-terrifying/"
+permalink: "/blog/pollocks-a-central-london-toy-shop-isnt-terrifying/"
 categories:
 - blog
 - Quirky, weird and bizarre London

@@ -1,7 +1,7 @@
 ---
 title: Education Programme with the High Commission of Gujurat
 date: 2019-01-09 15:19:00 Z
-permalink: "/educational-programme-with-the-high-commission-of-gujurat/"
+permalink: "/blog/educational-programme-with-the-high-commission-of-gujurat/"
 description: 'Insider London organised an inspiring 2 day programme for professors
   from Gujarat universities. '
 heading: Education Programme with the High Commission of Gujurat

@@ -2,7 +2,7 @@
 title: 'Street Art Picture of the Week: Sweet Toof &#038; Paul Insect, Old Ford Lock,
   London'
 date: 2014-09-03 11:30:03 Z
-permalink: "/street-art-picture-of-the-week-sweet-toof-paul-insect-old-ford-lock-london/"
+permalink: "/blog/street-art-picture-of-the-week-sweet-toof-paul-insect-old-ford-lock-london/"
 categories:
 - blog
 - London Street Art &amp; Graffiti

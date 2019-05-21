@@ -1,7 +1,7 @@
 ---
 title: The Biggest City Zip Wire Coming To London This Summer!
 date: 2017-06-30 13:26:00 Z
-permalink: "/the-biggest-city-zip-wire-coming-to-london/"
+permalink: "/blog/the-biggest-city-zip-wire-coming-to-london/"
 categories:
 - blog
 layout: post

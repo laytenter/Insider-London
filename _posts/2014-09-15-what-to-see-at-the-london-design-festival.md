@@ -1,7 +1,7 @@
 ---
 title: What to see at the London Design Festival
 date: 2014-09-15 10:30:55 Z
-permalink: "/what-to-see-at-the-london-design-festival/"
+permalink: "/blog/what-to-see-at-the-london-design-festival/"
 categories:
 - blog
 - East London

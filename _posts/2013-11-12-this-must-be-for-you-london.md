@@ -1,7 +1,7 @@
 ---
 title: This Must Be For You
 date: 2013-11-12 16:02:43 Z
-permalink: "/this-must-be-for-you-london/"
+permalink: "/blog/this-must-be-for-you-london/"
 categories:
 - blog
 - Green London

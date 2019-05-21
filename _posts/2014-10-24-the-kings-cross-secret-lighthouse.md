@@ -1,7 +1,7 @@
 ---
 title: The King&#8217;s Cross Secret Lighthouse
 date: 2014-10-24 10:30:06 Z
-permalink: "/the-kings-cross-secret-lighthouse/"
+permalink: "/blog/the-kings-cross-secret-lighthouse/"
 categories:
 - blog
 - Kings Cross regeneration

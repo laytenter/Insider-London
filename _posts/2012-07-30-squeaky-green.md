@@ -1,7 +1,7 @@
 ---
 title: Squeaky Green
 date: 2012-07-30 10:00:13 Z
-permalink: "/squeaky-green/"
+permalink: "/blog/squeaky-green/"
 categories:
 - blog
 - Green London

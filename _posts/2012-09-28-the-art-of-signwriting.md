@@ -1,7 +1,7 @@
 ---
 title: The Art Of Signwriting
 date: 2012-09-28 15:17:28 Z
-permalink: "/the-art-of-signwriting/"
+permalink: "/blog/the-art-of-signwriting/"
 categories:
 - blog
 - Retail Store Design

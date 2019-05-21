@@ -1,7 +1,7 @@
 ---
 title: Exploring Londons East End
 date: 2016-03-08 10:23:24 Z
-permalink: "/exploring-londons-east-end/"
+permalink: "/blog/exploring-londons-east-end/"
 categories:
 - blog
 layout: post

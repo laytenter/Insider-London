@@ -1,7 +1,7 @@
 ---
 title: Top Alternative Things To Do In The Capital
 date: 2018-01-31 09:34:00 Z
-permalink: "/top-alternative-things-to-do-jan18/"
+permalink: "/blog/top-alternative-things-to-do-jan18/"
 description: From ice climbing walls to ice karting & axe throwing, here are quirky
   things to do in London. You could even book a ghost tour in London if feeling brave!
 layout: post

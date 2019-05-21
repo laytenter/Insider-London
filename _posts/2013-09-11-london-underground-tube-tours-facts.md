@@ -1,7 +1,7 @@
 ---
 title: The Underground Turns 150 (part 1)
 date: 2013-09-11 09:27:24 Z
-permalink: "/london-underground-tube-tours-facts/"
+permalink: "/blog/london-underground-tube-tours-facts/"
 categories:
 - blog
 - London Underground/Tube

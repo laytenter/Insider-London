@@ -1,7 +1,7 @@
 ---
 title: What to look forward to at the London Festival of Architecture 2015
 date: 2015-04-07 10:30:39 Z
-permalink: "/what-to-look-forward-to-at-the-london-festival-of-architecture-2015/"
+permalink: "/blog/what-to-look-forward-to-at-the-london-festival-of-architecture-2015/"
 categories:
 - blog
 - Green London

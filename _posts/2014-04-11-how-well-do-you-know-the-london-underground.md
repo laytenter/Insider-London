@@ -1,7 +1,7 @@
 ---
 title: How well do you know the London Underground?
 date: 2014-04-11 10:00:01 Z
-permalink: "/how-well-do-you-know-the-london-underground/"
+permalink: "/blog/how-well-do-you-know-the-london-underground/"
 categories:
 - blog
 - London Underground/Tube

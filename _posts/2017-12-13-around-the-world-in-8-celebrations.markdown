@@ -1,13 +1,14 @@
 ---
 title: Around the World in 8 Celebrations
 date: 2017-12-13 16:58:00 Z
-permalink: "/around-the-world-in-eight-celebrations/"
+permalink: "/blog/around-the-world-in-eight-celebrations/"
 tags:
 - all
 description: As we count down to Christmas, take a trip around the world with us!
   Explore celebrations you may or may not have heard of.
 heading: Around the World in 8 Celebrations
 layout: post
+noindex: 1
 ---
 
 ![web_960x540_00_world_CC0.jpg](/uploads/web_960x540_00_world_CC0.jpg)
@@ -23,14 +24,14 @@ This month long celebration starting on the 24th January every year honours the 
 
 ## Iceland – Thorrablot
 
-This ancient sacrificial festival celebrates mid-winter and takes place between January and February. It is believed to have originated to honour the Norse god Thor – and was rejuvenated in the nineteenth-century.  Thorrablot is first and foremost a traditional Viking feast incomplete without fermented shark, blood sausage and Brennivin (a very strong schnapps). 
+This ancient sacrificial festival celebrates mid-winter and takes place between January and February. It is believed to have originated to honour the Norse god Thor – and was rejuvenated in the nineteenth-century.  Thorrablot is first and foremost a traditional Viking feast incomplete without fermented shark, blood sausage and Brennivin (a very strong schnapps).
 
 ![web_960x540_02_Thorramatur.jpg](/uploads/web_960x540_02_Thorramatur.jpg)
 *Photo by The blanz via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Thorramatur.jpg)*
 
 ## Japan – Hinamatsuri
 
-On Hinmatsuri (“Doll Day”), Japan celebrates its daughters! On this day, 3rd March, the family seeks to bring happiness and good health to young girls. Traditionally [hina dolls](http://www.kyohaku.go.jp/eng/dictio/senshoku/hina.html) were set adrift down the river, as people believed they would take bad spirits with them. The current practice of displaying the dolls at home started a few centuries ago. The dolls are often displayed with rice wine, peach blossom and “hishi mochi” - a three-tiered cake. 
+On Hinmatsuri (“Doll Day”), Japan celebrates its daughters! On this day, 3rd March, the family seeks to bring happiness and good health to young girls. Traditionally [hina dolls](http://www.kyohaku.go.jp/eng/dictio/senshoku/hina.html) were set adrift down the river, as people believed they would take bad spirits with them. The current practice of displaying the dolls at home started a few centuries ago. The dolls are often displayed with rice wine, peach blossom and “hishi mochi” - a three-tiered cake.
 
 ![web_960x540_03_Hinamatsuri.jpg](/uploads/web_960x540_03_Hinamatsuri.jpg)
 *Photo by Daderot via [WIkimedia Commons](https://commons.wikimedia.org/wiki/File:Hina_matsuri_2014_-_DSC09681.JPG)*

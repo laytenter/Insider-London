@@ -1,7 +1,7 @@
 ---
 title: Quirky Tube Maps
 date: 2013-11-22 14:58:46 Z
-permalink: "/quirky-tube-maps/"
+permalink: "/blog/quirky-tube-maps/"
 categories:
 - blog
 - London Underground/Tube

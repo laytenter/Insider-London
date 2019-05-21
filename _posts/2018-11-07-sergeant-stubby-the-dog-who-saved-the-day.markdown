@@ -1,7 +1,7 @@
 ---
 title: Sergeant Stubby – The Dog Who Saved the Day!
 date: 2018-11-07 11:37:00 Z
-permalink: "/sergeant-stubby-the-dog-who-saved-the-day/"
+permalink: "/blog/sergeant-stubby-the-dog-who-saved-the-day/"
 description: This Remembrance Day, we look back at a four-legged celebrity who became
   a national hero for his service during World War I.
 heading: Sergeant Stubby – The Dog Who Saved the Day!

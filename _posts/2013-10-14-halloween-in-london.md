@@ -1,7 +1,7 @@
 ---
 title: 31 Terrifying London Events for Halloween
 date: 2013-10-14 14:27:57 Z
-permalink: "/halloween-in-london/"
+permalink: "/blog/halloween-in-london/"
 categories:
 - blog
 - London Pubs and nights out

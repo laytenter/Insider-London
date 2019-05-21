@@ -1,7 +1,7 @@
 ---
 title: 'Street Art Picture of the Week: Cranio, Rivington Street, Shoreditch'
 date: 2014-06-25 11:30:04 Z
-permalink: "/cranio-street-art-rivington-street-shoreditch/"
+permalink: "/blog/cranio-street-art-rivington-street-shoreditch/"
 categories:
 - blog
 - East London

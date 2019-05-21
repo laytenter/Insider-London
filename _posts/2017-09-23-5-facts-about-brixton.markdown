@@ -1,7 +1,7 @@
 ---
 title: 5 Facts About Brixton
 date: 2017-09-23 15:19:00 Z
-permalink: "/5-facts-about-brixton/"
+permalink: "/blog/5-facts-about-brixton/"
 tags:
 - educational
 description: Brixton is known to many as an eclectic multicultural area in the south

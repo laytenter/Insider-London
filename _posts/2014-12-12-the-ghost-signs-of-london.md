@@ -1,7 +1,7 @@
 ---
 title: The Ghost Signs of London
 date: 2014-12-12 10:30:00 Z
-permalink: "/the-ghost-signs-of-london/"
+permalink: "/blog/the-ghost-signs-of-london/"
 categories:
 - blog
 - East London

@@ -1,7 +1,7 @@
 ---
 title: Spot the Starchitect in Kings Cross
 date: 2014-10-06 09:30:07 Z
-permalink: "/spot-the-starchitect-in-kings-cross/"
+permalink: "/blog/spot-the-starchitect-in-kings-cross/"
 categories:
 - blog
 - Green London

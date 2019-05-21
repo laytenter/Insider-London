@@ -1,7 +1,7 @@
 ---
 title: 'London: Container Capital'
 date: 2015-02-20 10:30:57 Z
-permalink: "/london-container-capital/"
+permalink: "/blog/london-container-capital/"
 categories:
 - blog
 - East London

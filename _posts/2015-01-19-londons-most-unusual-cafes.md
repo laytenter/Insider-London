@@ -1,7 +1,7 @@
 ---
 title: London&#8217;s most unusual cafes
 date: 2015-01-19 10:30:06 Z
-permalink: "/londons-most-unusual-cafes/"
+permalink: "/blog/londons-most-unusual-cafes/"
 categories:
 - blog
 - Food and drink

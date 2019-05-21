@@ -1,7 +1,7 @@
 ---
 title: 'London Bridges: The Old &#038; New'
 date: 2015-03-23 10:30:31 Z
-permalink: "/london-bridges-the-old-new/"
+permalink: "/blog/london-bridges-the-old-new/"
 categories:
 - blog
 - Green London

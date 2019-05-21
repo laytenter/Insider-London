@@ -1,7 +1,7 @@
 ---
 title: Which Pub Is Really The Oldest In London?
 date: 2017-05-31 09:54:00 Z
-permalink: "/which-pub-really-the-oldest-in-london-private-tours-london/"
+permalink: "/blog/which-pub-really-the-oldest-in-london-private-tours-london/"
 categories:
 - blog
 tags:

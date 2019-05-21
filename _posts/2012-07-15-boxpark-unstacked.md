@@ -1,7 +1,7 @@
 ---
 title: Boxpark Unstacked
 date: 2012-07-15 14:06:30 Z
-permalink: "/boxpark-unstacked/"
+permalink: "/blog/boxpark-unstacked/"
 categories:
 - blog
 - Green London

@@ -1,7 +1,7 @@
 ---
 title: Will You Get Involved With London Beer Week?
 date: 2018-03-07 08:52:00 Z
-permalink: "/london-beer-week-2018/"
+permalink: "/blog/london-beer-week-2018/"
 description: Sort yourself out with a London pub tour in time for the amazing London
   Beer Week in March. Get the scoop on the Insider London blog now. Cheers, one and
   all!

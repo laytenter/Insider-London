@@ -1,7 +1,7 @@
 ---
 title: An interview with an Insider London Tour Guide, Tony Sweet
 date: 2016-06-12 19:31:24 Z
-permalink: "/an-interview-with-an-insider-london-tour-guide-tony-sweet/"
+permalink: "/blog/an-interview-with-an-insider-london-tour-guide-tony-sweet/"
 categories:
 - blog
 layout: post

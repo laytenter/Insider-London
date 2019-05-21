@@ -1,7 +1,7 @@
 ---
 title: London picks in the Sustainable Restaurant Awards 2015
 date: 2015-02-09 10:37:09 Z
-permalink: "/the-sustainable-restaurant-awards-2015/"
+permalink: "/blog/the-sustainable-restaurant-awards-2015/"
 categories:
 - blog
 - Food and drink

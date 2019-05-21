@@ -1,7 +1,7 @@
 ---
 title: Green London Cabs
 date: 2012-11-15 16:57:48 Z
-permalink: "/green-london-cabs/"
+permalink: "/blog/green-london-cabs/"
 categories:
 - blog
 - Green London
@@ -16,6 +16,7 @@ id: 2496
 author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=2496
+noindex: 1
 ---
 
 [<img class="alignnone  wp-image-2498" src="/wp-content/uploads/2012/11/Green-tomato-cabs-1024x662.jpg" alt="" width="569" height="400" />](/wp-content/uploads/2012/11/Green-tomato-cabs.jpg)

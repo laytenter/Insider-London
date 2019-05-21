@@ -1,7 +1,7 @@
 ---
 title: Around the World in 80 Minutes &#8211; Portuguese Fish
 date: 2012-07-17 13:54:22 Z
-permalink: "/around-world-80-minutes-portuguese-fish/"
+permalink: "/blog/around-world-80-minutes-portuguese-fish/"
 categories:
 - blog
 - Around the World in 80 Minutes

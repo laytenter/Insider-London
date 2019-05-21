@@ -1,7 +1,7 @@
 ---
 title: Silicon Roundabout – Racing Ahead
 date: 2014-02-03 20:09:23 Z
-permalink: "/silicon-roundabout-racing-ahead/"
+permalink: "/blog/silicon-roundabout-racing-ahead/"
 categories:
 - blog
 - East London

@@ -1,7 +1,7 @@
 ---
 title: London&#8217;s Book Bench Art
 date: 2014-07-04 11:30:18 Z
-permalink: "/londons-book-bench-art/"
+permalink: "/blog/londons-book-bench-art/"
 categories:
 - blog
 - London Street Art &amp; Graffiti

@@ -1,7 +1,7 @@
 ---
 title: What to do in London on a May bank Holiday
 date: 2016-03-27 22:00:24 Z
-permalink: "/what-to-do-in-london-on-a-may-bank-holiday/"
+permalink: "/blog/what-to-do-in-london-on-a-may-bank-holiday/"
 categories:
 - blog
 layout: post

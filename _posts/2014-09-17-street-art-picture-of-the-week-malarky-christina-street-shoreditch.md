@@ -1,7 +1,7 @@
 ---
 title: 'Street Art Picture of the Week: Malarky, Christina Street Shoreditch'
 date: 2014-09-17 11:30:39 Z
-permalink: "/street-art-picture-of-the-week-malarky-christina-street-shoreditch/"
+permalink: "/blog/street-art-picture-of-the-week-malarky-christina-street-shoreditch/"
 categories:
 - blog
 - East London

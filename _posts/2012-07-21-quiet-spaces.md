@@ -1,7 +1,7 @@
 ---
 title: Quiet Spaces in London
 date: 2012-07-21 10:43:24 Z
-permalink: "/quiet-spaces/"
+permalink: "/blog/quiet-spaces/"
 categories:
 - blog
 - Quirky, weird and bizarre London

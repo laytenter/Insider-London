@@ -1,7 +1,7 @@
 ---
 title: 'Street Art Pictures of the Week: Are you ready for your close-up?'
 date: 2014-12-17 10:30:52 Z
-permalink: "/street-art-pictures-of-the-week-are-you-ready-for-your-close-up/"
+permalink: "/blog/street-art-pictures-of-the-week-are-you-ready-for-your-close-up/"
 categories:
 - blog
 - East London

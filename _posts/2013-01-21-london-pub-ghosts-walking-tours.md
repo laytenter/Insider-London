@@ -1,7 +1,7 @@
 ---
 title: London Loo Horror!&#8230; is it safe to spend a penny?
 date: 2013-01-21 16:49:18 Z
-permalink: "/london-pub-ghosts-walking-tours/"
+permalink: "/blog/london-pub-ghosts-walking-tours/"
 categories:
 - blog
 - London Pubs and nights out

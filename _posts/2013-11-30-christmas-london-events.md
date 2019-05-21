@@ -1,7 +1,7 @@
 ---
 title: 25 Wonderful London Events for Christmas
 date: 2013-11-30 10:56:06 Z
-permalink: "/christmas-london-events/"
+permalink: "/blog/christmas-london-events/"
 categories:
 - blog
 - Other

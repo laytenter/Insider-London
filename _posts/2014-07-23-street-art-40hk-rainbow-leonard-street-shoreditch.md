@@ -1,7 +1,7 @@
 ---
 title: 'Street Art Picture of the Week: 40HK&#8217;s Rainbow, Shoreditch'
 date: 2014-07-23 11:30:55 Z
-permalink: "/street-art-40hk-rainbow-leonard-street-shoreditch/"
+permalink: "/blog/street-art-40hk-rainbow-leonard-street-shoreditch/"
 categories:
 - blog
 - East London
@@ -16,13 +16,14 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=15476
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
+noindex: 1
 ---
 
 <p style="text-align: center;">

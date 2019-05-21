@@ -1,7 +1,7 @@
 ---
 title: 'January on the Insider London blog: What You May Have Missed'
 date: 2015-02-02 10:30:22 Z
-permalink: "/january-on-the-insider-london-blog-what-you-may-have-missed/"
+permalink: "/blog/january-on-the-insider-london-blog-what-you-may-have-missed/"
 categories:
 - blog
 - Food and drink

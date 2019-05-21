@@ -1,7 +1,7 @@
 ---
 title: 'Saber: The Ugly American'
 date: 2014-02-12 09:00:19 Z
-permalink: "/saber-the-ugly-american/"
+permalink: "/blog/saber-the-ugly-american/"
 categories:
 - blog
 - London Street Art &amp; Graffiti
@@ -9,6 +9,7 @@ id: 13905
 author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=13905
+noindex: 1
 ---
 
 [<img class="alignnone size-full wp-image-13910" alt="Saber Ugly American Front" src="/wp-content/uploads/2014/02/Saber-Ugly-American-Front.jpg" width="569" height="379" />](/wp-content/uploads/2014/02/Saber-Ugly-American-Front.jpg)

@@ -1,7 +1,7 @@
 ---
 title: Win! A Copy of CitySketch London!
 date: 2014-09-01 10:30:43 Z
-permalink: "/win-a-copy-of-citysketch-london/"
+permalink: "/blog/win-a-copy-of-citysketch-london/"
 categories:
 - blog
 - Other

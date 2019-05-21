@@ -1,7 +1,7 @@
 ---
 title: 'The Battle of Cable Street: The Day that East London Defeated Fascism'
 date: 2013-05-21 15:06:14 Z
-permalink: "/cable-street-east-london-history-fascism/"
+permalink: "/blog/cable-street-east-london-history-fascism/"
 categories:
 - blog
 - East London

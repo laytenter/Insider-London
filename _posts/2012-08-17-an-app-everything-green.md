@@ -1,7 +1,7 @@
 ---
 title: An App for Everything Green
 date: 2012-08-17 09:07:58 Z
-permalink: "/an-app-everything-green/"
+permalink: "/blog/an-app-everything-green/"
 categories:
 - blog
 - Green London

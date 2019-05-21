@@ -1,7 +1,7 @@
 ---
 title: The Lord Mayor of London
 date: 2016-12-15 17:54:00 Z
-permalink: "/lord-mayor-of-london/"
+permalink: "/blog/lord-mayor-of-london/"
 layout: post
 ---
 

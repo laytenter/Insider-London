@@ -1,7 +1,7 @@
 ---
 title: Life after retirement, exploring London
 date: 2016-05-30 15:56:24 Z
-permalink: "/life-after-retirement-exploring-london/"
+permalink: "/blog/life-after-retirement-exploring-london/"
 categories:
 - blog
 layout: post

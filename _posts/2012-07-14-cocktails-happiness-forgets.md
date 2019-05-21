@@ -1,7 +1,7 @@
 ---
 title: Cocktails at Happiness Forgets
 date: 2012-07-14 10:23:24 Z
-permalink: "/cocktails-happiness-forgets/"
+permalink: "/blog/cocktails-happiness-forgets/"
 categories:
 - blog
 - London Pubs and nights out

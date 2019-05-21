@@ -1,8 +1,9 @@
 ---
 title: Chinese New Year in London
 date: 2017-01-05 20:26:00 Z
-permalink: "/chinese-new-year-london-2017/"
+permalink: "/blog/chinese-new-year-london-2017/"
 layout: post
+noindex: 1
 ---
 
 ![Untitled design-28.png](/uploads/Untitled%20design-28.png)

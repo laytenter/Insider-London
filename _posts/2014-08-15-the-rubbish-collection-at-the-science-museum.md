@@ -1,7 +1,7 @@
 ---
 title: The Rubbish Collection at the Science Museum
 date: 2014-08-15 11:30:48 Z
-permalink: "/the-rubbish-collection-at-the-science-museum/"
+permalink: "/blog/the-rubbish-collection-at-the-science-museum/"
 categories:
 - blog
 - Green London
@@ -15,13 +15,14 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=15818
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
+noindex: 1
 ---
 
 [<img class="aligncenter size-full wp-image-15833" src="/wp-content/uploads/2014/07/The_Rubbish_Collection_at_the_Science_Museum_C_Katherine_Lee-dale_mini.jpg" alt="The_Rubbish_Collection_at_the_Science_Museum_C_Katherine_Lee dale_mini" width="569" height="379" />](/wp-content/uploads/2014/07/The_Rubbish_Collection_at_the_Science_Museum_C_Katherine_Lee-dale_mini.jpg)

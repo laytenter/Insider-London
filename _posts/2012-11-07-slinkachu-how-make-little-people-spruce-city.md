@@ -1,7 +1,7 @@
 ---
 title: 'Slinkachu: How to Make Little People Spruce up the City'
 date: 2012-11-07 15:13:46 Z
-permalink: "/slinkachu-how-make-little-people-spruce-city/"
+permalink: "/blog/slinkachu-how-make-little-people-spruce-city/"
 categories:
 - blog
 - London Street Art &amp; Graffiti

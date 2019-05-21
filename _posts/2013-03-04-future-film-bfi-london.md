@@ -1,7 +1,7 @@
 ---
 title: 'The Future of British Film: Interview with Rob Savage'
 date: 2013-03-04 15:09:43 Z
-permalink: "/future-film-bfi-london/"
+permalink: "/blog/future-film-bfi-london/"
 categories:
 - blog
 - Quirky, weird and bizarre London
@@ -18,6 +18,7 @@ id: 4486
 author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=4486
+noindex: 1
 ---
 
 <img class="aligncenter size-full wp-image-4584" alt="Strings" src="/wp-content/uploads/2013/02/Strings.jpg" />

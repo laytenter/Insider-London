@@ -1,7 +1,7 @@
 ---
 title: Get back to nature at London&#8217;s autumnal campsite
 date: 2012-10-26 13:45:52 Z
-permalink: "/london-attraction-campsite-natural-history-museum/"
+permalink: "/blog/london-attraction-campsite-natural-history-museum/"
 categories:
 - blog
 - Green London

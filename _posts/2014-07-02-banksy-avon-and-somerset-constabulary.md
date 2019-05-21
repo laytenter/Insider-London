@@ -1,7 +1,7 @@
 ---
 title: 'Street Art Picture of the Week: Banksy&#8217;s Avon and Somerset Constabulary'
 date: 2014-07-02 11:30:21 Z
-permalink: "/banksy-avon-and-somerset-constabulary/"
+permalink: "/blog/banksy-avon-and-somerset-constabulary/"
 categories:
 - blog
 - London Street Art &amp; Graffiti

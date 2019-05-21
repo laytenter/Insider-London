@@ -1,7 +1,7 @@
 ---
 title: Antique x Ben Slow Collaboration
 date: 2014-01-17 10:00:22 Z
-permalink: "/antique-x-ben-slow-collaboration/"
+permalink: "/blog/antique-x-ben-slow-collaboration/"
 categories:
 - blog
 - London Street Art &amp; Graffiti

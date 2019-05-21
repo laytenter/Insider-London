@@ -1,7 +1,7 @@
 ---
 title: London Underground Competition
 date: 2012-12-06 15:59:50 Z
-permalink: "/london-underground-competition-tours/"
+permalink: "/blog/london-underground-competition-tours/"
 categories:
 - blog
 - London Underground/Tube

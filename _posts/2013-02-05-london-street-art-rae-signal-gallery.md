@@ -1,7 +1,7 @@
 ---
 title: East London street art &#8211; RAE exhibition @ Signal Gallery
 date: 2013-02-05 14:16:26 Z
-permalink: "/london-street-art-rae-signal-gallery/"
+permalink: "/blog/london-street-art-rae-signal-gallery/"
 categories:
 - blog
 - East London

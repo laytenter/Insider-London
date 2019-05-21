@@ -1,7 +1,7 @@
 ---
 title: Ben Slow x Antique Competition Winner
 date: 2014-02-21 12:57:13 Z
-permalink: "/ben-slow-x-antique-competition-winner/"
+permalink: "/blog/ben-slow-x-antique-competition-winner/"
 categories:
 - blog
 - London Street Art &amp; Graffiti

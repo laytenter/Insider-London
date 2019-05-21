@@ -1,7 +1,7 @@
 ---
 title: Going Underground
 date: 2014-12-19 10:30:49 Z
-permalink: "/going-underground/"
+permalink: "/blog/going-underground/"
 categories:
 - blog
 - Food and drink

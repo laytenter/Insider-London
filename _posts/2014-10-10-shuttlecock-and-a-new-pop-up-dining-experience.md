@@ -1,7 +1,7 @@
 ---
 title: Shuttlecock and A New Pop-Up Dining Experience
 date: 2014-10-10 10:30:06 Z
-permalink: "/shuttlecock-and-a-new-pop-up-dining-experience/"
+permalink: "/blog/shuttlecock-and-a-new-pop-up-dining-experience/"
 categories:
 - blog
 - Food and drink

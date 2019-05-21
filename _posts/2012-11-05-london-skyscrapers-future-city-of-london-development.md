@@ -1,7 +1,7 @@
 ---
 title: 'Future London: Tall towers and the City'
 date: 2012-11-05 12:53:40 Z
-permalink: "/london-skyscrapers-future-city-of-london-development/"
+permalink: "/blog/london-skyscrapers-future-city-of-london-development/"
 categories:
 - blog
 - Modern Architecture

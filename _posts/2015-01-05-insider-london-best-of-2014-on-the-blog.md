@@ -1,7 +1,7 @@
 ---
 title: 'Insider London: Best of 2014 on the blog'
 date: 2015-01-05 10:30:09 Z
-permalink: "/insider-london-best-of-2014-on-the-blog/"
+permalink: "/blog/insider-london-best-of-2014-on-the-blog/"
 categories:
 - blog
 - East London

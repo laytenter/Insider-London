@@ -1,7 +1,7 @@
 ---
 title: The View from the Shard
 date: 2013-01-25 17:35:49 Z
-permalink: "/shard-view-london-tours/"
+permalink: "/blog/shard-view-london-tours/"
 categories:
 - blog
 - Modern Architecture

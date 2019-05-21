@@ -1,7 +1,7 @@
 ---
 title: All Together Now! Jamie Oliver’s new Great British chain unleashed.
 date: 2012-07-20 15:11:51 Z
-permalink: "/all-together-now-jamie-olivers-new-great-british-chain-unleashed/"
+permalink: "/blog/all-together-now-jamie-olivers-new-great-british-chain-unleashed/"
 categories:
 - blog
 - London Pubs and nights out

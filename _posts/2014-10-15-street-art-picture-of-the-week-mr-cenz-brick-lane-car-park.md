@@ -1,7 +1,7 @@
 ---
 title: 'Street Art Picture of the Week: Mr Cenz, Brick Lane car park'
 date: 2014-10-15 10:30:03 Z
-permalink: "/street-art-picture-of-the-week-mr-cenz-brick-lane-car-park/"
+permalink: "/blog/street-art-picture-of-the-week-mr-cenz-brick-lane-car-park/"
 categories:
 - blog
 - East London

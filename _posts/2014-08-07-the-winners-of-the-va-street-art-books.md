@@ -1,7 +1,7 @@
 ---
 title: The winners of the V&#038;A Street Art books!
 date: 2014-08-07 08:05:20 Z
-permalink: "/the-winners-of-the-va-street-art-books/"
+permalink: "/blog/the-winners-of-the-va-street-art-books/"
 categories:
 - blog
 - London Street Art &amp; Graffiti

@@ -1,7 +1,7 @@
 ---
 title: 'Beneath the Surface: Exploring Hidden London'
 date: 2014-07-21 12:00:20 Z
-permalink: "/exploring-beneath-londons-surface/"
+permalink: "/blog/exploring-beneath-londons-surface/"
 categories:
 - blog
 - London Underground/Tube

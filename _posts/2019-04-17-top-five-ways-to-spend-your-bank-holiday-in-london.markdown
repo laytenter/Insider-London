@@ -1,7 +1,7 @@
 ---
 title: Top 5 ways to spend your bank holiday in London!
 date: 2019-04-17 12:39:00 Z
-permalink: "/top-five-ways-to-spend-your-bank-holiday-in-london/"
+permalink: "/blog/top-five-ways-to-spend-your-bank-holiday-in-london/"
 layout: post
 ---
 

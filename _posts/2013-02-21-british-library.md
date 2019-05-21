@@ -1,7 +1,7 @@
 ---
 title: Spring Festival 2013 at the British Library
 date: 2013-02-21 14:30:51 Z
-permalink: "/british-library/"
+permalink: "/blog/british-library/"
 categories:
 - blog
 - Quirky, weird and bizarre London

@@ -1,7 +1,7 @@
 ---
 title: Five Places to See Street Art in London
 date: 2019-04-04 15:09:00 Z
-permalink: "/five-place-to-see-street-art-in-london/"
+permalink: "/blog/five-place-to-see-street-art-in-london/"
 heading: Five Places to See Street Art in London
 layout: post
 ---

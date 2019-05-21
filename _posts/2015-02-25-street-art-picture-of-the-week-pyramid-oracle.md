@@ -1,7 +1,7 @@
 ---
 title: 'Street Art Picture of the Week: Pyramid Oracle'
 date: 2015-02-25 10:30:48 Z
-permalink: "/street-art-picture-of-the-week-pyramid-oracle/"
+permalink: "/blog/street-art-picture-of-the-week-pyramid-oracle/"
 categories:
 - blog
 - East London

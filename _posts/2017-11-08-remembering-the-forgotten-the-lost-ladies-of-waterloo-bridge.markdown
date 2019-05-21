@@ -2,7 +2,7 @@
 title: 'Remembering the Forgotten: The Lost Ladies of Waterloo Bridge | Remembrance
   Day'
 date: 2017-11-08 14:00:00 Z
-permalink: "/remembrance-day-2017/"
+permalink: "/blog/remembrance-day-2017/"
 tags:
 - historical
 description: Legend is, there were 25,000 female construction workers working on Waterloo

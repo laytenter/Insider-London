@@ -2,7 +2,7 @@
 title: 'Street Art Pictures of the Week: Jim &#8216;Probs&#8217; Vision and the End
   of the Line crew'
 date: 2014-11-26 10:30:35 Z
-permalink: "/street-art-pictures-of-the-week-jim-probs-vision-and-the-end-of-the-line-collective/"
+permalink: "/blog/street-art-pictures-of-the-week-jim-probs-vision-and-the-end-of-the-line-collective/"
 categories:
 - blog
 - East London

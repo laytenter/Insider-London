@@ -1,7 +1,7 @@
 ---
 title: 'Street Art Picture of the Week: Unga and INSA'
 date: 2014-10-08 10:30:55 Z
-permalink: "/street-art-picture-of-the-week-unga-and-insa/"
+permalink: "/blog/street-art-picture-of-the-week-unga-and-insa/"
 categories:
 - blog
 - East London

@@ -1,7 +1,7 @@
 ---
 title: Win a copy of Street Art by Riika Kuittinen!
 date: 2014-08-04 09:57:23 Z
-permalink: "/win-a-copy-of-street-art-by-riika-kuittinen/"
+permalink: "/blog/win-a-copy-of-street-art-by-riika-kuittinen/"
 categories:
 - blog
 - London Street Art &amp; Graffiti

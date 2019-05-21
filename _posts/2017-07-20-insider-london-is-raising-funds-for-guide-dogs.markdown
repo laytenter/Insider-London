@@ -1,7 +1,7 @@
 ---
 title: Insider London is raising funds for Guide Dogs
 date: 2017-07-20 20:17:00 Z
-permalink: "/insider-london-is-raising-funds-for-guide-dogs/"
+permalink: "/blog/insider-london-is-raising-funds-for-guide-dogs/"
 layout: post
 ---
 

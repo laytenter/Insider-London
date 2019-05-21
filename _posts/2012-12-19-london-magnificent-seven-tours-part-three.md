@@ -1,7 +1,7 @@
 ---
 title: 'London&#8217;s Magnificent Seven Victorian Cemeteries: the Low-Down Part 2'
 date: 2012-12-19 15:07:44 Z
-permalink: "/london-magnificent-seven-tours-part-three/"
+permalink: "/blog/london-magnificent-seven-tours-part-three/"
 categories:
 - blog
 - Green London

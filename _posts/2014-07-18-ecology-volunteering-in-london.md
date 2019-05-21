@@ -1,7 +1,7 @@
 ---
 title: Ecology Volunteering in London
 date: 2014-07-18 11:30:54 Z
-permalink: "/ecology-volunteering-in-london/"
+permalink: "/blog/ecology-volunteering-in-london/"
 categories:
 - blog
 - Green London

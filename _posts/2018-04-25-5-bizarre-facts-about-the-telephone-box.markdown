@@ -1,7 +1,7 @@
 ---
 title: 5 Bizarre Facts about the Telephone Box
 date: 2018-04-25 09:14:00 Z
-permalink: "/5-Bizarre-Facts-about-the-Telephone-Box/"
+permalink: "/blog/5-Bizarre-Facts-about-the-Telephone-Box/"
 description: When Sir Giles Gilbert Scott won a design competition in 1924, he surely
   had no idea his K2 would evolve into such a classic British icon. Almost 100 years
   later it remains close to the heart of the public and to the camera lenses of tourists!

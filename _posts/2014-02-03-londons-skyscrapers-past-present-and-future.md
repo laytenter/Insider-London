@@ -1,7 +1,7 @@
 ---
 title: London’s Skyscrapers – Past Present and Future
 date: 2014-02-03 19:57:44 Z
-permalink: "/londons-skyscrapers-past-present-and-future/"
+permalink: "/blog/londons-skyscrapers-past-present-and-future/"
 categories:
 - blog
 - Modern Architecture

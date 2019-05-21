@@ -1,7 +1,7 @@
 ---
 title: 'Sipsmith: converting gin drinkers one sip at a time'
 date: 2012-11-19 15:37:12 Z
-permalink: "/sipsmith_london_gin_drinking_distillers/"
+permalink: "/blog/sipsmith_london_gin_drinking_distillers/"
 categories:
 - blog
 - Quirky, weird and bizarre London

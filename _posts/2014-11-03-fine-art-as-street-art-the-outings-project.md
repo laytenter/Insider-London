@@ -1,7 +1,7 @@
 ---
 title: 'Fine Art as Street Art: The Outings Project'
 date: 2014-11-03 09:00:36 Z
-permalink: "/fine-art-as-street-art-the-outings-project/"
+permalink: "/blog/fine-art-as-street-art-the-outings-project/"
 categories:
 - blog
 - London Street Art &amp; Graffiti

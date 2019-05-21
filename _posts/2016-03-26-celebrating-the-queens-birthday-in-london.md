@@ -1,7 +1,7 @@
 ---
 title: Celebrating the Queen's Birthday in London
 date: 2016-03-26 20:49:24 Z
-permalink: "/celebrating-the-queens-birthday-in-london/"
+permalink: "/blog/celebrating-the-queens-birthday-in-london/"
 categories:
 - blog
 layout: post

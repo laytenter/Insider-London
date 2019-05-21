@@ -1,7 +1,7 @@
 ---
 title: 'Street Art Picture of the Week: Lints, Ravey Street'
 date: 2015-02-18 10:30:49 Z
-permalink: "/street-art-picture-of-the-week-lints-ravey-street/"
+permalink: "/blog/street-art-picture-of-the-week-lints-ravey-street/"
 categories:
 - blog
 - East London

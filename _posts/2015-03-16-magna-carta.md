@@ -1,7 +1,7 @@
 ---
 title: 'Quirky London: King John&#8217;s Teeth and the Magna Carta'
 date: 2015-03-16 10:30:13 Z
-permalink: "/magna-carta/"
+permalink: "/blog/magna-carta/"
 categories:
 - blog
 - Other

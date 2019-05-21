@@ -1,7 +1,7 @@
 ---
 title: London street art in a sweet shop?
 date: 2013-04-08 14:11:07 Z
-permalink: "/zeus-london-street-art/"
+permalink: "/blog/zeus-london-street-art/"
 categories:
 - blog
 - London Street Art &amp; Graffiti

@@ -1,7 +1,7 @@
 ---
 title: 'Ritzy Cinema in Brixton: A Blend of Old and New'
 date: 2013-06-03 13:52:55 Z
-permalink: "/brixton-ritzy-cinema-london-tours/"
+permalink: "/blog/brixton-ritzy-cinema-london-tours/"
 categories:
 - blog
 - London Pubs and nights out

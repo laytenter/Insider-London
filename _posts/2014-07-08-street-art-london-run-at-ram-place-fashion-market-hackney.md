@@ -1,7 +1,7 @@
 ---
 title: 'Street Art Picture of the Week: RUN at Ram Place Fashion Market, Hackney'
 date: 2014-07-08 14:30:07 Z
-permalink: "/street-art-london-run-at-ram-place-fashion-market-hackney/"
+permalink: "/blog/street-art-london-run-at-ram-place-fashion-market-hackney/"
 categories:
 - blog
 - East London

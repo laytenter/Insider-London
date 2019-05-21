@@ -1,7 +1,7 @@
 ---
 title: The Opening of the Walkie Talkie Sky Garden
 date: 2015-01-09 10:30:14 Z
-permalink: "/the-opening-of-the-walkie-talkie-sky-garden/"
+permalink: "/blog/the-opening-of-the-walkie-talkie-sky-garden/"
 categories:
 - blog
 - Modern Architecture

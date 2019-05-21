@@ -1,7 +1,7 @@
 ---
 title: Ghosts on the London Underground – The Screaming Spectre on the London Underground
 date: 2013-05-15 14:41:25 Z
-permalink: "/ghosts-on-the-london-underground/"
+permalink: "/blog/ghosts-on-the-london-underground/"
 categories:
 - blog
 - London Underground/Tube

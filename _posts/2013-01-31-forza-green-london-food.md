@@ -1,7 +1,7 @@
 ---
 title: Forza Win(ter)
 date: 2013-01-31 10:56:53 Z
-permalink: "/forza-green-london-food/"
+permalink: "/blog/forza-green-london-food/"
 categories:
 - blog
 - East London

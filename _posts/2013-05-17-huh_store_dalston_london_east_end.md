@@ -1,7 +1,7 @@
 ---
 title: 'HUH Store: Dalston Insider'
 date: 2013-05-17 14:30:47 Z
-permalink: "/huh_store_dalston_london_east_end/"
+permalink: "/blog/huh_store_dalston_london_east_end/"
 categories:
 - blog
 - East London

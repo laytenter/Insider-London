@@ -1,7 +1,7 @@
 ---
 title: 'Street Art Picture of the Week: Stik and Otto Schade, Shoreditch'
 date: 2015-03-04 10:30:18 Z
-permalink: "/street-art-picture-of-the-week-stik-and-otto-schade-shoreditch/"
+permalink: "/blog/street-art-picture-of-the-week-stik-and-otto-schade-shoreditch/"
 categories:
 - blog
 - Food and drink

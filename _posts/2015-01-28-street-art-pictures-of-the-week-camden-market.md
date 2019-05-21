@@ -1,7 +1,7 @@
 ---
 title: 'Street Art Pictures of the Week: Camden Market'
 date: 2015-01-28 10:30:10 Z
-permalink: "/street-art-pictures-of-the-week-camden-market/"
+permalink: "/blog/street-art-pictures-of-the-week-camden-market/"
 categories:
 - blog
 - London Street Art &amp; Graffiti

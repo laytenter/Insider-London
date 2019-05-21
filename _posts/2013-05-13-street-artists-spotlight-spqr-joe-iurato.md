@@ -1,7 +1,7 @@
 ---
 title: Street Artist&#8217;s Spotlight &#8211; SPQR &#038; Joe Iurato
 date: 2013-05-13 11:23:55 Z
-permalink: "/street-artists-spotlight-spqr-joe-iurato/"
+permalink: "/blog/street-artists-spotlight-spqr-joe-iurato/"
 categories:
 - blog
 - East London

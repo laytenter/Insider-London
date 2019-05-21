@@ -1,7 +1,7 @@
 ---
 title: Insider London&#8217;s Best of the London Underground and Tube
 date: 2014-11-21 10:30:41 Z
-permalink: "/insider-londons-best-of-the-london-underground-and-tube/"
+permalink: "/blog/insider-londons-best-of-the-london-underground-and-tube/"
 categories:
 - blog
 - London Underground/Tube

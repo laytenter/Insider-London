@@ -2,7 +2,7 @@
 title: 'From whitewash etchings to yarn bombing: The many forms of London&#8217;s
   Street Art'
 date: 2014-06-06 10:30:18 Z
-permalink: "/the-many-forms-of-street-art/"
+permalink: "/blog/the-many-forms-of-street-art/"
 categories:
 - blog
 - London Street Art &amp; Graffiti

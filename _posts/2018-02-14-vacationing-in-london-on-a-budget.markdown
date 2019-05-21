@@ -1,7 +1,7 @@
 ---
 title: Vacationing in London on a Budget
 date: 2018-02-14 14:08:00 Z
-permalink: "/London-vacation-on-a-budget/"
+permalink: "/blog/London-vacation-on-a-budget/"
 description: London is a beautiful city, but it isn’t a cheap one. But with proper
   planning, you can make your trip downtown both affordable and unforgettable. Here
   are our tips.

@@ -1,7 +1,7 @@
 ---
 title: London Street Art &#8211; C215 interview
 date: 2013-03-07 11:59:19 Z
-permalink: "/london-street-art-interview-c215/"
+permalink: "/blog/london-street-art-interview-c215/"
 categories:
 - blog
 - East London

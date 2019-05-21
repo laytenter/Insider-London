@@ -1,7 +1,7 @@
 ---
 title: 'The Gherkin Up Close: Ten Great Facts'
 date: 2015-01-30 10:30:06 Z
-permalink: "/the-gherkin-up-close-ten-great-facts/"
+permalink: "/blog/the-gherkin-up-close-ten-great-facts/"
 tags:
 - modern architecture
 id: 24584

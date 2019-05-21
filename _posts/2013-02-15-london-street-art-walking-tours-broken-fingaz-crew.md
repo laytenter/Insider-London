@@ -1,7 +1,7 @@
 ---
 title: London street art &#8211; Broken Fingaz Crew interview
 date: 2013-02-15 15:09:26 Z
-permalink: "/london-street-art-walking-tours-broken-fingaz-crew/"
+permalink: "/blog/london-street-art-walking-tours-broken-fingaz-crew/"
 categories:
 - blog
 - East London

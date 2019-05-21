@@ -1,7 +1,7 @@
 ---
 title: 'Silicon Roundabout: Operating Upgrade'
 date: 2014-12-05 10:30:26 Z
-permalink: "/silicon-roundabout-operating-upgrade/"
+permalink: "/blog/silicon-roundabout-operating-upgrade/"
 categories:
 - blog
 - East London

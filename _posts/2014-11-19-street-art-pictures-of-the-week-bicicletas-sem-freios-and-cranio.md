@@ -1,7 +1,7 @@
 ---
 title: 'Street Art Pictures of the Week: Bicicleta Sem Freio and Cranio'
 date: 2014-11-19 10:30:32 Z
-permalink: "/street-art-pictures-of-the-week-bicicletas-sem-freios-and-cranio/"
+permalink: "/blog/street-art-pictures-of-the-week-bicicletas-sem-freios-and-cranio/"
 categories:
 - blog
 - East London

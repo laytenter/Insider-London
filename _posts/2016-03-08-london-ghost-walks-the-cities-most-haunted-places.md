@@ -1,7 +1,7 @@
 ---
 title: London Ghost Walks - The City's Most Haunted Places
 date: 2016-03-08 20:29:24 Z
-permalink: "/london-ghost-walks-the-cities-most-haunted-places/"
+permalink: "/blog/london-ghost-walks-the-cities-most-haunted-places/"
 categories:
 - blog
 layout: post

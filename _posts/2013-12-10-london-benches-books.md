@@ -1,7 +1,7 @@
 ---
 title: Art Project to Turn London Benches into Books
 date: 2013-12-10 14:08:49 Z
-permalink: "/london-benches-books/"
+permalink: "/blog/london-benches-books/"
 categories:
 - blog
 - London Street Art &amp; Graffiti

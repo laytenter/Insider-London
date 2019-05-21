@@ -1,7 +1,7 @@
 ---
 title: Street Artist Spotlight &#8211; Thierry Noir
 date: 2013-04-29 11:53:57 Z
-permalink: "/street-art-spotlight-thierry-noir/"
+permalink: "/blog/street-art-spotlight-thierry-noir/"
 categories:
 - blog
 - East London

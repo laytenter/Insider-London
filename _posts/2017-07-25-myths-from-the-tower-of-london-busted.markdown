@@ -1,7 +1,7 @@
 ---
 title: Myths From The Tower Of London Busted
 date: 2017-07-25 11:49:00 Z
-permalink: "/myths-from-the-tower-of-london-busted-ghost-tours-london/"
+permalink: "/blog/myths-from-the-tower-of-london-busted-ghost-tours-london/"
 categories:
 - blog
 tags:

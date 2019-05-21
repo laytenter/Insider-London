@@ -1,7 +1,7 @@
 ---
 title: 10 Unusual Forms of London Transport
 date: 2015-03-26 10:30:12 Z
-permalink: "/10-unusual-forms-of-london-transport/"
+permalink: "/blog/10-unusual-forms-of-london-transport/"
 categories:
 - blog
 - East London

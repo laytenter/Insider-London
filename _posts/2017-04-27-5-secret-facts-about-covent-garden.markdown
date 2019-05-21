@@ -1,7 +1,7 @@
 ---
 title: 5 Secret Facts About Covent Garden
 date: 2017-04-27 21:09:00 Z
-permalink: "/5-secret-facts-about-covent-garden/"
+permalink: "/blog/5-secret-facts-about-covent-garden/"
 layout: post
 ---
 

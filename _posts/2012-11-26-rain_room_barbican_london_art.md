@@ -1,7 +1,7 @@
 ---
 title: 'Rain Room: a surreal opportunity to control the elements'
 date: 2012-11-26 17:14:49 Z
-permalink: "/rain_room_barbican_london_art/"
+permalink: "/blog/rain_room_barbican_london_art/"
 categories:
 - blog
 - Quirky, weird and bizarre London

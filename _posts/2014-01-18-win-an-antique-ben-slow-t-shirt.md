@@ -1,7 +1,7 @@
 ---
 title: Win an Antique x Ben Slow T-Shirt!
 date: 2014-01-18 10:00:26 Z
-permalink: "/win-an-antique-ben-slow-t-shirt/"
+permalink: "/blog/win-an-antique-ben-slow-t-shirt/"
 categories:
 - blog
 - London Street Art &amp; Graffiti

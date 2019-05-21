@@ -1,7 +1,7 @@
 ---
 title: London Olympics Legacy &#8211; a few easy steps to an eco capital
 date: 2012-11-20 16:00:36 Z
-permalink: "/green-london-olympics-legacy/"
+permalink: "/blog/green-london-olympics-legacy/"
 categories:
 - blog
 - East London

@@ -1,7 +1,7 @@
 ---
 title: 'The Knowledge: Your Cabby&#8217;s Brain on London'
 date: 2012-08-17 10:17:59 Z
-permalink: "/the-knowledge-your-cabbys-brain-london/"
+permalink: "/blog/the-knowledge-your-cabbys-brain-london/"
 categories:
 - blog
 - Quirky, weird and bizarre London

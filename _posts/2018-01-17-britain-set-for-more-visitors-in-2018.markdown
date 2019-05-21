@@ -1,7 +1,7 @@
 ---
 title: Britain Set For More Visitors In 2018
 date: 2018-01-17 10:57:00 Z
-permalink: "/britain-more-visitors-2018/"
+permalink: "/blog/britain-more-visitors-2018/"
 description: 'There might be quite the few people looking for London history tours
   in 2018: VisitBritain sees the country set for more visitors this year.'
 layout: post

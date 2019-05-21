@@ -1,7 +1,7 @@
 ---
 title: 'Insider Interview: Olivia Ahmad of The House of Illustration'
 date: 2014-07-25 11:30:26 Z
-permalink: "/the-house-of-illustration-kings-cross/"
+permalink: "/blog/the-house-of-illustration-kings-cross/"
 categories:
 - blog
 - Kings Cross regeneration

@@ -2,7 +2,7 @@
 title: 'Street Art Picture of the Week: Sculptural street art from Ronzo and CityZen
   Kane'
 date: 2015-01-07 10:30:04 Z
-permalink: "/street-art-picture-of-the-week-sculptural-street-art-from-ronzo-and-cityzen-kane/"
+permalink: "/blog/street-art-picture-of-the-week-sculptural-street-art-from-ronzo-and-cityzen-kane/"
 categories:
 - blog
 - East London

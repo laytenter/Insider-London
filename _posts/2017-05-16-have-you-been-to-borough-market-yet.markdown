@@ -1,7 +1,7 @@
 ---
 title: Have You Been To Borough Market Yet?
 date: 2017-05-16 09:48:00 Z
-permalink: "/have-you-been-to-borough-market-yet-guided-walks-london/"
+permalink: "/blog/have-you-been-to-borough-market-yet-guided-walks-london/"
 published: false
 categories:
 - blog

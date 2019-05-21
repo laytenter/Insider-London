@@ -1,7 +1,7 @@
 ---
 title: Inside five of London’s hidden rooftop gardens
 date: 2014-06-11 10:30:03 Z
-permalink: "/london-rooftop-gardens/"
+permalink: "/blog/london-rooftop-gardens/"
 categories:
 - blog
 - Green London

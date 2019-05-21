@@ -1,7 +1,7 @@
 ---
 title: 'Future London: The Age of the Skyscrapers'
 date: 2012-11-05 11:34:18 Z
-permalink: "/skyscrapers-london-development-future-central-london/"
+permalink: "/blog/skyscrapers-london-development-future-central-london/"
 categories:
 - blog
 - Modern Architecture

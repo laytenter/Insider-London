@@ -1,7 +1,7 @@
 ---
 title: The London Underground in 2014
 date: 2014-01-10 10:00:58 Z
-permalink: "/the-london-underground-2014/"
+permalink: "/blog/the-london-underground-2014/"
 categories:
 - blog
 - London Underground/Tube

@@ -1,7 +1,7 @@
 ---
 title: "\uFEFFLondon, City of Modern Architecture and Historic Sights"
 date: 2016-04-29 21:56:24 Z
-permalink: "/london-city-of-modern-architecture-and-historic-sights/"
+permalink: "/blog/london-city-of-modern-architecture-and-historic-sights/"
 categories:
 - blog
 layout: post

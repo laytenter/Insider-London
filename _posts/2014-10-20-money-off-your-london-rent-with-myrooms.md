@@ -1,7 +1,7 @@
 ---
 title: Money off your London rent with Myrooms
 date: 2014-10-20 10:30:59 Z
-permalink: "/money-off-your-london-rent-with-myrooms/"
+permalink: "/blog/money-off-your-london-rent-with-myrooms/"
 categories:
 - blog
 - Other

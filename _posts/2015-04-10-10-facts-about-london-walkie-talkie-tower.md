@@ -1,7 +1,7 @@
 ---
 title: 10 Great Facts about the Walkie-Talkie Tower
 date: 2015-04-10 09:55:33 Z
-permalink: "/10-facts-about-london-walkie-talkie-tower/"
+permalink: "/blog/10-facts-about-london-walkie-talkie-tower/"
 categories:
 - blog
 - East London

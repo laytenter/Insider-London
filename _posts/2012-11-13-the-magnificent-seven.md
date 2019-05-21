@@ -1,7 +1,7 @@
 ---
 title: The Magnificent Seven
 date: 2012-11-13 13:47:53 Z
-permalink: "/the-magnificent-seven/"
+permalink: "/blog/the-magnificent-seven/"
 categories:
 - blog
 - Quirky, weird and bizarre London

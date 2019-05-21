@@ -1,7 +1,7 @@
 ---
 title: Walkies! Great places to walk a dog in London
 date: 2012-09-19 13:06:34 Z
-permalink: "/walkies-great-places-walk-dog-london/"
+permalink: "/blog/walkies-great-places-walk-dog-london/"
 categories:
 - blog
 - Green London

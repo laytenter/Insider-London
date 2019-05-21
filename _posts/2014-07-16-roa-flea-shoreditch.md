@@ -1,7 +1,7 @@
 ---
 title: 'Street Art Picture of the Week: Roa''s flea, Shoreditch'
 date: 2014-07-16 11:30:00 Z
-permalink: "/roa-flea-shoreditch/"
+permalink: "/blog/roa-flea-shoreditch/"
 categories:
 - blog
 - East London

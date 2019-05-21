@@ -1,7 +1,7 @@
 ---
 title: High Line
 date: 2012-12-21 13:14:32 Z
-permalink: "/high-line-london-underground/"
+permalink: "/blog/high-line-london-underground/"
 categories:
 - blog
 - Green London

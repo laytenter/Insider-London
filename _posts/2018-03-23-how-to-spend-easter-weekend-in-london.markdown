@@ -1,7 +1,7 @@
 ---
 title: How To Spend Easter Weekend In London
 date: 2018-03-23 09:00:00 Z
-permalink: "/how-to-spend-easter-2018/"
+permalink: "/blog/how-to-spend-easter-2018/"
 description: All you need to know to keep amused on a London walking tour over Easter
   this year. Check out Peter Rabbit at Kew Gardens and lots more. See the blog now.
 layout: post

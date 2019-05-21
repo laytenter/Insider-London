@@ -1,7 +1,7 @@
 ---
 title: 5 Haunted Places In London You Pass Everyday!
 date: 2018-02-07 10:00:00 Z
-permalink: "/5-haunted-places-London/"
+permalink: "/blog/5-haunted-places-London/"
 tags:
 - ghost
 description: Ye Olde London Towne is believed to harbor a spookier side... but forget

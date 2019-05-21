@@ -1,7 +1,7 @@
 ---
 title: Did James Bond get lost on the Underground?
 date: 2012-11-01 12:10:23 Z
-permalink: "/james-bond-skyfall-london-underground-chase/"
+permalink: "/blog/james-bond-skyfall-london-underground-chase/"
 categories:
 - blog
 - London Underground/Tube

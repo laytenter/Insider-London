@@ -1,7 +1,7 @@
 ---
 title: The Paddington Trail
 date: 2014-11-28 00:01:09 Z
-permalink: "/the-paddington-trail/"
+permalink: "/blog/the-paddington-trail/"
 categories:
 - blog
 - London Underground/Tube

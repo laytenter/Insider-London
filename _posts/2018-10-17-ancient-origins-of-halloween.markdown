@@ -1,7 +1,7 @@
 ---
 title: Ancient Origins of Halloween
 date: 2018-10-17 10:50:00 Z
-permalink: "/ancient-origins-of-halloween/"
+permalink: "/blog/ancient-origins-of-halloween/"
 description: This halloween, we took a closer look at the ancient origins of this
   autumn festival to discover some surprising sources of today’s traditions.
 heading: Ancient Origins of Halloween

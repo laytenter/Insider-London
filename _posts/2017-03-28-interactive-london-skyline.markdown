@@ -1,7 +1,7 @@
 ---
 title: Interactive London Skyline
 date: 2017-03-28 19:12:00 Z
-permalink: "/interactive-london-skyline/"
+permalink: "/blog/interactive-london-skyline/"
 layout: post
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Quirky Underground Facts (part 2)
 date: 2013-11-19 12:34:28 Z
-permalink: "/london-underground-tube-tours-facts-part2/"
+permalink: "/blog/london-underground-tube-tours-facts-part2/"
 categories:
 - blog
 - London Underground/Tube

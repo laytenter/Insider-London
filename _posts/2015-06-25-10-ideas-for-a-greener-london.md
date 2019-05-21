@@ -1,7 +1,7 @@
 ---
 title: 10 Ideas for a Greener London
 date: 2015-06-25 11:57:28 Z
-permalink: "/10-ideas-for-a-greener-london/"
+permalink: "/blog/10-ideas-for-a-greener-london/"
 categories:
 - blog
 - Uncategorised

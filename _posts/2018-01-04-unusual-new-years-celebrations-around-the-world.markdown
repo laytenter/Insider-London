@@ -1,7 +1,7 @@
 ---
 title: Unusual New Year’s Celebrations around the World
 date: 2018-01-04 09:49:00 Z
-permalink: "/new-year-celebrations-around-the-world/"
+permalink: "/blog/new-year-celebrations-around-the-world/"
 tags:
 - historical
 - Quirky

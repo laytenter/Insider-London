@@ -1,7 +1,7 @@
 ---
 title: Mapping London
 date: 2014-08-29 11:30:51 Z
-permalink: "/mapping-london/"
+permalink: "/blog/mapping-london/"
 categories:
 - blog
 - London Underground/Tube

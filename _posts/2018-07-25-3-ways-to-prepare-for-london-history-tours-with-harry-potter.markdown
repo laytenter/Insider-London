@@ -1,7 +1,7 @@
 ---
 title: 3 Ways To Prepare For London History Tours With Harry Potter
 date: 2018-07-25 12:56:00 Z
-permalink: "/3-ways-to-prepare-for-london-history-tours-with-harry-potter/"
+permalink: "/blog/3-ways-to-prepare-for-london-history-tours-with-harry-potter/"
 tags:
 - London history tours
 - Harry Potter

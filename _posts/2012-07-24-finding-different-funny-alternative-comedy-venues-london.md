@@ -1,7 +1,7 @@
 ---
 title: 'Finding a different funny: Alternative comedy venues in London'
 date: 2012-07-24 15:35:37 Z
-permalink: "/finding-different-funny-alternative-comedy-venues-london/"
+permalink: "/blog/finding-different-funny-alternative-comedy-venues-london/"
 categories:
 - blog
 - London Pubs and nights out

@@ -1,7 +1,7 @@
 ---
 title: The Next Generation of London Underground Trains
 date: 2014-10-17 10:30:15 Z
-permalink: "/the-next-generation-of-london-underground-trains/"
+permalink: "/blog/the-next-generation-of-london-underground-trains/"
 categories:
 - blog
 - London Underground/Tube

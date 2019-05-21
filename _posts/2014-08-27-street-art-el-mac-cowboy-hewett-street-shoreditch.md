@@ -1,7 +1,7 @@
 ---
 title: 'Street Art Picture of the Week: El Mac&#8217;s Cowboy, Hewett Street, Shoreditch'
 date: 2014-08-27 11:30:05 Z
-permalink: "/street-art-el-mac-cowboy-hewett-street-shoreditch/"
+permalink: "/blog/street-art-el-mac-cowboy-hewett-street-shoreditch/"
 categories:
 - blog
 - London Street Art &amp; Graffiti

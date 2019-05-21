@@ -1,7 +1,7 @@
 ---
 title: 'London''s East End: Past, Present and Future'
 date: 2017-02-06 21:12:00 Z
-permalink: "/londons-east-end-past-present-and-future/"
+permalink: "/blog/londons-east-end-past-present-and-future/"
 layout: post
 ---
 

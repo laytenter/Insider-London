@@ -1,7 +1,7 @@
 ---
 title: 'Art And The Underground: A Perfect Mix?'
 date: 2017-07-27 16:45:00 Z
-permalink: "/art-and=the=underground-a-perfect-mix-london-underground-tours/"
+permalink: "/blog/art-and=the=underground-a-perfect-mix-london-underground-tours/"
 categories:
 - blog
 tags:

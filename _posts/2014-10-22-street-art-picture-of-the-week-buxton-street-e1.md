@@ -1,7 +1,7 @@
 ---
 title: 'Street Art Picture of the Week: Buxton Street, E1'
 date: 2014-10-22 10:30:48 Z
-permalink: "/street-art-picture-of-the-week-buxton-street-e1/"
+permalink: "/blog/street-art-picture-of-the-week-buxton-street-e1/"
 categories:
 - blog
 - East London

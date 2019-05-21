@@ -1,7 +1,7 @@
 ---
 title: 'London Festival of Architecture 2014: the best bits'
 date: 2014-08-11 11:30:38 Z
-permalink: "/london-festival-of-architecture-2014-the-best-bits/"
+permalink: "/blog/london-festival-of-architecture-2014-the-best-bits/"
 categories:
 - blog
 - Modern Architecture

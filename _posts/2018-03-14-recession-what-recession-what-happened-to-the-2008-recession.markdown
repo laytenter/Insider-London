@@ -1,7 +1,7 @@
 ---
 title: Recession - What recession? | What happened to the 2008 recession?
 date: 2018-03-14 08:16:00 Z
-permalink: "/10years-recession/"
+permalink: "/blog/10years-recession/"
 description: It's been 10 years since one of the worst recessions in modern times.
   Important for our London Finance Tour, we're casting our minds back.
 heading: Recession - What recession?

@@ -1,7 +1,7 @@
 ---
 title: Discover The Great Tornado Of London
 date: 2017-08-01 13:23:00 Z
-permalink: "/discover-the-great-tornado-of-london-london-history-tours/"
+permalink: "/blog/discover-the-great-tornado-of-london-london-history-tours/"
 categories:
 - blog
 tags:

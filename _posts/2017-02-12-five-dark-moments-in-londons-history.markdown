@@ -1,7 +1,7 @@
 ---
 title: Five Dark Moments in London's History
 date: 2017-02-12 21:43:00 Z
-permalink: "/five-dark-moments-in-londons-history/"
+permalink: "/blog/five-dark-moments-in-londons-history/"
 layout: post
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Green Living: Eco Homes in London'
 date: 2015-01-26 10:00:26 Z
-permalink: "/green-living-eco-homes-in-london/"
+permalink: "/blog/green-living-eco-homes-in-london/"
 categories:
 - blog
 - Modern Architecture

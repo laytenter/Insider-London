@@ -1,7 +1,7 @@
 ---
 title: The Oldest Bar in London
 date: 2012-07-18 09:46:58 Z
-permalink: "/the-oldest-bar-london-2/"
+permalink: "/blog/the-oldest-bar-london-2/"
 categories:
 - London Pubs and nights out
 tags:

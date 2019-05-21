@@ -1,7 +1,7 @@
 ---
 title: Things to do in London &#8211; art, and lots of it!
 date: 2013-04-11 15:21:29 Z
-permalink: "/things-to-do-in-london-art/"
+permalink: "/blog/things-to-do-in-london-art/"
 categories:
 - blog
 - London Street Art &amp; Graffiti

@@ -1,7 +1,7 @@
 ---
 title: The Towers of London
 date: 2014-11-17 10:30:05 Z
-permalink: "/the-towers-of-london/"
+permalink: "/blog/the-towers-of-london/"
 categories:
 - blog
 - Modern Architecture

@@ -1,7 +1,7 @@
 ---
 title: 'Global Generation: The Skip Garden'
 date: 2014-07-09 11:30:45 Z
-permalink: "/global-generation-the-skip-garden/"
+permalink: "/blog/global-generation-the-skip-garden/"
 categories:
 - blog
 - Green London

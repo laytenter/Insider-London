@@ -1,7 +1,7 @@
 ---
 title: 10 Great Facts About Tower 42
 date: 2015-02-13 14:37:55 Z
-permalink: "/10-great-facts-about-tower-42/"
+permalink: "/blog/10-great-facts-about-tower-42/"
 categories:
 - blog
 - Modern Architecture

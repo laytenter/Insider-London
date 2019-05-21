@@ -1,7 +1,7 @@
 ---
 title: Discover London’s Pearly Kings & Queens This Year!
 date: 2017-05-10 09:59:00 Z
-permalink: "/discover-londons-pearly-kings-queens-this-year-private-tours-london/"
+permalink: "/blog/discover-londons-pearly-kings-queens-this-year-private-tours-london/"
 categories:
 - blog
 tags:

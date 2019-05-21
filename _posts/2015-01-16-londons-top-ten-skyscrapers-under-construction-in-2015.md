@@ -1,7 +1,7 @@
 ---
 title: London&#8217;s top ten skyscrapers under construction in 2015
 date: 2015-01-16 14:21:35 Z
-permalink: "/londons-top-ten-skyscrapers-under-construction-in-2015/"
+permalink: "/blog/londons-top-ten-skyscrapers-under-construction-in-2015/"
 categories:
 - blog
 - East London

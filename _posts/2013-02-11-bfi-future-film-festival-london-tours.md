@@ -1,7 +1,7 @@
 ---
 title: BFI Future Film Festival 2013
 date: 2013-02-11 16:43:18 Z
-permalink: "/bfi-future-film-festival-london-tours/"
+permalink: "/blog/bfi-future-film-festival-london-tours/"
 categories:
 - blog
 - Quirky, weird and bizarre London

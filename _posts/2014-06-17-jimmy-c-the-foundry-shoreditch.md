@@ -1,7 +1,7 @@
 ---
 title: 'Street Art Picture of the Week: Jimmy C, The Foundry, Shoreditch'
 date: 2014-06-17 13:00:08 Z
-permalink: "/jimmy-c-the-foundry-shoreditch/"
+permalink: "/blog/jimmy-c-the-foundry-shoreditch/"
 categories:
 - blog
 - East London

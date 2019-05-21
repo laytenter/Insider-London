@@ -1,7 +1,7 @@
 ---
 title: Street Artist Roundup
 date: 2013-11-07 11:51:00 Z
-permalink: "/street-art-roundup-london/"
+permalink: "/blog/street-art-roundup-london/"
 categories:
 - blog
 - London Street Art &amp; Graffiti

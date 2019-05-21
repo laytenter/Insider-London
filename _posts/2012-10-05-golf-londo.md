@@ -1,7 +1,7 @@
 ---
 title: Golf in London?
 date: 2012-10-05 13:18:06 Z
-permalink: "/golf-londo/"
+permalink: "/blog/golf-londo/"
 categories:
 - blog
 - Quirky, weird and bizarre London

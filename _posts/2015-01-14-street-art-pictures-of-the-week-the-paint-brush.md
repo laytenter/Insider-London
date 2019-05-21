@@ -1,7 +1,7 @@
 ---
 title: 'Street Art Pictures of the Week: The Paint Brush'
 date: 2015-01-14 10:30:28 Z
-permalink: "/street-art-pictures-of-the-week-the-paint-brush/"
+permalink: "/blog/street-art-pictures-of-the-week-the-paint-brush/"
 categories:
 - blog
 - East London
@@ -20,13 +20,14 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=24468
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
+noindex: 1
 ---
 
 <img class="aligncenter wp-image-24470 size-full" src="/wp-content/uploads/2015/01/17a_mini.jpg" alt="London street art and graffiti walking tours" width="569" height="759" />

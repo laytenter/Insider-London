@@ -1,7 +1,7 @@
 ---
 title: 'PopUp, PitchUp and payment: how to make sales on the High Street and beyond'
 date: 2013-03-21 11:41:15 Z
-permalink: "/pop-up-retail/"
+permalink: "/blog/pop-up-retail/"
 categories:
 - blog
 - Retail Store Design

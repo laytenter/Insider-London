@@ -1,7 +1,7 @@
 ---
 title: 'Silicon Roundabout: What&#8217;s On'
 date: 2015-03-09 09:28:25 Z
-permalink: "/silicon-roundabout-whats-on/"
+permalink: "/blog/silicon-roundabout-whats-on/"
 categories:
 - blog
 - East London

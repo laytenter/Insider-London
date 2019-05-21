@@ -1,7 +1,7 @@
 ---
 title: 'Street Art Pictures of the Week: The Art of the Homage'
 date: 2014-12-10 10:30:56 Z
-permalink: "/street-art-pictures-of-the-week-the-art-of-the-homage/"
+permalink: "/blog/street-art-pictures-of-the-week-the-art-of-the-homage/"
 categories:
 - blog
 - London Street Art &amp; Graffiti

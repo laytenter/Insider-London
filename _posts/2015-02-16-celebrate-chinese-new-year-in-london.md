@@ -1,7 +1,7 @@
 ---
 title: Celebrate Chinese New Year in London
 date: 2015-02-16 10:30:40 Z
-permalink: "/celebrate-chinese-new-year-in-london/"
+permalink: "/blog/celebrate-chinese-new-year-in-london/"
 categories:
 - blog
 - Food and drink

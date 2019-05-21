@@ -1,7 +1,7 @@
 ---
 title: 'Street Art Picture of the Week: Art Is Tra$h, Redchurch Street, London'
 date: 2014-11-12 10:00:46 Z
-permalink: "/art-is-trash-london-street-art/"
+permalink: "/blog/art-is-trash-london-street-art/"
 categories:
 - blog
 - East London

@@ -1,7 +1,7 @@
 ---
 title: "\uFEFF7 Unusual and Historical Pubs in London"
 date: 2016-04-22 22:03:24 Z
-permalink: "/7-unusual-and-historical-pubs-in-london/"
+permalink: "/blog/7-unusual-and-historical-pubs-in-london/"
 categories:
 - blog
 tags:

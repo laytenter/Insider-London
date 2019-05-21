@@ -1,7 +1,7 @@
 ---
 title: What To Pack For A London City Break
 date: 2018-04-11 11:04:00 Z
-permalink: "/what-to-pack-for-a-London-city-break/"
+permalink: "/blog/what-to-pack-for-a-London-city-break/"
 description: Don’t forget your mobile phone charger or power bank! Find this and lots
   more top tips for a walking tour in London this year. Check out the blog right now.
 layout: post

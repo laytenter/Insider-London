@@ -1,7 +1,7 @@
 ---
 title: 'The Peckham Coal Line: London&#8217;s own &#8216;High Line&#8217;?'
 date: 2015-01-12 10:30:43 Z
-permalink: "/the-peckham-coal-line-londons-own-high-line/"
+permalink: "/blog/the-peckham-coal-line-londons-own-high-line/"
 categories:
 - blog
 - Green London

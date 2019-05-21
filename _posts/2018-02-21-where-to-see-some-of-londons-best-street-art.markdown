@@ -1,7 +1,7 @@
 ---
 title: Where To See Some Of London’s Best Street Art
 date: 2018-02-21 10:23:00 Z
-permalink: "/where-to-see-some-of-londons-best-street-art/"
+permalink: "/blog/where-to-see-some-of-londons-best-street-art/"
 tags:
 - street-art
 description: Check out this street art tour in London for the best graffiti hotspots

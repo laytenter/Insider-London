@@ -1,7 +1,7 @@
 ---
 title: The Midland Grand Hotel – A representation of King’s Cross
 date: 2017-12-27 22:27:00 Z
-permalink: "/midland-grand-hotel-kings-cross/"
+permalink: "/blog/midland-grand-hotel-kings-cross/"
 tags:
 - all
 description: 'The iconic St Pancras Renaissance Hotel luxurious facade is not only

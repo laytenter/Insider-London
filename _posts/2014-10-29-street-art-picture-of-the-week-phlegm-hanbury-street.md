@@ -1,7 +1,7 @@
 ---
 title: 'Street Art Picture of the Week: Phlegm, Hanbury Street'
 date: 2014-10-29 10:30:40 Z
-permalink: "/street-art-picture-of-the-week-phlegm-hanbury-street/"
+permalink: "/blog/street-art-picture-of-the-week-phlegm-hanbury-street/"
 categories:
 - blog
 - London Street Art &amp; Graffiti

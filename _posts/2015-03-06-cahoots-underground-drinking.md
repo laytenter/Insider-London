@@ -1,7 +1,7 @@
 ---
 title: 'Cahoots: Underground drinking'
 date: 2015-03-06 10:30:21 Z
-permalink: "/cahoots-underground-drinking/"
+permalink: "/blog/cahoots-underground-drinking/"
 categories:
 - blog
 - Food and drink

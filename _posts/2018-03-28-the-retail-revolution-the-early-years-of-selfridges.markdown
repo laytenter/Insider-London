@@ -1,7 +1,7 @@
 ---
 title: The Retail Revolution – the Early Years of Selfridges
 date: 2018-03-28 06:34:00 Z
-permalink: "/selfridges-retail-design-revolution/"
+permalink: "/blog/selfridges-retail-design-revolution/"
 description: For our West End Retail Design Tour, we take a look at the early years
   of London's first purpose-built department store to discover the distinctive origins
   of the modern shopping experience.

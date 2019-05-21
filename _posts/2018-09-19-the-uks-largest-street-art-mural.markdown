@@ -1,7 +1,7 @@
 ---
 title: The UK's Largest Street Art Mural
 date: 2018-09-19 11:38:00 Z
-permalink: "/the-uks-largest-street-art-mural/"
+permalink: "/blog/the-uks-largest-street-art-mural/"
 tags:
 - street-art
 description: This summer witnessed the stunning creation of the UK's largest street
