@@ -2,6 +2,9 @@
 title: 'The Big Business Effect: From Silicon Valley to Kings Cross'
 date: 2019-05-22 15:47:00 Z
 permalink: "/the-big-business-effect-from-silcon-valley-to-kings-cross/"
+description: It's well known that Silicon Valley plays host to huge “corporate campuses”
+  – a new scale of office with an all-inclusive vibe.
+heading: 'The Big Business Effect: From Silicon Valley to Kings Cross'
 layout: post
 ---
 
