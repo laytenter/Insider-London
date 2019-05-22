@@ -6,17 +6,23 @@ published: false
 layout: post
 ---
 
+![the big business effect](/uploads/the%20big%20business%20effect%20title.jpg)
+
 It's well known that Silicon Valley plays host to huge “corporate campuses” – a new scale of office with an all-inclusive vibe. With almost 15,000 workers, Facebook's 1 Hacker Way covers 40,000 square metres and includes its own town square, [an 8,000 square metre park](https://www.dezeen.com/2018/09/05/mpk21-frank-gehry-facebook-silicon-valley-headquarters-menlo-park-california-architecture/) and [their own Farmers Market](https://www.dezeen.com/2018/09/05/mpk21-frank-gehry-facebook-silicon-valley-headquarters-menlo-park-california-architecture/), but it's not alone in its dominating scale and design. Other famous example include Mountain View HQ campus of Google, known as “The Googleplex” and Apple Campus 2, [a Foster-designed spaceship which sits in a 176 acre site](https://www.theguardian.com/artanddesign/2013/nov/15/norman-foster-apple-hq-mothership-spaceship-architecture). The presence of these complexes can have a profound effect on the surrounding area. 
 
  
 
 [“Tech offices can have a kind of deadening effect on the city,” says Allison Arieff of SPUR a non-profit urban research centre. “Because they now provide their employees with everything on site for free – from coffee to dry-cleaning to haircuts – local businesses are often forced to close down when they move in.”](https://www.theguardian.com/artanddesign/2016/may/22/nap-pods-and-rooftop-parks-how-silicon-valley-is-reinventing-the-office) 
 
+![apple park](/uploads/apple-park.jpg)
+
  
 
  
 
 Back in the UK, evidently the scale of the London office is often far smaller, but on some notable occasions there also seems to be a difference in objective. There are many examples of multi-nationals not only rejecting traditional business districts like the City of London, but also striving to immerse themselves in London's trendiest districts. [Principal Place](https://www.principalplace.co.uk/), the square dominated by Amazon HQ boasts a space to showcase local artists and promotes itself as being a stone's throw away from the Boxpark and vibrant Shoreditch. Just up the road in [“Silicon Roundabout”](https://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/), Aviva opened its Digital Garage in Hoxton Square to invigorate its own company culture [with some Shoreditch creativity](https://www.hackneygazette.co.uk/news/heritage/the-men-in-suits-want-a-bit-of-the-hipster-pie-insurance-firm-aviva-under-fire-for-hoxton-square-expansion-plans-1-4865631). 
+
+![principal place](/uploads/principal%20place.jpg)
 
  
 
