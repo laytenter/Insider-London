@@ -1,7 +1,6 @@
 ---
 title: Insider London
 timezone: UTC
-permalink: /:categories/:title
 collections:
   authors:
     title: Authors
@@ -27,27 +26,28 @@ defaults:
     path: ''
     type: posts
   values:
-    description:
-    author:
-    heading:
-    categories: 'blog'
+    description: 
+    author: 
+    heading: 
+    categories: blog
 - scope:
     path: ''
     type: tours
   values:
-    heading:
-    description:
+    heading: 
+    description: 
     gallery:
-    - image:
-      caption:
-      alt:
-    embed:
-    order:
+    - image: 
+      caption: 
+      alt: 
+    embed: 
+    order: 
 - scope:
     path: ''
     type: authors
   values:
-    image:
+    image: 
+permalink: "/:categories/:title"
 social:
   name: Insider London
   links:
