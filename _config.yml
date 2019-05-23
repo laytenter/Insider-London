@@ -1,6 +1,7 @@
 ---
 title: Insider London
 timezone: UTC
+permalink: /:category/:title:output_ext
 collections:
   authors:
     title: Authors
@@ -9,7 +10,6 @@ collections:
   posts:
     title: Posts
     output: true
-    permalink: "/blog/:path/"
   tours:
     title: Tours
     output: true
@@ -30,6 +30,7 @@ defaults:
     description:
     author:
     heading:
+    category: 'blog'
 - scope:
     path: ''
     type: tours
