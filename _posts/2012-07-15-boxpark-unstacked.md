@@ -4,7 +4,6 @@ date: 2012-07-15 14:06:30 Z
 permalink: "/blog/boxpark-unstacked/"
 categories:
 - blog
-- Green London
 tags:
 - East London
 - shopping
