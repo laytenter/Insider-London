@@ -1,7 +1,7 @@
 ---
 title: Insider London
 timezone: UTC
-permalink: /:category/:title:output_ext
+permalink: /:categories/:title
 collections:
   authors:
     title: Authors
@@ -30,7 +30,7 @@ defaults:
     description:
     author:
     heading:
-    category: 'blog'
+    categories: 'blog'
 - scope:
     path: ''
     type: tours
