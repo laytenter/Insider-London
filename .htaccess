@@ -70,6 +70,9 @@ redirect 301 /tours/street-art/ /tours/street-art-tour-london/
 
 # Start blog redirects
 
+redirect 301 /The-Department-Stores-Decline-and-How-it-Reflects-Retail-Trends/ /blog/the-department-stores-decline-and-How-it-reflects-retail-trends/
+redirect 301 /Gateway-to-China’s-AI-Market/ /blog/gateway-to-chinas-ai-market/
+redirect 301 /the-big-business-effect-from-silcon-valley-to-kings-cross/ /blog/the-big-business-effect-from-silcon-valley-to-kings-cross/
 redirect 301 /gateway-to-chinas-ai-market/ /blog/gateway-to-chinas-ai-market/
 redirect 301 /the-department-stores-decline-and-How-it-reflects-retail-trends/ /blog/the-department-stores-decline-and-How-it-reflects-retail-trends/
 redirect 301 /thirsty-thoughts-radical-collaboration-workshop-with-london-business-school/ /blog/thirsty-thoughts-radical-collaboration-workshop-with-london-business-school/
