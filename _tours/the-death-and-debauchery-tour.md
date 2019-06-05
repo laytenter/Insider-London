@@ -8,8 +8,9 @@ tags:
 - all
 - dnd
 heading: Death and Debauchery Tour
-description: Jack the Ripper tour London | Our Death and Debauchery tour will take
-  you through London's murderous history, often on some of London's well known streets
+description: Join us on our Death and Debauchery tour and learn about the City's dark
+  past as you venture through the heart of London. Every city has a dark side and
+  London is no exception!
 gallery:
 - image: "/uploads/760x428%20D&D%20banner.jpg"
   caption: Insider London’s Death and Debauchery Tour is a walking tour that will
