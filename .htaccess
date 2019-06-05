@@ -440,6 +440,7 @@ redirect 301 /the-oldest-bar-london-2/ /blog/the-oldest-bar-london-2/
 redirect 301 /around-world-80-minutes-portuguese-fish/ /blog/around-world-80-minutes-portuguese-fish/
 redirect 301 /boxpark-unstacked/ /blog/boxpark-unstacked/
 redirect 301 /cocktails-happiness-forgets/ /blog/cocktails-happiness-forgets/
+redirect 301 /london-tech-week/ /blog/london-tech-week/
 
 # End blog redirects
 

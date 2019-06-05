@@ -1,5 +1,7 @@
 ---
 title: Insider London
+feed:
+  path: blog/atom.xml
 timezone: UTC
 collections:
   authors:
@@ -26,27 +28,27 @@ defaults:
     path: ''
     type: posts
   values:
-    description: 
-    author: 
-    heading: 
+    description:
+    author:
+    heading:
     categories: blog
 - scope:
     path: ''
     type: tours
   values:
-    heading: 
-    description: 
+    heading:
+    description:
     gallery:
-    - image: 
-      caption: 
-      alt: 
-    embed: 
-    order: 
+    - image:
+      caption:
+      alt:
+    embed:
+    order:
 - scope:
     path: ''
     type: authors
   values:
-    image: 
+    image:
 permalink: "/:categories/:title"
 social:
   name: Insider London
@@ -65,10 +67,11 @@ lang: en_GB
 lsi: false
 paginate: 10
 paginate_path: "/blog/page/:num/"
-gems:
+plugins:
 - jekyll-paginate
 - jekyll-seo-tag
 - jekyll-sitemap
+- jekyll-feed
 exclude:
 - gruntfile.js
 - ".gitignore"
