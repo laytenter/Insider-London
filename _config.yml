@@ -67,7 +67,7 @@ lang: en_GB
 lsi: false
 paginate: 10
 paginate_path: "/blog/page/:num/"
-plugins:
+gems:
 - jekyll-paginate
 - jekyll-seo-tag
 - jekyll-sitemap
