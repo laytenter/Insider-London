@@ -1,7 +1,5 @@
 ---
 title: Insider London
-feed:
-  path: blog/atom.xml
 timezone: UTC
 collections:
   authors:
@@ -28,27 +26,29 @@ defaults:
     path: ''
     type: posts
   values:
-    description:
-    author:
-    heading:
+    description: 
+    author: 
+    heading: 
     categories: blog
 - scope:
     path: ''
     type: tours
   values:
-    heading:
-    description:
+    heading: 
+    description: 
     gallery:
-    - image:
-      caption:
-      alt:
-    embed:
-    order:
+    - image: 
+      caption: 
+      alt: 
+    embed: 
+    order: 
 - scope:
     path: ''
     type: authors
   values:
-    image:
+    image: 
+feed:
+  path: blog/atom.xml
 permalink: "/:categories/:title"
 social:
   name: Insider London
