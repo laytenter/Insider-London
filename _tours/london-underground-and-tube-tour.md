@@ -8,9 +8,9 @@ tags:
 - all
 - tube
 heading: London Underground and Tube Tour
-description: 'Our original guided London Underground and Tube Tour: Travel across
-  150 years of hidden history in just two hours aboard our awesome London Underground
-  Tour!'
+description: Immerse yourself in 150 years of transport history while travelling through
+  the iconic London underground. Discover how and why the underground was created
+  and much more!
 gallery:
 - image: "/uploads/760x428%20tube%20banner.jpg"
   caption: Travel through time on our London Underground Tour!
