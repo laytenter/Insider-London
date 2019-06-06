@@ -8,8 +8,9 @@ tags:
 - all
 - streetart
 heading: Street Art Tour London
-description: Join the Insider London Street Art tour and discover London's street
-  art hotspots and the hidden treasures London has to offer.
+description: London has some of the best street art in the world. Discover the vibrant
+  Shoreditch street art scene and see famous pieces from the likes of Banksy and Space
+  Invader on our Street Art Tour!
 gallery:
 - image: "/uploads/Title%20Street%20Art.jpg"
   caption: Street Art is everywhere in London's East End!
@@ -37,6 +38,7 @@ gallery:
   caption: We love showing students around the East End's street art - here it's Ben
     Eine's Like Nothing.
   alt: A large group of students huddled around Ben Eine's Like Nothing.
+embed: https://www.youtube.com/embed/K2X8Pjrwuxc
 featured: true
 tour-id: 29326
 trekksoft-tour-id: 50188
@@ -53,7 +55,6 @@ related:
 - 32569
 - 32334
 - 32336
-embed: https://www.youtube.com/embed/K2X8Pjrwuxc
 layout: tour
 ---
 

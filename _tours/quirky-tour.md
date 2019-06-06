@@ -8,8 +8,8 @@ tags:
 - all
 - quirky
 heading: Quirky Tour
-description: 'Alternative London Tours: Insider London offers the most fun and exciting
-  guided London walks. Perfect for tourists and corporate events.'
+description: Join us on a Quirky Tour and discover an unusual and often unseen side
+  of London!
 featured: true
 tour-id: 32342
 trekksoft-tour-id: 50184
