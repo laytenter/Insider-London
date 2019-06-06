@@ -3,6 +3,7 @@ title: Best Christmas Markets in London
 date: 2016-11-13 19:48:00 Z
 permalink: "/blog/best-christmas-markets-in-london-2017/"
 layout: post
+noindex: 1
 ---
 
 ![Untitled design-8.png](/uploads/Untitled%20design-8.png)

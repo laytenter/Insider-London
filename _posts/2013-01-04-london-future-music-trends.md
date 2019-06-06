@@ -15,6 +15,7 @@ id: 3677
 author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=3677
+noindex: 1
 ---
 
 Here&#8217;s the second part of our exploration of the future of music listening at the Protein Forum in East London.

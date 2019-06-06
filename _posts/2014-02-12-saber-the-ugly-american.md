@@ -9,7 +9,6 @@ id: 13905
 author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=13905
-noindex: 1
 ---
 
 [<img class="alignnone size-full wp-image-13910" alt="Saber Ugly American Front" src="/wp-content/uploads/2014/02/Saber-Ugly-American-Front.jpg" width="569" height="379" />](/wp-content/uploads/2014/02/Saber-Ugly-American-Front.jpg)

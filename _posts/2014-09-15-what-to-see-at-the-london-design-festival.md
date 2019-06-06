@@ -22,13 +22,14 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=21324
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
+noindex: 1
 ---
 
 The <a href="http://www.londondesignfestival.com/" target="_blank">London Design Festival</a> kicked off at the weekend, showcasing the capital&#8217;s creativity. There are hundreds of events going on, from talks to trade shows and we&#8217;ve waded through the listings so you don&#8217;t have to. Here&#8217;s what we recommend checking out.

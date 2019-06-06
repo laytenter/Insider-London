@@ -11,7 +11,6 @@ October is finally here and autumn has fallen upon London. And with that comes H
 
 ![A ghostly skull]({{ site.baseurl }}/assets/images/halloween-skull.jpg)
 
-
 Flea ridden and sewage filled streets, lepers living in isolated pockets of the city, and the outbreak of the Great Plague, are just the start of London’s deathly history. And with death come hauntings and tales of spooky occurrences in some unlikely, yet well-known places.
 
 Take the Theatre Royal, the demise of the original theatre by candle flame, led to hauntings, assassination attempts and a string of unfortunate deaths. It’s one of London’s most haunted theatres and is home to a number of thespian ghosts. You may find a bad tempered actor wandering round the room where he murdered a fellow performer. Or you’ll catch a glimpse of the Man in Grey - a limping apparition, who sometimes makes appearances during daytime rehearsals close to where his skeleton was found in the theatre.

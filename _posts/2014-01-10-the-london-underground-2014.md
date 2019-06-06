@@ -8,14 +8,14 @@ categories:
 id: 13718
 author: london75
 layout: post
-guid: https://www.insider-london.co.uk/?p=13718
+noindex: 1
 ---
 
 This time last year, The London Underground was celebrating the 150<sup>th</sup> anniversary of the first ever tube journey, which ran on the Metropolitan Railway line between Paddington and Farringdon on 9 January 1863. As 2013’s celebrations are still fresh in our minds, with the beginning of a new year we now look forward to the future of the Tube, and the changes which we can expect over the next twelve months.
 
 [<img class="alignnone size-full wp-image-13720" alt="The London Underground Tube Night Map 2014" src="/wp-content/uploads/2014/01/UndergroundNightMap.jpg" width="569" height="377" />](/wp-content/uploads/2014/01/UndergroundNightMap.jpg)
 
-**24-hour plans** 
+**24-hour plans**
 
 Plans have been announced to run a 24-hour Tube service on the Central, Northern, Victoria, Piccadilly, and Jubilee lines. The new extended service will initially only be available on Friday and Saturday evenings, when thousands of individuals take to London’s numerous bars and clubs for the evening and many more travel to work early in the mornings. Only major stations will remain open throughout the night, although the intention is to roll out daily 24-hour openings across the entire network by 2015.
 
@@ -29,7 +29,7 @@ However, the change is expected to cost 750 employees their jobs, and the past f
 
 [<img class="alignnone size-full wp-image-13722" alt="The London Underground Tube Free Wi-Fi 2014" src="/wp-content/uploads/2014/01/UndergroundWiFi.jpg" width="569" height="166" />](/wp-content/uploads/2014/01/UndergroundWiFi.jpg)
 
-**Wi-Fi across all stations** 
+**Wi-Fi across all stations**
 
 Depending on your mobile phone network, the chances are you will already be able to make use of the Tube’s free Wi-Fi. Users of EE (which also covers Orange and T-Mobile), O2, Vodafone and Virgin Broadband can all connect for free at over 120 Tube stations, and others can purchase day passes for as little as £2.
 

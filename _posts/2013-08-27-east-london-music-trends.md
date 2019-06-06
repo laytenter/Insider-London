@@ -15,6 +15,7 @@ id: 25431
 author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=3717
+noindex: 1
 ---
 
 **Barry Hoffman and Paddy Banks want to change the way you listen to music. They want to change the way you see music. They are [Soundyoucansee](http://soundyoucansee.com/ "Soundyoucansee").**

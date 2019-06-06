@@ -9,6 +9,7 @@ description: The New Year has arrived – happy 2018, everyone! We've put togeth
   list of five of our favourite – and more unusual – New Year’s traditions.
 heading: Unusual New Year’s Celebrations around the World
 layout: post
+noindex: 1
 ---
 
 ![web_960x540 New_Years_2014_Fireworks_-_London_Eye CC BY 2.0 Clarence Ji Wikimedia Commons.jpg](/uploads/web_960x540%20New_Years_2014_Fireworks_-_London_Eye%20CC%20BY%202.0%20Clarence%20Ji%20Wikimedia%20Commons.jpg)
@@ -23,7 +24,7 @@ Nobody really knows why. Maybe because they secretly enjoy British humour. Maybe
 This tradition [goes back much longer than 1963](http://www.historic-uk.com/HistoryUK/HistoryofScotland/The-History-of-Hogmanay/). In many places in Scotland, come Midnight people start to leave their house. Not to celebrate on the street, but to visit friends and neighbours in their homes to bring them good fortune for the next year. It is said that the first person to set foot into a house in the New Year brings good luck – and some food and drinks (usually whisky). Scottish friends have told us that around their home in Aberdeenshire, people go from house to house, staying a few minutes, engaging in a conversation over some shortbread and a dram, and then continuing on, sometimes into the early hours of dawn. That’s what we call a sociable tradition!
 
 ## Japan – Ringing 108 Bells
-The New Year is a new beginning. In Japan, this is celebrated with a ceremony called *Joya no kane*. According to Buddhist belief, there are 108 defilements of the human mind (Japanese call them [Bonnō](https://en.wikipedia.org/wiki/Kleshas_(Buddhism))). Just before midnight on New Years Eve, temples all across Japan start to ring their bell 107 times. With the 108th strike - dead on midnight - all the 108 defilements are left behind in the old year. The New Year, and its new beginning can come! 
+The New Year is a new beginning. In Japan, this is celebrated with a ceremony called *Joya no kane*. According to Buddhist belief, there are 108 defilements of the human mind (Japanese call them [Bonnō](https://en.wikipedia.org/wiki/Kleshas_(Buddhism))). Just before midnight on New Years Eve, temples all across Japan start to ring their bell 107 times. With the 108th strike - dead on midnight - all the 108 defilements are left behind in the old year. The New Year, and its new beginning can come!
 
 ## Mexiko – Wearing colourful underwear
 Some cultures associate certain colours with certain attributes and feelings. Some people also tell you to “dress the part”. Mexicans (and some other Central and South Americans) have taken this to heart. They believe that what you’ll get throughout the year will be influenced by the colour of the underwear you’re wearing on New Year’s Eve. Red knickers will bring you love, yellow wealth, and blue will bring health. So, what colour were your undies this year?

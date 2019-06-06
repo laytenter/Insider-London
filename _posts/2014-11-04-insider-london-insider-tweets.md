@@ -10,13 +10,14 @@ author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=23107
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
+noindex: 1
 ---
 
 [<img class="aligncenter wp-image-23110 size-full" src="/wp-content/uploads/2014/10/Insider-London.png" alt="Insider London" width="569" height="504" />](/wp-content/uploads/2014/10/Insider-London.png)

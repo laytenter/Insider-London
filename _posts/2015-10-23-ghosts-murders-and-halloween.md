@@ -1,23 +1,22 @@
 ---
-title: Ghosts, Murders and Halloween
+title: Feel the chill of Halloween in London
 date: 2015-10-23 10:48:11 Z
 permalink: "/blog/ghosts-murders-and-halloween/"
 categories:
 - blog
-tags:
 - ghosts
-- Halloween
-- Halloween special
-id: 32471
+- halloween
+- london
 layout: post
-guid: https://www.insider-london.co.uk/?p=32471
-slide_template:
-- default
 ---
 
-With Autumn now upon us and Halloween soon approaching, it is only appropriate to feel a pull towards the subject of the supernatural. A walking tour of London which highlights some of the lesser-known hauntings may be just the ticket?
+With Autumn now upon us and Halloween soon approaching, it is only appropriate to feel a pull towards the subject of the supernatural. A [ghostly walking tour of London](/tours/famous-ghosts-and-infamous-murders/) which highlights some of the lesser-known hauntings may be just the ticket?
 
-The capital has long been considered the most haunted city in the world and our new walking tour, _Famous Ghosts and Infamous Murders,_ will take you down the hidden parts of the West End where ghosts hide. We have scoured the populous West End for hidden alleys and quiet paths which may bring chills down the spine before even the first hint of a ghost story. Even the most sceptical may feel inclined to believe those who once called London home in one life may still be walking among us today. Many of these ghosts hadn’t experienced a necessarily horrible past and therefore their stories can only be heard with a touch of melancholy, such as a philanthropist baroness and a wandering nun. However, others had horrific experiences which brought them to an untimely end and it is these spirits who refuse to leave, possibly looking for revenge?
+The capital has long been considered the most haunted city in the world and our walking tour will take you down the hidden parts of the West End where ghosts hide.
+
+We have scoured the populous West End for hidden alleys and quiet paths which may bring chills down the spine before even the first hint of a ghost story. Even the most sceptical may feel inclined to believe those who once called London home in one life may still be walking among us today.
+
+Many of these ghosts hadn’t experienced a necessarily horrible past and therefore their stories can only be heard with a touch of melancholy, such as a philanthropist baroness and a wandering nun. However, others had horrific experiences which brought them to an untimely end and it is these spirits who refuse to leave, possibly looking for revenge?
 
 [<img class="alignnone size-medium wp-image-32473" src="/wp-content/uploads/2015/10/Untitled-600x406.png" alt="Untitled" width="600" height="406" />](/wp-content/uploads/2015/10/Untitled.png)
 

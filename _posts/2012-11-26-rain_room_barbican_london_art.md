@@ -14,6 +14,7 @@ id: 2518
 author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=2518
+noindex: 1
 ---
 
 [<img class="alignnone size-full wp-image-2524" src="/wp-content/uploads/2012/11/rain_room_barbican.jpg" alt="" width="569" height="379" />](/wp-content/uploads/2012/11/rain_room_barbican.jpg)

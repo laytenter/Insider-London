@@ -8,25 +8,8 @@ categories:
 - London Street Art &amp; Graffiti
 - Other
 - Quirky, weird and bizarre London
-tags:
-- Alternative London
-- East London street art
-- London Street art
-- quirky london
-- street art and graffiti
-- street art picture of the week
-id: 21301
-author: london75
 layout: post
-guid: https://www.insider-london.co.uk/?p=21301
-s4_cdes:
-- 
-s4_ctitle:
-- 
-s4_image2s:
-- 
-s4_url2s:
-- 
+
 ---
 
 [<img class="aligncenter wp-image-21316 size-full" src="/wp-content/uploads/2014/09/Pablo-Delgardo.jpg" alt="Pablo Delgardo street art walking tour" width="569" height="427" />](/wp-content/uploads/2014/09/Pablo-Delgardo.jpg)
