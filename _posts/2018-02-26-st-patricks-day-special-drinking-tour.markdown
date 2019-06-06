@@ -2,7 +2,9 @@
 title: St. Patrick's Day Special | Drinking Tour
 date: 2018-02-26 09:45:00 Z
 permalink: "/blog/st-patricks-day-2018/"
-description: "This St. Patrick's Day, do something different: On 17th March, 7pm, join us in your greenest garments – or at least with a twinkle in your eye – for  a special edition of our History of Drinking & Pubs Tour in the City of London!"
+description: 'This St. Patrick''s Day, do something different: On 17th March, 7pm,
+  join us in your greenest garments – or at least with a twinkle in your eye – for  a
+  special edition of our History of Drinking & Pubs Tour in the City of London!'
 heading: St. Patrick's Day Special
 layout: post
 ---

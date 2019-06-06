@@ -3,15 +3,14 @@ title: 5 most innovative cities in the UK | Innovative cities in the UK | Innova
   in the UK
 date: 2017-12-06 11:00:00 Z
 permalink: "/blog/top-5-tech-cities-UK-sized-to-population/"
-tags:
 categories:
 - educational-tours
 - silicon-roundabout
-description: There's more to the tech sector in the UK than just London. Find out about the top 5 tech cities in the UK that successfully punch above their weight.
+description: There's more to the tech sector in the UK than just London. Find out
+  about the top 5 tech cities in the UK that successfully punch above their weight.
 heading: 5 most innovative cities in the UK
 layout: post
 ---
-
 
 When we talk about innovation and tech in the UK, we tend to only look at London and the famous 'silicon roundabout'. As the country’s capital and (by far) largest city, that is fully understandable. Just by sheer size, London easily outperforms any other city in the UK. However, if you account for population differences, suddenly it drops out even from the top 20. Read on, and find out about the top 5 tech cities in the UK that successfully punch above their weight.
 

@@ -9,7 +9,6 @@ categories:
 - Other
 - Quirky, weird and bizarre London
 layout: post
-
 ---
 
 [<img class="aligncenter wp-image-21316 size-full" src="/wp-content/uploads/2014/09/Pablo-Delgardo.jpg" alt="Pablo Delgardo street art walking tour" width="569" height="427" />](/wp-content/uploads/2014/09/Pablo-Delgardo.jpg)
