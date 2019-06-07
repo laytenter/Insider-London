@@ -6,7 +6,9 @@ categories:
 - blog
 - fintech
 - london
-description: We were absolutely thrilled to take a group on our first ever visit to Crowdcube, a British investment crowdfunding platform, established by Darren Westlake and Luke Lang in 2011.
+description: We were absolutely thrilled to take a group on our first ever visit to
+  Crowdcube, a British investment crowdfunding platform, established by Darren Westlake
+  and Luke Lang in 2011.
 layout: post
 ---
 
