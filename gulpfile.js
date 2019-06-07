@@ -22,20 +22,6 @@ var responsive   = require('gulp-responsive');
 // Include paths file.
 //var paths = require('./_assets/gulp_config/paths');
 
-gulp.task('build:styles:critical', function () {
-    return gulp.src('./assets/css/main.css')
-        .pipe(criticalCss({
-            out: 'critical.css',
-            url: 'http://dev.insider-london.co.uk/tours',
-            width: 1060,
-            height: 1024,
-            strict: true,
-            userAgent: 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'
-        }))
-        .pipe(cleancss())
-        .pipe(gulp.dest('./_includes/css/'));
-});
-
 // Use Sass compiler to process styles, adds vendor prefixes, minifies etc and outputs for the appropriate locations
 gulp.task('build:styles:main', function(){
   return sass ('css/main.scss', {
@@ -55,7 +41,7 @@ gulp.task('build:styles:main', function(){
 });
 
 // Builds all styles.
-gulp.task('build:styles', ['build:styles:main', 'build:styles:critical']);
+gulp.task('build:styles', ['build:styles:main']);
 
 // Processes JS.
 gulp.task('build:scripts', function() {
@@ -78,13 +64,13 @@ gulp.task('images', function () {
     .pipe(responsive({
       '**/*.jpg': {
         width: 760,
-        rename: { suffix: '-760'}
+        rename: { suffix: '-760'},
+        errorOnEnlargement: false
     },
       quality: 70,
       progressive: true,
       withMetadata: true,
       errorOnUnusedConfig: false,
-      errorOnEnlargement: false
     })).pipe(gulp.dest('_uploads'));
 });
 // Runs jekyll build command.

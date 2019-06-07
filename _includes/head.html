@@ -1,4 +1,5 @@
 <head>
+
   {% if jekyll.environment != 'development' %}
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-4901615-1"></script>
@@ -11,6 +12,16 @@
     </script>
   {% endif %}
 
+  {% if jekyll.environment == 'development' %}
+    <script type="text/javascript" src="{{ "/assets/js/scripts.js" | prepend: site.baseurl }}" defer async></script>
+    <link rel="preload" type="text/css" href="{{ '/assets/css/main.css' | prepend: site.baseurl }}" as="style">
+    <link rel="stylesheet" type="text/css" href="{{ '/assets/css/main.css' | prepend: site.baseurl }}">
+  {% else %}
+    <script type="text/javascript" src="{{ '/assets/js/01022019.scripts.min.js' | prepend: site.baseurl }}" defer async></script>
+    <link rel="preload" type="text/css" href="{{ '/assets/css/01022019.styles.min.css' | prepend: site.baseurl }}" as="style">
+    <link rel="stylesheet" type="text/css" href="{{ '/assets/css/01022019.styles.min.css' | prepend: site.baseurl }}">
+  {% endif %}
+
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -20,9 +31,5 @@
   {% for post in site.posts %}{% if post.url == page.url %}{% if post.noindex %}<meta name="robots" content="noindex">{% endif %}{% endif %}{% endfor %}
 
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-
-  <style type="text/css">
-    {%include css/critical.css %}
-  </style>
 
 </head>
