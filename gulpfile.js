@@ -17,7 +17,7 @@ var runSequence  = require('run-sequence');
 var sass         = require('gulp-ruby-sass');
 var uglify       = require('gulp-uglify');
 var criticalCss = require('gulp-penthouse');
-//var responsive   = require('gulp-responsive');
+var responsive   = require('gulp-responsive');
 
 // Include paths file.
 //var paths = require('./_assets/gulp_config/paths');
@@ -74,7 +74,7 @@ gulp.task('build:images', function() {
 
 gulp.task('images', function () {
 
-  return gulp.src('./images/tour-images/**/*.jpg')
+  return gulp.src('./images/**/*.jpg')
     .pipe(responsive({
       '**/*.jpg': {
         width: 760,
@@ -83,8 +83,9 @@ gulp.task('images', function () {
       quality: 70,
       progressive: true,
       withMetadata: true,
-      errorOnUnusedConfig: false
-    })).pipe(gulp.dest('imgs'));
+      errorOnUnusedConfig: false,
+      errorOnEnlargement: false
+    })).pipe(gulp.dest('_uploads'));
 });
 // Runs jekyll build command.
 gulp.task('build:jekyll', function() {

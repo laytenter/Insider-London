@@ -14,6 +14,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
   {% seo %}
 
   {% for post in site.posts %}{% if post.url == page.url %}{% if post.noindex %}<meta name="robots" content="noindex">{% endif %}{% endif %}{% endfor %}
@@ -24,5 +25,4 @@
     {%include css/critical.css %}
   </style>
 
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" }}">
 </head>
