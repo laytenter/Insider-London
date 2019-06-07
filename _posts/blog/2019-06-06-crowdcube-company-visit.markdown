@@ -2,11 +2,13 @@
 title: Crowdcube visit
 date: 2019-06-06 16:24:00 Z
 permalink: "/blog/crowdcube-company-visit"
-published: false
 categories:
 - blog
 - fintech
 - london
+description: We were absolutely thrilled to take a group on our first ever visit to
+  [Crowdcube](https://www.crowdcube.com/), a British investment crowdfunding platform,
+  established by Darren Westlake and Luke Lang in 2011.
 ---
 
 We were absolutely thrilled to take a group on our first ever visit to [Crowdcube](https://www.crowdcube.com/), a British investment crowdfunding platform, established by Darren Westlake and Luke Lang in 2011.  The visiting group from Russia were all EBMA students and they were given a fascinating presentation by Tom Smith who is an Equity Fundraising Manager at Crowdcube.
