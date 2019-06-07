@@ -2,6 +2,7 @@
 title: Crowdcube visit
 date: 2019-06-06 16:24:00 Z
 permalink: "/blog/crowdcube-company-visit"
+published: false
 categories:
 - blog
 - fintech
