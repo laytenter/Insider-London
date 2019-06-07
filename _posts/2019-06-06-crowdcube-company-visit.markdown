@@ -13,9 +13,15 @@ description: We were absolutely thrilled to take a group on our first ever visit
 layout: post
 ---
 
+![00062.00_01_36_05.Still006-760.jpg](/uploads/00062.00_01_36_05.Still006-760.jpg)
+
 We were absolutely thrilled to take a group on our first ever visit to [Crowdcube](https://www.crowdcube.com/), a British investment crowdfunding platform, established by Darren Westlake and Luke Lang in 2011.  The visiting group from Russia were all EBMA students and they were given a fascinating presentation by Tom Smith who is an Equity Fundraising Manager at Crowdcube.
 
+![00062.00_01_13_05.Still003-760.jpg](/uploads/00062.00_01_13_05.Still003-760.jpg)
+
 Online equity crowdfunding platforms allow early-stage companies to submit “pitches”, inviting members of the public to pledge money in return for equity shares.  As the world’s first and most successful investment crowdfunding platform, Crowdcube enables entrepreneurs to bypass the traditional business angel, venture capital or bank finance routes, giving them more control and access to more investors
+
+![00062.00_02_02_07.Still008-760.jpg](/uploads/00062.00_02_02_07.Still008-760.jpg)
 
 Fund raising is, of course, critical to the business, but Tom Smith also emphasised the importance of the platform in terms of marketing.  As it is public-facing Crowdcube campaigns help companies increase their profile, raise brand awareness and impact on customer loyalty.  For example, the fast growing Challenger bank, Monzo, has so far raised £211m in three rounds of fundraising, £25m of which has come from Crowdcube.  And just to demonstrate the pulling power of Monzo, they raised £1m within 19 seconds of opening their campaign on Crowdcube.
 
@@ -26,3 +32,5 @@ To date, Crowdcube has raised £600 million for 800 companies.  Investors can in
 Interestingly, one of the many investors in Crowdcube itself is Channel 4.  Last year the broadcaster invested in Crowdcube through its Commercial Growth Fund and Jonathan Allan, Channel 4's chief commercial officer, said: "Crowdcube is the perfect fit for Channel 4’s Commercial Growth Fund investment. We both share a desire to support emerging talent and disrupt the status quo."
 
 We visited Crowdcube in a beautiful co-working office situated very close to the City and the Silicon Roundabout zone where there are dozens of disruptive technology companies.  Crowdcube definitely looks like a stayer.
+
+![00062.00_01_22_15.Still004-760.jpg](/uploads/00062.00_01_22_15.Still004-760.jpg)
