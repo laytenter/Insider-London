@@ -27,11 +27,13 @@ This is a great introduction to the world of work for young people and helps the
 
 ## Educational Visits London
 
+![A group of students outside the London Guildhall on our London Finance tour](/uploads/finance%20tour%20guildhall%20london.png)
+
 Another popular guided walking tour amongst students is the two-hour Silicon Roundabout / Tech City Walking Tour starting at Shoreditch Grind and finishing at Google Campus.
 
 The tour explores how such a small area of London is beginning to rival Silicon Valley and why it has become crucial to the UK’s post-recession recovery. The Silicon Roundabout / Tech City Walking Tour is ideal for students visiting the UK who want to understand how businesses work within London’s economy.
 
-\[Image\]
+![An overhead image of the silicon roundabout, a popular destination for one of our educational tours](/uploads/can%20a%20roundabout%20become%20a%20city%20silicon%20roundabout%20tech%20city.jpg)
 
 ## Trips for Business Studies Students
 
@@ -39,7 +41,7 @@ Our [City Finance Walking Tour](https://www.insider-london.co.uk/tours/london-fi
 
 This tour is ideal for young professionals or students who are just about to embark on their career journeys and want to gain extra insight into the City of London’s history and financial background.
 
-\[Image\]
+![A large group of students enjoying one our Fintech workshops at IBK](/uploads/fintech%20workshop%20IBK.jpg)
 
 ## Educational Walking Tours
 
@@ -52,10 +54,10 @@ Looking to arrange a bespoke tour for a group of school, college or university s
 ### Browse our Tours
 
 <div class="layout">
-  {% assign tours = site.tours | where: "categories", "educational" | sort:"order","last" %}
-  {% for tour in tours %}
-  <div class="layout__item u-1/2 u-1/2-lap u-1/2-palm">
-  {% include tour-block.html %}
-  </div>
-  {% endfor %}
+{% assign tours = site.tours | where: "categories", "educational" | sort:"order","last" %}
+{% for tour in tours %}
+<div class="layout__item u-1/2 u-1/2-lap u-1/2-palm">
+{% include tour-block.html %}
+</div>
+{% endfor %}
 </div>
