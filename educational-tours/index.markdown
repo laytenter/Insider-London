@@ -19,6 +19,8 @@ Insider London’s [company visits for students](https://www.insider-london.co.u
 
 The perfect way to discover the secrets of business!
 
+![A group of students on one of our Natwest business vistits](/uploads/natwest-slider.jpg)
+
 The tour gives you the chance to explore and understand the unique features that make up a thriving business model, making it a particularly useful tour for business and economic students. Accompanied by a professional Insider London [tour guide](https://www.insider-london.co.uk/tour-guides/), each group of students is taken on an insider visit to a high-profile business in their chosen industry.
 
 This could be a tech start-up, a theatre, a city incubator, or another relevant business in the field that is of most interest to the group. Students have the opportunity to meet senior members of staff, ask lots of questions, and see what goes on behind the scenes in some fascinating businesses.
@@ -27,13 +29,11 @@ This is a great introduction to the world of work for young people and helps the
 
 ## Educational Visits London
 
-![A group of students outside the London Guildhall on our London Finance tour](/uploads/finance%20tour%20guildhall%20london.png)
-
 Another popular guided walking tour amongst students is the two-hour Silicon Roundabout / Tech City Walking Tour starting at Shoreditch Grind and finishing at Google Campus.
 
 The tour explores how such a small area of London is beginning to rival Silicon Valley and why it has become crucial to the UK’s post-recession recovery. The Silicon Roundabout / Tech City Walking Tour is ideal for students visiting the UK who want to understand how businesses work within London’s economy.
 
-![An overhead image of the silicon roundabout, a popular destination for one of our educational tours](/uploads/can%20a%20roundabout%20become%20a%20city%20silicon%20roundabout%20tech%20city.jpg)
+![A group of students starting our silicon roundabout tour, a popular destination for one of our many educational tours](/uploads/silicon%20roundabout%20tour%20tech%20city.jpg)
 
 ## Trips for Business Studies Students
 
