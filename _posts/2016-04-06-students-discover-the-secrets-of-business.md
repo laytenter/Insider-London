@@ -5,6 +5,7 @@ permalink: "/blog/students-discover-the-secrets-of-business/"
 categories:
 - blog
 layout: post
+canonical_url: /educational-tours/
 ---
 
 Looking for an in-depth experience for school, college or university students? Take a trip to London and discover the most useful business secrets with Insider London.
