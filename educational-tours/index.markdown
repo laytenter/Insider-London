@@ -19,6 +19,8 @@ Insider London’s [company visits for students](https://www.insider-london.co.u
 
 The perfect way to discover the secrets of business!
 
+![A group of students on one of our Natwest business vistits](/uploads/natwest-slider.jpg)
+
 The tour gives you the chance to explore and understand the unique features that make up a thriving business model, making it a particularly useful tour for business and economic students. Accompanied by a professional Insider London [tour guide](https://www.insider-london.co.uk/tour-guides/), each group of students is taken on an insider visit to a high-profile business in their chosen industry.
 
 This could be a tech start-up, a theatre, a city incubator, or another relevant business in the field that is of most interest to the group. Students have the opportunity to meet senior members of staff, ask lots of questions, and see what goes on behind the scenes in some fascinating businesses.
@@ -31,7 +33,7 @@ Another popular guided walking tour amongst students is the two-hour Silicon Rou
 
 The tour explores how such a small area of London is beginning to rival Silicon Valley and why it has become crucial to the UK’s post-recession recovery. The Silicon Roundabout / Tech City Walking Tour is ideal for students visiting the UK who want to understand how businesses work within London’s economy.
 
-\[Image\]
+![A group of students starting our silicon roundabout tour, a popular destination for one of our many educational tours](/uploads/silicon%20roundabout%20tour%20tech%20city.jpg)
 
 ## Trips for Business Studies Students
 
@@ -39,7 +41,7 @@ Our [City Finance Walking Tour](https://www.insider-london.co.uk/tours/london-fi
 
 This tour is ideal for young professionals or students who are just about to embark on their career journeys and want to gain extra insight into the City of London’s history and financial background.
 
-\[Image\]
+![A large group of students enjoying one our Fintech workshops at IBK](/uploads/fintech%20workshop%20IBK.jpg)
 
 ## Educational Walking Tours
 
@@ -52,10 +54,10 @@ Looking to arrange a bespoke tour for a group of school, college or university s
 ### Browse our Tours
 
 <div class="layout">
-  {% assign tours = site.tours | where: "categories", "educational" | sort:"order","last" %}
-  {% for tour in tours %}
-  <div class="layout__item u-1/2 u-1/2-lap u-1/2-palm">
-  {% include tour-block.html %}
-  </div>
-  {% endfor %}
+{% assign tours = site.tours | where: "categories", "educational" | sort:"order","last" %}
+{% for tour in tours %}
+<div class="layout__item u-1/2 u-1/2-lap u-1/2-palm">
+{% include tour-block.html %}
+</div>
+{% endfor %}
 </div>
