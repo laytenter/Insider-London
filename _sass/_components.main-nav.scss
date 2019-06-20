@@ -54,6 +54,29 @@
     text-align: center;
   }
 }
+
+.blog {
+
+   border-top: 5px solid $color-brand;
+
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .site-nav__item {
+    padding: 0;
+    text-transform: none;
+  }
+  .site-nav__item + .site-nav__item {
+    margin-left: $inuit-base-spacing-unit--large;
+  }
+  .site-nav__link {
+    padding: $inuit-base-spacing-unit--small 0;
+  }
+}
+
 .site-nav__link {
   text-decoration: none;
   color: $color-white;

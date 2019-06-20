@@ -25,4 +25,5 @@ group :jekyll_plugins do
    gem "redcarpet"
    gem 'jekyll-seo-tag'
    gem 'jekyll-sitemap'
+   gem 'jekyll-admin'
 end
