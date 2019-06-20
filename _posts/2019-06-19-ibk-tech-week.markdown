@@ -5,9 +5,9 @@ description: 'One of the highlights of London Tech Week here at Insider London w
   the return of the IBK Executive Group for our Fintech for the Future Workshop. '
 ---
 
-One of the highlights of London Tech Week here at Insider London was the return of the IBK Executive Group for our "Fintech for the Future Workshop". This session took place at a prestigious Finsbury Square location, where the City of London meets Silicon Roundabout. Over the course of two hours, delegates heard from three exciting blockchain companies.
-
 ![Insider London 12-6-19-43-760.jpg](/uploads/Insider%20London%2012-6-19-43-760.jpg)
+
+One of the highlights of London Tech Week here at Insider London was the return of the IBK Executive Group for our "Fintech for the Future Workshop". This session took place at a prestigious Finsbury Square location, where the City of London meets Silicon Roundabout. Over the course of two hours, delegates heard from three exciting blockchain companies.
 
 First up was Demetrios Zamboglou from [BABB](https://getbabb.com) who shared their innovative "everyone is a bank" philosophy. Providing access to the unbanked and underbanked through the innovative use of blockchain technology, BABB provides a safe, secure and accessible way to send, receive and raise money through a mobile phone
 
