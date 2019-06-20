@@ -1,5 +1,6 @@
 ---
 title: IBK Tech Week 2019
+date: 2019-06-19 00:00:00 Z
 ---
 
 [General picture]
