@@ -10,7 +10,7 @@ layout: page-sidebar
 
 At Insider London, our guided walking tours and [behind-the-scenes business visits](https://www.insider-london.co.uk/in-depth-business-visits/) are very popular among students, schools and universities from both the UK and abroad. If you are a teacher or educator looking to book a trip, Insider London's educational walking tours will introduce your students to the world of business and can be adapted to fit your precise needs.
 
-## Educational Tours London
+## School Tours London
 
 Looking for an in-depth experience for school, college or university students? Take a trip to London and discover the most useful business secrets with Insider London.
 
