@@ -2,9 +2,8 @@
 title: Educational Tours
 date: 2019-06-17 08:42:00 Z
 permalink: "/educational-tours/"
-description: Our guided walking tours and behind-the-scenes business visits are very
-  popular among students, schools and universities from both the UK and abroad and
-  can be adapted to fit your precise needs.
+description: Our Educational Tours are very popular among students, schools and universities
+  from both the UK and abroad and can be adapted to fit your precise needs.
 noindex: 1
 layout: page-sidebar
 ---
