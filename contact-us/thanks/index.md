@@ -6,17 +6,31 @@ author: london75
 guid: "/?page_id=3518"
 slide_template:
 - default
-vc_teaser:
-- a:2:{s:4:"data";s:115:"[{"name":"title","link":"post"},{"name":"image","image":"featured","link":"none"},{"name":"text","mode":"excerpt"}]";s:7:"bgcolor";s:0:"";}
 layout: page
 ---
 
 ## We have received your enquiry, and will be in touch soon.
 
-**@** [contact@insider-london.co.uk](mailto:contact@insider-london.co.uk)
-
-**T** [\+44 (0) 20 7183 1055](tel:00442071831055) <br />
-**M** [\+44 (0)78 6967 8717](tel:00447869678717)
+<ul class="list-bare">
+  <li>
+    <strong>@</strong>
+    <a href="mailto:contact@insider-london.co.uk" onclick="gtag('event', 'Click', { 'event_category': 'Email' });">
+      contact@insider-london.co.uk
+    </a>
+  </li>
+  <li>
+    <strong>T</strong>
+    <a href="tel:442071831055" onclick="gtag('event', 'Click', { 'event_category': 'Call' });">
+      +44 (0) 20 7183 1055
+    </a>
+  </li>
+  <li>
+    <strong>M</strong>
+    <a href="tel:447869678717" onclick="gtag('event', 'Click', { 'event_category': 'Call' });">
+      +44 (0)78 6967 8717
+    </a>
+  </li>
+</ul>
 
 
 <p>
@@ -24,4 +38,3 @@ layout: page
 <a href="https://twitter.com/#!/insiderlondon" target="_blank"><img src="/uploads/contact_twitter_icon_insider-blue_small.png" alt="Twitter" style="max-height:1em;">&nbsp;Twitter</a> <br />
 <a href="https://www.instagram.com/insiderlondontours/" target="_blank"><img src="/uploads/contact_instagram_icon_insider-blue_small.png" alt="Instagram" style="max-height:1em;">&nbsp;Instagram</a> <br />
 </p>
-

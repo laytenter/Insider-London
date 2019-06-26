@@ -13,10 +13,26 @@ sitemap: false
 
 ### Get in touch
 
-**@** [contact@insider-london.co.uk](mailto:contact@insider-london.co.uk)
-
-**T** [\+44 (0) 20 7183 1055](tel:00442071831055) <br />
-**M** [\+44 (0)78 6967 8717](tel:00447869678717)
+<ul class="list-bare">
+  <li>
+    <strong>@</strong>
+    <a href="mailto:contact@insider-london.co.uk" onclick="gtag('event', 'Click', { 'event_category': 'Email' });">
+      contact@insider-london.co.uk
+    </a>
+  </li>
+  <li>
+    <strong>T</strong>
+    <a href="tel:442071831055" onclick="gtag('event', 'Click', { 'event_category': 'Call' });">
+      +44 (0) 20 7183 1055
+    </a>
+  </li>
+  <li>
+    <strong>M</strong>
+    <a href="tel:447869678717" onclick="gtag('event', 'Click', { 'event_category': 'Call' });">
+      +44 (0)78 6967 8717
+    </a>
+  </li>
+</ul>
 
 
 <p>

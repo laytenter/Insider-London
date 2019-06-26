@@ -33,6 +33,10 @@
 
 }
 
+.utility-nav__link + .utility-nav__link {
+  margin-left: 24px;
+}
+
 .telephone {
 
   font-weight: 700;
