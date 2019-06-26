@@ -18,6 +18,7 @@ var sass         = require('gulp-ruby-sass');
 var uglify       = require('gulp-uglify');
 var criticalCss = require('gulp-penthouse');
 var responsive   = require('gulp-responsive');
+var plumber   = require('gulp-plumber');
 
 // Include paths file.
 //var paths = require('./_assets/gulp_config/paths');
@@ -60,19 +61,22 @@ gulp.task('build:images', function() {
 
 gulp.task('images', function () {
 
-  return gulp.src('./images/**/*.jpg')
-    .pipe(responsive({
-      '**/*.jpg': {
+  return gulp.src('./images/**/*.{jpg,JPG,jpeg}')
+      .pipe(plumber())
+    .pipe(responsive({'**/*.jpg': {
         width: 760,
-        rename: { suffix: '-760'},
-        errorOnEnlargement: false
+        rename: { suffix: '-760'}
+      },
     },
-      quality: 70,
+     {
       progressive: true,
+      quality: 70,
       withMetadata: true,
-      errorOnUnusedConfig: false,
-    })).pipe(gulp.dest('_uploads'));
+      errorOnEnlargement: false,
+      errorOnUnusedConfig: false
+    })).pipe(gulp.dest('_uploads'))
 });
+
 // Runs jekyll build command.
 gulp.task('build:jekyll', function() {
     var shellCommand = 'bundle exec jekyll build --incremental --config _config.yml';
