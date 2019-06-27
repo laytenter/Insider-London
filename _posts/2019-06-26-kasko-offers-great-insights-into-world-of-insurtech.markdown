@@ -1,16 +1,18 @@
 ---
 title: Kasko offers great insights into world of InsurTech
 date: 2019-06-26 11:04:00 Z
-description: Insider London had the pleasure to take a group from South Korea to visit
-  Kasko, an InsurTech start-up, for an in-depth visit. The delegates discovered details
-  about Kasko’s guiding principles and the technology they utilise.
+description: Insider London had the pleasure to take a group from South Korea to visit Kasko, an InsurTech start-up, for an in-depth visit. The delegates discovered details about Kasko’s guiding principles and the technology they utilise.
+excerpt_separator: <!--more-->
 ---
+
+![Our group of delegates from the NHIC before the start of the visit.](/uploads/DSC02376-760.jpg)
 
 Last week Insider London had the pleasure to take a group from South Korea to visit [Kasko](https://www.kasko.io/), an InsurTech start-up.
 
+<!--more-->
+
 Our visitors were all from the [National Health Insurance Corporation](http://www.nhis.or.kr/static/html/wbd/g/a/wbdga0101.html) (NHIC) of South Korea. The NHIC is a not-for-profit public organization, providing universal health coverage for approximately 96.3% of Korean citizens. The health system in South Korea differs slightly from the NHS in the UK. The South Korea health system enrols all citizens automatically and a monthly payment is made based on household income. Nonetheless, exactly the same services are provided to all people, regardless of income.
 
-![Our group of delegates from the NHIC before the start of the visit.](/uploads/DSC02376-760.jpg)
 
 Kasko does work with the health system but not exclusively. Kasko designs, distributes and runs digital insurance products for any distribution channel. Their main aim is to enable insurers to keep pace with the market. They can launch a new insurance product in 4 weeks and use the Amazon cloud service. Kasko was founded in 2017 and in the last two years have established a presence in five countries and currently work with 15 insurers. So far they have launched 235 products.
 
