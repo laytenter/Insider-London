@@ -16,8 +16,12 @@ Kasko does work with the health system but not exclusively. Kasko designs, distr
 
 We were delighted to have two representatives from this exciting start-up. Matthew Wardle is the CTO and co-founder. He has amassed over 10 years in tech start-ups and was joined by Sergej Tolz, the Chief Operating Officer. They offered an excellent overview of the company and then conducted an engrossing Q and A via Phillip, our wonderful interpreter.
 
+![Kasko CTO Matthew Wardle and COO Sergej Tolz presenting to the group](/uploads/DSC02362-760.jpg)
+
 The delegates from NHIC all had technical backgrounds and so really put Matthew and Sergej through their paces, but the guys were more than up for it and as a result it was an engaging session as more detail was uncovered about Kasko’s guiding principles and the technology they utilise.
 
 The UK has undoubtedly taken a leading role in the world of FinTech and it has been argued that insurance companies have lagged behind in terms of bringing technology into their business models. This appears to be changing as insurance companies increasingly accept that dynamic start-ups, such as Kasko, can offer aspects of expertise that it may be difficult to develop within the traditional insurance organisations.
+
+![The delegates listening to the presentation](/uploads/DSC02371-760.jpg)
 
 This business visit felt like a meeting of minds something that we always strive to accomplish at Insider London. Please take the time to have a look at our website to see the types of [business visits](https://www.insider-london.co.uk/in-depth-business-visits/) we offer or contact us at contact@insider-london to discuss your particular needs.
