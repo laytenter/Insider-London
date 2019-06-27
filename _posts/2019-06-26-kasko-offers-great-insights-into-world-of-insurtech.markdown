@@ -1,8 +1,10 @@
 ---
 title: Kasko offers great insights into world of InsurTech
 date: 2019-06-26 11:04:00 Z
-description: Insider London had the pleasure to take a group from South Korea to visit Kasko, an InsurTech start-up, for an in-depth visit. The delegates discovered details about Kasko’s guiding principles and the technology they utilise.
-excerpt_separator: <!--more-->
+description: Insider London had the pleasure to take a group from South Korea to visit
+  Kasko, an InsurTech start-up, for an in-depth visit. The delegates discovered details
+  about Kasko’s guiding principles and the technology they utilise.
+excerpt_separator: "<!--more-->"
 ---
 
 ![Our group of delegates from the NHIC before the start of the visit.](/uploads/DSC02376-760.jpg)
