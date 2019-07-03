@@ -1,5 +1,6 @@
 ---
 title: Roche delegates enjoy in depth business visits
+date: 2019-07-03 00:00:00 Z
 description: On 26th June, Insider London were proud to organise a full day of company
   visits for a diverse team and engaged team from Roche. Delegates visited three very
   different companies for fresh insight into agility and entrapreneurship from a variety
