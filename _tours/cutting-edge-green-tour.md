@@ -78,7 +78,7 @@ What you will discover:
 
 * How companies communicate their sustainable principles, including one businesses extremely ‘cheeky’ initiative.
 
-Starting near colourful Covent Garden, our expert guide will show you some of London’s hottest sustainable businesses before heading to hotel heaven on the Strand. Our tour then crosses the Thames and slides along the South Bank before winding up at a super successful housing regeneration project.
+Starting near colourful Covent Garden, our expert guide will show you some of London’s hottest sustainable businesses before heading to hotel heaven on the Strand. Our tour then crosses the Thames and slides along the South Bank before winding up at Embankment Station.
 
 To book your place on one of Insider London’s Cutting-edge Green tours use the booking form on the right side of this page.
 
