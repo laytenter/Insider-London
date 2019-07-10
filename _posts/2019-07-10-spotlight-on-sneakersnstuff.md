@@ -1,5 +1,6 @@
 ---
 title: Spotlight on Sneakersnstuff
+date: 2019-07-10 00:00:00 Z
 description: 'This week, we take a look at one of the East End''s coolest boutiques:
   Sneakersnstuff, as it celebrates its 20 year anniversary.'
 ---
