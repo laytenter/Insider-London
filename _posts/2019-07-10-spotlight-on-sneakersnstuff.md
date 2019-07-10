@@ -5,11 +5,15 @@ description: 'This week, we take a look at one of the East End''s coolest boutiq
   Sneakersnstuff, as it celebrates its 20 year anniversary.'
 ---
 
+![Interior shot of the NYC sneakernstuff store](/uploads/sneakersnstuff-luxury-sneaker-store-nyc-erik-fagerlind-interview-1-760.jpg)
+
 This week, we take a look at one of the East End's coolest boutiques: Sneakersnstuff, as it celebrates its 20 year anniversary.
 
-Sneakersnstuff was founded in Stockholm in 1999 as an online retailer to cater for niche tastes in a small community of “sneaker-obsessed” Swedish cool kids who the big retail chains weren't appealing to. The two founders, Eric Janssen and  Erik Fagerlind, went on ['sneaker safaris'](https://www.forbes.com/sites/josephdeacetis/2019/04/05/global-retailer-sneakersnstuff-celebrates-its-20th-anniversary-with-a-new-venice-beach-store/) in the USA to track down the latest trends not yet available in Sweden. They became the first retailer in Sweden to just sell sneakers. They argue that for “sneaker-heads” shoes are a way to express yourself and show your identity without being over the top.
+Sneakersnstuff was founded in Stockholm in 1999 as an online retailer to cater for niche tastes in a small community of 'sneaker-obsessed' Swedish cool kids who the big retail chains weren't appealing to. The two founders, Eric Janssen and  Erik Fagerlind, went on ['sneaker safaris'](https://www.forbes.com/sites/josephdeacetis/2019/04/05/global-retailer-sneakersnstuff-celebrates-its-20th-anniversary-with-a-new-venice-beach-store/) in the USA to track down the latest trends not yet available in Sweden. They became the first retailer in Sweden to just sell sneakers. They argue that for “sneaker-heads” shoes are a way to express yourself and show your identity without being over the top.
 
 While other retailers scale back their outlets and the internet allows brands to sell directly to the consumer more efficiently than ever before, Sneakersnstuff is expanding. This year for the 20th anniversary, Janssen and Fagerlind announced further international expansion. With a new retailer in LA, a concept bar in New York ['SNS Bar'](https://www.highsnobiety.com/p/sneakersnstuff-sns-bar-new-york/) and the first outlet in Japan at the end of this year, the brand is making bold steps forward. They have also announced a new app that will soon be available to streamline purchasing.
+
+![image_2019_05_sneakersnstuff-opens-sns-bar-new-york-city-2-760.jpg](/uploads/image_2019_05_sneakersnstuff-opens-sns-bar-new-york-city-2-760.jpg)
 
 So what's the appeal?
 
