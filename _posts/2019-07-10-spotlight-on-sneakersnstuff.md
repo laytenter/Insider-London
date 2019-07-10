@@ -3,11 +3,14 @@ title: Spotlight on Sneakersnstuff
 date: 2019-07-10 00:00:00 Z
 description: 'This week, we take a look at one of the East End''s coolest boutiques:
   Sneakersnstuff, as it celebrates its 20 year anniversary.'
+excerpt_separator: "<!--more-->"
 ---
 
 ![Interior shot of the NYC sneakernstuff store](/uploads/sneakersnstuff-luxury-sneaker-store-nyc-erik-fagerlind-interview-1-760.jpg)
 
 This week, we take a look at one of the East End's coolest boutiques: Sneakersnstuff, as it celebrates its 20 year anniversary.
+
+<!--more-->
 
 Sneakersnstuff was founded in Stockholm in 1999 as an online retailer to cater for niche tastes in a small community of 'sneaker-obsessed' Swedish cool kids who the big retail chains weren't appealing to. The two founders, Eric Janssen and  Erik Fagerlind, went on ['sneaker safaris'](https://www.forbes.com/sites/josephdeacetis/2019/04/05/global-retailer-sneakersnstuff-celebrates-its-20th-anniversary-with-a-new-venice-beach-store/) in the USA to track down the latest trends not yet available in Sweden. They became the first retailer in Sweden to just sell sneakers. They argue that for “sneaker-heads” shoes are a way to express yourself and show your identity without being over the top.
 
