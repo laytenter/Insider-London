@@ -7,7 +7,7 @@ description: 'Last week, Swinbourne University visited the rising business star 
 excerpt_separator: "<!--more-->"
 ---
 
-[ Picture]
+![Students from Swinbourne University in Shanghai](/uploads/versus-gloabl-1-760.jpg)
 
 Last week, Swinbourne University visited the rising business star of the east: Shanghai. Insider London had the privilege of organising a business programme to provide students with first-hand insight into the Shanghai Business Ecosystem.
 
@@ -19,7 +19,7 @@ Internet Initiative Japan makes the internet a true social infrastructure whilst
 
 Kevin Le further described international business expansion in the EU and the US, as well as Asian markets and gave an in-depth discussion on “How to start a business in China”. This included a brief history of Chinese markets and the control mechanisms within the sector. Students left with both a detailed understanding of the business model of Internet Initiative Japan and a broad perspective on the complexities of business in China.
 
-[Picture]
+![Students receiving a presentation from Kevin Le](/uploads/verusu-global-4-760.jpg)
 
 Next up was Verus Global. Verus Global represents a new generation of the freight forwarding industry. Bridging the gap between global giants and small enterprises, the logistics pioneers offer a transparent and state-of-the-art tracking system. Verus Global allows for a streamlined shipping service with minimal touch points and real-time views of the shipping journey.
  
