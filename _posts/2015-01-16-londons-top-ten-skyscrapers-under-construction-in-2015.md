@@ -1,6 +1,6 @@
 ---
 title: London&#8217;s top ten skyscrapers under construction in 2015
-date: 2015-01-16 14:21:35 Z
+date: 2015-01-16 14:21:00 Z
 permalink: "/blog/londons-top-ten-skyscrapers-under-construction-in-2015/"
 categories:
 - blog
@@ -18,9 +18,8 @@ tags:
 - residential
 - South london
 - Sustainable Architecture
-id: 24488
 author: london75
-layout: post
+id: 24488
 guid: https://www.insider-london.co.uk/?p=24488
 s4_url2s:
 - 
@@ -30,6 +29,7 @@ s4_ctitle:
 - 
 s4_cdes:
 - 
+layout: post
 ---
 
 <img class="aligncenter wp-image-24504 size-full" src="/wp-content/uploads/2015/01/5082944287_70de603291_z.jpg" alt="London's skyscrapers" width="569" height="365" />
@@ -109,7 +109,7 @@ Joining the tower club is the Vauxhall/Battersea/Nine Elms regeneration area, br
 9. Lexicon and Canaletto <img class="aligncenter size-full wp-image-24478" src="/wp-content/uploads/2014/12/lexicon_-_scheme_hero_wip_14.05.13.jpg" alt="Lexicon" width="569" height="828" />
 
 <p style="text-align: center">
-  <em>Slick, water side living. Image Credit: <a href="http://www.mountanvil.com/objects_store/lexicon_-_scheme_hero_wip_14.05.13.jpg">Mount Anvil</a></em>
+  <em>Slick, water side living. Image Credit: <a href="https://mountanvil.com/our-london-homes/lexicon/">Mount Anvil</a></em>
 </p>
 
   <img class="aligncenter size-full wp-image-24486" src="/wp-content/uploads/2014/12/dezeen_Canaletto-by-UNStudio_1sq.jpg" alt="Canaletto Tower" width="569" height="569" />
