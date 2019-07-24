@@ -13,7 +13,7 @@ Last week, Swinbourne University visited the rising business star of the east: S
 
 <!--more-->
 
-The group met with Kevin Le, Sales Director of Internet Initiative [Japan](https://www.iij.ad.jp/en/ )  and Shaw Xue , China CEO of [Verus Global](https://www.verusglobal.com/).
+The group met with Kevin Le, Sales Director of Internet Initiative [Japan](https://www.iij.ad.jp/en/ )  and Shaw Xue , China CEO of [Verus Global](https://www.verus-global.com/).
 
 Internet Initiative Japan makes the internet a true social infrastructure whilst creating advanced shapes with high technical capabilities. From launching Japan’s first firewall service in 1994 to pioneering cloud service in 2000, Internet Initiative Japan has a long history of innovation. The last few years has seen IIJ complete the world’s first successful test of streaming high resolution audio reproduction of analogue sound.
 
