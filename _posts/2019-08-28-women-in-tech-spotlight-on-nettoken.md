@@ -20,7 +20,7 @@ As the UK tech industry booms with London at its epicentre, we asked the questio
 **IL:** Nettoken is a very interesting and topical company, can you describe what you do?
 
 **SO:** Our mission is to make personal cybersecurity and identity management easy and accessible to everyone with a digital presence. We have built a design-led platform that helps you find and organize all the online accounts that you have signed up to overtime. Most people signed up to no less than 150, but it’s challenging to keep track. As we sign up to new accounts every day, for example to book a flight ticket or pay a bill, Nettoken raises awareness and control over your digital footprint, to best manage it and at the same time keep it secure. All through a unique and user-friendly dashboard.
- 
+
 **IL:** With LORCA in Here East and Imperial's new international cybersecurity centre launched last month, the cybersecurity sector is growing fast in the UK. For this sector, what do you think distinguishes the London business eco-system from others?
 
 **SO:** The dramatic increase of cybercriminal activity that we are witnessing makes cybersecurity a topic that is relevant to all, but London is particularly attentive to this theme thanks to its history and a great network of cyber-experts, from leading security consulting firms to cyber law firms. The recent update in the General Data Protection Regulation (GDPR) has also generated a great number of innovative ventures revolving around data privacy and security.
