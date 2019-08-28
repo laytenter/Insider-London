@@ -9,7 +9,9 @@ description: As the UK tech industry booms with London at its epicentre, we aske
 excerpt_separator: "<!--more-->"
 ---
 
-Research published last week for the government’s Digital Economy Council showed that the UK Tech industry has, in just seven months, [attracted $6.7B (£5.5B) in foreign investment](https://www.cityam.com/tech-startups-attract-record-6-7bn-in-foreign-investment/).  Reassuring to those who fear that Brexit may already impacting the sector, this is one and half times the average amount raised last year per month. The UK eco-system remains the clear favourite with US and Asian investors by a comfortable margin ($14.6B has been invested in UK tech start-ups since 2013 compared to $6.5B German start-ups and $2.5B in French start-ups).
+![Women in Tech - Nettoken](/uploads/women-in-tech-nettoken-760.jpg)
+
+Research published last week for the government’s Digital Economy Council showed that the UK Tech industry has, in just seven months, [attracted $6.7B (£5.5B) in foreign investment](https://www.cityam.com/tech-startups-attract-record-6-7bn-in-foreign-investment/). Reassuring to those who fear that Brexit may already impacting the sector, this is one and half times the average amount raised last year per month. The UK eco-system remains the clear favourite with US and Asian investors by a comfortable margin ($14.6B has been invested in UK tech start-ups since 2013 compared to $6.5B German start-ups and $2.5B in French start-ups).
 
 <!--more-->
 
