@@ -1,5 +1,6 @@
 ---
 title: 'Women in Tech: Spotlight on Nettoken'
+date: 2019-08-28 00:00:00 Z
 description: As the UK tech industry booms with London at its epicentre, we asked
   the question – how does the sector fare for gender diversity? We had the fantastic
   opportunity to speak to Simonetta d’Ottaviano, co-founder of [Nettoken](https://www.nettoken.io/
