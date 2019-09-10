@@ -1,7 +1,10 @@
 ---
 title: 'Summer 2019: Thank You to all our Partners'
+date: 2019-09-10 00:00:00 Z
 excerpt_separator: "<!--more-->"
-description: We are now rounding off our busiest summer yet at Insider London and would like to warmly thank all our partners, both new and returning. We thank you for putting your faith in us to deliver the best programmes for your groups.
+description: We are now rounding off our busiest summer yet at Insider London and
+  would like to warmly thank all our partners, both new and returning. We thank you
+  for putting your faith in us to deliver the best programmes for your groups.
 ---
 
 [picture]
