@@ -1,5 +1,6 @@
 ---
 title: 'Women in Tech: Spotlight on Nettoken'
+date: 2019-08-28 00:00:00 Z
 description: As the UK tech industry booms with London at its epicentre, we asked
   the question – how does the sector fare for gender diversity? We had the fantastic
   opportunity to speak to Simonetta d’Ottaviano, co-founder of [Nettoken](https://www.nettoken.io/
@@ -8,7 +9,9 @@ description: As the UK tech industry booms with London at its epicentre, we aske
 excerpt_separator: "<!--more-->"
 ---
 
-Research published last week for the government’s Digital Economy Council showed that the UK Tech industry has, in just seven months, [attracted $6.7B (£5.5B) in foreign investment](https://www.cityam.com/tech-startups-attract-record-6-7bn-in-foreign-investment/).  Reassuring to those who fear that Brexit may already impacting the sector, this is one and half times the average amount raised last year per month. The UK eco-system remains the clear favourite with US and Asian investors by a comfortable margin ($14.6B has been invested in UK tech start-ups since 2013 compared to $6.5B German start-ups and $2.5B in French start-ups).
+![Women in Tech - Nettoken](/uploads/women-in-tech-nettoken-760.jpg)
+
+Research published last week for the government’s Digital Economy Council showed that the UK Tech industry has, in just seven months, [attracted $6.7B (£5.5B) in foreign investment](https://www.cityam.com/tech-startups-attract-record-6-7bn-in-foreign-investment/). Reassuring to those who fear that Brexit may already impacting the sector, this is one and half times the average amount raised last year per month. The UK eco-system remains the clear favourite with US and Asian investors by a comfortable margin ($14.6B has been invested in UK tech start-ups since 2013 compared to $6.5B German start-ups and $2.5B in French start-ups).
 
 <!--more-->
 
@@ -24,11 +27,15 @@ As the UK tech industry booms with London at its epicentre, we asked the questio
 
 The British government is also active in supporting start-ups like us that work from different angles to contribute in keeping the country digitally secure, through cyber accelerators like the one we have been selected to be part of run by the National Cyber Security Centre (NCSC). There are more accelerators focussed on cyber, as you mentioned LORCA, as well as CyLon, which was the first in Europe and is one of our very early supporters. All this makes London a great place to start and grown a business in this space
  
-**IL:**As a female founder of a tech company, have you found the tech industry (and/or the cybersecurity industry) to be male dominated? 
+**IL:** As a female founder of a tech company, have you found the tech industry (and/or the cybersecurity industry) to be male dominated? 
 
 **SO:** Me and my co-founders, Ela Neagu and Charlotte Slingsby, were quite used to work with men predominantly, coming from different areas of industrial design and engineering. Female presence in cybersecurity is still particularly low, but is now moving beyond 20% (Cybersecurity Ventures, 2019). At Nettoken we are certainly an unusual case, with three female co-founders, but we know some amazing and inspiring women in the ecosystem including founders, programmers, PR agents, CISOs… we need more!
  
+<<<<<<< HEAD
 **IL:**In that case, how do you think we can encourage more women to consider career paths in the industry?
+=======
+**IL:** In that case, how do you think we can encourage more women to consider career paths in the industry? 
+>>>>>>> 4e54a3d70da7f06ad6b11c65f7a8306ab0e131f8
 
 **SO:** Cybersecurity used to be all about the technology, but as enterprises as well as individuals become increasingly more exposed to cybercrime, it’s now a sector that greatly benefits from diversity not only in terms of gender, but also in terms of skills, in order to improve the communication and accessibility of it, to reach and protect as many people and businesses as possible. Therefore, whether you have a background in design, coding or marketing, it is an exciting and meaningful space for everyone to work in.
 
