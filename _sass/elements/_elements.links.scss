@@ -4,9 +4,7 @@
 
 a {
     text-decoration: none;
-    color: $color-brand;
+    color: $inuit-base-text-color;
 
-    @include attention() {
-        text-decoration: none;
-    }
+
 }

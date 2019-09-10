@@ -1,125 +1,31 @@
-<div id="header-wrapper">
-  <div class="wrapper">
-    <div class="inner-header-container">
-    <p class="telephone lap-and-up-m0 palm-mt0 palm-mb hidden-mobile lap-pt+ lap-pb0 desk-p">
-      <a href="mailto:contact@insider-london.co.uk" onclick="gtag('event', 'Click', { 'event_category': 'Email' });">contact@insider-london.co.uk</a><br />
-      <a href="tel:447869678717" onclick="gtag('event', 'Click', { 'event_category': 'Call' });" >+44 (0)78 6967 8717</a>
-    </p>
-    <a href="/about-us">
-      <img src="/assets/images/2018tripcertexcel.svg" alt="tripadvisor2018certificate" width="84" height="84" class="badge" />
-    </a>
+<header class="u-padding-top-small">
+
+  <div class="o-wrapper u-padding-bottom-small u-padding-left-small u-padding-right-small u-padding-left@desktop u-padding-right@desktop">
+    <div style="display:flex;align-items:center;">
+
+      <a class="lap-and-up-mv-" title="London Walking Tours" href="/">
+        <strong>Insider London</strong>
+      </a>
+      <div style="margin-left:auto">
+        <img src="/assets/images/menu.svg" width="24" class="u-margin-right-small" />
+        <img src="/assets/images/phone-call.svg" width="24" class="u-margin-right-small"/>
+        <img src="/assets/images/mail.svg" width="24" />
+      </div>
+    </div>
   </div>
-  </div>
-  <header class="header">
-    <nav class="site-nav">
-      <div class="wrapper">
-        <div class="layout">
-          <div class="layout__item u-2/5-desk u-2/5-lap u-1/4-palm">
-        <ul class="site-nav__list">
-          <li class="site-nav__item">
-            <a class="site-nav__link" href="/">Home</a>
-          </li>
-          <li class="site-nav__item site-nav__item--parent">
-            <a class="site-nav__link" href="/about-us/">About Us</a>
-            <ul class="sub-menu">
-              <li class="">
-                <a class="sub-menu__link" href="/our-clients-&-testimonials/">Our clients & testimonials</a>
-              </li>
-			  <li class="">
-                <a class="sub-menu__link" href="/what-we-do/">What we do</a>
-              </li>
-              <li>
-                <a class="sub-menu__link" href="/tour-guides/">Our team</a>
-              </li>
-            </ul>
-          </li>
-          <li class="site-nav__item site-nav__item--parent">
-            <a class="site-nav__link" href="/tours/">Tours</a>
-            <ul class="sub-menu">
-              <li class="">
-                <a class="sub-menu__link" href="/tours/historical-walking-tours/">Historical Walking Tours</a>
-              </li>
-              <li>
-                <a class="sub-menu__link" href="/tours/educational-walking-tours/">Educational Walking Tours</a>
-              </li>
-              <li>
-                <a class="sub-menu__link" href="/tours/in-depth-business-tour/">In-Depth Business Visits</a>
-              </li>
-			    <li>
-                <a class="sub-menu__link" href="/tours/european-programme/">European Programme</a>
-              </li>
-            </ul>
-          </li>
-        </ul>
-        <button id="dt-menu-toggle" class="menu-toggle__button palm-mt--" type="button">
-          Menu
-        </button>
-        </div><!--
---><div class="layout__item u-1/5-desk u-1/5-lap u-2/4-palm">
-            <a class="logo" title="London Walking Tours" href="/">
-              <img alt="London Walking Tours" src="/assets/images/insider-logo.png" />
-            </a>
-        </div><!--
---><div class="layout__item u-2/5-desk u-2/5-lap u-1/4-palm">
-          <ul class="site-nav__list site-nav__list--overflow" style="text-align: center">
-          <li class="site-nav__item">
-            <a class="site-nav__link" href="/contact-us/">Contact us</a>
-          </li>
 
-          <li class="site-nav__item">
-            <a class="site-nav__link" href="/blog/">Blog</a>
-          </li>
-        </ul>
+  <nav class="c-scroll-nav u-padding-top-small u-padding-bottom-small">
+    <div class="c-scroll-nav__inner">
+      <div class="c-scroll-nav__container u-padding-bottom-small u-padding-left-small u-padding-right-small">
+        {% assign pages = site.data.navigation  %}
+        {% for page in pages %}
+          {% if page.title %}
+            <a class="c-scroll-nav__link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title | escape }}</a>
+          {% endif %}
+        {% endfor %}
       </div>
-
-      </div>
-      </div>
-      <ul id="menu-main-menu" class="site-nav__list site-nav__list--mobile">
-        <li class="site-nav__item">
-          <a class="site-nav__link site-nav__link--mobile" href="/">Home</a>
-        </li>
-
-        <li class="site-nav__item">
-          <a class="site-nav__link site-nav__link--mobile" href="/about-us/">About Us</a>
-			<ul class="sub-menu">
-              <li class="">
-                <a class="site-nav__link" href="/our-clients-&-testimonials/">Our clients & testimonials</a>
-              </li>
-              <li>
-                <a class="site-nav__link" href="/what-we-do/">What we do</a>
-              </li>
-              <li>
-                <a class="site-nav__link" href="/tour-guides/">Our team</a>
-              </li>
-            </ul>
-        </li>
-
-        <li class="site-nav__item">
-          <a class="site-nav__link site-nav__link--mobile" href="/tours/">Tours</a>
-          <ul class="sub-menu">
-            <li class="">
-              <a class="site-nav__link" href="/tours/historical-walking-tours/">Historical Walking Tours</a>
-            </li>
-            <li>
-              <a class="site-nav__link" href="/tours/educational-walking-tours/">Educational Walking Tours</a>
-            </li>
-            <li>
-              <a class="site-nav__link" href="/tours/in-depth-business-tour/">In-Depth Business Visits</a>
-            </li>
-			<li>
-              <a class="site-nav__link" href="/tours/european-programme/">European Programme</a>
-            </li>
-          </ul>
-        </li>
-        <li class="site-nav__item">
-          <a class="site-nav__link site-nav__link--mobile" href="/contact-us/">Contact us</a>
-        </li>
-
-        <li class="site-nav__item">
-          <a class="site-nav__link site-nav__link--mobile" href="/blog/">Blog</a>
-        </li>
-
-      </ul>
-    </nav>
-  </header>
-</div>
+      <div class="c-scroll__fade c-scroll__fade--before"></div>
+      <div class="c-scroll__fade c-scroll__fade--after"></div>
+    </div>
+  </nav>
+</header>

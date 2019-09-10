@@ -1,0 +1,45 @@
+.c-scroll-nav {
+  background-color: $color-gray-light;
+  border-top: 1px solid $color-gray;
+}
+
+.c-scroll-nav__inner {
+  margin: 0 auto;
+  position: relative;
+  max-width: 1200px;
+  height: 1.5em;
+  overflow:hidden;
+}
+
+.c-scroll-nav__container {
+  white-space: nowrap;
+  overflow: auto;
+  width: auto;
+}
+
+.c-scroll__fade {
+  bottom: 0;
+  display: block;
+  height: 100%;
+  position: absolute;
+  width: 18px;
+
+}
+
+.c-scroll__fade--before {
+	background-image: linear-gradient(to left,rgba(255,255,255,0),$color-gray-light);
+}
+
+.c-scroll__fade--after  {
+	background-image: linear-gradient(to right,rgba(255,255,255,0),$color-gray-light);
+  left: initial;
+  right: 0;
+}
+
+.c-scroll-nav__link {
+  text-decoration: none;
+}
+
+.c-scroll-nav__link + .c-scroll-nav__link {
+  padding-left: $inuit-global-spacing-unit-small;
+}
