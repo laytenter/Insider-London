@@ -31,11 +31,7 @@ The British government is also active in supporting start-ups like us that work 
 
 **SO:** Me and my co-founders, Ela Neagu and Charlotte Slingsby, were quite used to work with men predominantly, coming from different areas of industrial design and engineering. Female presence in cybersecurity is still particularly low, but is now moving beyond 20% (Cybersecurity Ventures, 2019). At Nettoken we are certainly an unusual case, with three female co-founders, but we know some amazing and inspiring women in the ecosystem including founders, programmers, PR agents, CISOs… we need more!
  
-<<<<<<< HEAD
-**IL:**In that case, how do you think we can encourage more women to consider career paths in the industry?
-=======
-**IL:** In that case, how do you think we can encourage more women to consider career paths in the industry? 
->>>>>>> 4e54a3d70da7f06ad6b11c65f7a8306ab0e131f8
+**IL:** In that case, how do you think we can encourage more women to consider career paths in the industry?
 
 **SO:** Cybersecurity used to be all about the technology, but as enterprises as well as individuals become increasingly more exposed to cybercrime, it’s now a sector that greatly benefits from diversity not only in terms of gender, but also in terms of skills, in order to improve the communication and accessibility of it, to reach and protect as many people and businesses as possible. Therefore, whether you have a background in design, coding or marketing, it is an exciting and meaningful space for everyone to work in.
 
