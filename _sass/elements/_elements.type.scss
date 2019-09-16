@@ -1,0 +1,63 @@
+/*------------------------------------*\
+    #TYPE
+\*------------------------------------*/
+/**
+ * Typographical base selectors.
+ */
+/**
+ * Headings 1–6.
+ */
+
+
+
+
+
+.tagline {
+  background-color: #fff;
+  padding: $inuit-global-spacing-unit-small;
+}
+
+.white {
+  color: $color-white;
+}
+
+.muted {
+  color: darken($color-white, 30%);
+}
+
+.blue {
+  color: $color-blue;
+}
+
+.text-centre {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.red {
+  color: #ff2533;
+}
+
+strong {
+  color: $color-black;
+  font-weight: 700;
+}
+
+.blue-twitter-bg {
+  background: $color-twitter-light-blue;
+}
+
+.blue-facebook-bg {
+  background: $color-facebook-blue;
+}
+
+.green-trip-advisor {
+  background: #00af87;
+}
+
+.small {
+  @include inuit-font-size(12px);
+}

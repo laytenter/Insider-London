@@ -1,10 +1,6 @@
-#footer .double_fieldsend {
-  float: left;
-  width: 100%;
-}
 
-#footer {
-  background-size: cover!important;
+footer {
+  background-color: $color-blue;
 }
 
 .product-categories {
@@ -37,7 +33,6 @@
   margin: 0px;
   padding: 0px;
   position: relative;
-  line-height: 28px;
 }
 
 #footer,
@@ -55,14 +50,7 @@
 
 
 .footer-widgets-wrapper {
-  padding: 10px 0px 20px 0px;
-  float: left;
-  clear: both;
-  margin: 100px 0px 0px 0px;
-  width: 100%;
-  position: relative;
-  z-index: 1;
-  background: rgba(25,46,81,0.7);
+  background: $color-blue;
 }
 
 .footer-widgets-wrapper .widgettitle {
@@ -153,32 +141,8 @@
   line-height: 28px;
 }
 
-#footer {
-  background: url(/assets/images/bg-contact.jpg) no-repeat top center;
-  width: 100%;
-  float: left;
-  clear: both;
-  padding: 70px 0px 0px 0px;
-  margin: 40px 0px 0px 0px;
-}
 
-#footer .contactblockclass {
-  background: #fff;
-  border: 10px solid #000;
-  border-radius: 6px;
-}
 
-#footer .contactblockclass h3 {
-  border-top: 3px solid #000;
-  clear: both;
-  color: #ff2533;
-  font-family: "motor_oil_1937_m54regular";
-  font-size: 25px;
-  margin: 0px -20px 0;
-  overflow: hidden;
-  padding: 20px 0 0 20px;
-  text-transform: uppercase;
-}
 
 #footer .newsletter-opt-in {
   display:-webkit-box;
@@ -191,7 +155,7 @@
   .subscribe {
     margin-bottom: 0;
     width: auto;
-    margin-right: $inuit-base-spacing-unit--small;
+    margin-right: $inuit-global-spacing-unit;
   }
 }
 
@@ -287,7 +251,5 @@
     margin: 7px 0px;
   }
 
-  #footer {
-    padding: 30px 0 0;
-  }
+
 }

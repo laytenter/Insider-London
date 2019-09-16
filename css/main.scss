@@ -32,6 +32,7 @@ wide:    1200px
 @import "../bower_components/inuitcss/elements/elements.headings";
 @import "elements/elements.page";
 @import "elements/elements.links";
+@import "elements/elements.type";
 
 // OBJECTS
 @import "../bower_components/inuitcss/objects/objects.layout";
@@ -65,3 +66,4 @@ $inuit-responsive-spacing-properties: $inuit-spacing-properties !default;
 $inuit-responsive-spacing-sizes: $inuit-spacing-sizes !default;
 
 @import "../bower_components/inuitcss/utilities/utilities.responsive-spacings";
+@import "utilities/utilities.visibility";

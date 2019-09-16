@@ -14,13 +14,7 @@
 
 
 
-  @include mq($from: tablet) {
-    padding-top: 168px;
-  }
 
-  @include mq($from: desktop) {
-    padding-top: 180px;
-  }
 
 }
 
@@ -45,7 +39,23 @@
     color: white;
     font-weight:bold;
     display: block;
+    @include mq($from: tablet) {
+      display: inline;
+    }
     text-align: center;
+  }
+
+  @include mq($from: tablet) {
+    padding-left: $inuit-global-spacing-unit;
+    padding-right: $inuit-global-spacing-unit;
+    max-width: 66%;
+  }
+
+  @include mq($from: wide) {
+    left: calc((100vw - 1152px) / 2);
+    padding-left: 0;
+    padding-right: 0;
+    max-width: 33%;
   }
 }
 

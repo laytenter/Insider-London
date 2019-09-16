@@ -449,10 +449,11 @@ redirect 301 /london-tech-week/ /blog/london-tech-week/
 RewriteEngine On
 
 #-----------------redirect to https-----------------
-RewriteCond %{HTTPS} !on [OR]
-RewriteCond %{HTTP_HOST} !^www\. [NC]
-RewriteCond %{HTTP_HOST} !^dev\. [NC]
-RewriteRule ^ https://www.insider-london.co.uk%{REQUEST_URI} [L,R=301,NE]
+# RewriteCond %{HTTPS} !on [OR]
+# RewriteCond %{HTTP_HOST} !^www\. [NC]
+# RewriteCond %{HTTP_HOST} !^dev\. [NC]
+# RewriteCond %{HTTP_HOST} !^insider-london\. [NC]
+# RewriteRule ^ https://www.insider-london.co.uk%{REQUEST_URI} [L,R=301,NE]
 
 #Ignore Google verification file
 RewriteRule ^google3d11bb01af91a5dc.html$ - [L]

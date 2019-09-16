@@ -1,0 +1,37 @@
+<header class="u-padding-top-small">
+
+  <div class="o-wrapper u-padding-bottom-small u-padding-left-small u-padding-right-small u-padding-left@tablet u-padding-right@tablet">
+    <div style="display:flex;align-items:center;">
+
+      <a class="lap-and-up-mv-" title="London Walking Tours" href="/">
+        <img src="/assets/images/logo-v2.png" class="logo" />
+      </a>
+
+      <div style="margin-left:auto;display:flex;text-align:right;flex-direction:column">
+        <div class="u-margin-bottom-small@tablet">
+          <a href="tel:" class="u-margin-right">
+            <img src="/assets/images/phone-call.svg" width="24" />
+            <span class="visible-tablet">+44 (0)78 6967 8717</span>
+          </a>
+          <a href="mailto:" class="u-margin-right">
+            <img src="/assets/images/mail.svg" width="24" />
+            <span class="visible-tablet">contact@insider-london.co.uk</span>
+          </a>
+          <a href="#footer" class="hidden-tablet">
+            <img src="/assets/images/menu.svg" width="24" />
+          </a>
+      </div>
+        <nav>
+          {% assign pages = site.data.mainnav2  %}
+          {% for page in pages %}
+          {% if page.title %}
+          <a class="u-margin-right-small u-margin-right@desktop hidden-mobile" href="{{ page.url | prepend: site.baseurl }}">{{ page.title | escape }}</a>
+          {% endif %}
+          {% endfor %}
+        </nav>
+      </div>
+
+      </div>
+    </div>
+
+</header>

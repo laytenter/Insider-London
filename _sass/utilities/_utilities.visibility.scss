@@ -1,0 +1,20 @@
+.hidden-tablet {
+  @include mq($from: tablet){
+    display:none;
+  }
+}
+.hidden-mobile {
+  @include mq($until: tablet){
+    display:none;
+  }
+}
+.visible-desktop {
+  @include mq($until: desktop){
+    display:none;
+  }
+}
+.visible-tablet {
+  @include mq($until: tablet){
+    display:none;
+  }
+}
