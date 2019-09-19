@@ -1,7 +1,9 @@
 ---
 title: 2019 09 19 5 Ways The Business World In The Face Of Climate Crisis
-date: 2019-09-19 08:51:58.217000000 Z
+date: 2019-09-19 08:51:00 Z
 ---
+
+![sustainabilitysales.1500x900-760.jpg](/uploads/sustainabilitysales.1500x900-760.jpg)
 
 As evidence of the climate crisis mounts, it’s clear that mankind is facing its biggest challenge in history. Unique challenges are posed to each industry when “business as usual” is no longer an option. This week, we look at five ways the business world is changing.
 
@@ -16,6 +18,8 @@ As evidence of the climate crisis mounts, it’s clear that mankind is facing it
 **4. Big names are taking notice** Corporate social responsibility is not new and has been hitting the headlines consistently over the last decade, but it is undeniably higher and higher on the agenda. Often tied to the [millennial market](https://cmr.berkeley.edu/blog/2017/1/millennials-and-csr/), all industries are beginning to take notice of this trend as well as the biggest brand names. Founder of [Gaea Collaboration](https://www.gaeacollaboration.com/) , Katherine Maceretta left a twenty year career with Unilever to become a sustainability consultant. Subsequently Macaretta works with companies to integrate business objectives with their CSR and not view them as separate goals. She is currently working with Vodafone to realise this vision.
 
 **5. Re-categorisation of green businesses** As a society we are re-defining what a sustainable business means and corporate social responsibility is put under the magnifying glass. While consumers are increasingly sceptical of brands who present themselves as green leaders, the London Stock Exchange earlier this year re-classified oil companies as either [renewable or non-renewable](https://www.businessgreen.com/bg/news/3078491/oil-and-gas-firms-labelled-non-renewable-on-london-stock-exchange).
+
+![lse.jpg](/uploads/lse.jpg)
 
 Companies like BP and Royal Dutch Shell are firmly classified in the non-renewable category, despite their own advertisements of investments in renewables. Many companies are now striving for [B-corp status](https://bcorporation.net/about-b-corps ), a gold standard which verifies ethical business practice for people, place and planet which verifies performance, legal accountability and public transparency.
 
