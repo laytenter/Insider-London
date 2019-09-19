@@ -1,6 +1,7 @@
 ---
-title: 2019 09 19 5 Ways The Business World In The Face Of Climate Crisis
+title: 5 Ways The Business World Is Changing In The Face Of the Climate Crisis
 date: 2019-09-19 08:51:00 Z
+excerpt_separator: "<!--more-->"
 ---
 
 ![sustainabilitysales.1500x900-760.jpg](/uploads/sustainabilitysales.1500x900-760.jpg)
