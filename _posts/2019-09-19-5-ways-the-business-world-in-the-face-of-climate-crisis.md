@@ -4,10 +4,8 @@ description: As evidence of the climate crisis mounts, it’s clear that mankind
   facing its biggest challenge in history. Unique challenges are posed to each industry
   when 'business as usual' is no longer an option. This week, we look at five ways
   the business world is changing.
-  excerpt_separator: "<!--more-->"
+excerpt_separator: "<!--more-->"
 ---
-
-
 
 As evidence of the climate crisis mounts, it’s clear that mankind is facing its biggest challenge in history. Unique challenges are posed to each industry when “business as usual” is no longer an option. This week, we look at five ways the business world is changing.
 
