@@ -2,7 +2,10 @@
 title: 5 Ways The Business World Is Changing In The Face Of the Climate Crisis
 date: 2019-09-19 08:51:00 Z
 excerpt_separator: "<!--more-->"
-description: As evidence of the climate crisis mounts, it’s clear that mankind is facing its biggest challenge in history. Unique challenges are posed to each industry when “business as usual” is no longer an option. This week, we look at five ways the business world is changing.
+description: As evidence of the climate crisis mounts, it’s clear that mankind is
+  facing its biggest challenge in history. Unique challenges are posed to each industry
+  when “business as usual” is no longer an option. This week, we look at five ways
+  the business world is changing.
 ---
 
 ![sustainabilitysales.1500x900-760.jpg](/uploads/sustainabilitysales.1500x900-760.jpg)
