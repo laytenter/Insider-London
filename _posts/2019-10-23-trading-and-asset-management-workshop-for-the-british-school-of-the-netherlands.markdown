@@ -23,4 +23,4 @@ With the group divided into teams and each team being given a company, students 
 
 We would like to thank the British School of the Netherlands and Gibran Registe-Charles for this fantastic session. 
 
-Want to give your students a taste of life on the trading floor? Get in touch via contact@insider-london.co.uk
+Want to give your students a taste of life on the trading floor? Get in touch via <a href="mailto:contact@insider-london.co.uk">contact@insider-london.co.uk</a>
