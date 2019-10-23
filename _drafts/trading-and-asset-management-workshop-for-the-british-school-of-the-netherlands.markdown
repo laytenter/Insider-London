@@ -3,11 +3,14 @@ title: Trading & Asset Management Workshop for the British School of the Netherl
 date: 2019-10-23 10:07:00 Z
 description: A fantastic fun and practical workshop for budding businessmen and traders
   which focused on the key principles of trading and asset management.
+excerpt_separator: "<!--more-->"
 ---
 
 [image]
 
 Last week we had the privilege to hold a fun and practical workshop for IB Economics & Business students from the British School of the Netherlands. This was a fantastic session for budding businessmen and traders which focused on the key principles of trading and asset management.
+
+<!--more-->
 
 The workshop facilitator was Gibran Registe-Charles, CEO of Urban Edge Capital – an exciting new hedge fund with a unique focus on Diversity. UEC unlocks urban purchasing power and cultural trends overlooked by the traditional sector. Gibran has an extensive professional background with EFG, Rothschild’s and Morgan Stanley and is also a former FinTech policy advisor in the European Parliament, working within the Economic and Monetary Affairs Committee.  
 The session started with an in-depth presentation on fundamental trading concepts, explaining the stock exchange and defining assets, hedge funds and private equity. Providing a dynamic example of the concepts in practice, Gibran went on to explain the business model of ESG. 
