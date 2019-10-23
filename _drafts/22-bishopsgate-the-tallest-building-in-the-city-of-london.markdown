@@ -3,11 +3,14 @@ title: 22 Bishopsgate – The tallest building in the City of London
 date: 2019-10-23 10:41:00 Z
 description: 22 Bishopsgate. What's going on with the tallest building in the City
   of London?
+excerpt_separator: "<!--more-->"
 ---
+
+![Birds eye view of 22 Bishopsgate](/uploads/helterskelter-1.jpg)
 
 The tallest building in the City of London should be completed later this year and topped out in May at an impressive 278m. Once completed 22 Bishopsgate will house 12,000 workers, a fresh food market, a 'wellbeing retreat and curated art walk', and London's highest free public viewing gallery. It will also feature the fastest lifts in Europe.  As yet, however, there is no nickname, just plain old number 22.
 
-![Birds eye view of 22 Bishopsgate](/uploads/helterskelter-1.jpg)
+<!--more-->
 
 The building that was meant to stand on this site was to be called the Pinnacle.  In fact, most people refereed to it as the Helter Skelter. Construction began in 2008 but this project struggled as the financial crisis deepened and it was soon abandoned and often referred to as 'the Stump'.
 
