@@ -6,7 +6,7 @@ description: A fantastic fun and practical workshop for budding businessmen and 
 excerpt_separator: "<!--more-->"
 ---
 
-[image]
+![Gibran Registe-Charles addressing a group of students from the Biritsh School of the Netherladns](/uploads/trading-workshop-1.jpg)
 
 Last week we had the privilege to hold a fun and practical workshop for IB Economics & Business students from the British School of the Netherlands. This was a fantastic session for budding businessmen and traders which focused on the key principles of trading and asset management.
 
@@ -17,7 +17,7 @@ The session started with an in-depth presentation on fundamental trading concept
 
 After a quick pop quiz which the group passed with flying colours then it was on to trading!
 
-[image]
+![The teams trying their hand at asset trading](/uploads/trading-workshop-2.jpg)
 
 With the group divided into teams and each team being given a company, students began negotiating for assets. With different companies searching for a combination of different assets and all playing to win, the heat was on! 
 
