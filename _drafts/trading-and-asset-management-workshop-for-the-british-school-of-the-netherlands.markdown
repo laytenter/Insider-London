@@ -19,4 +19,8 @@ After a quick pop quiz which the group passed with flying colours then it was on
 
 [image]
 
-With the group divided into teams and each team being given a company, students began negotiating for assets. 
+With the group divided into teams and each team being given a company, students began negotiating for assets. With different companies searching for a combination of different assets and all playing to win, the heat was on! 
+
+We would like to thank the British School of the Netherlands and Gibran Registe-Charles for this fantastic session. 
+
+Want to give your students a taste of life on the trading floor? Get in touch via contact@insider-london.co.uk
