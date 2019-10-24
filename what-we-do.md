@@ -6,11 +6,11 @@ id: 2546744
 author: london75
 description: Unusual walking tours around London. The most entertaining London guided
   walks that delve into the history of the city. Join us at insider-london.co.uk.
-heading: What We Do
+heading: What we do
 layout: page
 ---
 
-Insider London offers a wide variety of alternative and unusual activities designed to provide unique insight into this global city and beyond. Discover the secrets behind London's streets with our one-of-a-kind walking tours, or gain rich industry insight from visits to the most innovative companies, and bespoke workshops led by industry experts. Read on to find out about our [In-Depth Business Visits](https://www.insider-london.co.uk/tours/in-depth-business-tour/), 
+Insider London offers a wide variety of alternative and unusual activities designed to provide unique insight into this global city and beyond. Discover the secrets behind London's streets with our one-of-a-kind walking tours, or gain rich industry insight from visits to the most innovative companies, and bespoke workshops led by industry experts. Read on to find out about our [In-Depth Business Visits](https://www.insider-london.co.uk/tours/in-depth-business-tour/),
 [Workshops](https://www.insider-london.co.uk/tours/in-depth-business-tour/), [Educational Tours](https://www.insider-london.co.uk/tours/educational-walking-tours/), ​and [Historical Tours](https://www.insider-london.co.uk/tours/historical-walking-tours/)
 
 ## Business Visits & Workshops
@@ -39,4 +39,4 @@ Our regular Historical Tours are not to be missed whether you are a born-and-bre
 
 Whether you are an [art-lover](/tours/street-art/), historian or just plain open-minded – we have a range of [unique activities](/tours/historical-walking-tours/) to suit your interest. Be transported back in time with our [London Underground and Tube Tour](/tours/london-underground-and-tube-tour/) or venture through the historical back-streets of Covent Garden on our [Quirky Tour](/tours/quirky-tour/). Be thrilled by our Friday night special: [Death & Debauchery](/tours/the-death-and-debauchery-tour/) or our Saturday night favourites: [Famous Ghosts & Infamous Murders](/tours/famous-ghosts-and-infamous-murders/) and the easy-going [History of Drinking & Pubs Tour](/tours/history-of-drinking-and-pubs/).
 
-If you can't make the date, or are looking for that special experience, <a href="mailto:contact@insider-london.co.uk">get in touch</a>  to book a private historical tour. 
+If you can't make the date, or are looking for that special experience, <a href="mailto:contact@insider-london.co.uk">get in touch</a>  to book a private historical tour.

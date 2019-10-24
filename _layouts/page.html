@@ -2,22 +2,21 @@
 layout: default
 ---
 
-<div class="wrapper wrapper--padded">
   <article class="post">
-    {% include ta-logo.html %}
-    <header class="post-header">
+    <header class="post-header bg-gray u-padding-vertical u-margin-bottom">
       <div class="breadcrumb-wrapper ">
-        <div class="container">
-          <h1 class="post-title">
+        <div class="o-wrapper u-padding-left-small u-padding-right-small u-padding-left@tablet u-padding-right@tablet">
+          <h2 class="u-margin-bottom-none">
             {% if page.heading %}
               {{ page.heading }}
             {% else %}
               {{ page.title }}
             {% endif %}
-          </h1>
+          </h2>
         </div>
       </div>
     </header>
-    {{ content }}
+    <div class="o-wrapper u-padding-left-small u-padding-right-small u-padding-left@tablet u-padding-right@tablet">
+      {{ content }}
+    </div>
   </article>
-</div>

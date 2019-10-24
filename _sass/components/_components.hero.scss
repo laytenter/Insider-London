@@ -11,52 +11,28 @@
  background-color: rgba($color-blue,0.5);
   }
   position: relative;
-
-
-
-
-
 }
 
+.hero__image {
+  height: calc(100vh - 72px);
+  object-fit: cover;
+  @include mq($from:tablet)
+  {
+    height: calc(100vh - 96px);
+  }
+}
 
 .hero__content {
   position: absolute;
-  //display:flex;
-  //flex-direction:column;
   height: 100%;
+  width: 100%;
   color: white;
+  text-align: center;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
   align-items: center;
   top: 0;
-  @include inuit-font-size(24px, $modifier:+1);
-  padding-left: $inuit-global-spacing-unit-small;
-  padding-right: $inuit-global-spacing-unit-small;
-  padding-top: $inuit-global-spacing-unit-huge;
-  a {
-    padding: $inuit-global-spacing-unit-small;
-    border: 1px solid white;
-    text-decoration: none;
-    font-size: 18px;
-    color: white;
-    font-weight:bold;
-    display: block;
-    @include mq($from: tablet) {
-      display: inline;
-    }
-    text-align: center;
-  }
-
-  @include mq($from: tablet) {
-    padding-left: $inuit-global-spacing-unit;
-    padding-right: $inuit-global-spacing-unit;
-    max-width: 66%;
-  }
-
-  @include mq($from: wide) {
-    left: calc((100vw - 1152px) / 2);
-    padding-left: 0;
-    padding-right: 0;
-    max-width: 33%;
-  }
 }
 
 .hero__title {

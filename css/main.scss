@@ -51,6 +51,10 @@ wide:    1200px
 @import "components/components.page-head";
 @import "components/components.hero";
 @import "components/components.footer";
+@import "components/components.dropdown";
+@import "components/components.nav";
+@import "components/components.buttons";
+@import "components/components.modal";
 //@import "components/components.page-foot";
 //@import "components/components.site-nav";
 //@import "components/components.ads";
@@ -67,3 +71,6 @@ $inuit-responsive-spacing-sizes: $inuit-spacing-sizes !default;
 
 @import "../bower_components/inuitcss/utilities/utilities.responsive-spacings";
 @import "utilities/utilities.visibility";
+@import "utilities/utilities.flex";
+@import "utilities/utilities.margins";
+@import "utilities/utilities.backgrounds";

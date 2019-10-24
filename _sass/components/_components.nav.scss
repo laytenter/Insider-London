@@ -1,0 +1,26 @@
+.nav {
+  display: none;
+  @include mq($from:tablet) {
+    display: flex;
+  }
+}
+.main-nav__link {
+  white-space: nowrap;
+  color: $inuit-base-text-color;
+  text-decoration: none;
+  @include inuit-font-size(18px, $modifier: -1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.main-nav__link--dropdown {
+  padding: $inuit-global-spacing-unit-small;
+  text-decoration: none;
+  display: block;
+
+   &:hover {
+     background-color: $color-gray;
+     color: $color-black;
+   }
+}

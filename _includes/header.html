@@ -1,46 +1,49 @@
-<header class="u-padding-top-small">
-
-  <div class="o-wrapper u-padding-bottom-small u-padding-left-small u-padding-right-small u-padding-left@tablet u-padding-right@tablet">
-    <div style="display:flex;align-items:center;">
-      <a class="logo-alt"  title="London Walking Tours" href="/">
-        INSIDER LONDON
+<header class="u-padding-vertical-small">
+  <div class="o-wrapper u-padding-left-small u-padding-right-small u-padding-left@tablet u-padding-right@tablet">
+    <div class="u-flex">
+      <a class="lap-and-up-mv-" title="London Walking Tours" href="/">
+        <img src="/assets/images/logo-24-10-19.svg" class="logo" />
       </a>
-      <div style="margin-left:auto">
-        {% assign pages = site.data.mainnav  %}
-        {% for page in pages %}
-        {% if page.title %}
-        <a class="u-margin-right-small u-margin-right@desktop hidden-mobile" href="{{ page.url | prepend: site.baseurl }}">{{ page.title | escape }}</a>
-        {% endif %}
-        {% endfor %}
+      <div class="u-flex u-flex-direction-column u-flex-justify-content-space-between u-margin-left-auto">
+        <div class="u-margin-left-auto">
+          <a href="tel:4402071831055" class="u-margin-right">
+            <span class="hidden-tablet"><img src="/assets/images/phone-call.svg" width="24" /></span>
+            <span class="visible-tablet">+44 (0) 20 7183 1055</span>
+          </a>
+          <a href="mailto:contact@insider-london.co.uk" class="u-margin-right u-margin-right-none@tablet">
+            <span class="hidden-tablet"><img src="/assets/images/mail.svg" width="24" /></span>
+            <span class="visible-tablet">contact@insider-london.co.uk</span>
+          </a>
+          <a href="#footer" class="hidden-tablet ">
+            <img src="/assets/images/menu.svg" width="24" />
+          </a>
+        </div>
 
-
-        <a href="tel:" class="u-margin-right-small u-margin-right@desktop">
-          <img src="/assets/images/phone-call.svg" width="24" />
-          <span class="visible-desktop">+44 (0)78 6967 8717</span>
-        </a>
-        <a href="mailto:" class="u-margin-right-small u-margin-right@desktop">
-          <img src="/assets/images/mail.svg" width="24" />
-          <span class="visible-desktop">contact@insider-london.co.uk</span>
-        </a>
-        <a href="#footer" class="hidden-tablet">
-          <img src="/assets/images/menu.svg" width="24" />
-        </a>
+        <nav class="nav" role="navigation">
+          {% for section in site.data.mainnav.sections %}
+            {% if section.links %}
+            <div class="dropdown">
+            <a class="main-nav__link" href="javascript:void(0);">
+              {{ section.title }}
+              <img class="u-padding-left-tiny" src="/assets/images/down-arrow.svg">
+            </a>
+            <div class="dropdown-menu">
+              <div class="dropdown-menu-inner">
+                {% for link in section.links %}
+                <a class="main-nav__link main-nav__link--dropdown" href="{{ link.url }}">
+                  {{ link.title }}
+                </a>
+                {% endfor %}
+              </div>
+            </div>
+          </div>
+            {% else %}
+              <a class="main-nav__link u-margin-right u-margin-right-large@desktop" href="{{ section.url }}">{{ section.title }}</a>
+            {% endif %}
+          {% endfor %}
+        </nav>
       </div>
     </div>
   </div>
 
-  <nav class="c-scroll-nav u-padding-top-small u-padding-bottom-small">
-    <div class="c-scroll-nav__inner">
-      <div class="c-scroll-nav__container o-wrapper u-padding-bottom-small u-padding-left-small u-padding-right-small u-padding-left@tablet u-padding-right@tablet">
-        {% assign pages = site.data.navigation  %}
-        {% for page in pages %}
-          {% if page.title %}
-            <a class="c-scroll-nav__link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title | escape }}</a>
-          {% endif %}
-        {% endfor %}
-      </div>
-      <div class="c-scroll__fade c-scroll__fade--before"></div>
-      <div class="c-scroll__fade c-scroll__fade--after"></div>
-    </div>
-  </nav>
 </header>

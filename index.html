@@ -13,22 +13,17 @@ layout: default
     </picture>
 
     <div class="hero__content">
-      <p>
-        Insider London offer bespoke, educational experiences for academic, corporate and private groups.
-      </p>
-      <a href="/about">Learn more</a>
+
+      <h1>Connecting the world of business, education and innovation</h1>
+      <div class="u-flex">
+        <a class="c-btn c-btn--ghost c-btn--tertiary u-margin-right" href="/what-we-do">Learn more</a>
+        <a class="c-btn c-btn--ghost c-btn--tertiary" id="modal_opener">Watch video</a>
+      </div>
     </div>
   </div>
   <section class="homepage-intro u-margin-bottom-small u-margin-bottom-large@tablet u-margin-bottom-huge@desktop">
     <div class="o-wrapper u-padding-left-small u-padding-right-small u-padding-left@tablet u-padding-right@tablet">
-      <div class="o-layout">
-        <div class="o-layout__item u-1/2@tablet">
-          <div class="o-ratio o-ratio--16:9">
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/FcdAmAP6_kw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          </div>
-        </div>
-          <div class="o-layout__item u-1/2@tablet">
       <h3>
         GET AN INSIDER EXPERIENCE
       </h3>
@@ -41,8 +36,7 @@ layout: default
     Don't miss our newly launched Cambridge Tech & Architecture Tour and discover how this unique city pairs the historic with the cutting-edge. This is the perfect excursion away from the bustling capital for your academic or corporate group to discover a vibrant hub outside of the capital.
     </p>
     </div>
-    </div>
-  </div>
+
   </section>
 
   <section class="homepage-intro u-margin-bottom-small u-margin-bottom-large@tablet u-margin-bottom-huge@desktop">
@@ -88,3 +82,12 @@ layout: default
       </div>
     </div> -->
   </section>
+<div class="modal" style="display:none">
+  <div class="overlay"></div>
+  <div class="modal_content">
+    <div class="o-ratio o-ratio--16:9">
+      <iframe src="https://www.youtube.com/embed/FcdAmAP6_kw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </div>
+  <button title="Close" class="close_modal">[x]</button>
+</div>

@@ -2,36 +2,45 @@
 
   <div class="o-wrapper u-padding-bottom-small u-padding-left-small u-padding-right-small u-padding-left@tablet u-padding-right@tablet">
     <div style="display:flex;align-items:center;">
-
-      <a class="lap-and-up-mv-" title="London Walking Tours" href="/">
-        <img src="/assets/images/logo-v2.png" class="logo" />
+      <a class="logo-alt"  title="London Walking Tours" href="/">
+        INSIDER LONDON
       </a>
+      <div style="margin-left:auto">
+        {% assign pages = site.data.mainnav  %}
+        {% for page in pages %}
+        {% if page.title %}
+        <a class="u-margin-right-small u-margin-right@desktop hidden-mobile" href="{{ page.url | prepend: site.baseurl }}">{{ page.title | escape }}</a>
+        {% endif %}
+        {% endfor %}
 
-      <div style="margin-left:auto;display:flex;text-align:right;flex-direction:column">
-        <div class="u-margin-bottom-small@tablet">
-          <a href="tel:" class="u-margin-right">
-            <img src="/assets/images/phone-call.svg" width="24" />
-            <span class="visible-tablet">+44 (0)78 6967 8717</span>
-          </a>
-          <a href="mailto:" class="u-margin-right">
-            <img src="/assets/images/mail.svg" width="24" />
-            <span class="visible-tablet">contact@insider-london.co.uk</span>
-          </a>
-          <a href="#footer" class="hidden-tablet">
-            <img src="/assets/images/menu.svg" width="24" />
-          </a>
-      </div>
-        <nav>
-          {% assign pages = site.data.mainnav2  %}
-          {% for page in pages %}
-          {% if page.title %}
-          <a class="u-margin-right-small u-margin-right@desktop hidden-mobile" href="{{ page.url | prepend: site.baseurl }}">{{ page.title | escape }}</a>
-          {% endif %}
-          {% endfor %}
-        </nav>
-      </div>
 
+        <a href="tel:" class="u-margin-right-small u-margin-right@desktop">
+          <img src="/assets/images/phone-call.svg" width="24" />
+          <span class="visible-desktop">+44 (0)78 6967 8717</span>
+        </a>
+        <a href="mailto:" class="u-margin-right-small u-margin-right@desktop">
+          <img src="/assets/images/mail.svg" width="24" />
+          <span class="visible-desktop">contact@insider-london.co.uk</span>
+        </a>
+        <a href="#footer" class="hidden-tablet">
+          <img src="/assets/images/menu.svg" width="24" />
+        </a>
       </div>
     </div>
+  </div>
 
+  <nav class="c-scroll-nav u-padding-top-small u-padding-bottom-small">
+    <div class="c-scroll-nav__inner">
+      <div class="c-scroll-nav__container o-wrapper u-padding-bottom-small u-padding-left-small u-padding-right-small u-padding-left@tablet u-padding-right@tablet">
+        {% assign pages = site.data.navigation  %}
+        {% for page in pages %}
+          {% if page.title %}
+            <a class="c-scroll-nav__link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title | escape }}</a>
+          {% endif %}
+        {% endfor %}
+      </div>
+      <div class="c-scroll__fade c-scroll__fade--before"></div>
+      <div class="c-scroll__fade c-scroll__fade--after"></div>
+    </div>
+  </nav>
 </header>
