@@ -18,11 +18,7 @@ The architects for the Pinnacle were Kohn, Pederson Fox and it is the same team 
 
 Tall buildings may still be all the rage in the City but attitudes to the style of these buildings has certainly altered. For several years there was clearly a desire for quirky designs with catchy nicknames, but no longer. 
 
-> "This site has always been earmarked for one of the tallest buildings in the cluster," 
-
-says Gwyn Richards, head of design at the City of London’s planning team. 
-
-“The design of 22 Bishopsgate follows our guidance for sleek simplicity, in contrast to some of the more gimmicky buildings we've had recently. We're taking a slightly more disciplined approach now: no building in the cluster should be trying to shout down its neighbour.”
+"This site has always been earmarked for one of the tallest buildings in the cluster," says Gwyn Richards, head of design at the City of London’s planning team. “The design of 22 Bishopsgate follows our guidance for sleek simplicity, in contrast to some of the more gimmicky buildings we've had recently. We're taking a slightly more disciplined approach now: no building in the cluster should be trying to shout down its neighbour.”
 
 Nonetheless, 22 Bishopsgate is an extremely modern beast and can rightly be described as a smart building. It is one of the first buildings to have a biometric security system based on facial recognition and workers will use an app to control how much light and heat there is in their immediate surroundings. Engineers have also used technology from motorsport to prevent gusts of wind being deflected downwards on to pedestrians and cyclists. There will be a public viewing gallery on the 58th floor and for adventurous souls a climbing wall on the inside of the glass at around 400 feet.
 
