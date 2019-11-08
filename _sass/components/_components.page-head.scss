@@ -1,20 +1,27 @@
 .c-scroll-nav {
-  background-color: $color-gray-light;
-  border-top: 1px solid $color-gray;
+  //background-color: $color-gray-light;
+  //border-top: 1px solid $color-gray;
 }
 
 .c-scroll-nav__inner {
   margin: 0 auto;
   position: relative;
+  line-height: 1;
   max-width: 1200px;
-  height: 1.5em;
-  overflow:hidden;
+  @include mq($until: desktop) {
+    height: 1.5em;
+    overflow:hidden;
+  }
 }
 
 .c-scroll-nav__container {
-  white-space: nowrap;
-  overflow: auto;
-  width: auto;
+
+  @include mq($until: desktop)
+  {
+    white-space: nowrap;
+    overflow: auto;
+    width: auto;
+  }
 }
 
 .c-scroll__fade {
@@ -38,19 +45,45 @@
 
 .c-scroll-nav__link {
   text-decoration: none;
+  @include inuit-font-size(18px, $modifier: -1);
+  position: relative;
+
+  &:hover {
+    color: darken($inuit-base-text-color,60%);
+  }
+
+  &::after {
+    content: '';
+    position: absolute;
+    height: 0;
+    left: 0;
+    bottom: -12px;
+    width: 100%;
+    background-color: white;
+  }
+
+  // Hover and active classes for main nav
+  &:active::after,
+  &:hover::after {
+    background-color: $color-black;
+    height: 3px;
+  }
 }
 
 .c-scroll-nav__link + .c-scroll-nav__link {
-  padding-left: $inuit-global-spacing-unit-small;
+  margin-left: $inuit-global-spacing-unit-small;
   @include mq($from:tablet) {
-    padding-left: $inuit-global-spacing-unit;
+    margin-left: $inuit-global-spacing-unit-large;
   }
 }
 
 .logo {
-  height: 48px;
-  @include mq($from: tablet) {
-    height: 72px;
+  display: block;
+  img {
+    height: 48px;
+    @include mq($from: tablet) {
+      height: 72px;
+    }
   }
 }
 

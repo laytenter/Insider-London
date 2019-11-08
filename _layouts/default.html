@@ -6,10 +6,12 @@ layout: compress
 <html>
 
   {% include head.html %}
+  
+  {% assign segments = page.url | split: '/' %}
 
-  <body>
+  <body class="{{ segments[1] }}">
     <!-- Include the svg logo sets -->
-    
+
     {% include header.html %}
 
         {{ content }}

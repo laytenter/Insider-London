@@ -1,8 +1,8 @@
 <header class="u-padding-vertical-small">
   <div class="o-wrapper u-padding-left-small u-padding-right-small u-padding-left@tablet u-padding-right@tablet">
     <div class="u-flex">
-      <a class="lap-and-up-mv-" title="London Walking Tours" href="/">
-        <img src="/assets/images/logo-24-10-19.svg" class="logo" />
+      <a class="lap-and-up-mv- logo" title="Back to the Insider London Home page" href="/">
+        <img src="/assets/images/logo-04-11-19.svg" />
       </a>
       <div class="u-flex u-flex-direction-column u-flex-justify-content-space-between u-margin-left-auto">
         <div class="u-margin-left-auto">
@@ -18,32 +18,16 @@
             <img src="/assets/images/menu.svg" width="24" />
           </a>
         </div>
-
         <nav class="nav" role="navigation">
           {% for section in site.data.mainnav.sections %}
-            {% if section.links %}
-            <div class="dropdown">
-            <a class="main-nav__link" href="javascript:void(0);">
-              {{ section.title }}
-              <img class="u-padding-left-tiny" src="/assets/images/down-arrow.svg">
-            </a>
-            <div class="dropdown-menu">
-              <div class="dropdown-menu-inner">
-                {% for link in section.links %}
-                <a class="main-nav__link main-nav__link--dropdown" href="{{ link.url }}">
-                  {{ link.title }}
-                </a>
-                {% endfor %}
-              </div>
-            </div>
-          </div>
-            {% else %}
-              <a class="main-nav__link u-margin-right u-margin-right-large@desktop" href="{{ section.url }}">{{ section.title }}</a>
-            {% endif %}
+
+          {% assign sections = section.url | split: '/' %}
+
+            <a class="main-nav__link {{ sections[1] }}" href="{{ section.url }}">{{ section.title }}</a>
           {% endfor %}
         </nav>
+
       </div>
     </div>
   </div>
-
 </header>

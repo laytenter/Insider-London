@@ -12,6 +12,48 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  position: relative;
+
+  &:hover {
+    color: darken($inuit-base-text-color,60%);
+  }
+
+  &::after{
+    content: '';
+    position: absolute;
+    height: 0;
+    left: 0;
+    bottom: -12px;
+    width: 100%;
+    background-color: white;
+  }
+
+  // Hover and active classes for main nav
+  &:active::after,
+  &:hover::after {
+    background-color: $color-red;
+    height: 3px;
+  }
+
+}
+
+.main-nav__link + .main-nav__link {
+
+  margin-left: $inuit-global-spacing-unit;
+
+  @include mq($from: desktop) {
+    margin-left: $inuit-global-spacing-unit-large;
+  }
+}
+
+.blog nav .blog, .europe nav .europe, .asia nav .asia, .usa nav .usa,
+ .london nav .london, .what-we-do nav .what-we-do {
+  // Hover and active classes for main nav
+  &::after
+  {
+    background-color: $color-red;
+    height: 3px;
+  }
 }
 
 .main-nav__link--dropdown {

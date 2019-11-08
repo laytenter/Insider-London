@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+  <article class="post">
+    <header class="post-header bg-gray u-padding-top u-margin-bottom u-margin-bottom-large@desktop">
+      <div class="breadcrumb-wrapper ">
+        <div class="o-wrapper u-padding-left-small u-padding-right-small u-padding-left@tablet u-padding-right@tablet">
+          <h1 class="u-h4">
+            {% if page.heading %}
+              {{ page.heading }}
+            {% else %}
+              {{ page.title }}
+            {% endif %}
+          </h1>
+          {% if site.data.mainnav[page.nav] %}
+
+            <nav class="c-scroll-nav u-padding-bottom-small">
+              <div class="c-scroll-nav__inner">
+                <div class="c-scroll-nav__container">
+                  {% for item in site.data.mainnav[page.nav] %}
+
+                    <a class="c-scroll-nav__link" href="{{ item.url }}">{{ item.title }}</a>
+                  {% endfor %}
+                </div>
+              </div>
+            </nav>
+          {% endif %}
+        </div>
+      </div>
+    </header>
+    <div class="o-wrapper u-padding-left-small u-padding-right-small u-padding-left@tablet u-padding-right@tablet">
+      <div class="o-layout">
+        <div class="o-layout__item u-2/3@desktop">
+          {% include breadcrumbs.html %}
+          <h2 class="u-h1">{{ page.title }}</h2>
+          {{ content }}
+        </div>
+      <div class="o-layout__item u-1/3@desktop">
+        {% include tour-enquiry.html %}
+      </div>
+    </div>
+    </div>
+  </article>

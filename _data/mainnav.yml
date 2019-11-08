@@ -2,28 +2,34 @@ sections:
   - title: What we do
     url: /what-we-do
   - title: London
-    links:
-      - title: Educational Tours
-        url: /educational-walking-tours
-      - title: Business Visits
-        url: /business-visits-london/
-      - title: Cultural Experiences
-        url: /cultural-experiences-london/
+    url: /london/
   - title: North America
+    url: /north-america/
     links:
       - title: Silicon Valley
         url: /silicon-valley
   - title: Europe
-    links:
-      - title: Berlin
-        url: /berlin
-      - title: Frankfurt
-        url: /frankfurt
+    url: /europe/
   - title: Asia
-    links:
-      - title: Dubai
-        url: /dubai/
-      - title: Tokyo
-        url: /tokyo/
-      - title: Shanghai
-        url: /shanghai/
+    url: /asia/
+  - title: News
+    url: /blog/
+london:
+  - title: Educational Tours
+    url: /london/educational-tours/
+  - title: Business Visits
+    url: /london/business-visits/
+  - title: Cultural Experiences
+    url: /london/cultural-experiences/
+asia:
+  - title: Dubai
+    url: /asia/dubai/
+  - title: Tokyo
+    url: /asia/tokyo/
+  - title: Shanghai
+    url: /asia/shanghai/
+europe:
+  - title: Berlin
+    url: /europe/berlin/
+  - title: Frankfurt
+    url: /europe/frankfurt/
