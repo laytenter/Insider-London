@@ -1,11 +1,13 @@
 ---
 title: 'Sustainable Futures: Spotlight on Community Energy England'
-date: 2019-11-21 02:35:51 Z
+date: 2019-11-21 02:35:00 Z
 description: Following the recent events we hosted for KOEN (Korea South-East Power
   Corporation) and KOSPO (Korea Southern Power Co.), we caught up with our speaker
   Duncan Law, Policy & Advocacy Manager for Community Energy England.
 excerpt_separator: "<!--more-->"
 ---
+
+![BES3_Kamel_Shemika_Aisha_Nadeane-760.jpg](/uploads/BES3_Kamel_Shemika_Aisha_Nadeane-760.jpg)
 
 This year the UK celebrates the first year since the industrial revolution that [more power has come from renewables than fossil fuels ](https://www.theguardian.com/business/2019/oct/14/renewable-electricity-overtakes-fossil-fuels-in-uk-for-first-time) . Summer saw the opening of Scotland’s largest [off-shore wind farm](https://www.bbc.co.uk/news/uk-scotland-49125399) whilst the world’s largest offshore wind farm opened in 2018 [off the coast of Cumbria](https://www.bbc.co.uk/news/uk-england-cumbria-45424559). The UK government has implemented a temporary [ban on fracking](https://www.huffingtonpost.co.uk/entry/government-fracking-ban-earthquake_uk_5dbc9018e4b0576b62a1d26e) amid safety concerns whilst the profile of district heating systems continues to rise.
 
@@ -15,6 +17,8 @@ Following the recent events we hosted for KOEN (Korea South-East Power Corporati
 
 **IL:** Can you explain a bit about your background in sustainability? I understand that you have been very involved both in the Biofuelwatch campaign and the Transitions Town movement.
 **DL:** I grew up in the 70s, oil crisis, 3-day week etc, when we learnt much that we need to know about what the future will bring in terms of energy depletion. I drew the peak oil curve for myself. What happens when exponentially increasing demand curve for a finite energy (oil) resource crosses with the down-curve of possible supply? We either rethink the way we do everything or fight for the scraps. I began to understand climate change in the late 90s and became a full-time activist in 2006. I was involved in direct action but also set up Transition Town Brixton to harness the genius of the community to imagine, plan and pioneer a better low-carbon future. We invented the Brixton Pound, the Remakery, Brixton Energy, Incredible Edible Lambeth and more. Having worked for Biofuelwatch for 6 years, warning about bio-energy, the false solution to energy depletion and climate change, I was happy to return to my solutionist roots to work for Community Energy England.
+
+![DSC02775-760.jpg](/uploads/DSC02775-760.jpg)
 
 **IL:** Community Energy England is a pretty unique organisation - can you explain a bit about what it does?
 DL: CEE is the voice and connector of the community energy groups in England. These groups are working to put people at the centre of the energy system, creating locally owned renewable energy, solutions to fuel poverty and lots of other community benefits along the way. It is like an industry association (of which each sector has one). It represents a sector that is transparently part of the solution - engaging people in how energy is used and produced - but over the last 5 years it has been consistently thwarted by government removing all support for it. I work on policy and advocacy, working towards government to try and get a supportive environment for community energy to thrive, and towards local and regional government to get them to work with community energy to meet national and local Climate Emergency Declaration targets.
