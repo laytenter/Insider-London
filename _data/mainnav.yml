@@ -17,8 +17,8 @@ sections:
 london:
   - title: Educational Tours
     url: /london/educational-tours/
-  - title: Business Visits
-    url: /london/business-visits/
+  - title: Company Visits
+    url: /london/company-visits/
   - title: Cultural Experiences
     url: /london/cultural-experiences/
 asia:

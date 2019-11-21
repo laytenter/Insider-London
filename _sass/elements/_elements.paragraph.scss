@@ -1,0 +1,7 @@
+.content {
+  @include mq($from: tablet) {     
+    p {
+      @include inuit-font-size(18px);
+    }
+  }
+}

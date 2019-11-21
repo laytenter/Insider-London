@@ -45,7 +45,7 @@
 
 .c-scroll-nav__link {
   text-decoration: none;
-  @include inuit-font-size(18px, $modifier: -1);
+  @include inuit-font-size(18px, $modifer:-1);
   position: relative;
 
   &:hover {
@@ -57,7 +57,7 @@
     position: absolute;
     height: 0;
     left: 0;
-    bottom: -12px;
+    bottom: -15px;
     width: 100%;
     background-color: white;
   }
