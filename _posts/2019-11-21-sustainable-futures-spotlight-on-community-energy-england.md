@@ -7,7 +7,7 @@ description: Following the recent events we hosted for KOEN (Korea South-East Po
 excerpt_separator: "<!--more-->"
 ---
 
-![BES3_Kamel_Shemika_Aisha_Nadeane-760.jpg](/uploads/BES3_Kamel_Shemika_Aisha_Nadeane-760.jpg)
+![drax-760.jpg](/uploads/drax-760.jpg)
 
 This year the UK celebrates the first year since the industrial revolution that [more power has come from renewables than fossil fuels ](https://www.theguardian.com/business/2019/oct/14/renewable-electricity-overtakes-fossil-fuels-in-uk-for-first-time) . Summer saw the opening of Scotland’s largest [off-shore wind farm](https://www.bbc.co.uk/news/uk-scotland-49125399) whilst the world’s largest offshore wind farm opened in 2018 [off the coast of Cumbria](https://www.bbc.co.uk/news/uk-england-cumbria-45424559). The UK government has implemented a temporary [ban on fracking](https://www.huffingtonpost.co.uk/entry/government-fracking-ban-earthquake_uk_5dbc9018e4b0576b62a1d26e) amid safety concerns whilst the profile of district heating systems continues to rise.
 
@@ -32,6 +32,8 @@ DL: CEE is the voice and connector of the community energy groups in England. Th
 Community energy began to really scale from 2010 with the availability of subsidies to enable the energy transition. The government vision in 2015 was for 1 million homes to be powered by community energy by 2020. This could have happened, but we currently have only 64,000.
 
 Decarbonising heat is a huge challenge. It must first be addressed by 'needing less heat' i.e. insulating our buildings - a huge and difficult task - and focussing on energy conservation and efficiency. District heat is common in large parts of Europe and brings benefits but still requires large amounts of heat input. The vision for the future included using waste heat, electrification using heat-pumps, using 'green gas' (so called) and hydrogen. There is no defined pathway. But you can reduce the heat losses in an old house by 1/3 for little more than £100 of 'draught-busting' measures. We can do that, now!
+
+![BES3_Kamel_Shemika_Aisha_Nadeane-760.jpg](/uploads/BES3_Kamel_Shemika_Aisha_Nadeane-760.jpg)
 
 **IL:** So overall, how do you envisage the future of the UK energy system?
 
