@@ -33,3 +33,6 @@ europe:
     url: /europe/berlin/
   - title: Frankfurt
     url: /europe/frankfurt/
+usa:
+  - title: Silicon Valley
+    url: /north-america/silicon-valley/

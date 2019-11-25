@@ -24,7 +24,10 @@
       detachModalListeners(modal);
     }
   }
-
-  btn.addEventListener('click', toggleModal);
+  // Only do this if we have a btn
+  if (btn)
+  {
+    btn.addEventListener('click', toggleModal);
+  }
 
 })();
