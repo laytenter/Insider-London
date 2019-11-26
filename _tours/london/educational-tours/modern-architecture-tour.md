@@ -1,0 +1,80 @@
+---
+title: Architecture
+date: '2003-01-01 10:46:00 +0000'
+categories:
+- educational-tours
+tags:
+- educational
+- MA
+- all
+heading: Modern Architecture Tour
+description: The soaring skyscrapers that puncture London’s skyline are architectural
+  wonders of London. Join our architecture tour London at insider-london.co.uk.
+gallery:
+- image: "/uploads/Title_City-of-London_Mordern-Architecute-Tour.jpg.jpg"
+  caption: Discover the City of London's architecture and more on our Modern Architecture
+    Tour!
+  alt: Discover the City of London's architecture and more on our Modern Architecture
+    Tour!
+- image: "/uploads/web_17-10-29%20MA%20Robert%20Bavaria%20teachers%20at%20Bloomberg.jpg"
+  caption: A group of Bavarian teachers on our Modern Architecture Tour, in front
+    of the new  Bloomberg Building!
+  alt: A group of Bavarian teachers on our Modern Architecture Tour, in front of the
+    new  Bloomberg Building!
+- image: "/uploads/Millenium%20Bridge%20and%20St%20Pauls_Modern%20Architecture.jpg"
+  caption: London sports an incredible mix of old and modern architecture.
+  alt: Millennium Bridge and St. Pauls - London sports an incredible mix of old and
+    modern architecture.
+- image: "/uploads/web_18-01-04%20MA%20private%20group%20Millennium%20Bridge.jpg"
+  caption: A picture of three lovely guests on a private Modern Architecture Tour,
+    taken on Millenium Bridge.
+  alt: A picture of three lovely guests on a private Modern Architecture Tour, taken
+    on Millenium Bridge.
+- image: "/uploads/modern%20architecture%20tour%2002.jpg"
+  caption: "."
+  alt: "."
+- image: "/uploads/web_17-12-01%20MA%20Robert%20Chapman%20Taylor%20City%20model.JPG"
+  caption: A group from Chapman Taylor, having a look at a model of the City on a
+    bespoke tour.
+  alt: A group from Chapman Taylor, having a look at a model of the City on a bespoke
+    tour.
+- image: "/uploads/modern%20architecture%20tour%20neo%20bankside.jpg"
+  caption: "."
+  alt:
+- image: "/uploads/modern%20architecture%20tour%20walkie%20talkie.jpg"
+  caption: "."
+  alt:
+order: 7
+tour-id: 29338
+trekksoft-tour-id: 50198
+price: 40
+author: london75
+show_book: true
+thumb: Thumb_City-of-London_Mordern-Architecute-Tour.jpg
+banner: Title_City-of-London_Mordern-Architecute-Tour.jpg
+map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9933.977038456189!2d-0.1118593163905431!3d51.504147652887916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604a5507854bb%3A0xd14c94cb200dcb1!2sSouthwark+Station!5e0!3m2!1sen!2s!4v1431589184611
+hidden: true
+related:
+- 29342
+- 29340
+- 29332
+---
+
+How often in the big smoke do we stop and look up? Insider London invites you to take a closer look at the marvellous structures which puncture the horizon. Find out about our [Modern Architecture](#moder-architecture) and [Sustainable Architecture](#) Walking Tours
+
+## Modern Architecture
+This award-winning tour uncovers the hidden stories of London's iconic skyline. Explore how the world's top architects **merge the historic and the innovative** in their race to the skies. Emerge yourself in the controversies of the architectural world, from questions of heritage to sustainability.
+
+In **two hours**, we journey through the latest architectural developments of the City of London, starting at St Paul’s and finishing at the many "kitchen items" of the Eastern cluster.
+
+In **three and a half hours**, this in-depth journey begins with the artistic jewels of Southwark before crossing over into the City of London. In this version we stop mid-way to refuel where our guides will show you one of the best views in London over a quick coffee break.
+
+**On this tour you will discover**
+
+* The most striking examples of modern architecture in London and the fascinating stories behind their development.
+* The importance of sustainability in London’s architecture and the dynamic modern developments pushing the sustainability envelope
+* How architects marry London’s innovative and historic architectural styles, including, a building which integrates an ancient churchyard
+* The controversial modern buildings that have had critics up in arms, including the building branded ‘ugly’ by the head of the Tate Modern art gallery, the development likened to a sea-sponge, and a sky scraper, which given the right weather conditions, can melt a car’s interior
+* A futuristic (and formerly very wobbly) London footbridge (in 3.5 hour version)
+* The distinctive styles and characteristic design traits of influential British architects, including Will Alsop, Richard Rogers and Sir Norman Foster
+* What’s next for London’s iconic skyline

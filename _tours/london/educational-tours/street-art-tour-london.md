@@ -1,8 +1,8 @@
 ---
-title: Street Art Tour London, Shoreditch Street art
-date: 2005-01-01 10:39:00 Z
+title: Creative
+date: '2005-01-01 10:39:00 +0000'
 categories:
-- hidden
+- educational-tours
 tags:
 - historical
 - all
@@ -55,56 +55,18 @@ related:
 - 32569
 - 32334
 - 32336
-layout: tour
 ---
 
-London is filled with street art and graffiti hotspots with artists from around the world leaving their mark. Whether you are a seasoned visitor, on your very first trip, or have called this city home for years, it can be sometimes difficult to spot the hidden treasures London has to offer.
+## Street Art
 
-## Highlights of the Street Art Tour:
+Come and **explore London’s most colourful and vibrant district** with Insider London. Our guides will show you the most stunning pieces in London’s East End, created by world-famous names as well as local underground artists.
 
-- Discover one of the earliest (now protected) works by world-famous graffiti artist Banksy.
+Shoreditch boasts one of the highest concentrations of street art in the world so come and explore the most vibrant local haunts, community hubs and beautiful pieces. Going beyond Instagram, our guides explore the local context, the evolution of the art form, and the unique debates within the street art scene.
 
-- Catch a glimpse of the work of Belgian graffiti artist, ROA - spot his birds and other critters around the city
+**Highlights of the Street Art Tour**:
 
-- Learn about the artist who had tea with the Prime Minster and whose work was given to the U.S. President as a gift.
-
-- Find out why mushrooms grow on pretty much anything in the East End of London.
-
-- Discover murals and art installations by artists such as D*Face, James Cochrane, Stik, Shepard Fairy, Space Invader and many more!
-
-The Street Art Tour is a hit for all kinds of people and since the street art scene is ever-evolving, our tour guides continually update their own knowledge so that you don’t miss out on the exclusives. The Street Art Tour of London is a walking tour that keeps continuing, with new art to find around every corner.
-
-{% if page.embed != '' and page.gallery.size > 1 %}
-### Tour gallery
-  {% include slideshow.html %}
-{% endif %}
-
-## What you need to know
-
-### Where do we meet?
-
-Outside of Shoreditch High Street Overground station. ([to the map](#map))
-
-### How long is the street art tour london?
-
-Approximately two hours            
-
-### Price:
-- Adult: £20
-- Child (under age 12): £12
-- Senior (60+): £12
-
-### When does the tour run?
-
-The tour runs weekly: 2pm Saturday
-
-The London Street Art Tour may also be booked as a private tour at a time suitable for you and your party, <a href="/contact-us/">please send us an email to make an enquiry.</a>
-
-We can also arrange a Private Street Art Tour in French and Italian, <a href="/contact-us/">please send us an email</a> and we will arrange it for you.
-
-### Where does the tour finish?
-
-The tour finished at the old Truman Brewery, a short walk from Liverpool Street Station.
-
-<h3 id="map">Meeting Point - Map</h3>
-{% include tour-map.html %}
+* Discover one of the earliest (now protected) works by world-famous graffiti artist Banksy.
+* Visit the UK’s largest street art wall and trace its many layers
+* Learn about the artist who had tea with the Prime Minster and whose work was given to the U.S. President as a gift.
+* Find out why mushrooms grow on pretty much anything in the East End of London.
+* Discover murals and art installations by artists such as Jimmy C, Stik, Space Invader and many more!

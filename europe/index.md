@@ -11,7 +11,4 @@ A research hub at the forefront of both technological and social innovation, Eur
 
 The EU represents the world’s largest trading bloc and has special economic significance for a region with a long history of entrepreneurship. We invite you to explore the business eco-systems of post-industrial economies and the success stories of some of Europe’s most exciting destinations.
 
-Insider London offers bespoke programmes of company visits, educational tours and cultural experiences in London, Berlin and Frankfurt.
-
-Picture Buttons to:
-Berlin, Frankfurt
+Insider London offers bespoke programmes of company visits, educational tours and cultural experiences in London and Berlin.

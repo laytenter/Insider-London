@@ -6,7 +6,6 @@
 .c-scroll-nav__inner {
   margin: 0 auto;
   position: relative;
-  line-height: 1;
   max-width: 1200px;
   @include mq($until: desktop) {
     height: 1.5em;
@@ -45,33 +44,36 @@
 
 .c-scroll-nav__link {
   text-decoration: none;
-  @include inuit-font-size(18px, $modifier:-1);
+  @include inuit-font-size(18px);
   position: relative;
+  color: $inuit-base-text-color;
 
   &:hover {
     color: darken($inuit-base-text-color,60%);
   }
+  @include mq($from:desktop) {
 
-  &::after {
-    content: '';
-    position: absolute;
-    height: 0;
-    left: 0;
-    bottom: -15px;
-    width: 100%;
-    background-color: white;
-  }
+    &::after {
+      content: '';
+      position: absolute;
+      height: 0;
+      left: 0;
+      bottom: -15px;
+      width: 100%;
+      background-color: white;
+    }
 
-  // Hover and active classes for main nav
-  &:active::after,
-  &:hover::after {
-    background-color: $color-black;
-    height: 3px;
+    // Hover and active classes for main nav
+    &:active::after,
+    &:hover::after {
+      background-color: $color-black;
+      height: 3px;
+    }
   }
 }
 
 .c-scroll-nav__link + .c-scroll-nav__link {
-  margin-left: $inuit-global-spacing-unit-small;
+  margin-left: $inuit-global-spacing-unit;
   @include mq($from:tablet) {
     margin-left: $inuit-global-spacing-unit-large;
   }

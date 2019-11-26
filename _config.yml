@@ -12,7 +12,7 @@ collections:
   tours:
     title: Tours
     output: true
-    permalink: "/tours/:path/"
+    permalink: /:path/
   uploads:
     title: Uploads
     output: true
@@ -26,28 +26,30 @@ defaults:
     path: ''
     type: posts
   values:
-    description: 
-    author: 
-    heading: 
+    description:
+    author:
+    heading:
     layout: post
     permalink: "/blog/:title/"
 - scope:
     path: ''
     type: tours
   values:
-    heading: 
-    description: 
+    heading:
+    layout: programme
+    nav: london
+    description:
     gallery:
-    - image: 
-      caption: 
-      alt: 
-    embed: 
-    order: 
+    - image:
+      caption:
+      alt:
+    embed:
+    order:
 - scope:
     path: ''
     type: authors
   values:
-    image: 
+    image:
 feed:
   path: blog/atom.xml
 social:
