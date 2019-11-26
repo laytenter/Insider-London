@@ -19,7 +19,7 @@ Following the recent events we hosted for KOEN (Korea South-East Power Corporati
 
 **DL:** I grew up in the 70s, oil crisis, 3-day week etc, when we learnt much that we need to know about what the future will bring in terms of energy depletion. I drew the peak oil curve for myself. What happens when exponentially increasing demand curve for a finite energy (oil) resource crosses with the down-curve of possible supply? We either rethink the way we do everything or fight for the scraps. I began to understand climate change in the late 90s and became a full-time activist in 2006. I was involved in direct action but also set up Transition Town Brixton to harness the genius of the community to imagine, plan and pioneer a better low-carbon future. We invented the Brixton Pound, the Remakery, Brixton Energy, Incredible Edible Lambeth and more. Having worked for Biofuelwatch for 6 years, warning about bio-energy, the false solution to energy depletion and climate change, I was happy to return to my solutionist roots to work for Community Energy England.
 
-![The past](/uploads/drax-760.jpg)
+![drax-760.jpg](/uploads/drax-760.jpg)
 The past - Duncan Law
 
 **IL:** Community Energy England is a pretty unique organisation - can you explain a bit about what it does?
@@ -35,6 +35,7 @@ Community energy began to really scale from 2010 with the availability of subsid
 Decarbonising heat is a huge challenge. It must first be addressed by 'needing less heat' i.e. insulating our buildings - a huge and difficult task - and focussing on energy conservation and efficiency. District heat is common in large parts of Europe and brings benefits but still requires large amounts of heat input. The vision for the future included using waste heat, electrification using heat-pumps, using 'green gas' (so called) and hydrogen. There is no defined pathway. But you can reduce the heat losses in an old house by 1/3 for little more than £100 of 'draught-busting' measures. We can do that, now!
 
 ![BES3_Kamel_Shemika_Aisha_Nadeane-760.jpg](/uploads/BES3_Kamel_Shemika_Aisha_Nadeane-760.jpg)
+The future - Duncan Law
 
 **IL:** So overall, how do you envisage the future of the UK energy system?
 
