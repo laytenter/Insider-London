@@ -7,7 +7,7 @@ description: Following the recent events we hosted for KOEN (Korea South-East Po
 excerpt_separator: "<!--more-->"
 ---
 
-![drax-760.jpg](/uploads/drax-760.jpg)
+![DSC02775-760.jpg](/uploads/DSC02775-760.jpg)
 
 This year the UK celebrates the first year since the industrial revolution that [more power has come from renewables than fossil fuels ](https://www.theguardian.com/business/2019/oct/14/renewable-electricity-overtakes-fossil-fuels-in-uk-for-first-time) . Summer saw the opening of Scotland’s largest [off-shore wind farm](https://www.bbc.co.uk/news/uk-scotland-49125399) whilst the world’s largest offshore wind farm opened in 2018 [off the coast of Cumbria](https://www.bbc.co.uk/news/uk-england-cumbria-45424559). The UK government has implemented a temporary [ban on fracking](https://www.huffingtonpost.co.uk/entry/government-fracking-ban-earthquake_uk_5dbc9018e4b0576b62a1d26e) amid safety concerns whilst the profile of district heating systems continues to rise.
 
@@ -19,7 +19,8 @@ Following the recent events we hosted for KOEN (Korea South-East Power Corporati
 
 **DL:** I grew up in the 70s, oil crisis, 3-day week etc, when we learnt much that we need to know about what the future will bring in terms of energy depletion. I drew the peak oil curve for myself. What happens when exponentially increasing demand curve for a finite energy (oil) resource crosses with the down-curve of possible supply? We either rethink the way we do everything or fight for the scraps. I began to understand climate change in the late 90s and became a full-time activist in 2006. I was involved in direct action but also set up Transition Town Brixton to harness the genius of the community to imagine, plan and pioneer a better low-carbon future. We invented the Brixton Pound, the Remakery, Brixton Energy, Incredible Edible Lambeth and more. Having worked for Biofuelwatch for 6 years, warning about bio-energy, the false solution to energy depletion and climate change, I was happy to return to my solutionist roots to work for Community Energy England.
 
-![DSC02775-760.jpg](/uploads/DSC02775-760.jpg)
+![The past](/uploads/drax-760.jpg)
+The past - Duncan Law
 
 **IL:** Community Energy England is a pretty unique organisation - can you explain a bit about what it does?
 
