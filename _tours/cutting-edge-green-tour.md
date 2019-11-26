@@ -1,13 +1,13 @@
 ---
-title: Insider London Eco Tour | Cutting Edge Green Tour
+title: Cutting Edge Green Tour
 date: 2014-01-01 10:48:00 Z
 categories:
-- educational
+- cultural-experiences
 tags:
 - CEGT
 - all
 - educational
-heading: Cutting Edge Green Tour
+heading: Insider London Eco Tour | Cutting Edge Green Tour
 description: Our London eco tour is the only walking tour of its kind, taking you
   through the heart of the capitals sustainability scene.
 gallery:
@@ -38,7 +38,6 @@ related:
 - 29338
 - 29342
 - 29332
-layout: tour
 ---
 
 Insider London’s Cutting Edge Green Tour – London’s only Sustainability Tour.
