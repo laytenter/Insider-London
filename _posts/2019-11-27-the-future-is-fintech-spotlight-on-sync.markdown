@@ -22,7 +22,7 @@ RL: It’s always been product.  I’ve always had a love of crafted, beautiful 
 
 RL: The big jump was because banks are very slow.  At the end of the day we youngsters -I’m not that young anymore, but still young enough- think differently, act differently, interact differently.  People at banks didn’t want to see that and when they did see that it was way too late.  Working for the big banks was always five steps behind and I didn’t feel part of anything.  When you join a start-up you are part of a team, a family and partly why I decided to do my own start-up was that I could develop and design my own team.  I’ve always said an incredible product is not made alone; it’s made by an incredible team.  And when you’ve got an incredible team it makes that incredible product that will bring users.  It’s fact, it’s just life.
 
-IL: Tell us what Sync represents and where you feel there is still that gap in the FinTech market to be filled.
+**IL: Tell us what Sync represents and where you feel there is still that gap in the FinTech market to be filled.**
 
 RL: I remember the days when I had a design when php came in, then it was ruby on rails and then other languages.  For a while all you heard about was blockchain and now it’s FinTech, so there are trends.  But I do think it now it has become too niche.  Remember in FinTech you have challenger banks, you have wealth management platforms, you have investment platforms, you have p2p, money transforms, mortgage advisers.  With challenger banks you’ve got one that does saving, another one that’s good at travel, yet another that’s good at money management, this one that does p2p.  
 
