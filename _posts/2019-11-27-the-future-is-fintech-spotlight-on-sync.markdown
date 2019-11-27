@@ -3,14 +3,16 @@ title: 'The Future is Fintech: Spotlight on Sync.'
 date: 2019-11-27 09:13:00 Z
 description: As part of our spotlight series where we look at the most innovative
   companies, we headed over to Level 39 to catch up with Ricky Lee.
-excerpt_separator: "<!-- more -->"
+excerpt_separator: "<!--more-->"
 ---
 
+<div class="embed-responsive embed-responsive-16by9 palm-mb lap-mb desk-mb">
 <iframe  src="https://www.youtube.com/embed/3CZPL4kiv_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 As part of our spotlight series where we look at the most innovative companies, we headed over to Level 39 to catch up with Ricky Lee. An early member of the Revolut team, Ricky Lee went on to start a fresh new FinTech: Sync. The platform is going from strength to strength having recently won the prestigious Alibaba Group Global Competition at Hong Kong Fintech Week.
 
-<!-- more -->
+<!--more-->
 
 Read on as we find out more about Sync. and talk old banking, new banking and the entrepreneurial world. 
 
