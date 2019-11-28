@@ -37,6 +37,7 @@ defaults:
   values:
     heading:
     layout: programme
+    script: slick-slider.js
     nav: london
     description:
     gallery:

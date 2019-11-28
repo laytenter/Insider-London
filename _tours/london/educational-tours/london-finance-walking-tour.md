@@ -11,26 +11,15 @@ heading: City of London Finance Tour
 description: Insider London Walking Tours | Our London finance tour takes you from
   the humble beginnings in the 17th century to its current global status.
 gallery:
-- image: "/uploads/finance%20tour%20bank%20of%20england.jpg"
+- image: "/assets/images/tours/finance/Picture 1 - Bank of England City of London Finance Walking Tour Student Corporate Group.JPG"
   caption: The City of London is one of the two financial hearts of London.
   alt: The City of London is one of the two financial hearts of London.
-- image: "/uploads/finance%20tour%20guildhall%20london.png"
+- image: "/assets/images/tours/finance/Picture 2 - Insurance Cluster City of London Finance Walking Tour Student Corporate Group.JPG"
   caption: A group on our City of London Finance Tour in front of Guildhall.
   alt: A group on our City of London Finance Tour in front of Guildhall.
-- image: "/uploads/finance%20tour%20london%20stock%20exchange%20group%20.jpg"
+- image: "/assets/images/tours/finance/Picture 3 - Leadenhall Market Student Corporate Finance City of London Walking Tour.jpg"
   caption: London Stock Exchange Group
   alt: London Stock Exchange Group
-- image: "/uploads/760x428%20web_17-10-10%20Finance%20Andy%20Guidlhall.jpg"
-  caption: A group of Finance professionals on our City of London Finance Tour in
-    front of Guildhall.
-  alt: A group of Finance professionals on our City of London Finance Tour in front
-    of Guildhall.
-- image: "/uploads/finance%20tour%20leadenhall%20market.jpg"
-  caption: 'Leadenhall market '
-  alt: 'Leadenhall market '
-- image: "/uploads/760x428%2017-10-01%20Finance%20Julia%20Leadenhall%20Market.jpg"
-  caption: A group of students on our City of London Finance Tour in Leadenhall Market.
-  alt: A group of students on our City of London Finance Tour in Leadenhall Market.
 order: 1
 tour-id: 29332
 author: london75
