@@ -1,7 +1,5 @@
 .hero {
-
   position: relative;
-
   &:before {
     position: absolute;
     content:" ";
@@ -11,7 +9,7 @@
     height:100%;
     display: block;
     z-index:0;
-    background-color: rgba($color-blue,0.5);
+    background-color: rgba($color-blue,0.8);
   }
 }
 
@@ -38,13 +36,9 @@
 }
 
 .hero__title {
-
   color: $color-white;
   font-weight: 700;
-
   @include mq(mobile) {
     @include inuit-font-size(20px);
   }
-
-
 }

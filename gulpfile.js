@@ -16,7 +16,6 @@ var run          = require('gulp-run');
 var runSequence  = require('run-sequence');
 var sass         = require('gulp-ruby-sass');
 var uglify       = require('gulp-uglify');
-var criticalCss = require('gulp-penthouse');
 var responsive   = require('gulp-responsive');
 var plumber   = require('gulp-plumber');
 
