@@ -77,22 +77,35 @@ gulp.task('images', function () {
 });
 
 gulp.task('landing-page-images', function () {
-
-  return gulp.src('./images/landingpages/*.{jpg,JPG,jpeg}')
-      .pipe(plumber())
-    .pipe(responsive({'**/*.jpg': {
+  return gulp.src('dest/**/*.{jpg,JPG,jpeg}')
+    .pipe(plumber())
+    .pipe(responsive({'**/*.{jpg,JPG,jpeg}': {
         width: 2000
       },
     },
-     {
+    {
       progressive: true,
       quality: 70,
       withMetadata: false,
       errorOnEnlargement: false,
       errorOnUnusedConfig: false
-    })).pipe(gulp.dest('assets/images/landing-pages'))
+    })).pipe(gulp.dest('assets/images/tours'))
     .on('error', gutil.log);
+});
 
+gulp.task("blah", function (done) {
+  return gulp.src("./images/tours/**/*.{JPG,jpg,jpeg}")
+
+    //Remove Space
+    .pipe(rename(function(opt) {
+      opt.basename = opt.basename.split(' ').join('-');
+          opt.extname = ".jpg";
+      return opt;
+    }))
+
+    //Copy to destination
+    .pipe(gulp.dest("dest"));
+    done();
 });
 
 // Runs jekyll build command.
