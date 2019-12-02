@@ -4,7 +4,7 @@ script: 'slick-slider.js'
 ---
 
 <article class="post">
-  <header class="post-header bg-gray u-margin-bottom u-margin-bottom-large@desktop">
+  <header class="post-header bg-gray u-margin-bottom-large">
     <div class="breadcrumb-wrapper ">
       <div class="o-wrapper u-padding-left-small u-padding-right-small u-padding-left@tablet u-padding-right@tablet">
         <!-- <h1 class="u-h4">
@@ -14,29 +14,10 @@ script: 'slick-slider.js'
             {{ page.title }}
           {% endif %}
         </h1> -->
-        {% if site.data.mainnav[page.nav] %}
-          <nav class="c-scroll-nav u-padding-vertical-small">
-            <div class="c-scroll-nav__inner">
-              <div class="c-scroll-nav__container">
-                {% for item in site.data.mainnav[page.nav] %}
-                  <a class="c-scroll-nav__link" href="{{ item.url }}">{{ item.title }}</a>
-                {% endfor %}
-              </div>
-            </div>
-          </nav>
-        {% endif %}
+        {% include pagenav.html %}
       </div>
     </div>
   </header>
-  {% if page.embed %}
-    {% include embed.html src=page.embed %}
-  {% elsif page.gallery.size > 1 %}
-    {% include slideshow.html %}
-  {% else %}
-    <p class="palm-mt0 lap-and-up-mt0">
-      <img src="{{ site.imagepath }}{{ page.banner }}" />
-    </p>
-  {% endif %}
   <div class="o-wrapper u-padding-left-small u-padding-right-small u-padding-left@tablet u-padding-right@tablet">
     <div class="o-layout">
       <div class="o-layout__item u-2/3@desktop">

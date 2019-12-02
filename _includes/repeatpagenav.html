@@ -1,0 +1,7 @@
+{% if page.repeatnav %}
+  <div class="u-margin-bottom-large u-flex u-flex-wrap">
+    {% for item in site.data.mainnav[page.nav] %}
+      <a class="c-btn c-btn--ghost c-btn--tertiary u-margin-right-small" href="{{ item.url }}">{{ item.title }}</a>
+    {% endfor %}
+  </div>
+{% endif %}

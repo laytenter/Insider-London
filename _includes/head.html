@@ -21,8 +21,8 @@
   {% else %}
     <script type="text/javascript" src="{{ '/assets/js/01022019.scripts.min.js' | prepend: site.baseurl }}" defer async></script>
 
-    <link rel="preload" type="text/css" href="{{ '/assets/css/28-11-19.styles.min.css' | prepend: site.baseurl }}" as="style">
-    <link rel="stylesheet" type="text/css" href="{{ '/assets/css/28-11-19.styles.min.css' | prepend: site.baseurl }}">
+    <link rel="preload" type="text/css" href="{{ '/assets/css/main-02-12-19.styles.min.css' | prepend: site.baseurl }}" as="style">
+    <link rel="stylesheet" type="text/css" href="{{ '/assets/css/main-02-12-19.styles.min.css' | prepend: site.baseurl }}">
   {% endif %}
 
   <meta charset="utf-8">
@@ -32,7 +32,5 @@
   {% seo %}
 
   {% for post in site.posts %}{% if post.url == page.url %}{% if post.noindex %}<meta name="robots" content="noindex">{% endif %}{% endif %}{% endfor %}
-
-  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 
 </head>

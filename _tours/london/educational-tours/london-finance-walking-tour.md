@@ -10,7 +10,7 @@ tags:
 heading: City of London Finance Tour
 description: Insider London Walking Tours | Our London finance tour takes you from
   the humble beginnings in the 17th century to its current global status.
-gallery:
+gallery1:
 - image: "/assets/images/tours/finance/Picture 1 - Bank of England City of London Finance Walking Tour Student Corporate Group.JPG"
   caption: The City of London is one of the two financial hearts of London.
   alt: The City of London is one of the two financial hearts of London.
@@ -20,6 +20,13 @@ gallery:
 - image: "/assets/images/tours/finance/Picture 3 - Leadenhall Market Student Corporate Finance City of London Walking Tour.jpg"
   caption: London Stock Exchange Group
   alt: London Stock Exchange Group
+gallery2:
+  - image: "/assets/images/tours/canary-wharf/Picture 1 - 1 Canada Square Canary Wharf Finance Regeneration Student Corporate Walking Tour.jpg"
+    alt: Canada Square Canary Wharf Finance Regeneration Student Corporate Walking Tour
+  - image: "/assets/images/tours/canary-wharf/Picture 2 - Reuter_s Plaza Canary Wharf Finance Regeneration Student Corporate Walking Tour.jpg"
+    alt: Reuter_s Plaza Canary Wharf Finance Regeneration Student Corporate Walking Tour
+  - image: "/assets/images/tours/canary-wharf/Picture 3 - Museum of Docklands Canary Wharf Finance Regeneration Student Corporate Walking Tour.jpg"
+    alt: Museum of Docklands Canary Wharf Finance Regeneration Student Corporate Walking Tour
 order: 1
 tour-id: 29332
 author: london75
@@ -37,6 +44,13 @@ related:
 Financial services are at the heart of the London economy. Come and explore the UK capital as an international finance centre at: [The City](#city-finance-tour) and [Canary Wharf](#canary-wharf-walking-tour)
 
 ## City Finance Tour
+
+{% assign gallery = page.gallery1 %}
+
+{% if gallery.size > 1 %}
+  {% include slideshow.html %}
+{% endif %}
+
 Join us on our award-winning walking tour of The City as we take you on a fascinating journey to discover the origins of London’s financial centre - from its humble *beginnings in 17<sup>th</sup> century* coffee houses to *its ancient and unusual* governance and voting system that’s still in use today.
 
 Our expert guide will show you how the City of London developed into a global financial centre, taking in key buildings such as: the *London Stock Exchange*, Guildhall, the *Bank of England*, Lloyds of London and Rothschild's.
@@ -58,6 +72,13 @@ Finishing Point: The Cheesegrater (Leadenhall Building), near Liverpool Street S
 - **Why a one meter long gold grasshopper sits above Lombard Street** and other cryptic London City signs.
 
 ## Canary Wharf Walking Tour
+
+{% assign gallery = page.gallery2 %}
+
+{% if gallery.size > 1 %}
+  {% include slideshow.html %}
+{% endif %}
+
 
 This walking tour explores the economic powerhouse: **CANARY WHARF** - the new finance centre of London.  Come and explore the amazing development which boasts more **bankers** than the City of London and some of the most expensive **real estate** in the world.
 

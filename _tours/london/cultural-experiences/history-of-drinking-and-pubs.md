@@ -6,14 +6,14 @@ nav: london
 description: Learn the history of drinking and pubs and raise a glass to this city’s
   famous drinking culture. Experience the London pub tour at insider-london.co.uk.
 gallery:
-- image: 
-  caption: 
-  alt: 
+- image:
+  caption:
+  alt:
 embed: null
 order: null
 date: '2006-01-01 11:24:00 +0000'
 categories:
-- hidden
+  - cultural-experiences
 tags:
 - HOD
 - historical

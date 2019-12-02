@@ -1,8 +1,8 @@
 ---
 heading: Silicon Valley
-title: North American Programme
-layout: programme
-nav: usa
+title: Silicon Valley
+layout: landing
+background: silicon-valley.jpg
 ---
 
 We present the world capital of innovation and technology: SILICON VALLEY. For the last sixty years this region has been at the heart of many of the greatest technological innovations. From microprocessors to integrated circuit boards and lasers, Silicon Valley is synonymous with high technology and scientific research, as well as the modern-day social media giants.  

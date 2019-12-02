@@ -1,8 +1,16 @@
 .nav {
+  color: $inuit-base-text-color;
   display: none;
   @include mq($from:tablet) {
     display: flex;
   }
+}
+.utility-nav__link {
+  color: $inuit-base-text-color;
+  &:hover {
+    color: darken($inuit-base-text-color,60%);
+  }
+
 }
 .main-nav__link {
   white-space: nowrap;

@@ -1,8 +1,9 @@
 ---
 heading: London
 title: Educational Tours in London
-layout: programme
+layout: landing
 category: london
+background: educational-tours.jpg
 nav: london
 ---
 
@@ -11,8 +12,4 @@ Insider London offers a wide variety of educational guided walks which are perfe
 Uncover the secrets of London's thriving business eco-systems, commercial success and creative scene. Explore impressive regeneration projects and beautiful architecture. Trace the origins of the world’s most iconic metropolitan transport and come check out how London is adapting to embrace a greener future.
 
 {% assign tours = site.tours | where: "categories", "educational-tours" | sort:"order","last" %}
-<ul class="o-list-bare">
-  {% for tour in tours %}
-    <li><a href="{{ tour.url }}">{{ tour.title }}</a></li>
-  {% endfor %}
-</ul>
+{% include related-tours.html %}

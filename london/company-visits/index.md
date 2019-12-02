@@ -31,7 +31,6 @@ gallery:
 - image: "/uploads/verb%20visit.jpg"
   caption: British students discovering digital marketing at Verb
   alt: British students discovering digital marketing at Verb
-embed: https://www.youtube.com/embed/FcdAmAP6_kw
 tour-id: 29344
 author: london75
 guid: "/?post_type=product&#038;p=29344"
@@ -44,7 +43,7 @@ related:
 - 29347
 - 29332
 - 29334
-layout: programme
+layout: landing
 nav: london
 ---
 

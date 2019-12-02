@@ -5,9 +5,9 @@ layout: programme
 nav: london
 description: null
 gallery:
-- image: 
-  caption: 
-  alt: 
+- image:
+  caption:
+  alt:
 embed: https://www.youtube.com/embed/r5_6ln8v_WM
 order: null
 date: '2008-01-01 17:30:00 +0000'

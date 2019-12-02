@@ -3,6 +3,8 @@ title: London Programme
 heading: London
 layout: landing
 nav: london
+background: london.jpg
+repeatnav: true
 ---
 
 London is a global city like no other. With two thousand years of history preserved in its walls, modern London is a world capital for education, media, arts, tourism, finance and technology. "A city of villages" – every neighbourhood boasts its own character, style and heritage. From the art-lined streets of trendy Shoreditch to the prestige of Mayfair boulevards, there is never enough time to explore all that London has to offer.

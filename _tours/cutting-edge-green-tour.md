@@ -2,7 +2,7 @@
 title: Cutting Edge Green Tour
 date: 2014-01-01 10:48:00 Z
 categories:
-- cultural-experiences
+- 
 tags:
 - CEGT
 - all

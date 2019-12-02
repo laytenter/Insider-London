@@ -6,28 +6,11 @@ layout: default
   <header class="post-header bg-gray">
     <div class="breadcrumb-wrapper ">
       <div class="o-wrapper u-padding-left-small u-padding-right-small u-padding-left@tablet u-padding-right@tablet">
-        <!-- <h1 class="u-h4">
-          {% if page.heading %}
-            {{ page.heading }}
-          {% else %}
-            {{ page.title }}
-          {% endif %}
-        </h1> -->
-        {% if site.data.mainnav[page.nav] %}
-          <nav class="c-scroll-nav u-padding-vertical-small">
-            <div class="c-scroll-nav__inner">
-              <div class="c-scroll-nav__container">
-                {% for item in site.data.mainnav[page.nav] %}
-                  <a class="c-scroll-nav__link" href="{{ item.url }}">{{ item.title }}</a>
-                {% endfor %}
-              </div>
-            </div>
-          </nav>
-        {% endif %}
+        {% include pagenav.html %}
       </div>
     </div>
   </header>
-  <div class="u-landing-background white u-padding-top-large" style="background-image:linear-gradient(rgba(25,46,81,0.8), rgba(25,46,81,0.8)),url('/assets/images/landing-pages/st-pauls-cathedral.jpg')">
+  <div class="u-landing-background white u-padding-top-large" style="background-image:linear-gradient(rgba(25,46,81,0.75), rgba(25,46,81,0.75)),url('/assets/images/landing-pages/{{ page.background }}')">
     <div class="o-wrapper u-padding-left-small u-padding-right-small u-padding-left@tablet u-padding-right@tablet">
       <div class="o-layout">
         <div class="o-layout__item u-2/3@desktop">
@@ -36,6 +19,8 @@ layout: default
             <h2 class="u-h1">{{ page.title }}</h2>
             {{ content }}
           </div>
+          {% include repeatpagenav.html %}
+
         </div>
         <div class="o-layout__item u-1/3@desktop">
           {% include tour-enquiry.html %}

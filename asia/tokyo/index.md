@@ -1,12 +1,13 @@
 ---
 title: Tokyo
-layout: programme
+layout: landing
 nav: asia
+background: tokyo.jpg
 ---
 
-We are proud to present a 'command centre' for the world economy and Japan’s leading industrial centre: TOKYO. Behind the neon lights and through the bustling crowds lies a business capital like no other. 
+We are proud to present a 'command centre' for the world economy and Japan’s leading industrial centre: TOKYO. Behind the neon lights and through the bustling crowds lies a business capital like no other.
 
-This highly diversified manufacturing base is also Japan’s management and finance centre. With a close relationship between government and business, go behind-the-scenes of the largest metropolitan economy in the world. 
+This highly diversified manufacturing base is also Japan’s management and finance centre. With a close relationship between government and business, go behind-the-scenes of the largest metropolitan economy in the world.
 
 ## Company Visits
 From manufacturing giants to prestigious centres of power, Insider London offers an extensive range of bespoke visits.

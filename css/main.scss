@@ -39,15 +39,17 @@ wide:    1200px
 
 // OBJECTS
 @import "../bower_components/inuitcss/objects/objects.layout";
-@import "../bower_components/inuitcss/objects/objects.media";
-@import "../bower_components/inuitcss/objects/objects.flag";
+// @import "../bower_components/inuitcss/objects/objects.media";
+// @import "../bower_components/inuitcss/objects/objects.flag";
 @import "../bower_components/inuitcss/objects/objects.list-bare";
-@import "../bower_components/inuitcss/objects/objects.list-inline";
+// @import "../bower_components/inuitcss/objects/objects.list-inline";
 @import "../bower_components/inuitcss/objects/objects.box";
 @import "../bower_components/inuitcss/objects/objects.block";
-@import "../bower_components/inuitcss/objects/objects.table";
+// @import "../bower_components/inuitcss/objects/objects.table";
 @import "../bower_components/inuitcss/objects/objects.wrapper";
 @import "../bower_components/inuitcss/objects/objects.ratio";
+@import "../bower_components/inuitcss/objects/objects.ratio";
+@import "../bower_components/inuitcss/objects/objects.pack";
 
 // COMPONENTS
 //@import "components/components.buttons";
@@ -61,6 +63,7 @@ wide:    1200px
 @import "components/components.box";
 @import "components/components.icons";
 @import "components/components.slick";
+@import "components/components.slick-theme";
 
 // UTILITIES
 @import "../bower_components/inuitcss/utilities/utilities.widths";
@@ -76,3 +79,4 @@ $inuit-responsive-spacing-sizes: $inuit-spacing-sizes !default;
 @import "utilities/utilities.flex";
 @import "utilities/utilities.margins";
 @import "utilities/utilities.backgrounds";
+@import "utilities/utilities.position";

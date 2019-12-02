@@ -92,6 +92,8 @@ exclude:
 - npm-debug.log
 - gulpfile.js
 - images
+- assets/video
+- _uploads
 - imgs
 future: true
 imagepath: "/assets/images/"

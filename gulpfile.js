@@ -76,6 +76,25 @@ gulp.task('images', function () {
     })).pipe(gulp.dest('_uploads'))
 });
 
+gulp.task('landing-page-images', function () {
+
+  return gulp.src('./images/landingpages/*.{jpg,JPG,jpeg}')
+      .pipe(plumber())
+    .pipe(responsive({'**/*.jpg': {
+        width: 2000
+      },
+    },
+     {
+      progressive: true,
+      quality: 70,
+      withMetadata: false,
+      errorOnEnlargement: false,
+      errorOnUnusedConfig: false
+    })).pipe(gulp.dest('assets/images/landing-pages'))
+    .on('error', gutil.log);
+
+});
+
 // Runs jekyll build command.
 gulp.task('build:jekyll', function() {
     var shellCommand = 'bundle exec jekyll build --incremental --config _config.yml';
