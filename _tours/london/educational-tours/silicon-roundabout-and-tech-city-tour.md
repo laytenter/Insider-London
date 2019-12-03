@@ -11,28 +11,12 @@ heading: Silicon Roundabout and Tech City Tour
 description: London Tech City Tour | Visit the world’s third biggest start-up tech
   cluster | Silicon Roundabout Tour
 gallery:
-- image: "/uploads/SR%20Tour%20Title%20Pic.jpg"
-  caption: Discover the world’s third biggest start-up tech cluster - the Silicon
-    Roundabout.
-  alt: Discover the world’s third biggest start-up tech cluster - the Silicon Roundabout.
-- image: "/uploads/web_17-05-08%20SR.jpg"
-  caption: Starting our Silicon Roundabout in front of the Roundabout itself!
-  alt: Starting our Silicon Roundabout in front of the Roundabout itself!
-- image: "/uploads/web_17-08-02_SR_Dean_na_Ziferblat.jpg"
-  caption: A group on students visiting Ziferblat - a great co-working/co-living-space
-    we visit on the tour!
-  alt: A group on students visiting Ziferblat - a great co-working/co-living-space
-    we visit on the tour!
-- image: "/uploads/web_17-06-29_SR_Jonas_Kings_GoogleCampus.JPG"
-  caption: A group of researchers from King's College in front of our last stop, Google
-    Campus.
-  alt: A group of researchers from King's College in front of our last stop, Google
-    Campus.
-- image: "/uploads/web_18-01-31%20SR%20BobClarissaJonas%20Imperial.jpg"
-  caption: A  large group of Imperial College's students in front of Google Campus
-    in January 2018!
-  alt: A  large group of Imperial College's students in front of Google Campus in
-    January 2018!
+- image: "/assets/images/tours/Silicon Roundabout/Picture-1---The-Bowery-Fintech-Silicon-Roundabout-Tech-City-Walking-Tour.jpg"
+  alt: The-Bowery-Fintech-Silicon-Roundabout-Tech-City-Walking-Tour
+- image: "/assets/images/tours/Silicon Roundabout/Picture-2---Principal-Place-Amazon-Regeneration-Silicon-Roundabout-Tech-City-Walking-Tour.jpg"
+  alt: Principal-Place-Amazon-Regeneration-Silicon-Roundabout-Tech-City-Walking-Tour
+- image: "/assets/images/tours/Silicon Roundabout/Picture-3---Barclays-Fintech-Accelerator-Coworking-Silicon-Roundabout-Tech-City-Walking-Tour.jpg"
+  alt: Barclays-Fintech-Accelerator-Coworking-Silicon-Roundabout-Tech-City-Walking-Tour
 order: 3
 tour-id: 29347
 author: london75
@@ -47,9 +31,15 @@ related:
 - 29344
 ---
 
+
 London is often voted the world’s best city to do business and we invite you to the capital’s thriving business centres. In addition to our [Finance Tours](/london/educational-tours/finance) and [Marketing & Retail Tours](/london/educational-tours/retail-design), our popular Silicon Roundabout Tour goes straight to the heart of the Tech City eco-system.
 
 ## Silicon Roundabout/Tech City Walking Tour
+
+{% assign gallery = page.gallery %}
+{% if gallery.size > 1 %}
+{% include slideshow.html %}
+{% endif %}
 
 Welcome to the epicentre of London's booming tech start-up industry!
 

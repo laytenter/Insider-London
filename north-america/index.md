@@ -22,4 +22,4 @@ This programme will be hosted by the prestigious Riverside Campus of the Univers
 As well as in-depth seminars with a variety of leading academics and industry expert, this programme includes exclusive cultural and dining experiences. Delegates will have lunch at the UC Berkeley Presidents Club as well as the Capital Club during their stay.
 We also invite you to explore Napa Valley, one of the best wine growing regions in the world. With consistent year-round temperatures, fertile soil and new world expertise, this all-inclusive programme would not be complete without a picturesque tour and train ride through wine country.
 
-Get in touch now via [contact@insider-london.co.uk](mailto:contact@insider-london.co.uk)  to find out more and book your all-inclusive package!
+Get in touch now via [contact@insiderlondon.com](mailto:contact@insiderlondon.com)  to find out more and book your all-inclusive package!

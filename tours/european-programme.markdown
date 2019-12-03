@@ -57,4 +57,4 @@ Switzerland's economic powerhouse boasts a varied and extensive range of special
 <br>
 <br>
 <br>
-All Insider London packages are completely bespoke and are created based on the interests and requirements of the group. Get in touch now via [contact@insider-london.co.uk](mailto:contact@insider-london.co.uk) with your group's background and objective to find out what Insider London can offer you.  
+All Insider London packages are completely bespoke and are created based on the interests and requirements of the group. Get in touch now via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) with your group's background and objective to find out what Insider London can offer you.  

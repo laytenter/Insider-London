@@ -1,15 +1,15 @@
 .u-flex {
   display: flex;
 }
-
+.u-flex-align-center {
+  align-items: center;
+}
 .u-flex-wrap {
   flex-wrap: wrap;
 }
-
 .u-flex-direction-column {
   flex-direction: column;
 }
-
 .u-flex-justify-content-space-between {
   justify-content: space-between;
 }

@@ -21,20 +21,22 @@ layout: compress
     <!-- Look at loading scripts only where needed -->
 
     <script type="text/javascript" src="{{ "/js/modal.js" | prepend: site.baseurl }}" defer></script>
+    <script type="text/javascript" src="{{ "/js/nav.js" | prepend: site.baseurl }}" defer></script>
 
     <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
     <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
     <script type="text/javascript">
-      $(document).ready(function(){
-      $('.slideshow').slick({
-        centerMode: true,
-        centerPadding: '10%',
-        prevArrow: '.slick-prev',
-        nextArrow: '.slick-next',
-        autoplay: true
+      $(document).ready(function() {
+        $('.slideshow').each(function(){
+          var slickInduvidual = $(this);
+          slickInduvidual.slick({
+            nextArrow: slickInduvidual.next().next().find('.slick-next'),
+            prevArrow: slickInduvidual.next().next().find('.slick-prev'),
+            autoplay: true
+          });
+        })
       });
-  });
-</script>
+    </script>
 
   </body>

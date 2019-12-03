@@ -15,14 +15,11 @@
   {% endif %}
 
   {% if jekyll.environment == 'development' %}
-    <!--script type="text/javascript" src="{{ "/assets/js/scripts.js" | prepend: site.baseurl }}" defer async></script-->
     <link rel="preload" type="text/css" href="{{ '/assets/css/main.css' | prepend: site.baseurl }}" as="style">
     <link rel="stylesheet" type="text/css" href="{{ '/assets/css/main.css' | prepend: site.baseurl }}">
   {% else %}
-    <script type="text/javascript" src="{{ '/assets/js/01022019.scripts.min.js' | prepend: site.baseurl }}" defer async></script>
-
-    <link rel="preload" type="text/css" href="{{ '/assets/css/main-02-12-19.styles.min.css' | prepend: site.baseurl }}" as="style">
-    <link rel="stylesheet" type="text/css" href="{{ '/assets/css/main-02-12-19.styles.min.css' | prepend: site.baseurl }}">
+    <link rel="preload" type="text/css" href="{{ '/assets/css/main-03-12-19.styles.min.css' | prepend: site.baseurl }}" as="style">
+    <link rel="stylesheet" type="text/css" href="{{ '/assets/css/main-03-12-19.styles.min.css' | prepend: site.baseurl }}">
   {% endif %}
 
   <meta charset="utf-8">

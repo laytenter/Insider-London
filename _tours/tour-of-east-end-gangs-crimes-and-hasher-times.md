@@ -60,7 +60,7 @@ Approximately 2 hours
 - Senior (60+): £15
 
 ### When does the tour run?
-The tour runs weekly on Sunday and UK Bank Holidays. The Tour of East End may also be booked as a private tour at a time suitable for you and your party, please send us an email to <a href="mailto:contact@insider-london.co.uk">contact@insider-london.co.uk</a> make an enquiry.
+The tour runs weekly on Sunday and UK Bank Holidays. The Tour of East End may also be booked as a private tour at a time suitable for you and your party, please send us an email to <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a> make an enquiry.
 
 ### Where does the tour finish?
 

@@ -63,7 +63,7 @@ Approximately 2 hours
 ## When does the tour run?
 This tour is only available for private parties and can be arranged for any date or time except Mondays, as many interesting businesses in Brixton will be closed that day. Furthermore, we are happy to create a bespoke programme to reflect your specific needs.
 
-To book the private tour, or find out more, call [0207 183 1055](tel:02071831055), or email [contact@insider-london.co.uk](mailto: contact@insider-london.co.uk).
+To book the private tour, or find out more, call [0207 183 1055](tel:02071831055), or email [contact@insiderlondon.com](mailto: contact@insiderlondon.com).
 
 ## Where does the tour finish?
 Outside Ritzy, Brixton Oval

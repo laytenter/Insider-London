@@ -51,6 +51,6 @@ We would like to warmly thank all who participated in the workshop: the wonderfu
 
  
 
-Looking to inspire your team? Get in touch now to find the perfect workshop or company visit via [contact@insider-london.co.uk](mailto:contact@insider-london.co.uk) 
+Looking to inspire your team? Get in touch now to find the perfect workshop or company visit via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) 
 
  

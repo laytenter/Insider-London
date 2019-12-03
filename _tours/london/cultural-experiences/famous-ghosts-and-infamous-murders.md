@@ -6,9 +6,12 @@ nav: london
 description: Ghost tour London by Insider London discovering the murder mysteries
   that gripped Londoners long before Jack the Ripper came to the scene.
 gallery:
-- image: 
-  caption: 
-  alt: 
+  - image: /assets/images/tours/Ghost/Picture-1---Historic-Alleyway-from-Harry-Potter-Ghost-Haunted-London-Walking-Tour-Student-Corporate-Group.jpg
+    alt: Historic Alleyway from Harry Potter Ghost Haunted London Walking Tour Student Corporate Group
+  - image: /assets/images/tours/Ghost/Picture-2---Spooky-Magic-Shop-Haunted-London-Walking-Tour-Student-Corporate-Group.jpg
+    alt: Spooky Magic Shop Haunted London Walking Tour Student Corporate Group
+  - image: /assets/images/tours/Ghost/Picture-3---History-West-End-Haunted-London-Walking-Tour-Student-Corporate-Group.jpg
+    alt: History West End Haunted London Walking Tour Student Corporate Group
 embed: https://www.youtube.com/embed/r5_6ln8v_WM
 order: null
 date: '2008-01-01 17:30:00 +0000'
@@ -37,9 +40,16 @@ banner: blank banner.jpg
 hidden: true
 ---
 
+{% assign gallery = page.gallery %}
+
+{% if gallery.size > 1 %}
+  {% include slideshow.html %}
+{% endif %}
+
+
 Old London town is no stranger to ghost stories. This ancient city is host to all sorts of **ghouls, ghosts and things that go bump in the night**. Book your Insider London guide and stroll through the backstreets of the West End. We bring London history to life and introduce you to the Londoners who never wanted to leave!
 
-**Best under cover of darkness**, come and explore some of the capital’s most gruesome murders and unsolved mysteries. Famous Ghosts and Infamous Murders is a walking tour that will have you discovering new haunts of your own and checking over your shoulder at every twist and turn. If you are looking for a guided ghost tour that is filled with history and **spooky tales**, then look no further! 
+**Best under cover of darkness**, come and explore some of the capital’s most gruesome murders and unsolved mysteries. Famous Ghosts and Infamous Murders is a walking tour that will have you discovering new haunts of your own and checking over your shoulder at every twist and turn. If you are looking for a guided ghost tour that is filled with history and **spooky tales**, then look no further!
 
 **Meeting Point**: Outside Tottenham Court Road Station, Exit 1
 

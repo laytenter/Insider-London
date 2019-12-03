@@ -27,4 +27,4 @@ As well as introducing the business model and ethos of Verus Global, Shaw provid
  
 Insider London would like to warmly thank Shaw Xue of Verus Global and Kevin Le of Internet Initiative Japan for the wonderful presentations as well as Swinbourne University for their active participation in this memorable trip.
 
-Did you know Insider London offers an extensive range of visits in other world business centres such as Frankfurt, Geneva and Shanghai? Get in touch via <a href="mailto:contact@insider-london.co.uk">contact@insider-london.co.uk</a> with your group's requirements to find out what we can offer you.
+Did you know Insider London offers an extensive range of visits in other world business centres such as Frankfurt, Geneva and Shanghai? Get in touch via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a> with your group's requirements to find out what we can offer you.

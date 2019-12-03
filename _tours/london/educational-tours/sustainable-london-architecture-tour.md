@@ -9,16 +9,20 @@ tags:
 - all
 description: Join Insider London on London's only sustainable architecture tour and
   discover London's greenest skyscrapers
-gallery:
-- image: "/uploads/sustainable%20architecture%20tour%20title%20pic.jpg"
-  caption:
-  alt:
-- image: "/uploads/sustainable%20architecture%20tour%20the%20shard.jpg"
-  caption:
-  alt:
-- image:
-  caption:
-  alt:
+gallery1:
+- image: "/assets/images/tours/CEGT/Picture-1---Central-St-Giles-Sustainability-Eco-Cutting-Edge-Green-Walking-Tour-Student-Corporate.jpg"
+  alt: Central-St-Giles-Sustainability-Eco-Cutting-Edge-Green-Walking-Tour-Student-Corporate
+- image: "/assets/images/tours/CEGT/Picture-2---London-Skyline--Sustainability-Eco-Cutting-Edge-Green-Walking-Tour-Student-Corporate.jpg"
+  alt: London-Skyline--Sustainability-Eco-Cutting-Edge-Green-Walking-Tour-Student-Corporate
+- image: /assets/images/tours/CEGT/Picture-3---Neal_s-Yard---Sustainability-Eco-Cutting-Edge-Green-Walking-Tour-Student-Corporate.jpg
+  alt: Neal_s-Yard---Sustainability-Eco-Cutting-Edge-Green-Walking-Tour-Student-Corporate
+gallery2:
+- image: "/assets/images/tours/Sustainable Architecture/Picture-1---Bloomberg-HQ-Sustainable-Green-Eco-Architecture-Walking-Tour-Student-Corporate.jpg"
+  alt: Bloomberg-HQ-Sustainable-Green-Eco-Architecture-Walking-Tour-Student-Corporate
+- image: "/assets/images/tours/Sustainable Architecture/Picture-2---Watermark-Place-Sustainable-Green-Eco-Architecture-Walking-Tour-Student-Corporate.jpg"
+  alt: Watermark-Place-Sustainable-Green-Eco-Architecture-Walking-Tour-Student-Corporate
+- image: /assets/images/tours/Sustainable Architecture/Picture-3---Walkie-Talkie-Green-Wall-Sustainable-Green-Eco-Architecture-Walking-Tour-Student-Corporate.jpg
+  alt: Walkie-Talkie-Green-Wall-Sustainable-Green-Eco-Architecture-Walking-Tour-Student-Corporate
 order: 8
 tour-id: 29342
 author: london75
@@ -34,6 +38,11 @@ related:
 With growing awareness of the global climate crisis then it’s time to re-imagine the modern way of life and twenty-first century infrastructure. With a booming population and more than two-thousand years of history, London has a unique set of difficulties to face when transitioning into a sustainable future. We showcase a wide variety of approaches that show London is always up for a challenge. Find out more on our **Cutting-Edge Green** or **Sustainable Architecture** Walking Tours.
 
 ## Cutting-Edge Green Tour
+
+{% assign gallery = page.gallery1 %}
+{% if gallery.size > 1 %}
+{% include slideshow.html %}
+{% endif %}
 
 Insider London’s Cutting-Edge Green Tour is London’s only Sustainability Tour!
 
@@ -53,6 +62,12 @@ Are you a student of ethical business, environmental science or human geography?
 * London’s bid to become a “National Park City” and the **urban greening movement**
 
 ## Sustainable Architecture
+
+{% assign gallery = page.gallery2 %}
+{% if gallery.size > 1 %}
+{% include slideshow.html %}
+{% endif %}
+
 As architects step up to one of the greatest challenges in history, we look at the buildings **pioneering** our transition to a greener future. Buildings use an estimated 40% of our **global energy** needs so come and examine the sustainable features of some of London’s **most iconic skyscrapers**.
 
 From energy and water savings to carbon-free commuting and renewable materials, all aspects of both the construction and operation of buildings must now be taken into consideration. This is an exciting time for engineers and architects who consider brand new solutions and combine the latest in **innovative design and exciting new technology**.  

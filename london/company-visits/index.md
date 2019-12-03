@@ -68,7 +68,7 @@ Your in-depth business experience will include an exclusive first-hand account o
 
 Insider London’s Company Visits are a unique opportunity for corporate groups and government officials looking for a rare behind-the-scenes experience, as well as for student groups looking to explore real-life thriving business models. Our visits provide an opportunity to make vital contacts and discover key challenges of the modern world in specific industries.
 
-E-mail [contact@insider-london.co.uk](mailto:contact@insider-london.co.uk) to choose from our extensive list of partners. With opportunities for a variety of groups, with sizes from 6-80 people, we will create a bespoke business programme for your precise professional or academic needs.
+E-mail [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to choose from our extensive list of partners. With opportunities for a variety of groups, with sizes from 6-80 people, we will create a bespoke business programme for your precise professional or academic needs.
 
 Insider London’s Business Visits are a unique opportunity for corporate groups and government officials looking for a rare behind-the-scenes experience, as well as for student groups looking to explore real-life thriving business models. Our visits provide an opportunity to make vital contacts and discover key challenges of the modern world in specific industries
 
@@ -84,4 +84,4 @@ Insider London also hosts engaging and interactive workshops with top industry p
 - Finance Made Simple – specially created for those new to finance, this is the first step to understanding how money operates in a business. From raising investment to monitoring cashflow, it’s time to de-mystify!
 - Defining Leadership - exploring crucial characteristics of successful leadership and their practical application to honing negotiating and influencing skills.
 
-Get in touch via [contact@insider-london.co.uk](mailto:contact@insider-london.co.uk) to start creating your perfect educational package.
+Get in touch via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to start creating your perfect educational package.

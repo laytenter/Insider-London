@@ -42,7 +42,7 @@ A huge thank you to all participants who engaged in the session and to the wonde
 
  
 
-To book your [in-depth company visit](https://www.insider-london.co.uk/in-depth-business-visits/) get in touch via [contact@insider-london.co.uk](mailto:contact@insider-london.co.uk). We have a wide range of exciting partnerships from fintech and accountancy firms to media and marketing companies.  
+To book your [in-depth company visit](https://www.insider-london.co.uk/in-depth-business-visits/) get in touch via [contact@insiderlondon.com](mailto:contact@insiderlondon.com). We have a wide range of exciting partnerships from fintech and accountancy firms to media and marketing companies.  
 
  
 

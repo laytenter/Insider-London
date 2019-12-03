@@ -5,9 +5,12 @@ layout: programme
 nav: london
 description: null
 gallery:
-- image:
-  caption:
-  alt:
+- image: /assets/images/tours/Westminster Highlights/Picture-1---Buckingham-Palace-Westminster-Highlights-Sightseeing-Walking-Tour-Student-Corportate-Group.jpg
+  alt: Buckingham-Palace-Westminster-Highlights-Sightseeing-Walking-Tour-Student-Corportate-Group
+- image: /assets/images/tours/Westminster Highlights/Picture-2---Trafalgar-Square-Westminster-Highlights-Sightseeing-Walking-Tour-Student-Corportate-Group.jpg
+  alt: Trafalgar-Square-Westminster-Highlights-Sightseeing-Walking-Tour-Student-Corportate-Group
+- image: /assets/images/tours/Westminster Highlights/Westminster-Highlights-Sightseeing-Walking-Tour-Student-Corportate-Group.jpg
+  alt: Westminster-Highlights-Sightseeing-Walking-Tour-Student-Corportate-Group
 embed: https://www.youtube.com/embed/r5_6ln8v_WM
 order: null
 date: '2008-01-01 17:30:00 +0000'
@@ -31,6 +34,12 @@ related:
 banner: blank banner.jpg
 hidden: true
 ---
+
+{% assign gallery = page.gallery %}
+
+{% if gallery.size > 1 %}
+  {% include slideshow.html %}
+{% endif %}
 
 Join us for an Insider London take on the sightseeing classic. Explore the fascinating history of London’s centre of power: Westminster. From Buckingham Palace to Trafalgar Square, and the political majesty of Whitehall, we will guide you round the most iconic and popular sites of Central London. Whether you are in London for leisure, education or business then this is the perfect addition to round off your trip and make it unforgettable.
 

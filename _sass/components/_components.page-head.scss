@@ -44,7 +44,7 @@
 
 .c-scroll-nav__link {
   text-decoration: none;
-  @include inuit-font-size(18px);
+  //@include inuit-font-size(18px);
   position: relative;
   color: $inuit-base-text-color;
 

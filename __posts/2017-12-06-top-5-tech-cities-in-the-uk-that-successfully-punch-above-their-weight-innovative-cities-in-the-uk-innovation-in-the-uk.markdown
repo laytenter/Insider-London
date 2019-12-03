@@ -77,4 +77,4 @@ As a reference, we used the measurements from the [UK Tech Innovation Index](htt
 - Oxford: 3.6
 - Cambridge: 4.7
 
-If you have any further questions, contact us at [contact@insider-london.co.uk](mailto:contact@insider-london.co.uk).
+If you have any further questions, contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com).

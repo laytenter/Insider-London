@@ -11,39 +11,12 @@ heading: Modern Architecture Tour
 description: The soaring skyscrapers that puncture London’s skyline are architectural
   wonders of London. Join our architecture tour London at insider-london.co.uk.
 gallery:
-- image: "/uploads/Title_City-of-London_Mordern-Architecute-Tour.jpg.jpg"
-  caption: Discover the City of London's architecture and more on our Modern Architecture
-    Tour!
-  alt: Discover the City of London's architecture and more on our Modern Architecture
-    Tour!
-- image: "/uploads/web_17-10-29%20MA%20Robert%20Bavaria%20teachers%20at%20Bloomberg.jpg"
-  caption: A group of Bavarian teachers on our Modern Architecture Tour, in front
-    of the new  Bloomberg Building!
-  alt: A group of Bavarian teachers on our Modern Architecture Tour, in front of the
-    new  Bloomberg Building!
-- image: "/uploads/Millenium%20Bridge%20and%20St%20Pauls_Modern%20Architecture.jpg"
-  caption: London sports an incredible mix of old and modern architecture.
-  alt: Millennium Bridge and St. Pauls - London sports an incredible mix of old and
-    modern architecture.
-- image: "/uploads/web_18-01-04%20MA%20private%20group%20Millennium%20Bridge.jpg"
-  caption: A picture of three lovely guests on a private Modern Architecture Tour,
-    taken on Millenium Bridge.
-  alt: A picture of three lovely guests on a private Modern Architecture Tour, taken
-    on Millenium Bridge.
-- image: "/uploads/modern%20architecture%20tour%2002.jpg"
-  caption: "."
-  alt: "."
-- image: "/uploads/web_17-12-01%20MA%20Robert%20Chapman%20Taylor%20City%20model.JPG"
-  caption: A group from Chapman Taylor, having a look at a model of the City on a
-    bespoke tour.
-  alt: A group from Chapman Taylor, having a look at a model of the City on a bespoke
-    tour.
-- image: "/uploads/modern%20architecture%20tour%20neo%20bankside.jpg"
-  caption: "."
-  alt:
-- image: "/uploads/modern%20architecture%20tour%20walkie%20talkie.jpg"
-  caption: "."
-  alt:
+- image: /assets/images/tours/MA/Picture-1---Lloyds-of-London-Modern-Architecture-Corporate-Student-Walking-Tour-.jpg
+  alt: Wobbly-Bridge--Modern-Architecture-Corporate-Student-Walking-Tour
+- image: "/assets/images/tours/MA/Picture-2---Wobbly-Bridge--Modern-Architecture-Corporate-Student-Walking-Tour-.JPG.jpg"
+  alt: Wobbly-Bridge--Modern-Architecture-Corporate-Student-Walking-Tour
+- image: "/assets/images/tours/MA/Picture-3-The-Shard--Modern-Architecture-Corporate-Student-Walking-Tour-.JPG.jpg"
+  alt: The-Shard--Modern-Architecture-Corporate-Student-Walking-Tour
 order: 7
 tour-id: 29338
 trekksoft-tour-id: 50198
@@ -60,9 +33,15 @@ related:
 - 29332
 ---
 
-How often in the big smoke do we stop and look up? Insider London invites you to take a closer look at the marvellous structures which puncture the horizon. Find out about our [Modern Architecture](#moder-architecture) and [Sustainable Architecture](#) Walking Tours
+How often in the big smoke do we stop and look up? Insider London invites you to take a closer look at the marvellous structures which puncture the horizon. Find out about our [Modern Architecture](#modern-architecture) and [Sustainable Architecture](/london/educational-tours/sustainable-london-architecture-tour/) Walking Tours
 
 ## Modern Architecture
+
+{% assign gallery = page.gallery %}
+{% if gallery.size > 1 %}
+{% include slideshow.html %}
+{% endif %}
+
 This award-winning tour uncovers the hidden stories of London's iconic skyline. Explore how the world's top architects **merge the historic and the innovative** in their race to the skies. Emerge yourself in the controversies of the architectural world, from questions of heritage to sustainability.
 
 In **two hours**, we journey through the latest architectural developments of the City of London, starting at St Paul’s and finishing at the many "kitchen items" of the Eastern cluster.

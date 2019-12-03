@@ -10,24 +10,20 @@ tags:
 heading: Retail Design Tour
 description: The original London Retail Tour! Find design inspiration for the most
   luxurious retail design at insider-london.co.uk.
-gallery:
-- image: "/uploads/WE%20Retail%20Tour%20Title%20Pic.jpg"
-  caption: Discover fascinating retail design in London's West End!
-  alt: Discover fascinating retail design in London's West End!
-- image: "/uploads/web_17-07-21_WERetail_Andy_Chinese.JPG"
-  caption: Students visiting from China on our West End Retail Design Tour - here
-    in Burlington Arcade.
-  alt: Students visiting from China on our West End Retail Design Tour - here in Burlington
-    Arcade.
-- image: "/uploads/web_17-12-06%20West%20End%20Retail%20Robert%20Ganton%20St%20-%20Students%20from%20Lille.jpg"
-  caption: Students from Lille, France, on our West End Retail Design tour in Carnaby
-    Street.
-  alt: Students from Lille, France, on our West End Retail Design tour in Carnaby
-    Street.
-- image: "/uploads/web_17-07-21_WERetail_Jonas_Italians%20on%20Language%20School_Piccadilly%20Circus_03.jpg"
-  caption: Language students from Italy on our West End Retail Design tour in Air
-    Street.
-  alt: Language students from Italy on our West End Retail Design tour in Air Street.
+gallery1:
+- image: /assets/images/tours/WE Retail/Picture-1---Visual-Merchandising-Retail-Marketing-West-End-Walking-Tour-Student-Corporate.JPG.jpg
+  alt: Visual-Merchandising-Retail-Marketing-West-End-Walking-Tour-Student-Corporate
+- image: /assets/images/tours/WE Retail/Picture-2---Visual-Merchandising-Retail-Marketing-West-End-Walking-Tour-Student-Corporate.jpg
+  alt: Visual-Merchandising-Retail-Marketing-West-End-Walking-Tour-Student-Corporate
+- image: /assets/images/tours/WE Retail/Picture-3---Liberty-Heritage-Brand-Retail-Marketing-West-End-Walking-Tour-Student-Corporate.JPG.jpg
+  alt: Liberty-Heritage-Brand-Retail-Marketing-West-End-Walking-Tour-Student-Corporate
+gallery2:
+- image: /assets/images/tours/East End Retail/Picture-1---Boxpark-Pop-Up-East-End-Retail-Marketing-Walking-Tour-Student-Corporate.jpg
+  alt: Boxpark-Pop-Up-East-End-Retail-Marketing-Walking-Tour-Student-Corporate
+- image: /assets/images/tours/East End Retail/Picture-2-Brick-Lane-Boxpark-Pop-Up-East-End-Retail-Marketing-Walking-Tour-Student-Corporate.jpg
+  alt: Brick-Lane-Boxpark-Pop-Up-East-End-Retail-Marketing-Walking-Tour-Student-Corporate
+- image: /assets/images/tours/East End Retail/Picture-3_-Nike-Lab-Boxpark-Pop-Up-East-End-Retail-Marketing-Walking-Tour-Student-Corporate.jpg
+  alt: Nike-Lab-Boxpark-Pop-Up-East-End-Retail-Marketing-Walking-Tour-Student-Corporate
 order: 4
 tour-id: 29334
 author: london75
@@ -45,6 +41,12 @@ related:
 As famously once stated "**Britain is a nation of shopkeepers**" – so come and explore London’s most successful retail districts with Insider London. Our award-winning retail tours sample the coolest and most interesting shops that London has to offer. In the face of global e-commerce giants and spending cuts, come and see the retailers that are doing it right. We offer two fantastic tours in two very different areas of London: the **West End** and the **East End**. Compare and contrast them or pick the neighbourhood for you.
 
 ## West end Retail Design
+
+{% assign gallery = page.gallery1 %}
+{% if gallery.size > 1 %}
+  {% include slideshow.html %}
+{% endif %}
+
 A global centre for luxury retail, traverse the elegant promenades of **Mayfair**. A historic commercial and residential area in West London, Mayfair attracts the world’s most **prestigious brands** and designers as well as the most **affluent** clientele. We explore how leading lights maintain their status in the brick and mortar realm.
 
 **Meeting Point**: Outside Wholefoods Market, near Piccadilly Circus
@@ -60,6 +62,12 @@ A global centre for luxury retail, traverse the elegant promenades of **Mayfair*
 * Two of London’s most **iconic department stores**
 
 ## East End Retail Design
+
+{% assign gallery = page.gallery2 %}
+{% if gallery.size > 1 %}
+  {% include slideshow.html %}
+{% endif %}
+
 There’s a new kid on the block. Come and experience the youthful vibes of **Shoreditch** and test its status as a vibrant hotspot of retail, art and design. We visit **London’s trendiest district** where shabby chic reigns supreme and explore how Shoreditch has become one of the most fashionable commercial zones in London.
 
 **Meeting Point**: Outside Shoreditch Grind, exit 4 of Old Street Station

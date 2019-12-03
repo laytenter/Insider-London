@@ -8,29 +8,24 @@ heading: Kings Cross Regeneration & Innovation Tour
 description: Join us on this fascinating Kings Cross Tour, and discover how the area
   made its remarkable transitions.
 gallery:
-- image: "/uploads/kings%20cross%20station%20tour.JPG"
-  caption:
-  alt:
-- image: "/uploads/kings%20cross%20tour%20st%20pancras%20hotel.JPG"
-  caption:
-  alt:
-- image: "/uploads/kings%20cross%20tour%20francis%20crick.JPG"
-  caption:
-  alt:
-- image: "/uploads/kings%20cross%20tour%20coal%20drops.jpg"
-  caption:
-  alt:
-- image: "/uploads/kings%20cross%20tour%20st%20pancras%20hotel.JPG"
-  caption:
-  alt:
-- image: "/uploads/kings%20cross%20tour%20google.JPG"
-  caption:
-  alt:
+  - image: /assets/images/tours/Kings Cross/Picture-1---St-Pancras-Renaissance-Kings-Cross-Regeneration-Innovation-Walking-Tour-Student-Corporate.jpg
+    alt:
+  - image: /assets/images/tours/Kings Cross/Picture-2---Francis-Crick-Institute-Kings-Cross-Regeneration-Innovation-Walking-Tour-Student-Corporate.jpg
+    alt:
+  - image: /assets/images/tours/Kings Cross/Picture-3---Kings-Cross-Square-Kings-Cross-Regeneration-Innovation-Walking-Tour-Student-Corporate.jpg
+    alt:
+  - image: /assets/images/tours/Kings Cross/Picture-2---Meeting-Place-option-1.jpg
+    alt:
 thumb: thumb kings cross.jpg
 banner: Kings Cross Tour Image.jpg
 hidden: true
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.0464892083746!2d-0.12413955088987932!3d51.53070714700129!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b395352fe65%3A0x7304861c2c028532!2sWar+Memorial!5e0!3m2!1sen!2suk!4v1537207118016
 ---
+
+{% assign gallery = page.gallery %}
+{% if gallery.size > 1 %}
+  {% include slideshow.html %}
+{% endif %}
 
 A vibrant and constantly evolving city, London is home to some of the world’s most impressive **regeneration projects**. Home in on the most exciting and up-and-coming areas and dramatic changes which have shaped the urban landscape.
 

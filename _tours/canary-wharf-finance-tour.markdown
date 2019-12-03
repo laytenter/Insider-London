@@ -88,7 +88,7 @@ Near Canary Wharf Station
 
 ### When does the tour run?
 
-This tour is only available for private groups, to book your tour, please send us an email: <a href="mailto:contact@insider-london.co.uk">contact@insider-london.co.uk</a>, alternatively, you can reach us on: +44 (0) 20 7183 1055
+This tour is only available for private groups, to book your tour, please send us an email: <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a>, alternatively, you can reach us on: +44 (0) 20 7183 1055
 
 <h3 id="map">Meeting Point - Map</h3>
 {% include tour-map.html %}

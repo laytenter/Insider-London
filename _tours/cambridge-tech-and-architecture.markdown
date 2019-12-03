@@ -69,4 +69,4 @@ As an optional extra, finish the day with a final exploration of the city – th
 
 Insider London's **bespoke Cambridge experience** is a fun and insightful excursion from the capital.
 
-This tailor made package provides the opportunity to experience the innovative and contrasting sides to an exciting global city. Get in touch via <a href="mailto:contact@insider-london.co.uk">contact@insider-london.co.uk</a> to start creating your perfect day.  
+This tailor made package provides the opportunity to experience the innovative and contrasting sides to an exciting global city. Get in touch via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a> to start creating your perfect day.  

@@ -12,32 +12,12 @@ description: London has some of the best street art in the world. Discover the v
   Shoreditch street art scene and see famous pieces from the likes of Banksy and Space
   Invader on our Street Art Tour!
 gallery:
-- image: "/uploads/Title%20Street%20Art.jpg"
-  caption: Street Art is everywhere in London's East End!
-  alt: A colourful street art mural covering a wall in London's East End!
-- image: "/uploads/web_17-10-11%20StreetArt%20KhanhEden.jpg"
-  caption: A great group of students in Rivington Street - one of East Londons street
-    art hot spots!
-  alt: A large group of students in Rivington Street enjoying our london street art
-    tour.
-- image: "/uploads/web_17-10-11%20StreetArt%20Eden%20Banksy.jpg"
-  caption: The Insider London Street art tour of London takes in Designated Graffiti
-    Area by Banksy
-  alt: The Insider London Street art tour guide Eden and a group of students alongside
-    Designated Graffiti Area by Bansky.
-- image: "/uploads/web_17-07-20_StreetArt_Julia_na_RickNMorty.jpg"
-  caption: Carrefour Executives on London Business School's training programme on
-    our Street Art Tour!
-  alt: Carrefour Executives on London Business School's training programme on our
-    London Street Art Tour!
-- image: "/uploads/web_17-01-28%20StreetArt%20Jonas.JPG"
-  caption: Street art is interactive! We love you too, urbansolid!
-  alt: Two of our tour guests alongside some street art manakins!. We love you too,
-    urbansolid!
-- image: "/uploads/web_17-02-17%20StreetArt%20Jonas.jpg"
-  caption: We love showing students around the East End's street art - here it's Ben
-    Eine's Like Nothing.
-  alt: A large group of students huddled around Ben Eine's Like Nothing.
+- image: "/assets/images/tours/Street Art/Picture-1---Mr-Cenz-Shoreditch-Street-Art-Walking-Tour-Student-Corporate.jpg"
+  alt: Mr-Cenz-Shoreditch-Street-Art-Walking-Tour-Student-Corporate
+- image: "/assets/images/tours/Street Art/Picture-2---Shoreditch-Street-Art-Walking-Tour-Student-Corporate-Delegates.jpg"
+  alt: Shoreditch-Street-Art-Walking-Tour-Student-Corporate-Delegates
+- image: "/assets/images/tours/Street Art/Picture-3---Stik-Shoreditch-Street-Art-Walking-Tour-Student-Corporate.jpg"
+  alt: Stik-Shoreditch-Street-Art-Walking-Tour-Student-Corporate
 embed: https://www.youtube.com/embed/K2X8Pjrwuxc
 featured: true
 tour-id: 29326
@@ -58,6 +38,11 @@ related:
 ---
 
 ## Street Art
+
+{% assign gallery = page.gallery %}
+{% if gallery.size > 1 %}
+{% include slideshow.html %}
+{% endif %}
 
 Come and **explore London’s most colourful and vibrant district** with Insider London. Our guides will show you the most stunning pieces in London’s East End, created by world-famous names as well as local underground artists.
 

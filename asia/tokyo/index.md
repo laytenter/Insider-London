@@ -24,4 +24,4 @@ Highlights include:
 ## Cultural Experiences
 No trip to Japan would be complete without engaging in its ancient culture and rich traditions. Make your trip an unforgettable experience by combining business visits with a cultural experience. We provide exclusive and authentic packages which include flower arranging, tea ceremonies and karate workshops.  We can also organise exchange programmes with some of Asia’s most prestigious universities including Waseda University and the University of Tokyo.
 
-Get in touch now via [contact@insider-london.co.uk](mailto:contact@insider-london.co.uk) to discover the fantastic opportunities available to your group in the Land of the Rising Sun.  
+Get in touch now via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to discover the fantastic opportunities available to your group in the Land of the Rising Sun.  

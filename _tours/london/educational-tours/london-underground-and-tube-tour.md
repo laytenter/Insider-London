@@ -48,6 +48,12 @@ related:
 - 32336
 ---
 
+{% assign gallery = page.gallery %}
+
+{% if gallery.size > 1 %}
+  {% include slideshow.html %}
+{% endif %}
+
 ## The original London Underground and Tube Tour
 
 Travel across **150 years** in just two hours aboard our awesome London Underground and Tube Tour!

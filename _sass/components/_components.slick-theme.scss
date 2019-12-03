@@ -53,8 +53,8 @@ $slick-opacity-not-active: 0.25 !default;
 .slick-next {
     position: absolute;
     display: block;
-    height: 50px;
-    width: 25px;
+    height: 48px;
+    width: 24px;
     line-height: 0px;
     font-size: 0px;
     cursor: pointer;
@@ -90,20 +90,20 @@ $slick-opacity-not-active: 0.25 !default;
 }
 
 .slick-prev {
-  left: 5%;
+  left: 12px;
   z-index: 4;
 
 }
 
 .slick-next {
-  right: 5%;
+  right: 12px;
   z-index: 4;
 }
 .slick-overlay {
   display: block;
   position: absolute;
   top: 0;
-  width: 10%;
+  width: 48px;
   height: 100%;
   background-color:
   rgba(13,27,42,.4);
@@ -111,12 +111,12 @@ $slick-opacity-not-active: 0.25 !default;
 }
 .slick-overlay--left {
   left: 0;
-  width: 10%;
+  width: 48px;
 }
 
 .slick-overlay--right {
   right: 0;
-  width: 10%;
+  width: 48px;
 }
 
 /* Dots */

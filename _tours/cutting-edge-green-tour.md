@@ -81,7 +81,7 @@ Starting near colourful Covent Garden, our expert guide will show you some of Lo
 
 To book your place on one of Insider London’s Cutting-edge Green tours use the booking form on the right side of this page.
 
-Insider London can also create a bespoke green and sustainability tour, focussing on aspects such as sustainable architecture, eco-friendly food and ethical fashion outlets. To book your private tour, or find out more, call 0207 183 1055, or email: <a href="mailto:contact@insider-london.co.uk">contact@insider-london.co.uk</a>
+Insider London can also create a bespoke green and sustainability tour, focussing on aspects such as sustainable architecture, eco-friendly food and ethical fashion outlets. To book your private tour, or find out more, call 0207 183 1055, or email: <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a>
 
 We also deliver a two hour **<a href="/tours/sustainable-london-architecture-tour/">Sustainable London Architecture Tour</a>** showcasing over 15 innovative approaches to green building.
 
@@ -99,7 +99,7 @@ Approximately two hours
 
 This tour is only available for private parties and can be arranged for any date or time. Furthermore, we are happy to create a bespoke programme to reflect your specific needs.
 
-To book the private tour, or find out more, call 0207 183 1055, or email: <a href="mailto:contact@insider-london.co.uk">contact@insider-london.co.uk</a>
+To book the private tour, or find out more, call 0207 183 1055, or email: <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a>
 
 ### Where does the tour finish?
 

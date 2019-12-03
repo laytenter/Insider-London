@@ -75,7 +75,7 @@ Your in-depth business experience will include an exclusive first-hand account o
 
 Insider London’s Business Visits are a unique opportunity for **corporate groups and entrepreneurs** looking for a rare behind-the-scenes experience, as well as for **student groups** looking to explore real-life thriving business models. Our visits provide an opportunity to make vital contacts and discover key challenges of the modern world in specific industries
 
-**E-mail [contact@insider-london.co.uk](mailto:contact@insider-london.co.uk)** to choose from our extensive list of partners. With opportunities for a variety of groups, with sizes from  **6-100** people, we will create a bespoke business programme for your precise professional or academic needs.
+**E-mail [contact@insiderlondon.com](mailto:contact@insiderlondon.com)** to choose from our extensive list of partners. With opportunities for a variety of groups, with sizes from  **6-100** people, we will create a bespoke business programme for your precise professional or academic needs.
 
 <a class="btn btn--small btn--red" href="/assets/in-depth-business-visits_brochure_Insider_London.pdf">View Brochure</a>
 
@@ -99,4 +99,4 @@ Insider London also hosts engaging and **interactive workshops** with top indust
 ## Bespoke Packages
 Our in-depth business visits and workshops make great **combinations** with **educational tours**. Popular choices include tours of [Retail Design](https://www.insider-london.co.uk/tours/retail-design/), the [Silicon Roundabout and Tech City](https://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/) as well as [Finance](https://www.insider-london.co.uk/tours/london-finance-walking-tour/) and the [Kings Cross Regeneration and Innovation](https://www.insider-london.co.uk/tours/kings-cross-regeneration/).  
 
-Get in touch via [contact@insider-london.co.uk](mailto:contact@insider-london.co.uk) to start creating your perfect educational package.
+Get in touch via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to start creating your perfect educational package.

@@ -62,7 +62,7 @@ The morning was rounded off by an informal networking session where the IBK repr
 
 Interested in learning more about the most innovative companies in london?  
 
-Get in touch via <a href="mailto:contact@insider-london.co.uk">contact@insider-london.co.uk</a>. All programmes will be customised for your specific requirements. 
+Get in touch via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a>. All programmes will be customised for your specific requirements. 
 
  
 

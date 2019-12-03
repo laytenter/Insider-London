@@ -14,8 +14,8 @@ layout: page
 <ul class="list-bare">
   <li>
     <strong>@</strong>
-    <a href="mailto:contact@insider-london.co.uk" onclick="gtag('event', 'Click', { 'event_category': 'Email' });">
-      contact@insider-london.co.uk
+    <a href="mailto:contact@insiderlondon.com" onclick="gtag('event', 'Click', { 'event_category': 'Email' });">
+      contact@insiderlondon.com
     </a>
   </li>
   <li>

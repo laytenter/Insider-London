@@ -23,4 +23,4 @@ Programme highlights include:
 * Bain & Company – a top management consultancy firm. Meet the experts on strategy, marketing, IT and operations across a wealth of industries and geographies.
 * Social Entrepreneurship Network - a vibrant alliance of social entrepreneurs. SEND supports free-thinking organisations to strengthen the social innovation eco-system.
 
-For your next European trip: think Berlin. Get in touch via [contact@insider-london.co.uk ](mailto:contact@insider-london.co.uk )
+For your next European trip: think Berlin. Get in touch via [contact@insiderlondon.com ](mailto:contact@insiderlondon.com )
