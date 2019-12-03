@@ -2,8 +2,21 @@
 title: Dubai
 layout: landing
 nav: asia
-background: dubai.jpg
+gallery:
+  - image: /assets/images/cities/Dubai/Picture-1---Dubai-International-Airport-Student-Corporate-Group-Programme.jpg
+    alt: Dubai International Airport Student Corporate Group Programme
+  - image: /assets/images/cities/Dubai/Picture-2---Dubai-Incubator-Accelerator-Innovation-Programme-Student-Corporate.jpg
+    alt: Dubai Incubator Accelerator Innovation Programme Student Corporate
+  - image: /assets/images/cities/Dubai/Picture-3---Dubai-Business-Corporate-Academic-Trip.jpg
+    alt: Dubai Business Corporate Academic Trip
+  - image: /assets/images/cities/Dubai/Picture-4---Dubai-Innovation-Programme-Student-Corporate-Programme.jpg
+    alt: Dubai Innovation Programme Student Corporate Programme
 ---
+
+{% assign gallery = page.gallery %}
+{% if gallery.size > 1 %}
+  {% include slideshow.html %}
+{% endif %}
 
 In the shadows of the Burj Khalifa, visionaries and experimenters are hard at work in this glamorous metropolis.
 

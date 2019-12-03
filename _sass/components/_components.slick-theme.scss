@@ -165,11 +165,11 @@ $slick-opacity-not-active: 0.25 !default;
                 top: 0;
                 left: 0;
                 content: $slick-dot-character;
-                width: 20px;
-                height: 20px;
+                width: 24px;
+                height: 24px;
                 font-family: $slick-font-family;
-                font-size: $slick-dot-size;
-                line-height: 20px;
+                font-size: 18px;
+                line-height: 1em;
                 text-align: center;
                 color: $slick-dot-color;
                 opacity: $slick-opacity-not-active;
@@ -180,6 +180,10 @@ $slick-opacity-not-active: 0.25 !default;
         &.slick-active button:before {
             color: $slick-dot-color-active;
             opacity: $slick-opacity-default;
+          	color: blue;
+          	border: 1px solid blue;
+          	border-radius: 50%;
+
         }
     }
 }

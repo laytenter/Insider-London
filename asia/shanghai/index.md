@@ -1,9 +1,22 @@
 ---
 title: Shanghai
 layout: landing
-background: shanghai.jpg
 nav: asia
+gallery:
+  - image: /assets/images/cities/Shanghai/Picture-1---Shanghai-Innovation-Tech-Factory-Student-Academic-Study-Trip.jpg
+    alt:
+  - image: /assets/images/cities/Shanghai/Picture-2----Shanghai-Finance-Centre-Student-Academic-Study-Trip.jpg
+    alt:
+  - image: /assets/images/cities/Shanghai/Picture-3---Shanghai--Shanghai-Innovation-Sustainability-Electric-Driverless-Car-Technology-Student-Academic-Study-Trip.jpg
+    alt:
+  - image: /assets/images/cities/Shanghai/Picture-4---Shanghai-Culture-Art-Technology-Innovation-Creative-Student-Corporate-Study-Trip.jpg
+    alt:
 ---
+
+{% assign gallery = page.gallery %}
+{% if gallery.size > 1 %}
+  {% include slideshow.html %}
+{% endif %}
 
 Behind the glamorous skyline lies a cosmopolitan city with a long history of migration. Referred to as the melting pot of China, the French and Jewish Quarters are testament to Shanghai’s diverse history. The modern metropolis is equally vibrant and attracts more foreign settlers than any other Chinese city.
 

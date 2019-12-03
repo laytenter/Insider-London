@@ -2,8 +2,21 @@
 heading: Silicon Valley
 title: Silicon Valley
 layout: landing
-background: silicon-valley.jpg
+gallery:
+  - image: /assets/images/cities/Silicon Valley/Picture-1---Silicon-Valley-Golden-Gate-Bridge-San-Francisco-Corporate-Executive-Business-Programme.jpg
+    alt: Golden Gate Bridge, San Francisco
+  - image: /
+    alt:
+  - image: /
+    alt: 
+  - image: /assets/images/cities/Silicon Valley/Picture-4---Silicon-Valley-Napa-Valley-Wine-Tour-San-Francisco-Corporate-Executive-Business-Programme.jpg
+    alt: Silicon Valley Napa Valley Win Tour
 ---
+
+{% assign gallery = page.gallery %}
+{% if gallery.size > 1 %}
+  {% include slideshow.html %}
+{% endif %}
 
 We present the world capital of innovation and technology: SILICON VALLEY. For the last sixty years this region has been at the heart of many of the greatest technological innovations. From microprocessors to integrated circuit boards and lasers, Silicon Valley is synonymous with high technology and scientific research, as well as the modern-day social media giants.  
 

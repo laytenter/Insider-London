@@ -23,7 +23,7 @@ var plumber   = require('gulp-plumber');
 //var paths = require('./_assets/gulp_config/paths');
 
 // Use Sass compiler to process styles, adds vendor prefixes, minifies etc and outputs for the appropriate locations
-gulp.task('build:styles:main', function() {
+gulp.task('build:styles:main', function(){
   return sass ('css/main.scss', {
     style: 'compressed',
     trace: true,
@@ -33,7 +33,9 @@ gulp.task('build:styles:main', function() {
       )]
   ))
   .pipe(cleancss())
+
   .pipe(gulp.dest('assets/css'))
+
   .pipe(browserSync.stream())
   .on('error', gutil.log)
 });
@@ -65,52 +67,19 @@ gulp.task('images', function () {
         rename: { suffix: '-760'}
       },
     },
-     {
+    {
       progressive: true,
       quality: 70,
       withMetadata: true,
-      extname: '.jpg',
       errorOnEnlargement: false,
       errorOnUnusedConfig: false
     })).pipe(gulp.dest('_uploads'))
 });
 
-gulp.task('landing-page-images', function () {
-  return gulp.src('images/cities-clean/**/*.{jpg,JPG,jpeg}')
-    .pipe(plumber())
-    .pipe(responsive({'**/*.{jpg,JPG,jpeg}': {
-        width: 1000
-      },
-    },
-    {
-      progressive: true,
-      quality: 70,
-      withMetadata: false,
-      errorOnEnlargement: false,
-      rotate: true,
-      errorOnUnusedConfig: false
-    })).pipe(gulp.dest('assets/images/cities'))
-    .on('error', gutil.log);
-});
-
-gulp.task("blah", function (done) {
-  return gulp.src("./images/cities/**/*.{JPG,jpg,jpeg,png}")
-
-    //Remove Space
-    .pipe(rename(function(opt) {
-      opt.basename = opt.basename.split(' ').join('-');
-      return opt;
-    }))
-
-    //Copy to destination
-    .pipe(gulp.dest("images/cities-clean"));
-    done();
-});
-
 // Runs jekyll build command.
 gulp.task('build:jekyll', function() {
-    var shellCommand = 'bundle exec jekyll build --incremental --config _config.yml';
 
+    var shellCommand = 'bundle exec jekyll build --incremental --config _config.yml';
     return gulp.src('')
         .pipe(run(shellCommand))
         .on('error', gutil.log);

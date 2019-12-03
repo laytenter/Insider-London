@@ -46,7 +46,6 @@
       @include inuit-font-size(16px);
     }
 
-
     @include mq($from: desktop) {
       @include inuit-font-size(24px, $modifier: -1);
     }
@@ -101,8 +100,8 @@
  .london nav .london, .what-we-do nav .what-we-do  {
   // Hover and active classes for main nav
   border-left: $color-red solid 3px;
-
   @include mq($from: tablet) {
+    border-left: none;
     &::after
     {
       background-color: $color-red;

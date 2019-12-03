@@ -2,8 +2,21 @@
 title: Berlin
 layout: landing
 nav: europe
-background: berlin.jpg
+gallery:
+  - image: /assets/images/cities/Berlin/Picture-1---Berlin-Wall-Street-Art-History-Student-Corporate-Study-Trip-Programme.jpg
+    alt: Berlin Wall Street Art
+  - image: /assets/images/cities/Berlin/Picture-2---Berlin-Wall-Start-Up-Innovation-Entrepreneurship-Student-Corporate-Study-Trip-Programme.jpg
+    alt: Berlin Start up innovation Entrepreneurship student Corporate study trip
+  - image: /assets/images/cities/Berlin/Picture-3---Berlin-History-Culture-Student-Corporate-Study-Trip-Programme.jpg
+    alt: Berlin Histort and Culture Student Corporate Study Trip Programme
+  - image: /assets/images/cities/Berlin/Picture-4---Berlin-Wall-Business-Marketing-Retail-Design-Student-Corporate-Study-Trip-Programme.jpg
+    alt: 
 ---
+
+{% assign gallery = page.gallery %}
+{% if gallery.size > 1 %}
+  {% include slideshow.html %}
+{% endif %}
 
 The re-unification of Berlin in 1990 is credited with a cultural and artistic explosion. Decades later and this creative dynamism shows no sign of slowing down. Berlin is undoubtedly one of the coolest and creative cities of current times.
 

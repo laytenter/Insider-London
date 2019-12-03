@@ -19,9 +19,9 @@ script: 'slick-slider.js'
     </div>
   </header>
   <div class="o-wrapper u-padding-left-small u-padding-right-small u-padding-left@tablet u-padding-right@tablet">
+    {% include breadcrumbs.html %}
     <div class="o-layout">
       <div class="o-layout__item u-2/3@desktop">
-        {% include breadcrumbs.html %}
         <div class="content">
           <h2 class="u-h1">{{ page.title }}</h2>
           {{ content }}

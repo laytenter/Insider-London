@@ -2,8 +2,15 @@
 title: Tokyo
 layout: landing
 nav: asia
-background: tokyo.jpg
+gallery:
+  - image: /assets/images/cities/Shanghai/Picture-3---Shanghai--Shanghai-Innovation-Sustainability-Electric-Driverless-Car-Technology-Student-Academic-Study-Trip.jpg
+    alt:
 ---
+
+{% assign gallery = page.gallery %}
+{% if gallery.size > 1 %}
+  {% include slideshow.html %}
+{% endif %}
 
 We are proud to present a 'command centre' for the world economy and Japan’s leading industrial centre: TOKYO. Behind the neon lights and through the bustling crowds lies a business capital like no other.
 
