@@ -5,10 +5,10 @@ layout: landing
 gallery:
   - image: /assets/images/cities/Silicon Valley/Picture-1---Silicon-Valley-Golden-Gate-Bridge-San-Francisco-Corporate-Executive-Business-Programme.jpg
     alt: Golden Gate Bridge, San Francisco
-  - image: /
+  - image: /assets/images/cities/Silicon Valley/Picture-2---Silicon-Valley-Facebook-HQ-Corporate-Executive-Business-Programme.png
+    alt: Facebook HQ - 1 Hacker Way
+  - image: /assets/images/cities/Silicon Valley/Picture-3---Silicon-Valley-Google-Corporate-Executive-Business-Programme.png
     alt:
-  - image: /
-    alt: 
   - image: /assets/images/cities/Silicon Valley/Picture-4---Silicon-Valley-Napa-Valley-Wine-Tour-San-Francisco-Corporate-Executive-Business-Programme.jpg
     alt: Silicon Valley Napa Valley Win Tour
 ---

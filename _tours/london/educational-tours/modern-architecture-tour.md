@@ -17,7 +17,7 @@ gallery:
   alt: Wobbly-Bridge--Modern-Architecture-Corporate-Student-Walking-Tour
 - image: "/assets/images/tours/MA/Picture-3-The-Shard--Modern-Architecture-Corporate-Student-Walking-Tour-.JPG.jpg"
   alt: The-Shard--Modern-Architecture-Corporate-Student-Walking-Tour
-order: 7
+order: 6
 tour-id: 29338
 trekksoft-tour-id: 50198
 price: 40
@@ -33,7 +33,7 @@ related:
 - 29332
 ---
 
-How often in the big smoke do we stop and look up? Insider London invites you to take a closer look at the marvellous structures which puncture the horizon. Find out about our [Modern Architecture](#modern-architecture) and [Sustainable Architecture](/london/educational-tours/sustainable-london-architecture-tour/) Walking Tours
+How often in the big smoke do we stop and look up? Insider London invites you to take a closer look at the marvellous structures which puncture the horizon. In addition to our [Sustainable Architecture Tour](/london/educational-tours/sustainable-london-architecture-tour/) we offer a fabulous [Modern Architecture Tour](#modern-architecture).
 
 ## Modern Architecture
 
@@ -57,3 +57,5 @@ In **three and a half hours**, this in-depth journey begins with the artistic je
 * A futuristic (and formerly very wobbly) London footbridge (in 3.5 hour version)
 * The distinctive styles and characteristic design traits of influential British architects, including Will Alsop, Richard Rogers and Sir Norman Foster
 * What’s next for London’s iconic skyline
+
+{% include findoutmore.html title="Modern Architecture Tour" %}

@@ -20,18 +20,20 @@ thumb: thumb kings cross.jpg
 banner: Kings Cross Tour Image.jpg
 hidden: true
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.0464892083746!2d-0.12413955088987932!3d51.53070714700129!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b395352fe65%3A0x7304861c2c028532!2sWar+Memorial!5e0!3m2!1sen!2suk!4v1537207118016
+order: 5
 ---
+
+
+A vibrant and constantly evolving city, London is home to some of the world's most impressive regeneration projects. Home in on the most exciting and up-and-coming areas and dramatic changes which have shaped the urban landscape.
+
+In addition to our [Canary Wharf Tour](/london/educational-tours/london-finance-walking-tour/#canary-wharf-walking-tour), we showcase the amazing developments at [Kings Cross](#kings-cross-innovation-and-regeneration) and the [Olympic Park](#olympic-park-regeneration-tour). These tours are perfect for academic, corporate or private groups interested in geography, urban planning and business eco-system development.
+
+## Kings Cross Innovation and Regeneration
 
 {% assign gallery = page.gallery %}
 {% if gallery.size > 1 %}
-  {% include slideshow.html %}
+{% include slideshow.html %}
 {% endif %}
-
-A vibrant and constantly evolving city, London is home to some of the world’s most impressive **regeneration projects**. Home in on the most exciting and up-and-coming areas and dramatic changes which have shaped the urban landscape.
-
-Perfect for academic, corporate or private groups interested in **geography**, **urban planning and business eco-system development**. We offer three exciting regeneration walking tours: **Kings Cross**, the **Olympic Park** & **Canary Wharf**.
-
-## Kings Cross
 
 This is the intriguing and compelling journey of an area transformed. We journey through the area’s lifecycle from its notorious past right up to the present and future.
 
@@ -40,6 +42,7 @@ The symbiosis of this **transport super hub** with world-renowned institutes has
 Kings Cross never fails to impress and has quickly become one of London’s most fashionable postcodes for work, live and play which never fails to impress.
 
 **Meeting Point**: By the bronze Henry Moore sculpture, in front of Kings Cross Station
+
 **Finishing Point**: Near King’s Cross Station, this is a loop tour
 
 **On this tour you will discover**
@@ -49,7 +52,9 @@ Kings Cross never fails to impress and has quickly become one of London’s most
 * The strategies used to create inviting public spaces
 * How the area has attracted **major players like Google** to set up their HQ
 
-## Olympic Park
+{% include findoutmore.html title="Kings Cross Tour" %}
+
+## Olympic Park Regeneration Tour
 
 In 2012 all eyes were on London and the Queen Elizabeth Park. This was a phenomenally successful event but after the last medal had been awarded, what became of the area? We tour the **lasting legacy** of the Olympic Park Regeneration Project. Over two hours, journey through the complete story of this now thriving district from the decision to choose East London to the area’s continuing transformation. We stroll past the **iconic architecture** of this enormous endeavour and recount the fascinating story of the Olympic Park.
 
@@ -65,3 +70,5 @@ In 2012 all eyes were on London and the Queen Elizabeth Park. This was a phenome
 * The transformation of the Olympic Village to the newest postcode in London
 * The outstanding velodrome and it’s terrifyingly steep tracks
 * One of the UK’s most important technology clusters
+
+{% include findoutmore.html title="Olympic Park Tour" %}

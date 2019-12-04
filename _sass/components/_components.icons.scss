@@ -20,7 +20,6 @@
 .icon--small {
   width: 18px;
   height: 18px;
-
 }
 .icon--large {
   width: 36px;
@@ -31,9 +30,8 @@
 	background-image: url(/assets/menu.svg);
 }
 
-
 .icon--close {
-	background-image: url(/assets/icons/close.svg);
+	background-image: url(/assets/icons/x.svg);
   position: absolute;
   top: 24px;
   right: 12px;

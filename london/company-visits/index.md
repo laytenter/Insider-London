@@ -47,7 +47,7 @@ layout: landing
 nav: london
 ---
 
-For real business insight out of the office or classroom then look no further than our Company visits (link) and Workshops (link)
+For real business insight out of the office or classroom then look no further than our [Company visits](#company-visits) and [Workshops](#workshops)
 
 ## Company Visits
 
@@ -55,22 +55,19 @@ Our company visits showcase some of the world’s most powerful companies as wel
 
 - Revolut – the leading light of the disruptive fintech scene and one of the sector’s fastest growing companies.  Revolut now boasts more than 3 million users
 - Metro Bank – the first new UK high street bank in more than 150 years who started after the 2008 financial crisis. Come and discover their community-oriented business model.
-- Level39 - one of the world’s biggest fintech hubs at non-other than 1 Canada Square. Here find the world pioneers in cybersecurity, fintech and retail tech.
+- Level39 - one of the world's biggest fintech hubs at non-other than 1 Canada Square. Here find the world pioneers in cybersecurity, fintech and retail tech.
 - London Stock Exchange – with a market capitalization value of over $4 trillion, this is one of the oldest stock exchanges in the world. We offer bespoke training programmes
+
 - LEGO – one of their world’s largest toy companies. Come and tour their London hub and find out about their exciting company culture.
 - Tribal Worldwide - The global technology-based marketing agency, part of the Omnicons Group who develop creative solutions forMcDonalds, Adidas and Volkswagen.
 - Loke – a super-app bringing together fascinating insight from marketing, fintech, big data and AI for clients like theDevelopment Bank of Singapore and Nando’s.
 - Entocycle – this cutting-edge biotechnology disruptor is developing the world’s most sustainable and efficient way to produce protein.
 
-London is one-of-a-kind thriving hub – a world city combining arts, technology, finance and politics. Here in London we have close relationships with ground-breaking company founders and CEOs in an extensive range of industries from fintech to urban agriculture. An in-depth business visit is the perfect way to get the insider tips that will inspire your students or take your team to the next level.
-
-Your in-depth business experience will include an exclusive first-hand account of the company’s life cycle and an open Q&A session with one of the business team’s senior members.
-
 Insider London’s Company Visits are a unique opportunity for corporate groups and government officials looking for a rare behind-the-scenes experience, as well as for student groups looking to explore real-life thriving business models. Our visits provide an opportunity to make vital contacts and discover key challenges of the modern world in specific industries.
 
 E-mail [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to choose from our extensive list of partners. With opportunities for a variety of groups, with sizes from 6-80 people, we will create a bespoke business programme for your precise professional or academic needs.
 
-Insider London’s Business Visits are a unique opportunity for corporate groups and government officials looking for a rare behind-the-scenes experience, as well as for student groups looking to explore real-life thriving business models. Our visits provide an opportunity to make vital contacts and discover key challenges of the modern world in specific industries
+Insider London's Company Visits are a unique opportunity for students, corporate groups and government officials looking for a rare behind-the-scenes experience, as well as for student groups looking to explore real-life thriving business models. Our visits provide an opportunity to make vital contacts and discover key challenges of the modern world in specific industries.
 
 ## Workshops
 
@@ -79,6 +76,7 @@ Insider London also hosts engaging and interactive workshops with top industry p
 - Fintech for the Future – An ideas exchange between some of the UK’s most innovative fintech companies. With a carefully curated selection of start-ups.
 - Asset Management & Trading – A bespoke session based on the background of the group; this workshop is led by a former policy advisor to the European Monetary Affairs committee.
 - Web Design - Revealing the secrets to developing a fantastic website. This dynamic and interactive session focuses on user experience and synergy between different platforms. Led by an industry expert, come and get creative!
+
 - Public Speaking – A vital skill for groups of all backgrounds, this workshop weds theory and practice to give your group a great toolbox for delivering amazing and engaging speeches.
 - Business Model Canvas – A fantastic introductory session for students. This workshop introduces critical key considerations for budding entrepreneurs when creating their business model
 - Finance Made Simple – specially created for those new to finance, this is the first step to understanding how money operates in a business. From raising investment to monitoring cashflow, it’s time to de-mystify!

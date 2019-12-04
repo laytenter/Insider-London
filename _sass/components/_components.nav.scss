@@ -13,7 +13,7 @@
     top: 0;
     left: 0;
     height: 100vh;
-    z-index: 1;
+    z-index: 10;
     flex-direction: column;
     width: 100%;
     padding-top: $inuit-global-spacing-unit-huge;
@@ -44,10 +44,6 @@
       text-align: left;
       margin-top: 0;
       @include inuit-font-size(16px);
-    }
-
-    @include mq($from: desktop) {
-      @include inuit-font-size(24px, $modifier: -1);
     }
 
     &:hover {
@@ -84,32 +80,37 @@
     &:hover {
       color: darken($inuit-base-text-color,60%);
     }
-
   }
-.main-nav__link + .main-nav__link {
 
-  @include mq($from: tablet) {
-    margin-left: $inuit-global-spacing-unit;
-  }
-  @include mq($from: desktop) {
-    margin-left: $inuit-global-spacing-unit-large;
-  }
-}
+  .main-nav__link + .main-nav__link {
 
-.blog nav .blog, .europe nav .europe, .asia nav .asia, .north-america nav .north-america,
- .london nav .london, .what-we-do nav .what-we-do  {
-  // Hover and active classes for main nav
-  border-left: $color-red solid 3px;
-  @include mq($from: tablet) {
-    border-left: none;
-    &::after
-    {
-      background-color: $color-red;
-      height: 3px;
+    margin-top: $inuit-global-spacing-unit-small;
+
+    @include mq($from: tablet) {
+      margin-top:0;
+      margin-left: $inuit-global-spacing-unit;
+    }
+
+    @include mq($from: desktop) {
+      margin-top:0;
+      margin-left: $inuit-global-spacing-unit-large;
     }
   }
-}
 
-.nav-open {
-  position: fixed;
-}
+  .blog nav .blog, .europe nav .europe, .asia nav .asia, .north-america nav .north-america,
+   .london nav .london, .what-we-do nav .what-we-do  {
+    // Hover and active classes for main nav
+    border-left: $color-red solid 3px;
+    @include mq($from: tablet) {
+      border-left: none;
+      &::after
+      {
+        background-color: $color-red;
+        height: 3px;
+      }
+    }
+  }
+
+  .nav-open {
+    position: fixed;
+  }

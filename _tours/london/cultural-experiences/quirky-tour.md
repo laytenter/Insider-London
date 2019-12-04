@@ -6,9 +6,9 @@ nav: london
 description: Join us on a Quirky Tour and discover an unusual and often unseen side
   of London!
 gallery:
-- image: 
-  caption: 
-  alt: 
+- image:
+  caption:
+  alt:
 embed: null
 order: null
 date: '2002-01-01 11:31:00 +0000'
@@ -29,6 +29,7 @@ thumbsrcset: "/assets/images/IMGP1909-445x304.jpg 445w, /assets/images/IMGP1909-
   568w"
 banner: Quirky title picture.jpg
 hidden: true
+order: 2
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9932.007090001796!2d-0.12702783599357304!3d51.513183477127704!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604cc9188694f%3A0x388b51ab073ca62!2sCovent+Garden!5e0!3m2!1sen!2s!4v1431588532795
 related:
 - 32143
@@ -55,3 +56,5 @@ Discover London’s best bits with this two-hour Quirky Walking Tour. Sites incl
 * Discover the favourite intoxicants of old London
 * Find London’s most controversial sculptures
 * Learn the true origins of some of Britain’s favourite expressions
+
+{% include findoutmore.html title="Quirky Tour" %}

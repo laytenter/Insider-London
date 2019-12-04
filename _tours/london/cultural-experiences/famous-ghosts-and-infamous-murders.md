@@ -6,14 +6,14 @@ nav: london
 description: Ghost tour London by Insider London discovering the murder mysteries
   that gripped Londoners long before Jack the Ripper came to the scene.
 gallery:
+  - image: /assets/images/tours/Ghost/Picture-3---History-West-End-Haunted-London-Walking-Tour-Student-Corporate-Group.jpg
+    alt: History West End Haunted London Walking Tour Student Corporate Group
   - image: /assets/images/tours/Ghost/Picture-1---Historic-Alleyway-from-Harry-Potter-Ghost-Haunted-London-Walking-Tour-Student-Corporate-Group.jpg
     alt: Historic Alleyway from Harry Potter Ghost Haunted London Walking Tour Student Corporate Group
   - image: /assets/images/tours/Ghost/Picture-2---Spooky-Magic-Shop-Haunted-London-Walking-Tour-Student-Corporate-Group.jpg
     alt: Spooky Magic Shop Haunted London Walking Tour Student Corporate Group
-  - image: /assets/images/tours/Ghost/Picture-3---History-West-End-Haunted-London-Walking-Tour-Student-Corporate-Group.jpg
-    alt: History West End Haunted London Walking Tour Student Corporate Group
 embed: https://www.youtube.com/embed/r5_6ln8v_WM
-order: null
+order: 3
 date: '2008-01-01 17:30:00 +0000'
 categories:
 - cultural-experiences
@@ -65,3 +65,5 @@ Old London town is no stranger to ghost stories. This ancient city is host to al
 * Venture down a **tunnel so haunted** that our Insider tour guides may not even be brave enough to walk down it…
 * Learn about **the murder mystery** that gripped Londoners long before Jack the Ripper came on the scene.
 * Explore the hidden alleys which became prime locations for films such as **Harry Potter**.
+
+{% include findoutmore.html title="Ghost Tour" %}

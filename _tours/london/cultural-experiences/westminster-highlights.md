@@ -12,7 +12,7 @@ gallery:
 - image: /assets/images/tours/Westminster Highlights/Westminster-Highlights-Sightseeing-Walking-Tour-Student-Corportate-Group.jpg
   alt: Westminster-Highlights-Sightseeing-Walking-Tour-Student-Corportate-Group
 embed: https://www.youtube.com/embed/r5_6ln8v_WM
-order: null
+order: 1
 date: '2008-01-01 17:30:00 +0000'
 categories:
 - cultural-experiences
@@ -41,7 +41,11 @@ hidden: true
   {% include slideshow.html %}
 {% endif %}
 
-Join us for an Insider London take on the sightseeing classic. Explore the fascinating history of London’s centre of power: Westminster. From Buckingham Palace to Trafalgar Square, and the political majesty of Whitehall, we will guide you round the most iconic and popular sites of Central London. Whether you are in London for leisure, education or business then this is the perfect addition to round off your trip and make it unforgettable.
+Join us for an Insider London take on the sightseeing classic. Explore the fascinating history of London’s centre of power: Westminster. From Royal London to Trafalgar Square, and the political majesty of Whitehall, we will guide you round the most iconic and popular sites of Central London. Whether you are in London for leisure, education or business then this is the perfect addition to round off your trip and make it unforgettable.
+
+**Meeting Point**: By the Duke of York Statue, near Piccadilly Circus
+
+**Finishing Point**: Parliament Square
 
 **On this tour you will**
 

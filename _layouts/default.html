@@ -20,8 +20,9 @@ layout: compress
 
     <!-- Look at loading scripts only where needed -->
 
-    <script type="text/javascript" src="{{ "/js/modal.js" | prepend: site.baseurl }}" defer></script>
-    <script type="text/javascript" src="{{ "/js/nav.js" | prepend: site.baseurl }}" defer></script>
+    <script type="text/javascript" src="{{ "/js/modal-04-12-19.js" | prepend: site.baseurl }}" defer></script>
+    <script type="text/javascript" src="{{ "/js/nav-04-12-19.js" | prepend: site.baseurl }}" defer></script>
+
 
     <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
@@ -31,8 +32,6 @@ layout: compress
         $('.slideshow').each(function(){
           var slickInduvidual = $(this);
           slickInduvidual.slick({
-            nextArrow: slickInduvidual.next().next().find('.slick-next'),
-            prevArrow: slickInduvidual.next().next().find('.slick-prev'),
             autoplay: true,
             dots: true
           });

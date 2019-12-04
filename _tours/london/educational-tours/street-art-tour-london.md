@@ -37,7 +37,7 @@ related:
 - 32336
 ---
 
-## Street Art
+## Shoreditch Street Art
 
 {% assign gallery = page.gallery %}
 {% if gallery.size > 1 %}
@@ -48,6 +48,10 @@ Come and **explore London’s most colourful and vibrant district** with Insider
 
 Shoreditch boasts one of the highest concentrations of street art in the world so come and explore the most vibrant local haunts, community hubs and beautiful pieces. Going beyond Instagram, our guides explore the local context, the evolution of the art form, and the unique debates within the street art scene.
 
+**Meeting Point**: Outside Shoreditch High Street
+
+**Finishing Point**: Ely’s Yard, Brick Lane
+
 **Highlights of the Street Art Tour**:
 
 * Discover one of the earliest (now protected) works by world-famous graffiti artist Banksy.
@@ -55,3 +59,5 @@ Shoreditch boasts one of the highest concentrations of street art in the world s
 * Learn about the artist who had tea with the Prime Minster and whose work was given to the U.S. President as a gift.
 * Find out why mushrooms grow on pretty much anything in the East End of London.
 * Discover murals and art installations by artists such as Jimmy C, Stik, Space Invader and many more!
+
+{% include findoutmore.html title="Street Art Tour" %}

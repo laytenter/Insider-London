@@ -24,7 +24,7 @@ gallery2:
   alt: Brick-Lane-Boxpark-Pop-Up-East-End-Retail-Marketing-Walking-Tour-Student-Corporate
 - image: /assets/images/tours/East End Retail/Picture-3_-Nike-Lab-Boxpark-Pop-Up-East-End-Retail-Marketing-Walking-Tour-Student-Corporate.jpg
   alt: Nike-Lab-Boxpark-Pop-Up-East-End-Retail-Marketing-Walking-Tour-Student-Corporate
-order: 4
+order: 3
 tour-id: 29334
 author: london75
 guid: "/?post_type=product&#038;p=29334"
@@ -38,9 +38,11 @@ related:
 - 29344
 ---
 
-As famously once stated "**Britain is a nation of shopkeepers**" – so come and explore London’s most successful retail districts with Insider London. Our award-winning retail tours sample the coolest and most interesting shops that London has to offer. In the face of global e-commerce giants and spending cuts, come and see the retailers that are doing it right. We offer two fantastic tours in two very different areas of London: the **West End** and the **East End**. Compare and contrast them or pick the neighbourhood for you.
+As famously once stated "**Britain is a nation of shopkeepers**" – so come and explore London’s most successful retail districts with Insider London. Our award-winning retail tours sample the coolest and most interesting shops that London has to offer.
 
-## West end Retail Design
+In the face of global e-commerce giants and spending cuts, come and see the retailers that are doing it right. We offer two fantastic tours in two very different areas of London: the **[West End](#west-end-retail-design)** and the **[East End](#east-end-retail-design)**. Compare and contrast them or pick the neighbourhood for you.
+
+## West End Retail Design
 
 {% assign gallery = page.gallery1 %}
 {% if gallery.size > 1 %}
@@ -50,6 +52,7 @@ As famously once stated "**Britain is a nation of shopkeepers**" – so come and
 A global centre for luxury retail, traverse the elegant promenades of **Mayfair**. A historic commercial and residential area in West London, Mayfair attracts the world’s most **prestigious brands** and designers as well as the most **affluent** clientele. We explore how leading lights maintain their status in the brick and mortar realm.
 
 **Meeting Point**: Outside Wholefoods Market, near Piccadilly Circus
+
 **Finishing Point**: Fortnum & Masons, Piccadilly
 
 **On this tour you will discover**
@@ -61,6 +64,8 @@ A global centre for luxury retail, traverse the elegant promenades of **Mayfair*
 * How Savile Row maintains its prestige
 * Two of London’s most **iconic department stores**
 
+{% include findoutmore.html title="West End Retail Design Tour" %}
+
 ## East End Retail Design
 
 {% assign gallery = page.gallery2 %}
@@ -71,6 +76,7 @@ A global centre for luxury retail, traverse the elegant promenades of **Mayfair*
 There’s a new kid on the block. Come and experience the youthful vibes of **Shoreditch** and test its status as a vibrant hotspot of retail, art and design. We visit **London’s trendiest district** where shabby chic reigns supreme and explore how Shoreditch has become one of the most fashionable commercial zones in London.
 
 **Meeting Point**: Outside Shoreditch Grind, exit 4 of Old Street Station
+
 **Finishing Point**: Ely’s Yard, Truman Brewery
 
 **On this tour you will discover:**
@@ -80,3 +86,6 @@ There’s a new kid on the block. Come and experience the youthful vibes of **Sh
 * The experience economy in all its glory
 * How a run-down roundabout became a destination retail station
 * The street that Vogue referred to as "the coolest street in London"
+
+
+{% include findoutmore.html title="East End Retail Design Tour" %}

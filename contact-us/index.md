@@ -35,10 +35,6 @@ sitemap: false
 </ul>
 
 
-<p>
-<a href="http://www.facebook.com/insiderlondon" target="_blank"><img src="/uploads/contact_fb_icon_insider-blue_small.png" alt="Facebook" style="max-height:1em;">&nbsp;Facebook</a><br />
-<a href="https://twitter.com/#!/insiderlondon" target="_blank"><img src="/uploads/contact_twitter_icon_insider-blue_small.png" alt="Twitter" style="max-height:1em;">&nbsp;Twitter</a> <br />
-<a href="https://www.instagram.com/insiderlondontours/" target="_blank"><img src="/uploads/contact_instagram_icon_insider-blue_small.png" alt="Instagram" style="max-height:1em;">&nbsp;Instagram</a> <br />
-</p>
-
-### ...or use the contact form below
+<a target="_blank" href="http://www.facebook.com/insiderlondon">Facebook</a>&nbsp;
+<a target="_blank" href="https://www.linkedin.com/company/insider-london">LinkedIn</a>&nbsp;
+<a target="_blank" href="https://www.tripadvisor.co.uk/Attraction_Review-g186338-d2026396-Reviews-Insider_London_Day_Tours-London_England.html">TripAdvisor</a>

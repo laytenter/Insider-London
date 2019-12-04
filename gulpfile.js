@@ -22,6 +22,25 @@ var plumber   = require('gulp-plumber');
 // Include paths file.
 //var paths = require('./_assets/gulp_config/paths');
 
+gulp.task('landing-page-images', function () {
+
+  return gulp.src('./images/cities-clean/**/*.png')
+      .pipe(plumber())
+    .pipe(responsive({'**/*.png': {
+        width: 1000
+      },
+    },
+     {
+      progressive: true,
+      quality: 70,
+      withMetadata: false,
+      errorOnEnlargement: false,
+      errorOnUnusedConfig: false
+    })).pipe(gulp.dest('assets/images/cities'))
+    .on('error', gutil.log);
+
+});
+
 // Use Sass compiler to process styles, adds vendor prefixes, minifies etc and outputs for the appropriate locations
 gulp.task('build:styles:main', function(){
   return sass ('css/main.scss', {

@@ -23,7 +23,7 @@ gallery2:
   alt: Watermark-Place-Sustainable-Green-Eco-Architecture-Walking-Tour-Student-Corporate
 - image: /assets/images/tours/Sustainable Architecture/Picture-3---Walkie-Talkie-Green-Wall-Sustainable-Green-Eco-Architecture-Walking-Tour-Student-Corporate.jpg
   alt: Walkie-Talkie-Green-Wall-Sustainable-Green-Eco-Architecture-Walking-Tour-Student-Corporate
-order: 8
+order: 4
 tour-id: 29342
 author: london75
 thumb: sust_arch_1-420x287.jpg
@@ -35,7 +35,9 @@ related:
 - 29332
 ---
 
-With growing awareness of the global climate crisis then it’s time to re-imagine the modern way of life and twenty-first century infrastructure. With a booming population and more than two-thousand years of history, London has a unique set of difficulties to face when transitioning into a sustainable future. We showcase a wide variety of approaches that show London is always up for a challenge. Find out more on our **Cutting-Edge Green** or **Sustainable Architecture** Walking Tours.
+With growing awareness of the global climate crisis then it’s time to re-imagine the modern way of life and twenty-first century infrastructure. With a booming population and more than two-thousand years of history, London has a unique set of difficulties to face when transitioning into a sustainable future.
+
+We showcase a wide variety of approaches that show London is always up for a challenge. Find out more on our **[Cutting-Edge Green](#cutting-edge-green-tour)** or **[Sustainable Architecture](#sustainable-architecture)** Walking Tours.
 
 ## Cutting-Edge Green Tour
 
@@ -52,6 +54,10 @@ The only walking tour of its kind, award-winning Insider London’s innovative G
 
 Are you a student of ethical business, environmental science or human geography? Perhaps your corporate group is keen to check out the city’s eco-credentials? We invite you to explore London’s green scene. This tour is full of great case studies of corporate social responsibility, urban planning and green policy.
 
+**Meeting Point**: Outside the Dominion Theatre, Tottenham Court Road.
+
+**Finishing Point**: Outside Embankment Tube Station.
+
 **On this tour you will discover**
 
 * The sustainable credentials of hidden gems and well-known landmarks
@@ -60,6 +66,8 @@ Are you a student of ethical business, environmental science or human geography?
 * Why London is seen as a world-leader in green **transport**
 * Exciting new green developments and eco-conscious retrofitting
 * London’s bid to become a “National Park City” and the **urban greening movement**
+
+{% include findoutmore.html title="Cutting Edge Green Tour" %}
 
 ## Sustainable Architecture
 
@@ -77,6 +85,7 @@ With many factors at play, the challenges faced by architects in London are uniq
 We examine at some of the capital’s most distinctive towers which boast green credentials and explore how the built environment is adapting to the needs of our time.
 
 **Meeting Point**: Outside the Andaz Hotel, Liverpool Street
+
 **Finishing Point**: Outside the Bloomberg Building, near Bank Station
 
 **On this tour you will discover**
@@ -86,3 +95,5 @@ We examine at some of the capital’s most distinctive towers which boast green 
 * The only building in the world to have integrated wind turbines
 * The conflict between heritage preservation and the drive for progress
 * The world’s most sustainable office building
+
+{% include findoutmore.html title="Sustainable Architecture Tour" %}

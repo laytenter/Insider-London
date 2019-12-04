@@ -23,14 +23,6 @@ gallery:
 - image: "/uploads/web_17-07-29_Tube_Francis_public_Westminster.JPG"
   caption: A lovely couple on a private Tube Tour in Westminster station.
   alt: A lovely couple on a private Tube Tour in Westminster station.
-- image: "/uploads/web_17-07-20_Tube_Francis_public_Westminster.JPG"
-  caption: A group of our guests in Westminster in July 2017.
-  alt: A group of our guests in Westminster in July 2017.
-- image: "/uploads/web_17-03-01%20Tube%20Jonas%20U3A.jpg"
-  caption: A group from the University of the 3rd Age, with us on a private bespoke
-    London Underground Tour.
-  alt: A group from the University of the 3rd Age, with us on a private bespoke London
-    Underground Tour.
 tour-id: 32143
 trekksoft-tour-id: 50159
 show_book: true
@@ -62,6 +54,10 @@ Starting at London's first ever underground station and finishing at one of Lond
 
 The London Underground Tour takes you under the skin of the **world's oldest and most iconic underground system**. From learning about the Tube's origins, **construction and design**, to catching a glimpse of one of London's abandoned 'ghost stations', our experienced tour guides will illuminate another side of the London Underground network.
 
+**Meeting Point**: By the Sherlock Holmes Statue, outside Baker Street
+
+**Finishing Point**: Westminster Station
+
 ### Highlights
 
 On this tour you will:
@@ -73,4 +69,6 @@ On this tour you will:
 * Gain an insight into the superstar architects behind the Underground's distinctive architecture, including the man who painted London red and why some stations resemble spaceships.
 * Find out why Big Ben tilts two centimetres to the North West...
 
-Interested in the significance of transport in regeneration projects? Find out more about our [Kings Cross Regeneration & Innovation Tour](link)
+Interested in the significance of transport in regeneration projects? Find out more about our [Kings Cross Regeneration & Innovation Tour](/london/educational-tours/kings-cross-regeneration/#kings-cross-innovation-and-regeneration)
+
+{% include findoutmore.html title="Tube Tour" %}

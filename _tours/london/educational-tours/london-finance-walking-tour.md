@@ -48,13 +48,13 @@ Financial services are at the heart of the London economy. Come and explore the 
   {% include slideshow.html %}
 {% endif %}
 
-Join us on our award-winning walking tour of The City as we take you on a fascinating journey to discover the origins of London’s financial centre - from its humble *beginnings in 17<sup>th</sup> century* coffee houses to *its ancient and unusual* governance and voting system that’s still in use today.
+Join us on our award-winning walking tour of The City as we take you on a fascinating journey to discover the origins of London’s financial centre - from its humble **beginnings in 17<sup>th</sup> century** coffee houses to **its ancient and unusual** governance and voting system that’s still in use today.
 
-Our expert guide will show you how the City of London developed into a global financial centre, taking in key buildings such as: the *London Stock Exchange*, Guildhall, the *Bank of England*, Lloyds of London and Rothschild's.
+Our expert guide will show you how the City of London developed into a global financial centre, taking in key buildings such as: the **London Stock Exchange**, Guildhall, the **Bank of England**, Lloyds of London and Rothschild's.
 
-Meeting Point: Panyer Alley, exit 2 of St Paul’s Station
+**Meeting Point**: Panyer Alley, exit 2 of St Paul’s Station
 
-Finishing Point: The Cheesegrater (Leadenhall Building), near Liverpool Street Station.
+**Finishing Point**: The Cheesegrater (Leadenhall Building), near Liverpool Street Station.
 
 **On this tour you will discover:**
 
@@ -67,6 +67,8 @@ Finishing Point: The Cheesegrater (Leadenhall Building), near Liverpool Street S
 - **The world of banking and all its forms** from the nation’s central bank to a retail bank where you can pop in and deposit a cheque.
 - **How the UK’s Insurance sector grew and who is big enough to insure the insurance companies**
 - **Why a one meter long gold grasshopper sits above Lombard Street** and other cryptic London City signs.
+
+{% include findoutmore.html title="City Finance Tour" %}
 
 ## Canary Wharf Walking Tour
 
@@ -98,4 +100,5 @@ Finishing Point: Near Canary Wharf Station (this is a loop tour)
 * The amazing and ongoing developments in **transport** infrastructure, including the Crossrail, which service the business eco-system
 * The **masterplan** of Wood Wharf, a brand new 23 acre site which is set to take Canary Wharf to the next level
 *  What the **future** holds for this critical piece of the UK economy
-*
+
+{% include findoutmore.html title="Canary Wharf Tour" %}

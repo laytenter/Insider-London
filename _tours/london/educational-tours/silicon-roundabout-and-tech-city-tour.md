@@ -17,7 +17,7 @@ gallery:
   alt: Principal-Place-Amazon-Regeneration-Silicon-Roundabout-Tech-City-Walking-Tour
 - image: "/assets/images/tours/Silicon Roundabout/Picture-3---Barclays-Fintech-Accelerator-Coworking-Silicon-Roundabout-Tech-City-Walking-Tour.jpg"
   alt: Barclays-Fintech-Accelerator-Coworking-Silicon-Roundabout-Tech-City-Walking-Tour
-order: 3
+order: 2
 tour-id: 29347
 author: london75
 guid: "/?post_type=product&#038;p=29347"
@@ -62,3 +62,5 @@ With start-up success stories of all kind, between 2012 and 2014, Silicon Rounda
 * Debate whether the Silicon Roundabout can maintain it's global, growing prestige  
 
 This is an exterior walking tour of one of London’s most forward-thinking districts. For an in-depth understanding of London’s tech scene, pair this educational guided tour with a [company visit](/london/company-visits) to a pioneering tech start-up.
+
+To book your Silicon Roundabout/Tech City Tour or find out more then get in touch via [contact@insiderlondon.com](mailto:contact@insiderlondon.com)
