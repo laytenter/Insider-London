@@ -8,7 +8,8 @@ layout: page
 <div class="layout">
   <div class="layout__item u-2/3-lap u-3/4-desk">
     <!-- This loops through the paginated posts -->
-    {% for post in paginator.posts %}
+    {% assign posts = site.posts | where: "categories","events" %}
+    {% for post in posts %}
     <article id="post-24853" class="blog-entry post-24853 post type-post status-publish format-standard hentry category-london-pubs category-london-underground-tube category-food-and-drink tag-cocktails tag-london-tube tag-london-underground tag-alternative-london tag-bars tag-drinking tag-quirky-london-tube tag-cahoots">
       <div class="blog-entry-inner">
         <div class="entry-title">

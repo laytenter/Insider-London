@@ -11,7 +11,8 @@ excerpt: London Tech Week has been a major event on the calendar for years.  Wit
   event reflects the significance of London as one of the most important tech hubs
   in the world.
 heading: London Tech Week
-layout: post
+categories:
+  - finance
 ---
 
 ![London Tech Week 2019](/uploads/london%20tech%20week.jpg)

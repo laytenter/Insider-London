@@ -6,6 +6,8 @@ description: As evidence of the climate crisis mounts, it’s clear that mankind
   facing its biggest challenge in history. Unique challenges are posed to each industry
   when “business as usual” is no longer an option. This week, we look at five ways
   the business world is changing.
+categories:
+    - finance
 ---
 
 ![sustainabilitysales.1500x900-760.jpg](/uploads/sustainabilitysales.1500x900-760.jpg)
@@ -32,4 +34,4 @@ Here at Insider London, we are excited to be working with [B-corp Urban Edge Cap
 
 We are also very proud to announce fantastic new partnerships with Entocycle and Gaea Collaboration!
 
-Are you interested in real business insight into sustainability? Get in touch via contact@insider-london.co.uk to book your visit.
+Are you interested in real business insight into sustainability? Get in touch via contact@insiderlondon.com to book your visit.
