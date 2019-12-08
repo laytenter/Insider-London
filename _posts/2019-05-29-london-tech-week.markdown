@@ -12,7 +12,7 @@ excerpt: London Tech Week has been a major event on the calendar for years.  Wit
   in the world.
 heading: London Tech Week
 categories:
-  - finance
+  - business
 ---
 
 ![London Tech Week 2019](/uploads/london%20tech%20week.jpg)

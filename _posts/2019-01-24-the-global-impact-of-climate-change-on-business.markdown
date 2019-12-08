@@ -6,7 +6,7 @@ description: As climate change makes headlines on an almost daily basis, the wor
   is beginning to discover the true extent of its impact across a variety of sectors.
 heading: The Global Impact of Climate Change on Business
 categories:
-  - finance
+  - business
 ---
 
 ![global warming london](/uploads/climate%20change.jpg)

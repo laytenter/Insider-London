@@ -6,7 +6,7 @@ description: We caught up with Thao Bui the Global Student Recruitment Manager a
   The Institute of Chartered Accountants in England and Wales (ICAEW) for some great
   insight into the career path of a chartered accountant at ICAEW.
 categories:
-    - finance
+    - business
 ---
 
 <div class="embed-responsive embed-responsive-16by9 palm-mb lap-mb desk-mb">

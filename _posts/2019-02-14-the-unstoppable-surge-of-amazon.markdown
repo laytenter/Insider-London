@@ -6,7 +6,7 @@ description: This week we examine two recent, strategic moves by Amazon in terms
   expansion, and how this relates to their long-term business strategy.
 heading: The Unstoppable Surge of Amazon
 categories:
-  - finance
+  - business
 ---
 
 ![amazon london](/uploads/jeff-bezos-amazon-london.jpg)
