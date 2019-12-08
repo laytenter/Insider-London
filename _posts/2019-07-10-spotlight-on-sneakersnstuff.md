@@ -4,6 +4,8 @@ date: 2019-07-10 00:00:00 Z
 description: 'This week, we take a look at one of the East End''s coolest boutiques:
   Sneakersnstuff, as it celebrates its 20 year anniversary.'
 excerpt_separator: "<!--more-->"
+categories:
+  - marketing-and-retail
 ---
 
 ![Interior shot of the NYC sneakernstuff store](/uploads/sneakersnstuff-luxury-sneaker-store-nyc-erik-fagerlind-interview-1-760.jpg)
