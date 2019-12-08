@@ -56,9 +56,7 @@ Finally Javed Khattak, the CEO of [Humaniq](https://humaniq.com/) rounded off th
 
 ![img6079@300x.png](/uploads/img6079@300x.png)
 
-
 The morning was rounded off by an informal networking session where the IBK representatives could meet the entrepreneurs before being whisked away to EC1V. Over in the East End, delegates set off with our Insider London guides for a Silicon Roundabout Walking Tour (link). Exploring the transformation of the area from a run-down district to the third biggest tech cluster in the world, this was a fitting end to a day which focused on the transformative potential of the digital sector.
-
 
 
 Interested in learning more about the most innovative companies in london?  

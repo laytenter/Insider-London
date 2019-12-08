@@ -6,11 +6,13 @@ description: The use of bamboo in construction, cuisine, medicine and materiel g
   has long been commonplace in Asia but is now finding a place in the western world.
 heading: 'Bamboo: Sustainable Growth for a Sustainable Future'
 layout: post
+categories:
+- sustainability
 ---
 
 ![bambootitle.jpg](/uploads/bambootitle.jpg)
 
-Chinese use of bamboo dates back 7,000 years; as a versatile materiel, a potassium-rich ingredient and a plant of symbolic significance in [Ancient culture](http://www.chinadaily.com.cn/life/2011-01/19/content_11882983.htm). The use of bamboo in construction, cuisine, medicine and materiel goods has long been commonplace in China and other Asian countries such as India, the [second largest grower of bamboo in the world](http://www.thealternative.in/lifestyle/bamboo-the-underused-wondergrass/). Perhaps less well known is the prevalence of bamboo in Sub-Saharan Africa, and the Americas, where the resource has been put to similar use. 
+Chinese use of bamboo dates back 7,000 years; as a versatile materiel, a potassium-rich ingredient and a plant of symbolic significance in [Ancient culture](http://www.chinadaily.com.cn/life/2011-01/19/content_11882983.htm). The use of bamboo in construction, cuisine, medicine and materiel goods has long been commonplace in China and other Asian countries such as India, the [second largest grower of bamboo in the world](http://www.thealternative.in/lifestyle/bamboo-the-underused-wondergrass/). Perhaps less well known is the prevalence of bamboo in Sub-Saharan Africa, and the Americas, where the resource has been put to similar use.
 
 Europe is not blessed with natural bamboo growth and has been late to catch on to the potential of this remarkable grass. Nevertheless, the twenty-first century is witnessing a universal heralding of bamboo as a vital, sustainable resource for all and a partial solution to some of the world's greatest problems. The International Network of Bamboo and Rattan (INBAR) which was set up in 1997, works to promote the use of bamboo, and [rattan](https://www.encyclopedia.com/plants-and-animals/plants/plants/rattan), for economic and environmental benefit, specifically applying the plant to the [UN Sustainable Development Goals](https://www.inbar.int/global-programmes/). This inter-governmental organization, whose members include 18 African nations, values the global bamboo economy at [$60 billion a year](https://www.inbar.int/news-the-60-billion-a-year-industry-made-from-a-plant/).  
 
