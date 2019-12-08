@@ -37,6 +37,8 @@ related:
 - 12345
 ---
 
+<img src="{{ site.imagepath }}{{ page.banner }}" />
+
 Insider London’s Quirky London Tour is the London that the history books don’t mention, and the tour guides leave out!
 
 Whether you are a born-and-bred Londoner or just looking to get off the beaten track, the Quirky Tour is a London history tour with a difference. This **alternative London history tour** explores the fun-filled streets of Covent Garden from the secret stories of the piazzas and monuments to the curiosities round ever back-street corner. Journey back in time with Insider London and **Covent Garden** will never be the same again.
@@ -52,7 +54,7 @@ Discover London’s best bits with this two-hour Quirky Walking Tour. Sites incl
 **On this tour you will**:
 
 * Explore London’s historic party district
-* Meet a group of lions that would upset any zoologist.
+* Meet a group of lions that would upset any zoologist
 * Discover the favourite intoxicants of old London
 * Find London’s most controversial sculptures
 * Learn the true origins of some of Britain’s favourite expressions

@@ -58,4 +58,4 @@ We may update this privacy policy from time to time in order to reflect, for exa
 ### CONTACT US
 For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at contact@insiderlondon.com or using the details provided below:
 
-Insider London, Huckletree Shoreditch, 18 Finsbury Square, Alphabeta Building, London EC2A 1AH
+Insider London, 18 Finsbury Square, Alphabeta Building, London EC2A 1AH

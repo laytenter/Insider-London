@@ -37,4 +37,4 @@ Located in Emirates Tower, immerse yourself in the future of travel at Area 2071
 
 This in-depth experience will be led by the incubator manager and provides groups with the opportunity to meet the start-ups and mentors who are prototyping the future of travel.
 
-Get in touch via [mail:tocontact@insiderlondon.com](contact@insiderlondon.com) to find out what Dubai can offer you. The sky’s the limit!
+*Get in touch via [mail:tocontact@insiderlondon.com](contact@insiderlondon.com) to find out what Dubai can offer you. The sky’s the limit!*

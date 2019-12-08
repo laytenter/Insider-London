@@ -40,13 +40,14 @@ related:
 - 32336
 ---
 
+
+## The original London Underground and Tube Tour
+
 {% assign gallery = page.gallery %}
 
 {% if gallery.size > 1 %}
-  {% include slideshow.html %}
+{% include slideshow.html %}
 {% endif %}
-
-## The original London Underground and Tube Tour
 
 Travel across **150 years** in just two hours aboard our awesome London Underground and Tube Tour!
 
@@ -62,11 +63,11 @@ The London Underground Tour takes you under the skin of the **world's oldest and
 
 On this tour you will:
 
-* Learn how London's extensive Underground network was constructed (by hand!) over 150 years ago.
-* Discover the hazards of running steam trains underground, including why staff requested leave to grow beards.
-* Catch a rare glimpse of a disused ‘ghost station' abandoned over fifty years ago.
-* Learn how the London Underground pioneered the concept of building an epic, money-spinning visual brand, from its iconic tube map to the design of its stations.
-* Gain an insight into the superstar architects behind the Underground's distinctive architecture, including the man who painted London red and why some stations resemble spaceships.
+* Learn how London's extensive Underground network was constructed (by hand!) over 150 years ago
+* Discover the hazards of running steam trains underground, including why staff requested leave to grow beards
+* Catch a rare glimpse of a disused ‘ghost station' abandoned over fifty years ago
+* Learn how the London Underground pioneered the concept of building an epic, money-spinning visual brand, from its iconic tube map to the design of its stations
+* Gain an insight into the superstar architects behind the Underground's distinctive architecture, including the man who painted London red and why some stations resemble spaceships
 * Find out why Big Ben tilts two centimetres to the North West...
 
 Interested in the significance of transport in regeneration projects? Find out more about our [Kings Cross Regeneration & Innovation Tour](/london/educational-tours/kings-cross-regeneration/#kings-cross-innovation-and-regeneration)

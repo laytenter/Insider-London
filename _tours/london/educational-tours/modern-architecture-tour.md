@@ -50,7 +50,7 @@ In **three and a half hours**, this in-depth journey begins with the artistic je
 
 **On this tour you will discover**
 
-* The most striking examples of modern architecture in London and the fascinating stories behind their development.
+* The most striking examples of modern architecture in London and the fascinating stories behind their development
 * The importance of sustainability in London’s architecture and the dynamic modern developments pushing the sustainability envelope
 * How architects marry London’s innovative and historic architectural styles, including, a building which integrates an ancient churchyard
 * The controversial modern buildings that have had critics up in arms, including the building branded ‘ugly’ by the head of the Tate Modern art gallery, the development likened to a sea-sponge, and a sky scraper, which given the right weather conditions, can melt a car’s interior

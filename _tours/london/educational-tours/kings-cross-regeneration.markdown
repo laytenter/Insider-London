@@ -7,7 +7,7 @@ tags:
 heading: Kings Cross Regeneration & Innovation Tour
 description: Join us on this fascinating Kings Cross Tour, and discover how the area
   made its remarkable transitions.
-gallery:
+gallery1:
   - image: /assets/images/tours/Kings Cross/Picture-1---St-Pancras-Renaissance-Kings-Cross-Regeneration-Innovation-Walking-Tour-Student-Corporate.jpg
     alt:
   - image: /assets/images/tours/Kings Cross/Picture-2---Francis-Crick-Institute-Kings-Cross-Regeneration-Innovation-Walking-Tour-Student-Corporate.jpg
@@ -16,6 +16,9 @@ gallery:
     alt:
   - image: /assets/images/tours/Kings Cross/Picture-2---Meeting-Place-option-1.jpg
     alt:
+gallery2:
+  - image: /assets/images/tours/Olympic Park/Picture-1---Here-East-Technology-Innovation-Olympic-Park-Regeneration-Walking-Tour-Student-Corporate.jpg
+  - image: /assets/images/tours/Olympic Park/Picture-2---Stadium-Olympic-Park-Regeneration-Walking-Tour-Student-Corporate.jpg
 thumb: thumb kings cross.jpg
 banner: Kings Cross Tour Image.jpg
 hidden: true
@@ -30,7 +33,7 @@ In addition to our [Canary Wharf Tour](/london/educational-tours/london-finance-
 
 ## Kings Cross Innovation and Regeneration
 
-{% assign gallery = page.gallery %}
+{% assign gallery = page.gallery1 %}
 {% if gallery.size > 1 %}
 {% include slideshow.html %}
 {% endif %}
@@ -55,6 +58,11 @@ Kings Cross never fails to impress and has quickly become one of London’s most
 {% include findoutmore.html title="Kings Cross Tour" %}
 
 ## Olympic Park Regeneration Tour
+
+{% assign gallery = page.gallery2 %}
+{% if gallery.size > 1 %}
+{% include slideshow.html %}
+{% endif %}
 
 In 2012 all eyes were on London and the Queen Elizabeth Park. This was a phenomenally successful event but after the last medal had been awarded, what became of the area? We tour the **lasting legacy** of the Olympic Park Regeneration Project. Over two hours, journey through the complete story of this now thriving district from the decision to choose East London to the area’s continuing transformation. We stroll past the **iconic architecture** of this enormous endeavour and recount the fascinating story of the Olympic Park.
 

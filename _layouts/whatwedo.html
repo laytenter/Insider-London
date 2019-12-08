@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<article class="post u-margin-bottom-large">
+  <header class="post-header bg-gray">
+    <div class="breadcrumb-wrapper ">
+      <div class="o-wrapper u-padding-left-small u-padding-right-small u-padding-left@tablet u-padding-right@tablet">
+        {% include pagenav.html %}
+      </div>
+    </div>
+  </header>
+  <div class="{% if page.background %}u-landing-background white{% endif %} u-padding-top-large" {% if page.background %}style="background-image:linear-gradient(rgba(25,46,81,0.75), rgba(25,46,81,0.75)),url('/assets/images/landing-pages/{{ page.background }}'){% endif %}">
+    <div class="o-wrapper u-padding-left-small u-padding-right-small u-padding-left@tablet u-padding-right@tablet">
+      {% include breadcrumbs.html %}
+      <div class="o-layout">
+        <div class="o-layout__item u-2/3@desktop">
+          <div class="content">
+            <h2 class="u-h1">{{ page.title }}</h2>
+            {{ content }}
+          </div>
+
+        </div>
+        <div class="o-layout__item u-1/3@desktop">
+          {% include tour-enquiry.html %}
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+
+<div class="o-wrapper u-padding-left-small u-padding-right-small u-padding-left@tablet u-padding-right@tablet">
+  <p>"By the end of the tour I wanted to explore more nooks and crannies, alleyways, pubs, squares and markets and everything! I can't recommend this walking tour enough – it is money well spent and I guarantee you won't be disappointed." - <strong>Imperial College, Finance Tour</strong></p>
+
+  <p>"A huge thank you for the tour yesterday! I've had some great feedback from everyone, saying how interesting it was and how knowledgeable you were."" - <strong>Heineken, Cutting Edge Green Tour</strong></p>
+
+  <p>"We've had some excellent feedback from conference delegates about the street art tour– it received the highest ratings from our entire programme! All of the tour guides were commended" - <strong>Allen & Overy, Street Art Tour</strong></p>
+
+  <p>
+    <img src="/assets/images/client-logo-diagram.png" />
+
+    </p>
+</div>

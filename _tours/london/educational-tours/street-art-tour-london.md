@@ -54,10 +54,10 @@ Shoreditch boasts one of the highest concentrations of street art in the world s
 
 **Highlights of the Street Art Tour**:
 
-* Discover one of the earliest (now protected) works by world-famous graffiti artist Banksy.
+* Discover one of the earliest (now protected) works by world-famous graffiti artist Banksy
 * Visit the UK’s largest street art wall and trace its many layers
-* Learn about the artist who had tea with the Prime Minster and whose work was given to the U.S. President as a gift.
-* Find out why mushrooms grow on pretty much anything in the East End of London.
+* Learn about the artist who had tea with the Prime Minster and whose work was given to the U.S. President as a gift
+* Find out why mushrooms grow on pretty much anything in the East End of London
 * Discover murals and art installations by artists such as Jimmy C, Stik, Space Invader and many more!
 
 {% include findoutmore.html title="Street Art Tour" %}

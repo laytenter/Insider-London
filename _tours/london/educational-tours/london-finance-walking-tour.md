@@ -58,15 +58,14 @@ Our expert guide will show you how the City of London developed into a global fi
 
 **On this tour you will discover:**
 
-- **The origins of London Stock Exchange**, one of the world’s oldest stock exchanges and currently the largest stock exchange in Europe. Discover it's similarities with ‘flat white coffee’, how the stock exchange works in the modern day with the development of new technology.
-
-- **Guildhall, home to the City of London Corporation.** Discover the City of London’s unique governance structure, including why the Queen must seek permission to enter the City.
-- **Why it’s the only area in the UK to elect its own Sherriff.** Uncover the ancient traditions and roles established 800 years ago which are still upheld in London’s Square Mile today.
-- **The myriad of Livery Companies and Freemen** that occupy the City, hear about their role and purpose, both then and now.
-- **How the Bank of England pioneered the modern banking system** and why it’s worth its weight in gold and its role in the global financial crisis.
-- **The world of banking and all its forms** from the nation’s central bank to a retail bank where you can pop in and deposit a cheque.
+- **The origins of London Stock Exchange**, one of the world’s oldest stock exchanges and currently the largest stock exchange in Europe. Discover it's similarities with ‘flat white coffee’, how the stock exchange works in the modern day with the development of new technology
+- **Guildhall, home to the City of London Corporation.** Discover the City of London’s unique governance structure, including why the Queen must seek permission to enter the City
+- **Why it’s the only area in the UK to elect its own Sherriff.** Uncover the ancient traditions and roles established 800 years ago which are still upheld in London’s Square Mile today
+- **The myriad of Livery Companies and Freemen** that occupy the City, hear about their role and purpose, both then and now
+- **How the Bank of England pioneered the modern banking system** and why it’s worth its weight in gold and its role in the global financial crisis
+- **The world of banking and all its forms** from the nation’s central bank to a retail bank where you can pop in and deposit a cheque
 - **How the UK’s Insurance sector grew and who is big enough to insure the insurance companies**
-- **Why a one meter long gold grasshopper sits above Lombard Street** and other cryptic London City signs.
+- **Why a one meter long gold grasshopper sits above Lombard Street** and other cryptic London City signs
 
 {% include findoutmore.html title="City Finance Tour" %}
 

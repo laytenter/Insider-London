@@ -48,7 +48,7 @@ gulp.task('build:styles:main', function(){
     trace: true,
     loadPath: ['_sass/']
   }).pipe(postcss([ autoprefixer({
-      browsers: ['last 2 versions']}
+      browsers: ['last 10 versions']}
       )]
   ))
   .pipe(cleancss())

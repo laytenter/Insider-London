@@ -49,9 +49,11 @@ Insider London’s History of Drinking and Pubs Tour will have you raising your 
 
 **On this London pub tour you will**:
 
-* Discover the history of the drink that nearly drove beer (…and Londoners themselves) to extinction.
-* Learn about the connection between the Thames Tunnel and the common circular central bar found in many pubs today.
-* Visit a **pre-Great Fire** London pub which became **a favourite hang-out** for the likes of Charles Dickens, Sir Arthur Conan Doyle, Mark Twain and Dr Samuel Johnson.
-* Learn about the architect who designed churches and cathedrals and built a tavern for his owns masons to enjoy.
-* Discover the truth **behind the legend** of an Ale-Conner’s leather trousers.
-* Enjoy a drink on the site where the legitimacy of Henry VIII’s divorce from Catherine of Aragon was decided.
+* Discover the history of the drink that nearly drove beer (…and Londoners themselves) to extinction
+* Learn about the connection between the Thames Tunnel and the common circular central bar found in many pubs today
+* Visit a **pre-Great Fire** London pub which became **a favourite hang-out** for the likes of Charles Dickens, Sir Arthur Conan Doyle, Mark Twain and Dr Samuel Johnson
+* Learn about the architect who designed churches and cathedrals and built a tavern for his owns masons to enjoy
+* Discover the truth **behind the legend** of an Ale-Conner’s leather trousers
+* Enjoy a drink on the site where the legitimacy of Henry VIII’s divorce from Catherine of Aragon was decided
+
+{% include findoutmore.html title="History of Drinking Tour" %}

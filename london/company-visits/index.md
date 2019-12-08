@@ -54,20 +54,18 @@ For real business insight out of the office or classroom then look no further th
 Our company visits showcase some of the world’s most powerful companies as well as the capital’s most innovative entrepreneurs, including:
 
 - Revolut – the leading light of the disruptive fintech scene and one of the sector’s fastest growing companies.  Revolut now boasts more than 3 million users
-- Metro Bank – the first new UK high street bank in more than 150 years who started after the 2008 financial crisis. Come and discover their community-oriented business model.
-- Level39 - one of the world's biggest fintech hubs at non-other than 1 Canada Square. Here find the world pioneers in cybersecurity, fintech and retail tech.
+- Metro Bank – the first new UK high street bank in more than 150 years who started after the 2008 financial crisis. Come and discover their community-oriented business model
+- Level39 - one of the world's biggest fintech hubs at non-other than 1 Canada Square. Here find the world pioneers in cybersecurity, fintech and retail tech
 - London Stock Exchange – with a market capitalization value of over $4 trillion, this is one of the oldest stock exchanges in the world. We offer bespoke training programmes
 
-- LEGO – one of their world’s largest toy companies. Come and tour their London hub and find out about their exciting company culture.
-- Tribal Worldwide - The global technology-based marketing agency, part of the Omnicons Group who develop creative solutions forMcDonalds, Adidas and Volkswagen.
-- Loke – a super-app bringing together fascinating insight from marketing, fintech, big data and AI for clients like theDevelopment Bank of Singapore and Nando’s.
-- Entocycle – this cutting-edge biotechnology disruptor is developing the world’s most sustainable and efficient way to produce protein.
+- LEGO – one of the world’s largest toy companies. Come and tour their London hub and find out about their exciting company culture
+- Tribal Worldwide - The global technology-based marketing agency, part of the Omnicons Group who develop creative solutions forMcDonalds, Adidas and Volkswagen
+- Loke – a super-app bringing together fascinating insight from marketing, fintech, big data and AI for clients like theDevelopment Bank of Singapore and Nando’s
+- Entocycle – this cutting-edge biotechnology disruptor is developing the world’s most sustainable and efficient way to produce protein
 
 Insider London’s Company Visits are a unique opportunity for corporate groups and government officials looking for a rare behind-the-scenes experience, as well as for student groups looking to explore real-life thriving business models. Our visits provide an opportunity to make vital contacts and discover key challenges of the modern world in specific industries.
 
 E-mail [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to choose from our extensive list of partners. With opportunities for a variety of groups, with sizes from 6-80 people, we will create a bespoke business programme for your precise professional or academic needs.
-
-Insider London's Company Visits are a unique opportunity for students, corporate groups and government officials looking for a rare behind-the-scenes experience, as well as for student groups looking to explore real-life thriving business models. Our visits provide an opportunity to make vital contacts and discover key challenges of the modern world in specific industries.
 
 ## Workshops
 
