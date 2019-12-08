@@ -5,6 +5,8 @@ description: 'Last week, Swinbourne University visited the rising business star 
   the east: Shanghai. Insider London had the privilege of organising a business programme
   to provide students with first-hand insight into the Shanghai Business Ecosystem.'
 excerpt_separator: "<!--more-->"
+categories:
+  - events
 ---
 
 ![Students from Swinbourne University in Shanghai](/uploads/versus-gloabl-1-760.jpg)
@@ -27,4 +29,4 @@ As well as introducing the business model and ethos of Verus Global, Shaw provid
  
 Insider London would like to warmly thank Shaw Xue of Verus Global and Kevin Le of Internet Initiative Japan for the wonderful presentations as well as Swinbourne University for their active participation in this memorable trip.
 
-Did you know Insider London offers an extensive range of visits in other world business centres such as Frankfurt, Geneva and Shanghai? Get in touch via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a> with your group's requirements to find out what we can offer you.
+Did you know Insider London offers an extensive range of visits in other world business centres such as Berlin, Tokyo and Shanghai? Get in touch via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a> with your group's requirements to find out what we can offer you.

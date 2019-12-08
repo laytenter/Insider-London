@@ -5,6 +5,8 @@ description: Insider London were proud to organise a full day of company visits 
   a diverse team and engaged team from Roche. Delegates visited three very different
   companies for fresh insight into agility and entrapreneurship from a variety of
   speakers.
+categories:
+    - events
 ---
 
 On 26th June, Insider London were proud to organise a full day of company visits for a diverse team and engaged team from Roche. Delegates visited three very different companies for fresh insight into agility and intrapreneurship from a variety of speakers.
