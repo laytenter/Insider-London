@@ -68,7 +68,7 @@ description: At Insider London we offer a variety of alternative guided tours of
 url: https://www.insider-london.co.uk
 lang: en_GB
 lsi: false
-paginate: 10
+paginate: 5
 paginate_path: "/blog/page/:num/"
 gems:
 - jekyll-paginate
@@ -92,7 +92,6 @@ exclude:
 - npm-debug.log
 - gulpfile.js
 - images
-- _uploads
 - imgs
 future: true
 imagepath: "/assets/images/"

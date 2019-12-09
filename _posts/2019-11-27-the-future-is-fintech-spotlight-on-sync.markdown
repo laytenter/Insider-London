@@ -8,7 +8,7 @@ categories:
   - business
 ---
 
-<div class="embed-responsive embed-responsive-16by9 palm-mb lap-mb desk-mb">
+<div class="o-ratio o-ratio--16:9">
 <iframe  src="https://www.youtube.com/embed/3CZPL4kiv_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
