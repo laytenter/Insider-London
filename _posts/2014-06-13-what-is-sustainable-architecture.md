@@ -12,7 +12,7 @@ tags:
 id: 14921
 author: london75
 layout: post
-guid: https://www.insider-london.co.uk/?p=14921
+guid: https://www.insiderlondon.com/?p=14921
 ---
 
 _Is it always lean, clean or green?_

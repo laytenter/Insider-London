@@ -39,4 +39,4 @@ With regards to visual marketing, it was not just the exterior of the store that
 
 In summary, besides coining the retail axioms [“give the lady what she wants” and “the customer is always right”](http://ldnfashion.com/features/harry-selfridge-quotes-on-fashion-retail-top-10/), Harry Selfridge marked the end of an era, and the start of the modern age of British retail. Whilst contemporaries marvelled or scowled at the flashy gimmicks, these turned out to be remarkably forward-thinking visual merchandising strategies, that have outlived Harry Selfridge for more than seventy years and counting. It turns out London was more than “ready for all this” after all.
 
-Discover the unique visual merchandising strategies of the luxury goods sector from heritage brands to historic department stores on our [West End Retail Design Tour](https://www.insider-london.co.uk/tours/retail-design/).
+Discover the unique visual merchandising strategies of the luxury goods sector from heritage brands to historic department stores on our [West End Retail Design Tour](https://www.insiderlondon.com/london/educational-tours/retail-design/).

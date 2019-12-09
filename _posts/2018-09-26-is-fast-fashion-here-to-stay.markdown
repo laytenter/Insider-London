@@ -38,6 +38,4 @@ Photo © [Tareq Salahuddin](https://commons.wikimedia.org/wiki/File:Garment_fact
 
 Pressure seems to be growing and this is unsurprising given the importance of the industry to the UK.  According to the [British Fashion Council](http://www.britishfashioncouncil.co.uk/) the UK fashion industry contributed £28.1bn to GDP in 2015.  It is claimed in the documentary [‘The True Cost’](https://truecostmovie.com/) that as many as 1 in 6 people work in the fashion industry and that the only industry that causes greater pollution is the oil industry.
 
-
-
 There is evidence that some younger people are now choosing to shop differently as their environmental concerns grow but if there is to be a rethinking of how this industry should manage itself it will require more than a few well-intentioned shoppers.  We may not want to go back to a time when darning socks was the norm but the arguments and concerns surrounding fast fashion look here to stay.

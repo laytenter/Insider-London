@@ -47,8 +47,8 @@ The new headquarters are also positioned strategically in terms of geographic lo
 
 
 
-Come and discover the impact of recent multi-national movers such as Amazon, Barclays and Google to London's start-up tech hub on our [Silicon Roundabout Walking Tour](https://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/).
+Come and discover the impact of recent multi-national movers such as Amazon, Barclays and Google to London's start-up tech hub on our [Silicon Roundabout Walking Tour](https://www.insiderlondon.com/london/educational-tours/silicon-roundabout-and-tech-city-tour/).
 
 
 
-Get stuck into innovative marketing strategy on our [West End Retail Design Tour](https://www.insider-london.co.uk/tours/east-end-retail-design-tour/), beginning outside Wholefoods Market.
+Get stuck into innovative marketing strategy on our [West End Retail Design Tour](https://www.insiderlondon.com/london/educational-tours/retail-design/#east-end-retail-design), beginning outside Wholefoods Market.

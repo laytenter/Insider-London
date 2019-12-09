@@ -9,7 +9,7 @@ tags:
 id: 25065
 author: london75
 layout: post
-guid: https://www.insider-london.co.uk/?p=25065
+guid: https://www.insiderlondon.com/?p=25065
 s4_url2s:
 -
 s4_image2s:
@@ -160,4 +160,4 @@ After seeing his work shortened, simplified and rejigged last minute-who could f
 
 The building has an occupational density of 1 person per 8 sq metres. The recommended density for offices is 1 person per 10 sq metre, which means that the Walkie talkie really is the building with more up top!
 
-Want to know more about London&#8217;s tall towers? We&#8217;ve got more facts about <a href="/the-gherkin-up-close-ten-great-facts/" target="_blank">The Gherkin</a> and <a href="/10-great-facts-about-tower-42/" target="_blank">Tower 42</a>. And for even more, come and join us on one of our <a href="https://www.insider-london.co.uk/tours/modern-architecture-tour/" target="_blank">Modern Architecture walking tours</a>.
+Want to know more about London&#8217;s tall towers? We&#8217;ve got more facts about <a href="/the-gherkin-up-close-ten-great-facts/" target="_blank">The Gherkin</a> and <a href="/10-great-facts-about-tower-42/" target="_blank">Tower 42</a>. And for even more, come and join us on one of our <a href="https://www.insiderlondon.com/london/educational-tours/modern-architecture-tour/#modern-architecture" target="_blank">Modern Architecture walking tours</a>.

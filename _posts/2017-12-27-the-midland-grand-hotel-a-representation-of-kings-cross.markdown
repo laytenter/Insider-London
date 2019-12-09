@@ -37,4 +37,4 @@ With the decision to regenerate the area, and to set up a high-speed train route
 
 All in all, we think the Grand Midland Hotel is a beautiful representation of the rollercoaster that is the King’s Cross area’s life: Born out of a wave of innovation in transportation and strong business, and created with the old masters in mind.Then neglected and in decline, only to rise anew, bringing new business, artistic heritage and transport together in one impressive and significant project.
 
-*Want to know more about the impressive regeneration project that is King's Cross? Check out our [King's Cross Regeneration and Innovation Tour](https://www.insider-london.co.uk/tours/kings-cross-regeneration/).*
+*Want to know more about the impressive regeneration project that is King's Cross? Check out our [King's Cross Regeneration and Innovation Tour](https://www.insiderlondon.com/london/educational-tours/kings-cross-regeneration/#kings-cross-innovation-and-regeneration).*

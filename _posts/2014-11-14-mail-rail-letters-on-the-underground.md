@@ -10,7 +10,7 @@ tags:
 id: 23255
 author: london75
 layout: post
-guid: https://www.insider-london.co.uk/?p=23255
+guid: https://www.insiderlondon.com/?p=23255
 s4_url2s:
 -
 s4_image2s:
@@ -43,4 +43,4 @@ Now Mail Rail will be back in operation as part of the museum project taking vis
 
 [Post Haste](https://www.google.com/culturalinstitute/exhibit/post-haste/QQaW4lhR "Post Haste ") explores more unusual methods of transporting mail using pigeon post, hot air balloons and even a curious attempt to persuade cats to carry letters.
 
-Explore the hidden depths of the tube on a [London Underground Tube tour.](/tours/london-underground-and-tube-tour/ "London Underground Tube Tour")
+Explore the hidden depths of the tube on a [London Underground Tube tour.](/london/educational-tours/london-underground-and-tube-tour/ "London Underground Tube Tour")

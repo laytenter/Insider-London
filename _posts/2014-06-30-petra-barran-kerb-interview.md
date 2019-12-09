@@ -24,7 +24,7 @@ Well, we try to go to places with a receptive customer base. The urban system of
 
 [<img class="size-full wp-image-15100 aligncenter" src="/wp-content/uploads/2014/06/Kerb-Kings-cross-regeneration-street-food.jpg" alt="Kerb Kings cross regeneration street food" width="569" height="348" />](/wp-content/uploads/2014/06/Kerb-Kings-cross-regeneration-street-food.jpg)
 
-**We do a walking tour based around the <a href="https://www.insider-london.co.uk/kings-cross-innovation-tour/" target="_blank">regeneration of the King’s Cross area</a>. Tell us a little about KERB’s history in the area.**
+**We do a walking tour based around the <a href="https://www.insiderlondon.com/kings-cross-innovation-tour/" target="_blank">regeneration of the King’s Cross area</a>. Tell us a little about KERB’s history in the area.**
 
 We started in King’s Cross in October 2011 as eat.st, and it was basically us and St Martin’s. We were contacted about setting it up and we thought it was an amazing opportunity, brilliant. It was quieter then, less going on and felt more like a building site. But it was about playing the longer game. Caravan opened the following year and, trying to look at it from the outside, it feels like King’s Cross is more associated with food now and I think KERB, and eat.st before that, were definitely a driver for that. Events such as KERB Saturdays in Granary Place, with music and good and bars, really help bind everything together and give the space definition.
 
@@ -48,4 +48,4 @@ The biggest issue becomes the urban stuff and how to make the city more flexible
 
 All images <a href="http://www.kerbfood.com/" target="_blank">courtesy of KERB</a>.
 
-_Want to know more about what&#8217;s going on around King&#8217;s Cross? Take a look at our <a href="https://www.insider-london.co.uk/kings-cross-innovation-tour/" target="_blank">King&#8217;s Cross Regeneration and Innovation walking tour</a>. _
+_Want to know more about what&#8217;s going on around King&#8217;s Cross? Take a look at our <a href="https://www.insiderlondon.com/kings-cross-innovation-tour/" target="_blank">King&#8217;s Cross Regeneration and Innovation walking tour</a>. _

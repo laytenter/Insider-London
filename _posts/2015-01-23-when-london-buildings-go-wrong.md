@@ -9,7 +9,7 @@ tags:
 id: 24530
 author: london75
 layout: post
-guid: https://www.insider-london.co.uk/?p=24530
+guid: https://www.insiderlondon.com/?p=24530
 s4_url2s:
 -
 s4_image2s:
@@ -104,6 +104,6 @@ But it&#8217;s not just recent buildings that face such problems. The Lloyd&#821
 
 And finally, although it&#8217;s now a much loved part of the London architectural landscape, do you remember when the Millenium Bridge wobbled? So much so that it had to close three days after its grand opening in 2000, and undergo around two years of work to stabilise it. What caused the wobble? Well, apparently it was <a href="http://www.telegraph.co.uk/news/science/science-news/3793981/Way-pedestrians-walk-caused-Millennium-Bridge-wobble.html" target="_blank">the combined effect of hundreds of people</a>, each trying to keep their balance on the bridge. Ah pesky people &#8211; if only they&#8217;d stop ruining such great architectural schemes!
 
-_Want to find out more about London&#8217;s architecture? Why not try our <a href="https://www.insider-london.co.uk/tours/modern-architecture-tour/" target="_blank">modern architecture tours</a>? We run one on <a href="https://www.insider-london.co.uk/tours/sustainable-london-architecture-tour/" target="_blank">sustainable architecture</a> as well. _
+_Want to find out more about London&#8217;s architecture? Why not try our <a href="https://www.insiderlondon.com/london/educational-tours/modern-architecture-tour/#modern-architecture" target="_blank">modern architecture tours</a>? We run one on <a href="https://www.insiderlondon.com/london/educational-tours/sustainable-london-architecture-tour/#sustainable-architecture" target="_blank">sustainable architecture</a> as well. _
 
 Come and explore London’s curious skyline on our [Modern Architecture Tour](/london/educational-tours/modern-architecture-tour/#modern-architecture)

@@ -28,4 +28,4 @@ Nonetheless, 22 Bishopsgate is an extremely modern beast and can rightly be desc
 
 This huge building is not to everyone’s taste, but the developers have now leased about half of the total space of 1.4m sq ft and they will surely be delighted that Apple has just agreed to lease around 100,000 sq ft.  Many considered it very risky to steam ahead with developing such a large building during the Brexit process but so far so good as the City continues to reach for the skies.
 
-To have a great look at the newest buildings in the City of London please do join Insider London for a <a href="https://www.insider-london.co.uk/tours/modern-architecture-tour/">Modern Architecture tour of London</a>.
+To have a great look at the newest buildings in the City of London please do join Insider London for a <a href="https://www.insiderlondon.com/london/educational-tours/modern-architecture-tour/#modern-architecture">Modern Architecture tour of London</a>.

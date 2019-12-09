@@ -46,4 +46,4 @@ Still the fastest of the 11 lines and running 36 trains an hour, the Victoria li
 
 
 
-Why not join our regular [London Underground Tour](https://www.insider-london.co.uk/tours/london-underground-and-tube-tour)? Come and discover the original construction methods of the first lines as well as the exciting history of the world’s first underground railway.
+Why not join our regular [London Underground Tour](https://www.insiderlondon.com/london/educational-tours/london-underground-and-tube-tour/)? Come and discover the original construction methods of the first lines as well as the exciting history of the world’s first underground railway.

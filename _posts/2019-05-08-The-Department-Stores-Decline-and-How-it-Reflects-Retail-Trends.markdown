@@ -43,4 +43,4 @@ For one Diane Werhle of market research firm Springboard admits that the [USP of
 
 
 
-To learn more about the experience economy then join us for an [East End Retail Design Tour](https://www.insider-london.co.uk/tours/east-end-retail-design-tour/ ). We visit Shoreditch's coolest independent brands whilst tracing the rise of this vibrant retail area in the face of general high street decline.
+To learn more about the experience economy then join us for an [East End Retail Design Tour](https://www.insiderlondon.com/london/educational-tours/retail-design/#east-end-retail-design ). We visit Shoreditch's coolest independent brands whilst tracing the rise of this vibrant retail area in the face of general high street decline.

@@ -18,7 +18,7 @@ tags:
 id: 16981
 author: london75
 layout: post
-guid: https://www.insider-london.co.uk/?p=16981
+guid: https://www.insiderlondon.com/?p=16981
 s4_cdes:
 -
 s4_ctitle:

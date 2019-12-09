@@ -7,7 +7,7 @@ categories:
 id: 31156
 author: london75
 layout: post
-guid: https://www.insider-london.co.uk/?p=31156
+guid: https://www.insiderlondon.com/?p=31156
 slide_template:
 - default
 ---

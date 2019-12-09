@@ -54,10 +54,10 @@ Tech City UK, set up by the Government in 2010 to foster the tech scene in East 
 
 
 
-Get in touch to book your [Silicon Roundabout/Tech City Walking Tour](https://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/) and explore the development and progress of this vibrant and unusual business eco-system.
+Get in touch to book your [Silicon Roundabout/Tech City Walking Tour](https://www.insiderlondon.com/london/educational-tours/silicon-roundabout-and-tech-city-tour/) and explore the development and progress of this vibrant and unusual business eco-system.
 
 
 
-Go deeper with an [Insider London In-Depth Business Visit](https://www.insider-london.co.uk/tours/in-depth-business-tour/). Find the visit for you from our wide-range of parnterships including vital Silicon Roundabout and Tech City hubs.
+Go deeper with an [Insider London In-Depth Business Visit](https://www.insiderlondon.com/london/company-visits/). Find the visit for you from our wide-range of parnterships including vital Silicon Roundabout and Tech City hubs.
 
 ![silicon roundabout tech city tour](/uploads/silicon%20roundabout%20tour%20tech%20city.jpg)

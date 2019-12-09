@@ -15,7 +15,7 @@ Working with GTEP Education in conjunction with the High Commission of Gujurat, 
 
 
 
-On Wednesday 4th December 2018, Insider London was proud to showcase London innovation with a full day programme. Starting off the day with a [King's Cross walking tour](https://www.insider-london.co.uk/tours/kings-cross-regeneration/), our guides explored the UK's biggest regeneration programme, and how the area has transformed into an exciting destination which prioritises the public realm and attracts world-leading corporates such as Google.
+On Wednesday 4th December 2018, Insider London was proud to showcase London innovation with a full day programme. Starting off the day with a [King's Cross walking tour](https://www.insiderlondon.com/london/educational-tours/kings-cross-regeneration/#kings-cross-innovation-and-regeneration), our guides explored the UK's biggest regeneration programme, and how the area has transformed into an exciting destination which prioritises the public realm and attracts world-leading corporates such as Google.
 
 
 

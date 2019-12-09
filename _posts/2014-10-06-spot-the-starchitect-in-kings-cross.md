@@ -97,4 +97,4 @@ AHMM have worked on many large-scale projects including the Battersea-Nine Elms 
 
 ‘The Starchitect’ may be a love it or loathe it term, but as long as the big names keep designing buildings that change our cities for the better, it is here to stay.
 
-Want to find out more about the rapidly changing King's Cross area? We run a <a href="https://www.insider-london.co.uk/kings-cross-innovation-tour/" target="_blank">King's Cross Regeneration and Innovation tour</a>. Or find out more about London's buildings on our <a href="https://www.insider-london.co.uk/tours/modern-architecture-tour/" target="_blank">Modern Architecture walking tour</a>.
+Want to find out more about the rapidly changing King's Cross area? We run a <a href="https://www.insiderlondon.com/kings-cross-innovation-tour/" target="_blank">King's Cross Regeneration and Innovation tour</a>. Or find out more about London's buildings on our <a href="https://www.insiderlondon.com/london/educational-tours/modern-architecture-tour/#modern-architecture" target="_blank">Modern Architecture walking tour</a>.

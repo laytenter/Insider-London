@@ -30,4 +30,4 @@ The techniques were created by Bart Victor Johan Roo, now Chief Academic Officer
 ![lego business visit](/uploads/lego%20serious%20play.jpg)
 
 
-Get a taste of LEGO Serious Play as well as their unique company culture and marketing strategy with an [Insider London Business Visit](https://www.insider-london.co.uk/tours/in-depth-business-tour/). Get in touch now to book your visit to their vibrant office space via [contact@insiderlondon.com](mailto:contact@insiderlondon.com)
+Get a taste of LEGO Serious Play as well as their unique company culture and marketing strategy with an [Insider London Business Visit](https://www.insiderlondon.com/london/company-visits/). Get in touch now to book your visit to their vibrant office space via [contact@insiderlondon.com](mailto:contact@insiderlondon.com)

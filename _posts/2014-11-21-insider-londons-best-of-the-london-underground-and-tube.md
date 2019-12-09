@@ -15,7 +15,7 @@ tags:
 id: 23455
 author: london75
 layout: post
-guid: https://www.insider-london.co.uk/?p=23455
+guid: https://www.insiderlondon.com/?p=23455
 s4_url2s:
 -
 s4_image2s:
@@ -26,7 +26,7 @@ s4_cdes:
 -
 ---
 
-Okay, we hold our hands up &#8211; we're real tube geeks at Insider London, as anyone who has been on one of our <a href="https://www.insider-london.co.uk/london-underground-tube-tours/" target="_blank">London Underground and Tube Tours</a> would probably agree. We're also shared a lot of our, erm, enthusiasm on this blog, and have pulled together some of the best bits. Here is Insider London's Best of the London Underground and Tube.
+Okay, we hold our hands up &#8211; we're real tube geeks at Insider London, as anyone who has been on one of our <a href="https://www.insiderlondon.com/london/educational-tours/london-underground-and-tube-tour/" target="_blank">London Underground and Tube Tours</a> would probably agree. We're also shared a lot of our, erm, enthusiasm on this blog, and have pulled together some of the best bits. Here is Insider London's Best of the London Underground and Tube.
 
 <img src="/wp-content/uploads/2014/02/Tube-Facts-Infographic-Thumb.jpg" alt="Tube Facts Infographic Thumb" />
 
@@ -56,4 +56,4 @@ We heralded the arrival of Contactless payment on the tube last year and we also
 
 Although we do have room for one final one. That is that Temple station, as seen in the Bond film, Skyfall isn't actually Temple at all. Want to know how we worked it out? There's <a href="/blog/james-bond-skyfall-london-underground-chase/" target="_blank">more information here</a>.
 
-For EVEN more, come and join us on one of our <a href="https://www.insider-london.co.uk/london-underground-tube-tours/" target="_blank">London Underground and Tube walking tours</a>.
+For EVEN more, come and join us on one of our <a href="https://www.insiderlondon.com/london/educational-tours/london-underground-and-tube-tour/" target="_blank">London Underground and Tube walking tours</a>.

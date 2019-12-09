@@ -14,7 +14,7 @@ tags:
 id: 4765
 author: london75
 layout: post
-guid: https://www.insider-london.co.uk/?p=4765
+guid: https://www.insiderlondon.com/?p=4765
 ---
 
 <a href="/blackfriars-bridge-green-london-tours/" rel="attachment wp-att-4846"><img class="aligncenter size-full wp-image-4846" alt="" src="/wp-content/uploads/2013/03/blackfriars-solar-panel.jpg" width="569" height="379" /></a>

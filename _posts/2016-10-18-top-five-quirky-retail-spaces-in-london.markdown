@@ -42,4 +42,4 @@ Located in the bustling Camden Market is Cyberdog. You’ll find a whole host of
 
 ![Cyberdog-800x320.png](/uploads/Cyberdog-800x320.png)
 
-And if you want to know more about some of these quirky retail spaces, then why not book a place on our [Retail Design Tour](/tours/retail-design/) of London? You’ll spend two hours taking a tour of some truly inspiring and individual shops that have made London their home.
+And if you want to know more about some of these quirky retail spaces, then why not book a place on our [Retail Design Tour](/london/educational-tours/retail-design/) of London? You’ll spend two hours taking a tour of some truly inspiring and individual shops that have made London their home.

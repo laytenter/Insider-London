@@ -7,7 +7,7 @@ categories:
 id: 24584
 author: london75
 layout: post
-guid: https://www.insider-london.co.uk/?p=24584
+guid: https://www.insiderlondon.com/?p=24584
 
 ---
 
@@ -141,4 +141,4 @@ Over 35km of steel was used to construct the Gherkin. 10 years later, we&#8217;r
 
 Us Londoners aren’t the only ones fond of The Gherkin &#8211; its unique and bold design has won it many awards including the Stirling Prize, the London Region Award, and the Emporis Skyscraper Award.
 
-Want to know more? Why not come on one of <a href="https://www.insider-london.co.uk/?p=24584&preview=true" target="_blank">Insider London's Modern Architecture tours</a>?
+Want to know more? Why not come on one of <a href="/london/educational-tours/modern-architecture-tour/#modern-architecture">Insider London's Modern Architecture tours</a>?

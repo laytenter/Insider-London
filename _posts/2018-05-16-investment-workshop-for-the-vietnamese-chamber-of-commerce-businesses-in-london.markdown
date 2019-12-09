@@ -13,7 +13,7 @@ categories:
 
 ![18-05-16 VoCC.jpg](/uploads/18-05-16%20VoCC.jpg)
 
-On Monday, 14th May, we had the honour of welcoming the Vietnamese Chamber of Commerce and its president Mr. Vo at Innovation Warehouse. They had asked us to organise a workshop about investing in the UK and [businesses in London](https://www.insider-london.co.uk/tours/in-depth-business-tour/). The three-hour workshop was a full-on success!
+On Monday, 14th May, we had the honour of welcoming the Vietnamese Chamber of Commerce and its president Mr. Vo at Innovation Warehouse. They had asked us to organise a workshop about investing in the UK and [businesses in London](https://www.insiderlondon.com/london/company-visits/). The three-hour workshop was a full-on success!
 
 ### Introduction and Talks
 
@@ -48,4 +48,4 @@ After these impressive pitches, all participants of the event got together in th
 
 We have learned so much at this event, particularly why London is a great way to invest. Its strong legal system and competitive tax regime creates a secure environment to take the necessary risk. The investment know-how in London is incredibly strong, making it even safer. And finally, the diversity of cultures, industries and people, and having some of the best educated talent in the world propel London to one of the top places to invest across the globe.
 
-*If you are interested to learn more about [businesses in London](https://www.insider-london.co.uk/tours/in-depth-business-tour/), get in touch. We can organise a multitude of business visits, workshops and bespoke programmes around entrepreneurship, business and finance!*
+*If you are interested to learn more about [businesses in London](https://www.insiderlondon.com/london/company-visits/), get in touch. We can organise a multitude of business visits, workshops and bespoke programmes around entrepreneurship, business and finance!*

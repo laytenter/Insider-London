@@ -23,4 +23,4 @@ Despite the clear benefits of sheltering underground, the sheer determination of
 
 Conditions were extremely cramped underground, with people sleeping on escalators, platforms and even hanging hammocks across the rails themselves. But, in true British fashion, the affair was very civilised.  A ticket system was put into place, so that people were able to reserve a space underground, as well as food trains and refreshment vendors and the use of chemical toilets whilst at the station.
 
-If you would like to find out more about the London Underground, why not join our [London Underground and Tube Tour](https://www.insider-london.co.uk/tours/london-underground-and-tube-tour/).
+If you would like to find out more about the London Underground, why not join our [London Underground and Tube Tour](https://www.insiderlondon.com/london/educational-tours/london-underground-and-tube-tour/).

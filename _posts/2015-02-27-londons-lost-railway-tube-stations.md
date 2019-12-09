@@ -170,4 +170,4 @@ Aldwych opened in 1907 and was situated a short distance from Somerset House. It
 
 Opened in 1907 and closing in 1932, Down Street was never busy. It suffered from being too close to Hyde Park Corner and Dover Street (later renamed Green Park) stations. Located out of sight of Piccadilly in a residential area, it was often hard to find. As other stations expanded, with entrances and escalators close to Down Street, it was able to close. Although its life was short and uneventful, it played a key part in the war effort, used as headquarters for the Railway Executive Committee and the war cabinet of Winston Churchill.
 
-Like this? Come and discover more on one of the <a href="https://www.insider-london.co.uk/london-underground-tube-tours/" target="_blank">Insider London Underground and Tube tours</a>.
+Like this? Come and discover more on one of the <a href="https://www.insiderlondon.com/london/educational-tours/london-underground-and-tube-tour/" target="_blank">Insider London Underground and Tube tours</a>.

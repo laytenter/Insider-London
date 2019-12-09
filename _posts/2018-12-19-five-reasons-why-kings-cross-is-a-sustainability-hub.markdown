@@ -77,4 +77,4 @@ The most recent statistics available for King's Cross wastage show that in 2014/
 
 
 
-Discover more about King's Cross Regeneration and Innovation with our [informative walking tour](https://www.insider-london.co.uk/tours/kings-cross-regeneration/). We analyse the development of this “destination station”, and look at how the local authorities have wisely invested to improve the public realm and attract some of the world's biggest businesses to the area.
+Discover more about King's Cross Regeneration and Innovation with our [informative walking tour](https://www.insiderlondon.com/london/educational-tours/kings-cross-regeneration/#kings-cross-innovation-and-regeneration). We analyse the development of this “destination station”, and look at how the local authorities have wisely invested to improve the public realm and attract some of the world's biggest businesses to the area.

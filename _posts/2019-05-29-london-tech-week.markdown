@@ -41,4 +41,4 @@ London Tech Week includes a number of events that would certainly be considered 
 
 It all seems a long way from a decade ago when Dopplr’s Matt Biddulph coined the term [‘Silicon Roundabout’](https://www.wired.com/2009/10/londons-silicon-roundabout) and it is remarkable how radically the Shoreditch area has changed since 2008.
 
-If you are going to visit London Tech Week you are bound to have a fascinating time and if you are interested in how East London became the centre for tech startups please join us on our [Silicon Roundabout Tour](https://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/).
+If you are going to visit London Tech Week you are bound to have a fascinating time and if you are interested in how East London became the centre for tech startups please join us on our [Silicon Roundabout Tour](https://www.insiderlondon.com/london/educational-tours/silicon-roundabout-and-tech-city-tour/).

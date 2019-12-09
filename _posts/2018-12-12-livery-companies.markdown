@@ -37,6 +37,6 @@ Whatever the reason for the continued existence of the livery companies there is
 
 
 
-Insider London continues to invite visitors to the City of London with our [Finance Tour](https://www.insider-london.co.uk/tours/london-finance-walking-tour/) and now [we are organising visits to livery companies](https://www.insider-london.co.uk/tours/in-depth-business-tour/) to help foster a deeper understanding of the role of the City in our nation’s history.
+Insider London continues to invite visitors to the City of London with our [Finance Tour](https://www.insiderlondon.com/london/educational-tours/london-finance-walking-tour/) and now [we are organising visits to livery companies](https://www.insiderlondon.com/london/company-visits/) to help foster a deeper understanding of the role of the City in our nation’s history.
 
 <iframe width="900" height="520" src="https://www.youtube.com/embed/qSBSKGxP-3E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
