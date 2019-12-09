@@ -4,7 +4,7 @@ date: 2017-02-12 21:43:00 Z
 permalink: "/blog/five-dark-moments-in-londons-history/"
 layout: post
 categories:
-  - art-and-culture
+  - Art and Culture
 ---
 
 ![Untitled design-48.png](/uploads/Untitled%20design-48.png)

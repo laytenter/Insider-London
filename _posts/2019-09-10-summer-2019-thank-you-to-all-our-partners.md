@@ -6,7 +6,7 @@ description: We are now rounding off our busiest summer yet at Insider London an
   for putting your faith in us to deliver the best programmes for your groups.
 excerpt_separator: "<!--more-->"
 categories:
-  - events
+  - Events
 ---
 
 ![IL-2019-group1-760.jpg](/uploads/IL-2019-group1-760.jpg)

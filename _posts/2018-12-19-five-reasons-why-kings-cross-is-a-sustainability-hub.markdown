@@ -5,7 +5,7 @@ permalink: "/blog/five-reasons-why-kings-cross-is-a-sustainability-hub/"
 description: Leave the car at home as you enter Central London's vibrant new pedestrianised
   zone and one of the UK's most successful regeneration projects in recent years.
 categories:
-    - regeneration
+  - Regeneration
 ---
 
 ![kings cross station](/uploads/Kings%20Cross%20Station.jpg)

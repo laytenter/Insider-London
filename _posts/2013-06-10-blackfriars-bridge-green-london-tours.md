@@ -3,7 +3,7 @@ title: 'Blackfriars Bridge: the sunniest bridge in the world?'
 date: 2013-06-10 11:59:07 Z
 permalink: "/blog/blackfriars-bridge-green-london-tours/"
 categories:
-- sustainability
+- Sustainability
 tags:
 - blackfriars
 - blackfriars bridge

@@ -8,7 +8,7 @@ description: ‘"Fast fashion” is a term used by fashion retailers to describe
 heading: Is fast fashion here to stay?
 layout: post
 categories:
-  - marketing-and-retail
+  - Marketing and Retail
 ---
 
 ![fast fashion](/uploads/adult-beautiful-clothes.jpg)

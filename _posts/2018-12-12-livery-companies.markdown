@@ -8,7 +8,7 @@ description: The oldest livery companies date back to the 13th century and the o
 heading: Livery Companies
 layout: post
 categories:
-  - finance
+  - Finance
 ---
 
 ![livery company goldsmiths hall](/uploads/goldsmiths%20hall.jpg)

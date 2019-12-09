@@ -2,10 +2,6 @@
 title: The Future of Fintech – Blockchain in Practice with IBK
 date: 2018-07-04 13:09:00 Z
 permalink: "/blog/the-future-of-fintech-blockchain-in-practice-with-ibk/"
-tags:
-- business visits
-- blockchain
-- fintech
 description: 'On the 20th June, we had the great pleasure of co-hosting a Fintech
   For The Future conference, organised for the Industrial Bank of Korea. This was
   a fast-paced day with an eye on the future. Four entrepreneurs presented their exciting
@@ -13,7 +9,7 @@ description: 'On the 20th June, we had the great pleasure of co-hosting a Fintec
   to meet the challenges of the twenty-first century. '
 heading: The Future of Fintech – Blockchain in Practice with IBK
 categories:
-  - events
+  - Events
 ---
 
 ![DgTPrqdUYAIXlIr.jpg](/uploads/DgTPrqdUYAIXlIr.jpg)

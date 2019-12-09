@@ -3,7 +3,7 @@ title: A King’s Cross Station for the 21st Century
 date: 2014-07-11 11:30:20 Z
 permalink: "/blog/kings-cross-station-kings-cross-regeneration/"
 categories:
-  - regeneration
+  - Regeneration
 ---
 
 King’s Cross station’s new, bright and spacious concourse reflects the renewal of the wider area, heralding a renaissance in how railway stations interact with their urban context. The Victorians excelled at creating a sense of arrival, leaving a legacy of grand stations that took pride in railway travel. After a period of decline, London’s railway stations are beginning to scrub up to smart 21st century standards.

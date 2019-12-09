@@ -3,7 +3,7 @@ title: 'The Gherkin Up Close: Ten Great Facts'
 date: 2015-01-30 10:30:06 Z
 permalink: "/blog/the-gherkin-up-close-ten-great-facts/"
 categories:
-- architecture
+- Architecture
 id: 24584
 author: london75
 layout: post

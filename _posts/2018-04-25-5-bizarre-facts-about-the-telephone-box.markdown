@@ -7,7 +7,7 @@ description: When Sir Giles Gilbert Scott won a design competition in 1924, he s
   later it remains close to the heart of the public and to the camera lenses of tourists!
 layout: post
 categories:
-  - art-and-culture
+  - Art and Culture
 ---
 
 ![web_960x540_Phonebox_CV_CC0_wikimedia.jpg](/uploads/web_960x540_Phonebox_CV_CC0_wikimedia.jpg)

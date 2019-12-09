@@ -7,7 +7,7 @@ description: As evidence of the climate crisis mounts, it’s clear that mankind
   when “business as usual” is no longer an option. This week, we look at five ways
   the business world is changing.
 categories:
-    - business
+    - Business
 ---
 
 ![sustainabilitysales.1500x900-760.jpg](/uploads/sustainabilitysales.1500x900-760.jpg)

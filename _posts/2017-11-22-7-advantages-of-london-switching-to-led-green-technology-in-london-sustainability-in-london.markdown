@@ -4,7 +4,7 @@ title: 7 Advantages of London Switching to LED | Green Technology in London | Su
 date: 2017-11-22 10:00:00 Z
 permalink: "/blog/7-advantages-of-switching-to-LED/"
 categories:
-- sustainability
+- Sustainability
 description: London is making the move towards going green with the use of LED street
   lights. Here's 7 reasons why that's great.
 heading: 7 Advantages of London Switching to LED

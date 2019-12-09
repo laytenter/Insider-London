@@ -3,9 +3,7 @@ title: The Opening of the Walkie Talkie Sky Garden
 date: 2015-01-09 10:30:14 Z
 permalink: "/blog/the-opening-of-the-walkie-talkie-sky-garden/"
 categories:
-- architecture
-tags:
-- modern architecture
+- Architecture
 id: 24449
 author: london75
 layout: post

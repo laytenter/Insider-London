@@ -7,7 +7,7 @@ description: Earlier this year the first statue celebrating the life of a woman 
 heading: 'Reflecting on History: 100 Years of Women''s Suffrage'
 layout: post
 categories:
-  - art-and-culture
+  - Art and Culture
 ---
 
 ![millicent-fawcett.jpg](/uploads/millicent-fawcett.jpg)

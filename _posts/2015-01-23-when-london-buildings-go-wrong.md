@@ -3,7 +3,7 @@ title: When London buildings go wrong
 date: 2015-01-23 09:25:51 Z
 permalink: "/blog/when-london-buildings-go-wrong/"
 categories:
-- architecture
+- Architecture
 tags:
 - modern architecture
 id: 24530

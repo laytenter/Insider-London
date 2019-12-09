@@ -7,7 +7,7 @@ description: In 2008 one of the least appealing junctions in London transformed 
 heading: Can a Roundabout become a City?
 layout: post
 categories:
-  - business
+  - Business
 ---
 
 ![can a roundabout become a city](/uploads/can%20a%20roundabout%20become%20a%20city%20silicon%20roundabout%20tech%20city.jpg)

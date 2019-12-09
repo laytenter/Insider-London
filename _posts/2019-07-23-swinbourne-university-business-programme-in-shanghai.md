@@ -6,7 +6,7 @@ description: 'Last week, Swinbourne University visited the rising business star 
   to provide students with first-hand insight into the Shanghai Business Ecosystem.'
 excerpt_separator: "<!--more-->"
 categories:
-  - events
+  - Events
 ---
 
 ![Students from Swinbourne University in Shanghai](/uploads/versus-gloabl-1-760.jpg)

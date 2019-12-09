@@ -3,7 +3,7 @@ title: 'The Regent&#8217;s Canal in King&#8217;s Cross: Past, Present and Future
 date: 2014-08-26 11:30:27 Z
 permalink: "/blog/the-regents-canal-in-kings-cross-past-present-and-future/"
 categories:
-  - regeneration
+  - Regeneration
 tags:
 - art
 - Coal Drops

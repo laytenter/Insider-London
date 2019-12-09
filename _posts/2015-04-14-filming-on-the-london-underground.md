@@ -3,7 +3,7 @@ title: Filming on the London Underground
 date: 2015-04-14 14:00:17 Z
 permalink: "/blog/filming-on-the-london-underground/"
 categories:
-- transport
+- Transport
 ---
 
 [<img class="aligncenter wp-image-25097 size-full" src="/wp-content/uploads/2015/04/Filming_at_Aldwych_1.jpg" alt="Filming at Aldwych Station - Photo courtesy of TfL " width="569" height="370" />](/wp-content/uploads/2015/04/Filming_at_Aldwych_1.jpg)

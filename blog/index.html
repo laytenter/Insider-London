@@ -62,7 +62,7 @@ layout: page
 {% endfor %}
 {% else %}
 {% for category in categories_list %}
-<li><a href="#{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} ({{ category[1].size }})</a></li>
+<li><a href="/blog/category/{{ category[0] | slugify: "pretty" }}/">{{ category[0] }} ({{ category[1].size }})</a></li>
 {% endfor %}
 {% endif %}
 {% assign categories_list = nil %}

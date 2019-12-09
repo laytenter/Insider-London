@@ -7,7 +7,7 @@ description: On 22nd July, Insider London welcomed an executive delegation from 
   climate with Brexit and trade tension between China & the USA.
 excerpt_separator: "<!--more-->"
 categories:
-  - events
+  - Events
 ---
 
 ![hangzhou3-760.jpg](/uploads/hangzhou3-760.jpg)

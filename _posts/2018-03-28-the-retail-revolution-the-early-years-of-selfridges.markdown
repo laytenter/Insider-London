@@ -7,7 +7,7 @@ description: For our West End Retail Design Tour, we take a look at the early ye
   of the modern shopping experience.
 layout: post
 categories:
-  - marketing-and-retail
+  - Marketing and Retail
 ---
 
 ![960x540 Selfridge.jpg](/uploads/960x540%20Selfridge.jpg)

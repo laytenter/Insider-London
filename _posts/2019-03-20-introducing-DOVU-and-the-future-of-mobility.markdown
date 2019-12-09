@@ -6,7 +6,7 @@ description: 'Recently, we had the pleasure of taking an outstanding group of st
   from the University of Indiana to visit an exciting new smart cities start-up: Dovu. '
 heading: Introducing DOVU and the Future of Mobility
 categories:
-  - events
+  - Events
 ---
 
 ![DOVU- the future of mobility](/uploads/DSC02301-DOVU.jpg)

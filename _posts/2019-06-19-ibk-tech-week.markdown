@@ -5,7 +5,7 @@ description: 'One of the highlights of London Tech Week here at Insider London w
   the return of the IBK Executive Group for our ''Fintech for the Future Workshop''. '
 layout: blog-post
 categories:
-  - events
+  - Events
 ---
 
 ![Insider London 12-6-19-43-760.jpg](/uploads/Insider%20London%2012-6-19-43-760.jpg)

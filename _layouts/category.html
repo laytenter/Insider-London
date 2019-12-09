@@ -1,0 +1,37 @@
+---
+layout: post
+---
+
+<div class="o-layout">
+  <div class="o-layout__item u-2/3@tablet u-3/4@desktop">
+
+    {% for post in site.categories[page.tag] %}
+    <article id="post-24853" class="blog-entry post-24853 post type-post status-publish format-standard hentry category-london-pubs category-london-underground-tube category-food-and-drink tag-cocktails tag-london-tube tag-london-underground tag-alternative-london tag-bars tag-drinking tag-quirky-london-tube tag-cahoots">
+      <div class="blog-entry-inner">
+        <div class="entry-title">
+          <h4>
+            <a href="{{ post.url }}" title="{{ post.title }}">
+              {% if post.heading %}
+                {{ post.heading }}
+              {% else %}
+                {{ post.title }}
+              {% endif %}
+            </a>
+          </h4>
+        </div>
+        <div class="entry-thumb">
+          <div class="entry-meta">
+            <div class="date">
+              {{ post.date | date: '%B %d, %Y' }}
+            </div>
+          </div>
+        </div>
+          {{ post.excerpt }}
+          <p><a href="{{ post.url }}">Read More [...]</a></p>
+      </div>
+    </article>
+    {% endfor %}
+</div>
+<div class="o-layout__item u-1/3@tablet u-1/4@desktop">
+
+</div>

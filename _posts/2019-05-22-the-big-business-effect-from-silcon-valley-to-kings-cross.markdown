@@ -6,7 +6,7 @@ description: It's well known that Silicon Valley plays host to huge “corporate
   – a new scale of office with an all-inclusive vibe.
 heading: 'The Big Business Effect: From Silicon Valley to Kings Cross'
 categories:
-  - regeneration
+  - Regeneration
 ---
 
 ![the big business effect](/uploads/the%20big%20business%20effect%20title.jpg)

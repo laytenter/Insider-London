@@ -8,7 +8,7 @@ description: Will shops be in trouble this festive season? In the face of high r
 heading: Are you Christmas shopping like a millenial?
 layout: post
 categories:
-  - marketing-and-retail
+  - Marketing and Retail
 ---
 
 ![christmas shopping](/uploads/christmas%20shopping.jpg)

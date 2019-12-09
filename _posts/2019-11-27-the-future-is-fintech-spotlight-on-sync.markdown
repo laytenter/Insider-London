@@ -5,7 +5,7 @@ description: As part of our spotlight series where we look at the most innovativ
   companies, we headed over to Level 39 to catch up with Ricky Lee.
 excerpt_separator: "<!--more-->"
 categories:
-  - business
+  - Business
 ---
 
 <div class="o-ratio o-ratio--16:9">

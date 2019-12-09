@@ -16,7 +16,13 @@ collections:
   uploads:
     title: Uploads
     output: true
+  category:
+    output: true
 defaults:
+- scope:
+    type: category
+  values:
+    layout: "category"
 - scope:
     path: ''
     type: authors

@@ -8,7 +8,7 @@ description: Ye Olde London Towne is believed to harbor a spookier side... but f
   here are five haunted spots you may pass on a daily basis.
 layout: post
 categories:
-  - art-and-culture
+  - Art and Culture
 ---
 
 ![01_960x540-Royal_Exchange_Panorama By Ian Muttoo CC BY-SA 2.0 via Wikimedia Commons.jpg](/uploads/01_960x540-Royal_Exchange_Panorama%20By%20Ian%20Muttoo%20CC%20BY-SA%202.0%20via%20Wikimedia%20Commons.jpg)

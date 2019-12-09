@@ -3,7 +3,7 @@ title: New London Street Artists &#8211; 616
 date: 2012-12-13 11:59:50 Z
 permalink: "/blog/new-london-street-artists-616/"
 categories:
-  - art-and-culture
+  - Art and Culture
 id: 3625
 author: london75
 layout: post

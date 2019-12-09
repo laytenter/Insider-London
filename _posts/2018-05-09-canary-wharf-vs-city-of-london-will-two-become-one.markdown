@@ -8,7 +8,7 @@ description: Canary Wharf transformed from a run-down disregarded part of London
   Wharf.
 layout: post
 categories:
-  - finance
+  - Finance
 ---
 
 ![18-05-09 Title.jpg](/uploads/18-05-09%20Title.jpg)

@@ -8,7 +8,7 @@ description: 'As Pyeonchang''s Winter Olympics draw to a close, we cast a look b
   programme.'
 layout: post
 categories:
-  - art-and-culture
+  - Art and Culture
 ---
 
 ![800x451 Banksy Javelin by Duncan Hull via Flickr.jpg](/uploads/800x451%20Banksy%20Javelin%20by%20Duncan%20Hull%20via%20Flickr.jpg) <br/>

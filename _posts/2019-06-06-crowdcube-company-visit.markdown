@@ -6,7 +6,7 @@ description: We were absolutely thrilled to take a group on our first ever visit
   Crowdcube, a British investment crowdfunding platform, established by Darren Westlake
   and Luke Lang in 2011.
 categories:
-    - events
+    - Events
 ---
 
 ![00062.00_01_36_05.Still006-760.jpg](/uploads/00062.00_01_36_05.Still006-760.jpg)

@@ -8,7 +8,7 @@ description: This summer witnessed the stunning creation of the UK's largest str
 heading: 'The UK''s Largest Street Art Mural '
 layout: post
 categories:
-  - art-and-culture
+  - Art and Culture
 ---
 
 ![A wide angle shot of the mural including  psychedelic mushrooms and futuristic robots.](/uploads/Title%20image,%20may%20need%20to%20retouch-ed7f9c.jpg)

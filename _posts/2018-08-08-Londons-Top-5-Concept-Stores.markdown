@@ -5,7 +5,7 @@ permalink: "/blog/Londons-Top-5-Concept-Stores/"
 heading: London's Top 5 Concept Stores
 layout: post
 categories:
-  - marketing-and-retail
+  - Marketing and Retail
 ---
 
 ![retail.jpg](/uploads/retail.jpg)

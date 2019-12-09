@@ -3,7 +3,7 @@ title: The Ghost Signs of London
 date: 2014-12-12 10:30:00 Z
 permalink: "/blog/the-ghost-signs-of-london/"
 categories:
-  - art-and-culture
+  - Art and Culture
 id: 23567
 author: london75
 layout: post

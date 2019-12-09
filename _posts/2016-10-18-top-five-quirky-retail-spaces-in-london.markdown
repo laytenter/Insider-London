@@ -3,7 +3,7 @@ title: Top Five Quirky Retail Spaces In London
 date: 2016-10-18 08:45:00 Z
 permalink: "/blog/top-five-quirky-retail-spaces-in-london/"
 categories:
-  - marketing-and-retail
+  - Marketing and Retail
 
 ---
 

@@ -6,7 +6,7 @@ description: Following the recent events we hosted for KOEN (Korea South-East Po
   Duncan Law, Policy & Advocacy Manager for Community Energy England.
 excerpt_separator: "<!--more-->"
 categories:
-- sustainability
+- Sustainability
 ---
 
 ![DSC02775-760.jpg](/uploads/DSC02775-760.jpg)

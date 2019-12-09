@@ -2,11 +2,9 @@
 title: BLOOMBERG LONDON
 date: 2018-08-15 11:52:00 Z
 permalink: "/blog/bloomberg-london/"
-tags:
-- architecture tour london
 heading: BLOOMBERG LONDON
 categories:
-- architecture
+- Architecture
 ---
 
 ![DSC01323.JPG](/uploads/DSC01323.JPG)

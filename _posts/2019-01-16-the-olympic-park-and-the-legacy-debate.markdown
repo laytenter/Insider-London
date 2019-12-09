@@ -6,7 +6,7 @@ description: When the UK won the right to hold the 2012 Olympics back in 2005, i
   was widely reported (both then and since) that the UK’s bid had won the day largely
   due to the focus on the legacy.
 categories:
-    - regeneration
+  - Regeneration
 ---
 
 ![london olympic park](/uploads/olympic%20park.jpg)

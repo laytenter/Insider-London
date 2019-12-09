@@ -7,7 +7,7 @@ description: The gin craze will always be remembered as a curious period in Brit
 heading: An Introduction to the Gin Craze
 layout: post
 categories:
-  - art-and-culture
+  - Art and Culture
 ---
 
 ![history of londons gin craze](/uploads/gin%20craze%20london.jpg)

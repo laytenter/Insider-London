@@ -3,7 +3,7 @@ title: Spot the Starchitect in Kings Cross
 date: 2014-10-06 09:30:07 Z
 permalink: "/blog/spot-the-starchitect-in-kings-cross/"
 categories:
-- regeneration
+- Regeneration
 ---
 
 [<img class="aligncenter wp-image-22841 size-full" src="/wp-content/uploads/2014/10/IMG_4730.jpg" alt="David Chipperfield modern and sustainable architecture" width="569" height="759" />](/wp-content/uploads/2014/10/IMG_4730.jpg)

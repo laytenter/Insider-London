@@ -3,7 +3,7 @@ title: Street Artist Spotlight &#8211; Thierry Noir
 date: 2013-04-29 11:53:57 Z
 permalink: "/blog/street-art-spotlight-thierry-noir/"
 categories:
-  - art-and-culture
+  - Art and Culture
 id: 4929
 author: london75
 layout: post

@@ -5,7 +5,7 @@ description: 22 Bishopsgate. What's going on with the tallest building in the Ci
   of London?
 excerpt_separator: "<!--more-->"
 categories:
-- architecture
+- Architecture
 ---
 
 ![Birds eye view of 22 Bishopsgate](/uploads/helterskelter-1.jpg)

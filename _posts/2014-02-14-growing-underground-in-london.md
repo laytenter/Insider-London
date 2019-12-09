@@ -3,7 +3,7 @@ title: Growing Underground in London
 date: 2014-02-14 11:00:43 Z
 permalink: "/blog/growing-underground-in-london/"
 categories:
-- sustainability
+- Sustainability
 id: 13914
 author: london75
 layout: post

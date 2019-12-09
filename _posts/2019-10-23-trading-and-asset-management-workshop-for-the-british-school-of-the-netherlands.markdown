@@ -5,7 +5,7 @@ description: A fantastic fun and practical workshop for budding businessmen and 
   which focused on the key principles of trading and asset management.
 excerpt_separator: "<!--more-->"
 categories:
-  - events
+  - Events
 ---
 
 ![Gibran Registe-Charles addressing a group of students from the Biritsh School of the Netherladns](/uploads/trading-workshop-1.jpg)

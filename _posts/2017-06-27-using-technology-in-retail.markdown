@@ -8,7 +8,7 @@ tags:
 description: The world of shopping and retail design is changing and evolving. Here
   are some things we came across.
 categories:
-  - marketing-and-retail
+  - Marketing and Retail
 ---
 
 ![Untitled design-23-795ae4.png](/uploads/Untitled%20design-23-795ae4.png)

@@ -7,7 +7,7 @@ description: It's been 10 years since one of the worst recessions in modern time
 heading: Recession - What recession?
 layout: post
 categories:
-  - finance
+  - Finance
 ---
 
 ![Recession Street.jpg](/uploads/Recession%20Street.jpg)

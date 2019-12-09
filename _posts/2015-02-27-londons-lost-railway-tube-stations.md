@@ -3,7 +3,7 @@ title: London&#8217;s Lost Railway &#038; Tube Stations
 date: 2015-02-27 10:30:00 Z
 permalink: "/blog/londons-lost-railway-tube-stations/"
 categories:
-- transport
+- Transport
 ---
 
 <img class="aligncenter size-full wp-image-24823" src="/wp-content/uploads/2015/02/6071146957_f865da969c_z.jpg" alt="6071146957_f865da969c_z" width="569" height="427" />

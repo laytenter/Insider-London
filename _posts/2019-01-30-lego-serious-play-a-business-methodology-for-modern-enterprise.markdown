@@ -7,7 +7,7 @@ description: 'Toy industry giant, LEGO, has upheld a strong ethos and company cu
   faced with numerous challenges when moving into the modern world. '
 heading: 'LEGO Serious Play – A Business Methodoloy for Modern Enterprise '
 categories:
-  - business
+  - Business
 ---
 
 ![lego serious play](/uploads/lego%20serious%20play%20title.jpg)

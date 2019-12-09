@@ -3,9 +3,7 @@ title: 10 Great Facts about the Walkie-Talkie Tower
 date: 2015-04-10 09:55:33 Z
 permalink: "/blog/10-facts-about-london-walkie-talkie-tower/"
 categories:
-- architecture
-tags:
-- modern architecture
+- Architecture
 id: 25065
 author: london75
 layout: post

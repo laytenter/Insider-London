@@ -6,7 +6,7 @@ description: Insider London had the pleasure to take a group from South Korea to
   about Kasko’s guiding principles and the technology they utilise.
 excerpt_separator: "<!--more-->"
 categories:
-  - events
+  - Events
 ---
 
 ![Our group of delegates from the NHIC before the start of the visit.](/uploads/DSC02376-760.jpg)

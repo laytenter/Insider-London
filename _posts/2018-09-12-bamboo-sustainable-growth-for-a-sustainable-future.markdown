@@ -7,7 +7,7 @@ description: The use of bamboo in construction, cuisine, medicine and materiel g
 heading: 'Bamboo: Sustainable Growth for a Sustainable Future'
 layout: post
 categories:
-- sustainability
+- Sustainability
 ---
 
 ![bambootitle.jpg](/uploads/bambootitle.jpg)

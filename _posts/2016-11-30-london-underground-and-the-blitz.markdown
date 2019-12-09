@@ -4,7 +4,7 @@ date: 2016-11-30 21:46:00 Z
 permalink: "/blog/london-underground-and-the-bliz/"
 layout: post
 categories:
-  - transport
+  - Transport
 ---
 
 ![Untitled design-14.png](/uploads/Untitled%20design-14.png)

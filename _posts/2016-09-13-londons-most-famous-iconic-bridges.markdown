@@ -3,7 +3,7 @@ title: London's most famous Iconic Bridges
 date: 2016-09-13 10:11:00 Z
 permalink: "/blog/londons-most-famous-iconic-bridges/"
 categories:
-- architecture
+- Architecture
 layout: post
 ---
 

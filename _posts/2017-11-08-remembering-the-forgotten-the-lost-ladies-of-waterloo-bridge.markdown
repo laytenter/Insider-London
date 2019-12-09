@@ -9,7 +9,7 @@ description: Legend is, there were 25,000 female construction workers working on
 heading: 'Remembering the Forgotten: The Lost Ladies of Waterloo Bridge'
 layout: post
 categories:
-  - art-and-culture
+  - Art and Culture
 ---
 
 ![web_Women_of_World_War_II_monument_1920x1080.jpg](/uploads/web_Women_of_World_War_II_monument_1920x1080.jpg)

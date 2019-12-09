@@ -7,7 +7,7 @@ description: With London's air pollution at illegal levels since 2010, there is 
 heading: Walkable London
 layout: post
 categories:
-- sustainability
+- Sustainability
 ---
 
 ![air pollution walkable london](/uploads/air%20pollution%20walkable%20london.jpg)

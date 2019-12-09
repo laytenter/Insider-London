@@ -3,7 +3,7 @@ title: 'Insider Interview: Petra Barran of KERB'
 date: 2014-06-30 12:30:25 Z
 permalink: "/blog/petra-barran-kerb-interview/"
 categories:
-  - regeneration
+  - Regeneration
 ---
 
 <p style="text-align: center;">

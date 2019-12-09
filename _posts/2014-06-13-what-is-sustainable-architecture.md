@@ -3,12 +3,7 @@ title: What is sustainable architecture?
 date: 2014-06-13 14:26:39 Z
 permalink: "/blog/what-is-sustainable-architecture/"
 categories:
-- sustainability
-tags:
-- architecture
-- green London
-- sustainable london
-- walking tours
+- Sustainability
 id: 14921
 author: london75
 layout: post

@@ -4,19 +4,7 @@ date: 2014-07-25 11:30:26 Z
 permalink: "/blog/the-house-of-illustration-kings-cross/"
 categories:
 categories:
-  - regeneration
-tags:
-- architecture
-- art
-- Design
-- Education
-- Events
-- Fairs
-- Granary Square
-- Illustration
-- Kings Cross Regeneration
-- Quentin Blake
-- Workshops
+  - Regeneration
 id: 15700
 author: london75
 layout: post

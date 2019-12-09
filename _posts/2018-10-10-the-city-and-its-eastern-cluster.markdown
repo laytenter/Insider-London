@@ -6,7 +6,7 @@ description: In terms of urban development how can an area be expanded when bord
   are clearly defined?  Answer – the only way is up.
 heading: 'The City and its Eastern Cluster '
 categories:
-- architecture
+- Architecture
 ---
 
 ![eastern cluster](/uploads/eastern-cluster_1.jpg)

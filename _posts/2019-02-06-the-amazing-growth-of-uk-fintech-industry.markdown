@@ -8,7 +8,7 @@ description: The growth of FinTech companies over the last decade has been pheno
 heading: The Amazing Growth of UK Fintech Industry
 layout: post
 categories:
-  - finance
+  - Finance
 ---
 
 ![uk fintech growth](/uploads/uk%20fintech%20growth.jpg)

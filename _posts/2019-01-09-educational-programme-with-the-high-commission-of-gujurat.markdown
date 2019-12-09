@@ -6,7 +6,7 @@ description: 'Insider London organised an inspiring 2 day programme for professo
   from Gujarat universities. '
 heading: Education Programme with the High Commission of Gujurat
 categories:
-  - events
+  - Events
 ---
 
 ![educationaltour](/uploads/kingscrossregeneration.jpg)

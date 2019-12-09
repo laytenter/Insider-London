@@ -3,7 +3,7 @@ title: Vintage London Street Signs
 date: 2014-12-01 10:30:27 Z
 permalink: "/blog/vintage-london-street-signs/"
 categories:
-  - art-and-culture 
+  - Art and Culture 
 ---
 
 <p style="text-align: center;">
