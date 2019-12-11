@@ -26,7 +26,7 @@
   transform: translate(-50%, -50%);
   // height: calc(90vh - 96px);
   overflow: auto;
-  background: #fff;
+  //background: #fff;
   // padding: $inuit-global-spacing-unit-tiny;
   text-align: center;
   width: 90%;
@@ -48,4 +48,21 @@
   border: none;
   color: white;
   z-index: 1000;
+}
+
+.modal-iframe {
+
+  width: 320px;
+  height: 180px;
+
+  @include mq($from: tablet) {
+    width: 640px;
+    height: 360px;
+  }
+
+  @include mq($from: wide) {
+    width: 960px;
+    height: 540px;
+  }
+
 }

@@ -3,22 +3,7 @@ title: 'Shoreditch Bars: A drinker&#8217;s guide'
 date: 2012-10-30 11:21:40 Z
 permalink: "/blog/shoreditch-bars-drinking-guide-london/"
 categories:
-- blog
-- East London
-- London Pubs and nights out
-tags:
-- bars
-- cocktails
-- drinking
-- East London
-- insider guide
-- pubs
-- Shoreditch
-- unusual bars
-id: 2149
-author: london75
-layout: post
-guid: https://www.insider-london.co.uk/?p=2149
+- Art and Culture
 ---
 
 <p style="text-align: justify">

@@ -18,3 +18,9 @@
     display:none;
   }
 }
+
+.u-visible-until-tablet {
+  @include mq($from: tablet) {
+    display:none;
+  }
+}

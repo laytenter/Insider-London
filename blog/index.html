@@ -1,5 +1,5 @@
 ---
-title: Blog - Insider London
+title: News from Insider London
 description: Insider London provides alternative walking tours, eductional tours and
   in-depth business visits. Read our blog for great historical or educational articles!
 layout: page
@@ -8,10 +8,9 @@ layout: page
 <div class="o-layout">
   <div class="o-layout__item u-2/3@tablet u-3/4@desktop">
     <!-- This loops through the paginated posts -->
-    {% assign posts = site.posts | where: "categories","events" %}
     {% assign posts = site.posts %}
-    {% for post in posts %}
-    <article id="post-24853" class="blog-entry post-24853 post type-post status-publish format-standard hentry category-london-pubs category-london-underground-tube category-food-and-drink tag-cocktails tag-london-tube tag-london-underground tag-alternative-london tag-bars tag-drinking tag-quirky-london-tube tag-cahoots">
+    {% for post in paginator.posts %}
+        <article id="post-24853" class="blog-entry post-24853 post type-post status-publish format-standard hentry category-london-pubs category-london-underground-tube category-food-and-drink tag-cocktails tag-london-tube tag-london-underground tag-alternative-london tag-bars tag-drinking tag-quirky-london-tube tag-cahoots">
       <div class="blog-entry-inner">
         <div class="entry-title">
           <h4>

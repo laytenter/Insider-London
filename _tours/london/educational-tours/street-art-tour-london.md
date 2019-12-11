@@ -18,7 +18,7 @@ gallery:
   alt: Shoreditch-Street-Art-Walking-Tour-Student-Corporate-Delegates
 - image: "/assets/images/tours/Street Art/Picture-3---Stik-Shoreditch-Street-Art-Walking-Tour-Student-Corporate.jpg"
   alt: Stik-Shoreditch-Street-Art-Walking-Tour-Student-Corporate
-embed: https://www.youtube.com/embed/K2X8Pjrwuxc
+embed: https://player.vimeo.com/video/378260945
 featured: true
 tour-id: 29326
 trekksoft-tour-id: 50188
@@ -39,10 +39,9 @@ related:
 
 ## Shoreditch Street Art
 
-{% assign gallery = page.gallery %}
-{% if gallery.size > 1 %}
-{% include slideshow.html %}
-{% endif %}
+<div class="o-ratio o-ratio--16:9 u-margin-bottom">
+  <iframe src="https://player.vimeo.com/video/378260945" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
 
 Come and **explore London’s most colourful and vibrant district** with Insider London. Our guides will show you the most stunning pieces in London’s East End, created by world-famous names as well as local underground artists.
 

@@ -31,9 +31,6 @@ gallery:
 - image: "/uploads/verb%20visit.jpg"
   caption: British students discovering digital marketing at Verb
   alt: British students discovering digital marketing at Verb
-tour-id: 29344
-author: london75
-guid: "/?post_type=product&#038;p=29344"
 show_book: false
 thumb: web_588x378%2017-06-15_visit%20Anthony%20Jiamei,Jonas%20University%20of%20Hong%20Kong.jpg
 banner: 960x540 17-06-15_visit Anthony Jiamei, Jonas University of Hong Kong.jpg
@@ -50,6 +47,10 @@ nav: london
 For real business insight out of the office or classroom then look no further than our [Company visits](#company-visits) and [Workshops](#workshops)
 
 ## Company Visits
+
+<div class="o-ratio o-ratio--16:9 u-margin-bottom">
+  <iframe src="https://player.vimeo.com/video/378264280" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
 
 Our company visits showcase some of the world’s most powerful companies as well as the capital’s most innovative entrepreneurs, including:
 

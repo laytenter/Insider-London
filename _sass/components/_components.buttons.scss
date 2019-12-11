@@ -27,14 +27,21 @@
 }
 
 
-
+.c-btn--fixed {
+  position: fixed;
+  z-index: 1001;
+  left:0;
+  right: 0;
+  bottom: 0;
+  border-radius: 0;
+}
 
 
 /* Style variants
    ========================================================================== */
 
 .c-btn--primary {
-  background-color: #4a8ec2;
+  background-color: $color-red;
 
   &,
   &:hover,
@@ -46,7 +53,7 @@
 
   &:hover,
   &:focus {
-    background-color: #3774a2;
+    background-color: darken($color-red,25%);
   }
 
 }

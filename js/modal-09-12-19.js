@@ -6,18 +6,15 @@
     var iframe = document.querySelector('iframe');
     var player = new Vimeo.Player(iframe);
     var modal = document.querySelector('.modal');
+
     //const media = document.querySelector('video');
 
     player.on('play', function() {
-        console.log('played the video!');
     });
     player.on('pause', function() {
-        console.log('player paused!');
     });
     player.on('ended', function() {
-        console.log('player ended!');
-        toggleModal();
-
+      toggleModal();
     });
     }
 
@@ -34,7 +31,6 @@
 
   function toggleModal() {
     var currentState = modal.style.display;
-    console.log(currentState);
 
     // If modal is visible, hide it. Else, display it.
     if (currentState === 'none') {
