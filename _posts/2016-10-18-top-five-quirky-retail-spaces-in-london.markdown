@@ -4,7 +4,6 @@ date: 2016-10-18 08:45:00 Z
 permalink: "/blog/top-five-quirky-retail-spaces-in-london/"
 categories:
   - Marketing and Retail
-
 ---
 
 London is home to quirky fashion, unique individuals and a number of distinct retail spaces. From high-tech futuristic spaces to repurposed and renovated pop-up malls, London has it all. And Insider London is here to round up the top five quirky retail spaces in London for you all.

@@ -1,5 +1,5 @@
 ---
 tag: Finance
 title: Finance
-permalink: "/blog/category/finance/"
+permalink: "/blog/category/marketing-and-retail/"
 ---
