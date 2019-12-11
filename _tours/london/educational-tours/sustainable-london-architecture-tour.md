@@ -1,5 +1,6 @@
 ---
-title: Sustainability
+title: Sustainable Architecture Tour
+heading: Sustainability
 date: '2013-01-01 10:50:00 +0000'
 categories:
 - educational-tours

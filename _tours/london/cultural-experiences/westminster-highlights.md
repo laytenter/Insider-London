@@ -1,6 +1,6 @@
 ---
 title: Westminster Highlights
-heading: Famous Ghosts and Infamous Murders Tour
+heading: Westminster Highlights
 layout: programme
 nav: london
 description: null

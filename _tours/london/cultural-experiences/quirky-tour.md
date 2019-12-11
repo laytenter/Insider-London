@@ -1,6 +1,6 @@
 ---
-title: Quirky Tour
-heading: Quirky Tour | Alternative London Tours | Quirky Tours
+heading: Quirky Tour
+title: Quirky Tour Alternative London Tours Quirky Tours
 layout: programme
 nav: london
 description: Join us on a Quirky Tour and discover an unusual and often unseen side

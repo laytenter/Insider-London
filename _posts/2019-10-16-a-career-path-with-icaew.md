@@ -9,7 +9,7 @@ categories:
     - Business
 ---
 
-<div class="embed-responsive embed-responsive-16by9 palm-mb lap-mb desk-mb">
+<div class="o-ratio o-ratio-16:9 u-margin-bottom">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/pea7geyTX0M" style="border:0" frameborder="0"></iframe>
 </div>
 

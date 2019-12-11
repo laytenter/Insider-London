@@ -1,5 +1,5 @@
 ---
-tag: Architecture
+tag: Finance
 title: Architecture
-permalink: "/blog/category/architecture/"
+permalink: "/blog/category/finance/"
 ---

@@ -1,6 +1,6 @@
 ---
-title: History of Drinking & Pubs
-heading: History of Drinking & Pubs Tours
+title: History of Drinking & Pub Tours
+heading: History of Drinking & Pubs
 layout: programme
 nav: london
 description: Learn the history of drinking and pubs and raise a glass to this city’s

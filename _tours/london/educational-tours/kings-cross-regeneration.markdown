@@ -1,10 +1,10 @@
 ---
-title: Regeneration
+title: Kings Cross Regeneration & Innovation Tour
 categories:
 - educational-tours
 tags:
 - educational
-heading: Kings Cross Regeneration & Innovation Tour
+heading: Regeneration
 description: Join us on this fascinating Kings Cross Tour, and discover how the area
   made its remarkable transitions.
 gallery1:

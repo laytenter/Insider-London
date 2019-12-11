@@ -1,12 +1,12 @@
 ---
-title: Company visits and workshops
+title: Company Visits and Workshops London
 date: 2015-08-28 10:51:00 Z
 permalink: "/london/company-visits/"
 tags:
 - educational
 - bvisits
 - all
-heading: London
+heading: Company visits and workshops
 description: Business Visits London | Learn the secrets behind the capital’s most
   successful companies
 gallery:
@@ -40,11 +40,13 @@ related:
 - 29347
 - 29332
 - 29334
-layout: landing
+layout: programme
 nav: london
 ---
 
-For real business insight out of the office or classroom then look no further than our [Company visits](#company-visits) and [Workshops](#workshops)
+<a class="c-btn c-btn--primary c-btn--red" href="/assets/brochures/CompanyVisitsBrochure.pdf">View Brochure</a>
+
+For real business insight out of the office or classroom then look no further than our [Company visits](#company-visits) and [Workshops](#workshops).
 
 ## Company Visits
 

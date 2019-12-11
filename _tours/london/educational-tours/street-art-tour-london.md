@@ -1,5 +1,5 @@
 ---
-title: Creative
+title: Shoreditch Street Art Tour London
 date: '2005-01-01 10:39:00 +0000'
 categories:
 - educational-tours
@@ -7,7 +7,7 @@ tags:
 - historical
 - all
 - streetart
-heading: Street Art Tour London
+heading: Creative
 description: London has some of the best street art in the world. Discover the vibrant
   Shoreditch street art scene and see famous pieces from the likes of Banksy and Space
   Invader on our Street Art Tour!

@@ -1,5 +1,5 @@
 ---
-title: Architecture
+title: London Modern Architecture Tour
 date: '2003-01-01 10:46:00 +0000'
 categories:
 - educational-tours
@@ -7,7 +7,7 @@ tags:
 - educational
 - MA
 - all
-heading: Modern Architecture Tour
+heading: Architecture
 description: The soaring skyscrapers that puncture London’s skyline are architectural
   wonders of London. Join our architecture tour London at insider-london.co.uk.
 gallery:

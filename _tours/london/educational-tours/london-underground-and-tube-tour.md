@@ -1,5 +1,5 @@
 ---
-title: Transport
+title: London Underground Tours Tube Tour London
 date: '2001-01-01 17:41:00 +0000'
 categories:
 - educational-tours
@@ -7,7 +7,7 @@ tags:
 - historical
 - all
 - tube
-heading: London Underground and Tube Tour
+heading: Transport
 description: Immerse yourself in 150 years of transport history while travelling through
   the iconic London underground. Discover how and why the underground was created
   and much more!

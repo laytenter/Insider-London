@@ -1,6 +1,6 @@
 ---
-title: Ghost Tour
-heading: Famous Ghosts and Infamous Murders Tour
+heading: Ghost Tour
+title: Famous Ghosts and Infamous Murders Tour
 layout: programme
 nav: london
 description: Ghost tour London by Insider London discovering the murder mysteries

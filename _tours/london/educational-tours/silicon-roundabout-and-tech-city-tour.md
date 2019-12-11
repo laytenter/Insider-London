@@ -1,5 +1,5 @@
 ---
-title: Business
+title: Silicon Roundabout and Tech City Tour
 date: '2010-01-01 10:55:00 +0000'
 categories:
 - educational-tours
@@ -7,7 +7,7 @@ tags:
 - educational
 - SR
 - all
-heading: Silicon Roundabout and Tech City Tour
+heading: Business
 description: London Tech City Tour | Visit the world’s third biggest start-up tech
   cluster | Silicon Roundabout Tour
 gallery:

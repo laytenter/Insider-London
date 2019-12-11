@@ -1,5 +1,5 @@
 ---
-title: Marketing & Retail
+title: Retail Design Tour London
 date: '2012-01-01 10:44:00 +0000'
 categories:
 - educational-tours
@@ -7,7 +7,7 @@ tags:
 - all
 - retail
 - educational
-heading: Retail Design Tour
+heading: Marketing & Retail
 description: The original London Retail Tour! Find design inspiration for the most
   luxurious retail design at insider-london.co.uk.
 gallery1:
