@@ -3,12 +3,7 @@ title: 10 Ideas for a Greener London
 date: 2015-06-25 11:57:28 Z
 permalink: "/blog/10-ideas-for-a-greener-london/"
 categories:
-- blog
-- Uncategorised
-id: 27285
-author: london75
-layout: post
-guid: https://www.insider-london.co.uk/?p=27285
+  - Sustainability
 ---
 
 By Angela Lord

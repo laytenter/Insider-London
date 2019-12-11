@@ -3,15 +3,7 @@ title: Inside five of London’s hidden rooftop gardens
 date: 2014-06-11 10:30:03 Z
 permalink: "/blog/london-rooftop-gardens/"
 categories:
-- blog
-- Green London
-- Modern Architecture
-tags:
-- architecture
-- green London
-- London walking tours
-- skyscrapers
-- sustainable london
+  - Sustainability
 id: 14903
 author: london75
 layout: post
