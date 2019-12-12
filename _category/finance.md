@@ -1,5 +1,5 @@
 ---
 tag: Finance
-title: Architecture
+title: Finance
 permalink: "/blog/category/finance/"
 ---
