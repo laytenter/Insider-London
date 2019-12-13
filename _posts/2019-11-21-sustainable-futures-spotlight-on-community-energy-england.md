@@ -47,4 +47,4 @@ The Future - Duncan Law
 
 To find out more about government policy, community energy systems, community participation and sustainable future pathways, get in touch via contact@insiderlondon.com to book your in-depth company visit (link). We have the privilege to partner with CEE as well as other pioneering sustainable organisations in consultancy, biotechnology and more!
 
-Looking to find out more? Check out our [Sustainable Architecture Tour](/london/educational-tours/sustainable-london-artchitecture-tour/).
+Looking to find out more? Check out our [Sustainable Architecture Tour](/london/educational-tours/sustainable-london-architecture-tour/).

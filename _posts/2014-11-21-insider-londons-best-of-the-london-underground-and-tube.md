@@ -30,7 +30,7 @@ Okay, we hold our hands up &#8211; we're real tube geeks at Insider London, as a
 
 <img src="/wp-content/uploads/2014/02/Tube-Facts-Infographic-Thumb.jpg" alt="Tube Facts Infographic Thumb" />
 
-One quick way to get your head around the stats of the Underground is ourTube facts infographic</a> (just click on the image to see a large version). Along a similar vein, although not strictly about tubes, are <a href="/london-the-information-project-infographics-that-will-change-the-way-you-view-the-city/" target="_blank">these maps and infographics we shared from The Information Capital book</a>.
+One quick way to get your head around the stats of the Underground is ourTube facts infographic</a> (just click on the image to see a large version). Along a similar vein, although not strictly about tubes, are <a href="/blog/london-the-information-project-infographics-that-will-change-the-way-you-view-the-city/" target="_blank">these maps and infographics we shared from The Information Capital book</a>.
 
 <img class="aligncenter wp-image-7670 size-full" src="/wp-content/uploads/2013/09/paulmiddlewick.png" alt="paulmiddlewick" width="569" height="412" />
 

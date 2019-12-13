@@ -26,7 +26,7 @@ In 1690 William of Orange relaxed the legislation on distilling and drinking gin
 
 
 
-Londoners, (particularly the poor of London) began to drink gin in large quantities. The slogan above the gin shop in [Hogarth's Gin Lane](“https://www.bl.uk/collection-items/hogarths-grim-depiction-of-a-society-addicted-to-gin-1768”) was “drunk for a penny, dead drunk for twopence, clean straw for nothing’ (clean straw meaning that you could pass out for free on their hay bales). Gin was drunk in quarts (quarter pints), and a quart would only set you back by one penny. Granted, historians argue that gin was likely to be a bit weaker than today's stills, but safer it was not. [Additives included turpentine and sulphuric acid](https://www.diffordsguide.com/encyclopedia/1058/bws/history-of-gin-1728-1794-londons-gin-craze).  
+Londoners, (particularly the poor of London) began to drink gin in large quantities. The slogan above the gin shop in [Hogarth's Gin Lane](http://www.bl.uk/collection-items/hogarths-grim-depiction-of-a-society-addicted-to-gin-1768) was 'drunk for a penny, dead drunk for twopence, clean straw for nothing' (clean straw meaning that you could pass out for free on their hay bales). Gin was drunk in quarts (quarter pints), and a quart would only set you back by one penny. Granted, historians argue that gin was likely to be a bit weaker than today's stills, but safer it was not. [Additives included turpentine and sulphuric acid](https://www.diffordsguide.com/encyclopedia/1058/bws/history-of-gin-1728-1794-londons-gin-craze).  
 
 
 

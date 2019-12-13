@@ -24,7 +24,7 @@ guid: https://www.insiderlondon.com/?p=4045
 
 I was on holiday in Mozambique and then came to Cape Town to besiege the people of the mountains with mushrooms. I’ve done four installations in Cape Town.
 
-<a href="/london-street-art-tours-christiaan-nage/" rel="attachment wp-att-4049"><img class="alignnone size-full wp-image-4049" alt="Street Art, Christiaan Nagel, Street Art Walking Tours, Insider London" src="/wp-content/uploads/2013/01/Office-Hours-redux.jpg" width="569" height="379" /></a>
+<a href="/blog/london-street-art-tours-christiaan-nage/" rel="attachment wp-att-4049"><img class="alignnone size-full wp-image-4049" alt="Street Art, Christiaan Nagel, Street Art Walking Tours, Insider London" src="/wp-content/uploads/2013/01/Office-Hours-redux.jpg" width="569" height="379" /></a>
 
 **What aspect do you enjoy most – the creating of the mushrooms or the knowledge that more people will be seeing your work? Or even that people may not see your work for weeks/months and suddenly just go ‘oh, how long’s that been there’?**
 

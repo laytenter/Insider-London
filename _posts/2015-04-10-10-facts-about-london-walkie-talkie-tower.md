@@ -118,7 +118,7 @@ The Walkie Talkie was meant to have been finished by 2011, but like many other p
   <em>On sunny days like above 20 Fenchurch Street gave off a &#8220;death ray&#8221; solar glare. Image Credit: <a href="https://www.flickr.com/photos/simon__syon/8810785284">Simon & His Camera</a></em>
 </p>
 
-In a now infamous episode we dub “scorchgate”, a particularly sunny summers day saw solar glare from the building melt part of a Jaguar, causing the tower to become a laughing stock and for Londoners in typical irreverent fashion to flock to the Walkie Scorchie’s sun spot to catch some rays and fry eggs. Two things that go together like a house on fire! (For more architectural mishaps, check out our post on <a href="/when-london-buildings-go-wrong/" target="_blank">what happens when London buildings go wrong</a>.)
+In a now infamous episode we dub “scorchgate”, a particularly sunny summers day saw solar glare from the building melt part of a Jaguar, causing the tower to become a laughing stock and for Londoners in typical irreverent fashion to flock to the Walkie Scorchie’s sun spot to catch some rays and fry eggs. Two things that go together like a house on fire! (For more architectural mishaps, check out our post on <a href="/blog/when-london-buildings-go-wrong/" target="_blank">what happens when London buildings go wrong</a>.)
 
 <p style="text-align: center;">
   <strong>8. Following “Scorchgate” Emergency Changes Were Implemented to the Design</strong>
@@ -158,4 +158,4 @@ After seeing his work shortened, simplified and rejigged last minute-who could f
 
 The building has an occupational density of 1 person per 8 sq metres. The recommended density for offices is 1 person per 10 sq metre, which means that the Walkie talkie really is the building with more up top!
 
-Want to know more about London&#8217;s tall towers? We&#8217;ve got more facts about <a href="/the-gherkin-up-close-ten-great-facts/" target="_blank">The Gherkin</a> and <a href="/10-great-facts-about-tower-42/" target="_blank">Tower 42</a>. And for even more, come and join us on one of our <a href="https://www.insiderlondon.com/london/educational-tours/modern-architecture-tour/#modern-architecture" target="_blank">Modern Architecture walking tours</a>.
+Want to know more about London&#8217;s tall towers? We&#8217;ve got more facts about <a href="/blog/the-gherkin-up-close-ten-great-facts/" target="_blank">The Gherkin</a> and <a href="/blog/10-great-facts-about-tower-42/" target="_blank">Tower 42</a>. And for even more, come and join us on one of our <a href="https://www.insiderlondon.com/london/educational-tours/modern-architecture-tour/#modern-architecture" target="_blank">Modern Architecture walking tours</a>.

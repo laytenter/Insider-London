@@ -32,7 +32,7 @@ related:
 ---
 
 
-London is often voted the world’s best city to do business and we invite you to the capital’s thriving business centres. In addition to our [Finance Tours](/london/educational-tours/finance) and [Marketing & Retail Tours](/london/educational-tours/retail-design), our popular Silicon Roundabout Tour goes straight to the heart of the Tech City eco-system.
+London is often voted the world’s best city to do business and we invite you to the capital’s thriving business centres. In addition to our [Finance Tours](/london/educational-tours/london-finance-walking-tour/) and [Marketing & Retail Tours](/london/educational-tours/retail-design), our popular Silicon Roundabout Tour goes straight to the heart of the Tech City eco-system.
 
 ## Silicon Roundabout/Tech City Walking Tour
 

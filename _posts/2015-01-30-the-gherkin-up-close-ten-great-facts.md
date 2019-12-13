@@ -87,7 +87,7 @@ The largest circumference of the Gherkin is only two metres less than the buildi
   <em>It&#8217;s a Long Way Down. Image Credit: <a href="http://www.huftonandcrow.com/projects/gallery/the-gherkin/">Hufton and Crow</a></em>
 </p>
 
-In April 2005 a large window popped out of the skyscraper and fell 28 storeys to the ground, prompting rigorous checks and questioning the sustainable credentials of the tower. A right pickle. (For more skyscraper mishaps, <a href="/when-london-buildings-go-wrong/" target="_blank">click here</a>)
+In April 2005 a large window popped out of the skyscraper and fell 28 storeys to the ground, prompting rigorous checks and questioning the sustainable credentials of the tower. A right pickle. (For more skyscraper mishaps, <a href="/blog/when-london-buildings-go-wrong/" target="_blank">click here</a>)
 
 &nbsp;
 

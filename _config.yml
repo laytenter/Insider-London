@@ -2,10 +2,6 @@
 title: Insider London
 timezone: UTC
 collections:
-  authors:
-    title: Authors
-    output: true
-    permalink: "/authors/:path/"
   posts:
     title: Posts
     output: true
@@ -91,6 +87,7 @@ exclude:
 - node_modules
 - bower_components
 - wp-content
+- build
 - ".htaccess"
 - package-lock.json
 - Gemfile.lock
@@ -99,6 +96,7 @@ exclude:
 - gulpfile.js
 - images
 - imgs
+- assets/video
 future: true
 imagepath: "/assets/images/"
 compress_html:

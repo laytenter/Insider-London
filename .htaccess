@@ -1,40 +1,38 @@
-# Legacy IL 301 redirects
-
-redirect 301 /tours/ /london/educational-tours/
-redirect 301 /tours/educational-tours/ /london/educational-tours/
-redirect 301 /about-us/ /what-we-do/
-redirect 301 /our-clients-&-testimonials/ /what-we-do/
-redirect 301 /tours/london-underground-and-tube-tour/ /london/educational-tours/london-underground-and-tube-tour/
-redirect 301 /tours/london-finance-walking-tour/ /london/educational-tours/modern-architecture-tour/
-redirect 301 /tours/modern-architecture-tour/ /london/educational-tours/modern-architecture-tour/
-redirect 301 /tours/silicon-roundabout-and-tech-city-tour/ /london/educational-tours/silicon-roundabout-and-tech-city-tour/
-redirect 301 /tours/canary-wharf-finance-tour/ /london/educational-tours/london-finance-walking-tour/
-redirect 301 /tours/famous-ghosts-and-infamous-murders/ /london/cultural-experiences/famous-ghosts-and-infamous-murders/
-redirect 301 /tours/sustainable-london-architecture-tour/ /london/educational-tours/sustainable-london-architecture-tour/
-redirect 301 /tours/cutting-edge-green-tour/ /london/educational-tours/sustainable-london-architecture-tour/
-redirect 301 /tours/retail-design/ /london/educational-tours/retail-design/
-redirect 301 /tours/ /london/educational-tours/
-redirect 301 /tours/historical-walking-tours/ /london/cultural-experiences/
-redirect 301 /tours/quirky-tour/ /london/cultural-experiences/quirky-tour/
-redirect 301 /tours/kings-cross-regeneration/ /london/educational-tours/kings-cross-regeneration/
-redirect 301 /tours/the-death-and-debauchery-tour/ /london/cultural-experiences/famous-ghosts-and-infamous-murders/
-redirect 301 /tours/street-art-tour-london/ /london/educational-tours/street-art-tour-london/
-redirect 301 /tours/history-of-drinking-and-pubs/ /london/cultural-experiences/history-of-drinking-and-pubs/
-redirect 301 /tours/east-end-retail-design-tour/ /london/educational-tours/retail-design/
-redirect 301 /tours/educational-walking-tours/ /london/educational-tours/
-redirect 301 /tours/brixton-retail-design-tour/ /london/educational-tours/retail-design/
-redirect 301 /tours/olympic-park-tour/ /london/educational-tours/kings-cross-regeneration/
-redirect 301 /tours/european-programme/ /europe/
-redirect 301 /in-depth-business-visits/ /london/company-visits/
-redirect 301 /educational-tours/ /london/educational-tours/
-
-# End blog redirects
+# End blog Redirects
 
 <IfModule mod_rewrite.c>
 
   RewriteEngine On
 
-  #-----------------redirect to https-----------------
+  RewriteEngine On
+
+  RewriteRule ^tours/cutting-edge-green-tour/ /london/educational-tours/sustainable-london-architecture-tour/ [END,R=301]
+  RewriteRule ^tours/the-death-and-debauchery-tour/ /london/cultural-experiences/famous-ghosts-and-infamous-murders/ [END,R=301]
+  RewriteRule ^tours/canary-wharf-finance-tour/ /london/educational-tours/london-finance-walking-tour/ [END,R=301]
+  RewriteRule ^tours/educational-walking-tours/ /london/educational-tours/ [END,R=301]
+  RewriteRule ^tours/olympic-park-tour/$ /london/educational-tours/kings-cross-regeneration/ [END,R=301]
+  RewriteRule ^tours/$ /london/educational-tours/ [END,R=301]
+  RewriteRule ^tours/european-programme/ /europe/ [END,R=301]
+  RewriteRule ^in-depth-business-visits/ /london/company-visits/ [END,R=301]
+  RewriteRule ^tours/educational-tours/ /london/educational-tours/ [END,R=301]
+  RewriteRule ^about-us/ /what-we-do/ [END,R=301]
+  RewriteRule ^our-clients-&-testimonials/ /what-we-do/ [END,R=301]
+  RewriteRule ^tours/london-underground-and-tube-tour/ /london/educational-tours/london-underground-and-tube-tour/ [END,R=301]
+  RewriteRule ^tours/london-finance-walking-tour/ /london/educational-tours/london-finance-walking-tour/ [END,R=301]
+  RewriteRule ^tours/modern-architecture-tour/ /london/educational-tours/modern-architecture-tour/ [END,R=301]
+  RewriteRule ^tours/silicon-roundabout-and-tech-city-tour/ /london/educational-tours/silicon-roundabout-and-tech-city-tour/ [END,R=301]
+  RewriteRule ^tours/famous-ghosts-and-infamous-murders/ /london/cultural-experiences/famous-ghosts-and-infamous-murders/ [END,R=301]
+  RewriteRule ^tours/sustainable-london-architecture-tour/ /london/educational-tours/sustainable-london-architecture-tour/ [END,R=301]
+  RewriteRule ^tours/retail-design/ /london/educational-tours/retail-design/ [END,R=301]
+  RewriteRule ^tours/historical-walking-tours/ /london/cultural-experiences/ [END,R=301]
+  RewriteRule ^tours/quirky-tour/ /london/cultural-experiences/quirky-tour/ [END,R=301]
+  RewriteRule ^tours/kings-cross-regeneration/ /london/educational-tours/kings-cross-regeneration/ [END,R=301]
+  RewriteRule ^tours/street-art-tour-london/ /london/educational-tours/street-art-tour-london/ [END,R=301]
+  RewriteRule ^tours/history-of-drinking-and-pubs/ /london/cultural-experiences/history-of-drinking-and-pubs/ [END,R=301]
+  RewriteRule ^tours/east-end-retail-design-tour/ /london/educational-tours/retail-design/ [END,R=301]
+  RewriteRule ^tours/brixton-retail-design-tour/ /london/educational-tours/retail-design/ [END,R=301]
+
+  #-----------------Redirect to https-----------------
   RewriteCond %{HTTPS} on
   RewriteCond %{HTTP_HOST} ^insiderlondon.com [NC]
   RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
