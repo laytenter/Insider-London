@@ -1,6 +1,6 @@
 ---
-date: 2019-11-27 09:13:00 Z
-title: Interview with Stephanie Rogers of Entocycle
+date: 2019-12-13 09:13:00 Z
+title: Spotlight on Entocycle - Biotechnology of the Future
 excerpt_separator: "<!--more-->"
 categories:
   - Business

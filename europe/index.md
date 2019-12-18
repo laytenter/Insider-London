@@ -1,6 +1,7 @@
 ---
 heading: Europe
-title: European Programme
+title: European Educational Programme
+description: For insight into the latest innovation, venture to Europe – a varied continent comprising many languages, cultures and over 50 sovereign states. Europe is home to several of the world’s biggest economic centres.
 layout: landing
 nav: europe
 background: europe.jpg

@@ -71,7 +71,7 @@ Along the pathway many interesting pieces of sustainable architecture can be fou
   <em>Kings Cross pit stop to fill up your tank with food. Image Credit: <a href="https://www.flickr.com/photos/mattkieffer/7622800628/">Matt Kieffer</a></em>
 </p>
 
-Leafy [Camley Street Natural Park](/urban-bees-interview/) is sandwiched between the Regents Canal and the no mans land that is the back end of St Pancras International. It is surprisingly expansive for a park so secluded. Its newest addition is Viewpoint, a floating platform designed by young Finnish architects. Modelled on the rocky islands found in Finland, the ’islet’ seating provides a suitable retreat from the hubbub of King&#8217;s Cross &#8211; depending on whether you can find the blimming thing that is!
+Leafy [Camley Street Natural Park](/blog/urban-bees-interview/) is sandwiched between the Regents Canal and the no mans land that is the back end of St Pancras International. It is surprisingly expansive for a park so secluded. Its newest addition is Viewpoint, a floating platform designed by young Finnish architects. Modelled on the rocky islands found in Finland, the ’islet’ seating provides a suitable retreat from the hubbub of King&#8217;s Cross &#8211; depending on whether you can find the blimming thing that is!
 
 <p style="text-align: center;">
   <a href="/wp-content/uploads/2014/08/shelter.jpg"><img class="alignnone wp-image-17027 size-full" src="/wp-content/uploads/2014/08/shelter.jpg" alt="Camley Street Natural Park Alternative London walking tours" width="569" height="427" /></a>

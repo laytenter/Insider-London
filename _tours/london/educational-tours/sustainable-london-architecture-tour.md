@@ -8,8 +8,7 @@ tags:
 - educational
 - susarch
 - all
-description: Join Insider London on London's only sustainable architecture tour and
-  discover London's greenest skyscrapers
+description: Join Insider London on London's only sustainable architecture tour and discover London's greenest skyscrapers
 gallery1:
 - image: "/assets/images/tours/CEGT/Picture-1---Central-St-Giles-Sustainability-Eco-Cutting-Edge-Green-Walking-Tour-Student-Corporate.jpg"
   alt: Central-St-Giles-Sustainability-Eco-Cutting-Edge-Green-Walking-Tour-Student-Corporate

@@ -38,7 +38,7 @@ One quick way to get your head around the stats of the Underground is ourTube fa
   <em>Paul Middlewick's <a href="http://www.animalsontheunderground.com/" target="_blank">Animals on the Underground</a></em>
 </p>
 
-We also compiled <a href="/quirky-tube-maps/" target="_blank">a list of our favourite quirky tube maps</a>, from house prices to Lego, via Super Mario. And an Elephant of course!
+We also compiled <a href="/blog/quirky-tube-maps/" target="_blank">a list of our favourite quirky tube maps</a>, from house prices to Lego, via Super Mario. And an Elephant of course!
 
 <img class="aligncenter wp-image-23460 size-full" src="/wp-content/uploads/2014/11/Fletcher-Priest-architects.jpg" alt="Fletcher Priest architects mail rail mushroom farm" width="569" height="420" />
 

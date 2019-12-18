@@ -1,5 +1,7 @@
 ---
-title: Berlin
+heading: Berlin
+title: Company Visits Berlin
+description: A centre for media, science, and research, the German capital maintains its status as the technology hub for Europe. We present Berlin in all its glory with our exclusive range of company visits.
 layout: landing
 nav: europe
 gallery:

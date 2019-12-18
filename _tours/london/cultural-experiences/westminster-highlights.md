@@ -1,9 +1,9 @@
 ---
-title: Westminster Highlights
+title: Westminster Highlights Sightseeing Tour
 heading: Westminster Highlights
 layout: programme
 nav: london
-description: null
+description: At Insider London we offer a variety of alternative guided tours of London ideal for tourists, locals, students, school trips, private parties and corporate events.
 gallery:
 - image: /assets/images/tours/Westminster Highlights/Picture-1---Buckingham-Palace-Westminster-Highlights-Sightseeing-Walking-Tour-Student-Corportate-Group.jpg
   alt: Buckingham-Palace-Westminster-Highlights-Sightseeing-Walking-Tour-Student-Corportate-Group

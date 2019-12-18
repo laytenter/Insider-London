@@ -1,12 +1,11 @@
 ---
 title: Kings Cross Regeneration & Innovation Tour
+heading: Regeneration
 categories:
 - educational-tours
 tags:
 - educational
-heading: Regeneration
-description: Join us on this fascinating Kings Cross Tour, and discover how the area
-  made its remarkable transitions.
+description: Join us on this fascinating Kings Cross Tour, and discover how the area made its remarkable transitions.
 gallery1:
   - image: /assets/images/tours/Kings Cross/Picture-1---St-Pancras-Renaissance-Kings-Cross-Regeneration-Innovation-Walking-Tour-Student-Corporate.jpg
     alt:

@@ -8,9 +8,7 @@ tags:
 - all
 - streetart
 heading: Creative
-description: London has some of the best street art in the world. Discover the vibrant
-  Shoreditch street art scene and see famous pieces from the likes of Banksy and Space
-  Invader on our Street Art Tour!
+description: London has some of the best street art in the world. Discover the vibrant Shoreditch street art scene and see famous pieces from the likes of Banksy and Space Invader on our Street Art Tour!
 gallery:
 - image: "/assets/images/tours/Street Art/Picture-1---Mr-Cenz-Shoreditch-Street-Art-Walking-Tour-Student-Corporate.jpg"
   alt: Mr-Cenz-Shoreditch-Street-Art-Walking-Tour-Student-Corporate

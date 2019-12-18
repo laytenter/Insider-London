@@ -1,10 +1,9 @@
 ---
 heading: Ghost Tour
-title: Famous Ghosts and Infamous Murders Tour
+title: London Ghost Tour
 layout: programme
 nav: london
-description: Ghost tour London by Insider London discovering the murder mysteries
-  that gripped Londoners long before Jack the Ripper came to the scene.
+description: Ghost tour London by Insider London discovering the murder mysteries that gripped Londoners long before Jack the Ripper came to the scene.
 gallery:
   - image: /assets/images/tours/Ghost/Picture-3---History-West-End-Haunted-London-Walking-Tour-Student-Corporate-Group.jpg
     alt: History West End Haunted London Walking Tour Student Corporate Group

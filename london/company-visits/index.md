@@ -1,5 +1,6 @@
 ---
-title: Company Visits and Workshops London
+title: London Company Visits | Interactive Workshops
+description: From City of London Financial District, to the innovative Silicon Roundabout tech quarter, we invite you for a bespoke programme of company visits, educational tours and cultural experiences.
 date: 2015-08-28 10:51:00 Z
 permalink: "/london/company-visits/"
 tags:

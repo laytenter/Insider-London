@@ -62,7 +62,7 @@ Painting on walls supersedes hand-painted ghost signs by a wee couple of millenn
 
 **Why did they die out?**
 
-In the post war years the economics of production moved in favour of mass-printed posters and billboards, leaving behind the slow and intricate hand-painted signs as an obselete relic of the past. Following this shift, it was unusual to find any hand printed signs. But signwriters still exist and find work today. Many signs are now repainted, preserved and given a new lease of life, or left as a faded reminder of the brands, signwriter’s handywork, and the public’s consumer habits in an exciting and burgeoning era of early advertising. (See our post on <a href="/the-art-of-signwriting/" target="_blank">the art of signwriting here</a>)
+In the post war years the economics of production moved in favour of mass-printed posters and billboards, leaving behind the slow and intricate hand-painted signs as an obselete relic of the past. Following this shift, it was unusual to find any hand printed signs. But signwriters still exist and find work today. Many signs are now repainted, preserved and given a new lease of life, or left as a faded reminder of the brands, signwriter’s handywork, and the public’s consumer habits in an exciting and burgeoning era of early advertising. (See our post on <a href="/blog/the-art-of-signwriting/" target="_blank">the art of signwriting here</a>)
 
 **Examples of London ghost signs **
 

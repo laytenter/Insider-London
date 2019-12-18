@@ -1,5 +1,7 @@
 ---
-title: Asia
+heading: Asia
+title: Asia Educational Programme
+description: Where tradition meets innovation, come and explore the prosperous cities of the East. From the world’s most robotised factories to some of the coolest street fashion, Asia is home to a range of fascinating metropolitan centres.
 layout: landing
 nav: asia
 background: asia.jpg

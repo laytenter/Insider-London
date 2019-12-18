@@ -1,6 +1,7 @@
 ---
 title: London Finance Tour
 heading: Finance
+description: Insider London Walking Tours Our London finance tour takes you from the humble beginnings in the 17th century to its current global status.
 date: '2011-01-01 10:43:00 +0000'
 categories:
 - educational-tours

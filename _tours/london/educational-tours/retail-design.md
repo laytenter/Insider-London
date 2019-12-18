@@ -1,5 +1,7 @@
 ---
-title: Retail Design Tour London
+heading: Marketing & Retail
+title: Retail Design Tour London Marketing Tour
+description: The original London Retail Tour! Find design inspiration for the most luxurious retail design.
 date: '2012-01-01 10:44:00 +0000'
 categories:
 - educational-tours
@@ -7,9 +9,6 @@ tags:
 - all
 - retail
 - educational
-heading: Marketing & Retail
-description: The original London Retail Tour! Find design inspiration for the most
-  luxurious retail design at insider-london.co.uk.
 gallery1:
 - image: /assets/images/tours/WE Retail/Picture-1---Visual-Merchandising-Retail-Marketing-West-End-Walking-Tour-Student-Corporate.JPG.jpg
   alt: Visual-Merchandising-Retail-Marketing-West-End-Walking-Tour-Student-Corporate

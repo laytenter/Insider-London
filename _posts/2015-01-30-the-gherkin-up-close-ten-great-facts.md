@@ -39,7 +39,7 @@ Its high powered lifts are capable of transporting 378 people at a time, at spee
   <em>Top of the World. Image Credit: <a href="https://www.flickr.com/photos/dgeezer/238684445/in/photolist-n6jz4-7qYtWm-3K5cRC-6pRjbD-3LuuYc-3ihwYo-bWMy8N-8Tyef6-snrnZ-4SM4Xz-n6mj4-n6mj5-38z37b-oPV2w6-n6AXG-8DeNZ-oqWkPz-ifT2u6-bjCiuz-nh4WYd-n6hy1-pKcnnG-6rtvaw-nMJioF-pCfemc-n6kSq-oGp4DT-9xvDrS-n6DSR-n6kSp-n6jz8-8MvDpz-dDrD5F-7G45Eu-8Gxyyk-ovySjf-7krG8g-nAS2BU-8YyEF-4WjkBC-5XiqLQ-KSGmv-cxFCWQ-4Wx6fM-8Kaqft-2rUJDc-8Wi25r-2VsVi-8MjeDD-n6hxV">Diamond Geezer</a></em>
 </p>
 
-One of London’s highest lounge bar and restaurant is situated at the top of the building, which at a lofty 180 metres is higher than any of The Shard’s or [20 Fenchurch Street&#8217;s](/the-opening-of-the-walkie-talkie-sky-garden/) offerings. Sadly they are open only for tenants and their guests.
+One of London’s highest lounge bar and restaurant is situated at the top of the building, which at a lofty 180 metres is higher than any of The Shard’s or [20 Fenchurch Street&#8217;s](/blog/the-opening-of-the-walkie-talkie-sky-garden/) offerings. Sadly they are open only for tenants and their guests.
 
 &nbsp;
 

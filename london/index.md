@@ -1,6 +1,7 @@
 ---
-title: London Programme
+title: London Educational Programme
 heading: London
+description: From the established stronghold of the City of London Financial District, to the innovative agility of the Silicon Roundabout tech quarter, we invite you for a bespoke programme of company visits, educational tours and cultural experiences to explore London’s many dimensions.
 layout: landing
 nav: london
 background: london.jpg

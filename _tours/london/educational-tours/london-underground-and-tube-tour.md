@@ -8,9 +8,7 @@ tags:
 - all
 - tube
 heading: Transport
-description: Immerse yourself in 150 years of transport history while travelling through
-  the iconic London underground. Discover how and why the underground was created
-  and much more!
+description: Immerse yourself in 150 years of transport history while travelling through the iconic London underground. Discover how and why the underground was created and much more!
 gallery:
 - image: "/uploads/760x428%20tube%20banner.jpg"
   caption: Travel through time on our London Underground Tour!

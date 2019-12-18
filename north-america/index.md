@@ -1,6 +1,7 @@
 ---
 heading: Silicon Valley
-title: Silicon Valley
+title: Silicon Valley Company Visits | Tech Tour
+description: Explore Silicon Valley the world capital of innovation and technology with a bespoke programme from Insider London.
 layout: landing
 gallery:
   - image: /assets/images/cities/Silicon Valley/Picture-1---Silicon-Valley-Golden-Gate-Bridge-San-Francisco-Corporate-Executive-Business-Programme.jpg

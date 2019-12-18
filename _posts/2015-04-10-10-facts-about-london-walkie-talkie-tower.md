@@ -42,7 +42,7 @@ slide_template:
 
 At the top of the tower is the sky garden, set over floors 35, 36  and 37, offering uninterrupted views across London, completely free to the public to frolic and roam around. The catch? Due to a high number of expected visitors bookings are encouraged be made far in advance.
 
-The skygarden was a requirement of the planning application but the final result is substantially altered from what was previously planned (read more about reactions to the opening <a href="/the-opening-of-the-walkie-talkie-sky-garden/" target="_blank">here</a>). If you’re expecting Kew Gardens you’ll be sorely disappointed, but if you like dining at a height then you have three restaurants to choose from.
+The skygarden was a requirement of the planning application but the final result is substantially altered from what was previously planned (read more about reactions to the opening <a href="/blog/the-opening-of-the-walkie-talkie-sky-garden/" target="_blank">here</a>). If you’re expecting Kew Gardens you’ll be sorely disappointed, but if you like dining at a height then you have three restaurants to choose from.
 
 <p style="text-align: center;">
   <strong>2. The Building with More Up Top</strong>

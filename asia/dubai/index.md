@@ -1,5 +1,8 @@
 ---
-title: Dubai
+title: Dubai Company Visits | Technology Tours 
+heading: Dubai
+description: Get exclusive access to some of Dubai’s most exciting transport and innovation labs. We can organise an in-depth experiences like no other.
+
 layout: landing
 nav: asia
 gallery:

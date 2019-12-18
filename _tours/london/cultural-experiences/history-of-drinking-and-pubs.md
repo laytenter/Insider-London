@@ -1,38 +1,11 @@
 ---
-title: History of Drinking & Pub Tours
+title: Pub Tours London
 heading: History of Drinking & Pubs
 layout: programme
 nav: london
-description: Learn the history of drinking and pubs and raise a glass to this city’s
-  famous drinking culture. Experience the London pub tour at insider-london.co.uk.
-gallery:
-- image:
-  caption:
-  alt:
-embed: null
-order: null
-date: '2006-01-01 11:24:00 +0000'
+description: Learn the history of drinking and pubs and raise a glass to this city’s famous drinking culture. Experience the London pub tour at insider-london.co.uk.
 categories:
   - cultural-experiences
-tags:
-- HOD
-- historical
-- all
-tour-id: 32336
-author: london75
-guid: "/?post_type=product&#038;p=32336"
-show_book: true
-price: 20
-trekksoft-tour-id: 50195
-thumb: DSC_0129-568x388.jpg
-banner: 17-08 HOD.jpg
-hidden: true
-order: 4
-map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4966.162957478993!2d-0.10564200397951787!3d51.51172115720292!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604adbae6cb21%3A0x205e7bb84640673b!2sBlackfriars!5e0!3m2!1sen!2s!4v1431588376179
-related:
-- 32143
-- 29349
-- 12345
 ---
 
 <img src="{{ site.imagepath }}{{ page.banner }}" />

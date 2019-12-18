@@ -1,5 +1,7 @@
 ---
-title: Shanghai
+title: Shanghai Company Visits | Technology Tours
+description: Explore this glamorous and cosmopolitan city with it’s long history of migration with an extensive range of company visits from media to fashion, from manufacturing to high technology.
+heading: Shanghai
 layout: landing
 nav: asia
 gallery:
