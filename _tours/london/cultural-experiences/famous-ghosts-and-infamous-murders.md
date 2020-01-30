@@ -65,4 +65,6 @@ Old London town is no stranger to ghost stories. This ancient city is host to al
 * Learn about **the murder mystery** that gripped Londoners long before Jack the Ripper came on the scene
 * Explore the hidden alleys which became prime locations for films such as **Harry Potter**
 
-{% include findoutmore.html title="Ghost Tour" %}
+To book your Ghost Tour or to find out more then get in touch via contact@insiderlondon.com. This tour also runs publicly at 7pm on Saturdays, book your ticket here.
+
+{% include findoutmore.html title="Ghost Tour" %}*This tour also runs publicly at 7pm on Saturdays, [book your ticket here](https://www.tripadvisor.co.uk/AttractionProductReview-g186338-d13225298-London_Ghost_and_Infamous_Murders_Walking_Tour-London_England.html){:target="_blank"}*.
