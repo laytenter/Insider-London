@@ -6,19 +6,21 @@ description: For our West End Retail Design Tour, we take a look at the early ye
   of London's first purpose-built department store to discover the distinctive origins
   of the modern shopping experience.
 layout: post
+categories:
+  - Marketing and Retail
 ---
 
 ![960x540 Selfridge.jpg](/uploads/960x540%20Selfridge.jpg)
 
 *“You really think London is ready for all this?”*
 
-*“... Once they see what we've done here there'll be no turning back”* 
+*“... Once they see what we've done here there'll be no turning back”*
 
-These are the opening lines to ITV1's hit period drama [Mr Selfridge](https://en.wikipedia.org/wiki/Mr_Selfridge). Whilst the programme won the hearts of the British public and brought an obscure historical figure into prominent position in the public imagination, the storyline is considerably embellished with fiction. Many of the main characters never actually existed, including the dramatised Ellen Love, the whirlwind mistress of Mr Selfridge, and the “spirit of Selfridge's” (with an apostrophe at this point). Nevertheless if we return to the above quote, we find a stark truth – Mr. Selfridge revolutionised retail, and London has indeed never turned back. 
+These are the opening lines to ITV1's hit period drama [Mr Selfridge](https://en.wikipedia.org/wiki/Mr_Selfridge). Whilst the programme won the hearts of the British public and brought an obscure historical figure into prominent position in the public imagination, the storyline is considerably embellished with fiction. Many of the main characters never actually existed, including the dramatised Ellen Love, the whirlwind mistress of Mr Selfridge, and the “spirit of Selfridge's” (with an apostrophe at this point). Nevertheless if we return to the above quote, we find a stark truth – Mr. Selfridge revolutionised retail, and London has indeed never turned back.
 
 From theatrical premières to visual merchandising and store layout, we take a look at the early years of London's first purpose-built department store to discover the distinctive origins of the modern shopping experience. We cast an eye back to 1906 when a certain Harry Selfridge, risen from lowly origins to remarkable social and economic success, stepped off the boat, took a stroll around London town, and resolved that he would do things differently.
 
-Selfridge's was perhaps the predecessor to the concept flagship store, now hardly unusual in the West End. The opening of the store on the humble end of Oxford Street was far from a humble affair, requiring thirty policemen [just to hold back the crowds](http://london-tourist-guide.s3-website-eu-west-1.amazonaws.com/What-is-the-history-of-selfridges-department-store-london.html). At the sound of trumpets, the public was welcomed into the beautiful interior, surrounded by greenery and flowers, and according to the Times ['myriads of tiny globules [were] suspended on threads, which reminded one of the snow that was falling outside'](https://www.historytoday.com/richard-cavendish/opening-selfridge%E2%80%99s-department-store). This was quite unprecedented for a shop opening in London, though these headline-grabbing events continued. A few months later, the rickety aeroplane of Louis Bleriot, the first plane to cross the channel, [was exhibited](http://news.bbc.co.uk/1/hi/england/london/8170196.stm) in all its glory to marvelling crowds of 150,000 on the shop floor itself. Mr. Selfridge had brought the excitement of the spectacle and the glamour of the theatre to the shabby end of Oxford Street. 
+Selfridge's was perhaps the predecessor to the concept flagship store, now hardly unusual in the West End. The opening of the store on the humble end of Oxford Street was far from a humble affair, requiring thirty policemen [just to hold back the crowds](http://london-tourist-guide.s3-website-eu-west-1.amazonaws.com/What-is-the-history-of-selfridges-department-store-london.html). At the sound of trumpets, the public was welcomed into the beautiful interior, surrounded by greenery and flowers, and according to the Times ['myriads of tiny globules [were] suspended on threads, which reminded one of the snow that was falling outside'](https://www.historytoday.com/richard-cavendish/opening-selfridge%E2%80%99s-department-store). This was quite unprecedented for a shop opening in London, though these headline-grabbing events continued. A few months later, the rickety aeroplane of Louis Bleriot, the first plane to cross the channel, [was exhibited](http://news.bbc.co.uk/1/hi/england/london/8170196.stm) in all its glory to marvelling crowds of 150,000 on the shop floor itself. Mr. Selfridge had brought the excitement of the spectacle and the glamour of the theatre to the shabby end of Oxford Street.
 
 ![960x540 Selfridge.jpg](/uploads/960x540%20Selfridge.jpg)
 *Harry Selfridge himself*
@@ -35,6 +37,6 @@ With regards to visual marketing, it was not just the exterior of the store that
 ![960x540 Selfridges today.jpg](/uploads/960x540%20Selfridges%20today.jpg)
 *The Selfridges of today. Pictury by [Loz Pycock via Flickr](https://www.flickr.com/photos/blahflowers/3642341204)*
 
-In summary, besides coining the retail axioms [“give the lady what she wants” and “the customer is always right”](http://ldnfashion.com/features/harry-selfridge-quotes-on-fashion-retail-top-10/), Harry Selfridge marked the end of an era, and the start of the modern age of British retail. Whilst contemporaries marvelled or scowled at the flashy gimmicks, these turned out to be remarkably forward-thinking visual merchandising strategies, that have outlived Harry Selfridge for more than seventy years and counting. It turns out London was more than “ready for all this” after all. 
+In summary, besides coining the retail axioms [“give the lady what she wants” and “the customer is always right”](http://ldnfashion.com/features/harry-selfridge-quotes-on-fashion-retail-top-10/), Harry Selfridge marked the end of an era, and the start of the modern age of British retail. Whilst contemporaries marvelled or scowled at the flashy gimmicks, these turned out to be remarkably forward-thinking visual merchandising strategies, that have outlived Harry Selfridge for more than seventy years and counting. It turns out London was more than “ready for all this” after all.
 
-Discover the unique visual merchandising strategies of the luxury goods sector from heritage brands to historic department stores on our [West End Retail Design Tour](https://www.insider-london.co.uk/tours/retail-design/).
+Discover the unique visual merchandising strategies of the luxury goods sector from heritage brands to historic department stores on our [West End Retail Design Tour](https://www.insiderlondon.com/london/educational-tours/retail-design/).

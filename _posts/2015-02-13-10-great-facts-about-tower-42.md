@@ -3,24 +3,21 @@ title: 10 Great Facts About Tower 42
 date: 2015-02-13 14:37:55 Z
 permalink: "/blog/10-great-facts-about-tower-42/"
 categories:
-- blog
-- Modern Architecture
-- Other
-- Quirky, weird and bizarre London
+- Architecture
 tags:
 - modern architecture
 id: 24713
 author: london75
 layout: post
-guid: https://www.insider-london.co.uk/?p=24713
+guid: https://www.insiderlondon.com/?p=24713
 s4_ctitle:
-- 
+-
 s4_image2s:
-- 
+-
 s4_url2s:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 <img class="aligncenter size-full wp-image-24772" src="/wp-content/uploads/2015/02/3075715534_f4c33b3ff4_z.jpg" alt="London architecture " width="569" height="427" />
@@ -152,10 +149,10 @@ The building brought many innovative design features previously unseen in the U
 </p>
 
 <p style="text-align: center">
-  <em>Tall, slim and likely to make you feel a bit dizzy. The tower&#8217;s views are something too!. Image Credit: <a href="https://www.flickr.com/photos/mishmoshimoshi/3457844818">Mishmoshimoshi</a></em>
+  Tall, slim and likely to make you feel a bit dizzy. The tower&#8217;s views are something too!. Image Credit: <a href="https://www.flickr.com/photos/mishmoshimoshi/3457844818">Mishmoshimoshi</a>
 </p>
 
- Vertigo 42 is a champagne bar located at the top of the tower on the 42<sup>nd</sup> floor, offering panoramic views over London and its landmarks. There is also a restaurant on the 24<sup>th</sup> floor, if the name of the sky bar is a tad off-putting for those with less of a head for heights!
+Vertigo 42 is a champagne bar located at the top of the tower on the 42<sup>nd</sup> floor, offering panoramic views over London and its landmarks. There is also a restaurant on the 24<sup>th</sup> floor, if the name of the sky bar is a tad off-putting for those with less of a head for heights!
 
 <p style="text-align: center">
   10. It Still Has a Place in the Heart of the London Skyline
@@ -166,7 +163,9 @@ The building brought many innovative design features previously unseen in the U
 </p>
 
 <p style="text-align: center">
-  <em>New Kids on the Block. Image Credit: <a href="https://www.flickr.com/photos/stevekeiretsu/15990497178/in/photolist-pYshN9-qEQ11C-pxYBMt-ppE1JY-pZRMXW-qAUZa2-qn2tHd-qjD7xV-qBiUuE-pLEVBa-qheCP3-qhdmVb-pp2pX4-pQ5mY3-q2WEYL-qawosq-qjzYkh-qjon5n-qjuuFr-pRPYP9-pci2z8-pQpXhd-qAi1YL-qAc6hX-pAQx6h-pY5kC4-pomPjT-pCiPJP-otvXcd-q9zQMw-pFHzR4-pMyFMV-pZNe1P-q9GGkt-puhyGd-pqYP7P-pCzeNT-pb1FrA-q9duYg-pFDzEc-py6vJK-pFK2yY-pR7vee-oMcKZ9-pHD29q-oygSvz-pRuKYs-qPuAii-qDh89J-qTjHWM" target="_blank">stevekeiretsu</a></em>
+  New Kids on the Block. Image Credit: <a href="https://www.flickr.com/photos/stevekeiretsu/15990497178/in/photolist-pYshN9-qEQ11C-pxYBMt-ppE1JY-pZRMXW-qAUZa2-qn2tHd-qjD7xV-qBiUuE-pLEVBa-qheCP3-qhdmVb-pp2pX4-pQ5mY3-q2WEYL-qawosq-qjzYkh-qjon5n-qjuuFr-pRPYP9-pci2z8-pQpXhd-qAi1YL-qAc6hX-pAQx6h-pY5kC4-pomPjT-pCiPJP-otvXcd-q9zQMw-pFHzR4-pMyFMV-pZNe1P-q9GGkt-puhyGd-pqYP7P-pCzeNT-pb1FrA-q9duYg-pFDzEc-py6vJK-pFK2yY-pR7vee-oMcKZ9-pHD29q-oygSvz-pRuKYs-qPuAii-qDh89J-qTjHWM" target="_blank">stevekeiretsu</a>
 </p>
 
 Although it just about manages to pip the younger and more recognisable Gherkin in the height by a mere 3 metres, it is the less favourable of the two with Londoners. It gets the last laugh however, as the Gherkin is increasingly disappearing behind new skyscraper developments in The City, with some calling for sightlines to be introduced to protect it. Tower 42, while its future may be uncertain, has lots of room to breath!
+
+Come and explore London's curious skyline on our [Modern Architecture Tour](/london/educational-tours/modern-architecture-tour/#modern-architecture)

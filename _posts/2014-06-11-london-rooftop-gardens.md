@@ -3,15 +3,7 @@ title: Inside five of London’s hidden rooftop gardens
 date: 2014-06-11 10:30:03 Z
 permalink: "/blog/london-rooftop-gardens/"
 categories:
-- blog
-- Green London
-- Modern Architecture
-tags:
-- architecture
-- green London
-- London walking tours
-- skyscrapers
-- sustainable london
+  - Sustainability
 id: 14903
 author: london75
 layout: post
@@ -86,4 +78,4 @@ Completed in 2001, this was one of the first rooftops to go green in the finance
   While the first tenants moved into 20 Fenchurch Street (more commonly known as ‘the Walkie Talkie’ last month), one of the most appealing aspects of the development – the public garden at the top of the tower – isn&#8217;t due to open by the end of the year. <a href="http://www.standard.co.uk/news/london/first-view-of-europes-highest-roof-garden--an-oasis-on-top-of-the-walkie-talkie-tower-8647042.html" target="_blank">Pictures released last week</a> emphasised what an ambitious project this is, with over a hundred varieties of plants, including herbs to supply the three restaurants due to open in the development. While the garden helps the designers present an greener face to the world, to keep the gardens maintained at such a height will require a serious amount of energy. The developer’s pictures, meanwhile, all seem to suggest a desire to create an impact more about spectacle, than sustainability. However, it’s hard to deny that, once finished, it should be a stunning environment in which to enjoy a drink, or three.
 </p>
 
-_Want to find out more? There’s plenty more to be unearthed about green, sustainable architecture in London. Why not book yourself or a group on a <a href="https://www.insider-london.co.uk/tours/sustainable-london-architecture-tour/" target="_blank">sustainable architecture walking tour</a>? Or perhaps you&#8217;d like our London <a href="https://www.insider-london.co.uk/tours/modern-architecture-tour/" target="_blank">modern architecture walking tour</a>? _
+_Want to find out more? There’s plenty more to be unearthed about green, sustainable architecture in London. Why not book yourself or a group on a <a href="/london/educational-tours/sustainable-london-architecture-tour/" target="_blank">sustainable architecture walking tour</a>? Or perhaps you&#8217;d like our London <a href="/london/educational-tours/modern-architecture-tour/" target="_blank">modern architecture walking tour</a>?_

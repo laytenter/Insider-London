@@ -3,9 +3,7 @@ title: London street art &#8211; Broken Fingaz Crew interview
 date: 2013-02-15 15:09:26 Z
 permalink: "/blog/london-street-art-walking-tours-broken-fingaz-crew/"
 categories:
-- blog
-- East London
-- London Street Art &amp; Graffiti
+  - Art and Culture
 tags:
 - alternative London walking tours
 - Broken Fingaz crew
@@ -14,7 +12,7 @@ tags:
 id: 4296
 author: london75
 layout: post
-guid: https://www.insider-london.co.uk/?p=4296
+guid: https://www.insiderlondon.com/?p=4296
 ---
 
 ****Despite their name suggesting a problem with actually holding their necessary tools, **[ ](http://brokenfingaz.com/ "Broken Fingaz Crew")****_[Broken Fingaz Crew](http://brokenfingaz.com/ "Broken Fingaz Crew") &#8211; _Israel&#8217;s pre-eminent street artists &#8211; have been conquering walls throughout the world for nigh-on twelve years. And recently t****hey returned to the smoke  to contribute some of their unique work ****to the East London street art scene (****including down the road from my old house in Dalston). ******Being lovely people ****they also agreed to answer a few of our questions.****
@@ -38,10 +36,9 @@ It would be great to go and paint in more undeveloped countries… Africa is a d
 Yes but generally we all love the same kind of art so it&#8217;s easy. I’m sure at one point someone will take too much acid and start creating weird abstract shit and it will be hard to collab after that&#8230;.
 
 <figure>
-<img alt="East London street art, Broken Fingaz Crew, Alternative walking tours, Insider London" src="/wp-content/uploads/2013/02/BFC2A.jpg" />
-<figcaption>easy on the acid!</figcaption></figure>
+<img alt="East London street art, Broken Fingaz Crew, Alternative walking tours, Insider London" src="/wp-content/uploads/2013/02/BFC2A.jpg" /></figure>
 
-**I interviewed [Christiaan Nagel](/london-street-art-tours-christiaan-nage/ "Christiaan Nagel") recently and he was singing your praises.**** _(indeed – there’s one of his shrooms above this latest work)_** **_ _****What other artists do you admire?**
+**I interviewed [Christiaan Nagel](/blog/london-street-art-tours-christiaan-nage/ "Christiaan Nagel") recently and he was singing your praises.**** _(indeed – there’s one of his shrooms above this latest work)_** **_ _****What other artists do you admire?**
 
 ****A lot. Too many to mention. But lately mostly old illustration masters like [Klimt](http://www.klimt.com/en/gallery/women.html "Gustav Klimt"), [Lautrec](http://en.wikipedia.org/wiki/Henri_de_Toulouse-Lautrec "Lautrec"), [Lilien](http://en.wikipedia.org/wiki/File:Lilien,_efraim_moses_sketch_for_a_carpet.jpg "Efraim Lilien") and [Dürer](http://www.artcyclopedia.com/feature-2003-02.html "Dürer").
 
@@ -59,7 +56,7 @@ Mmm… [Athens is one of the most bombed cities](http://www.youtube.com/watch?f
 
 ****Despite their name suggesting a problem with actually holding their necessary tools, **[ ](http://brokenfingaz.com/ "Broken Fingaz Crew")****_[Broken Fingaz Crew](http://brokenfingaz.com/ "Broken Fingaz Crew") &#8211; _Israel&#8217;s pre-eminent street artists &#8211; have been conquering walls throughout the world for nigh-on twelve years. And recently t****hey returned to the smoke  to contribute some of their unique work ****to the East London street art scene (****including down the road from my old house in Dalston). ******Being lovely people ****they also agreed to answer a few of our questions.****
 
-<a href="/london-street-art-walking-tours-broken-fingaz-crew/" rel="attachment wp-att-4309"><img class="alignnone size-full wp-image-4309" alt="East London street art, Broken Fingaz Crew, Insider London, London walking tours" src="/wp-content/uploads/2013/02/BFC1A.jpg" width="569" height="574" /></a>
+<a href="/blog/london-street-art-walking-tours-broken-fingaz-crew/" rel="attachment wp-att-4309"><img class="alignnone size-full wp-image-4309" alt="East London street art, Broken Fingaz Crew, Insider London, London walking tours" src="/wp-content/uploads/2013/02/BFC1A.jpg" width="569" height="574" /></a>
 
 **So what is the inspiration behind the name _Broken Fingaz_?**
 
@@ -77,9 +74,9 @@ It would be great to go and paint in more undeveloped countries… Africa is a d
 
 Yes but generally we all love the same kind of art so it&#8217;s easy. I’m sure at one point someone will take too much acid and start creating weird abstract shit and it will be hard to collab after that&#8230;.<figure id="attachment_4341" style="width: 569px" class="wp-caption alignnone">
 
-<a href="/london-street-art-walking-tours-broken-fingaz-crew/" rel="attachment wp-att-4341"><img class="size-full wp-image-4341" alt="East London street art, Broken Fingaz Crew, Alternative walking tours, Insider London" src="/wp-content/uploads/2013/02/BFC2A.jpg" width="569" height="378" /></a><figcaption class="wp-caption-text">easy on the acid!</figcaption></figure>
+<a href="/blog/london-street-art-walking-tours-broken-fingaz-crew/" rel="attachment wp-att-4341"><img class="size-full wp-image-4341" alt="East London street art, Broken Fingaz Crew, Alternative walking tours, Insider London" src="/wp-content/uploads/2013/02/BFC2A.jpg" width="569" height="378" /></a><figcaption class="wp-caption-text">easy on the acid!</figcaption></figure>
 
-**I interviewed [Christiaan Nagel](/london-street-art-tours-christiaan-nage/ "Christiaan Nagel") recently and he was singing your praises.**** _(indeed – there’s one of his shrooms above this latest work)_** **_ _****What other artists do you admire?**
+**I interviewed [Christiaan Nagel](/blog/london-street-art-tours-christiaan-nage/ "Christiaan Nagel") recently and he was singing your praises.**** _(indeed – there’s one of his shrooms above this latest work)_** **_ _****What other artists do you admire?**
 
 ****A lot. Too many to mention. But lately mostly old illustration masters like [Klimt](http://www.klimt.com/en/gallery/women.html "Gustav Klimt"), [Lautrec](http://en.wikipedia.org/wiki/Henri_de_Toulouse-Lautrec "Lautrec"), [Lilien](http://en.wikipedia.org/wiki/File:Lilien,_efraim_moses_sketch_for_a_carpet.jpg "Efraim Lilien") and [Dürer](http://www.artcyclopedia.com/feature-2003-02.html "Dürer").
 
@@ -99,4 +96,4 @@ Mmm… [Athens is one of the most bombed cities](http://www.youtube.com/watch?f
 
 ****Yeah, and it was nice to see the [Espo](http://www.fecalface.com/SF/features-mainmenu-102/1736-steve-powers-a-love-letter-for-you "Steve Powers AKA Espo") piece. The [Sweet Toof](http://sweettoof.com/?gallery=street "Sweet Toof") bombings are always cool, he has some nice spots.
 
-**So. Head to Athens I guess&#8230;but in the meantime join us on our [street art walking tour](https://www.insider-london.co.uk/tours/street-art-tour-london/ "Street Art walking tour")&#8230;.you never know how long a piece might last&#8230;..**
+**So. Head to Athens I guess&#8230;but in the meantime join us on our [street art walking tour](https://www.insiderlondon.com/london/educational-tours/street-art-tour-london/ "Street Art walking tour")&#8230;.you never know how long a piece might last&#8230;..**

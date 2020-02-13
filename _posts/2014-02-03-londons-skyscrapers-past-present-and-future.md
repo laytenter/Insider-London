@@ -3,22 +3,7 @@ title: London’s Skyscrapers – Past Present and Future
 date: 2014-02-03 19:57:44 Z
 permalink: "/blog/londons-skyscrapers-past-present-and-future/"
 categories:
-- blog
-- Modern Architecture
-tags:
-- architecture
-- Centrepoint
-- Chiswick Roundabout
-- High rise
-- London
-- Natwest Tower
-- sky scraper
-- The Octopus
-- Walking
-id: 13783
-author: london75
-layout: post
-guid: https://www.insider-london.co.uk/?p=13783
+- Architecture
 ---
 
 &nbsp;

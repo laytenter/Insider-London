@@ -5,7 +5,8 @@ permalink: "/blog/the-big-business-effect-from-silcon-valley-to-kings-cross/"
 description: It's well known that Silicon Valley plays host to huge “corporate campuses”
   – a new scale of office with an all-inclusive vibe.
 heading: 'The Big Business Effect: From Silicon Valley to Kings Cross'
-layout: post
+categories:
+  - Regeneration
 ---
 
 ![the big business effect](/uploads/the%20big%20business%20effect%20title.jpg)
@@ -22,7 +23,7 @@ It's well known that Silicon Valley plays host to huge “corporate campuses” 
 
 
 
-Back in the UK, evidently the scale of the London office is often far smaller, but on some notable occasions there also seems to be a difference in objective. There are many examples of multi-nationals not only rejecting traditional business districts like the City of London, but also striving to immerse themselves in London's trendiest districts. [Principal Place](https://www.principalplace.co.uk/), the square dominated by Amazon HQ boasts a space to showcase local artists and promotes itself as being a stone's throw away from the Boxpark and vibrant Shoreditch. Just up the road in [“Silicon Roundabout”](https://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/), Aviva opened its Digital Garage in Hoxton Square to invigorate its own company culture [with some Shoreditch creativity](https://www.hackneygazette.co.uk/news/heritage/the-men-in-suits-want-a-bit-of-the-hipster-pie-insurance-firm-aviva-under-fire-for-hoxton-square-expansion-plans-1-4865631).
+Back in the UK, evidently the scale of the London office is often far smaller, but on some notable occasions there also seems to be a difference in objective. There are many examples of multi-nationals not only rejecting traditional business districts like the City of London, but also striving to immerse themselves in London's trendiest districts. [Principal Place](https://www.principalplace.co.uk/), the square dominated by Amazon HQ boasts a space to showcase local artists and promotes itself as being a stone's throw away from the Boxpark and vibrant Shoreditch. Just up the road in [“Silicon Roundabout”](https://www.insiderlondon.com/london/educational-tours/silicon-roundabout-and-tech-city-tour/), Aviva opened its Digital Garage in Hoxton Square to invigorate its own company culture [with some Shoreditch creativity](https://www.hackneygazette.co.uk/news/heritage/the-men-in-suits-want-a-bit-of-the-hipster-pie-insurance-firm-aviva-under-fire-for-hoxton-square-expansion-plans-1-4865631).
 
 ![principal place](/uploads/principal%20place.jpg)
 
@@ -42,4 +43,4 @@ In terms of the traction gained, it has been reported that blue chip companies m
 
 
 
-Interested in King’s Cross regeneration? Dig in deeper with our [Kings Cross Innovation and Regeneration Walking Tour](https://www.insider-london.co.uk/tours/kings-cross-regeneration/)  
+Interested in King’s Cross regeneration? Dig in deeper with our [Kings Cross Innovation and Regeneration Walking Tour](https://www.insiderlondon.com/london/educational-tours/kings-cross-regeneration/#kings-cross-innovation-and-regeneration)

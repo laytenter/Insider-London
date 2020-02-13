@@ -3,38 +3,7 @@ title: 10 Unusual Forms of London Transport
 date: 2015-03-26 10:30:12 Z
 permalink: "/blog/10-unusual-forms-of-london-transport/"
 categories:
-- blog
-- East London
-- London Underground/Tube
-- Modern Architecture
-- Other
-- Quirky, weird and bizarre London
-tags:
-- Greenwich Cable Car
-- London
-- London buses
-- London Transport
-- London Underground
-- Tower Bridge
-- Tower Subway
-- Trams
-- transport
-- victorian london
-- Woolwich Ferry
-id: 24977
-author: london75
-layout: post
-guid: https://www.insider-london.co.uk/?p=24977
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
-slide_template:
-- default
+- Transport
 ---
 
 <p style="text-align: center;">
@@ -161,21 +130,7 @@ The high level walkways of the world famous Tower Bridge are now a tourist attr
 Greenwich Foot Tunnel links Cutty Sark to Island Gardens and is used by around 1.2 million pedestrians a year. At 370 metres long and at a depth of 15.2 metres, you almost forget that you&#8217;re still in the heart of a bustling city as you leave the crowds of Greenwich behind.
 
 <p style="text-align: center;">
-  <strong>8.London Duck Tours</strong>
-</p>
-
-<p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-24991" src="/wp-content/uploads/2015/03/532961157_2efb2b0bfb_z.jpg" alt="532961157_2efb2b0bfb_z" width="569" height="263" />
-</p>
-
-<p style="text-align: center;">
-  <em>Many a Duck Tale to be had on a Duck Tour. Image Credit: <a href="https://www.flickr.com/photos/sweenpole2001/532961157/in/photolist-P6yMt-fALDMT-5TCUB2-enYvTP-e9UoC6-5pFb5C-acUL3x-acULaK-acXxY5-5eEAeg-7BENzh-fACBgT-5TCUGi-dBfw8T-b1qrT6-69Uo7q-4r93nN-cwUjWE-cwUmSY-cwUjPf-eqr3nj-aAd6GA-cwUiw9-cwUfv3-dPnDvS-8vLoYF-cwSSi5-btYoFs-aTiEMX-6foTxA-eSU2Et-eSU3mP-8scC98-cwUjDJ-61CZ8p-8sNz4x-6YFhaF-cwUj5Y-cwUjwh-cwUicQ-cwUg6h-cwUfBd-cwUfJd-cwUin1-9jqqH3-cwUfZE-cwUiHu-cwUiV1-cwUjkU-6bfwZx">Andrew Sweeney</a></em>
-</p>
-
-Ok, while we tend to rely on our feet for <a href="https://www.insider-london.co.uk/tours/" target="_blank">our alternative London walking tours</a> and while your average Dave isn’t hopping on a Duck Tour for his morning commute, but as a way of getting around the city as a tourist alone it is pretty unusual. The Duck tour fleet is made up of retired WWII vehicles codenamed DUKW (seriously), that are half boat half track vehicles and travel on both land and river. They are an unmissable sight on Central London&#8217;s streets, and apart from a couple of fires on malfunctioning boats, they are usually reliable and set travellers on the right quack!
-
-<p style="text-align: center;">
-  <strong>9. Necropolis Railway</strong>
+  <strong>8. Necropolis Railway</strong>
 </p>
 
 <p style="text-align: center;">
@@ -191,7 +146,7 @@ London&#8217;s Necropolis Railway was built as a direct response to a chronic sh
 Almost fifty years after opening the station was moved to a site on Westminster Bridge road to facilitate the expansion of Waterloo Station. Bomb damage in 1941 rendered the station and its tracks unusable and the Necropolis Railway was buried for good.
 
 <p style="text-align: center;">
-  <strong>10. Canal Boats</strong>
+  <strong>9. Canal Boats</strong>
 </p>
 
 <p style="text-align: center;">
@@ -202,6 +157,6 @@ Almost fifty years after opening the station was moved to a site on Westminster 
   <em>The Waterbus Company runs a tour via the Regents Canal. Image Credit: <a href="https://www.flickr.com/photos/megatick/147526802/in/photolist-r9VVKE-e37zy-2qgzgT">Megatick</a></em>
 </p>
 
-Once again, more of  leisurely cruise than belonging to a commuting scrum, but it is a good way of taking in large parts of the 14km waterway that is the [Regent&#8217;s Canal](/the-regents-canal-in-kings-cross-past-present-and-future/). Often overlooked by many as a form of transport, the Regent&#8217;s Canal was once at the heart of London&#8217;s industry, literally powering the city with its coal imports. The Waterbus company is another tour company that takes to water, travelling along historic routes, taking in Regent&#8217;s Park and Camden Lock Market.
+Once again, more of  leisurely cruise than belonging to a commuting scrum, but it is a good way of taking in large parts of the 14km waterway that is the [Regent&#8217;s Canal](/blog/the-regents-canal-in-kings-cross-past-present-and-future/). Often overlooked by many as a form of transport, the Regent&#8217;s Canal was once at the heart of London&#8217;s industry, literally powering the city with its coal imports. The Waterbus company is another tour company that takes to water, travelling along historic routes, taking in Regent&#8217;s Park and Camden Lock Market.
 
-At Insider London, we prefer to stick to our feet when walking the capital but that&#8217;s no bar to discovering unusual spots around the capital. Why not come and join one of our <a href="https://www.insider-london.co.uk/london-underground-tube-tours/" target="_blank">London Underground and Tube tours </a>to find out more quirky facts about London&#8217;s transport system?
+At Insider London, we prefer to stick to our feet when walking the capital but that&#8217;s no bar to discovering unusual spots around the capital. Why not come and join one of our <a href="https://www.insiderlondon.com/london/educational-tours/london-underground-and-tube-tour/" target="_blank">London Underground and Tube tours </a>to find out more quirky facts about London&#8217;s transport system?

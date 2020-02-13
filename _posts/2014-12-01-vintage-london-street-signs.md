@@ -3,37 +3,7 @@ title: Vintage London Street Signs
 date: 2014-12-01 10:30:27 Z
 permalink: "/blog/vintage-london-street-signs/"
 categories:
-- blog
-- East London
-- Kings Cross regeneration
-- London Street Art &amp; Graffiti
-- Other
-- Quirky, weird and bizarre London
-tags:
-- Boroughs
-- font
-- Hidden
-- history
-- London
-- London Boroughs
-- Quirky
-- quirky london
-- roads
-- signs
-- street signs
-- streets
-id: 23492
-author: london75
-layout: post
-guid: https://www.insider-london.co.uk/?p=23492
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
+  - Art and Culture 
 ---
 
 <p style="text-align: center;">
@@ -89,5 +59,3 @@ Some boroughs use their own logos, mostly outside of conservation areas and in r
 **Recording our History**
 
 The extant vintage signs also record the history of our roads. For example, the sign for Tower Bridge Road, on the south-west corner of Tower Bridge, reminds us that the landmark was both part of the historic Borough of Bermondsey and the A100 road. In the 1920s, The Ministry of Transport used a system of letters and numbers to designate roads that were exceptionally busy as useful way for motorists to navigate the road system. This hotchpotch of signage and styles, especially where more than one example is used in one location might be messy and confusing to some, but it presents an exciting lack of uniformity that represents London as a wider city, a cacophony of history and contemporary that rarely fails to excite.
-
-_Want to know more of London&#8217;s lesser-known history? Come with us <a href="/tours/quirky-tour/" target="_blank">on one of our quirky London tours</a>. Or explore its changing streets on a <a href="/tours/street-art-tour-london/" target="_blank">London street art and graffiti walking tour</a>. _

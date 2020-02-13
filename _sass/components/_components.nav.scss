@@ -1,0 +1,116 @@
+.nav {
+
+  color: $inuit-base-text-color;
+  display: none;
+  @include mq($from:tablet) {
+    display: flex;
+  }
+
+  &.open {
+    display: flex;
+    position: fixed;
+    background: $color-blue;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    z-index: 10;
+    flex-direction: column;
+    width: 100%;
+    padding-top: $inuit-global-spacing-unit-huge;
+    padding-left: $inuit-global-spacing-unit-small;
+    padding-right: $inuit-global-spacing-unit-small;
+    padding-bottom: $inuit-global-spacing-unit;
+    justify-content: flex-start;
+  }
+
+  .main-nav__link {
+    white-space: nowrap;
+    text-decoration: none;
+    @include inuit-font-size(24px);
+    position: relative;
+    text-align: right;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    white-space: nowrap;
+    //@include inuit-font-size(18px);
+
+    @include mq($from: tablet) {
+      display: flex;
+      color: $inuit-base-text-color;
+      font-weight: normal;
+      justify-content: space-between;
+      align-items: center;
+      text-align: left;
+      margin-top: 0;
+      @include inuit-font-size(16px);
+    }
+
+    &:hover {
+      @include mq($from: tablet) {
+        color: darken($inuit-base-text-color,60%);
+      }
+    }
+
+    &::after{
+      content: '';
+      position: absolute;
+      height: 0;
+      left: 0;
+      bottom: -12px;
+      width: 100%;
+      background-color: white;
+    }
+
+    // Hover and active classes for main nav
+    &:active::after,
+    &:hover::after {
+
+      @include mq($from: tablet) {
+        border: none;
+        background-color: $color-red;
+        height: 3px;
+      }
+    }
+
+    }
+  }
+  .utility-nav__link {
+    color: $inuit-base-text-color;
+    &:hover {
+      color: darken($inuit-base-text-color,60%);
+    }
+  }
+
+  .main-nav__link + .main-nav__link {
+
+    margin-top: $inuit-global-spacing-unit-small;
+
+    @include mq($from: tablet) {
+      margin-top:0;
+      margin-left: $inuit-global-spacing-unit;
+    }
+
+    @include mq($from: desktop) {
+      margin-top:0;
+      margin-left: $inuit-global-spacing-unit-large;
+    }
+  }
+
+  .blog nav .blog, .europe nav .europe, .asia nav .asia, .north-america nav .north-america,
+   .london nav .london, .what-we-do nav .what-we-do  {
+    // Hover and active classes for main nav
+    border-left: $color-red solid 3px;
+    @include mq($from: tablet) {
+      border-left: none;
+      &::after
+      {
+        background-color: $color-red;
+        height: 3px;
+      }
+    }
+  }
+
+  .nav-open {
+    position: fixed;
+  }

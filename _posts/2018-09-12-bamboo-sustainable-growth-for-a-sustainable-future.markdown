@@ -6,11 +6,13 @@ description: The use of bamboo in construction, cuisine, medicine and materiel g
   has long been commonplace in Asia but is now finding a place in the western world.
 heading: 'Bamboo: Sustainable Growth for a Sustainable Future'
 layout: post
+categories:
+- Sustainability
 ---
 
 ![bambootitle.jpg](/uploads/bambootitle.jpg)
 
-Chinese use of bamboo dates back 7,000 years; as a versatile materiel, a potassium-rich ingredient and a plant of symbolic significance in [Ancient culture](http://www.chinadaily.com.cn/life/2011-01/19/content_11882983.htm). The use of bamboo in construction, cuisine, medicine and materiel goods has long been commonplace in China and other Asian countries such as India, the [second largest grower of bamboo in the world](http://www.thealternative.in/lifestyle/bamboo-the-underused-wondergrass/). Perhaps less well known is the prevalence of bamboo in Sub-Saharan Africa, and the Americas, where the resource has been put to similar use. 
+Chinese use of bamboo dates back 7,000 years; as a versatile materiel, a potassium-rich ingredient and a plant of symbolic significance in [Ancient culture](http://www.chinadaily.com.cn/life/2011-01/19/content_11882983.htm). The use of bamboo in construction, cuisine, medicine and materiel goods has long been commonplace in China and other Asian countries such as India, the [second largest grower of bamboo in the world](http://www.thealternative.in/lifestyle/bamboo-the-underused-wondergrass/). Perhaps less well known is the prevalence of bamboo in Sub-Saharan Africa, and the Americas, where the resource has been put to similar use.
 
 Europe is not blessed with natural bamboo growth and has been late to catch on to the potential of this remarkable grass. Nevertheless, the twenty-first century is witnessing a universal heralding of bamboo as a vital, sustainable resource for all and a partial solution to some of the world's greatest problems. The International Network of Bamboo and Rattan (INBAR) which was set up in 1997, works to promote the use of bamboo, and [rattan](https://www.encyclopedia.com/plants-and-animals/plants/plants/rattan), for economic and environmental benefit, specifically applying the plant to the [UN Sustainable Development Goals](https://www.inbar.int/global-programmes/). This inter-governmental organization, whose members include 18 African nations, values the global bamboo economy at [$60 billion a year](https://www.inbar.int/news-the-60-billion-a-year-industry-made-from-a-plant/).  
 
@@ -22,4 +24,4 @@ In the West, the usage of bamboo in architecture is gathering increasing attenti
 
 Finally, in the wake of recent public and political will to reduce plastic consumption, bamboo offers an exciting alternative for daily goods. Whilst there has been the odd product in Western history, such as the 1894 patent of [bamboo bicycles in the UK](http://www.bikebamboo.com/bamboo_bicycles.php), such designs are now being revisited and revamped for the twenty-first century. New biodegradable bamboo products are launched daily to replace single-use plastic. Current products hitting the shelves include a choice of [bamboo toothbrushes](https://www.independent.co.uk/extras/indybest/fashion-beauty/best-bamboo-toothbrushes-plastic-pollution-biodegradable-bistles-dental-care-eco-friendly-a8411536.html), [bamboo combs](https://www.savesomegreen.co.uk/product/plastic-free-bamboo-comb/), [bamboo kitchenware](https://www.savesomegreen.co.uk/product/bamboo-spatula-spoon/) and [GoReusable's bamboo eco coffee cups](https://www.goreusable.org/). As China witnesses the widespread uptake of bamboo straws, this grass offers an effective tool in this year's ongoing “War on Plastic”.
 
-To explore the highs and lows of London's sustainability drive, join us on our [Cutting-Edge Green Tour](https://www.insider-london.co.uk/tours/cutting-edge-green-tour/)
+To explore the highs and lows of London's sustainability drive, join us on our [Cutting-Edge Green Tour](https://www.insiderlondon.com/london/educational-tours/sustainable-london-architecture-tour/#cutting-edge-green-tour)

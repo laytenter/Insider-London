@@ -2,13 +2,13 @@
 title: The UK's Largest Street Art Mural
 date: 2018-09-19 11:38:00 Z
 permalink: "/blog/the-uks-largest-street-art-mural/"
-tags:
-- street-art
 description: This summer witnessed the stunning creation of the UK's largest street
   art mural. Located between King John Court and New Inn Yard, even colourful Shoreditch
   has seen nothing like it.
 heading: 'The UK''s Largest Street Art Mural '
 layout: post
+categories:
+  - Art and Culture
 ---
 
 ![A wide angle shot of the mural including  psychedelic mushrooms and futuristic robots.](/uploads/Title%20image,%20may%20need%20to%20retouch-ed7f9c.jpg)
@@ -50,4 +50,4 @@ The mural is truly stunning when viewed as a whole, but it's only when broken do
 
 
 
-To discover the East End's most colourful pieces as well as the debates and controversies of London's ever-changing scene, join us for a [Street Art Tour](https://www.insider-london.co.uk/tours/street-art-tour-london/)  
+To discover the East End's most colourful pieces as well as the debates and controversies of London's ever-changing scene, join us for a [Street Art Tour](https://www.insiderlondon.com/london/educational-tours/street-art-tour-london/)  

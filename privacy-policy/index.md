@@ -56,6 +56,6 @@ When you place an order through the Site, we will maintain your Order Informatio
 We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
 
 ### CONTACT US
-For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at contact@insider-london.co.uk or by mail using the details provided below:
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at contact@insiderlondon.com or using the details provided below:
 
-3rd Floor, 207 Regent Street, London, GBN, W1B 3HH, United Kingdom​
+Insider London, 18 Finsbury Square, Alphabeta Building, London EC2A 1AH

@@ -9,8 +9,8 @@ description: 'The iconic St Pancras Renaissance Hotel luxurious facade is not on
   rich history, a history which parallels the history of King''s Cross itself. We
   have traced the history of this mysterious palace to reveal the story of an area
   transformed. '
-heading: The Midland Grand Hotel – A representation of King’s Cross
-layout: post
+categories:
+  - Regeneration
 ---
 
 ![web_960x540_St Pancras Pixabay CCO.jpg](/uploads/web_960x540_St%20Pancras%20Pixabay%20CCO.jpg)
@@ -39,4 +39,4 @@ With the decision to regenerate the area, and to set up a high-speed train route
 
 All in all, we think the Grand Midland Hotel is a beautiful representation of the rollercoaster that is the King’s Cross area’s life: Born out of a wave of innovation in transportation and strong business, and created with the old masters in mind.Then neglected and in decline, only to rise anew, bringing new business, artistic heritage and transport together in one impressive and significant project.
 
-*Want to know more about the impressive regeneration project that is King's Cross? Check out our [King's Cross Regeneration and Innovation Tour](https://www.insider-london.co.uk/tours/kings-cross-regeneration/).*
+*Want to know more about the impressive regeneration project that is King's Cross? Check out our [King's Cross Regeneration and Innovation Tour](https://www.insiderlondon.com/london/educational-tours/kings-cross-regeneration/#kings-cross-innovation-and-regeneration).*

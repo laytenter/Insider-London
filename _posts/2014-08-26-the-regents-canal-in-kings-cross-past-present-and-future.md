@@ -3,15 +3,7 @@ title: 'The Regent&#8217;s Canal in King&#8217;s Cross: Past, Present and Future
 date: 2014-08-26 11:30:27 Z
 permalink: "/blog/the-regents-canal-in-kings-cross-past-present-and-future/"
 categories:
-- blog
-- Food and drink
-- Kings Cross regeneration
-- London Street Art &amp; Graffiti
-- Modern Architecture
-- Other
-- Quirky, weird and bizarre London
-- Retail Store Design
-- Sustainable Architecture
+  - Regeneration
 tags:
 - art
 - Coal Drops
@@ -26,15 +18,15 @@ tags:
 id: 16981
 author: london75
 layout: post
-guid: https://www.insider-london.co.uk/?p=16981
+guid: https://www.insiderlondon.com/?p=16981
 s4_cdes:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_image2s:
-- 
+-
 s4_url2s:
-- 
+-
 ---
 
 For over 140 years the Regents Canal linked King&#8217;s Cross, one of the industrial heartlands of north London, to the major industrial cities of the North. The waterways no longer form a vital industrial transport artery, but after a period of decline and dereliction, they are seeing a renaissance, as the Kings Cross Regeneration enters an exciting new stage.
@@ -59,7 +51,7 @@ In the 21st century the main traffic is by foot on the public towpath, popular w
 
 The Regents canal was established as a conservation area in 2006, preserving many fine surviving examples of 19th and 20th century British industrial architecture. Developers are today transforming former wastelands into 20 new streets, 10 public squares or spaces and 2000 homes as part of the King&#8217;s Cross central project. Businesses have copped onto the resurgence of the area and the new BNP Paribas headquarters is nearing completion, taking advantage of fast Eurostar links to France from the neighbouring King&#8217;s Cross St Pancras International. Google has committed itself to the area, eschewing the much-hyped Silicon Roundabout for a new £650m UK headquarters, running 330 metres down Kings Boulevard to the canal.
 
-Granary Square provides a focus for the area, with sweeping steps running down to the canal. Here Kings Cross is rapidly establishing itself as an arts hub, with an impressive trio of establishments. The prestigious Arts Fund moved from swanky South Kensington to the formerly down-at-heel King&#8217;s Cross in 2013, probably ruffling a few feathers in the process! The aforementioned Granary building in the heart of the square houses the University of the Arts London, bringing a flood of creative people into the area. Tucked away in the corner of the square in a refurbished railway office is the [House of Illustration](http:///the-house-of-illustration-kings-cross/), a hub for illustration in London.
+Granary Square provides a focus for the area, with sweeping steps running down to the canal. Here Kings Cross is rapidly establishing itself as an arts hub, with an impressive trio of establishments. The prestigious Arts Fund moved from swanky South Kensington to the formerly down-at-heel King&#8217;s Cross in 2013, probably ruffling a few feathers in the process! The aforementioned Granary building in the heart of the square houses the University of the Arts London, bringing a flood of creative people into the area. Tucked away in the corner of the square in a refurbished railway office is the [House of Illustration](/blog/the-house-of-illustration-kings-cross/), a hub for illustration in London.
 
 This sense of dynamism and creativity has flooded over into the surrounding area, with artwork found along the canal, from temporary street furniture, such as Granary Square’s grass steps installation or even poetry along the canal wall.
 
@@ -79,7 +71,7 @@ Along the pathway many interesting pieces of sustainable architecture can be fou
   <em>Kings Cross pit stop to fill up your tank with food. Image Credit: <a href="https://www.flickr.com/photos/mattkieffer/7622800628/">Matt Kieffer</a></em>
 </p>
 
-Leafy [Camley Street Natural Park](/urban-bees-interview/) is sandwiched between the Regents Canal and the no mans land that is the back end of St Pancras International. It is surprisingly expansive for a park so secluded. Its newest addition is Viewpoint, a floating platform designed by young Finnish architects. Modelled on the rocky islands found in Finland, the ’islet’ seating provides a suitable retreat from the hubbub of King&#8217;s Cross &#8211; depending on whether you can find the blimming thing that is!
+Leafy [Camley Street Natural Park](/blog/urban-bees-interview/) is sandwiched between the Regents Canal and the no mans land that is the back end of St Pancras International. It is surprisingly expansive for a park so secluded. Its newest addition is Viewpoint, a floating platform designed by young Finnish architects. Modelled on the rocky islands found in Finland, the ’islet’ seating provides a suitable retreat from the hubbub of King&#8217;s Cross &#8211; depending on whether you can find the blimming thing that is!
 
 <p style="text-align: center;">
   <a href="/wp-content/uploads/2014/08/shelter.jpg"><img class="alignnone wp-image-17027 size-full" src="/wp-content/uploads/2014/08/shelter.jpg" alt="Camley Street Natural Park Alternative London walking tours" width="569" height="427" /></a>
@@ -118,3 +110,5 @@ Overlooked by the Gasholders, the Coal Drops once stored coal that powered Londo
 </p>
 
 Indeed, taking the neighbouring areas, it was only a matter of time before King&#8217;s Cross was regenerated. From King&#8217;s Cross, a one-mile walk east takes you to Islington and the buzzing Upper Street, while a walk west takes you to Camden Lock. King&#8217;s Cross has a decidedly classier and trendier feel than both that looks to persist for the foreseeable future. Maybe then the Regents Canal will become the jewel in the crown for Kings Cross.
+
+Discover the destination station and much more on our [Kings Cross Innovation & Regeneration Tour](/london/educational-tours/kings-cross-regeneration/#kings-cross-innovation-and-regeneration)

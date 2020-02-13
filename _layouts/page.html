@@ -2,13 +2,11 @@
 layout: default
 ---
 
-<div class="wrapper wrapper--padded">
   <article class="post">
-    {% include ta-logo.html %}
-    <header class="post-header">
+    <header class="post-header bg-gray u-padding-vertical u-margin-bottom">
       <div class="breadcrumb-wrapper ">
-        <div class="container">
-          <h1 class="post-title">
+        <div class="o-wrapper u-padding-left-small u-padding-right-small u-padding-left@tablet u-padding-right@tablet">
+          <h1 class="u-h4 u-margin-bottom-none">
             {% if page.heading %}
               {{ page.heading }}
             {% else %}
@@ -18,6 +16,8 @@ layout: default
         </div>
       </div>
     </header>
-    {{ content }}
+    <div class="o-wrapper u-padding-left-small u-padding-right-small u-padding-left@tablet u-padding-right@tablet">
+      {% include breadcrumbs.html %}
+      {{ content }}
+    </div>
   </article>
-</div>

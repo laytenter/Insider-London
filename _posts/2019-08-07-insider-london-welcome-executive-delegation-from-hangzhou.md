@@ -6,6 +6,8 @@ description: On 22nd July, Insider London welcomed an executive delegation from 
   and investment opportunities in the UK, particularly in light of the current political
   climate with Brexit and trade tension between China & the USA.
 excerpt_separator: "<!--more-->"
+categories:
+  - Events
 ---
 
 ![hangzhou3-760.jpg](/uploads/hangzhou3-760.jpg)

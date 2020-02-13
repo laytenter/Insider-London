@@ -2,13 +2,13 @@
 title: 'Twenty-first Century Street Art: An Olympic Case Study'
 date: 2018-02-28 11:01:00 Z
 permalink: "/blog/street-art-and-Olympics/"
-tags:
-- street-art
 description: 'As Pyeonchang''s Winter Olympics draw to a close, we cast a look back
   to 2012 when the eyes of the world were glued to London Town: an exciting time of
   urban regeneration projects, green initiatives and a huge cultural and artistic
   programme.'
 layout: post
+categories:
+  - Art and Culture
 ---
 
 ![800x451 Banksy Javelin by Duncan Hull via Flickr.jpg](/uploads/800x451%20Banksy%20Javelin%20by%20Duncan%20Hull%20via%20Flickr.jpg) <br/>
@@ -33,6 +33,6 @@ However, a far more sinister milestone arrived with the arrest of Darren Cullen,
 
 To conclude: How can we make sense of this confusing series of events? How can we explain why art is simultaneously commissioned and covered up for one event? Why did the Olympics commission Darren Cullen yet provoke his arrest? It seems, despite the rising profile of street art, the Olympics provide us with a more nuanced account of its status twenty-first century Britain. We are seemingly no closer to defining what constitutes street art, and what constitutes an anti-social crime.
 
-Explore the lively debates of the London Street Art scene as well as countless beautiful pieces on our [Shoreditch Street Art Tour](https://www.insider-london.co.uk/tours/street-art-tour-london/)!
+Explore the lively debates of the London Street Art scene as well as countless beautiful pieces on our [Shoreditch Street Art Tour](https://www.insiderlondon.com/london/educational-tours/street-art-tour-london/)!
 
 [Click here for street art reactions to the 2012 Olympics.](http://www.dontpaniconline.com/magazine/arts/top-ten-olympic-street-art-pieces)

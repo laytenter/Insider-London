@@ -3,18 +3,7 @@ title: 'Sipsmith: converting gin drinkers one sip at a time'
 date: 2012-11-19 15:37:12 Z
 permalink: "/blog/sipsmith_london_gin_drinking_distillers/"
 categories:
-- blog
-- Quirky
-tags:
-- Distillery
-- Drinking in London
-- Gin
-- London
-- Sipsmith
-id: 2428
-author: london75
-layout: post
-guid: https://www.insider-london.co.uk/?p=2428
+- Art and Culture
 ---
 
 <figure id="attachment_2447" style="width: 569px" class="wp-caption alignnone">[<img class="size-full wp-image-2447" src="/wp-content/uploads/2012/11/sipsmith_london_gin_prudence_still.jpg" alt="" width="569" height="426" />](/wp-content/uploads/2012/11/sipsmith_london_gin_prudence_still.jpg)<figcaption class="wp-caption-text">The custom made copper still 'Prudence' is the beating heart of Sipsmith</figcaption></figure>
@@ -74,3 +63,5 @@ guid: https://www.insider-london.co.uk/?p=2428
 <p style="text-align: justify;">
   <em></em><a title=" sipsmith.com" href="http://www.sipsmith.com/"><em>sipsmith.com</em></a>
 </p>
+
+Interested in the great British history of booze? Book your group on our [History of Drinking & Pubs Tour](/london/cultural-experiences/history-of-drinking-and-pubs/)

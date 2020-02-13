@@ -3,12 +3,13 @@ title: 'Remembering the Forgotten: The Lost Ladies of Waterloo Bridge | Remembra
   Day'
 date: 2017-11-08 14:00:00 Z
 permalink: "/blog/remembrance-day-2017/"
-tags:
-- historical
+
 description: Legend is, there were 25,000 female construction workers working on Waterloo
   Bridge 1944  - but never mentioned. Read what we’ve found out.
 heading: 'Remembering the Forgotten: The Lost Ladies of Waterloo Bridge'
 layout: post
+categories:
+  - Art and Culture
 ---
 
 ![web_Women_of_World_War_II_monument_1920x1080.jpg](/uploads/web_Women_of_World_War_II_monument_1920x1080.jpg)
@@ -40,4 +41,4 @@ English Heritage states that the purpose of the blue plaque scheme is [to link t
 
 Add your name to the [petition](https://theladiesbridge.typeform.com/to/VfhYND) this Remembrance Day!
 
-*Interested in the hidden stories of London's landmarks? Join us on our [Quirky Tour](https://www.insider-london.co.uk/tours/quirky-tour/).*
+*Interested in the hidden stories of London's landmarks? Join us on our [Quirky Tour](https://www.insiderlondon.com/london/cultural-experiences/quirky-tour/).*

@@ -2,20 +2,13 @@
 title: 'The Gherkin Up Close: Ten Great Facts'
 date: 2015-01-30 10:30:06 Z
 permalink: "/blog/the-gherkin-up-close-ten-great-facts/"
-tags:
-- modern architecture
+categories:
+- Architecture
 id: 24584
 author: london75
 layout: post
-guid: https://www.insider-london.co.uk/?p=24584
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
+guid: https://www.insiderlondon.com/?p=24584
+
 ---
 
 <img class="aligncenter size-full wp-image-24623" src="/wp-content/uploads/2015/01/9731562839_c6cc9a63ff_z.jpg" alt="London modern architecture" />
@@ -46,7 +39,7 @@ Its high powered lifts are capable of transporting 378 people at a time, at spee
   <em>Top of the World. Image Credit: <a href="https://www.flickr.com/photos/dgeezer/238684445/in/photolist-n6jz4-7qYtWm-3K5cRC-6pRjbD-3LuuYc-3ihwYo-bWMy8N-8Tyef6-snrnZ-4SM4Xz-n6mj4-n6mj5-38z37b-oPV2w6-n6AXG-8DeNZ-oqWkPz-ifT2u6-bjCiuz-nh4WYd-n6hy1-pKcnnG-6rtvaw-nMJioF-pCfemc-n6kSq-oGp4DT-9xvDrS-n6DSR-n6kSp-n6jz8-8MvDpz-dDrD5F-7G45Eu-8Gxyyk-ovySjf-7krG8g-nAS2BU-8YyEF-4WjkBC-5XiqLQ-KSGmv-cxFCWQ-4Wx6fM-8Kaqft-2rUJDc-8Wi25r-2VsVi-8MjeDD-n6hxV">Diamond Geezer</a></em>
 </p>
 
-One of London’s highest lounge bar and restaurant is situated at the top of the building, which at a lofty 180 metres is higher than any of The Shard’s or [20 Fenchurch Street&#8217;s](/the-opening-of-the-walkie-talkie-sky-garden/) offerings. Sadly they are open only for tenants and their guests.
+One of London’s highest lounge bar and restaurant is situated at the top of the building, which at a lofty 180 metres is higher than any of The Shard’s or [20 Fenchurch Street&#8217;s](/blog/the-opening-of-the-walkie-talkie-sky-garden/) offerings. Sadly they are open only for tenants and their guests.
 
 &nbsp;
 
@@ -94,7 +87,7 @@ The largest circumference of the Gherkin is only two metres less than the buildi
   <em>It&#8217;s a Long Way Down. Image Credit: <a href="http://www.huftonandcrow.com/projects/gallery/the-gherkin/">Hufton and Crow</a></em>
 </p>
 
-In April 2005 a large window popped out of the skyscraper and fell 28 storeys to the ground, prompting rigorous checks and questioning the sustainable credentials of the tower. A right pickle. (For more skyscraper mishaps, <a href="/when-london-buildings-go-wrong/" target="_blank">click here</a>)
+In April 2005 a large window popped out of the skyscraper and fell 28 storeys to the ground, prompting rigorous checks and questioning the sustainable credentials of the tower. A right pickle. (For more skyscraper mishaps, <a href="/blog/when-london-buildings-go-wrong/" target="_blank">click here</a>)
 
 &nbsp;
 
@@ -148,4 +141,4 @@ Over 35km of steel was used to construct the Gherkin. 10 years later, we&#8217;r
 
 Us Londoners aren’t the only ones fond of The Gherkin &#8211; its unique and bold design has won it many awards including the Stirling Prize, the London Region Award, and the Emporis Skyscraper Award.
 
-Want to know more? Why not come on one of <a href="https://www.insider-london.co.uk/?p=24584&preview=true" target="_blank">Insider London&#8217;s Modern Architecture tours</a>?
+Want to know more? Why not come on one of <a href="/london/educational-tours/modern-architecture-tour/#modern-architecture">Insider London's Modern Architecture tours</a>?

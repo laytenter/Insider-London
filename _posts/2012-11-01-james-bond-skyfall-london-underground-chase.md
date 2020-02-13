@@ -3,8 +3,7 @@ title: Did James Bond get lost on the Underground?
 date: 2012-11-01 12:10:23 Z
 permalink: "/blog/james-bond-skyfall-london-underground-chase/"
 categories:
-- blog
-- London Underground/Tube
+- Transport
 tags:
 - James Bond
 - London
@@ -35,5 +34,5 @@ layout: post
 
 <p style="text-align: justify">
   <p style="text-align: justify">
-    For more Insider London knowledge on the Tube, why not join us on a <a title="London Underground and Tube Tours" href="https://www.insider-london.co.uk/london-underground-tube-tours/">London Underground Tour</a>?
+    For more Insider London knowledge on the Tube, why not join us on a <a title="London Underground and Tube Tours" href="https://www.insiderlondon.com/london/educational-tours/london-underground-and-tube-tour/">London Underground Tour</a>?
   </p>

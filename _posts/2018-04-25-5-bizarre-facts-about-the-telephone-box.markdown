@@ -6,6 +6,8 @@ description: When Sir Giles Gilbert Scott won a design competition in 1924, he s
   had no idea his K2 would evolve into such a classic British icon. Almost 100 years
   later it remains close to the heart of the public and to the camera lenses of tourists!
 layout: post
+categories:
+  - Art and Culture
 ---
 
 ![web_960x540_Phonebox_CV_CC0_wikimedia.jpg](/uploads/web_960x540_Phonebox_CV_CC0_wikimedia.jpg)
@@ -28,7 +30,7 @@ Well actually, when describing the “beloved red box”, now is a good time to 
 ![web_960x540_Little_Shelford_High_Street_and_Telephone_Box_Library CC0 Wikimedia.jpg](/uploads/web_960x540_Little_Shelford_High_Street_and_Telephone_Box_Library%20CC0%20Wikimedia.jpg)
 *The Telephone Box Library in Little Shelford [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Little_Shelford_High_Street_and_Telephone_Box_Library.JPG)*
 
-## 3.	
+## 3.
 Keen to be practical, the design was also well-adapted to fashions of the time. Have you ever noticed that the door is considerably shorter than the roof of the box? Well if you were an upstanding gentleman of the 1920s or 1930s you would appreciate this innovative feature, designed specifically to allow you to adorn your top hat once inside the booth!
 
 ![web_960x540-Five_boys_in_top_hat_and_tails_costumes_(37973539241) CC0.jpg](/uploads/web_960x540-Five_boys_in_top_hat_and_tails_costumes_(37973539241)%20CC0.jpg)
@@ -41,9 +43,9 @@ Thought was also given to comfort. The original K2 design sported a Tudor Crown,
 *The removable panel up close by [drivethrucafe via Flickr](https://www.flickr.com/photos/128758398@N07/15984377914)*
 
 ## 5.
-Yet sadly with the twenty-first century has come the great decline of many a Gilbert Scott telephone box! You can, however, move to save your local box with the [“Adopt A Kiosk” Scheme](https://business.bt.com/campaigns/communities/adopt-a-kiosk/). Whilst mobile phones have made many telephone boxes redundant, a lucky few are getting a new lease of life as stores for defibrillators, public libraries and even miniature art galleries! 
+Yet sadly with the twenty-first century has come the great decline of many a Gilbert Scott telephone box! You can, however, move to save your local box with the [“Adopt A Kiosk” Scheme](https://business.bt.com/campaigns/communities/adopt-a-kiosk/). Whilst mobile phones have made many telephone boxes redundant, a lucky few are getting a new lease of life as stores for defibrillators, public libraries and even miniature art galleries!
 
 ![web_960x540_Regent-Road,-K6-Telephone-Kiosk-(Q17800666) CC0.jpg](/uploads/web_960x540_Regent-Road,-K6-Telephone-Kiosk-(Q17800666)%20CC0.jpg)
 *Telephone box just by Regent Road by [Andycatlincom via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Regent-Road,-K6-Telephone-Kiosk-(Q17800666).jpg)*
 
-To discover more about the hidden history of some of London's best-loved landmarks, as well as some secret gems of the West End, join us on our [Saturday Quirky Tour](https://www.insider-london.co.uk/tours/quirky-tour/)!
+To discover more about the hidden history of some of London's best-loved landmarks, as well as some secret gems of the West End, join us on our [Quirky Tour](https://www.insiderlondon.com/london/cultural-experiences/quirky-tour/)!

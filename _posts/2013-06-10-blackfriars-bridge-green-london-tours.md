@@ -3,8 +3,7 @@ title: 'Blackfriars Bridge: the sunniest bridge in the world?'
 date: 2013-06-10 11:59:07 Z
 permalink: "/blog/blackfriars-bridge-green-london-tours/"
 categories:
-- blog
-- Green London
+- Sustainability
 tags:
 - blackfriars
 - blackfriars bridge
@@ -15,10 +14,10 @@ tags:
 id: 4765
 author: london75
 layout: post
-guid: https://www.insider-london.co.uk/?p=4765
+guid: https://www.insiderlondon.com/?p=4765
 ---
 
-<a href="/blackfriars-bridge-green-london-tours/" rel="attachment wp-att-4846"><img class="aligncenter size-full wp-image-4846" alt="" src="/wp-content/uploads/2013/03/blackfriars-solar-panel.jpg" width="569" height="379" /></a>
+<a href="/blog/blackfriars-bridge-green-london-tours/" rel="attachment wp-att-4846"><img class="aligncenter size-full wp-image-4846" alt="" src="/wp-content/uploads/2013/03/blackfriars-solar-panel.jpg" width="569" height="379" /></a>
 
 Blackfriars bridge has got a new roof- and it&#8217;s not just any roof. This roof is made up of 4,400 solar panels, and is believed to make Blackfriars bridge the largest solar bridge in the _world_, after knocking the Kurilpa Footbridge in Australia off the top post.
 
@@ -32,4 +31,4 @@ Network Rail said it was too early to say whether the roof was living up to expe
 
 The build programme mentioned is of course the grumble-a-plenty, unfortunately-named &#8220;Thameslink 2000&#8221; upgrade, which has seen its fair share of criticism. But with Blackfriars now providing extra commuter space and as many as 700 extra trains running per week, perhaps this is just the ticket to get Thameslink back in our good books. Potentially one of London&#8217;s most impressive, green success stories? We shall see&#8230;
 
-&nbsp;
+Come check out London’s sustainability credentials on a [Cutting Edge Green Tour](/london/educational-tours/sustainable-london-architecture-tour/#cutting-edge-green-tour)"

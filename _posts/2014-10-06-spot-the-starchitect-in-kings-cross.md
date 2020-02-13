@@ -3,30 +3,12 @@ title: Spot the Starchitect in Kings Cross
 date: 2014-10-06 09:30:07 Z
 permalink: "/blog/spot-the-starchitect-in-kings-cross/"
 categories:
-- blog
-- Green London
-- Kings Cross regeneration
-- Modern Architecture
-- Sustainable Architecture
-tags:
-- modern architecture
-id: 22386
-author: london75
-layout: post
-guid: https://www.insider-london.co.uk/?p=22386
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
+- Regeneration
 ---
 
 [<img class="aligncenter wp-image-22841 size-full" src="/wp-content/uploads/2014/10/IMG_4730.jpg" alt="David Chipperfield modern and sustainable architecture" width="569" height="759" />](/wp-content/uploads/2014/10/IMG_4730.jpg)
 
-As the Kings Cross Regeneration project continues apace, a new breed of office developments are emerging from the formerly industrial area. Behind the scenes are some of the best architectural practices in the country at present, many that have cut their teeth on prominent regeneration projects. Some are so prolific that they are dubbed starchitects, architects that throw up statement buildings worldwide. While King&#8217;s Cross may not be getting a Norman Foster or Richard Rogers landmark anytime soon, the names involved are undoubtedly big and masterplanners are keen to work with.
+As the Kings Cross Regeneration project continues apace, a new breed of office developments are emerging from the formerly industrial area. Behind the scenes are some of the best architectural practices in the country at present, many that have cut their teeth on prominent regeneration projects. Some are so prolific that they are dubbed starchitects, architects that throw up statement buildings worldwide. While King's Cross may not be getting a Norman Foster or Richard Rogers landmark anytime soon, the names involved are undoubtedly big and masterplanners are keen to work with.
 
 {% include silo.html %}
 
@@ -38,17 +20,15 @@ The new generation of offices feature sustainable architecture, with the latest 
   <strong>Two Pancras Square</strong>
 </p>
 
-[<img class="aligncenter wp-image-22834" src="/wp-content/uploads/2014/09/twopancrassquare.jpg" alt="twopancrassquare" width="569" height="701" />](http://twopancrassquare.com/pancras-square/)
+[!twopancrassquare](http://twopancrassquare.com/pancras-square/)
 
-<p style="text-align: center;">
-  <em>A breath of fresh air in formerly sooty environs. Image Credit: <a href="http://twopancrassquare.com/" target="_blank">Two Pancras Square</a></em>
-</p>
+<em>A breath of fresh air in formerly sooty environs. Image Credit: <a href="http://twopancrassquare.com/" target="_blank">Two Pancras Square</a></em>
+
 
 Two Pancras Square is 130,000 sq ft net over 9 floors. The building is by Allies and Morrison, notable for joint masterplanning the London 2012 Stratford site, the new Greenwich Royal Observatory and the Royal Festival Hall refurbishment, as well as being joint masterplanners for the Kings Cross masterplan with Argent and Townshend architects. When delivered in 2016, the building will overlook the Regents Canal and to the heritage buildings surrounding Granary Square.
 
-<p style="text-align: center;">
-  <strong>Six Pancras Square</strong>
-</p>
+**Six Pancras Square**
+
 
 [<img class="aligncenter size-full wp-image-22835" src="/wp-content/uploads/2014/09/newlondondevelopment.jpg" alt="newlondondevelopment" width="569" height="612" />](http://newlondondevelopment.com/nld/project/eq8mx9k)
 
@@ -68,23 +48,20 @@ Six Pancras Square by French architect Jean-Michel Wilmotte takes advantage of e
   <em>Cast iron columns exude the industrial history of the area. Image Credit: Evan Parker</em>
 </p>
 
-One Pancras Square by David Chipperfield is one of more impressive offices in the area and notable as one of the few buildings built by the British architect in his home country. Chipperfield is a real starchitect, with a large and eminent portfolio under his belt spanning many countries. His most famous international project is the renovation of the WII damaged Neues Museum, Berlin, as well as projects throughout Germany. One Pancras Square adds to the growing collection of UK Chipperfield buildings, including The Hepworth Wakefield and The Turner Gallery Margate. Although his work in Britain is fairly sparse, this makes it all the more exciting that his work has graced King&#8217;s Cross.
+One Pancras Square by David Chipperfield is one of more impressive offices in the area and notable as one of the few buildings built by the British architect in his home country. Chipperfield is a real starchitect, with a large and eminent portfolio under his belt spanning many countries. His most famous international project is the renovation of the WII damaged Neues Museum, Berlin, as well as projects throughout Germany. One Pancras Square adds to the growing collection of UK Chipperfield buildings, including The Hepworth Wakefield and The Turner Gallery Margate. Although his work in Britain is fairly sparse, this makes it all the more exciting that his work has graced King's Cross.
 
 The building’s structural form is made up of cast iron columns with concrete floors. It is a typical understated Chipperfield building with a classical style appropriated in a modern context, boldly reflecting the industrial history of the area found in the Victorian gas holders. It stands at a prime spot at the gateway to the rest of the Kings Cross regeneration project and also to Europe, sitting above six London Underground lines and next to the Eurostar terminal, making it the best connected office in London and the UK. The development is linked to Kings Cross Underground Station by a playfully lit walkway, animating an otherwise laborious walk to work.
 
-[<img class="aligncenter wp-image-15798 size-full" src="/wp-content/uploads/2014/07/BeFunky_the-tunnel.jpg_mini.jpg" alt="Kings Cross Tunnel" width="569" height="328" />](/wp-content/uploads/2014/07/BeFunky_the-tunnel.jpg_mini.jpg)
+[!/wp-content/uploads/2014/07/BeFunky_the-tunnel.jpg_mini.jpg](/wp-content/uploads/2014/07/BeFunky_the-tunnel.jpg_mini.jpg)
 
-<p style="text-align: center;">
-  <em>The walk to work will never be the same again! Image Credit: <a href="http://www.kingscross.co.uk/" target="_blank">King&#8217;s Cross</a></em>
-</p>
+The walk to work will never be the same again! Image Credit: King's Cross
+
 
 At street level shops and cafes will energise the frontage of One Pancras Square, spilling out onto the broad, tree lined Kings Boulevard, the vibrant “high street” of the new area. Currently shut off to traffic as the offices are constructed, it will eventually be open only to buses, taxis and cyclists, providing an oasis of calm in comparison to the traffic choked Euston Road. Developers have endeavoured to ensure that this is no soulless nine to five office zone and are providing 500,000 sq feet of retail and restaurants. The well-established Kerb street food company has been feeding hungry workers since the offices were just mere holes in the ground and is soon to be joined by The German Gymnasium as a stunning all-day dining venue.
 
-<p style="text-align: center;">
-  <strong>Public Space</strong>
-</p>
+**Public Space**
 
-[<img class="aligncenter size-full wp-image-22836" src="/wp-content/uploads/2014/09/image_1188_800_800.jpg" alt="image_1188_800_800" width="569" height="569" />](http://www.kingscross.co.uk)
+[!/wp-content/uploads/2014/09/image_1188_800_800.jpg](http://www.kingscross.co.uk)
 
 <p style="text-align: center;">
   <em>Perfect place for lunch or a crafty lunchtime drink! Image Credit: <a href="http://www.kingscross.co.uk/" target="_blank">Kings Cross</a></em>
@@ -120,4 +97,4 @@ AHMM have worked on many large-scale projects including the Battersea-Nine Elms 
 
 ‘The Starchitect’ may be a love it or loathe it term, but as long as the big names keep designing buildings that change our cities for the better, it is here to stay.
 
-Want to find out more about the rapidly changing King&#8217;s Cross area? We run a <a href="https://www.insider-london.co.uk/kings-cross-innovation-tour/" target="_blank">King&#8217;s Cross Regeneration and Innovation tour</a>. Or find out more about London&#8217;s buildings on our <a href="https://www.insider-london.co.uk/tours/modern-architecture-tour/" target="_blank">Modern Architecture walking tour</a>.
+Want to find out more about the rapidly changing King's Cross area? We run a <a href="/blog/kings-cross-innovation-tour/" target="_blank">King's Cross Regeneration and Innovation tour</a>. Or find out more about London's buildings on our <a href="https://www.insiderlondon.com/london/educational-tours/modern-architecture-tour/#modern-architecture" target="_blank">Modern Architecture walking tour</a>.

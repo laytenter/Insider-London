@@ -3,37 +3,19 @@ title: The Ghost Signs of London
 date: 2014-12-12 10:30:00 Z
 permalink: "/blog/the-ghost-signs-of-london/"
 categories:
-- blog
-- East London
-- Kings Cross regeneration
-- London Street Art &amp; Graffiti
-- Other
-- Quirky, weird and bizarre London
-tags:
-- art
-- East London
-- Ghost sign
-- hand painted
-- Illustration
-- king's cross
-- london street art &amp; Graffiti
-- old street
-- Quirky
-- Silicon Roundabout
-- Street Art
-- weird and bizarre
+  - Art and Culture
 id: 23567
 author: london75
 layout: post
-guid: https://www.insider-london.co.uk/?p=23567
+guid: https://www.insiderlondon.com/?p=23567
 s4_cdes:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_image2s:
-- 
+-
 s4_url2s:
-- 
+-
 ---
 
 <img class="aligncenter size-full wp-image-23573" src="/wp-content/uploads/2014/12/dscf3716.jpg" alt="london street art alternative walking tour" width="569" height="427" />
@@ -80,7 +62,7 @@ Painting on walls supersedes hand-painted ghost signs by a wee couple of millenn
 
 **Why did they die out?**
 
-In the post war years the economics of production moved in favour of mass-printed posters and billboards, leaving behind the slow and intricate hand-painted signs as an obselete relic of the past. Following this shift, it was unusual to find any hand printed signs. But signwriters still exist and find work today. Many signs are now repainted, preserved and given a new lease of life, or left as a faded reminder of the brands, signwriter’s handywork, and the public’s consumer habits in an exciting and burgeoning era of early advertising. (See our post on <a href="/the-art-of-signwriting/" target="_blank">the art of signwriting here</a>)
+In the post war years the economics of production moved in favour of mass-printed posters and billboards, leaving behind the slow and intricate hand-painted signs as an obselete relic of the past. Following this shift, it was unusual to find any hand printed signs. But signwriters still exist and find work today. Many signs are now repainted, preserved and given a new lease of life, or left as a faded reminder of the brands, signwriter’s handywork, and the public’s consumer habits in an exciting and burgeoning era of early advertising. (See our post on <a href="/blog/the-art-of-signwriting/" target="_blank">the art of signwriting here</a>)
 
 **Examples of London ghost signs **
 
@@ -131,7 +113,3 @@ In this picturesque mews lies three faded ghost signs, with only one legible eno
 </p>
 
 The former petrol station, now a Byron Burger chain, at the corner of Store Street and Ridgemount Street in Bloomsbury is probably the best preserved sign in the area. The beautiful illustration and vibrant colours enhance the dining setting.
-
-**Want to find out more? **
-
-Explore <a href="http://www.ghostsigns.co.uk/" target="_blank">the London Ghost Signs site.</a> Or come with us on one of Insider London&#8217;s walking tours: whether <a href="https://www.insider-london.co.uk/tours/street-art-tour-london/" target="_blank">street art</a>, <a href="https://www.insider-london.co.uk/tours/quirky-tour/" target="_blank">quirky London</a> or <a href="https://www.insider-london.co.uk/silicon-roundabout-tech-city-tour/" target="_blank">the Silicon Roundabout</a>, you&#8217;re sure to spot something interesting.

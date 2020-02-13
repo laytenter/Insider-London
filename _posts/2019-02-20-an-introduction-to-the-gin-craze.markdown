@@ -2,12 +2,12 @@
 title: An Introduction to the Gin Craze
 date: 2019-02-20 12:14:00 Z
 permalink: "/blog/an-introduction-to-the-gin-craze/"
-tags:
-- drinking
 description: The gin craze will always be remembered as a curious period in British
   history. Read on to find out why!
 heading: An Introduction to the Gin Craze
 layout: post
+categories:
+  - Art and Culture
 ---
 
 ![history of londons gin craze](/uploads/gin%20craze%20london.jpg)
@@ -26,7 +26,7 @@ In 1690 William of Orange relaxed the legislation on distilling and drinking gin
 
 
 
-Londoners, (particularly the poor of London) began to drink gin in large quantities. The slogan above the gin shop in [Hogarth's Gin Lane](“https://www.bl.uk/collection-items/hogarths-grim-depiction-of-a-society-addicted-to-gin-1768”) was “drunk for a penny, dead drunk for twopence, clean straw for nothing’ (clean straw meaning that you could pass out for free on their hay bales). Gin was drunk in quarts (quarter pints), and a quart would only set you back by one penny. Granted, historians argue that gin was likely to be a bit weaker than today's stills, but safer it was not. [Additives included turpentine and sulphuric acid](https://www.diffordsguide.com/encyclopedia/1058/bws/history-of-gin-1728-1794-londons-gin-craze).  
+Londoners, (particularly the poor of London) began to drink gin in large quantities. The slogan above the gin shop in [Hogarth's Gin Lane](http://www.bl.uk/collection-items/hogarths-grim-depiction-of-a-society-addicted-to-gin-1768) was 'drunk for a penny, dead drunk for twopence, clean straw for nothing' (clean straw meaning that you could pass out for free on their hay bales). Gin was drunk in quarts (quarter pints), and a quart would only set you back by one penny. Granted, historians argue that gin was likely to be a bit weaker than today's stills, but safer it was not. [Additives included turpentine and sulphuric acid](https://www.diffordsguide.com/encyclopedia/1058/bws/history-of-gin-1728-1794-londons-gin-craze).  
 
 
 
@@ -42,6 +42,6 @@ When acts were passed to end the gin craze, there were actually [funerals for Mo
 
 
 
-Come and explore the glorious history of British boozing with us on our [History of Pubs and Drinking Tour](https://www.insider-london.co.uk/tours/history-of-drinking-and-pubs/).
+Come and explore the glorious history of British boozing with us on our [History of Pubs and Drinking Tour](https://www.insiderlondon.com/london/cultural-experiences/history-of-drinking-and-pubs/).
 
 Why not join our St Patrick's Day Special - simply select the 16th March when booking!

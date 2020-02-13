@@ -3,27 +3,7 @@ title: Filming on the London Underground
 date: 2015-04-14 14:00:17 Z
 permalink: "/blog/filming-on-the-london-underground/"
 categories:
-- blog
-- London Underground/Tube
-tags:
-- london tube
-- London Underground
-- london underground facts
-- quirky london tube
-id: 25095
-author: london75
-layout: post
-guid: https://www.insider-london.co.uk/?p=25095
-s4_url2s:
-- 
-s4_image2s:
-- 
-s4_ctitle:
-- 
-s4_cdes:
-- 
-slide_template:
-- default
+- Transport
 ---
 
 [<img class="aligncenter wp-image-25097 size-full" src="/wp-content/uploads/2015/04/Filming_at_Aldwych_1.jpg" alt="Filming at Aldwych Station - Photo courtesy of TfL " width="569" height="370" />](/wp-content/uploads/2015/04/Filming_at_Aldwych_1.jpg)
@@ -56,6 +36,6 @@ Due out in October, this is billed as another high-octane blockbuster, but confi
 
 <span style="color: #2d3039;">Anyone wanting to film or take photographs on the Tube must ask permission in advance from the London Underground Film Office. </span>Film-makers are asked to submit an application form  along with a script or synopsis.  The location manager and director then take a look at the location to decide whether it would make a suitable set for filming. Further information about filming on the Tube is available on the [TfL](https://www.tfl.gov.uk/info-for/media/filming-opportunities/filming-on-the-tube "TfL") website.
 
-You can discover more about the hidden corners of the Tube on a [London Underground Tube Tour. ](/tours/london-underground-and-tube-tour/ "London Underground Tube Tour")
+You can discover more about the hidden corners of the Tube on a [London Underground Tube Tour. ](/london/educational-tours/london-underground-and-tube-tour/ "London Underground Tube Tour")
 
 &nbsp;

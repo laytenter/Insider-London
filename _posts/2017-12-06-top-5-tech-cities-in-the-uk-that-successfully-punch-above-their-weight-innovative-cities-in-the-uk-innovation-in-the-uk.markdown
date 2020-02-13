@@ -4,8 +4,7 @@ title: 5 most innovative cities in the UK | Innovative cities in the UK | Innova
 date: 2017-12-06 11:00:00 Z
 permalink: "/blog/top-5-tech-cities-UK-sized-to-population/"
 categories:
-- educational-tours
-- silicon-roundabout
+- Business
 description: There's more to the tech sector in the UK than just London. Find out
   about the top 5 tech cities in the UK that successfully punch above their weight.
 heading: 5 most innovative cities in the UK
@@ -63,8 +62,9 @@ The proximity to government and finance (FinTech!), the very good infrastructure
 
 Other cities are catching up, though, encouraged by government and passionate entrepreneurs who want to spend less on a decent quality of life. This is a healthy development – and interesting at that! So, stay tuned for their development.
 
-If you’re interested to learn about London’s epicentre of modern start-up culture, check out our [Silicon Roundabout and Tech City Tour](https://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/) or our [East End Retail Design Tour](https://www.insider-london.co.uk/tours/east-end-retail-design-tour/). We can also arrange [in-depth business visits](https://www.insider-london.co.uk/tours/in-depth-business-tour/) to some of London's most interesting businesses, incubators and accelerators.*
-*To find out more about the finance sector, which drives much of London's success, check out our [London Finance Tour](https://www.insider-london.co.uk/tours/london-finance-walking-tour/) and our [Canary Wharf Finance Tour](https://www.insider-london.co.uk/tours/canary-wharf-finance-tour/)
+If you’re interested to learn about London’s epicentre of modern start-up culture, check out our [Silicon Roundabout and Tech City Tour](/london/educational-tours/silicon-roundabout-and-tech-city-tour/) or our [East End Retail Design Tour](/london/educational-tours/retail-design/#east-end-retail-design). We can also arrange [in-depth business visits](/london/company-visits/) to some of London's most interesting businesses, incubators and accelerators.*
+
+*To find out more about the finance sector, which drives much of London's success, check out our [London Finance Tour](/london/educational-tours/london-finance-walking-tour/) and our [Canary Wharf Finance Tour](/london/educational-tours/london-finance-walking-tour/#canary-wharf-walking-tour)
 
 <hr style="border-top: 1px solid #8c8b8b;">
 
@@ -77,4 +77,4 @@ As a reference, we used the measurements from the [UK Tech Innovation Index](htt
 - Oxford: 3.6
 - Cambridge: 4.7
 
-If you have any further questions, contact us at [contact@insider-london.co.uk](mailto:contact@insider-london.co.uk).
+If you have any further questions, contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com).

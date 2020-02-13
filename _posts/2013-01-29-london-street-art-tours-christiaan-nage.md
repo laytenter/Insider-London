@@ -3,9 +3,7 @@ title: Street Art&#8230;. Mushrooms
 date: 2013-01-29 13:05:46 Z
 permalink: "/blog/london-street-art-tours-christiaan-nage/"
 categories:
-- blog
-- East London
-- London Street Art &amp; Graffiti
+  - Art and Culture
 tags:
 - Broken Fingaz crew
 - Christiaan Nagel
@@ -15,7 +13,7 @@ tags:
 id: 25429
 author: london75
 layout: post
-guid: https://www.insider-london.co.uk/?p=4045
+guid: https://www.insiderlondon.com/?p=4045
 ---
 
 **Mushrooms. Street art. Know what I mean? Chances are, if you’ve spent any time walking round East London and looked heavenwards for inspiration, you will have been greeted by… mushrooms. Christiaan Nagel is the man behind them, on a one-man mushroom, sorry _mission_, __to ‘cover the world in mushrooms’.**
@@ -26,7 +24,7 @@ guid: https://www.insider-london.co.uk/?p=4045
 
 I was on holiday in Mozambique and then came to Cape Town to besiege the people of the mountains with mushrooms. I’ve done four installations in Cape Town.
 
-<a href="/london-street-art-tours-christiaan-nage/" rel="attachment wp-att-4049"><img class="alignnone size-full wp-image-4049" alt="Street Art, Christiaan Nagel, Street Art Walking Tours, Insider London" src="/wp-content/uploads/2013/01/Office-Hours-redux.jpg" width="569" height="379" /></a>
+<a href="/blog/london-street-art-tours-christiaan-nage/" rel="attachment wp-att-4049"><img class="alignnone size-full wp-image-4049" alt="Street Art, Christiaan Nagel, Street Art Walking Tours, Insider London" src="/wp-content/uploads/2013/01/Office-Hours-redux.jpg" width="569" height="379" /></a>
 
 **What aspect do you enjoy most – the creating of the mushrooms or the knowledge that more people will be seeing your work? Or even that people may not see your work for weeks/months and suddenly just go ‘oh, how long’s that been there’?**
 
@@ -58,6 +56,6 @@ But then again there are some really good international street artists who fly b
 
 Nice one bra&#8230;..
 
-_**If you want to learn more about East London street art, why not pop along on one of our [street art tours](https://www.insider-london.co.uk/tours/street-art-tour-london/ "East London Street Art Walking Tour")&#8230;.it&#8217;s different every time.**_
+_**If you want to learn more about East London street art, why not pop along on one of our [street art tours](https://www.insiderlondon.com/london/educational-tours/street-art-tour-london/ "East London Street Art Walking Tour")&#8230;.it&#8217;s different every time.**_
 
 &nbsp;

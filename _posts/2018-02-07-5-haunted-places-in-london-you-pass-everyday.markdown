@@ -1,13 +1,14 @@
 ---
-title: 5 Haunted Places In London You Pass Everyday!
+title: 5 Everyday London Places that are Haunted!
 date: 2018-02-07 10:00:00 Z
 permalink: "/blog/5-haunted-places-London/"
-tags:
-- ghost
+
 description: Ye Olde London Towne is believed to harbor a spookier side... but forget
   London Dungeons! For fans of ghosts, ghouls and things that go bump in the night,
   here are five haunted spots you may pass on a daily basis.
 layout: post
+categories:
+  - Art and Culture
 ---
 
 ![01_960x540-Royal_Exchange_Panorama By Ian Muttoo CC BY-SA 2.0 via Wikimedia Commons.jpg](/uploads/01_960x540-Royal_Exchange_Panorama%20By%20Ian%20Muttoo%20CC%20BY-SA%202.0%20via%20Wikimedia%20Commons.jpg)
@@ -26,7 +27,7 @@ After a hard day’s work, you cram onto the platform – but perhaps you see a 
 If this pub is your favourite haunt, you are not alone! While enjoying a casual pint at the bar, you may feel a strange breathing down the back of your neck or spy your pint slipping away... You haven't had *that* much too drink, what's going on?! Well, it may be the ghost of a heart-broken Spanish barmaid [who hung herself in the pub's cellars](http://www.theflaskhighgate.com/about). Of course, that’s the obvious explanation!
 
 ![02_960x540-Flask,_Highgate,_N6_(2883805442) By Ewan Munro from London, UK CC BY-SA 2.0 via Wikimedia Commons.jpg](/uploads/02_960x540-Flask,_Highgate,_N6_(2883805442)%20By%20Ewan%20Munro%20from%20London,%20UK%20CC%20BY-SA%202.0%20via%20Wikimedia%20Commons.jpg)
-*The Flask, Highgate, by [Ewan Munro via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flask,_Highgate,_N6_(2883805442).jpg) 
+*The Flask, Highgate, by [Ewan Munro via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flask,_Highgate,_N6_(2883805442).jpg)
 
 
 ## 3. Hampstead Heath
@@ -52,4 +53,4 @@ Next time you go to grab your Tube map, why not supplement it with [Brilliantly 
 ![05_960x540-Covent_Garden_Tube_Station By Eluveitie CC BY-SA 3.0 via Wikimedia Commons.JPG](/uploads/05_960x540-Covent_Garden_Tube_Station%20By%20Eluveitie%20CC%20BY-SA%203.0%20via%20Wikimedia%20Commons.JPG)
 *Covent Garden Tube Station, by [Eluveitie via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Covent_Garden_Tube_Station.JPG)*
 
-*Can you brave an encounter with William Terris and his spooky companions? Tip-toe through the back passages of the West End, on our [Ghost Tour](https://www.insider-london.co.uk/tours/famous-ghosts-and-infamous-murders/).* 
+*Can you brave an encounter with William Terris and his spooky companions? Tip-toe through the back passages of the West End, on our [Ghost Tour](https://www.insiderlondon.com/london/cultural-experiences/famous-ghosts-and-infamous-murders/).*

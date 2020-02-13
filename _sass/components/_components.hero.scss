@@ -1,0 +1,46 @@
+.hero {
+
+  position: relative;
+
+  &:before {
+    position: absolute;
+    content:" ";
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    display: block;
+    z-index:0;
+    background-color: rgba($color-blue,0.6);
+  }
+}
+
+.hero__image {
+  height: calc(100vh - 72px);
+  object-fit: cover;
+  @include mq($from:tablet)
+  {
+    height: calc(100vh - 96px);
+  }
+}
+
+.hero__content {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  color: white;
+  text-align: center;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  top: 0;
+}
+
+.hero__title {
+  color: $color-white;
+  font-weight: 700;
+  @include mq(mobile) {
+    @include inuit-font-size(20px);
+  }
+}

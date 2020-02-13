@@ -3,22 +3,19 @@ title: The Opening of the Walkie Talkie Sky Garden
 date: 2015-01-09 10:30:14 Z
 permalink: "/blog/the-opening-of-the-walkie-talkie-sky-garden/"
 categories:
-- blog
-- Modern Architecture
-tags:
-- modern architecture
+- Architecture
 id: 24449
 author: london75
 layout: post
-guid: https://www.insider-london.co.uk/?p=24449
+guid: https://www.insiderlondon.com/?p=24449
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 <img class="aligncenter wp-image-24456 size-full" src="/wp-content/uploads/2015/01/walkie-talkie_mini.jpg" alt="20 Fenchurch Street Walkie Talkie" width="569" height="461" />
@@ -51,4 +48,4 @@ Its definition of “public park” is also fairly questionable &#8211; visits h
 
 What do you think? Will you be planning a visit? If so, you can <a href="https://skygardentickets.com/skygardenpublic_ui/(S(mdslx4cbunu1opbcqodwgtbc))/filters/" target="_blank">book your free slot here</a>. At time of writing, January was already fully booked up, with February getting there fast&#8230;.
 
-And to find out more about London’s ever changing architecture, why not come on one of our Insider London <a href="https://www.insider-london.co.uk/tours/modern-architecture-tour/" target="_blank">modern architecture</a> or <a href="https://www.insider-london.co.uk/tours/sustainable-london-architecture-tour/" target="_blank">sustainable architecture walking tours</a>?
+And to find out more about London’s ever changing architecture, why not come on one of our Insider London <a href="https://www.insiderlondon.com/london/educational-tours/modern-architecture-tour/#modern-architecture" target="_blank">modern architecture</a> or <a href="https://www.insiderlondon.com/london/educational-tours/sustainable-london-architecture-tour/#sustainable-architecture" target="_blank">sustainable architecture walking tours</a>?

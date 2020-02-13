@@ -7,18 +7,40 @@ layout: compress
 
   {% include head.html %}
 
-  <body>
+  {% assign segments = page.url | split: '/' %}
+
+  <body class="{{ segments[1] }}">
     <!-- Include the svg logo sets -->
-    {% include symbols/symbol-defs.svg %}
 
     {% include header.html %}
 
-        {{ content }}
+      {{ content }}
 
     {% include footer.html %}
 
-  </body>
+    {% include tour-enquiry-sticky.html %}
 
-<!-- Linked in 'insight' tag -->
-<script type="text/javascript"> _linkedin_partner_id = "405745"; window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || []; window._linkedin_data_partner_ids.push(_linkedin_partner_id); </script><script type="text/javascript"> (function(){var s = document.getElementsByTagName("script")[0]; var b = document.createElement("script"); b.type = "text/javascript";b.async = true; b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; s.parentNode.insertBefore(b, s);})(); </script> <noscript> <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=405745&fmt=gif" /> </noscript>
-</html>
+    <!-- Look at loading scripts only where needed -->
+    <script type="text/javascript" async src="{{ "/js/picturefill.min.js" | prepend: site.baseurl }}"></script>
+    <script type="text/javascript" src="{{ "/js/nav-04-12-19.js" | prepend: site.baseurl }}"></script>
+
+    <!-- Uh oh, need to tidy this up i.e. remove -->
+    <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+    <script src="https://player.vimeo.com/api/player.js"></script>
+    <script type="text/javascript" src="{{ "/js/modal-10-12-19.js" | prepend: site.baseurl }}"></script>
+
+    <script type="text/javascript">
+      $(document).ready(function() {
+        $('.slideshow').each(function(){
+          var slickInduvidual = $(this);
+          slickInduvidual.slick({
+            autoplay: true,
+            dots: true
+          });
+        })
+      });
+    </script>
+
+  </body>

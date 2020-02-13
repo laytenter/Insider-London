@@ -1,0 +1,51 @@
+.icon {
+  cursor: pointer;
+  border: none;
+  overflow: hidden;
+  text-indent: -999px;
+  display: inline-block;
+  line-height: 0;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-position: center center;
+  width: 24px;
+  height: 24px;
+  vertical-align: middle;
+}
+
+.icon + .icon {
+  margin-left: $inuit-global-spacing-unit;
+}
+
+.icon--small {
+  width: 18px;
+  height: 18px;
+}
+.icon--large {
+  width: 36px;
+  height: 36px;
+}
+
+.icon--menu {
+	background-image: url(/assets/menu.svg);
+}
+
+.icon--close {
+	background-image: url(/assets/icons/x.svg);
+  position: absolute;
+  top: 24px;
+  right: 12px;
+  margin-top: 0;
+}
+
+.icon--facebook {
+	background-image: url(/assets/icons/facebook.svg);
+}
+
+.icon--linkedin {
+	background-image: url(/assets/icons/linkedin.svg);
+}
+
+.icon--trip-adviser {
+	background-image: url(/assets/icons/tripadvisor.svg);
+}

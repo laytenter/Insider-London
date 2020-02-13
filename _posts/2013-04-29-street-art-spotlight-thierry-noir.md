@@ -3,27 +3,18 @@ title: Street Artist Spotlight &#8211; Thierry Noir
 date: 2013-04-29 11:53:57 Z
 permalink: "/blog/street-art-spotlight-thierry-noir/"
 categories:
-- blog
-- East London
-- London Street Art &amp; Graffiti
-tags:
-- Insider London
-- London walking tours
-- Stik
-- Street Art
-- Thierry Noir
-- Village Underground
+  - Art and Culture
 id: 4929
 author: london75
 layout: post
-guid: https://www.insider-london.co.uk/?p=4929
+guid: https://www.insiderlondon.com/?p=4929
 ---
 
 **[Thierry Noir](http://www.galerie-noir.de/index.html "Theirry's website") shot to fame in the 80s when he decided the old Berlin Wall was looking a bit shabby and that the whole totalitarian state thing needed a bit of [zhoozh](http://www.galerie-noir.de/ArchivesEnglish/LifeNearTheWall.html). I do not seek to make unnecessary light of such a horror &#8211; thank goodness, frankly, for people like Thierry seeking to demystify the dehumanising effect of the wall. And it was joyous poetry that the man himself was not only there to see it come down but was also one of the first to paint the East side.**
 
 It would be fair to say the &#8216;East side&#8217; of London is less political &#8211; and moreover, the walls seem _designed_ for people like Thierry to paint on. And he did just that recently, hooking up with the great [Stik](http://www.stik.org.uk/ "Stik") to adorn the [Village Underground](http://villageunderground.co.uk/home "Village Underground").
 
-<a href="/street-art-spotlight-thierry-noir/" rel="attachment wp-att-4933"><img class="alignnone size-full wp-image-4933" alt="street art, walking tours, Village Underground, Stik, Thierry Noir" src="/wp-content/uploads/2013/03/wideanglenoirstik.jpg" width="569" height="346" /></a>
+<a href="/blog/street-art-spotlight-thierry-noir/" rel="attachment wp-att-4933"><img class="alignnone size-full wp-image-4933" alt="street art, walking tours, Village Underground, Stik, Thierry Noir" src="/wp-content/uploads/2013/03/wideanglenoirstik.jpg" width="569" height="346" /></a>
 
 As the paint dried, we asked Monsiuer Noir if he&#8217;d answer a few questions.
 
@@ -45,7 +36,7 @@ As the paint dried, we asked Monsiuer Noir if he&#8217;d answer a few questions.
 
 Stik, Kid Acne, Broken Fingaz Crew, Phlegm, Pablo Delgado, The Rolling People, Run, Ben Eine, Roa.
 
-<a href="/street-art-spotlight-thierry-noir/" rel="attachment wp-att-4942"><img class="alignnone size-full wp-image-4942" alt="street art, Insider London, Stik, Village Underground, Thierry Noir" src="/wp-content/uploads/2013/03/thierrystik-2.jpg" width="569" height="427" /></a>
+<a href="/blog/street-art-spotlight-thierry-noir/" rel="attachment wp-att-4942"><img class="alignnone size-full wp-image-4942" alt="street art, Insider London, Stik, Village Underground, Thierry Noir" src="/wp-content/uploads/2013/03/thierrystik-2.jpg" width="569" height="427" /></a>
 
 **What constitutes great street art in your opinion?
 
@@ -69,7 +60,7 @@ Stik, Kid Acne, Broken Fingaz Crew, Phlegm, Pablo Delgado, The Rolling Peop
 
 It would be fair to say the &#8216;East side&#8217; of London is less political &#8211; and moreover, the walls seem _designed_ for people like Thierry to paint on. And he did just that recently, hooking up with the great [Stik](http://www.stik.org.uk/ "Stik") to adorn the [Village Underground](http://villageunderground.co.uk/home "Village Underground").
 
-<a href="/street-art-spotlight-thierry-noir/" rel="attachment wp-att-4933"><img class="alignnone size-full wp-image-4933" alt="street art, walking tours, Village Underground, Stik, Thierry Noir" src="/wp-content/uploads/2013/03/wideanglenoirstik.jpg" width="569" height="346" /></a>
+<a href="/blog/street-art-spotlight-thierry-noir/" rel="attachment wp-att-4933"><img class="alignnone size-full wp-image-4933" alt="street art, walking tours, Village Underground, Stik, Thierry Noir" src="/wp-content/uploads/2013/03/wideanglenoirstik.jpg" width="569" height="346" /></a>
 
 As the paint dried, we asked Monsiuer Noir if he&#8217;d answer a few questions.
 
@@ -91,7 +82,7 @@ As the paint dried, we asked Monsiuer Noir if he&#8217;d answer a few questions.
 
 Stik, Kid Acne, Broken Fingaz Crew, Phlegm, Pablo Delgado, The Rolling People, Run, Ben Eine, Roa.
 
-<a href="/street-art-spotlight-thierry-noir/" rel="attachment wp-att-4942"><img class="alignnone size-full wp-image-4942" alt="street art, Insider London, Stik, Village Underground, Thierry Noir" src="/wp-content/uploads/2013/03/thierrystik-2.jpg" width="569" height="427" /></a>
+<a href="/blog/street-art-spotlight-thierry-noir/" rel="attachment wp-att-4942"><img class="alignnone size-full wp-image-4942" alt="street art, Insider London, Stik, Village Underground, Thierry Noir" src="/wp-content/uploads/2013/03/thierrystik-2.jpg" width="569" height="427" /></a>
 
 **What constitutes great street art in your opinion?
 
@@ -115,4 +106,4 @@ Stik, Kid Acne, Broken Fingaz Crew, Phlegm, Pablo Delgado, The Rolling Peop
 
 **Here, here&#8230; do not underestimate the political power of art.**
 
-&nbsp;
+Interested in London Street Art? Book your group on our [Shoreditch Street Art Tour](/london/educational-tours/street-art-tour-london/)!

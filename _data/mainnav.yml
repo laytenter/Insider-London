@@ -1,0 +1,41 @@
+sections:
+  - title: What we do
+    url: /what-we-do
+  - title: London
+    url: /london/
+  - title: North America
+    url: /north-america/
+    links:
+      - title: Silicon Valley
+        url: /silicon-valley
+  - title: Europe
+    url: /europe/
+  - title: Asia
+    url: /asia/
+  - title: News
+    url: /blog/
+london:
+  - title: Educational Tours
+    url: /london/educational-tours/
+  - title: Company Visits
+    url: /london/company-visits/
+  - title: Cultural Experiences
+    url: /london/cultural-experiences/
+asia:
+  - title: Dubai
+    url: /asia/dubai/
+  - title: Tokyo
+    url: /asia/tokyo/
+  - title: Shanghai
+    url: /asia/shanghai/
+europe:
+  - title: Berlin
+    url: /europe/berlin/
+berlin:
+  - title: Company Visits
+    url: /europe/berlin/company-visits/
+  - title: Educational Tours
+    url: /europe/berlin/educational-tours/
+usa:
+  - title: Silicon Valley
+    url: /north-america/silicon-valley/

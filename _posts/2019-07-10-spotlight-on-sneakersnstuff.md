@@ -4,6 +4,8 @@ date: 2019-07-10 00:00:00 Z
 description: 'This week, we take a look at one of the East End''s coolest boutiques:
   Sneakersnstuff, as it celebrates its 20 year anniversary.'
 excerpt_separator: "<!--more-->"
+categories:
+  - Marketing and Retail
 ---
 
 ![Interior shot of the NYC sneakernstuff store](/uploads/sneakersnstuff-luxury-sneaker-store-nyc-erik-fagerlind-interview-1-760.jpg)
@@ -24,4 +26,4 @@ Sneakersnstuff is no ordinary chain. Retailers are specifically located in globa
 
 Furthermore, they stock exclusively limited-edition products and what's in store today won't be around next month. Marketing scarcity is hardly a new idea and the brand is 20 years old but luxury sportswear is particularly attractive to what the Financial Times refers to as ['a new wave of entrepreneurs'](https://www.ft.com/content/2155aa3e-d08b-11e8-9a3c-5d5eac8f1ab4). With an estimated global value of $1 billion, the sneaker resale market is booming with the coolest limited editions and unusual collaborations (unsurprisingly fetching the highest prices) and Western buyers often selling to affluent consumers in the Far East. From Instagram to [Flight Club](https://www.flightclub.com/), there are a variety of online platforms for the sneaker resale market and in 2018, South-East London hosted [Sneakerness](https://www.theguardian.com/fashion/2018/jul/06/sneakerness-london-kanye-west-adidas-yeezy), Europe's biggest trainer convention, whilst the ExCel Exhibition Centre hosted [SneakerCon](https://www.eventbrite.co.uk/e/crepe-city-london-2018-tickets-49526720755). The most expensive example is Nike's 'Back to the Future II' sneakers which fetch an [average resale price of $32,275](https://www.economist.com/business/2017/05/25/the-market-for-rare-trainers).
 
-To find out more about the retailers booming (as British high streets continue to struggle), book your group on an [East End Retail Design Tour](https://www.insider-london.co.uk/tours/east-end-retail-design-tour/)
+To find out more about the retailers booming (as British high streets continue to struggle), book your group on an [East End Retail Design Tour](https://www.insiderlondon.com/london/educational-tours/retail-design/#east-end-retail-design)

@@ -3,6 +3,8 @@ title: The Department Store's Decline and How it Reflects Retail Trends
 date: 2019-05-08 08:31:00 Z
 permalink: "/blog/the-department-stores-decline-and-How-it-reflects-retail-trends/"
 layout: post
+categories:
+  - Marketing and Retail
 ---
 
 ![department store decline](/uploads/decline%20of%20department%20store%20house%20of%20fraser%20.jpg)
@@ -41,4 +43,4 @@ For one Diane Werhle of market research firm Springboard admits that the [USP of
 
 
 
-To learn more about the experience economy then join us for an [East End Retail Design Tour](https://www.insider-london.co.uk/tours/east-end-retail-design-tour/ ). We visit Shoreditch's coolest independent brands whilst tracing the rise of this vibrant retail area in the face of general high street decline.
+To learn more about the experience economy then join us for an [East End Retail Design Tour](https://www.insiderlondon.com/london/educational-tours/retail-design/#east-end-retail-design ). We visit Shoreditch's coolest independent brands whilst tracing the rise of this vibrant retail area in the face of general high street decline.

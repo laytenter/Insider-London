@@ -5,6 +5,8 @@ description: Insider London had the pleasure to take a group from South Korea to
   Kasko, an InsurTech start-up, for an in-depth visit. The delegates discovered details
   about Kasko’s guiding principles and the technology they utilise.
 excerpt_separator: "<!--more-->"
+categories:
+  - Events
 ---
 
 ![Our group of delegates from the NHIC before the start of the visit.](/uploads/DSC02376-760.jpg)
@@ -28,4 +30,4 @@ The UK has undoubtedly taken a leading role in the world of FinTech and it has b
 
 ![The delegates listening to the presentation](/uploads/DSC02371-760.jpg)
 
-This business visit felt like a meeting of minds something that we always strive to accomplish at Insider London. Please take the time to have a look at our website to see the types of [business visits](https://www.insider-london.co.uk/in-depth-business-visits/) we offer or contact us at contact@insider-london to discuss your particular needs.
+This business visit felt like a meeting of minds something that we always strive to accomplish at Insider London. Please take the time to have a look at our website to see the types of [business visits](https://www.insiderlondon.com/london/company-visits/) we offer or contact us at contact@insider-london to discuss your particular needs.

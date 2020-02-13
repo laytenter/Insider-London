@@ -1,0 +1,15 @@
+.bg-gray {
+  background-color: $color-gray;
+}
+
+.u-landing-background {
+  background-position: top center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  padding-bottom: $inuit-global-spacing-unit-huge;
+}
+
+.u-capitalise {
+  text-transform: capitalize;
+}

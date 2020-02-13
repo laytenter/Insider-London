@@ -3,7 +3,8 @@ title: IBK Tech Week 2019
 date: 2019-06-19 00:00:00 Z
 description: 'One of the highlights of London Tech Week here at Insider London was
   the return of the IBK Executive Group for our ''Fintech for the Future Workshop''. '
-layout: blog-post
+categories:
+  - Events
 ---
 
 ![Insider London 12-6-19-43-760.jpg](/uploads/Insider%20London%2012-6-19-43-760.jpg)
@@ -22,6 +23,6 @@ Last but not least was Paul Farrington from [Stratis](https://stratisplatform.co
 
 ![Insider London 12-6-19-129-760.jpg](/uploads/Insider%20London%2012-6-19-129-760.jpg)
 
-The day was rounded off with a [Silicon Roundabout Walking Tour](https://www.insider-london.co.uk/tours/silicon-roundabout-and-tech-city-tour/) where the 76 delegates split into 5 smaller groups to explore the past, present and future of this booming business eco-system. Insider London would like to thank all speakers and all delegates for making this day truly special.
+The day was rounded off with a [Silicon Roundabout Walking Tour](https://www.insiderlondon.com/london/educational-tours/silicon-roundabout-and-tech-city-tour/) where the 76 delegates split into 5 smaller groups to explore the past, present and future of this booming business eco-system. Insider London would like to thank all speakers and all delegates for making this day truly special.
 
-Looking to London for your innovation day? Get in touch via contact@insider-london.co.uk to start planning your bespoke corporate experience.
+Looking to London for your innovation day? Get in touch via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to start planning your bespoke corporate experience.

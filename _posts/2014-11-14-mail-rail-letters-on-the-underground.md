@@ -3,23 +3,22 @@ title: 'Mail Rail: Letters on the Underground'
 date: 2014-11-14 14:50:31 Z
 permalink: "/blog/mail-rail-letters-on-the-underground/"
 categories:
-- blog
-- London Underground/Tube
+- Transport
 tags:
 - London Underground
 - Tube
 id: 23255
 author: london75
 layout: post
-guid: https://www.insider-london.co.uk/?p=23255
+guid: https://www.insiderlondon.com/?p=23255
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 [<img class="aligncenter wp-image-23257 size-full" src="/wp-content/uploads/2014/11/Mail-Rail-1980s_mini.jpg" alt="Mail Rail image C. Royal Mail" width="586" height="569" />](/wp-content/uploads/2014/11/Mail-Rail-1980s_mini.jpg)
@@ -44,4 +43,4 @@ Now Mail Rail will be back in operation as part of the museum project taking vis
 
 [Post Haste](https://www.google.com/culturalinstitute/exhibit/post-haste/QQaW4lhR "Post Haste ") explores more unusual methods of transporting mail using pigeon post, hot air balloons and even a curious attempt to persuade cats to carry letters.
 
-Explore the hidden depths of the tube on a [London Underground Tube tour.](/tours/london-underground-and-tube-tour/ "London Underground Tube Tour")
+Explore the hidden depths of the tube on a [London Underground Tube tour.](/london/educational-tours/london-underground-and-tube-tour/ "London Underground Tube Tour")

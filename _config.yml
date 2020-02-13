@@ -2,21 +2,23 @@
 title: Insider London
 timezone: UTC
 collections:
-  authors:
-    title: Authors
-    output: true
-    permalink: "/authors/:path/"
   posts:
     title: Posts
     output: true
   tours:
     title: Tours
     output: true
-    permalink: "/tours/:path/"
+    permalink: /:path/
   uploads:
     title: Uploads
     output: true
+  category:
+    output: true
 defaults:
+- scope:
+    type: category
+  values:
+    layout: "category"
 - scope:
     path: ''
     type: authors
@@ -26,28 +28,31 @@ defaults:
     path: ''
     type: posts
   values:
-    description: 
-    author: 
-    heading: 
+    description:
+    author:
+    heading:
     layout: post
     permalink: "/blog/:title/"
 - scope:
     path: ''
     type: tours
   values:
-    heading: 
-    description: 
+    heading:
+    layout: programme
+    script: slick-slider.js
+    nav: london
+    description:
     gallery:
-    - image: 
-      caption: 
-      alt: 
-    embed: 
-    order: 
+    - image:
+      caption:
+      alt:
+    embed:
+    order:
 - scope:
     path: ''
     type: authors
   values:
-    image: 
+    image:
 feed:
   path: blog/atom.xml
 social:
@@ -62,10 +67,10 @@ name: Insider London
 description: At Insider London we offer a variety of alternative guided tours of London
   ideal for tourists, locals, students, school trips, private parties and corporate
   events.
-url: https://www.insider-london.co.uk
+url: https://www.insiderlondon.com
 lang: en_GB
 lsi: false
-paginate: 10
+paginate: 5
 paginate_path: "/blog/page/:num/"
 gems:
 - jekyll-paginate
@@ -80,7 +85,9 @@ exclude:
 - bower.json
 - package.json
 - node_modules
+- bower_components
 - wp-content
+- build
 - ".htaccess"
 - package-lock.json
 - Gemfile.lock
@@ -89,6 +96,7 @@ exclude:
 - gulpfile.js
 - images
 - imgs
+- assets/video
 future: true
 imagepath: "/assets/images/"
 compress_html:

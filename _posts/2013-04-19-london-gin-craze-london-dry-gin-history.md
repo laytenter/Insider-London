@@ -3,15 +3,7 @@ title: The evolution of gin in London, 1750 &#8211; 1850
 date: 2013-04-19 15:45:34 Z
 permalink: "/blog/london-gin-craze-london-dry-gin-history/"
 categories:
-- blog
-- London Pubs and nights out
-- Quirky, weird and bizarre London
-tags:
-- drinking
-id: 4921
-author: london75
-layout: post
-guid: https://www.insider-london.co.uk/?p=4921
+  - Art and Culture
 ---
 
 <img title="gin-palaces-london-gin-history-tour" alt="London gin palace" src="/wp-content/uploads/2013/03/gin-palaces-london-gin-history-tour.jpg" width="569" height="339" />
@@ -48,7 +40,7 @@ If you have any other interesting facts about gin, we’d love to hear them! Ple
 
 &nbsp;
 
-*There’s lots to say about the gin craze and gin palaces, but unfortunately we don’t have space here. You can find out more about both the gin craze and gin palaces from various sources, including our <a href="/tours/the-death-and-debauchery-tour/" target="_blank">Death and Debauchery Walking Tour</a>. You can also check out one of London’s last gin palaces on our <a href="https://www.insider-london.co.uk/tours/history-of-drinking-and-pubs/" target="_blank">History of Drinking Tour</a>.
+*There’s lots to say about the gin craze and gin palaces, but unfortunately we don’t have space here. You can also check out one of London’s last gin palaces on our <a href="/london/cultural-experiences/history-of-drinking-and-pubs/" target="_blank">History of Drinking Tour</a>.
 
 **A few other interesting facts about Gordon’s London Dry Gin: the recipe he launched with has not been changed to this day. We know that the gin is triple distilled and takes its flavour from juniper berries, coriander seeds, angelica root, liquorice, orris root, orange and lemon peel. However, only 12 people in the world are privy to the complete recipe. Gordon’s Gin is now the world’s best selling London Dry gin.
 

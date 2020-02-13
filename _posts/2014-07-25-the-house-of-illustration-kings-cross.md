@@ -3,34 +3,20 @@ title: 'Insider Interview: Olivia Ahmad of The House of Illustration'
 date: 2014-07-25 11:30:26 Z
 permalink: "/blog/the-house-of-illustration-kings-cross/"
 categories:
-- blog
-- Kings Cross regeneration
-- Other
-- Quirky, weird and bizarre London
-tags:
-- architecture
-- art
-- Design
-- Education
-- Events
-- Fairs
-- Granary Square
-- Illustration
-- Kings Cross Regeneration
-- Quentin Blake
-- Workshops
+categories:
+  - Regeneration
 id: 15700
 author: london75
 layout: post
-guid: https://www.insider-london.co.uk/?p=15700
+guid: https://www.insiderlondon.com/?p=15700
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
 [](/wp-content/uploads/2014/07/P_KXC_K1_DEV_001_N711.jpg) [<img class="aligncenter wp-image-15703 size-full" src="/wp-content/uploads/2014/07/P_KXC_K1_DEV_001_N71-e1406188693706.jpg" alt="Kings Cross Regeneration" width="569" height="379" />](/wp-content/uploads/2014/07/P_KXC_K1_DEV_001_N71.jpg)
@@ -53,7 +39,7 @@ House of Illustration was established in 2002. The original idea came from a gr
   <em>Potential child prodigies of illustration?  Image Credit: David Rose</em>
 </p>
 
-**We do a walking tour based around the <a href="https://www.insider-london.co.uk/kings-cross-innovation-tour/" target="_blank">regeneration of the Kings’s Cross area</a>. Why did the House of Illustration choose Kings Cross as its permanent home as opposed to an established location such as Shoreditch or Soho?**
+**We do a walking tour based around the <a href="/blog/kings-cross-innovation-tour/" target="_blank">regeneration of the Kings’s Cross area</a>. Why did the House of Illustration choose Kings Cross as its permanent home as opposed to an established location such as Shoreditch or Soho?**
 
 The redevelopment of Kings Cross is an ambitious project.  The area is now home to many dynamic and creative organisations, as well as vibrant and welcoming public spaces.  We think that House of Illustration fits with both of these aspects!
 
@@ -87,12 +73,12 @@ Opening a new public building represents many challenges!  But what we have fou
 
 Quentin’s archive was the catalyst for establishing the House of Illustration project in 2002, and so we are beginning our new phase as a public gallery with his work too. Quentin is one of the world’s best-loved illustrators, and perhaps also one of the most prolific!  An exhibition on Quentin’s work allows us to look at illustration from a range of angles, as he has dealt with a broad range of subject matter-from Roald Dahl’s _The Twits_ to Voltaire’s _Candide_. Our next exhibition will be _Paula Rego/Honoré Daumier: Scandals, Gossip and Other Stories_, an exhibition that first opened at Casa das Histórias Paula Rego in Portugal.  The exhibition explores the way that the two artists have used printmaking to bring their views, histories and political perspectives to a broad audience.
 
-**Education manager Emily Jost, also filled us in on the House of Illustration&#8217;s education and outreach programmes.**
+**Education manager Emily Jost, also filled us in on the House of Illustration's education and outreach programmes.**
 
-House of Illustration has been delivering illustrator led outreach projects in London primary schools for the last 4.5 years. Illustration is a powerful-yet underused cross-curricular learning tool for children of all abilities, and our projects have supported literacy, science, geography, history and of course, art and design. From September, we have a new outreach project called Let&#8217;s Illustrate! Which places an illustrator in a school for three days to deliver a choice of four literacy projects. In house, we will be offering schools the opportunity to view the exhibitions and take part in an illustration workshop. We have family illustration workshops on the last saturday of the month. All of our workshops are led by professional illustrators, and enable participants to learn new skills, gain confidence in visual literacy and produce outcomes of which they can be proud.
+House of Illustration has been delivering illustrator led outreach projects in London primary schools for the last 4.5 years. Illustration is a powerful-yet underused cross-curricular learning tool for children of all abilities, and our projects have supported literacy, science, geography, history and of course, art and design. From September, we have a new outreach project called Let's Illustrate! Which places an illustrator in a school for three days to deliver a choice of four literacy projects. In house, we will be offering schools the opportunity to view the exhibitions and take part in an illustration workshop. We have family illustration workshops on the last saturday of the month. All of our workshops are led by professional illustrators, and enable participants to learn new skills, gain confidence in visual literacy and produce outcomes of which they can be proud.
 
 **Thanks Emily and Olivia!**
 
-The <a href="http://www.houseofillustration.org.uk/" target="_blank">House of Illustration</a> is based at 2 Granary Square, Kings Cross, London, N1C 4BH, open 10am-18:00pm Tuesday to Sunday. Their current exhibition Quentin Blake: Inside Stories runs until 2 November 2014.
+The [House of Illustration](http://www.houseofillustration.org.uk/) is based at 2 Granary Square, Kings Cross, London, N1C 4BH, open 10am-18:00pm Tuesday to Sunday. Their current exhibition Quentin Blake: Inside Stories runs until 2 November 2014.
 
-&nbsp;
+Bringing together art, culture, business and much more, see Kings Cross differently on our [Innovation & Regeneration Tour](/london/educational-tours/kings-cross-regeneration/#kings-cross-innovation-and-regeneration)

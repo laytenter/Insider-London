@@ -3,7 +3,7 @@ title: "\uFEFFUnusual and Historical Shops in London"
 date: 2016-07-03 20:16:00 Z
 permalink: "/blog/insider-london-shops/"
 categories:
-- blog
+  - Marketing and Retail
 layout: post
 ---
 
@@ -21,4 +21,4 @@ There are also impressive historic food shops with a little more range to their 
 
 Food and clothes seem to account for most of the city’s oldest shops, but there are a few notable exceptions which can’t be categorised so easily. One of our favourites is Floris on Jermyn Street, a perfumer established by Spaniard Juan Famenias Floris in 1730. The gorgeous scents wafting from the shop announce that they’re still at it, and a trip inside reveals beautiful wooden counters and cases that were bought at the Great Exhibition of 1851. For a fragrance of a different sort, nearby James Fox Tobacconists is London’s oldest cigar merchants, supplying smokes to Winston Churchill once upon a time. If these aren’t quirky enough, Arthur Beale on Shaftesbury Avenue is a yacht chandler that has been in continuous operation since 1843. There you’ll find buoys, ropes and all manner of nautical equipment.
 
-It’s wonderful to get a sense of London’s history, and these shops have gorgeous décor and ambience even if you’re only window shopping. You can even learn about some of our oldest crafts and practices. That being said, London is also known for it’s cutting-edge modernity. When you’ve had your fill of history, find out some of the amazing stories and constructions behind the capital’s striking modern architecture on our [Modern Architecture Tour](/tours/modern-architecture-tour/).
+It’s wonderful to get a sense of London’s history, and these shops have gorgeous décor and ambience even if you’re only window shopping. You can even learn about some of our oldest crafts and practices. That being said, London is also known for it’s cutting-edge modernity. When you’ve had your fill of history, find out some of the amazing stories and constructions behind the capital’s striking modern architecture on our [Modern Architecture Tour](/london/educational-tours/modern-architecture-tour/).

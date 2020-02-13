@@ -16,12 +16,30 @@ var run          = require('gulp-run');
 var runSequence  = require('run-sequence');
 var sass         = require('gulp-ruby-sass');
 var uglify       = require('gulp-uglify');
-var criticalCss = require('gulp-penthouse');
 var responsive   = require('gulp-responsive');
 var plumber   = require('gulp-plumber');
 
 // Include paths file.
 //var paths = require('./_assets/gulp_config/paths');
+
+gulp.task('landing-page-images', function () {
+
+  return gulp.src('./images/cities-clean/**/*.png')
+      .pipe(plumber())
+    .pipe(responsive({'**/*.png': {
+        width: 1000
+      },
+    },
+     {
+      progressive: true,
+      quality: 70,
+      withMetadata: false,
+      errorOnEnlargement: false,
+      errorOnUnusedConfig: false
+    })).pipe(gulp.dest('assets/images/cities'))
+    .on('error', gutil.log);
+
+});
 
 // Use Sass compiler to process styles, adds vendor prefixes, minifies etc and outputs for the appropriate locations
 gulp.task('build:styles:main', function(){
@@ -30,7 +48,7 @@ gulp.task('build:styles:main', function(){
     trace: true,
     loadPath: ['_sass/']
   }).pipe(postcss([ autoprefixer({
-      browsers: ['last 2 versions']}
+      browsers: ['last 10 versions']}
       )]
   ))
   .pipe(cleancss())
@@ -68,7 +86,7 @@ gulp.task('images', function () {
         rename: { suffix: '-760'}
       },
     },
-     {
+    {
       progressive: true,
       quality: 70,
       withMetadata: true,
@@ -79,8 +97,8 @@ gulp.task('images', function () {
 
 // Runs jekyll build command.
 gulp.task('build:jekyll', function() {
-    var shellCommand = 'bundle exec jekyll build --incremental --config _config.yml';
 
+    var shellCommand = 'bundle exec jekyll build --incremental --config _config.yml';
     return gulp.src('')
         .pipe(run(shellCommand))
         .on('error', gutil.log);
@@ -130,7 +148,9 @@ gulp.task('serve', ['build'], function() {
   gulp.watch(['_data/**/*.yml'], ['build:jekyll:watch']);
 
   // Watch .scss files; changes are piped to browserSync.
-  gulp.watch('_sass/*.scss', ['build:styles', 'build:jekyll:watch']);
+  gulp.watch('_sass/**/*.scss', ['build:styles', 'build:jekyll:watch']);
+
+  gulp.watch('css/main.scss', ['build:styles', 'build:jekyll:watch']);
 
   // Watch .scss files; changes are piped to browserSync.
   gulp.watch('js/*.js', ['build:scripts', 'build:jekyll:watch']);

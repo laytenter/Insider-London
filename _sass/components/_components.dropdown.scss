@@ -1,0 +1,32 @@
+.dropdown {
+  position: relative;
+}
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  z-index: 50;
+  left: 0;
+}
+
+.dropdown.show {
+  .dropdown-menu {
+    display: block;
+  }
+}
+
+.dropdown + .dropdown {
+  margin-left: $inuit-global-spacing-unit;
+
+  @include mq($from: desktop) {
+    margin-left: $inuit-global-spacing-unit-large;
+  }
+}
+
+.dropdown-menu-inner {
+  background-color: #fff;
+  margin-top: 6px;
+  border: 1px solid #d3dce8;
+  border-radius: 3px;
+  min-width: 60px;
+  box-shadow: 0 4px 14px rgba(2,7,14,.2);
+}
