@@ -3,7 +3,7 @@ date: 2019-12-18 09:13:00 Z
 title: Web Design Workshop with Archibald Butler
 excerpt_separator: "<!--more-->"
 categories:
-  - Business
+  - Events
 ---
 
 ![Archibald Butler](/uploads/Archie-1.png)

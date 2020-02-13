@@ -20,7 +20,7 @@ gallery2:
     alt:
 ---
 
-Our guided 2-hour walking tours showcase the most exciting dimensions to Berlin as a rich and vibrant hub of creativity and business innovation. Check out our absorbing [Silicon Allee/Tech City Tour](#silicon-alleetech-city-tour) and our thought-provoking [Berlin Street Art Tour](#berlin-street-art-tour)!
+Our guided 2-hour walking tours showcase the most exciting dimensions to Berlin as a rich and vibrant hub of creativity and business innovation. Check out our absorbing **[Silicon Allee/Tech City Tour](#silicon-alleetech-city-tour)** and our thought-provoking **[Berlin Street Art Tour](#berlin-street-art-tour)!**
 
 ### Silicon Allee/Tech City Tour
 
@@ -29,11 +29,11 @@ Our guided 2-hour walking tours showcase the most exciting dimensions to Berlin 
   {% include slideshow.html %}
 {% endif %}
 
-Since the fall of the infamous Berlin Wall in 1989, Berlin has unashamedly been an icon for start-ups across the world. With an affordable property boom and a 90s party scene which created a young talent magnet, we explore the local success stories like billion-dollar “unicorn” Zalando, music streaming service SoundCloud and “to-do” list app Wunderlist.
+Since the fall of the infamous Berlin Wall in 1989, Berlin has unashamedly been **an icon for start-ups** across the world. With an affordable property boom and a 90s party scene which created a young talent magnet, we explore the local success stories like billion-dollar “unicorn” **Zalando**, music streaming service **SoundCloud** and “to-do” list app **Wunderlist**.
 
 Incredibly with a brand-new start-up born every 20 minutes, Berlin has lost none of its dynamism and energy. In a neighbourhood bursting with genuine get-up-and-go from Fintech to music production and Metadata, this is a place where anything feels possible
 
-It's Zeitgeist, as they say in Germany. 
+**It's Zeitgeist, as they say in Germany.** 
 
 Welcome to the bullseye of Berlin’s success, a neighbourhood christened “Silicon Allee” - where the young and talented partied their way through the “dot com” bubble. We invite you to soak up the international vibe, traverse secret courtyards and discover the secrets to Berlin’s success.
 
@@ -43,13 +43,13 @@ Welcome to the bullseye of Berlin’s success, a neighbourhood christened “Sil
 
 **On this tour you will discover:**
 
-* Why Berlin attracts more start-up investment than anywhere else in the EU 
-* Why companies like Airbnb and Tesla have taken the monumental step to establish their brand new bases in Berlin 
+* Why Berlin attracts more start-up **investment** than anywhere else in the EU 
+* Why companies like **Airbnb** and **Tesla** have taken the monumental step to establish their brand new bases in Berlin 
 * How programmers, artists, restauranteurs and fashion designers have come together to fuel the start-up “eco-system” 
-* How vacant apartment houses morphed from rave venues to futuristic co-working spaces
+* How vacant apartment houses morphed from rave venues to **futuristic co-working spaces**
 * Debate whether Berlin’s low prices and edgy vibe can survive the 2020s
 
-This is an exterior walking tour of one of Berlin’s most future-focused neighbourhoods. For an in-depth understanding of Berlin’s tech scene, pair this with a [company visit](/europe/berlin/company-visits) to a pioneering Berlin start-up. 
+This is an exterior walking tour of one of Berlin’s most future-focused neighbourhoods. For an in-depth understanding of Berlin’s tech scene, pair this with a **[company visit](/europe/berlin/company-visits)** to a pioneering Berlin start-up. 
 
 _To book your tour or company visit, get in touch via [contact@insiderlondon.com](mailto:contact@insiderlondon.com)_
 
@@ -60,8 +60,9 @@ _To book your tour or company visit, get in touch via [contact@insiderlondon.com
   {% include slideshow.html %}
 {% endif %}
 
-Leave the tourist trail behind to explore Berlin’s edgier side.
-Street art in Berlin is the ultimate clue to the city’s have-a-go culture – an insight, if you like, into what makes this fascinating city tick. Forget big names - Berlin is a place where everyone wants to leave their mark, where your hairdresser is probably a DJ and your postman a sculptor.
+**Leave the tourist trail behind to explore Berlin’s edgier side.**
+
+**Street art** in Berlin is the ultimate clue to the city’s have-a-go culture – an insight, if you like, into what makes this fascinating city tick. Forget big names - Berlin is a place where everyone wants to leave their mark, where your hairdresser is probably a DJ and your postman a sculptor.
 
 Why not take time out to explore the global phenomenon of street art as well as the specific local context of the Berlin scene? From globally recognised graffiti legends to up-and-coming local artists, we look at pieces in a variety of mediums in a myriad of different artistic styles, very thought-provoking, very reflective – very Berlin.
 

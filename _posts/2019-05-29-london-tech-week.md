@@ -6,18 +6,17 @@ description: London Tech Week has been a major event on the calendar for years. 
   over 300 events, 55,000 attendees, and at least 90 countries represented this annual
   event reflects the significance of London as one of the most important tech hubs
   in the world.
-excerpt: London Tech Week has been a major event on the calendar for years.  With
-  over 300 events, 55,000 attendees, and at least 90 countries represented this annual
-  event reflects the significance of London as one of the most important tech hubs
-  in the world.
 heading: London Tech Week
 categories:
   - Business
+excerpt_separator: "<!--more-->"
 ---
 
-![London Tech Week 2019](/uploads/london%20tech%20week.jpg)
+![London Tech Week 2019](/uploads/london-tech-week.jpg)
 
-Anyone who has visited [Excel London](https://www.excel.london/) may not have fallen in love with the place but at least getting there is straight forward.  Excel has over 3,000 parking spaces, two DLR stations and City airport is just five minutes away.  When hosting an event as large as [London Tech](https://londontechweek.com/) Week choosing Excel is a bit of a no-brainer.
+Anyone who has visited [Excel London](https://www.excel.london/) may not have fallen in love with the place but at least getting there is straight forward.  Excel has over 3,000 parking spaces, two DLR stations and City airport is just five minutes away. When hosting an event as large as [London Tech](https://londontechweek.com/) Week choosing Excel is a bit of a no-brainer.
+
+<!--more-->
 
 London Tech Week has been a major event on the calendar for years.  With over 300 events, 55,000 attendees, and at least 90 countries represented this annual event reflects the significance of London as one of the most important tech hubs in the world.  The Mayor of London, Sadiq Khan, certainly thinks so:
 

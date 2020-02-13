@@ -16,19 +16,19 @@ sitemap: false
 <ul class="list-bare">
   <li>
     <strong>@</strong>
-    <a href="mailto:contact@insiderlondon.com" onclick="gtag('event', 'Click', { 'event_category': 'Email' });">
+    <a href="mailto:contact@insiderlondon.com" onclick="gtag('event', 'Click', { 'event_category': 'Contact','event_label':'Contact us - Email' });">
       contact@insiderlondon.com
     </a>
   </li>
   <li>
     <strong>T</strong>
-    <a href="tel:442071831055" onclick="gtag('event', 'Click', { 'event_category': 'Call' });">
+    <a href="tel:442071831055" onclick="gtag('event', 'Click', { 'event_category': 'Contact','event_label':'Contact us - Tel' });">
       +44 (0) 20 7183 1055
     </a>
   </li>
   <li>
     <strong>M</strong>
-    <a href="tel:447869678717" onclick="gtag('event', 'Click', { 'event_category': 'Call' });">
+    <a href="tel:447869678717" onclick="gtag('event', 'Click', { 'event_category': 'Contact', 'event_label':'Contact us - Tel' });">
       +44 (0)78 6967 8717
     </a>
   </li>

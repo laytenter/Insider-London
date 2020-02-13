@@ -1,16 +1,16 @@
 ---
 heading: Company Visits Berlin
 title: Company Visits Berlin
-description: A centre for media, science, and research, the German capital maintains its status as the technology hub for Europe. We present Berlin in all its glory with our exclusive range of company visits.
+description: Explore one of the most exciting technology hubs in Europe. Our Company Visits in Berlin cover a wide variety of exciting and creative businesses. Join us and come take a look at Berlin.
 layout: programme
 nav: berlin
 gallery:
   - image: /assets/images/cities/berlin/company-visits/euref-poster.jpg
     alt: Bird eye view of Euref building Berlin
   - image: /assets/images/cities/berlin/company-visits/Picture-2---Berlin-Wall-Start-Up-Innovation-Entrepreneurship-Student-Corporate-Study-Trip-Programme.jpg
-    alt: Berlin Start up innovation Entrepreneurship student Corporate study trip
+    alt: Company Visits Berlin - Open plan office space for a berlin tech company.
   - image: /assets/images/cities/berlin/company-visits/Picture-4---Berlin-Wall-Business-Marketing-Retail-Design-Student-Corporate-Study-Trip-Programme.jpg
-    alt:
+    alt: A trendy shop facade in Berlin city centre
 ---
 
 {% assign gallery = page.gallery %}
@@ -26,8 +26,8 @@ Our partnerships include:
 * **Babbel** – the most innovative company in education, this subscription-based app and e-learning software boasts millions of users and is developed by in-house linguists.
 * **Ableton music** – pioneering music technology for more than 20 years, this developer is the best known and most used music software in the word.
 * **ECOALF** – integrating break-through sustainable technology with stylish design, this brand represents the future of fashion and has released lines with Apple, Desigual and Swatch.
-* **Drone Masters** – accelerating the latest developments in mobility, these pioneers connect, incubate, build and prototype all things drone. Come and find out why the future is vertical.
 
+* **Drone Masters** – accelerating the latest developments in mobility, these pioneers connect, incubate, build and prototype all things drone. Come and find out why the future is vertical.
 * **Qunomedical** – promoting accessibility to the best healthcare beyond borders. This Healthtech platform serves more than 10,000 patients a month.
 * **Artist’s studio** – a widely-acclaimed visual artist who has exhibited at the Barbican and the Imperial War Museum. We invite you to his private Berlin studio.
 * **Berlin Partners** – a public private partnership connecting to government to over 280 companies as well as scientific institutions and top investors.
