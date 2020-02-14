@@ -3,16 +3,12 @@ title: London Underground Tours
 date: '2001-01-01 17:41:00 +0000'
 categories:
 - educational-tours
-tags:
-- historical
-- all
-- tube
 heading: Transport
-description: Immerse yourself in 150 years of transport history while travelling through the iconic London underground. Discover how and why the underground was created and much more!
+description: Travel across 150 years in just two hours aboard one of our awesome London Underground Tours. Discover how and why the underground was created and much more!
 gallery:
 - image: "/uploads/760x428%20tube%20banner.jpg"
   caption: Travel through time on our London Underground Tour!
-  alt: Travel through time on our London Underground Tour!
+  alt: A tube train pulling into an underground station
 - image: "/uploads/web_18-01-20%20Tube%20Jonas%20PiccadillyCircus.JPG"
   caption: Our guests in front of Frank Pick's memorial in Piccadilly Circus, January
     2017.
@@ -45,7 +41,7 @@ related:
 {% include slideshow.html %}
 {% endif %}
 
-Travel across **150 years** in just two hours aboard one of our awesome London Underground Tours!
+Travel across **150 years** in just two hours aboard one of our awesome **London Underground Tours!**
 
 Starting at London's first ever underground station and finishing at one of London's **futuristic** space-age tube stations, you'll hear first-hand the captivating twists and turns of the Tube's history on this fun, fact-packed two-hour tour.
 

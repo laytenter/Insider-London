@@ -4,8 +4,6 @@
 
   RewriteEngine On
 
-  RewriteEngine On
-
   RewriteRule ^tours/cutting-edge-green-tour/ /london/educational-tours/sustainable-london-architecture-tour/ [END,R=301]
   RewriteRule ^tours/the-death-and-debauchery-tour/ /london/cultural-experiences/famous-ghosts-and-infamous-murders/ [END,R=301]
   RewriteRule ^tours/canary-wharf-finance-tour/ /london/educational-tours/london-finance-walking-tour/ [END,R=301]

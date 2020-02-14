@@ -1,8 +1,6 @@
 ---
 title: London Underground Tours Tube Tour London
 date: '2001-01-01 17:41:00 +0000'
-categories:
-- educational-tours
 tags:
 - historical
 - all
@@ -36,6 +34,8 @@ related:
 - 32342
 - 29349
 - 32336
+sitemap: false
+canonical_url: /london/educational-tours/london-underground-tours/
 ---
 
 
