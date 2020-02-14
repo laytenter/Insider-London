@@ -1,12 +1,12 @@
 ---
 title: 'Summer 2019: Thank You to all our Partners'
 date: 2019-09-10 00:00:00 Z
+categories:
+- Events
 description: We are now rounding off our busiest summer yet at Insider London and
   would like to warmly thank all our partners, both new and returning. We thank you
   for putting your faith in us to deliver the best programmes for your groups.
 excerpt_separator: "<!--more-->"
-categories:
-  - Events
 ---
 
 ![IL-2019-group1-760.jpg](/uploads/IL-2019-group1-760.jpg)

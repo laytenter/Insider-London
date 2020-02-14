@@ -1,11 +1,12 @@
 ---
 title: Pub Tours London
+categories:
+- cultural-experiences
 heading: History of Drinking & Pubs
 layout: programme
 nav: london
-description: Learn the history of drinking and pubs and raise a glass to this city’s famous drinking culture. Experience the London pub tour at insider-london.co.uk.
-categories:
-  - cultural-experiences
+description: Learn the history of drinking and pubs and raise a glass to this city’s
+  famous drinking culture. Experience the London pub tour at insider-london.co.uk.
 ---
 
 <img src="{{ site.imagepath }}{{ page.banner }}" />

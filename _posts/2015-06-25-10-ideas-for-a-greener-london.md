@@ -3,7 +3,7 @@ title: 10 Ideas for a Greener London
 date: 2015-06-25 11:57:28 Z
 permalink: "/blog/10-ideas-for-a-greener-london/"
 categories:
-  - Sustainability
+- Sustainability
 ---
 
 By Angela Lord

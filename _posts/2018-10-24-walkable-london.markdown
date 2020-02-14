@@ -2,12 +2,12 @@
 title: Walkable London
 date: 2018-10-24 12:38:00 Z
 permalink: "/blog/walkable-london/"
+categories:
+- Sustainability
 description: With London's air pollution at illegal levels since 2010, there is mounting
   fear over the health impact on everyday Londoners.
 heading: Walkable London
 layout: post
-categories:
-- Sustainability
 ---
 
 ![air pollution walkable london](/uploads/air%20pollution%20walkable%20london.jpg)

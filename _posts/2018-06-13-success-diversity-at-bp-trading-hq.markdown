@@ -2,11 +2,11 @@
 title: Success & Diversity at BP Trading HQ
 date: 2018-06-13 12:12:00 Z
 permalink: "/blog/success-diversity-at-bp-trading-hq/"
+categories:
+- Events
 description: Future financial leaders go to the BP Trading HQ in Canary Wharf for
   a behind the scenes tour with Insider London
 heading: 'Success & Diversity at BP Trading HQ '
-categories:
-  - Events
 ---
 
 ![bp%202.jpg](/uploads/bp%202.jpg)

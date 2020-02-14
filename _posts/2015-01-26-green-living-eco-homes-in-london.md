@@ -3,7 +3,7 @@ title: 'Green Living: Eco Homes in London'
 date: 2015-01-26 10:00:26 Z
 permalink: "/blog/green-living-eco-homes-in-london/"
 categories:
-  - Sustainability
+- Sustainability
 ---
 
 With rent, gas prices and eco-awareness on the rise, there’s never been a better time to seek out alternative accommodations in London. We’ve pulled together a list of some quirky homes in the capital that are as innovative as they are environmentally-friendly.

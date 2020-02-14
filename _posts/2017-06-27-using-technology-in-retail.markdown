@@ -2,13 +2,13 @@
 title: Using Technology in Retail
 date: 2017-06-27 20:13:00 Z
 permalink: "/blog/using-technology-in-retail/"
+categories:
+- Marketing and Retail
 tags:
 - retail
 - SR
 description: The world of shopping and retail design is changing and evolving. Here
   are some things we came across.
-categories:
-  - Marketing and Retail
 ---
 
 ![Untitled design-23-795ae4.png](/uploads/Untitled%20design-23-795ae4.png)

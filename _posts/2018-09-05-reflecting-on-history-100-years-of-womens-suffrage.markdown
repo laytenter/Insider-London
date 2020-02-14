@@ -2,12 +2,12 @@
 title: 'Reflecting on History: 100 Years of Women''s Suffrage'
 date: 2018-09-05 10:18:00 Z
 permalink: "/blog/reflecting-on-history-100-years-of-womens-suffrage/"
+categories:
+- Art and Culture
 description: Earlier this year the first statue celebrating the life of a woman was
   unveiled on Parliament Square.  The 8ft 4in bronze statue is of Millicent Fawcett.
 heading: 'Reflecting on History: 100 Years of Women''s Suffrage'
 layout: post
-categories:
-  - Art and Culture
 ---
 
 ![millicent-fawcett.jpg](/uploads/millicent-fawcett.jpg)

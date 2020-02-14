@@ -1,6 +1,6 @@
 ---
 title: London Underground Tours
-date: '2001-01-01 17:41:00 +0000'
+date: 2001-01-01 17:41:00 Z
 categories:
 - educational-tours
 tags:
@@ -8,7 +8,9 @@ tags:
 - all
 - tube
 heading: Transport
-description: Immerse yourself in 150 years of transport history while travelling through the iconic London underground. Discover how and why the underground was created and much more!
+description: Immerse yourself in 150 years of transport history while travelling through
+  the iconic London underground. Discover how and why the underground was created
+  and much more!
 gallery:
 - image: "/uploads/760x428%20tube%20banner.jpg"
   caption: Travel through time on our London Underground Tour!

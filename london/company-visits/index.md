@@ -1,15 +1,14 @@
 ---
 title: London Company Visits | Interactive Workshops
-description: From City of London Financial District, to the innovative Silicon Roundabout tech quarter, we invite you for a bespoke programme of company visits, educational tours and cultural experiences.
 date: 2015-08-28 10:51:00 Z
 permalink: "/london/company-visits/"
+description: Business Visits London | Learn the secrets behind the capital’s most
+  successful companies
 tags:
 - educational
 - bvisits
 - all
 heading: Company visits and workshops
-description: Business Visits London | Learn the secrets behind the capital’s most
-  successful companies
 gallery:
 - image: "/uploads/bp-slider.jpg"
   caption: Students from Limkokwing University visiting BP Trading at 1 Canary Wharf
@@ -23,9 +22,9 @@ gallery:
     Tribal Worldwide
   alt: Indian professors in conjunction with the High Commission of Gujurat visiting
     Tribal Worldwide
-- image:
-  caption:
-  alt:
+- image: 
+  caption: 
+  alt: 
 - image: "/uploads/fintech%20workshop%20IBK.jpg"
   caption: Industrial Bank of Korea outside our  Fintech for the Future Workshop
   alt: Industrial Bank of Korea outside our  Fintech for the Future Workshop
@@ -35,7 +34,7 @@ gallery:
 show_book: false
 thumb: web_588x378%2017-06-15_visit%20Anthony%20Jiamei,Jonas%20University%20of%20Hong%20Kong.jpg
 banner: 960x540 17-06-15_visit Anthony Jiamei, Jonas University of Hong Kong.jpg
-map:
+map: 
 hidden: true
 related:
 - 29347

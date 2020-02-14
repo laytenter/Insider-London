@@ -1,23 +1,25 @@
 ---
-heading: Educational Tours Berlin
 title: Education Tours Berlin
-description: A centre for media, science, and research, the German capital maintains its status as the technology hub for Europe. We present Berlin in all its glory with our exclusive range of education tours and company visits.
+heading: Educational Tours Berlin
+description: A centre for media, science, and research, the German capital maintains
+  its status as the technology hub for Europe. We present Berlin in all its glory
+  with our exclusive range of education tours and company visits.
 layout: programme
 nav: berlin
 gallery1:
-  - image: /assets/images/cities/berlin/silicon-allee/berlin-building-facade.jpg
-    alt: A facade of a Berlin building
-  - image: /assets/images/cities/berlin/silicon-allee/SR-pic.jpg
-    alt: Berlin city centre illuminated with sunset.
-  - image: /assets/images/cities/berlin/silicon-allee/sr-building.jpg
-    alt: A facade of a Berlin building in Silicon Allee
+- image: "/assets/images/cities/berlin/silicon-allee/berlin-building-facade.jpg"
+  alt: A facade of a Berlin building
+- image: "/assets/images/cities/berlin/silicon-allee/SR-pic.jpg"
+  alt: Berlin city centre illuminated with sunset.
+- image: "/assets/images/cities/berlin/silicon-allee/sr-building.jpg"
+  alt: A facade of a Berlin building in Silicon Allee
 gallery2:
-  - image: /assets/images/cities/berlin/street-art/vibrabt-street-art-1.jpg
-    alt:
-  - image: /assets/images/cities/berlin/street-art/Picture-1---Berlin-Wall-Street-Art-History-Student-Corporate-Study-Trip-Programme.jpg
-    alt: Street art images painted on the Berlin Wall
-  - image: /assets/images/cities/berlin/street-art/street-art-again.jpg
-    alt:
+- image: "/assets/images/cities/berlin/street-art/vibrabt-street-art-1.jpg"
+  alt: 
+- image: "/assets/images/cities/berlin/street-art/Picture-1---Berlin-Wall-Street-Art-History-Student-Corporate-Study-Trip-Programme.jpg"
+  alt: Street art images painted on the Berlin Wall
+- image: "/assets/images/cities/berlin/street-art/street-art-again.jpg"
+  alt: 
 ---
 
 Our guided 2-hour walking tours showcase the most exciting dimensions to Berlin as a rich and vibrant hub of creativity and business innovation. Check out our absorbing **[Silicon Allee/Tech City Tour](#silicon-alleetech-city-tour)** and our thought-provoking **[Berlin Street Art Tour](#berlin-street-art-tour)!**

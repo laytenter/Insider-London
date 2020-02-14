@@ -2,13 +2,12 @@
 title: 5 Everyday London Places that are Haunted!
 date: 2018-02-07 10:00:00 Z
 permalink: "/blog/5-haunted-places-London/"
-
+categories:
+- Art and Culture
 description: Ye Olde London Towne is believed to harbor a spookier side... but forget
   London Dungeons! For fans of ghosts, ghouls and things that go bump in the night,
   here are five haunted spots you may pass on a daily basis.
 layout: post
-categories:
-  - Art and Culture
 ---
 
 ![01_960x540-Royal_Exchange_Panorama By Ian Muttoo CC BY-SA 2.0 via Wikimedia Commons.jpg](/uploads/01_960x540-Royal_Exchange_Panorama%20By%20Ian%20Muttoo%20CC%20BY-SA%202.0%20via%20Wikimedia%20Commons.jpg)

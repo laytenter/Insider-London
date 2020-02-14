@@ -1,6 +1,6 @@
 ---
 title: What We Do
-date: '2015-05-12 00:00:00 +0000'
+date: 2015-05-12 00:00:00 Z
 permalink: "/what-we-do/"
 id: 2546744
 author: london75

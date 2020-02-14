@@ -2,13 +2,13 @@
 title: London Tech Week
 date: 2019-05-29 17:59:00 Z
 permalink: "/blog/london-tech-week/"
+categories:
+- Business
 description: London Tech Week has been a major event on the calendar for years.  With
   over 300 events, 55,000 attendees, and at least 90 countries represented this annual
   event reflects the significance of London as one of the most important tech hubs
   in the world.
 heading: London Tech Week
-categories:
-  - Business
 excerpt_separator: "<!--more-->"
 ---
 

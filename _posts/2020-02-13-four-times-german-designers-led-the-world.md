@@ -1,9 +1,9 @@
 ---
-date: 2020-02-13 10:13:00 Z
 title: Four times that German designers led the world
-excerpt_separator: "<!--more-->"
+date: 2020-02-13 10:13:00 Z
 categories:
-  - Business
+- Business
+excerpt_separator: "<!--more-->"
 ---
 
 ![A teal VW beetle with an Autumnal backdrop](/uploads/volkswagen-beetle.jpg)

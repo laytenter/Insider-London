@@ -1,16 +1,18 @@
 ---
-heading: Company Visits Berlin
 title: Company Visits Berlin
-description: Explore one of the most exciting technology hubs in Europe. Our Company Visits in Berlin cover a wide variety of exciting and creative businesses. Join us and come take a look at Berlin.
+heading: Company Visits Berlin
+description: Explore one of the most exciting technology hubs in Europe. Our Company
+  Visits in Berlin cover a wide variety of exciting and creative businesses. Join
+  us and come take a look at Berlin.
 layout: programme
 nav: berlin
 gallery:
-  - image: /assets/images/cities/berlin/company-visits/euref-poster.jpg
-    alt: Bird eye view of Euref building Berlin
-  - image: /assets/images/cities/berlin/company-visits/Picture-2---Berlin-Wall-Start-Up-Innovation-Entrepreneurship-Student-Corporate-Study-Trip-Programme.jpg
-    alt: Company Visits Berlin - Open plan office space for a berlin tech company.
-  - image: /assets/images/cities/berlin/company-visits/Picture-4---Berlin-Wall-Business-Marketing-Retail-Design-Student-Corporate-Study-Trip-Programme.jpg
-    alt: A trendy shop facade in Berlin city centre
+- image: "/assets/images/cities/berlin/company-visits/euref-poster.jpg"
+  alt: Bird eye view of Euref building Berlin
+- image: "/assets/images/cities/berlin/company-visits/Picture-2---Berlin-Wall-Start-Up-Innovation-Entrepreneurship-Student-Corporate-Study-Trip-Programme.jpg"
+  alt: Company Visits Berlin - Open plan office space for a berlin tech company.
+- image: "/assets/images/cities/berlin/company-visits/Picture-4---Berlin-Wall-Business-Marketing-Retail-Design-Student-Corporate-Study-Trip-Programme.jpg"
+  alt: A trendy shop facade in Berlin city centre
 ---
 
 {% assign gallery = page.gallery %}

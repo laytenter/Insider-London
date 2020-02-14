@@ -1,6 +1,6 @@
 ---
 title: London Architecture Tour
-date: '2003-01-01 10:46:00 +0000'
+date: 2003-01-01 10:46:00 Z
 categories:
 - educational-tours
 tags:
@@ -8,9 +8,10 @@ tags:
 - MA
 - all
 heading: Architecture
-description: The soaring skyscrapers that puncture London’s skyline are architectural wonders of London. Join our architecture tour London at insider-london.co.uk.
+description: The soaring skyscrapers that puncture London’s skyline are architectural
+  wonders of London. Join our architecture tour London at insider-london.co.uk.
 gallery:
-- image: /assets/images/tours/MA/Picture-1---Lloyds-of-London-Modern-Architecture-Corporate-Student-Walking-Tour-.jpg
+- image: "/assets/images/tours/MA/Picture-1---Lloyds-of-London-Modern-Architecture-Corporate-Student-Walking-Tour-.jpg"
   alt: Wobbly-Bridge--Modern-Architecture-Corporate-Student-Walking-Tour
 - image: "/assets/images/tours/MA/Picture-2---Wobbly-Bridge--Modern-Architecture-Corporate-Student-Walking-Tour-.JPG.jpg"
   alt: Wobbly-Bridge--Modern-Architecture-Corporate-Student-Walking-Tour

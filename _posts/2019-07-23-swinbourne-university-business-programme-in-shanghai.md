@@ -1,12 +1,12 @@
 ---
 title: Swinbourne University Business Programme in Shanghai
 date: 2019-07-23 00:00:00 Z
+categories:
+- Events
 description: 'Last week, Swinbourne University visited the rising business star of
   the east: Shanghai. Insider London had the privilege of organising a business programme
   to provide students with first-hand insight into the Shanghai Business Ecosystem.'
 excerpt_separator: "<!--more-->"
-categories:
-  - Events
 ---
 
 ![Students from Swinbourne University in Shanghai](/uploads/versus-gloabl-1-760.jpg)

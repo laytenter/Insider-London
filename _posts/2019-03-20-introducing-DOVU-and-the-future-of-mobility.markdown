@@ -2,11 +2,11 @@
 title: Introducing DOVU and the Future of Mobility
 date: 2019-03-20 15:04:00 Z
 permalink: "/blog/introducing-DOVU-and-the-future-of-mobility/"
+categories:
+- Events
 description: 'Recently, we had the pleasure of taking an outstanding group of students
   from the University of Indiana to visit an exciting new smart cities start-up: Dovu. '
 heading: Introducing DOVU and the Future of Mobility
-categories:
-  - Events
 ---
 
 ![DOVU- the future of mobility](/uploads/DSC02301-DOVU.jpg)

@@ -1,7 +1,7 @@
 ---
-heading: Berlin
 title: Berlin Programme
-description:
+heading: Berlin
+description: 
 layout: landing
 background: berlin.jpg
 nav: berlin

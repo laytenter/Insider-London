@@ -2,9 +2,9 @@
 title: London Underground & The Blitz
 date: 2016-11-30 21:46:00 Z
 permalink: "/blog/london-underground-and-the-blitz/"
-layout: post
 categories:
-  - Transport
+- Transport
+layout: post
 ---
 
 ![Untitled design-14.png](/uploads/Untitled%20design-14.png)

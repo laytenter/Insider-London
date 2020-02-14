@@ -2,12 +2,12 @@
 title: An Introduction to the Gin Craze
 date: 2019-02-20 12:14:00 Z
 permalink: "/blog/an-introduction-to-the-gin-craze/"
+categories:
+- Art and Culture
 description: The gin craze will always be remembered as a curious period in British
   history. Read on to find out why!
 heading: An Introduction to the Gin Craze
 layout: post
-categories:
-  - Art and Culture
 ---
 
 ![history of londons gin craze](/uploads/gin%20craze%20london.jpg)

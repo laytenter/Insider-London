@@ -2,12 +2,12 @@
 title: LEGO Serious Play – A Business Methodoloy for Modern Enterprise
 date: 2019-01-30 16:15:00 Z
 permalink: "/blog/lego-serious-play-a-business-methodology-for-modern-enterprise/"
+categories:
+- Business
 description: 'Toy industry giant, LEGO, has upheld a strong ethos and company culture
   since its founding in Denmark in 1932. Almost a century later, the brand has been
   faced with numerous challenges when moving into the modern world. '
 heading: 'LEGO Serious Play – A Business Methodoloy for Modern Enterprise '
-categories:
-  - Business
 ---
 
 ![lego serious play](/uploads/lego%20serious%20play%20title.jpg)

@@ -1,9 +1,9 @@
 ---
-date: 2020-01-22 14:14:00 Z
 title: Three reasons that Curve is causing a stir in the Fintech world
-excerpt_separator: "<!--more-->"
+date: 2020-01-22 14:14:00 Z
 categories:
-  - Finance
+- Finance
+excerpt_separator: "<!--more-->"
 ---
 
 ![A contactless payment being made via smartphone ](/uploads/curve.jpg)

@@ -2,11 +2,11 @@
 title: The Olympic Park and the Legacy Debate.
 date: 2019-01-16 10:06:00 Z
 permalink: "/blog/the-olympic-park-and-the-legacy-debate/"
+categories:
+- Regeneration
 description: When the UK won the right to hold the 2012 Olympics back in 2005, it
   was widely reported (both then and since) that the UK’s bid had won the day largely
   due to the focus on the legacy.
-categories:
-  - Regeneration
 ---
 
 ![london olympic park](/uploads/olympic%20park.jpg)

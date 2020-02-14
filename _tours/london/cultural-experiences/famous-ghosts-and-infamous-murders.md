@@ -1,25 +1,27 @@
 ---
-heading: Ghost Tour
 title: London Ghost Tour
-layout: programme
-nav: london
-description: Ghost tour London by Insider London discovering the murder mysteries that gripped Londoners long before Jack the Ripper came to the scene.
-gallery:
-  - image: /assets/images/tours/Ghost/Picture-3---History-West-End-Haunted-London-Walking-Tour-Student-Corporate-Group.jpg
-    alt: History West End Haunted London Walking Tour Student Corporate Group
-  - image: /assets/images/tours/Ghost/Picture-1---Historic-Alleyway-from-Harry-Potter-Ghost-Haunted-London-Walking-Tour-Student-Corporate-Group.jpg
-    alt: Historic Alleyway from Harry Potter Ghost Haunted London Walking Tour Student Corporate Group
-  - image: /assets/images/tours/Ghost/Picture-2---Spooky-Magic-Shop-Haunted-London-Walking-Tour-Student-Corporate-Group.jpg
-    alt: Spooky Magic Shop Haunted London Walking Tour Student Corporate Group
-embed: https://www.youtube.com/embed/r5_6ln8v_WM
-order: 3
-date: '2008-01-01 17:30:00 +0000'
+date: 2008-01-01 17:30:00 Z
 categories:
 - cultural-experiences
 tags:
 - historical
 - ghost
 - all
+heading: Ghost Tour
+layout: programme
+nav: london
+description: Ghost tour London by Insider London discovering the murder mysteries
+  that gripped Londoners long before Jack the Ripper came to the scene.
+gallery:
+- image: "/assets/images/tours/Ghost/Picture-3---History-West-End-Haunted-London-Walking-Tour-Student-Corporate-Group.jpg"
+  alt: History West End Haunted London Walking Tour Student Corporate Group
+- image: "/assets/images/tours/Ghost/Picture-1---Historic-Alleyway-from-Harry-Potter-Ghost-Haunted-London-Walking-Tour-Student-Corporate-Group.jpg"
+  alt: Historic Alleyway from Harry Potter Ghost Haunted London Walking Tour Student
+    Corporate Group
+- image: "/assets/images/tours/Ghost/Picture-2---Spooky-Magic-Shop-Haunted-London-Walking-Tour-Student-Corporate-Group.jpg"
+  alt: Spooky Magic Shop Haunted London Walking Tour Student Corporate Group
+embed: https://www.youtube.com/embed/r5_6ln8v_WM
+order: 3
 Gallery:
 - image: "/uploads/ghost%20tour%20this%20october.jpg"
 - caption

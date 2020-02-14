@@ -3,7 +3,7 @@ title: Street Art&#8230;. Mushrooms
 date: 2013-01-29 13:05:46 Z
 permalink: "/blog/london-street-art-tours-christiaan-nage/"
 categories:
-  - Art and Culture
+- Art and Culture
 tags:
 - Broken Fingaz crew
 - Christiaan Nagel

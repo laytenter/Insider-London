@@ -1,9 +1,9 @@
 ---
-date: 2020-02-05 10:13:00 Z
 title: Why Berlin? A new global tech centre
-excerpt_separator: "<!--more-->"
+date: 2020-02-05 10:13:00 Z
 categories:
-  - Business
+- Business
+excerpt_separator: "<!--more-->"
 ---
 
 ![The famous Berlin TV tower](/uploads/tv-tower-berlin.jpg)

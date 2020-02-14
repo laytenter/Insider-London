@@ -1,18 +1,20 @@
 ---
 title: Shanghai Company Visits | Technology Tours
-description: Explore this glamorous and cosmopolitan city with it’s long history of migration with an extensive range of company visits from media to fashion, from manufacturing to high technology.
+description: Explore this glamorous and cosmopolitan city with it’s long history of
+  migration with an extensive range of company visits from media to fashion, from
+  manufacturing to high technology.
 heading: Shanghai
 layout: landing
 nav: asia
 gallery:
-  - image: /assets/images/cities/Shanghai/Picture-1---Shanghai-Innovation-Tech-Factory-Student-Academic-Study-Trip.jpg
-    alt:
-  - image: /assets/images/cities/Shanghai/Picture-2----Shanghai-Finance-Centre-Student-Academic-Study-Trip.jpg
-    alt:
-  - image: /assets/images/cities/Shanghai/Picture-3---Shanghai--Shanghai-Innovation-Sustainability-Electric-Driverless-Car-Technology-Student-Academic-Study-Trip.jpg
-    alt:
-  - image: /assets/images/cities/Shanghai/Picture-4---Shanghai-Culture-Art-Technology-Innovation-Creative-Student-Corporate-Study-Trip.jpg
-    alt:
+- image: "/assets/images/cities/Shanghai/Picture-1---Shanghai-Innovation-Tech-Factory-Student-Academic-Study-Trip.jpg"
+  alt: 
+- image: "/assets/images/cities/Shanghai/Picture-2----Shanghai-Finance-Centre-Student-Academic-Study-Trip.jpg"
+  alt: 
+- image: "/assets/images/cities/Shanghai/Picture-3---Shanghai--Shanghai-Innovation-Sustainability-Electric-Driverless-Car-Technology-Student-Academic-Study-Trip.jpg"
+  alt: 
+- image: "/assets/images/cities/Shanghai/Picture-4---Shanghai-Culture-Art-Technology-Innovation-Creative-Student-Corporate-Study-Trip.jpg"
+  alt: 
 ---
 
 {% assign gallery = page.gallery %}

@@ -1,21 +1,23 @@
 ---
 title: Westminster Highlights Sightseeing Tour
+date: 2008-01-01 17:30:00 Z
+categories:
+- cultural-experiences
 heading: Westminster Highlights
 layout: programme
 nav: london
-description: At Insider London we offer a variety of alternative guided tours of London ideal for tourists, locals, students, school trips, private parties and corporate events.
+description: At Insider London we offer a variety of alternative guided tours of London
+  ideal for tourists, locals, students, school trips, private parties and corporate
+  events.
 gallery:
-- image: /assets/images/tours/Westminster Highlights/Picture-1---Buckingham-Palace-Westminster-Highlights-Sightseeing-Walking-Tour-Student-Corportate-Group.jpg
+- image: "/assets/images/tours/Westminster Highlights/Picture-1---Buckingham-Palace-Westminster-Highlights-Sightseeing-Walking-Tour-Student-Corportate-Group.jpg"
   alt: Buckingham-Palace-Westminster-Highlights-Sightseeing-Walking-Tour-Student-Corportate-Group
-- image: /assets/images/tours/Westminster Highlights/Picture-2---Trafalgar-Square-Westminster-Highlights-Sightseeing-Walking-Tour-Student-Corportate-Group.jpg
+- image: "/assets/images/tours/Westminster Highlights/Picture-2---Trafalgar-Square-Westminster-Highlights-Sightseeing-Walking-Tour-Student-Corportate-Group.jpg"
   alt: Trafalgar-Square-Westminster-Highlights-Sightseeing-Walking-Tour-Student-Corportate-Group
-- image: /assets/images/tours/Westminster Highlights/Westminster-Highlights-Sightseeing-Walking-Tour-Student-Corportate-Group.jpg
+- image: "/assets/images/tours/Westminster Highlights/Westminster-Highlights-Sightseeing-Walking-Tour-Student-Corportate-Group.jpg"
   alt: Westminster-Highlights-Sightseeing-Walking-Tour-Student-Corportate-Group
 embed: https://www.youtube.com/embed/r5_6ln8v_WM
 order: 1
-date: '2008-01-01 17:30:00 +0000'
-categories:
-- cultural-experiences
 Gallery:
 - image: "/uploads/ghost%20tour%20this%20october.jpg"
 - caption

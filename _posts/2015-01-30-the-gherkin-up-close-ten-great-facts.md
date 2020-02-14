@@ -8,7 +8,6 @@ id: 24584
 author: london75
 layout: post
 guid: https://www.insiderlondon.com/?p=24584
-
 ---
 
 <img class="aligncenter size-full wp-image-24623" src="/wp-content/uploads/2015/01/9731562839_c6cc9a63ff_z.jpg" alt="London modern architecture" />

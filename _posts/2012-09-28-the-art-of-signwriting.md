@@ -3,7 +3,7 @@ title: The Art Of Signwriting
 date: 2012-09-28 15:17:28 Z
 permalink: "/blog/the-art-of-signwriting/"
 categories:
-  - Art and Culture
+- Art and Culture
 id: 1657
 author: london75
 layout: post

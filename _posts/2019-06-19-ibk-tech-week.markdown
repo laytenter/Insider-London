@@ -1,10 +1,10 @@
 ---
 title: IBK Tech Week 2019
 date: 2019-06-19 00:00:00 Z
+categories:
+- Events
 description: 'One of the highlights of London Tech Week here at Insider London was
   the return of the IBK Executive Group for our ''Fintech for the Future Workshop''. '
-categories:
-  - Events
 ---
 
 ![Insider London 12-6-19-43-760.jpg](/uploads/Insider%20London%2012-6-19-43-760.jpg)

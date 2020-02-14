@@ -1,14 +1,5 @@
 ---
-title: 22 Bishopsgate – The tallest building in the City of London
-date: 2019-10-23 10:41:00 Z
-description: 22 Bishopsgate. What's going on with the tallest building in the City
-  of London?
-excerpt_separator: "<!--more-->"
-<<<<<<< HEAD
-=======
-categories:
-- Architecture
->>>>>>> wombat
+title: 2019 10 23 22 Bishopsgate The Tallest Building In The City Of London
 ---
 
 ![Birds eye view of 22 Bishopsgate](/uploads/helterskelter-1.jpg)

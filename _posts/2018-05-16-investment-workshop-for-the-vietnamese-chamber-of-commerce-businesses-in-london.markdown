@@ -3,12 +3,12 @@ title: Investment Workshop for the Vietnamese Chamber of Commerce | Businesses i
   London
 date: 2018-05-16 07:43:00 Z
 permalink: "/blog/vietnamese-chamber-of-commerce-businesses-in-london/"
-description: 'On 14th May, the Vietnamese Chamber of Commerce visited Innovation Warehouse
-  with us, where we had organised a workshop around businesses in London, startups
-  and the opportunities around investment in the UK. Read more about the event here!'
-heading: Investment Workshop for the Vietnamese Chamber of Commerce
 categories:
-  - Events
+- Events
+description: On 14th May, the Vietnamese Chamber of Commerce visited Innovation Warehouse
+  with us, where we had organised a workshop around businesses in London, startups
+  and the opportunities around investment in the UK. Read more about the event here!
+heading: Investment Workshop for the Vietnamese Chamber of Commerce
 ---
 
 ![18-05-16 VoCC.jpg](/uploads/18-05-16%20VoCC.jpg)
