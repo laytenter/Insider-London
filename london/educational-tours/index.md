@@ -8,7 +8,7 @@ background: educational-tours.jpg
 nav: london
 ---
 
-<a class="c-btn c-btn--primary c-btn--red" href="/assets/brochures/EducationalToursBrochure.pdf">View Brochure</a>
+<a onclick="gtag('event', 'Click', { 'event_category': 'Brochure', 'event_label':'Educational Tours' });" class="c-btn c-btn--primary c-btn--red" href="/assets/brochures/EducationalToursBrochure.pdf">View Brochure</a>
 
 Insider London offers a wide variety of educational guided walks which are perfect for corporate events, academic groups and private parties. Our guided walking tours are industry-specific and showcase London's many dimensions as a world-leading city.
 

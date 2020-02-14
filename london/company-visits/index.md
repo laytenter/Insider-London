@@ -45,7 +45,7 @@ layout: programme
 nav: london
 ---
 
-<a class="c-btn c-btn--primary c-btn--red" href="/assets/brochures/CompanyVisitsBrochure-rev1.pdf">View Brochure</a>
+<a onclick="gtag('event', 'Click', { 'event_category': 'Brochure', 'event_label':'Company Visits' });" class="c-btn c-btn--primary c-btn--red" href="/assets/brochures/CompanyVisitsBrochure-rev1.pdf">View Brochure</a>
 
 For real business insight out of the office or classroom then look no further than our [Company visits](#company-visits) and [Workshops](#workshops).
 
