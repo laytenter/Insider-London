@@ -4,8 +4,8 @@ layout: post
 
 <div class="o-layout">
   <div class="o-layout__item u-2/3@tablet u-3/4@desktop">
-
-    {% for post in site.categories[page.tag] %}
+    {% assign tag = page.tags[0] %}
+    {% for post in site.categories[tag] %}
     <article id="post-24853" class="blog-entry post-24853 post type-post status-publish format-standard hentry category-london-pubs category-london-underground-tube category-food-and-drink tag-cocktails tag-london-tube tag-london-underground tag-alternative-london tag-bars tag-drinking tag-quirky-london-tube tag-cahoots">
       <div class="blog-entry-inner">
         <div class="entry-title">
