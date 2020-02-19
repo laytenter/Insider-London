@@ -33,7 +33,7 @@ related:
 - 29349
 - 32336
 sitemap: false
-canonical_url: /london/educational-tours/london-underground-tours/
+canonical_url: "/london/educational-tours/london-underground-tours/"
 ---
 
 ## The original London Underground and Tube Tour
