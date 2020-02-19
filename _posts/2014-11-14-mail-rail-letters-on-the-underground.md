@@ -12,13 +12,13 @@ author: london75
 layout: post
 guid: https://www.insiderlondon.com/?p=23255
 s4_url2s:
--
+- 
 s4_image2s:
--
+- 
 s4_ctitle:
--
+- 
 s4_cdes:
--
+- 
 ---
 
 [<img class="aligncenter wp-image-23257 size-full" src="/wp-content/uploads/2014/11/Mail-Rail-1980s_mini.jpg" alt="Mail Rail image C. Royal Mail" width="586" height="569" />](/wp-content/uploads/2014/11/Mail-Rail-1980s_mini.jpg)
