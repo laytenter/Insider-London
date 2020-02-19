@@ -34,4 +34,4 @@ Germany currently operates the only two hydrogen rail services in the world. [As
 2018 also saw Germany quietly launch another world-first in sustainable transport – driverless trams. In Potsdam, just west of Berlin, this remarkable technology represents an important milestone in smart city technology. A combination of radar, lasers and camera sensors form [“digital eyes”](https://www.theguardian.com/world/2018/sep/23/potsdam-inside-the-worlds-first-autonomous-tram)which record the entire journey, enabling the tram to react to signals and hazards faster than any human.  
 
 
-*Come and discover the cutting-edge of urban mobility and smart city technology. [Join us in Berlin](https://www.insiderlondon.com/europe/berlin/) and meet the rising tech start-ups who are set to transform our world.*
+*Come and discover the cutting-edge of urban mobility and smart city technology. [Join us in Berlin](https://www.insiderlondon.com/europe/berlin/)  and meet the rising tech start-ups who are set to transform our world.*
