@@ -2,13 +2,13 @@
 title: Livery Companies
 date: 2018-12-12 16:07:00 Z
 permalink: "/blog/livery-companies/"
+categories:
+- Finance
 description: The oldest livery companies date back to the 13th century and the original
   idea behind their creation was to regulate and protect the various industries that
   operated in the City.
 heading: Livery Companies
 layout: post
-categories:
-  - Finance
 ---
 
 ![livery company goldsmiths hall](/uploads/goldsmiths%20hall.jpg)

@@ -2,12 +2,12 @@
 title: 'Bamboo: Sustainable Growth for a Sustainable Future'
 date: 2018-09-12 10:33:00 Z
 permalink: "/blog/bamboo-sustainable-growth-for-a-sustainable-future/"
+categories:
+- Sustainability
 description: The use of bamboo in construction, cuisine, medicine and materiel goods
   has long been commonplace in Asia but is now finding a place in the western world.
 heading: 'Bamboo: Sustainable Growth for a Sustainable Future'
 layout: post
-categories:
-- Sustainability
 ---
 
 ![bambootitle.jpg](/uploads/bambootitle.jpg)

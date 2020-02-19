@@ -2,10 +2,10 @@
 title: London's Top 5 Concept Stores
 date: 2018-08-08 08:03:00 Z
 permalink: "/blog/Londons-Top-5-Concept-Stores/"
+categories:
+- Marketing and Retail
 heading: London's Top 5 Concept Stores
 layout: post
-categories:
-  - Marketing and Retail
 ---
 
 ![retail.jpg](/uploads/retail.jpg)

@@ -1,12 +1,12 @@
 ---
 title: 'Sustainable Futures: Spotlight on Community Energy England'
 date: 2019-11-21 02:35:00 Z
+categories:
+- Sustainability
 description: Following the recent events we hosted for KOEN (Korea South-East Power
   Corporation) and KOSPO (Korea Southern Power Co.), we caught up with our speaker
   Duncan Law, Policy & Advocacy Manager for Community Energy England.
 excerpt_separator: "<!--more-->"
-categories:
-- Sustainability
 ---
 
 ![DSC02775-760.jpg](/uploads/DSC02775-760.jpg)

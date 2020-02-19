@@ -3,7 +3,7 @@ title: "\uFEFFUnusual and Historical Shops in London"
 date: 2016-07-03 20:16:00 Z
 permalink: "/blog/insider-london-shops/"
 categories:
-  - Marketing and Retail
+- Marketing and Retail
 layout: post
 ---
 

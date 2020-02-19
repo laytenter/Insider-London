@@ -2,11 +2,11 @@
 title: Crowdcube visit
 date: 2019-06-06 16:24:00 Z
 permalink: "/blog/crowdcube-company-visit/"
+categories:
+- Events
 description: We were absolutely thrilled to take a group on our first ever visit to
   Crowdcube, a British investment crowdfunding platform, established by Darren Westlake
   and Luke Lang in 2011.
-categories:
-    - Events
 ---
 
 ![00062.00_01_36_05.Still006-760.jpg](/uploads/00062.00_01_36_05.Still006-760.jpg)

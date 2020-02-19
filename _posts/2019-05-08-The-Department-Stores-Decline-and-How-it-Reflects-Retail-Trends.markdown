@@ -2,9 +2,9 @@
 title: The Department Store's Decline and How it Reflects Retail Trends
 date: 2019-05-08 08:31:00 Z
 permalink: "/blog/the-department-stores-decline-and-How-it-reflects-retail-trends/"
-layout: post
 categories:
-  - Marketing and Retail
+- Marketing and Retail
+layout: post
 ---
 
 ![department store decline](/uploads/decline%20of%20department%20store%20house%20of%20fraser%20.jpg)

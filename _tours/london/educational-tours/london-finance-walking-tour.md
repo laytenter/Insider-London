@@ -1,14 +1,13 @@
 ---
 title: London Finance Tour
-heading: Finance
-description: Insider London Walking Tours Our London finance tour takes you from the humble beginnings in the 17th century to its current global status.
-date: '2011-01-01 10:43:00 +0000'
+date: 2011-01-01 10:43:00 Z
 categories:
 - educational-tours
 tags:
 - educational
 - finance
 - all
+heading: Finance
 description: Insider London Walking Tours | Our London finance tour takes you from
   the humble beginnings in the 17th century to its current global status.
 gallery1:
@@ -19,12 +18,14 @@ gallery1:
 - image: "/assets/images/tours/Finance/Picture-3---Leadenhall-Market-Student-Corporate-Finance-City-of-London-Walking-Tour.jpg"
   alt: Leadenhall-Market-Student-Corporate-Finance-City-of-London-Walking-Tour
 gallery2:
-  - image: "/assets/images/tours/Canary Wharf/Picture-1---1-Canada-Square-Canary-Wharf-Finance-Regeneration-Student-Corporate-Walking-Tour.jpg"
-    alt: Canada Square Canary Wharf Finance Regeneration Student Corporate Walking Tour
-  - image: "/assets/images/tours/Canary Wharf/Picture-2---Reuter_s-Plaza-Canary-Wharf-Finance-Regeneration-Student-Corporate-Walking-Tour.jpg"
-    alt: Reuter_s Plaza Canary Wharf Finance Regeneration Student Corporate Walking Tour
-  - image: "/assets/images/tours/Canary Wharf/Picture-3---Museum-of-Docklands-Canary-Wharf-Finance-Regeneration-Student-Corporate-Walking-Tour.jpg"
-    alt: Museum of Docklands Canary Wharf Finance Regeneration Student Corporate Walking Tour
+- image: "/assets/images/tours/Canary Wharf/Picture-1---1-Canada-Square-Canary-Wharf-Finance-Regeneration-Student-Corporate-Walking-Tour.jpg"
+  alt: Canada Square Canary Wharf Finance Regeneration Student Corporate Walking Tour
+- image: "/assets/images/tours/Canary Wharf/Picture-2---Reuter_s-Plaza-Canary-Wharf-Finance-Regeneration-Student-Corporate-Walking-Tour.jpg"
+  alt: Reuter_s Plaza Canary Wharf Finance Regeneration Student Corporate Walking
+    Tour
+- image: "/assets/images/tours/Canary Wharf/Picture-3---Museum-of-Docklands-Canary-Wharf-Finance-Regeneration-Student-Corporate-Walking-Tour.jpg"
+  alt: Museum of Docklands Canary Wharf Finance Regeneration Student Corporate Walking
+    Tour
 order: 1
 thumb: thumb finance.jpg
 banner: bigstock-Bank-of-England-in-London-72296731-772x528.jpg

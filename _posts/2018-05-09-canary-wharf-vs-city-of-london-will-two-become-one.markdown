@@ -2,13 +2,13 @@
 title: Canary Wharf vs City of London - Will two become one?
 date: 2018-05-09 12:35:00 Z
 permalink: "/blog/canary-wharf-vs-city-of-london/"
+categories:
+- Finance
 description: Canary Wharf transformed from a run-down disregarded part of London to
   become one of the major financial centres of the world. To complement our tour of
   Canary Wharf, we examine the relationship between the City of London and Canary
   Wharf.
 layout: post
-categories:
-  - Finance
 ---
 
 ![18-05-09 Title.jpg](/uploads/18-05-09%20Title.jpg)

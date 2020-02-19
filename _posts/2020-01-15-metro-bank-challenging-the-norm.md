@@ -1,9 +1,9 @@
 ---
-date: 2020-01-15 11:10:00 Z
 title: Metro Bank&#58; Challenging the Norm
-excerpt_separator: "<!--more-->"
+date: 2020-01-15 11:10:00 Z
 categories:
-  - Finance
+- Finance
+excerpt_separator: "<!--more-->"
 ---
 
 ![A group of smiling people enjoying a company visit at Metro Bank](/uploads/company-visit-to-metro-bank.jpg)

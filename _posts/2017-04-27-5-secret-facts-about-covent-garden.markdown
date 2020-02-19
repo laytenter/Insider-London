@@ -2,9 +2,9 @@
 title: 5 Secret Facts About Covent Garden
 date: 2017-04-27 21:09:00 Z
 permalink: "/blog/5-secret-facts-about-covent-garden/"
-layout: post
 categories:
-  - Art and Culture
+- Art and Culture
+layout: post
 ---
 
 ![Untitled design (2).png](/uploads/Untitled%20design%20(2).png)

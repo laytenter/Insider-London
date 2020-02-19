@@ -1,9 +1,9 @@
 ---
-date: 2020-01-29 10:13:00 Z
 title: Visa&#58; Challenging the Norm
-excerpt_separator: "<!--more-->"
+date: 2020-01-29 10:13:00 Z
 categories:
-  - Finance
+- Finance
+excerpt_separator: "<!--more-->"
 ---
 
 ![A shop open sign with Visa logo](/uploads/open-sign-810x506.jpg)

@@ -1,27 +1,28 @@
 ---
 title: Sustainable Architecture Tour
-heading: Sustainability
-date: '2013-01-01 10:50:00 +0000'
+date: 2013-01-01 10:50:00 Z
 categories:
 - educational-tours
 tags:
 - educational
 - susarch
 - all
-description: Join Insider London on London's only sustainable architecture tour and discover London's greenest skyscrapers
+heading: Sustainability
+description: Join Insider London on London's only sustainable architecture tour and
+  discover London's greenest skyscrapers
 gallery1:
 - image: "/assets/images/tours/CEGT/Picture-1---Central-St-Giles-Sustainability-Eco-Cutting-Edge-Green-Walking-Tour-Student-Corporate.jpg"
   alt: Central-St-Giles-Sustainability-Eco-Cutting-Edge-Green-Walking-Tour-Student-Corporate
 - image: "/assets/images/tours/CEGT/Picture-2---London-Skyline--Sustainability-Eco-Cutting-Edge-Green-Walking-Tour-Student-Corporate.jpg"
   alt: London-Skyline--Sustainability-Eco-Cutting-Edge-Green-Walking-Tour-Student-Corporate
-- image: /assets/images/tours/CEGT/Picture-3---Neal_s-Yard---Sustainability-Eco-Cutting-Edge-Green-Walking-Tour-Student-Corporate.jpg
+- image: "/assets/images/tours/CEGT/Picture-3---Neal_s-Yard---Sustainability-Eco-Cutting-Edge-Green-Walking-Tour-Student-Corporate.jpg"
   alt: Neal_s-Yard---Sustainability-Eco-Cutting-Edge-Green-Walking-Tour-Student-Corporate
 gallery2:
 - image: "/assets/images/tours/Sustainable Architecture/Picture-1---Bloomberg-HQ-Sustainable-Green-Eco-Architecture-Walking-Tour-Student-Corporate.jpg"
   alt: Bloomberg-HQ-Sustainable-Green-Eco-Architecture-Walking-Tour-Student-Corporate
 - image: "/assets/images/tours/Sustainable Architecture/Picture-2---Watermark-Place-Sustainable-Green-Eco-Architecture-Walking-Tour-Student-Corporate.jpg"
   alt: Watermark-Place-Sustainable-Green-Eco-Architecture-Walking-Tour-Student-Corporate
-- image: /assets/images/tours/Sustainable Architecture/Picture-3---Walkie-Talkie-Green-Wall-Sustainable-Green-Eco-Architecture-Walking-Tour-Student-Corporate.jpg
+- image: "/assets/images/tours/Sustainable Architecture/Picture-3---Walkie-Talkie-Green-Wall-Sustainable-Green-Eco-Architecture-Walking-Tour-Student-Corporate.jpg"
   alt: Walkie-Talkie-Green-Wall-Sustainable-Green-Eco-Architecture-Walking-Tour-Student-Corporate
 order: 4
 tour-id: 29342

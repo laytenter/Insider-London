@@ -3,19 +3,19 @@ title: The Ghost Signs of London
 date: 2014-12-12 10:30:00 Z
 permalink: "/blog/the-ghost-signs-of-london/"
 categories:
-  - Art and Culture
+- Art and Culture
 id: 23567
 author: london75
 layout: post
 guid: https://www.insiderlondon.com/?p=23567
 s4_cdes:
--
+- 
 s4_ctitle:
--
+- 
 s4_image2s:
--
+- 
 s4_url2s:
--
+- 
 ---
 
 <img class="aligncenter size-full wp-image-23573" src="/wp-content/uploads/2014/12/dscf3716.jpg" alt="london street art alternative walking tour" width="569" height="427" />

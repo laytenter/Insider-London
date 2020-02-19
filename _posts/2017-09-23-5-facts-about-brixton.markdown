@@ -2,11 +2,11 @@
 title: 5 Facts About Brixton
 date: 2017-09-23 15:19:00 Z
 permalink: "/blog/5-facts-about-brixton/"
+categories:
+- Art and Culture
 description: Brixton is known to many as an eclectic multicultural area in the south
   of London. Here are five facts you may or may not have known.
 layout: post
-categories:
-  - Art and Culture
 ---
 
 ![Untitled design-8-b32a0b.png](/uploads/Untitled%20design-8-b32a0b.png)Image Credit: [Matt Brown/Flickr](https://www.flickr.com/photos/londonmatt/6076416139/in/photolist-afXdPv-afXez4-4yfjgh-4yejCq-4yb27v-dFU6df-eWJMg-8jDco8-4yb2JT-4y9iVr-4ydJSy-4ydxes-nVN5Py-eWJMm-4ydGQw-4yexpU-4y9WHB-bx3Bs-4yaZMH-bx2tK-bx2tL-4y9whn-dFNG6t-4yfc1q-4ydtbU-4ydstw-eWJMh-bx3Bt-4y9ft8-bx2tN-bx2tP-4ydqzC-4yeu75-eWJMi-4vtK3q-4yeodL-4y9rGR-4yaZhP-4y9Aix-4y9CNH-4ydPv5-4yaYF8-4ydRsN-4y9eS4-4ydUwY-4ydKvA-4ydQLw-4y9zbP-4yfhRQ-dFU7tm/)

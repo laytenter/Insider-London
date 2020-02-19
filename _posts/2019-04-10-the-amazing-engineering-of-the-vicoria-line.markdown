@@ -2,12 +2,12 @@
 title: The Amazing Engineering of the Vicoria Line
 date: 2019-04-10 12:44:00 Z
 permalink: "/blog/the-amazing-engineering-of-the-vicoria-line/"
+categories:
+- Transport
 description: Fiercely practical, the construction of the Victoria line was an engineering
   marvel. A station leaflet from the epoch described “one of the most complicated
   engineering projects London has ever known”.
 heading: The Amazing Engineering of the Vicoria Line
-categories:
-  - Transport
 ---
 
 ![construction of the victoria line](/uploads/victoria%20line%20construction.jpg)

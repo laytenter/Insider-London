@@ -3,7 +3,7 @@ title: The evolution of gin in London, 1750 &#8211; 1850
 date: 2013-04-19 15:45:34 Z
 permalink: "/blog/london-gin-craze-london-dry-gin-history/"
 categories:
-  - Art and Culture
+- Art and Culture
 ---
 
 <img title="gin-palaces-london-gin-history-tour" alt="London gin palace" src="/wp-content/uploads/2013/03/gin-palaces-london-gin-history-tour.jpg" width="569" height="339" />

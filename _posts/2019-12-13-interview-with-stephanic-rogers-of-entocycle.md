@@ -1,9 +1,9 @@
 ---
-date: 2019-12-13 09:13:00 Z
 title: Spotlight on Entocycle - Biotechnology of the Future
-excerpt_separator: "<!--more-->"
+date: 2019-12-13 09:13:00 Z
 categories:
-  - Business
+- Business
+excerpt_separator: "<!--more-->"
 ---
 
 ![Stephanie Rogers looking at some grubs](/uploads/steph.jpg)

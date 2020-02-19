@@ -2,11 +2,11 @@
 title: The Unstoppable Surge of Amazon
 date: 2019-02-14 14:09:00 Z
 permalink: "/blog/the-unstoppable-surge-of-amazon/"
+categories:
+- Business
 description: This week we examine two recent, strategic moves by Amazon in terms of
   expansion, and how this relates to their long-term business strategy.
 heading: The Unstoppable Surge of Amazon
-categories:
-  - Business
 ---
 
 ![amazon london](/uploads/jeff-bezos-amazon-london.jpg)

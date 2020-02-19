@@ -1,6 +1,6 @@
 ---
 title: London Underground Tours
-date: '2001-01-01 17:41:00 +0000'
+date: 2001-01-01 17:41:00 Z
 categories:
 - educational-tours
 heading: Transport

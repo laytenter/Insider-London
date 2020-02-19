@@ -2,13 +2,13 @@
 title: 'Twenty-first Century Street Art: An Olympic Case Study'
 date: 2018-02-28 11:01:00 Z
 permalink: "/blog/street-art-and-Olympics/"
+categories:
+- Art and Culture
 description: 'As Pyeonchang''s Winter Olympics draw to a close, we cast a look back
   to 2012 when the eyes of the world were glued to London Town: an exciting time of
   urban regeneration projects, green initiatives and a huge cultural and artistic
   programme.'
 layout: post
-categories:
-  - Art and Culture
 ---
 
 ![800x451 Banksy Javelin by Duncan Hull via Flickr.jpg](/uploads/800x451%20Banksy%20Javelin%20by%20Duncan%20Hull%20via%20Flickr.jpg) <br/>

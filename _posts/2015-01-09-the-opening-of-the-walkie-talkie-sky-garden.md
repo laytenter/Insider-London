@@ -9,13 +9,13 @@ author: london75
 layout: post
 guid: https://www.insiderlondon.com/?p=24449
 s4_url2s:
--
+- 
 s4_image2s:
--
+- 
 s4_ctitle:
--
+- 
 s4_cdes:
--
+- 
 ---
 
 <img class="aligncenter wp-image-24456 size-full" src="/wp-content/uploads/2015/01/walkie-talkie_mini.jpg" alt="20 Fenchurch Street Walkie Talkie" width="569" height="461" />

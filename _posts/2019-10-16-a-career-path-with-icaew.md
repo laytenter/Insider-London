@@ -43,8 +43,4 @@ We caught up with Thao Bui, their Global Student Recruitment Manager for some gr
 
 We extend our warmest thank you to all at ICAEW for hosting our student groups this summer from around the world. It was a privilege for our groups to visit the beautiful office and to their questions answered about professional accountancy qualifications.
 
-<<<<<<< HEAD
-Looking to support your students in their future career path? Get in touch via contact@insider-london.co.uk to start arranging your company visit.
-=======
 Looking to support your students in their future career path? Get in touch via contact@insiderlondon.com to start arranging your company visit.
->>>>>>> wombat

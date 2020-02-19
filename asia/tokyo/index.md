@@ -1,18 +1,20 @@
 ---
-heading: Tokyo
 title: Tokyo Company Visits | Cultural experiences
-description: Tokyo is a powerhouse of the global economy.  With a close relationship between government and business, go behind-the-scenes of the largest metropolitan economy in the world.
+heading: Tokyo
+description: Tokyo is a powerhouse of the global economy.  With a close relationship
+  between government and business, go behind-the-scenes of the largest metropolitan
+  economy in the world.
 layout: landing
 nav: asia
 gallery:
-  - image: /assets/images/cities/Tokyo/Picture-1---Tokyo-Manufacturing-Factory-Visit-Business-Academic-Corporate-Trip.png
-    alt:
-  - image: /assets/images/cities/Tokyo/Picture-2---Tokyo-Car-Automobile-Manufacturing-Factory-Visit-Business-Academic-Corporate-Trip.png.png
-    alt:
-  - image: /assets/images/cities/Tokyo/Picture-3---Picture-1---Tokyo-Skyline-Visit-Business-Academic-Corporate-Trip.png.jpg
-    alt:
-  - image: /assets/images/cities/Tokyo/Picture-4---Tokyo-Manufacturing-Factory-Visit-Business-Academic-Corporate-Trip.png.png
-    alt:
+- image: "/assets/images/cities/Tokyo/Picture-1---Tokyo-Manufacturing-Factory-Visit-Business-Academic-Corporate-Trip.png"
+  alt: 
+- image: "/assets/images/cities/Tokyo/Picture-2---Tokyo-Car-Automobile-Manufacturing-Factory-Visit-Business-Academic-Corporate-Trip.png.png"
+  alt: 
+- image: "/assets/images/cities/Tokyo/Picture-3---Picture-1---Tokyo-Skyline-Visit-Business-Academic-Corporate-Trip.png.jpg"
+  alt: 
+- image: "/assets/images/cities/Tokyo/Picture-4---Tokyo-Manufacturing-Factory-Visit-Business-Academic-Corporate-Trip.png.png"
+  alt: 
 ---
 
 {% assign gallery = page.gallery %}

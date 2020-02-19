@@ -8,7 +8,6 @@ id: 24584
 author: london75
 layout: post
 guid: https://www.insiderlondon.com/?p=24584
-
 ---
 
 <img src="/wp-content/uploads/2015/01/9731562839_c6cc9a63ff_z.jpg" alt="New and old. The Gherkin juxtaposed with a traditional brick building" /><br>

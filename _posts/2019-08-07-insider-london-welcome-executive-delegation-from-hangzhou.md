@@ -1,13 +1,13 @@
 ---
 title: Insider London welcome executive delegation from Hangzhou
 date: 2019-08-07 00:00:00 Z
+categories:
+- Events
 description: On 22nd July, Insider London welcomed an executive delegation from Hangzhou
   (home to Alibaba) to the City of London. The group were looking to explore partnerships
   and investment opportunities in the UK, particularly in light of the current political
   climate with Brexit and trade tension between China & the USA.
 excerpt_separator: "<!--more-->"
-categories:
-  - Events
 ---
 
 ![hangzhou3-760.jpg](/uploads/hangzhou3-760.jpg)

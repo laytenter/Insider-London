@@ -3,7 +3,7 @@ title: 'King&#8217;s Cross Gasholder No.8: A New Beginning'
 date: 2014-09-08 11:30:42 Z
 permalink: "/blog/kings-cross-gasholder-no-8-a-new-beginning/"
 categories:
-  - Regeneration
+- Regeneration
 ---
 
 Towering over Kings Cross and the Regents Canal like a giant metal behemoth is the grade II listed Gasholder No.8. a relic of Kings Cross’ industrial past that, like much of the area’s heritage, is being salvaged, reused and given a new lease of life as part of the Kings Cross Regeneration.

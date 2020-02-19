@@ -1,19 +1,19 @@
 ---
-title: Dubai Company Visits | Technology Tours 
+title: Dubai Company Visits | Technology Tours
 heading: Dubai
-description: Get exclusive access to some of Dubai’s most exciting transport and innovation labs. We can organise an in-depth experiences like no other.
-
+description: Get exclusive access to some of Dubai’s most exciting transport and innovation
+  labs. We can organise an in-depth experiences like no other.
 layout: landing
 nav: asia
 gallery:
-  - image: /assets/images/cities/Dubai/Picture-1---Dubai-International-Airport-Student-Corporate-Group-Programme.jpg
-    alt: Dubai International Airport Student Corporate Group Programme
-  - image: /assets/images/cities/Dubai/Picture-2---Dubai-Incubator-Accelerator-Innovation-Programme-Student-Corporate.jpg
-    alt: Dubai Incubator Accelerator Innovation Programme Student Corporate
-  - image: /assets/images/cities/Dubai/Picture-3---Dubai-Business-Corporate-Academic-Trip.jpg
-    alt: Dubai Business Corporate Academic Trip
-  - image: /assets/images/cities/Dubai/Picture-4---Dubai-Innovation-Programme-Student-Corporate-Programme.jpg
-    alt: Dubai Innovation Programme Student Corporate Programme
+- image: "/assets/images/cities/Dubai/Picture-1---Dubai-International-Airport-Student-Corporate-Group-Programme.jpg"
+  alt: Dubai International Airport Student Corporate Group Programme
+- image: "/assets/images/cities/Dubai/Picture-2---Dubai-Incubator-Accelerator-Innovation-Programme-Student-Corporate.jpg"
+  alt: Dubai Incubator Accelerator Innovation Programme Student Corporate
+- image: "/assets/images/cities/Dubai/Picture-3---Dubai-Business-Corporate-Academic-Trip.jpg"
+  alt: Dubai Business Corporate Academic Trip
+- image: "/assets/images/cities/Dubai/Picture-4---Dubai-Innovation-Programme-Student-Corporate-Programme.jpg"
+  alt: Dubai Innovation Programme Student Corporate Programme
 ---
 
 {% assign gallery = page.gallery %}
