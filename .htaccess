@@ -16,6 +16,7 @@
   RewriteRule ^about-us/ /what-we-do/ [END,R=301]
   RewriteRule ^our-clients-&-testimonials/ /what-we-do/ [END,R=301]
   RewriteRule ^tours/london-underground-and-tube-tour/ /london/educational-tours/london-underground-and-tube-tour/ [END,R=301]
+  RewriteRule ^london/educational-tours/london-underground-and-tube-tour/ /london/educational-tours/london-underground-tours/ [END,R=301]
   RewriteRule ^tours/london-finance-walking-tour/ /london/educational-tours/london-finance-walking-tour/ [END,R=301]
   RewriteRule ^tours/modern-architecture-tour/ /london/educational-tours/modern-architecture-tour/ [END,R=301]
   RewriteRule ^tours/silicon-roundabout-and-tech-city-tour/ /london/educational-tours/silicon-roundabout-and-tech-city-tour/ [END,R=301]

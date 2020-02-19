@@ -7,6 +7,7 @@ heading: ABOUT US
 description: Learn about our award-winning, guided London tours. Delve into the hidden
   history, and all the secrets, of the London Underground at insider-london.co.uk.
 layout: page
+canonical_url: /what-we-do/
 ---
 
 Insider London has an extensive track record of providing award-winning tours and visits for a wide range of clients. Find out more about [what we do](/what-we-do/)
