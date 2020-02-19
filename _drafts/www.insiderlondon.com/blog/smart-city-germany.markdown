@@ -1,6 +1,6 @@
 ---
 title: Three Reasons that Germany is Europe's Smart City Capital
-date: 2020-02-19 09:50:00 Z
+date: 2020-02-19 13:00:00 Z
 categories:
 - Transport
 ---
