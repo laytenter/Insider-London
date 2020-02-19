@@ -24,11 +24,14 @@ This is demonstrated not only by the projects and companies located at EUREF but
 
 
 **2.	Hydrogen powered trains**
+
 In 2018 Germany rolled out the world’s first hydrogen-powered train – the [iLint](https://www.alstom.com/our-solutions/rolling-stock/coradia-ilint-worlds-1st-hydrogen-powered-train). This rare hydrail system is being hailed by many as the future of low carbon or carbon zero rail services. In a hydrogen fuel cell, hydrogen and an oxidant combine to generate electricity. The only by-product is water, which in theory should be clean enough to drink - a far cry from the dirty diesel used by regular trains. 
 Germany currently operates the only two hydrogen rail services in the world. [As other countries look on with interest](https://www.bbc.co.uk/news/business-48698532) then the German service is set to expand to [another 14 states by 2021](https://www.theguardian.com/environment/2018/sep/17/germany-launches-worlds-first-hydrogen-powered-train). It seems highly likely that Berlin will soon be the first hydro-connected European capital. 
 
 
-*3.	AI Powered Trams*
+**3.	AI Powered Trams**
+
 2018 also saw Germany quietly launch another world-first in sustainable transport – driverless trams. In Potsdam, just west of Berlin, this remarkable technology represents an important milestone in smart city technology. A combination of radar, lasers and camera sensors form [“digital eyes”](https://www.theguardian.com/world/2018/sep/23/potsdam-inside-the-worlds-first-autonomous-tram)which record the entire journey, enabling the tram to react to signals and hazards faster than any human.  
+
 
 *Come and discover the cutting-edge of urban mobility and smart city technology. Join us in Berlin (https://www.insiderlondon.com/europe/berlin/ ) and meet the rising tech start-ups who are set to transform our world.*
