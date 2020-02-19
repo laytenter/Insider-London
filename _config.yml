@@ -30,31 +30,36 @@ defaults:
     path: ''
     type: posts
   values:
+<<<<<<< HEAD
     description:
     author:
     excerpt_separator: "<!--more-->"
+=======
+    description: 
+    author: 
+>>>>>>> 24d4244222be42044646525329f0515eb9560092
     layout: post
     permalink: "/blog/:title/"
 - scope:
     path: ''
     type: tours
   values:
-    heading:
+    heading: 
     layout: programme
     script: slick-slider.js
     nav: london
-    description:
+    description: 
     gallery:
-    - image:
-      caption:
-      alt:
-    embed:
-    order:
+    - image: 
+      caption: 
+      alt: 
+    embed: 
+    order: 
 - scope:
     path: ''
     type: authors
   values:
-    image:
+    image: 
 feed:
   path: blog/atom.xml
 social:
