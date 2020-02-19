@@ -31,6 +31,7 @@ defaults:
     type: posts
   values:
     description: ''
+    excerpt_separator: "<!--more-->"
     layout: post
     permalink: "/blog/:title/"
 - scope:
