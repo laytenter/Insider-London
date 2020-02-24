@@ -67,4 +67,4 @@ On this tour you will:
 
 Interested in the significance of transport in regeneration projects? Find out more about our [Kings Cross Regeneration & Innovation Tour](/london/educational-tours/kings-cross-regeneration/#kings-cross-innovation-and-regeneration)
 
-{% include findoutmore.html title="Tube Tour" %}*This tour also runs publicly at 7pm on Saturdays, [book your ticket here](https://www.tripadvisor.co.uk/AttractionProductReview-g186338-d12923644-London_Underground_2_Hour_Tube_Tour-London_England.html){:target="_blank"}.*
+{% include findoutmore.html title="Tube Tour" %}*This tour also runs publicly at 11am on Fridays and Saturdays, [book your ticket here](https://www.tripadvisor.co.uk/AttractionProductReview-g186338-d12923644-London_Underground_2_Hour_Tube_Tour-London_England.html){:target="_blank"}.*
