@@ -27,6 +27,6 @@ One company benefitting from the second round, Vision 2 fund, is Karius, who hav
 
 Another headliner is the [£100 million potential investment in Behavox](https://www.bloomberg.com/news/articles/2020-02-24/softbank-fund-invests-100-million-in-compliance-software-firm). Behavox develops compliance and employee-monitoring software for financial firms. The concept is in using machine-learning and advanced analytics to monitor employees’ behaviour. This, Behavox claim, can help provide early detection of [bribery, rogue trading, misuse of expenses and more](https://www.cityam.com/softbank-set-to-invest-100m-in-ai-startup-behavox/).
 
-**What next for Softbank?** The world still has an estimated 450 Unicorns; many pitching something’s that doesn’t exist yet, so clearly a lot of potential investment still to consider for Softbank. But after the Wework implosion and the spate of downed valued IPOs resulting in tumbling profits and massive write-offs, surely the time where investors have shown a willingness to suspend their disbelief, is over? Time will tell.
+**What next for Softbank?** The world still has an estimated 450 Unicorns; many pitching somethings that doesn’t exist yet, so clearly a lot of potential investment still to consider for Softbank. But after the Wework implosion and the spate of downed valued IPOs resulting in tumbling profits and massive write-offs, surely the time where investors have shown a willingness to suspend their disbelief, is over? Time will tell.
 
 
