@@ -9,9 +9,8 @@ categories:
 
 
 
-*This week we had the privilege of catching up with Mia Jafari, Incubator Manager at [Emirates Intelak](https://www.intelak.com/) in Dubai. 
+**This week we had the privilege of catching up with Mia Jafari, Incubator Manager at [Emirates Intelak](https://www.intelak.com/) in Dubai. We talked Dubai and entrepreneurship. Read on to find out more!**
 
-We talked Dubai and entrepreneurship. Read on to find out more!*
 
 
 ## IL: How would you describe the Dubai business ecosystem?
@@ -42,6 +41,7 @@ MJ:
 3.     Build a lean product
 4.     Make sure you have the team to execute the vision
 5.     Have a solid financial model behind your idea
+
 
 
 
