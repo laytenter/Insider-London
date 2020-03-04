@@ -1,5 +1,5 @@
 ---
-title: Spotlight on Emirates Intelak - the thriving tech community of Dubai
+title: Spotlight on Emirates Intelak - the Thriving Tech Community of Dubai
 date: 2020-03-04 12:17:00 Z
 categories:
 - Transport
