@@ -13,9 +13,10 @@ categories:
 
 
 
+
 ## IL: How would you describe the Dubai business ecosystem?
  
-MJ: Dubai has one of the most welcoming business environments in the world. And the government is constantly striving to make the country more welcoming to new businesses. Dubai is known for its strategic location, serving as a gateway to the growing markets in the Middle East, Africa and South Asia. Dubai also offers a great deal of security and stability, making the cities the prime ecosystem for startups.
+MJ: Dubai has one of the most welcoming business environments in the world. And the government is constantly striving to make the country more welcoming to new businesses. Dubai is known for its strategic location, serving as a gateway to the growing markets in the Middle East, Africa and South Asia. Dubai also offers a great deal of security and stability, making the city the prime ecosystem for startups.
 
  
 ## IL: Why are many talented young people heading to Dubai right now? 
