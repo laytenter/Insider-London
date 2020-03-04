@@ -47,4 +47,6 @@ MJ:
 
 
 
+
+
 **We are very excited to announce the launch of our [exclusive discovery and innovation programme in Dubai](https://www.insiderlondon.com/asia/dubai/). Our programmes features in-depth session with the brightest stars of the Dubai business eco-system. Get in touch now via contact@insiderlondon.com to find out more!**
