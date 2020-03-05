@@ -9,7 +9,7 @@ categories:
 
 
 
-**This week we had the privilege of catching up with Mia Jafari, Incubator Manager at [Emirates Intelak](https://www.intelak.com/) in Dubai. We talked Dubai and entrepreneurship. Read on to find out more!**
+**This week we had the privilege of catching up with Mia Jafari, Incubator Manager at [Intelak](https://www.intelak.com/) in Dubai. We talked Dubai and entrepreneurship. Read on to find out more!**
 
 
 
