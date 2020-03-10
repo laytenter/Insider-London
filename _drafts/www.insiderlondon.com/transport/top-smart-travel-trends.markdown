@@ -1,5 +1,5 @@
 ---
-title: Top Five Trends to Look Out for in Smart Travel
+title: Top Trends to Look Out for in Smart Travel
 date: 2020-03-10 16:49:00 Z
 ---
 
