@@ -1,6 +1,13 @@
 ---
 title: Top Trends to Look Out for in Smart Travel
 date: 2020-03-10 16:49:00 Z
+categories:
+- Transport
+tags:
+- transport
+- smart city
+- dubai
+- innovation
 ---
 
 ![resized-432672.jpg](/uploads/resized-432672.jpg)
