@@ -3,7 +3,7 @@ title: Top Trends to Look Out for in Smart Travel
 date: 2020-03-10 16:49:00 Z
 ---
 
-![resized.jpg](/uploads/resized.jpg)
+![resized-432672.jpg](/uploads/resized-432672.jpg)
 
 *This week we take a stock check of the most innovative consumer travel products now on sale and currently in development. Read on for our top five smart travel trends!*
 
