@@ -2,7 +2,7 @@
 title: 'The Future is Fintech: Spotlight on Sync.'
 date: 2019-11-27 09:13:00 Z
 categories:
-- Business
+- Finance
 description: As part of our spotlight series where we look at the most innovative
   companies, we headed over to Level 39 to catch up with Ricky Lee.
 excerpt_separator: "<!--more-->"
