@@ -1,6 +1,7 @@
 ---
 title: How to Involve Artists in Regeneration Projects
 date: 2020-03-18 09:23:00 Z
+published: false
 categories:
 - Regeneration
 - Art and Culture
