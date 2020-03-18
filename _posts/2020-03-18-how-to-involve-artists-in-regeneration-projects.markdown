@@ -1,7 +1,6 @@
 ---
 title: How to Involve Artists in Regeneration Projects
 date: 2020-03-18 09:23:00 Z
-published: false
 categories:
 - Regeneration
 - Art and Culture
@@ -28,6 +27,6 @@ A hallmark of the Kings Cross Regeneration project was the opening of the [Centr
 The Olympic Park will soon play host to art schools including the London College of Fashion. Importantly, among the cultural institutions moving in to this area is the V&A which intends to open a second free-entry site to display its stunning collection. In terms of the pre-existing artistic community which has been thriving in Hackney for years, in the north of the Park the [Trampery on the Gantry](https://thetrampery.com/workspaces/on-the-gantry/) provides sustainable, modular studios for artists. 80% of these studios will be reserved for creative businesses based in Hackney Wick and Fish Island.
 
 
-*As our city transforms before our eyes, we invite you to explore not only London’s amazing [regeneration projects ](https://www.insiderlondon.com/london/educational-tours/kings-cross-regeneration/) but also to explore its [creative havens](https://www.insiderlondon.com/london/educational-tours/street-art-tour-london/).
+*As our city transforms before our eyes, we invite you to explore not only London’s amazing [regeneration projects ](https://www.insiderlondon.com/london/educational-tours/kings-cross-regeneration/) but also to explore its [creative havens](https://www.insiderlondon.com/london/educational-tours/street-art-tour-london/).*
 
-We present our brand new partnerships with leading artists at Islington’s [magical Chocolate Factory  ](https://www.chocolatefactoryn16.com/) as well as with fully ethically approved London textile factory – get in touch via [contact@insiderlondon.com]*(mailto:contact@insiderlondon.com) to find out more. 
+*We present our brand new partnerships with leading artists at Islington’s [magical Chocolate Factory  ](https://www.chocolatefactoryn16.com/) as well as with fully ethically approved London textile factory – get in touch via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to find out more. *
