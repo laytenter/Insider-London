@@ -29,4 +29,4 @@ The Olympic Park will soon play host to art schools including the London College
 
 *As our city transforms before our eyes, we invite you to explore not only London’s amazing [regeneration projects ](https://www.insiderlondon.com/london/educational-tours/kings-cross-regeneration/) but also to explore its [creative havens](https://www.insiderlondon.com/london/educational-tours/street-art-tour-london/).*
 
-*We present our brand new partnerships with leading artists at Islington’s [magical Chocolate Factory  ](https://www.chocolatefactoryn16.com/) as well as with fully ethically approved London textile factory – get in touch via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to find out more. *
+We present our brand new partnerships with leading artists at Islington’s [magical Chocolate Factory  ](https://www.chocolatefactoryn16.com/) as well as with fully ethically approved London textile factory – get in touch via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to find out more.
