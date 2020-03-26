@@ -25,8 +25,8 @@ As well as how we grow, biotech has long influenced what we grow. Nevertheless, 
 
 Meanwhile [Apeel Science](http://https://apeelsciences.com) has developed a protective coating made from plant lipids to increase the shelf life of fruit and vegetables and tech firm [Ripe](https://www.ripe.io) allows consumers to view the entire growth and distribution chain of their purchase. By mapping out the journey of food, it allows us, as consumers, to make better-informed sustainable choices.
 
-
-> "At its core, AgTech is about using advanced monitoring and data analysis to do more with less – to find ways to increase yields without burdening already overtaxed resources such as land and water." [World Economic Forum](https://www.weforum.org/agenda/2019/02/why-the-agtech-boom-isn-t-your-typical-tech-disruption/)
+# 
+"At its core, AgTech is about using advanced monitoring and data analysis to do more with less – to find ways to increase yields without burdening already overtaxed resources such as land and water." [World Economic Forum](https://www.weforum.org/agenda/2019/02/why-the-agtech-boom-isn-t-your-typical-tech-disruption/)
 
 In 2018 Barclays created their own Agritech in-house team and currently curates Agritech programming across their digital hubs: [Eagle Labs](https://labs.uk.barclays/agritech). With a vision to “support UK Agriculture to become the most digitally savvy farm force in Europe”, this ongoing project seeks to bring together academia, researchers and start-ups.
 
