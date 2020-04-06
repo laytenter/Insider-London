@@ -1,34 +1,23 @@
 ---
 title: Insider London&#8217;s Best of the London Underground and Tube
 date: 2014-11-21 10:30:41 Z
-permalink: "/blog/insider-londons-best-of-the-london-underground-and-tube/"
 categories:
-- blog
-- London Underground/Tube
-- Other
-tags:
-- Alternative London
-- London history
-- london tube
-- london tube facts
-- London Underground
-- London walking tours
-- Underground
+- Transport
 id: 23455
 author: london75
 layout: post
 guid: https://www.insider-london.co.uk/?p=23455
 s4_url2s:
-- 
+-
 s4_image2s:
-- 
+-
 s4_ctitle:
-- 
+-
 s4_cdes:
-- 
+-
 ---
 
-Okay, we hold our hands up &#8211; we&#8217;re real tube geeks at Insider London, as anyone who has been on one of our <a href="https://www.insider-london.co.uk/london-underground-tube-tours/" target="_blank">London Underground and Tube Tours</a> would probably agree. We&#8217;re also shared a lot of our, erm, enthusiasm on this blog, and have pulled together some of the best bits. Here is Insider London&#8217;s Best of the London Underground and Tube.
+Okay, we hold our hands up &#8211; we&#8217;re real tube geeks at Insider London, as anyone who has been on one of our [London Underground and Tube Tours](/london/educational-tours/london-underground-tours/) would probably agree. We&#8217;re also shared a lot of our, erm, enthusiasm on this blog, and have pulled together some of the best bits. Here is Insider London&#8217;s Best of the London Underground and Tube.
 
 <img src="/wp-content/uploads/2014/02/Tube-Facts-Infographic-Thumb.jpg" alt="Tube Facts Infographic Thumb" />
 
@@ -60,6 +49,6 @@ We heralded the arrival of Contactless payment on the tube last year and we also
 
 Finally, you can beat a quirky tube fact. Or eighty. Read <a href="/london-underground-tube-tours-facts/" target="_blank">part one here</a>, <a href="/london-underground-tube-tours-facts-part2/" target="_blank">part two here</a>, <a href="/london-underground-tube-tours-facts-part3/" target="_blank">part three here</a> and, phew!, <a href="/london-underground-tube-tours-facts-part4/" target="_blank">part four here</a>. That&#8217;s a lot of facts!
 
-Although we do have room for one final one. That is that Temple station, as seen in the Bond film, Skyfall isn&#8217;t actually Temple at all. Want to know how we worked it out? There&#8217;s <a href="/james-bond-skyfall-london-underground-chase/" target="_blank">more information here</a>.
+Although we do have room for one final one. That is that Temple station, as seen in the Bond film, Skyfall isn&#8217;t actually Temple at all. Want to know how we worked it out? There's [more information here](/blog/james-bond-skyfall-london-underground-chase/)
 
-For EVEN more, come and join us on one of our <a href="https://www.insider-london.co.uk/london-underground-tube-tours/" target="_blank">London Underground and Tube walking tours</a>.
+For EVEN more, come and join us on one of our [London Underground and Tube](/london/educational-tours/london-underground-tours/) walking tours</a>.

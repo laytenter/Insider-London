@@ -31,6 +31,15 @@
   RewriteRule ^tours/east-end-retail-design-tour/ /london/educational-tours/retail-design/ [END,R=301]
   RewriteRule ^tours/brixton-retail-design-tour/ /london/educational-tours/retail-design/ [END,R=301]
 
+  #Added 6th April 2020
+  RewriteRule ^london/educational-tours/sustainable-london-artchitecture-tour/ /london/educational-tours/sustainable-london-architecture-tour/ [END,R=301]
+  RewriteRule ^blog/kings-cross-innovation-tour/ /london/educational-tours/kings-cross-regeneration/ [END,R=301]
+  RewriteRule ^kings-cross-innovation-tour/ /london/educational-tours/kings-cross-regeneration/ [END,R=301]
+  RewriteRule ^blog/urban-bees-interview/ /blog/category/art-and-culture/ [END,R=301]
+  RewriteRule ^londons-top-ten-skyscrapers-under-construction-in-2015/ /blog/category/architecture/ [END,R=301]
+  RewriteRule ^blog/page/$ /blog/ [END,R=301]
+
+
   #-----------------Redirect to https-----------------
   RewriteCond %{HTTPS} on
   RewriteCond %{HTTP_HOST} ^insiderlondon.com [NC]
