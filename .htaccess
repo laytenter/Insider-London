@@ -44,7 +44,6 @@
   RewriteCond %{HTTPS} !on [OR]
   RewriteCond %{HTTP_HOST} !^www\. [OR,NC]
   RewriteCond %{HTTP_HOST} !^insiderlondon\.com [OR,NC]
-  RewriteCond %{HTTP_HOST} !^dev\. [NC]
   RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
   RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/[0-9a-zA-Z_-]+$
   RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
