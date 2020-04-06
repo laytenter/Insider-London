@@ -7,7 +7,6 @@ categories:
 id: 7766
 author: london75
 layout: post
-
 ---
 
 To accompany our Quirky Tube Facts blog posts we&#8217;ve decided to share some of the most interesting recreations of the Tube map.
