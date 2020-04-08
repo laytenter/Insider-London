@@ -10,7 +10,7 @@ categories:
 
 
 # “The resilience of cities, where most people will live by 2050, will certainly depend on the level of greenness and clean air, biodiversity and overall human well-being.” 
-[- UN, 2019](https://www.unenvironment.org/news-and-stories/story/rewilding-londons-urban-spaces)) 
+[- UN, 2019](https://www.unenvironment.org/news-and-stories/story/rewilding-londons-urban-spaces) 
 
 
 Such benefits of re-wilding are clear in a city like London, which is known for its stressful pace of life and serious issues with [air pollution](https://www.theguardian.com/environment/2015/jul/15/nearly-9500-people-die-each-year-in-london-because-of-air-pollution-study). Less well-known perhaps are the [wildlife species at risk in the UK](https://friendsoftheearth.uk/nature/ipbes-biodiversity-report-friends-earth-calls-uk-government-step-avoid-catastrophic-nature) with habitat loss remaining a significant contributing factor as well as the genuine concerns about the potential [“great flood risk”](https://www.independent.co.uk/news/uk/home-news/london-flood-risk-map-shows-areas-of-the-capital-most-in-danger-10039405.html) that the capital faces as the climate crisis continues. Re-wilding can help us address all these issues, so we take a look at **five of London’s most exciting projects.**
@@ -45,4 +45,4 @@ Walthamstow (north east London) reservoir has been [“upgraded”](https://arch
 
 There are currently 8.4 million trees in London with approximately 21% of London’s land area under tree coverage. City Hall has [ambitious tree planting goals](https://www.london.gov.uk/what-we-do/environment/parks-green-spaces-and-biodiversity/trees-and-woodlands) and aims to increase the city’s tree coverage by 10% (). Nevertheless there is often a [disparity among different boroughs](https://www.homesandproperty.co.uk/property-news/buying/new-homes/londons-most-ecofriendly-boroughs-ealing-bromley-and-croydon-top-list-of-capitals-greenest-areas-a135216.html) with local authorities taking the lead on specific projects. . Big winners include Hackney who impressively are [increasing their canopy coverage from 20%-30%](https://www.prolandscapermagazine.com/5000-new-street-trees-to-be-planted-in-hackney/) with 5,000 new trees planted. Though top of the list must be Ealing who planted a massive [9,000 new trees](http://ealingnewsextra.co.uk/features/tree-planting/) in a single year – wow.
 
-*Discover many other fantastic sustainable initiatives on our [Cutting-Edge Green Tour*](https://www.insiderlondon.com/london/educational-tours/sustainable-london-architecture-tour/).*
+*Discover many other fantastic sustainable initiatives on our [Cutting-Edge Green Tour*](https://www.insiderlondon.com/london/educational-tours/sustainable-london-architecture-tour/).
