@@ -1,5 +1,5 @@
 ---
-title: The Transformation of The Midland Grand Hotel
+title: 'Kings Cross: The Midland Grand Hotel'
 date: 2017-12-27 22:27:00 Z
 permalink: "/blog/midland-grand-hotel-kings-cross/"
 categories:
