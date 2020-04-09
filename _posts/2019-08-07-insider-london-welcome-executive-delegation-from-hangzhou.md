@@ -1,5 +1,5 @@
 ---
-title: Insider London welcome executive delegation from Hangzhou
+title: Executive delegation from Hangzhou
 date: 2019-08-07 00:00:00 Z
 categories:
 - Events
