@@ -1,15 +1,15 @@
 ---
-title: Sustainable new build and Retro-fits and the impact on our green futures.
-date: 2015-09-21 14:46:08 Z
+title: 'Green Futures: New builds & Retrofits'
+date: 2015-09-21 14:46:00 Z
 permalink: "/blog/sustainable-new-build-and-retro-fits-and-the-impact-on-our-green-futures/"
 categories:
 - Sustainability
 id: 31156
 author: london75
-layout: post
 guid: https://www.insiderlondon.com/?p=31156
 slide_template:
 - default
+layout: post
 ---
 
 _By Amelia Womack_
