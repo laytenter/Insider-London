@@ -1,5 +1,5 @@
 ---
-title: The Retail Revolution – the Early Years of Selfridges
+title: Retail Revolution – the Early Years of Selfridges
 date: 2018-03-28 06:34:00 Z
 permalink: "/blog/selfridges-retail-design-revolution/"
 categories:
