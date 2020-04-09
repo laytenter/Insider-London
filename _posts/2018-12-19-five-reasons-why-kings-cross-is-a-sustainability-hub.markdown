@@ -1,5 +1,5 @@
 ---
-title: Five reasons why Kings Cross is a sustainability hub
+title: Five Sustainable Initiatives at Kings Cross
 date: 2018-12-19 16:02:00 Z
 permalink: "/blog/five-reasons-why-kings-cross-is-a-sustainability-hub/"
 categories:
