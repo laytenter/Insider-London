@@ -1,5 +1,5 @@
 ---
-title: Swinbourne University Business Programme in Shanghai
+title: Swinbourne University Shanghai Programme
 date: 2019-07-23 00:00:00 Z
 categories:
 - Events
