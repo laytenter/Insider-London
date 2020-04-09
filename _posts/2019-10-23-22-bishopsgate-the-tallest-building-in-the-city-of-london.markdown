@@ -1,5 +1,5 @@
 ---
-title: 22 Bishopsgate – The tallest building in the City of London
+title: 22 Bishopsgate – The tallest building in the City
 date: 2019-10-23 10:41:00 Z
 categories:
 - Architecture
