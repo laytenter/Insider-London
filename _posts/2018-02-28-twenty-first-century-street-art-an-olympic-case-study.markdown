@@ -1,5 +1,5 @@
 ---
-title: 'Twenty-first Century Street Art: An Olympic Case Study'
+title: 'Street Art: An Olympic Case Study'
 date: 2018-02-28 11:01:00 Z
 permalink: "/blog/street-art-and-Olympics/"
 categories:
