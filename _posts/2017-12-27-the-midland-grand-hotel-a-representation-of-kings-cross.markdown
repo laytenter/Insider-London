@@ -1,5 +1,5 @@
 ---
-title: 'Kings Cross: The Midland Grand Hotel'
+title: The Midland Grand Hotel - A Representation of King's Cross
 date: 2017-12-27 22:27:00 Z
 permalink: "/blog/midland-grand-hotel-kings-cross/"
 categories:
@@ -8,9 +8,7 @@ tags:
 - all
 description: 'The iconic St Pancras Renaissance Hotel luxurious facade is not only
   famous since it''s appearance as King''s Cross in Harry Potter: Behind it lies a
-  rich history, a history which parallels the history of King''s Cross itself. We
-  have traced the history of this mysterious palace to reveal the story of an area
-  transformed. '
+  rich history, a history which parallels the history of King''s Cross itself. '
 ---
 
 ![web_960x540_St Pancras Pixabay CCO.jpg](/uploads/web_960x540_St%20Pancras%20Pixabay%20CCO.jpg)
