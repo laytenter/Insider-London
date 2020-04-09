@@ -1,5 +1,5 @@
 ---
-title: Canary Wharf vs City of London - Will two become one?
+title: Canary Wharf vs City of London
 date: 2018-05-09 12:35:00 Z
 permalink: "/blog/canary-wharf-vs-city-of-london/"
 categories:
