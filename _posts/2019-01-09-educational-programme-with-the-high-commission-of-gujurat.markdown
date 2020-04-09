@@ -1,5 +1,5 @@
 ---
-title: Education Programme with the High Commission of Gujurat
+title: High Commission of Gujarat Programme
 date: 2019-01-09 15:19:00 Z
 permalink: "/blog/educational-programme-with-the-high-commission-of-gujurat/"
 categories:
@@ -11,7 +11,7 @@ heading: Education Programme with the High Commission of Gujurat
 
 ![educationaltour](/uploads/kingscrossregeneration.jpg)
 
-Working with GTEP Education in conjunction with the High Commission of Gujurat, Insider London organised an inspiring 2 day programme for professors from Gujarat universities.
+Working with GTEP Education in conjunction with the High Commission of Gujarat, Insider London organised an inspiring 2 day programme for professors from Gujarat universities.
 
 
 
