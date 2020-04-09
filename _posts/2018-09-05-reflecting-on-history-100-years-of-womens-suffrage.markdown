@@ -1,5 +1,5 @@
 ---
-title: 'Reflecting on History: 100 Years of Women''s Suffrage'
+title: 100 Years of Women's Suffrage
 date: 2018-09-05 10:18:00 Z
 permalink: "/blog/reflecting-on-history-100-years-of-womens-suffrage/"
 categories:
