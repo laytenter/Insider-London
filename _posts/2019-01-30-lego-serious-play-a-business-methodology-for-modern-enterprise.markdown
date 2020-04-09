@@ -1,5 +1,5 @@
 ---
-title: LEGO Serious Play – A Business Methodoloy for Modern Enterprise
+title: LEGO Serious Play – A Business Methodology
 date: 2019-01-30 16:15:00 Z
 permalink: "/blog/lego-serious-play-a-business-methodology-for-modern-enterprise/"
 categories:
