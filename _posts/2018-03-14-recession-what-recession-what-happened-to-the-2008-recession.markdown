@@ -1,5 +1,5 @@
 ---
-title: Recession - What recession? | What happened to the 2008 recession?
+title: What happened to the 2008 recession?
 date: 2018-03-14 08:16:00 Z
 permalink: "/blog/10years-recession/"
 categories:
