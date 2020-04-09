@@ -1,6 +1,6 @@
 ---
-title: Insider London's Best of the London Underground and Tube
-date: 2014-11-21 10:30:41 Z
+title: Insider London's Best of the London Underground
+date: 2014-11-21 10:30:00 Z
 permalink: "/blog/insider-londons-best-of-the-london-underground-and-tube/"
 categories:
 - Transport
@@ -14,7 +14,6 @@ tags:
 - Underground
 id: 23455
 author: london75
-layout: post
 guid: https://www.insiderlondon.com/?p=23455
 s4_url2s:
 - 
@@ -24,6 +23,7 @@ s4_ctitle:
 - 
 s4_cdes:
 - 
+layout: post
 ---
 
 Okay, we hold our hands up &#8211; we're real tube geeks at Insider London, as anyone who has been on one of our <a href="https://www.insiderlondon.com/london/educational-tours/london-underground-and-tube-tour/" target="_blank">London Underground and Tube Tours</a> would probably agree. We're also shared a lot of our, erm, enthusiasm on this blog, and have pulled together some of the best bits. Here is Insider London's Best of the London Underground and Tube.
