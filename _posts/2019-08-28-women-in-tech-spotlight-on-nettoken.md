@@ -5,9 +5,7 @@ categories:
 - Business
 description: As the UK tech industry booms with London at its epicentre, we asked
   the question – how does the sector fare for gender diversity? We had the fantastic
-  opportunity to speak to Simonetta d’Ottaviano, co-founder of [Nettoken](https://www.nettoken.io/
-  ) and get her perspective on women in tech as well as the general tech eco-system
-  in the UK.
+  opportunity to speak to Simonetta d’Ottaviano, co-founder of Nettoken.
 excerpt_separator: "<!--more-->"
 ---
 
