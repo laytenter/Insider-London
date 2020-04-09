@@ -1,5 +1,5 @@
 ---
-title: 'Bamboo: Sustainable Growth for a Sustainable Future'
+title: 'Bamboo: Sustainable Growth for the Future'
 date: 2018-09-12 10:33:00 Z
 permalink: "/blog/bamboo-sustainable-growth-for-a-sustainable-future/"
 categories:
