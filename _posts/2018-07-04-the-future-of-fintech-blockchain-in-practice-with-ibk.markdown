@@ -1,5 +1,5 @@
 ---
-title: The Future of Fintech – Blockchain in Practice with IBK
+title: The Future of Fintech & Blockchain with IBK
 date: 2018-07-04 13:09:00 Z
 permalink: "/blog/the-future-of-fintech-blockchain-in-practice-with-ibk/"
 categories:
