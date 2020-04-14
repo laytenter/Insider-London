@@ -1,5 +1,5 @@
 ---
-title: How is the business world changing to confront the climate crisis?
+title: 'Climate Crisis: Changes in the business world'
 date: 2019-09-19 08:51:00 Z
 categories:
 - Business
