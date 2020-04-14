@@ -1,5 +1,5 @@
 ---
-title: The Global Impact of Climate Change on Business 
+title: The Impact of Climate Change on Business 
 date: 2019-01-24 09:47:00 Z
 permalink: "/blog/the-global-impact-of-climate-change-on-business/"
 categories:
