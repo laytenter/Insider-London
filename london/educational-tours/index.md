@@ -1,9 +1,9 @@
 ---
 title: Educational Tours London | Schools | Corporate
 heading: Educational Tours London
-description: Insider London offers a wide variety of educational guided walks perfect
-  for corporate events, academic groups and private parties. Our guided walking tours
-  are industry-specific and showcase London’s many dimensions as a world-leading city.
+description: Insider London offers a variety of educational guided tours for corporate,
+  academic and private groups. Themes include business, sustainability, regeneration
+  and more.
 category: london
 background: educational-tours.jpg
 nav: london
