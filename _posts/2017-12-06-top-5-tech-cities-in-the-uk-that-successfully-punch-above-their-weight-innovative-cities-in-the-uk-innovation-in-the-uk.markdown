@@ -1,6 +1,5 @@
 ---
-title: 5 most innovative cities in the UK | Innovative cities in the UK | Innovation
-  in the UK
+title: The 5 most innovative cities in the UK
 date: 2017-12-06 11:00:00 Z
 permalink: "/blog/top-5-tech-cities-UK-sized-to-population/"
 categories:
