@@ -1,5 +1,5 @@
 ---
-title: Three reasons that Curve is causing a stir in the Fintech world
+title: 3 Ways that Curve is making waves in Fintech
 date: 2020-01-22 14:14:00 Z
 categories:
 - Finance
