@@ -1,5 +1,5 @@
 ---
-title: Spotlight on Intelak - Dubai's Thriving Tech Community
+title: Spotlight on Intelak - Thriving Tech in Dubai
 date: 2020-03-04 12:17:00 Z
 categories:
 - Transport
