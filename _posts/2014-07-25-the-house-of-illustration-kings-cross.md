@@ -1,12 +1,11 @@
 ---
-title: 'Insider Interview: Olivia Ahmad of The House of Illustration'
-date: 2014-07-25 11:30:26 Z
+title: Spotlight on the House of Illustration at Kings Cross
+date: 2014-07-25 11:30:00 Z
 permalink: "/blog/the-house-of-illustration-kings-cross/"
 categories:
 - Regeneration
 id: 15700
 author: london75
-layout: post
 guid: https://www.insiderlondon.com/?p=15700
 s4_url2s:
 - 
@@ -16,6 +15,7 @@ s4_ctitle:
 - 
 s4_cdes:
 - 
+layout: post
 ---
 
 [](/wp-content/uploads/2014/07/P_KXC_K1_DEV_001_N711.jpg) [<img class="aligncenter wp-image-15703 size-full" src="/wp-content/uploads/2014/07/P_KXC_K1_DEV_001_N71-e1406188693706.jpg" alt="Kings Cross Regeneration" width="569" height="379" />](/wp-content/uploads/2014/07/P_KXC_K1_DEV_001_N71.jpg)
