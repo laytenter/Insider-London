@@ -1,5 +1,5 @@
 ---
-title: Trading & Asset Management Workshop for the British School of the Netherlands
+title: Trading Workshop for the British School
 date: 2019-10-23 10:07:00 Z
 categories:
 - Events
@@ -8,7 +8,7 @@ description: A fantastic fun and practical workshop for budding businessmen and 
 excerpt_separator: "<!--more-->"
 ---
 
-![Gibran Registe-Charles addressing a group of students from the Biritsh School of the Netherladns](/uploads/trading-workshop-1.jpg)
+![Gibran Registe-Charles addressing a group of students from the Britsh School of the Netherladns](/uploads/trading-workshop-1.jpg)
 
 Last week we had the privilege to hold a fun and practical workshop for IB Economics & Business students from the British School of the Netherlands. This was a fantastic session for budding businessmen and traders which focused on the key principles of trading and asset management.
 
