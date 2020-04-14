@@ -9,7 +9,7 @@ repeatnav: true
 layout: landing
 ---
 
-London is a global city like no other. With two thousand years of history preserved within its walls, modern London is a world capital for education, media, arts, tourism, finance and technology. This makes London the destination of choice for thousands of student and corporate groups.
+London is a global city like no other. With two thousand years of history preserved within its walls, modern London is a world capital for education, media, arts, tourism, finance and technology. This makes London the destination of choice for thousands of student and corporate groups every year.
 
 "A city of villages" – every neighbourhood boasts its own character, style and heritage. From the art-lined streets of trendy Shoreditch to the prestige of Mayfair boulevards, there is never enough time to explore all that London has to offer.
 
