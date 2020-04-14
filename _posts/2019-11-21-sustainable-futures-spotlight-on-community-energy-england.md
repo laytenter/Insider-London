@@ -1,5 +1,5 @@
 ---
-title: 'Sustainable Futures: Spotlight on Community Energy England'
+title: Spotlight on Community Energy England
 date: 2019-11-21 02:35:00 Z
 categories:
 - Sustainability
