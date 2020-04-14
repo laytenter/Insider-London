@@ -12,7 +12,7 @@ heading: Investment Workshop for the Vietnamese Chamber of Commerce
 
 ![18-05-16 VoCC.jpg](/uploads/18-05-16%20VoCC.jpg)
 
-On Monday, 14th May, we had the honour of welcoming the Vietnamese Chamber of Commerce and its president Mr. Vo at Innovation Warehouse. They had asked us to organise a workshop about investing in the UK and [businesses in London](https://www.insiderlondon.com/london/company-visits/). The three-hour workshop was a full-on success!
+On Monday, 14th May, we had the honour of welcoming the Vietnamese Chamber of Commerce and its president Mr. Vo at Innovation Warehouse. They had asked us to organise a workshop about investing in the UK and [businesses in London](https://www.insiderlondon.com/london/company-visits/). 
 
 ### Introduction and Talks
 
