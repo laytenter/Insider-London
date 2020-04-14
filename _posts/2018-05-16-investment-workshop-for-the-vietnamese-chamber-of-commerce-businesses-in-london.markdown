@@ -1,6 +1,5 @@
 ---
-title: Investment Workshop for the Vietnamese Chamber of Commerce | Businesses in
-  London
+title: Investment Workshop -Chamber of Commerce
 date: 2018-05-16 07:43:00 Z
 permalink: "/blog/vietnamese-chamber-of-commerce-businesses-in-london/"
 categories:
