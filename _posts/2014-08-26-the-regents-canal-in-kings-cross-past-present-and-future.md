@@ -1,6 +1,6 @@
 ---
-title: 'The Regent&#8217;s Canal in King&#8217;s Cross: Past, Present and Future'
-date: 2014-08-26 11:30:27 Z
+title: The Regent’s Canal in King’s Cross Regeneration
+date: 2014-08-26 11:30:00 Z
 permalink: "/blog/the-regents-canal-in-kings-cross-past-present-and-future/"
 categories:
 - Regeneration
@@ -17,7 +17,6 @@ tags:
 - Sustainable Architecture
 id: 16981
 author: london75
-layout: post
 guid: https://www.insiderlondon.com/?p=16981
 s4_cdes:
 - 
@@ -27,13 +26,14 @@ s4_image2s:
 - 
 s4_url2s:
 - 
+layout: post
 ---
 
-For over 140 years the Regents Canal linked King&#8217;s Cross, one of the industrial heartlands of north London, to the major industrial cities of the North. The waterways no longer form a vital industrial transport artery, but after a period of decline and dereliction, they are seeing a renaissance, as the Kings Cross Regeneration enters an exciting new stage.
+For over 140 years the Regents Canal linked King's Cross, one of the industrial heartlands of north London, to the major industrial cities of the North. The waterways no longer form a vital industrial transport artery, but after a period of decline and dereliction, they are seeing a renaissance, as the Kings Cross Regeneration enters an exciting new stage.
 
 **Past**
 
-The canal was built by John Nash, who shaped much of Regency London, including Regent Street, Regents Crescent and Buckingham Palace, so yeah, kind of a big deal! Named after the Prince Regent, the canal opened in 1820 to great fanfare. It linked the Grand Junction Canal’s Paddington Arm to the Thames at Limehouse, to transport coal, goods and building materials to London.
+The canal was built by John Nash, who shaped much of Regency London, including Regent Street, Regents Crescent and Buckingham Palace. Named after the Prince Regent, the canal opened in 1820 to great fanfare. It linked the Grand Junction Canal’s Paddington Arm to the Thames at Limehouse, to transport coal, goods and building materials to London.
 
 It was the interminable march of railway development across the UK that sparked the beginning of the end for the canal. There were even unsuccessful attempts to turn the canal into a railway. The final death knell came during the especially harsh winter of 1962/3, where the canal completely froze over, meaning no cargo could move on it for weeks. The canal traffic was shifted onto road and never moved back completely. By the late 1960s commercial traffic had all but vanished.
 
