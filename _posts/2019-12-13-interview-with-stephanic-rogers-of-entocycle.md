@@ -1,5 +1,5 @@
 ---
-title: Spotlight on Entocycle - Biotechnology of the Future
+title: Spotlight on Entocycle - Future of Biotech
 date: 2019-12-13 09:13:00 Z
 categories:
 - Business
