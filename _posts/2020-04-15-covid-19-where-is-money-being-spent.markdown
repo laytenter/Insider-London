@@ -36,7 +36,7 @@ Whilst some report the education sector as being one of the most reluctant secto
 4.	Gardening 
 
 Though garden centres face enormous difficulties as huge quantities of their stock [potentially go to waste](https://www.bbc.co.uk/news/uk-england-devon-52111584) this, sadly, is not through lack of consumer want.
-In particular, the Royal Horticultural Society and National Vegetable society have reported a huge [surge in first-time vegetable growers](https://www.bbc.co.uk/news/uk-england-52009161). Britain is spending more time in its gardens, looking for new leisure activities and [questioning insecurities in our food system](https://www.itv.com/news/london/2020-03-23/gardeners-turning-to-grow-your-own-during-coronavirus-crisis/). Trends for container and balcony planting are also [growing increasingly popular](https://www.ft.com/content/081aefd8-63a7-11ea-a6cd-df28cc3c6a68).
+In particular, the Royal Horticultural Society and National Vegetable society have reported a huge  [surge in first-time vegetable growers](https://www.bbc.co.uk/news/uk-england-52009161). Britain is spending more time in its gardens, looking for new leisure activities and [questioning insecurities in our food system](https://www.itv.com/news/london/2020-03-23/gardeners-turning-to-grow-your-own-during-coronavirus-crisis/). Trends for container and balcony planting are also [growing increasingly popular](https://www.ft.com/content/081aefd8-63a7-11ea-a6cd-df28cc3c6a68).
 
 *Stay tuned to discover exciting online chance for students to further their develop career path. As the world is forced to slow down, why not take this opportunity to gain critical skills?* 
 
