@@ -28,7 +28,7 @@ In the UK, JD.com has reported a [56% rise in the sales of skipping rope, a 60% 
 3. Online Education
 Whilst some report the education sector as being one of the most reluctant sectors in adopting new technology, before the Covid-19 crisis, the global education technology sector (EdTech) was still growing by [more than 15% per year](https://www.usnews.com/news/best-countries/articles/2020-04-02/coronavirus-pandemic-tests-countries-abilities-to-create-effective-online-education). As social distancing continues however, institutions have been forced online by necessity, and populations look to spend their newfound home-time deepening their knowledge bases and learning new skills. 
 
-![graph3.png](/uploads/graph3.png)
+       ![graph3.png](/uploads/graph3.png)
 
 *Source: https://nocamels.com/2020/03/coronavirus-economy-5-industries-thriving/*
 
