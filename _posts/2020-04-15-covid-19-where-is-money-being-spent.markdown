@@ -1,5 +1,5 @@
 ---
-title: 'Covid-19: Where is money being spent?'
+title: Where is money being spent?
 date: 2020-04-15 08:38:00 Z
 categories:
 - Business
