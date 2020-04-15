@@ -7,9 +7,11 @@ tags:
 - educational
 - finance
 - all
-heading: Finance
-description: Insider London Walking Tours | Our London finance tour takes you from
-  the humble beginnings in the 17th century to its current global status.
+heading: 'Finance Tours - City of London & Canary Wharf '
+description: |-
+  Insider London Finance Walking Tours explore the financial powerhouse of the City of London
+  and the amazing development of Canary Wharf.
+order: 1
 gallery1:
 - image: "/assets/images/tours/Finance/Picture-1---Bank-of-England-City-of-London-Finance-Walking-Tour-Student-Corporate-Group.jpg"
   alt: Bank-of-England-City-of-London-Finance-Walking-Tour-Student-Corporate-Group
@@ -26,7 +28,6 @@ gallery2:
 - image: "/assets/images/tours/Canary Wharf/Picture-3---Museum-of-Docklands-Canary-Wharf-Finance-Regeneration-Student-Corporate-Walking-Tour.jpg"
   alt: Museum of Docklands Canary Wharf Finance Regeneration Student Corporate Walking
     Tour
-order: 1
 thumb: thumb finance.jpg
 banner: bigstock-Bank-of-England-in-London-72296731-772x528.jpg
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9932.061563355885!2d-0.09644565872492293!3d51.51293363219121!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604ab2d4f4403%3A0xd86f22da5202b7ac!2sSt.+Paul's!5e0!3m2!1sen!2s!4v1431589314594
