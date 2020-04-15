@@ -1,5 +1,5 @@
 ---
-title: Educational Trips & Corporate Travel Research Trips to London
+title: London - Educational Trips & Corporate Travel
 heading: London - Corporate Travel & Educational Trips
 description: Offering company visits, educational walking tours and cultural experiences,
   Insider London creates  bespoke educational trips or corporate travel experience.
