@@ -37,23 +37,23 @@ defaults:
     path: ''
     type: tours
   values:
-    heading:
+    heading: 
     label: 
     layout: programme
     script: slick-slider.js
     nav: london
-    description:
+    description: 
     gallery:
-    - image:
-      caption:
-      alt:
-    embed:
-    order:
+    - image: 
+      caption: 
+      alt: 
+    embed: 
+    order: 
 - scope:
     path: ''
     type: authors
   values:
-    image:
+    image: 
 feed:
   path: blog/atom.xml
 social:
