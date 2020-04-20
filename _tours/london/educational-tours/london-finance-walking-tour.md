@@ -8,6 +8,7 @@ tags:
 - finance
 - all
 heading: 'Finance Tours - City of London & Canary Wharf '
+label: Finance
 description: |-
   Insider London Finance Walking Tours explore the financial powerhouse of the City of London
   and the amazing development of Canary Wharf.
