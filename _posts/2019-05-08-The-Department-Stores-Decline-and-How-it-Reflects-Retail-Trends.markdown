@@ -1,5 +1,5 @@
 ---
-title: How the Department Store's Decline Reflects Retail Trends
+title: Why are Department Stores Declining?
 date: 2019-05-08 08:31:00 Z
 permalink: "/blog/the-department-stores-decline-and-How-it-reflects-retail-trends/"
 categories:
