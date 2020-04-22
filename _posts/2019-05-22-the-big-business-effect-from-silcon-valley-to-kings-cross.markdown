@@ -1,5 +1,5 @@
 ---
-title: 'The "Big Business Effect": Regeneration vs Gentrification'
+title: 'Regeneration: The "Big Business Effect"'
 date: 2019-05-22 15:47:00 Z
 permalink: "/blog/the-big-business-effect-from-silcon-valley-to-kings-cross/"
 categories:
