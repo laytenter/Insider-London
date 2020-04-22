@@ -7,11 +7,14 @@ tags:
 - educational
 - MA
 - all
-heading: Architecture
-description: The soaring skyscrapers that puncture London’s skyline are architectural
-  wonders of London. Join our architecture tour London at insider-london.co.uk.
+heading: London Modern Architecture Tour
+label: Architecture
+description: Uncover the stories behind London's amazing contemporary architecture
+  with this walking tour. Discover the most iconic buildings by the world's most famous
+  architects.
 gallery:
 - image: "/assets/images/tours/MA/Picture-1---Lloyds-of-London-Modern-Architecture-Corporate-Student-Walking-Tour-.jpg"
+  caption: 
   alt: Wobbly-Bridge--Modern-Architecture-Corporate-Student-Walking-Tour
 - image: "/assets/images/tours/MA/Picture-2---Wobbly-Bridge--Modern-Architecture-Corporate-Student-Walking-Tour-.JPG.jpg"
   alt: Wobbly-Bridge--Modern-Architecture-Corporate-Student-Walking-Tour
@@ -33,9 +36,9 @@ related:
 - 29332
 ---
 
-How often in the big smoke do we stop and look up? Insider London invites you to take a closer look at the marvellous structures which puncture the horizon. In addition to our [Sustainable Architecture Tour](/london/educational-tours/sustainable-london-architecture-tour/) we offer a fabulous [Modern Architecture Tour](#modern-architecture).
+How often in the big smoke do we stop and look up? Insider London invites you to take a closer look at the marvellous structures which puncture the horizon. In addition to our [Sustainable Architecture Tour](/london/educational-tours/sustainable-london-architecture-tour/) we offer a fabulous Modern Architecture Tour.
 
-## Modern Architecture
+
 
 {% assign gallery = page.gallery %}
 {% if gallery.size > 1 %}
