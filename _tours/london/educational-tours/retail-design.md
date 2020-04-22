@@ -56,7 +56,7 @@ A global centre for luxury retail, traverse the elegant promenades of **Mayfair*
 
 **Finishing Point**: Fortnum & Masons, Piccadilly
 
-**On this tour you will discover**
+**On this retail and marketing tour you will discover**
 
 * The overwhelming attraction of **British heritage brands**
 * The extravagance of the historic arcades
@@ -80,7 +80,7 @@ There’s a new kid on the block. Come and experience the youthful vibes of **Sh
 
 **Finishing Point**: Ely’s Yard, Truman Brewery
 
-**On this tour you will discover:**
+**On this retail and marketing tour you will discover:**
 * The latest trend-setting boutiques and independent shops
 * Impossibly stylish lifestyle brands
 * The vibrant buzz of Brick Lane
