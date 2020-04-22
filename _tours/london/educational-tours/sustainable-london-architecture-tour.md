@@ -1,5 +1,5 @@
 ---
-title: Sustainable Architecture Tour
+title: Sustainability Tours - Architecture & Green London
 date: 2013-01-01 10:50:00 Z
 categories:
 - educational-tours
@@ -10,6 +10,7 @@ tags:
 heading: Sustainability
 description: Join Insider London on London's only sustainable architecture tour and
   discover London's greenest skyscrapers
+order: 4
 gallery1:
 - image: "/assets/images/tours/CEGT/Picture-1---Central-St-Giles-Sustainability-Eco-Cutting-Edge-Green-Walking-Tour-Student-Corporate.jpg"
   alt: Central-St-Giles-Sustainability-Eco-Cutting-Edge-Green-Walking-Tour-Student-Corporate
@@ -24,7 +25,6 @@ gallery2:
   alt: Watermark-Place-Sustainable-Green-Eco-Architecture-Walking-Tour-Student-Corporate
 - image: "/assets/images/tours/Sustainable Architecture/Picture-3---Walkie-Talkie-Green-Wall-Sustainable-Green-Eco-Architecture-Walking-Tour-Student-Corporate.jpg"
   alt: Walkie-Talkie-Green-Wall-Sustainable-Green-Eco-Architecture-Walking-Tour-Student-Corporate
-order: 4
 tour-id: 29342
 author: london75
 thumb: sust_arch_1-420x287.jpg
