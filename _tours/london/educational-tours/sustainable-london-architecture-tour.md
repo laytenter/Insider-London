@@ -8,6 +8,7 @@ tags:
 - susarch
 - all
 heading: Green London - Sustainability Tours
+label: 'Sustainability '
 description: Insider London presents our sustainability walking tours, analysing the
   eco-credentials of the built environment. Come and discover if London as a green
   city!
