@@ -1,9 +1,14 @@
 ---
-title: Spotlight on the House of Illustration at Kings Cross
+title: 'Spotlight: King''s Cross House of Illustration'
 date: 2014-07-25 11:30:00 Z
 permalink: "/blog/the-house-of-illustration-kings-cross/"
 categories:
 - Regeneration
+tags:
+- House of illustration
+- placemaking
+- kings cross
+- regeneration
 id: 15700
 author: london75
 guid: https://www.insiderlondon.com/?p=15700
