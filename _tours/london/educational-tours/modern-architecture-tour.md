@@ -51,7 +51,7 @@ In **two hours**, we journey through the latest architectural developments of th
 
 In **three and a half hours**, this in-depth journey begins with the artistic jewels of Southwark before crossing over into the City of London. In this version we stop mid-way to refuel where our guides will show you one of the best views in London over a quick coffee break.
 
-**On this tour you will discover**
+**On this walking tour you will discover**
 
 * The most striking examples of modern architecture in London and the fascinating stories behind their development
 * The importance of sustainability in London’s architecture and the dynamic modern developments pushing the sustainability envelope
