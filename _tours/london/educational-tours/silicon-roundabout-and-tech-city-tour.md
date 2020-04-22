@@ -7,12 +7,13 @@ tags:
 - educational
 - SR
 - all
-heading: Business
+heading: Business & Innovation Tour
 description: London is often voted the world’s best city to do business and we invite
   you to the capital’s thriving business centres. Our popular Silicon Roundabout Tour
   goes straight to the heart of the Tech City eco-system.
 gallery:
 - image: "/assets/images/tours/Silicon Roundabout/Picture-1---The-Bowery-Fintech-Silicon-Roundabout-Tech-City-Walking-Tour.jpg"
+  caption: 
   alt: The-Bowery-Fintech-Silicon-Roundabout-Tech-City-Walking-Tour
 - image: "/assets/images/tours/Silicon Roundabout/Picture-2---Principal-Place-Amazon-Regeneration-Silicon-Roundabout-Tech-City-Walking-Tour.jpg"
   alt: Principal-Place-Amazon-Regeneration-Silicon-Roundabout-Tech-City-Walking-Tour
