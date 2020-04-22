@@ -48,7 +48,7 @@ Come and discover the unassuming roundabout which over the course of the last de
 
 With start-up success stories of all kind, between 2012 and 2014, Silicon Roundabout boasted 32,000 businesses founded in a single postcode – more than any other postcode in history. This eye-opening educational tour delves into the foundations, development and innovation of the business eco-system.
 
-**On this tour you will discover:**
+**On this business and innovation tour you will discover:**
 
 * The unlikely **origins of the name** "Silicon Roundabout"
 
