@@ -40,4 +40,4 @@ CA: I think there will be a real step change in the future of the industry and i
 
 
 
-*Immerse your group in the UK fashion industry with an [interactive visit](https://www.insiderlondon.com/london/company-visits/) to this London fashion factory. From supply chain management and sustainability to business and marketing, this bespoke visit provides real industry insight. Get in touch via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) *
+*Immerse your group in the UK fashion industry with an [interactive visit](https://www.insiderlondon.com/london/company-visits/) to this London fashion factory. From supply chain management and sustainability to business and marketing, this bespoke visit provides real industry insight. Get in touch via [contact@insiderlondon.com](mailto:contact@insiderlondon.com)*
