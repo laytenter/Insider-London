@@ -8,6 +8,7 @@ tags:
 - SR
 - all
 heading: Business & Innovation Tour
+label: Business
 description: Our popular Silicon Roundabout & Tech City Tour explores the past, present
   and future of one of London's trendiest and most innovative districts.
 gallery:
