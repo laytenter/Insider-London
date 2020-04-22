@@ -9,7 +9,7 @@ tags:
 - all
 heading: Business & Innovation Tour
 description: Our popular Silicon Roundabout & Tech City Tour explores the past, present
-  and future of one of London's trendiest and most innovation business eco-systems.
+  and future of one of London's trendiest and most innovative districts.
 gallery:
 - image: "/assets/images/tours/Silicon Roundabout/Picture-1---The-Bowery-Fintech-Silicon-Roundabout-Tech-City-Walking-Tour.jpg"
   caption: 
