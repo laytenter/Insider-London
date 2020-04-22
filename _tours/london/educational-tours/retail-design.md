@@ -1,5 +1,5 @@
 ---
-title: Retail Design Tour London Marketing Tour
+title: Retail Design Tour | London Marketing Tour
 date: 2012-01-01 10:44:00 Z
 categories:
 - educational-tours
@@ -7,9 +7,11 @@ tags:
 - all
 - retail
 - educational
-heading: Marketing & Retail
-description: The original London Retail Tour! Find design inspiration for the most
-  luxurious retail design.
+heading: Marketing & Retail Tours
+label: Marketing & Retail
+description: Insider London presents our retail safari tours exploring two of London's
+  most fabulous shopping districts. Discover branding, marketing and more.
+order: 3
 gallery1:
 - image: "/assets/images/tours/WE Retail/Picture-1---Visual-Merchandising-Retail-Marketing-West-End-Walking-Tour-Student-Corporate.JPG.jpg"
   alt: Visual-Merchandising-Retail-Marketing-West-End-Walking-Tour-Student-Corporate
@@ -24,7 +26,6 @@ gallery2:
   alt: Brick-Lane-Boxpark-Pop-Up-East-End-Retail-Marketing-Walking-Tour-Student-Corporate
 - image: "/assets/images/tours/East End Retail/Picture-3_-Nike-Lab-Boxpark-Pop-Up-East-End-Retail-Marketing-Walking-Tour-Student-Corporate.jpg"
   alt: Nike-Lab-Boxpark-Pop-Up-East-End-Retail-Marketing-Walking-Tour-Student-Corporate
-order: 3
 tour-id: 29334
 author: london75
 guid: "/?post_type=product&#038;p=29334"
@@ -38,11 +39,11 @@ related:
 - 29344
 ---
 
-As famously once stated "**Britain is a nation of shopkeepers**" – so come and explore London’s most successful retail districts with Insider London. Our award-winning retail tours sample the coolest and most interesting shops that London has to offer.
+As famously once stated "**Britain is a nation of shopkeepers**" – so come and explore London’s most successful retail districts with Insider London. Our award-winning marketing tours sample the coolest and most interesting shops that London has to offer.
 
-In the face of global e-commerce giants and spending cuts, come and see the retailers that are doing it right. We offer two fantastic tours in two very different areas of London: the **[West End](#west-end-retail-design)** and the **[East End](#east-end-retail-design)**. Compare and contrast them or pick the neighbourhood for you.
+In the face of global e-commerce giants and spending cuts, come and see the retailers that are doing it right. We offer two fantastic retail tours in two very different areas of London: the **[West End](#west-end-retail-design)** and the **[East End](#east-end-retail-design)**. Compare and contrast them or pick the neighbourhood for you.
 
-## West End Retail Design
+## West End Retail Design 
 
 {% assign gallery = page.gallery1 %}
 {% if gallery.size > 1 %}
