@@ -4,6 +4,7 @@ date: 2014-07-25 11:30:00 Z
 permalink: "/blog/the-house-of-illustration-kings-cross/"
 categories:
 - Regeneration
+- Art and Culture
 tags:
 - House of illustration
 - placemaking
