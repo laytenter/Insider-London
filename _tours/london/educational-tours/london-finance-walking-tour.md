@@ -51,7 +51,7 @@ Our expert guide will show you how the City of London developed into a global fi
 
 **Finishing Point**: The Cheesegrater (Leadenhall Building), near Liverpool Street Station.
 
-**On this tour you will discover:**
+**On this finance walking tour you will discover:**
 
 - **The origins of London Stock Exchange**, one of the world’s oldest stock exchanges and currently the largest stock exchange in Europe. Discover it's similarities with ‘flat white coffee’, how the stock exchange works in the modern day with the development of new technology
 - **Guildhall, home to the City of London Corporation.** Discover the City of London’s unique governance structure, including why the Queen must seek permission to enter the City
@@ -85,7 +85,7 @@ Meeting Point: Outside Carluccio’s, Reuter’s Plaza
 
 Finishing Point: Near Canary Wharf Station (this is a loop tour)
 
-**On this tour you will discover:**
+**On this canary wharf tour you will discover:**
 
 * The twists and turns of the enormous **regeneration** project
 * **How Canary Wharf compares to the City of London**
