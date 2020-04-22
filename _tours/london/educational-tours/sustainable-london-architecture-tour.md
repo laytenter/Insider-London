@@ -7,9 +7,10 @@ tags:
 - educational
 - susarch
 - all
-heading: Sustainability
-description: Join Insider London on London's only sustainable architecture tour and
-  discover London's greenest skyscrapers
+heading: Green London - Sustainability Tours
+description: Insider London presents our sustainability walking tours, analysing the
+  eco-credentials of the built environment. Come and discover if London as a green
+  city!
 order: 4
 gallery1:
 - image: "/assets/images/tours/CEGT/Picture-1---Central-St-Giles-Sustainability-Eco-Cutting-Edge-Green-Walking-Tour-Student-Corporate.jpg"
@@ -59,7 +60,7 @@ Are you a student of ethical business, environmental science or human geography?
 
 **Finishing Point**: Outside Embankment Tube Station.
 
-**On this tour you will discover**
+**On this London sustainability tour you will discover**
 
 * The sustainable credentials of hidden gems and well-known landmarks
 * One of the city’s first **ethical business hubs**
@@ -89,7 +90,7 @@ We examine at some of the capital’s most distinctive towers which boast green 
 
 **Finishing Point**: Outside the Bloomberg Building, near Bank Station
 
-**On this tour you will discover**
+**On this green tour you will discover**
 * A wide variety of approaches to sustainability
 * The key principles behind sustainable building certification
 * A new side to some of London’s best-loved buildings
