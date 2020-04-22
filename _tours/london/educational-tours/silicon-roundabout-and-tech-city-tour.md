@@ -8,9 +8,8 @@ tags:
 - SR
 - all
 heading: Business & Innovation Tour
-description: London is often voted the world’s best city to do business and we invite
-  you to the capital’s thriving business centres. Our popular Silicon Roundabout Tour
-  goes straight to the heart of the Tech City eco-system.
+description: Our popular Silicon Roundabout & Tech City Tour explores the past, present
+  and future of one of London's trendiest and most innovation business eco-systems.
 gallery:
 - image: "/assets/images/tours/Silicon Roundabout/Picture-1---The-Bowery-Fintech-Silicon-Roundabout-Tech-City-Walking-Tour.jpg"
   caption: 
@@ -46,7 +45,7 @@ Welcome to the epicentre of London's booming tech start-up industry!
 
 Come and discover the unassuming roundabout which over the course of the last decade has earned a reputation as the perfect incubator for the modern start-up. Traversing the art-lined streets of colourful Shoreditch, we explore the **curious origins and exciting developments** of the one-and-only Silicon Roundabout. Discover why students and corporate groups are flocking to the area for inspiration.
 
-With start-up success stories of all kind, between 2012 and 2014, Silicon Roundabout boasted 32,000 businesses founded in a single postcode – more than any other postcode in history. This eye-opening educational tour delves into the foundations and development of the business eco-system.
+With start-up success stories of all kind, between 2012 and 2014, Silicon Roundabout boasted 32,000 businesses founded in a single postcode – more than any other postcode in history. This eye-opening educational tour delves into the foundations, development and innovation of the business eco-system.
 
 **On this tour you will discover:**
 
