@@ -30,7 +30,7 @@ A vibrant and constantly evolving city, London is home to some of the world's mo
 
 In addition to our [Canary Wharf Tour](/london/educational-tours/london-finance-walking-tour/#canary-wharf-walking-tour), we showcase the amazing developments at [Kings Cross](#kings-cross-innovation-and-regeneration) and the [Olympic Park](#olympic-park-regeneration-tour). These tours are perfect for academic, corporate or private groups interested in geography, urban planning and business eco-system development.
 
-## Kings Cross Innovation and Regeneration
+## Kings Cross Tour 
 
 {% assign gallery = page.gallery1 %}
 {% if gallery.size > 1 %}
@@ -56,7 +56,7 @@ Kings Cross never fails to impress and has quickly become one of London’s most
 
 {% include findoutmore.html title="Kings Cross Tour" %}
 
-## Olympic Park Regeneration Tour
+## Olympic Park Tour 
 
 {% assign gallery = page.gallery2 %}
 {% if gallery.size > 1 %}
