@@ -2,13 +2,13 @@
 title: London Company Visits | Interactive Workshops
 date: 2015-08-28 10:51:00 Z
 permalink: "/london/company-visits/"
-description: Business Visits London | Learn the secrets behind the capital’s most
-  successful companies
+description: Providing the perfect business studies trip idea and the best inspiration
+  for corporate groups, come and visit one of London's most innovative companies.
 tags:
 - educational
 - bvisits
 - all
-heading: Company visits and workshops
+heading: Company Visits & Workshops for Schools & Corporate Groups
 gallery:
 - image: "/uploads/bp-slider.jpg"
   caption: Students from Limkokwing University visiting BP Trading at 1 Canary Wharf
@@ -40,8 +40,8 @@ related:
 - 29347
 - 29332
 - 29334
-layout: programme
 nav: london
+layout: programme
 ---
 
 <a onclick="gtag('event', 'Click', { 'event_category': 'Brochure', 'event_label':'Company Visits' });" class="c-btn c-btn--primary c-btn--red" href="/assets/brochures/CompanyVisitsBrochure-rev1.pdf">View Brochure</a>
@@ -54,12 +54,12 @@ For real business insight out of the office or classroom then look no further th
   <iframe src="https://player.vimeo.com/video/378264280" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
-Our company visits showcase some of the world’s most powerful companies as well as the capital’s most innovative entrepreneurs, including:
+Our company visits for students and corporate groups showcase some of the world’s most powerful companies as well as the capital’s most innovative entrepreneurs, including:
 
 - Revolut – the leading light of the disruptive fintech scene and one of the sector’s fastest growing companies.  Revolut now boasts more than 3 million users
 - Metro Bank – the first new UK high street bank in more than 150 years who started after the 2008 financial crisis. Come and discover their community-oriented business model
 - Level39 - one of the world's biggest fintech hubs at non-other than 1 Canada Square. Here find the world pioneers in cybersecurity, fintech and retail tech
-- London Stock Exchange – with a market capitalization value of over $4 trillion, this is one of the oldest stock exchanges in the world. We offer bespoke training programmes
+- London Stock Exchange Workshop – with a market capitalization value of over $4 trillion, this is one of the oldest stock exchanges in the world. We offer bespoke training programmes at the LSE.
 
 - LEGO – one of the world’s largest toy companies. Come and tour their London hub and find out about their exciting company culture
 - Tribal Worldwide - The global technology-based marketing agency, part of the Omnicons Group who develop creative solutions forMcDonalds, Adidas and Volkswagen
@@ -72,7 +72,7 @@ E-mail [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to choose f
 
 ## Workshops
 
-Insider London also hosts engaging and interactive workshops with top industry professionals. The precise subject matter of talks and workshops can be oriented around the interests and requirements of your group.
+Insider London also hosts engaging and interactive workshops with top industry professionals. The precise subject matter of talks and workshops can be oriented around the interests and requirements of your student or corporate group.
 
 - Fintech for the Future – An ideas exchange between some of the UK’s most innovative fintech companies. With a carefully curated selection of start-ups.
 - Asset Management & Trading – A bespoke session based on the background of the group; this workshop is led by a former policy advisor to the European Monetary Affairs committee.
