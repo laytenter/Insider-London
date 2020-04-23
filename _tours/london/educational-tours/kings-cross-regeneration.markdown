@@ -1,12 +1,13 @@
 ---
-title: Kings Cross Regeneration & Innovation Tour
+title: Kings Cross Regeneration & London Olympic Park Tours
 categories:
 - educational-tours
 tags:
 - educational
-heading: Regeneration
-description: Join us on this fascinating Kings Cross Tour, and discover how the area
-  made its remarkable transitions.
+heading: London Regeneration - Kings Cross Tour &  Olympic Park Tour
+description: Our London regeneration walking tours explore the amazing transformations
+  of Kings Cross and the Olympic Park. Experience real urban planning successes.
+order: 5
 gallery1:
 - image: "/assets/images/tours/Kings Cross/Picture-1---St-Pancras-Renaissance-Kings-Cross-Regeneration-Innovation-Walking-Tour-Student-Corporate.jpg"
   alt: 
@@ -23,7 +24,6 @@ thumb: thumb kings cross.jpg
 banner: Kings Cross Tour Image.jpg
 hidden: true
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.0464892083746!2d-0.12413955088987932!3d51.53070714700129!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b395352fe65%3A0x7304861c2c028532!2sWar+Memorial!5e0!3m2!1sen!2suk!4v1537207118016
-order: 5
 ---
 
 A vibrant and constantly evolving city, London is home to some of the world's most impressive regeneration projects. Home in on the most exciting and up-and-coming areas and dramatic changes which have shaped the urban landscape.
@@ -47,7 +47,7 @@ Kings Cross never fails to impress and has quickly become one of London’s most
 
 **Finishing Point**: Near King’s Cross Station, this is a loop tour
 
-**On this tour you will discover**
+**On this regeneration tour you will discover**
 * The importance of the transport infrastructure, including High Speed 1, which goes far beyond a Harry Potter filmset
 * The significance of the **British Library** & the prestigious **Francis Crick **Institute to the project
 * The restoration of Victorian grandeur and impressive retrofitting of **industrial architecture**
@@ -69,7 +69,7 @@ In 2012 all eyes were on London and the Queen Elizabeth Park. This was a phenome
 
 **Finishing Point**: Here East, five minutes from Stratford Station on the free shuttle bus
 
-**On this tour you will discover**
+**On this urban planning tour you will discover**
 
 * Why one of the biggest shopping malls in Europe came to this downtrodden area
 * The elegant silhouette of the world’s greatest public swimming baths
