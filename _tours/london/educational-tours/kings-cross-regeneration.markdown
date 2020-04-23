@@ -4,7 +4,7 @@ categories:
 - educational-tours
 tags:
 - educational
-heading: London Regeneration - Kings Cross Tour &  Olympic Park Tour
+heading: 'London Regeneration Tours - Kings Cross  & Olympic Park '
 description: Our London regeneration walking tours explore the amazing transformations
   of Kings Cross and the Olympic Park. Experience real urban planning successes.
 order: 5
