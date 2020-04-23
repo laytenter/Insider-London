@@ -3,9 +3,10 @@ title: London Underground Tours
 date: 2001-01-01 17:41:00 Z
 categories:
 - educational-tours
-heading: Transport
-description: Travel across 150 years in just two hours aboard one of our awesome London
-  Underground Tours. Discover how and why the underground was created and much more!
+heading: London Underground Tour
+label: Transport
+description: 'Travel through 150 years of fascinating in history in just two hours,
+  aboard one of our awesome London Underground Walking Tour. '
 gallery:
 - image: "/uploads/760x428%20tube%20banner.jpg"
   caption: Travel through time on our London Underground Tour!
