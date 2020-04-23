@@ -7,13 +7,14 @@ tags:
 - historical
 - ghost
 - all
-heading: Ghost Tour
-layout: programme
+heading: Haunted London - Ghost Tour
+label: Famous Ghosts & Infamous Murders
 nav: london
-description: Ghost tour London by Insider London discovering the murder mysteries
-  that gripped Londoners long before Jack the Ripper came to the scene.
+description: Creep through old London with our Famous Ghosts and Infamous Murders
+  Tour. From haunted theatres to grisly deaths, discover the dark side of Covent Garden.
 gallery:
 - image: "/assets/images/tours/Ghost/Picture-3---History-West-End-Haunted-London-Walking-Tour-Student-Corporate-Group.jpg"
+  caption: 
   alt: History West End Haunted London Walking Tour Student Corporate Group
 - image: "/assets/images/tours/Ghost/Picture-1---Historic-Alleyway-from-Harry-Potter-Ghost-Haunted-London-Walking-Tour-Student-Corporate-Group.jpg"
   alt: Historic Alleyway from Harry Potter Ghost Haunted London Walking Tour Student
@@ -39,6 +40,7 @@ related:
 - 32336
 banner: blank banner.jpg
 hidden: true
+layout: programme
 ---
 
 {% assign gallery = page.gallery %}
