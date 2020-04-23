@@ -35,7 +35,7 @@ related:
 - 32336
 ---
 
-# London Underground Tours
+
 
 {% assign gallery = page.gallery %}
 
