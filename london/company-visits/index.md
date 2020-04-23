@@ -8,7 +8,7 @@ tags:
 - educational
 - bvisits
 - all
-heading: Company Visits & Workshops for Schools & Corporate Groups
+heading: Company Visits & Workshops  - For Schools & Corporate Groups
 gallery:
 - image: "/uploads/bp-slider.jpg"
   caption: Students from Limkokwing University visiting BP Trading at 1 Canary Wharf
