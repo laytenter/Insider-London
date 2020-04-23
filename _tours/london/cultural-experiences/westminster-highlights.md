@@ -3,14 +3,14 @@ title: Westminster Highlights Sightseeing Tour
 date: 2008-01-01 17:30:00 Z
 categories:
 - cultural-experiences
-heading: Westminster Highlights
-layout: programme
+heading: Westminster Highlights - The Iconic Sightseeing Tour
+label: Westminster Highlights
 nav: london
-description: At Insider London we offer a variety of alternative guided tours of London
-  ideal for tourists, locals, students, school trips, private parties and corporate
-  events.
+description: 'This Insider London walking tour offers the real stories behind the
+  most iconic London landmarks for school groups, corporate travel and private tours. '
 gallery:
 - image: "/assets/images/tours/Westminster Highlights/Picture-1---Buckingham-Palace-Westminster-Highlights-Sightseeing-Walking-Tour-Student-Corportate-Group.jpg"
+  caption: 
   alt: Buckingham-Palace-Westminster-Highlights-Sightseeing-Walking-Tour-Student-Corportate-Group
 - image: "/assets/images/tours/Westminster Highlights/Picture-2---Trafalgar-Square-Westminster-Highlights-Sightseeing-Walking-Tour-Student-Corportate-Group.jpg"
   alt: Trafalgar-Square-Westminster-Highlights-Sightseeing-Walking-Tour-Student-Corportate-Group
@@ -35,6 +35,7 @@ related:
 - 32336
 banner: blank banner.jpg
 hidden: true
+layout: programme
 ---
 
 {% assign gallery = page.gallery %}
