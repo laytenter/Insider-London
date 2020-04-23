@@ -1,5 +1,5 @@
 ---
-title: Alternative and Unusual London Tours
+title: Alternative History & Unusual London Tour
 date: 2002-01-01 11:31:00 Z
 categories:
 - cultural-experiences
@@ -7,16 +7,11 @@ tags:
 - historical
 - all
 - quirky
-heading: Quirky Tour
-layout: programme
+heading: Alternative History - Quirky London Tour
+label: Quirky History
 nav: london
-description: Join us on a Quirky Tour and discover an unusual and often unseen side
-  of London!
-gallery:
-- image: 
-  caption: 
-  alt: 
-embed: 
+description: Join us on an alternative London history tour for private groups. Uncover
+  the intoxicants scandals and hilarious moments - uncover hidden London.
 order: 2
 featured: true
 tour-id: 32342
@@ -34,6 +29,7 @@ related:
 - 32143
 - 29349
 - 12345
+layout: programme
 ---
 
 <img src="{{ site.imagepath }}{{ page.banner }}" />
@@ -50,7 +46,7 @@ Discover London’s best bits with this two-hour Quirky Walking Tour. Sites incl
 
 ### Highlights
 
-**On this tour you will**:
+**On this alternative London tour you will**:
 
 * Explore London’s historic party district
 * Meet a group of lions that would upset any zoologist
