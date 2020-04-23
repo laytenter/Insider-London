@@ -1,5 +1,5 @@
 ---
-title: Shoreditch Street Art Tour London
+title: London Street Art Walking Tour | Shoreditch
 date: 2005-01-01 10:39:00 Z
 categories:
 - educational-tours
@@ -7,12 +7,14 @@ tags:
 - historical
 - all
 - streetart
-heading: Creative
+heading: London Street Art Tour
+label: Creative
 description: London has some of the best street art in the world. Discover the vibrant
   Shoreditch street art scene and see famous pieces from the likes of Banksy and Space
   Invader on our Street Art Tour!
 gallery:
 - image: "/assets/images/tours/Street Art/Picture-1---Mr-Cenz-Shoreditch-Street-Art-Walking-Tour-Student-Corporate.jpg"
+  caption: 
   alt: Mr-Cenz-Shoreditch-Street-Art-Walking-Tour-Student-Corporate
 - image: "/assets/images/tours/Street Art/Picture-2---Shoreditch-Street-Art-Walking-Tour-Student-Corporate-Delegates.jpg"
   alt: Shoreditch-Street-Art-Walking-Tour-Student-Corporate-Delegates
@@ -51,7 +53,7 @@ Shoreditch boasts one of the highest concentrations of street art in the world s
 
 **Finishing Point**: Ely’s Yard, Brick Lane
 
-**Highlights of the Street Art Tour**:
+**On this street art walking tour, you will:**
 
 * Discover one of the earliest (now protected) works by world-famous graffiti artist Banksy
 * Visit the UK’s largest street art wall and trace its many layers
