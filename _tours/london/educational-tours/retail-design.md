@@ -56,7 +56,7 @@ A global centre for luxury retail, traverse the elegant promenades of **Mayfair*
 
 **Finishing Point**: Fortnum & Masons, Piccadilly
 
-**On this retail and marketing tour you will discover**
+**On this retail and marketing tour you will discover:**
 
 * The overwhelming attraction of **British heritage brands**
 * The extravagance of the historic arcades
