@@ -1,5 +1,5 @@
 ---
-title: Westminster Sightseeing Walking Tour
+title: Westminster Highlights Walking Tour
 date: 2008-01-01 17:30:00 Z
 categories:
 - cultural-experiences
