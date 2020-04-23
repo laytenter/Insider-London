@@ -11,7 +11,7 @@ heading: Alternative History - Quirky London Tour
 label: Quirky History
 nav: london
 description: Join us on an alternative London history tour for private groups. Uncover
-  the intoxicants scandals and hilarious moments - uncover hidden London.
+  the intoxicants scandals and hilarious moments - uncover hidden, quirky London.
 order: 2
 featured: true
 tour-id: 32342
