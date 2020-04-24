@@ -15,11 +15,11 @@ description: Discover the vibrant world of London Street art! Our Shoreditch str
 gallery:
 - image: "/assets/images/tours/Street Art/Picture-1---Mr-Cenz-Shoreditch-Street-Art-Walking-Tour-Student-Corporate.jpg"
   caption: 
-  alt: Mr-Cenz-Shoreditch-Street-Art-Walking-Tour-Student-Corporate
+  alt: Colourful Urban Art on a Student Group Tour
 - image: "/assets/images/tours/Street Art/Picture-2---Shoreditch-Street-Art-Walking-Tour-Student-Corporate-Delegates.jpg"
-  alt: Shoreditch-Street-Art-Walking-Tour-Student-Corporate-Delegates
+  alt: Street Art or Grafffiti on a tour for a corporate group
 - image: "/assets/images/tours/Street Art/Picture-3---Stik-Shoreditch-Street-Art-Walking-Tour-Student-Corporate.jpg"
-  alt: Stik-Shoreditch-Street-Art-Walking-Tour-Student-Corporate
+  alt: Iconic Street Art by Stik in Shoreditch
 embed: https://player.vimeo.com/video/378260945
 featured: true
 tour-id: 29326
