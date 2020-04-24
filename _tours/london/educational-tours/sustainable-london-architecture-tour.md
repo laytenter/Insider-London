@@ -15,18 +15,18 @@ description: Insider London presents our sustainability walking tours, analysing
 order: 4
 gallery1:
 - image: "/assets/images/tours/CEGT/Picture-1---Central-St-Giles-Sustainability-Eco-Cutting-Edge-Green-Walking-Tour-Student-Corporate.jpg"
-  alt: Central-St-Giles-Sustainability-Eco-Cutting-Edge-Green-Walking-Tour-Student-Corporate
+  alt: Covent Garden Eco Development on Sustainability Walking Tour
 - image: "/assets/images/tours/CEGT/Picture-2---London-Skyline--Sustainability-Eco-Cutting-Edge-Green-Walking-Tour-Student-Corporate.jpg"
-  alt: London-Skyline--Sustainability-Eco-Cutting-Edge-Green-Walking-Tour-Student-Corporate
+  alt: Some Sustainable London Landmarks  On a Corporate Green Tour
 - image: "/assets/images/tours/CEGT/Picture-3---Neal_s-Yard---Sustainability-Eco-Cutting-Edge-Green-Walking-Tour-Student-Corporate.jpg"
-  alt: Neal_s-Yard---Sustainability-Eco-Cutting-Edge-Green-Walking-Tour-Student-Corporate
+  alt: Ethical Business Hub of a Green Walking Tour for Student Group
 gallery2:
 - image: "/assets/images/tours/Sustainable Architecture/Picture-1---Bloomberg-HQ-Sustainable-Green-Eco-Architecture-Walking-Tour-Student-Corporate.jpg"
-  alt: Bloomberg-HQ-Sustainable-Green-Eco-Architecture-Walking-Tour-Student-Corporate
+  alt: World's Most Sustainable Office Block on an Architecture Tour
 - image: "/assets/images/tours/Sustainable Architecture/Picture-2---Watermark-Place-Sustainable-Green-Eco-Architecture-Walking-Tour-Student-Corporate.jpg"
-  alt: Watermark-Place-Sustainable-Green-Eco-Architecture-Walking-Tour-Student-Corporate
+  alt: Solar Shaded building on Sustainable Architecture Tour for Engineers
 - image: "/assets/images/tours/Sustainable Architecture/Picture-3---Walkie-Talkie-Green-Wall-Sustainable-Green-Eco-Architecture-Walking-Tour-Student-Corporate.jpg"
-  alt: Walkie-Talkie-Green-Wall-Sustainable-Green-Eco-Architecture-Walking-Tour-Student-Corporate
+  alt: The Green Wall by the Sky Garden on an Eco Architecture Tour
 tour-id: 29342
 author: london75
 thumb: sust_arch_1-420x287.jpg
