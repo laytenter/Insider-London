@@ -14,11 +14,11 @@ description: Our popular Silicon Roundabout & Tech City Tour explores the past, 
 gallery:
 - image: "/assets/images/tours/Silicon Roundabout/Picture-1---The-Bowery-Fintech-Silicon-Roundabout-Tech-City-Walking-Tour.jpg"
   caption: 
-  alt: The-Bowery-Fintech-Silicon-Roundabout-Tech-City-Walking-Tour
+  alt: Innovative Tech Co-working Space on the Silicon Roundabout Tour
 - image: "/assets/images/tours/Silicon Roundabout/Picture-2---Principal-Place-Amazon-Regeneration-Silicon-Roundabout-Tech-City-Walking-Tour.jpg"
-  alt: Principal-Place-Amazon-Regeneration-Silicon-Roundabout-Tech-City-Walking-Tour
+  alt: New Amazon HQ on the border of the Finance District and Tech City
 - image: "/assets/images/tours/Silicon Roundabout/Picture-3---Barclays-Fintech-Accelerator-Coworking-Silicon-Roundabout-Tech-City-Walking-Tour.jpg"
-  alt: Barclays-Fintech-Accelerator-Coworking-Silicon-Roundabout-Tech-City-Walking-Tour
+  alt: Barclays Fintech Accelerator on the Silicon Roundabout Tour
 order: 2
 tour-id: 29347
 author: london75
