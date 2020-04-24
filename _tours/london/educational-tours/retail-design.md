@@ -14,18 +14,18 @@ description: Insider London presents our retail safari tours exploring two of Lo
 order: 3
 gallery1:
 - image: "/assets/images/tours/WE Retail/Picture-1---Visual-Merchandising-Retail-Marketing-West-End-Walking-Tour-Student-Corporate.JPG.jpg"
-  alt: Visual-Merchandising-Retail-Marketing-West-End-Walking-Tour-Student-Corporate
+  alt: Beautiful visual merchandising stop on a retail safari tour
 - image: "/assets/images/tours/WE Retail/Picture-2---Visual-Merchandising-Retail-Marketing-West-End-Walking-Tour-Student-Corporate.jpg"
-  alt: Visual-Merchandising-Retail-Marketing-West-End-Walking-Tour-Student-Corporate
+  alt: Mayfair flagship store on a corporate retail tour
 - image: "/assets/images/tours/WE Retail/Picture-3---Liberty-Heritage-Brand-Retail-Marketing-West-End-Walking-Tour-Student-Corporate.JPG.jpg"
-  alt: Liberty-Heritage-Brand-Retail-Marketing-West-End-Walking-Tour-Student-Corporate
+  alt: British luxury heritage brand on West End Retail Tour
 gallery2:
 - image: "/assets/images/tours/East End Retail/Picture-1---Boxpark-Pop-Up-East-End-Retail-Marketing-Walking-Tour-Student-Corporate.jpg"
-  alt: Boxpark-Pop-Up-East-End-Retail-Marketing-Walking-Tour-Student-Corporate
+  alt: Shoreditch Pop Up Spaces on Retail Safari
 - image: "/assets/images/tours/East End Retail/Picture-2-Brick-Lane-Boxpark-Pop-Up-East-End-Retail-Marketing-Walking-Tour-Student-Corporate.jpg"
-  alt: Brick-Lane-Boxpark-Pop-Up-East-End-Retail-Marketing-Walking-Tour-Student-Corporate
+  alt: Brick Lane Vintage Store of East End Marketing Tour
 - image: "/assets/images/tours/East End Retail/Picture-3_-Nike-Lab-Boxpark-Pop-Up-East-End-Retail-Marketing-Walking-Tour-Student-Corporate.jpg"
-  alt: Nike-Lab-Boxpark-Pop-Up-East-End-Retail-Marketing-Walking-Tour-Student-Corporate
+  alt: Street Fashion Shop  on a Student Retail & Marketing Tour
 tour-id: 29334
 author: london75
 guid: "/?post_type=product&#038;p=29334"
