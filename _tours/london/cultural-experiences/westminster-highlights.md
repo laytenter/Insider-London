@@ -11,11 +11,11 @@ description: 'This Insider London walking tour offers the real stories behind th
 gallery:
 - image: "/assets/images/tours/Westminster Highlights/Picture-1---Buckingham-Palace-Westminster-Highlights-Sightseeing-Walking-Tour-Student-Corportate-Group.jpg"
   caption: 
-  alt: Buckingham-Palace-Westminster-Highlights-Sightseeing-Walking-Tour-Student-Corportate-Group
+  alt: Buckingham Palace and St James on a Westminster Sightseeing Tour
 - image: "/assets/images/tours/Westminster Highlights/Picture-2---Trafalgar-Square-Westminster-Highlights-Sightseeing-Walking-Tour-Student-Corportate-Group.jpg"
-  alt: Trafalgar-Square-Westminster-Highlights-Sightseeing-Walking-Tour-Student-Corportate-Group
+  alt: " Trafalgar Square  Part of the Westminster Highlights London Tour"
 - image: "/assets/images/tours/Westminster Highlights/Westminster-Highlights-Sightseeing-Walking-Tour-Student-Corportate-Group.jpg"
-  alt: Westminster-Highlights-Sightseeing-Walking-Tour-Student-Corportate-Group
+  alt: Student Group Enjoying Iconic London Sights on a Westminster Tour
 embed: https://www.youtube.com/embed/r5_6ln8v_WM
 order: 1
 Gallery:
