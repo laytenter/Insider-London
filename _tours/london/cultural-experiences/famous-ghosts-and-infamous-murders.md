@@ -15,12 +15,11 @@ description: Creep through old London with our Famous Ghosts and Infamous Murder
 gallery:
 - image: "/assets/images/tours/Ghost/Picture-3---History-West-End-Haunted-London-Walking-Tour-Student-Corporate-Group.jpg"
   caption: 
-  alt: History West End Haunted London Walking Tour Student Corporate Group
+  alt: Spooky London Crypt and Graveyard on a Ghost Walking Tour
 - image: "/assets/images/tours/Ghost/Picture-1---Historic-Alleyway-from-Harry-Potter-Ghost-Haunted-London-Walking-Tour-Student-Corporate-Group.jpg"
-  alt: Historic Alleyway from Harry Potter Ghost Haunted London Walking Tour Student
-    Corporate Group
+  alt: Secret Alleyway from Harry Potter on a Haunted London Ghost Tour
 - image: "/assets/images/tours/Ghost/Picture-2---Spooky-Magic-Shop-Haunted-London-Walking-Tour-Student-Corporate-Group.jpg"
-  alt: Spooky Magic Shop Haunted London Walking Tour Student Corporate Group
+  alt: Haunted  Magic Shop on a Famous Ghosts & Infamous Murders Tour
 embed: https://www.youtube.com/embed/r5_6ln8v_WM
 order: 3
 Gallery:
