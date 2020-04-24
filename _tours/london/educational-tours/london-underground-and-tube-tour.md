@@ -7,16 +7,15 @@ description: Immerse yourself in 150 years of transport history while travelling
   and much more!
 gallery:
 - image: "/uploads/760x428%20tube%20banner.jpg"
-  caption: Travel through time on our London Underground Tour!
-  alt: Travel through time on our London Underground Tour!
+  caption: View of Train Tracks on the London Underground Tour
+  alt: View of Train Tracks on the London Underground Tour
 - image: "/uploads/web_18-01-20%20Tube%20Jonas%20PiccadillyCircus.JPG"
   caption: Our guests in front of Frank Pick's memorial in Piccadilly Circus, January
     2017.
-  alt: Our guests in front of Frank Pick's memorial in Piccadilly Circus, January
-    2017.
+  alt: Private Group in front of Historical Branding Monument on a tour
 - image: "/uploads/web_17-07-29_Tube_Francis_public_Westminster.JPG"
   caption: A lovely couple on a private Tube Tour in Westminster station.
-  alt: A lovely couple on a private Tube Tour in Westminster station.
+  alt: Guests on a London Underground Transport History Tour
 tour-id: 32143
 trekksoft-tour-id: 50159
 show_book: true
