@@ -15,11 +15,11 @@ description: Uncover the stories behind London's amazing contemporary architectu
 gallery:
 - image: "/assets/images/tours/MA/Picture-1---Lloyds-of-London-Modern-Architecture-Corporate-Student-Walking-Tour-.jpg"
   caption: 
-  alt: Wobbly-Bridge--Modern-Architecture-Corporate-Student-Walking-Tour
+  alt: Lloyds of London by Richard Rogers on a Modern Architecture Tour
 - image: "/assets/images/tours/MA/Picture-2---Wobbly-Bridge--Modern-Architecture-Corporate-Student-Walking-Tour-.JPG.jpg"
-  alt: Wobbly-Bridge--Modern-Architecture-Corporate-Student-Walking-Tour
+  alt: Wobbly Bridge by Norman Foster on a Walking Tour for Architects
 - image: "/assets/images/tours/MA/Picture-3-The-Shard--Modern-Architecture-Corporate-Student-Walking-Tour-.JPG.jpg"
-  alt: The-Shard--Modern-Architecture-Corporate-Student-Walking-Tour
+  alt: London Landmark The Shard on a Tour for Architecture Students
 order: 6
 tour-id: 29338
 trekksoft-tour-id: 50198
