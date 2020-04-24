@@ -11,16 +11,18 @@ description: Our London regeneration walking tours explore the amazing transform
 order: 5
 gallery1:
 - image: "/assets/images/tours/Kings Cross/Picture-1---St-Pancras-Renaissance-Kings-Cross-Regeneration-Innovation-Walking-Tour-Student-Corporate.jpg"
-  alt: 
+  alt: The Historic St Pancras Hotel by Kings Cross ffrom a walking tour
 - image: "/assets/images/tours/Kings Cross/Picture-2---Francis-Crick-Institute-Kings-Cross-Regeneration-Innovation-Walking-Tour-Student-Corporate.jpg"
-  alt: 
+  alt: The Francis Crick Science & Innovation Institute at Kings Cross
 - image: "/assets/images/tours/Kings Cross/Picture-3---Kings-Cross-Square-Kings-Cross-Regeneration-Innovation-Walking-Tour-Student-Corporate.jpg"
-  alt: 
+  alt: Student campus and Google HQ at Kings Cross on a Group Tour
 - image: "/assets/images/tours/Kings Cross/Picture-2---Meeting-Place-option-1.jpg"
-  alt: 
+  alt: Public Art Projects in the Kings Cross Regeneration from a tour
 gallery2:
 - image: "/assets/images/tours/Olympic Park/Picture-1---Here-East-Technology-Innovation-Olympic-Park-Regeneration-Walking-Tour-Student-Corporate.jpg"
+  alt: Re-purposed community sports facilities in the Olympic Park
 - image: "/assets/images/tours/Olympic Park/Picture-2---Stadium-Olympic-Park-Regeneration-Walking-Tour-Student-Corporate.jpg"
+  alt: Here East Tech Cluster on the Olympic Park Regeneration Tour
 thumb: thumb kings cross.jpg
 banner: Kings Cross Tour Image.jpg
 hidden: true
