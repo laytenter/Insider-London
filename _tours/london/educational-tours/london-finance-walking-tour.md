@@ -14,20 +14,18 @@ description: Insider London Finance Walking Tours explore the financial powerhou
 order: 1
 gallery1:
 - image: "/assets/images/tours/Finance/Picture-1---Bank-of-England-City-of-London-Finance-Walking-Tour-Student-Corporate-Group.jpg"
-  alt: Bank-of-England-City-of-London-Finance-Walking-Tour-Student-Corporate-Group
+  alt: Bank of England in the City of London from Finance Walking Tour
 - image: "/assets/images/tours/Finance/Picture-2---Insurance-Cluster-City-of-London-Finance-Walking-Tour-Student-Corporate-Group.jpg"
-  alt: Insurance-Cluster-City-of-London-Finance-Walking-Tour-Student-Corporate-Group
+  alt: The Insurance Cluster on a Finance Tour for Economics Students
 - image: "/assets/images/tours/Finance/Picture-3---Leadenhall-Market-Student-Corporate-Finance-City-of-London-Walking-Tour.jpg"
-  alt: Leadenhall-Market-Student-Corporate-Finance-City-of-London-Walking-Tour
+  alt: Corporate Group in Leadenhall Market on a Finance Walking Tour
 gallery2:
 - image: "/assets/images/tours/Canary Wharf/Picture-1---1-Canada-Square-Canary-Wharf-Finance-Regeneration-Student-Corporate-Walking-Tour.jpg"
-  alt: Canada Square Canary Wharf Finance Regeneration Student Corporate Walking Tour
+  alt: 1 Canada Square on a Canary Wharf Tour for Banking Executives
 - image: "/assets/images/tours/Canary Wharf/Picture-2---Reuter_s-Plaza-Canary-Wharf-Finance-Regeneration-Student-Corporate-Walking-Tour.jpg"
-  alt: Reuter_s Plaza Canary Wharf Finance Regeneration Student Corporate Walking
-    Tour
+  alt: Reuter's Plaza in the Centre of the Docklands Regeneration Project
 - image: "/assets/images/tours/Canary Wharf/Picture-3---Museum-of-Docklands-Canary-Wharf-Finance-Regeneration-Student-Corporate-Walking-Tour.jpg"
-  alt: Museum of Docklands Canary Wharf Finance Regeneration Student Corporate Walking
-    Tour
+  alt: Student Group on a Walking Tour Outside the Docklands Museum
 thumb: thumb finance.jpg
 banner: bigstock-Bank-of-England-in-London-72296731-772x528.jpg
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9932.061563355885!2d-0.09644565872492293!3d51.51293363219121!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604ab2d4f4403%3A0xd86f22da5202b7ac!2sSt.+Paul's!5e0!3m2!1sen!2s!4v1431589314594
