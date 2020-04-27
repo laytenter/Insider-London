@@ -8,6 +8,7 @@ nav: london
 description: Learn the history of drinking and pubs and raise a glass to this city’s
   famous drinking culture. This private tour visits four fine historical pubs.
 layout: programme
+banner: 17-08 HOD.jpg
 ---
 
 <img src="{{ site.imagepath }}{{ page.banner }}" />
