@@ -11,6 +11,8 @@ background: what-we-do.jpg
 layout: whatwedo
 ---
 
-Insider London offers bespoke innovation and discovery programmes. We showcase diverse industries and scenes in global cities through a wide range of company visits, educational walking tours and cultural experiences. We also organise inspiring virtual internships; providing student groups from all around the world with the unique opportunity to work with senior management from competitive international companies. 
+Insider London offers bespoke innovation and discovery programmes. We showcase diverse industries and scenes in global cities through a wide range of company visits, educational walking tours and cultural experiences. 
+
+We also organise inspiring virtual internships; providing student groups from all around the world with the unique opportunity to work with senior management from competitive international companies. 
 
 We believe that success in a globalised world is based on connectivity and best practice sharing. For eight years, Insider London has been providing high-level programmes for prestigious universities, pioneering corporates, curious private groups and forward-thinking government officials world-wide.
