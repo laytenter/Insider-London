@@ -2,7 +2,7 @@
 title: 4 Sectors that have gone Virtual
 date: 2020-04-29 08:31:00 Z
 categories:
-- Art and Culture
+- Business
 tags:
 - virtual
 - digital transformation
