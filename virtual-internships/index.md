@@ -2,6 +2,7 @@
 title: Insider London Virtual Internships
 description: In today’s globalised marketplace, how can your students stand out?
 layout: programme
+heading: Virtual Internships
 ---
 
 A virtual internship is a fantastic opportunity to build their professional competence and confidence. Our placements provide students with **real business experience** and develop highly sought-after skills for their **further education** and **future careers**.
