@@ -59,15 +59,15 @@ feed:
 social:
   name: Insider London
   links:
+  - https://www.linkedin.com/company/2314573
   - http://www.facebook.com/insiderlondon
   - https://twitter.com/insiderlondon
   - https://www.instagram.com/insiderlondontours/
 twitter:
   username: insiderlondon
 name: Insider London
-description: At Insider London we offer a variety of alternative guided tours of London
-  ideal for tourists, locals, students, school trips, private parties and corporate
-  events.
+description: At Insider London we offer real industry insight through company visits,
+  workshops and educational tours.
 url: https://www.insiderlondon.com
 lang: en_GB
 lsi: false

@@ -1,5 +1,5 @@
 ---
-title: Kings Cross Regeneration & London Olympic Park Tours
+title: Kings Cross Regeneration & Olympic Park Tours
 categories:
 - educational-tours
 tags:
