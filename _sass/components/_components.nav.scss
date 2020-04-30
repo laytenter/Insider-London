@@ -88,6 +88,10 @@
 
     @include mq($from: tablet) {
       margin-top:0;
+      margin-left: $inuit-global-spacing-unit-small;
+    }
+    @include mq($from: medium) {
+      margin-top:0;
       margin-left: $inuit-global-spacing-unit;
     }
 
@@ -98,7 +102,7 @@
   }
 
   .blog nav .blog, .europe nav .europe, .asia nav .asia, .north-america nav .north-america,
-   .london nav .london, .what-we-do nav .what-we-do  {
+   .london nav .london, .what-we-do nav .what-we-do, .virtual-internships nav .virtual-internships  {
     // Hover and active classes for main nav
     border-left: $color-red solid 3px;
     @include mq($from: tablet) {

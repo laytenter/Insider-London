@@ -31,6 +31,9 @@
 }
 
 .icon--close {
+  @include mq($from: tablet) {
+    display:none;
+  }
 	background-image: url(/assets/icons/x.svg);
   position: absolute;
   top: 24px;
