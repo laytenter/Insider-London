@@ -1,6 +1,8 @@
 ---
 title: Insider London Virtual Internships
-description: In today's globalised marketplace, how can your students stand out?
+description: On our virtual internships, students work directly with senior managers
+  on real life projects. Find out about our remote internships in finance, IT, marketing
+  and more.
 heading: Virtual Internships
 category: internships
 excerpt: Latest News&#58; Virtual internships and online company visits available
