@@ -2,11 +2,13 @@
 title: Insider London Virtual Internships
 description: In today's globalised marketplace, how can your students stand out?
 heading: Virtual Internships
-layout: programme
 category: internships
 excerpt: Latest News&#58; Virtual internships and online company visits available
   now. Get in touch to find out more
+layout: programme
 ---
+
+![selective-focus-photo-of-man-using-laptop-1438081.jpg](/uploads/selective-focus-photo-of-man-using-laptop-1438081.jpg)
 
 A virtual internship is a fantastic opportunity to build their professional competence and confidence. Our placements provide students with **real business experience** and develop highly sought-after skills for their **further education** and **future careers**.
 
@@ -16,7 +18,7 @@ The outcomes are **bespoke** to the learning requirements of your students and p
 
 **Read on to find out more about our Hedge Fund Virtual Internship and our Virtual Internship with a Marketing Agency**
 
-**Example Virtual Internships**
+
 
 **Hedge Fund Virtual Internship – 3 Weeks full-time**
 
@@ -33,6 +35,10 @@ The outcomes are **bespoke** to the learning requirements of your students and p
 * Create and present a business plan and **receive live feedback** from senior management
 
 * Receive a **signed certificate** from the hedge fund upon completion of the online internship
+
+
+![adult-blur-boss-business-288477.jpg](/uploads/adult-blur-boss-business-288477.jpg)
+
 
 **Marketing & Business Virtual Internship – 3 weeks full-time**
 
