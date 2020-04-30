@@ -4,7 +4,8 @@ description: In today's globalised marketplace, how can your students stand out?
 heading: Virtual Internships
 layout: programme
 category: internships
-excerpt: Latest News&#58; Virtual internships and online company visits available now. Get in touch to find out more
+excerpt: Latest News&#58; Virtual internships and online company visits available
+  now. Get in touch to find out more
 ---
 
 A virtual internship is a fantastic opportunity to build their professional competence and confidence. Our placements provide students with **real business experience** and develop highly sought-after skills for their **further education** and **future careers**.
