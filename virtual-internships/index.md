@@ -53,7 +53,7 @@ The outcomes are **bespoke** to the learning requirements of your students and p
 
 * Understand the role of technology and data in modern marketing
 
-* Complete real market research, identifying potential clients and competitors.
+* Complete real market research and competitor analysis
 
 * Develop a sales deck and **receive live feedback** from senior management
 
