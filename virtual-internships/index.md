@@ -17,7 +17,7 @@ Insider London remote internships link students to the most innovative companies
 
 The outcomes are **bespoke** to the learning requirements of your students and provide genuine insight into the daily workings of the host company. Blending practical industry work with career insight, online internships are the perfect edition to applications for further education and future careers.  Upon completion, all students receive a **certificate from the host company**.
 
-**Read on to find out more about our Hedge Fund Virtual Internship and our Virtual Internship with a Marketing Agency**
+**Read on to find out more about our Hedge Fund Virtual Internship, our Global Marketing Virtual and our Virtual Internship with Intelak**
 
 
 
