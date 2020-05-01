@@ -24,7 +24,7 @@ The outcomes are **bespoke** to the learning requirements of your students and p
 
 
 ## Hedge Fund Virtual Internship 
-### 3 Weeks full-time/5 Weeks part time
+### 3 weeks full-time/5 weeks part time
 
 * Receive **personalised feedback** on five tasks from senior management of a hedge fund
 
@@ -58,5 +58,21 @@ The outcomes are **bespoke** to the learning requirements of your students and p
 * Develop a sales deck and **receive live feedback** from senior management
 
 * Receive a **signed certificate** from the CEO upon completion of the online internship
+
+
+## Innovation & Entrepreneurship Virtual Internship with Intelak
+3 weeks full-time/5 weeks part-time
+
+* Work directly with this start-up incubator whose principal partners, the Emirates Group and Dubai Tourism, support the most promising startups launch, grow and scale
+
+* Participate in live calls and workshops with Intelak management, the mentoring team and its start-up ecosystem
+
+* Identify what it takes to build a start-up in the aviation, travel and tourism sectors
+
+* Explore the technology, innovation and start-up landscape in Dubai, United Arab Emirates
+
+* Have the opportunity to submit their start-up idea to cohort 8 of Intelak. If selected as the top 4 startups, they will receive $13,000 to build their solution with Intelak and its partners
+
+*Receive a signed certificate from upon completion of the online internship.
 
 *Get in touch with your group requirements now via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) and find out how a virtual internship can fast-track your students to success.*
