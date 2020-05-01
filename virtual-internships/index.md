@@ -22,7 +22,8 @@ The outcomes are **bespoke** to the learning requirements of your students and p
 
 
 
-**Hedge Fund Virtual Internship – 3 Weeks full-time**
+
+## **Hedge Fund Virtual Internship – 3 Weeks full-time**
 
 * Receive **personalised feedback** on five tasks from senior management of a hedge fund
 
@@ -42,7 +43,7 @@ The outcomes are **bespoke** to the learning requirements of your students and p
 ![adult-blur-boss-business-288477.jpg](/uploads/adult-blur-boss-business-288477.jpg)
 
 
-**Marketing & Business Virtual Internship – 3 weeks full-time**
+## **Marketing & Business Virtual Internship – 3 weeks full-time**
 
 * Work directly with **senior management** of a data-driven **global marketing agency** working with some of the biggest names in food, hospitality and banking
 
