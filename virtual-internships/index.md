@@ -62,7 +62,7 @@ The outcomes are **bespoke** to the learning requirements of your students and p
 
 
 ## Innovation & Entrepreneurship Virtual Internship with Intelak
-3 weeks full-time/5 weeks part-time
+### 3 weeks full-time/5 weeks part-time
 
 * Work directly with this start-up incubator whose principal partners, **the Emirates Group and Dubai Tourism**, support the most promising startups launch, grow and scale
 
