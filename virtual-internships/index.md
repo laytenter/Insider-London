@@ -71,7 +71,7 @@ The outcomes are **bespoke** to the learning requirements of your students and p
 
 * Explore the technology, innovation and start-up landscape in Dubai, United Arab Emirates
 
-* Have the opportunity to submit their start-up idea to cohort 8 of Intelak. If selected as the top 4 startups, they will receive $13,000 to build their solution with Intelak and its partners
+* Have the opportunity to submit their start-up idea to cohort 8 of Intelak. If selected in the top 4 startups, they will receive $13,000 to build their solution with Intelak and its partners
 
 *Receive a signed certificate from upon completion of the online internship.
 
