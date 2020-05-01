@@ -4,6 +4,11 @@ date: 2018-12-12 16:07:00 Z
 permalink: "/blog/livery-companies/"
 categories:
 - Finance
+tags:
+- finance
+- british heritage
+- city of london
+- trade
 description: The oldest livery companies date back to the 13th century and the original
   idea behind their creation was to regulate and protect the various industries that
   operated in the City.
@@ -37,6 +42,8 @@ Whatever the reason for the continued existence of the livery companies there is
 
 
 
-Insider London continues to invite visitors to the City of London with our [Finance Tour](https://www.insiderlondon.com/london/educational-tours/london-finance-walking-tour/) and now [we are organising visits to livery companies](https://www.insiderlondon.com/london/company-visits/) to help foster a deeper understanding of the role of the City in our nation’s history.
+Insider London continues to invite visitors to the City of London with our [Finance Tour](https://www.insiderlondon.com/london/educational-tours/london-finance-walking-tour/.
+
+For visits to Livery Companies, banks, hedge funds and more, check out our [company visits.](https://www.insiderlondon.com/london/company-visits/) 
 
 <iframe width="900" height="520" src="https://www.youtube.com/embed/qSBSKGxP-3E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
