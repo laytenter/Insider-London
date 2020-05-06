@@ -76,4 +76,4 @@ The outcomes are **bespoke** to the learning requirements of your students and p
 
 * Receive a **signed certificate** from upon completion of the online internship.
 
-*Get in touch with your group requirements now via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) and find out how a virtual internship can fast-track your students to success.*
+*This programme is bespoke based on group requirements. Get in touch now via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) and find out how a virtual internship can fast-track your students to success.*
