@@ -27,4 +27,4 @@ Internships allow candidates to show themselves and future employers that this i
 With an internship, students can build confidence interacting with real industry professionals and get out of their usual comfort zone of classmates and professors. Soft skills like teamwork, communication and time management are often important in a university setting – but can present themselves very differently in the working environment. 
 
 
-*So what are you waiting for? [Kickstart your students career with a virtual internship ](https://www.insiderlondon.com/virtual-internships/) and get in touch via [contact@insiderlondon.com ]*(mailto:contact@insiderlondon.com)
+*So what are you waiting for? [Kickstart your students career with a virtual internship ](https://www.insiderlondon.com/virtual-internships/) and get in touch via [contact@insiderlondon.com ](mailto:contact@insiderlondon.com)*
