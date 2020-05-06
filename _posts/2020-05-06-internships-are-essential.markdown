@@ -12,7 +12,8 @@ tags:
 
 ![man-iand-woman-doing-a-handshake-3874034.jpg](/uploads/man-iand-woman-doing-a-handshake-3874034.jpg)
 
-### > “A recent survey showed two thirds of employers look for graduates with relevant work experience because it helps them prepare for work and develop general business awareness. Importantly, one third of employers felt that applicants did not have a satisfactory level of knowledge about their chosen career or job.” [(UCAS, 2017)](https://www.ucas.com/connect/blogs/work-experience-important) 
+### “A recent survey showed two thirds of employers look for graduates with relevant work experience because it helps them prepare for work and develop general business awareness. Importantly, one third of employers felt that applicants did not have a satisfactory level of knowledge about their chosen career or job.” [(UCAS, 2017)](https://www.ucas.com/connect/blogs/work-experience-important) 
+
 
 For some graduates, applying for jobs can feel like an endless cycle – you need experience to get a job, but to get that experience you need a job….
 
