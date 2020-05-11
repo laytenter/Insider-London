@@ -8,6 +8,8 @@ layout: programme
 
 ![selective-focus-photo-of-man-using-laptop-1438081-e465fc.jpg](/uploads/selective-focus-photo-of-man-using-laptop-1438081-e465fc.jpg)
 
+In today’s globalised marketplace, how can your students stand out?
+
 Insider London remote internships link students to the most innovative companies and can be completed anywhere in the world. Students **train directly with senior management** in competitive sectors and throughout the online placement receive **personalised feedback** on their business intelligence, analytical capabilities and presentation skills. Participants also receive essential skills training, including CV writing and interview skills to empower them to pursue exciting careers in **international companies**.
 
 The outcomes are **bespoke** to the learning requirements of your students and provide genuine insight into the daily workings of the host company. Blending practical industry work with career insight, online internships are the perfect edition to **applications for further education or future careers**.  Upon completion, all students receive a **certificate from the host company**.
