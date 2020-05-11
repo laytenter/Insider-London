@@ -102,7 +102,7 @@
   }
 
   .blog nav .blog, .europe nav .europe, .asia nav .asia, .north-america nav .north-america,
-   .london nav .london, .what-we-do nav .what-we-do, .virtual-internships nav .virtual-internships  {
+   .london nav .london, .what-we-do nav .what-we-do, .online-education nav .online-education  {
     // Hover and active classes for main nav
     border-left: $color-red solid 3px;
     @include mq($from: tablet) {

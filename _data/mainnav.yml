@@ -1,8 +1,8 @@
 sections:
   - title: What we do
     url: /what-we-do
-  - title: Virtual Internships
-    url: /virtual-internships
+  - title: Online Education
+    url: /online-education
   - title: London
     url: /london/
   - title: North America
@@ -16,6 +16,11 @@ sections:
     url: /asia/
   - title: News
     url: /blog/
+online:
+  - title: Online Company Visits
+    url: /online-education/online-company-visits
+  - title: Virtual Internships
+    url: /online-education/virtual-internships
 london:
   - title: Educational Tours
     url: /london/educational-tours/
