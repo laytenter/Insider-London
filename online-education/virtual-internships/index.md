@@ -6,7 +6,7 @@ nav: online
 layout: programme
 ---
 
-![resized internship.jpg](/uploads/resized%20internship.jpg)
+![selective-focus-photo-of-man-using-laptop-1438081-e465fc.jpg](/uploads/selective-focus-photo-of-man-using-laptop-1438081-e465fc.jpg)
 
 Insider London remote internships link students to the most innovative companies and can be completed anywhere in the world. Students **train directly with senior management** in competitive sectors and throughout the online placement receive **personalised feedback** on their business intelligence, analytical capabilities and presentation skills. Participants also receive essential skills training, including CV writing and interview skills to empower them to pursue exciting careers in **international companies**.
 
