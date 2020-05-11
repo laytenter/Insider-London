@@ -13,7 +13,7 @@ We believe that physical distance shouldn’t affect opportunity which is why ma
 Our online company visits are a **dynamic live exchange**, with a detailed presentation followed by a question and answer session with senior management. Discover real-world entrepreneurship and the latest industry trends direct from the **pioneers driving innovation**.
   
    
-Our partners include:
+**Our partners include:**
 
 - **Intelak** – the vibrant start-up hub by Emirates and Dubai Tourism which launches, nurtures and scales start-ups in aviation, travel and tourism.
 
