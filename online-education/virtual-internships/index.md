@@ -17,6 +17,7 @@ The outcomes are **bespoke** to the learning requirements of your students and p
 **Read on to find out more about our Hedge Fund Virtual Internship, Innovation Internship with Intelak and our Global Marketing Internship**
 
 
+
 ### Hedge Fund Virtual Internship – 3 weeks full-time/5 weeks part-time 
 
 * Receive **personalised feedback** on five tasks from senior management of a hedge fund
@@ -40,11 +41,17 @@ The outcomes are **bespoke** to the learning requirements of your students and p
 ### Innovation & Entrepreneurship Virtual Internship with Intelak - 3 weeks full-time/5 weeks part-time
 
 * Work directly with **Intelak** - the start-up by the **Emirates Group** and **Dubai Tourism** that supports the most promising startups launch, grow and scale
+
 * Participate in live calls and workshops with **Intelak management**, the mentoring team and its start-ups ecosystem
+
 * Identify what it takes to build a start-up in the aviation, travel and tourism sectors
+
 * Explore the technology, innovation and **start-up landscape in Dubai**
+
 * Have the opportunity to submit the start-up idea to cohort 8 of Intelak. If selected, the project will receive $13,000 to build their solution with Intelak and its partners
+
 * Receive a **signed certificate** from Intelak upon completion of the online internship.
+
 
 
 
