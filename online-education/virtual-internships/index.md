@@ -22,7 +22,7 @@ The outcomes are **bespoke** to the learning requirements of your students and p
 
 
 ### Hedge Fund Virtual Internship 
-**3 weeks full-time/5 weeks part-time **
+**3 weeks full-time/5 weeks part-time**
 
 * Receive **personalised feedback** on five tasks from senior management of a hedge fund
 
