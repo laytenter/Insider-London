@@ -1,12 +1,14 @@
 ---
 title: Online Education
-description: Experience our company visits and other programmes via our innovative online education programme.
+description: Experience our company visits and other programmes via our innovative
+  online education programme.
 nav: online
 background: person-using-macbook.jpg
 repeatnav: true
 layout: landing
 category: internships
-excerpt: Latest News&#58; Virtual internships and online company visits available now. Get in touch to find out more
+excerpt: Latest News&#58; Virtual internships and online company visits available
+  now. Get in touch to find out more
 ---
 
 The best education happens outside of the classroom and in a globalised world the best learning crosses borders. Our online education is available for students and corporate groups anywhere in the world.
