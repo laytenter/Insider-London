@@ -1,8 +1,9 @@
 ---
-title: Insider London Virtual Internships
+title: Online Company Visits
 description: In today's globalised marketplace, how can your students stand out?
-heading: Virtual Internships
+heading: Online Company Visits
 layout: programme
+nav: online
 ---
 
 We believe that physical distance shouldn’t affect opportunity which is why many of our most popular company visits are now available as online sessions for group bookings.
