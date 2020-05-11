@@ -2,9 +2,11 @@
 title: Online Company Visits
 description: In today's globalised marketplace, how can your students stand out?
 heading: Online Company Visits
-layout: programme
 nav: online
+layout: programme
 ---
+
+![handshake-3382503_1280.jpg](/uploads/handshake-3382503_1280.jpg)
 
 We believe that physical distance shouldn’t affect opportunity which is why many of our most popular company visits are now available as online sessions for group bookings.
 
