@@ -8,7 +8,7 @@ layout: programme
 
 ![selective-focus-photo-of-man-using-laptop-1438081-e465fc.jpg](/uploads/selective-focus-photo-of-man-using-laptop-1438081-e465fc.jpg)
 
-In today’s globalised marketplace, how can your students stand out?
+### **In today’s globalised marketplace, how can your students stand out?**
 
 Insider London remote internships link students to the most innovative companies and can be completed anywhere in the world. Students **train directly with senior management** in competitive sectors and throughout the online placement receive **personalised feedback** on their business intelligence, analytical capabilities and presentation skills. Participants also receive essential skills training, including CV writing and interview skills to empower them to pursue exciting careers in **international companies**.
 
@@ -16,9 +16,8 @@ The outcomes are **bespoke** to the learning requirements of your students and p
 
 **Read on to find out more about our Hedge Fund Virtual Internship, Innovation Internship with Intelak and our Global Marketing Internship**
 
-**Example Virtual Internships**
 
-**Hedge Fund Virtual Internship – 3 weeks full-time/5 weeks part-time **
+### Hedge Fund Virtual Internship – 3 weeks full-time/5 weeks part-time 
 
 * Receive **personalised feedback** on five tasks from senior management of a hedge fund
 
@@ -34,20 +33,22 @@ The outcomes are **bespoke** to the learning requirements of your students and p
 
 * Receive a **signed certificate** from the hedge fund upon completion of the online internship
 
-**Innovation & Entrepreneurship Virtual Internship with Intelak - 3 weeks full-time/5 weeks part-time
+
+![adult-blur-boss-business-288477-156dd5.jpg](/uploads/adult-blur-boss-business-288477-156dd5.jpg)
+
+
+### Innovation & Entrepreneurship Virtual Internship with Intelak - 3 weeks full-time/5 weeks part-time
 
 * Work directly with **Intelak** - the start-up by the **Emirates Group** and **Dubai Tourism** that supports the most promising startups launch, grow and scale
 * Participate in live calls and workshops with **Intelak management**, the mentoring team and its start-ups ecosystem
 * Identify what it takes to build a start-up in the aviation, travel and tourism sectors
 * Explore the technology, innovation and **start-up landscape in Dubai**
 * Have the opportunity to submit the start-up idea to cohort 8 of Intelak. If selected, the project will receive $13,000 to build their solution with Intelak and its partners
-·      Receive a **signed certificate** from Intelak upon completion of the online internship.
+* Receive a **signed certificate** from Intelak upon completion of the online internship.
 
 
 
-![adult-blur-boss-business-288477-156dd5.jpg](/uploads/adult-blur-boss-business-288477-156dd5.jpg)
-
-**Marketing & Business Virtual Internship – 3 weeks full-time**
+### Marketing & Business Virtual Internship – 3 weeks full-time
 
 * Work directly with **senior management** of a data-driven **global marketing agency** working with some of the biggest names in food, hospitality and banking
 
