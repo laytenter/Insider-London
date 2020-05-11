@@ -22,7 +22,7 @@ The outcomes are **bespoke** to the learning requirements of your students and p
 
 
 ### Hedge Fund Virtual Internship 
-3 weeks full-time/5 weeks part-time 
+**3 weeks full-time/5 weeks part-time **
 
 * Receive **personalised feedback** on five tasks from senior management of a hedge fund
 
@@ -44,7 +44,7 @@ The outcomes are **bespoke** to the learning requirements of your students and p
 
 
 ### Innovation & Entrepreneurship Virtual Internship with Intelak 
-3 weeks full-time/5 weeks part-time
+**3 weeks full-time/5 weeks part-time**
 
 * Work directly with **Intelak** - the start-up by the **Emirates Group** and **Dubai Tourism** that supports the most promising startups launch, grow and scale
 
@@ -62,7 +62,7 @@ The outcomes are **bespoke** to the learning requirements of your students and p
  
 
 ### Marketing & Business Virtual Internship 
-3 weeks full-time/5 weeks part-time
+**3 weeks full-time/5 weeks part-time**
 
 * Work directly with **senior management** of a data-driven **global marketing agency** working with some of the biggest names in food, hospitality and banking
 
