@@ -10,6 +10,8 @@ tags:
 - East London street art
 - London Street art
 - London street art walking tours
+description: Street artist, Christiaan Nagel is the man behind them, on a one-man
+  mushroom - sorry, mission - to "cover the world in mushroom"
 id: 25429
 author: london75
 guid: https://www.insiderlondon.com/?p=4045
@@ -18,7 +20,7 @@ layout: post
 
 ![Christiaan-Nagel-London-15.jpg](/uploads/Christiaan-Nagel-London-15.jpg)
 
-**Chances are, if you’ve spent any time walking round East London and looked heavenwards for inspiration, you will have been greeted by… mushrooms. Christiaan Nagel is the man behind them, on a one-man mushroom - sorry mission - to ‘cover the world in mushrooms’.**
+**Chances are, if you’ve spent any time walking round East London and looked heavenwards for inspiration, you will have been greeted by… mushrooms. Christiaan Nagel is the man behind them, on a one-man mushroom - sorry, mission - to ‘cover the world in mushrooms’.**
 
 **Herr Nagel was good enough to let us catch up with him while he wintered in Africa. (We weren’t wintering in Africa. We were wintering in Lincolnshire).**** **
 
