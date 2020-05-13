@@ -34,5 +34,4 @@ Fast-forward thirteen years later to 2020 and there is an abundance of software,
 
 The recent crisis has magnified the undeniable human need for connection, but how will we connect in future times? The battle of the platform continues… but videoconferencing is here to stay.
 
-*Here at Insider London we offer student, corporate and government groups the exciting opportunity to [connect with business leaders across the world](https://www.insiderlondon.com/online-education/online-company-visits/) through live exchanges. Find out more about [our online education here](https://www.insiderlondon.com/online-education/).
-*
+*Here at Insider London we offer student, corporate and government groups the exciting opportunity to [connect with business leaders across the world](https://www.insiderlondon.com/online-education/online-company-visits/) through live exchanges. Find out more about [our online education here](https://www.insiderlondon.com/online-education/)*.
