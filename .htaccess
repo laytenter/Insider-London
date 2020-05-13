@@ -30,7 +30,7 @@
   RewriteRule ^tours/history-of-drinking-and-pubs/ /london/cultural-experiences/history-of-drinking-and-pubs/ [END,R=301]
   RewriteRule ^tours/east-end-retail-design-tour/ /london/educational-tours/retail-design/ [END,R=301]
   RewriteRule ^tours/brixton-retail-design-tour/ /london/educational-tours/retail-design/ [END,R=301]
-  RewriteRule ^virtual-tours/ /online-education/ [END,R=301]
+  RewriteRule ^virtual-internships/ /online-education/virtual-internships/ [END,R=301]
 
   #Added 6th April 2020
   RewriteRule ^london/educational-tours/sustainable-london-artchitecture-tour/ /london/educational-tours/sustainable-london-architecture-tour/ [END,R=301]
