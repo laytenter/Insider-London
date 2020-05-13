@@ -1,5 +1,6 @@
 ---
 title: Online Education
+heading: Online Education
 description: Experience our company visits and other programmes via our innovative
   online education programme.
 nav: online
