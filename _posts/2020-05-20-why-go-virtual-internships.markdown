@@ -10,7 +10,7 @@ tags:
 - edtech
 ---
 
-
+![e-learning-5020950_1280.jpg](/uploads/e-learning-5020950_1280.jpg)
 
 For graduates looking to prove their commitment, ability and experience, [internships are a great opportunity to stand out](https://www.insiderlondon.com/blog/internships-are-essential/). Nevertheless, the traditional internship has recently been revamped with increasing numbers of students choosing to go virtual. Beyond the obvious constraints of recent times there are a number of reasons why virtual internships are on the rise. 
 
