@@ -27,4 +27,4 @@ Remote internships are also project-based. Without the fixed office hours of a t
 [Insider London virtual internships ](https://www.insiderlondon.com/online-education/virtual-internships/)not only offer accessible experiences with an international company on a part-time or full-time basis but they also designed to provide a more in-depth business experience.
 Whilst traditional internships generally see students and graduates involved with minor administrative duties, our interns work on real-world tasks and are guided directly by senior management. Each student will receive personalised feedback, developing their passion, knowledge and skill set for their exciting future career.
 
-*So, what are you waiting for? Get in touch now via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to find the virtual internship that’s perfect for your class or educational programme. *
+*So, what are you waiting for? Get in touch now via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to find the virtual internship that’s perfect for your class or educational programme.*
