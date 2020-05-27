@@ -3,6 +3,7 @@ title: The Green Revival in Architecture
 date: 2020-05-27 08:39:00 Z
 categories:
 - Architecture
+- Sustainability
 tags:
 - Sustainable Architecture
 - modern architecture
