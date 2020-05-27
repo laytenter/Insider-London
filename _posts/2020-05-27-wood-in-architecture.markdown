@@ -1,5 +1,5 @@
 ---
-title: The Green Revival in Architecture
+title: The Timber Boom in Architecture
 date: 2020-05-27 08:39:00 Z
 categories:
 - Architecture
