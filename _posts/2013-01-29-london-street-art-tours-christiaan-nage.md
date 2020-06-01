@@ -39,7 +39,7 @@ Well I am very competitive and want to be the biggest street artist in the world
 
 **Do you have plans to do something different? How long will the mushroom interest you? Or will the challenge of getting it to new areas sustain you for a while yet?**
 
-Well the mushroom is my new different. I’ve been a traveling painter for a long time. Have a look at [my website](christiaannagel.com) under paintings.
+Well the mushroom is my new different. I’ve been a traveling painter for a long time. Have a look at [my website](https://christiaannagel.com) under paintings.
 
 But for now the world needs to be covered in mushrooms. I haven’t even been doing it that long. I think it’s about three years now and I only got serious about it about a year ago.
 
