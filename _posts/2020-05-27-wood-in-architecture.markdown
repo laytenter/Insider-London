@@ -33,4 +33,4 @@ In 2017 the UK held the title for the world’s largest CLT building with [Dalst
 
 [Come and explore London’s vibrant contemporary skyline on Architecture Walking Tour and discover the secret stories and lively debates around the city’s most iconic buildings] (https://www.insiderlondon.com/london/educational-tours/modern-architecture-tour/)
 
-[Discover London as a sustainable city with an Insider London Green Tour, as we chat all things eco.](https://www.insiderlondon.com/london/educational-tours/sustainable-london-architecture-tour/)
+[Discover London as a sustainable city with an Insider London Green Tour, as we chat all things eco.](https://www.insiderlondon.com/london/educational-tours/sustainable-london-architecture-tour/) 
