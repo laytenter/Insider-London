@@ -24,6 +24,7 @@ Whilst walking and cycling are being encouraged, the arteries of London transpor
 Some elements have made a splash; such as the  [permanent art exhibition](https://www.royalacademy.org.uk/event/patrons-tour-crossrail-architecture-and-art-programme-farringdon-station) created by seven London art galleries and the fabulous [Crossrail Place Roof Garden](https://www.fosterandpartners.com/projects/crossrail-place-canary-wharf/) at Canary Wharf by Foster and Partners. Most of the architecture however has been less well-received.
 
 ![m-mitchell-P5fFMBJAJLk-unsplash.jpg](/uploads/m-mitchell-P5fFMBJAJLk-unsplash.jpg)
+*Canary Wharf Station - Jubilee Line Extension opened 1999*
 
 As passengers descend further into the stations and down to the platforms they will be met by deliberate uniformity across the network. This has led some journalists to ask [“Why do all the stations look the same?”](https://www.iconeye.com/architecture/features/item/13136-crossrail-engineering-architecture) and whether stations will just resemble ["a blur of beige”](https://www.theguardian.com/artanddesign/2018/aug/14/the-line-that-ate-london-our-critics-verdict-on-the-15bn-crossrail-colossus-elizabeth-line). Whilst the engineering feats are marvelled at, some find the station architecture underwhelming to say the least, often making unflattering comparisons between Crossrail and the striking vistas of the Jubilee Line extension.
 
