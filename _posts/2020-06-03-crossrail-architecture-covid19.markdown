@@ -11,7 +11,7 @@ tags:
 - covid-19
 ---
 
-![joe-taylor-T3o-XtCfe6U-unsplash.jpg](/uploads/joe-taylor-T3o-XtCfe6U-unsplash.jpg)
+![crossrail photo.jpg](/uploads/crossrail%20photo.jpg)
 
 Public transport will undoubtedly be one of London’s greatest challenges in times to come as London slowly eases out of the lockdown.  The subject of [fiery exchanges](https://www.bbc.co.uk/news/uk-england-london-52716578#:~:text=London%20Mayor%20Sadiq%20Khan%20has,for%20a%20series%20of%20concessions) between Sadiq Khan, the Mayor of London, and national government, £1.6 billion in emergency funding has now been secured for TFL to maintain services. Nevertheless, as more and more Londoners return to work, questions remain about social distancing on a transport system that was already operating overcapacity. 
 
