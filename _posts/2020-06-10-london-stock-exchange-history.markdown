@@ -3,6 +3,12 @@ title: The Origins of the London Stock Exchange
 date: 2020-06-10 09:21:00 Z
 categories:
 - Finance
+tags:
+- stock exchange
+- finance
+- financial history
+- city of london
+- stockbrokers
 ---
 
 ![stock exchange.jpg](/uploads/stock%20exchange.jpg)
