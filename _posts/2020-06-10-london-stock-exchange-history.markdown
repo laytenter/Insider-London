@@ -11,7 +11,7 @@ tags:
 - stockbrokers
 ---
 
-![stock exchange.jpg](/uploads/stock%20exchange.jpg)
+![stock exchange-22944e.jpg](/uploads/stock%20exchange-22944e.jpg)
 
 The London Stock Exchange is one of the oldest stock exchanges in the world and is still [one of the largest](https://www.visualcapitalist.com/all-of-the-worlds-stock-exchanges-by-size/). An essential component of the City of London – the UK’s financial centre – the LSE can trace its history back hundreds of years. So where did the London Stock Exchange come from? Read on to discover the curious origins.
 
