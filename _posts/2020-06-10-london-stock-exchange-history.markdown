@@ -16,7 +16,7 @@ tags:
 The London Stock Exchange is one of the oldest stock exchanges in the world and is still [one of the largest](https://www.visualcapitalist.com/all-of-the-worlds-stock-exchanges-by-size/). An essential component of the City of London – the UK’s financial centre – the LSE can trace its history back hundreds of years. So where did the London Stock Exchange come from? Read on to discover the curious origins.
 
 
- ###Out with the stockbrokers!
+###Out with the stockbrokers!
 
 In 1571 the Royal Exchange was established by Sir Thomas Gresham as the centre of commerce in the City of London. Here goods of all kinds were traded – though one group of people became unwelcome – the stockbrokers. In true British fashion they were banned because of their manners. They were thought to be loud and uncouth. Their rowdy approach to business was unwelcome in the royal institution – but was more than acceptable in the seventeenth century social centre - the coffee house.
 
