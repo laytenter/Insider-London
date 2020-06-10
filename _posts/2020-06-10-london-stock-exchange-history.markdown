@@ -16,7 +16,7 @@ tags:
 The London Stock Exchange is one of the oldest stock exchanges in the world and is still [one of the largest](https://www.visualcapitalist.com/all-of-the-worlds-stock-exchanges-by-size/). An essential component of the City of London – the UK’s financial centre – the LSE can trace its history back hundreds of years. So where did the London Stock Exchange come from? Read on to discover the curious origins.
 
 
- ### Out with the stockbrokers!
+ ###Out with the stockbrokers!
 
 In 1571 the Royal Exchange was established by Sir Thomas Gresham as the centre of commerce in the City of London. Here goods of all kinds were traded – though one group of people became unwelcome – the stockbrokers. In true British fashion they were banned because of their manners. They were thought to be loud and uncouth. Their rowdy approach to business was unwelcome in the royal institution – but was more than acceptable in the seventeenth century social centre - the coffee house.
 
@@ -29,8 +29,5 @@ After the coffeehouse burned down in 1748 – “New Johnathon’s was built” 
 
 To this day, unlike other exchanges around the world, the London Stock Exchange is not subject to regulation from government and operates as an [independent institution](https://www.britannica.com/topic/security-business-economics/Organization-of-exchanges#ref394190). This may seem surprising but, in this sense, it is representative of many aspects of business life in the City of London, an autonomous zone with its own laws and policing. The City is home to the Bank of England, Lloyd’s of London, Rothschild’s, and many more key players in global finance.
 
-[Discover the history and modern-day workings of the institutions at the heart of finance on a City of London Walking Tour](https://www.insiderlondon.com/london/educational-tours/london-finance-walking-tour/).
-
-Academic or Corporate group looking for a bespoke experience? [Find out more about interactive workshops at the London Stock Exchange](https://www.insiderlondon.com/london/company-visits/). 
-
-*Get in touch today via [contact@insiderlondon.com](mailto:contact@insiderlondon.com)*
+*[Discover the history and modern-day workings of the institutions at the heart of finance on a City of London Walking Tour](https://www.insiderlondon.com/london/educational-tours/london-finance-walking-tour/).*
+*Academic or Corporate group looking for a bespoke experience? [Find out more about interactive workshops at the London Stock Exchange](https://www.insiderlondon.com/london/company-visits/). Get in touch today via [contact@insiderlondon.com](mailto:contact@insiderlondon.com)*
