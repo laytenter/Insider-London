@@ -26,4 +26,4 @@ Many ideas put forward by Walker [were echoed by Carolyn Fairbairn](https://www.
 
 *Stay tuned for Insider London's new weekly series on the green recovery. We look at the practical implications for different business sectors.*
 
-*Meet the amazing professionals behind London green business practices with a [in-depth company visit](https://www.insiderlondon.com/london/company-visits/)*
+*Meet the amazing professionals behind London green business practices with a [In-depth Company Visit.](https://www.insiderlondon.com/london/company-visits/)*
