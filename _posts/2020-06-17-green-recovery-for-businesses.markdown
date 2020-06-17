@@ -1,6 +1,13 @@
 ---
 title: Green Recovery for Businesses
 date: 2020-06-17 08:26:00 Z
+categories:
+- Business
+tags:
+- green recovery
+- sustainable business
+- sustainable london
+- business leaders
 ---
 
 ![architectural-architecture-blue-sky-building-305833.jpg](/uploads/architectural-architecture-blue-sky-building-305833.jpg)
@@ -17,6 +24,6 @@ The Managing Director of Iceland Foods, Richard Walker, [in an open letter in th
 
 Many ideas put forward by Walker [were echoed by Carolyn Fairbairn](https://www.current-news.co.uk/news/cbi-latest-to-call-for-green-recovery-to-help-uk-build-back-better), Director General of the Confederation of British Businesses such as retrofitting buildings and renewable energy. Her letter to the Prime Minister included [these demands with additional suggestions](https://www.current-news.co.uk/news/cbi-latest-to-call-for-green-recovery-to-help-uk-build-back-better) as to how increased employment opportunities can be created with a green recovery.
 
-*Stay tuned for Insider London's series on green recovery and its implications for different business sectors*
+*Stay tuned for Insider London's new weekly series on the green recovery. We look at the practical implications for different business sectors.*
 
 *Meet the amazing professionals behind London green business practices with a [in-depth company visit](https://www.insiderlondon.com/london/company-visits/)*
