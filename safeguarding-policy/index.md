@@ -1,9 +1,10 @@
 ---
 title: Staying Safe with Insider London
 date: 2020-06-19 15:18:32 Z
-description:
+description: 
 layout: page
-excerpt: <a class="white" href="/safeguarding-policy">We're implementing a new safeguarding strategy. Click here to learn more.</a>  
+excerpt: <a class="white" href="/safeguarding-policy">We're implementing a new safeguarding
+  strategy. Click here to learn more.</a>
 sitemap: false
 category: safeguarding
 ---

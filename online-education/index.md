@@ -8,7 +8,6 @@ background: person-using-macbook.jpg
 repeatnav: true
 layout: landing
 category: internships
-
 ---
 
 The best education happens outside of the classroom and in a globalised world the best learning crosses borders. Our online education is available for students and corporate groups anywhere in the world.
