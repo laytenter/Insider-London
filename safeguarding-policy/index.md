@@ -1,0 +1,24 @@
+---
+title: Staying Safe with Insider London
+date: 2020-06-19 15:18:32 Z
+description:
+layout: page
+excerpt: <a class="white" href="/safeguarding-policy">We're implementing a new safeguarding strategy. Click here to learn more.</a>  
+sitemap: false
+category: safeguarding
+---
+
+At Insider London, our number one priority will always be the wellbeing of our guests and team members. For this reason, as we prepare to restart our offline educational programmes, we are implementing a new safeguarding strategy. This is regularly re-assessed in accordance with government guidelines.
+
+For all walking tours:
+
+- We will provide face masks for all our private groups. These will be individually wrapped to minimise contamination, as sourced from Protect People (http://www.protectpeople.co.uk/)
+- We will maintain smaller group sizes, with 6 guests per guide. This will allow 2m social distancing with multiple guides assigned depending on group size
+- Our guides will wear face masks and use voice amplifiers throughout the tour
+- We have adjusted our tour routes as appropriate to ensure social distancing is feasible at all stops
+
+For our company visits, capacity is now reduced to a maximum of 30 guests, with arranged seating to ensure social distancing is possible in the office environment. Hand sanitiser and face masks will be offered to all guests upon entry.
+
+We maintain our commitment to providing groups from around the world with the best industry insight. As an alternative, we will continue to run online programmes to connect the worlds of business, education and innovation. Come and find out how businesses are pivoting in a post-Covid landscape with our online company sessions (link) and virtual internships (link) for group booking.
+
+If you have any questions about our safeguarding strategy or educational programmes, please don’t hesitate to get in touch via contact@insiderlondon.com  
