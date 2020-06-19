@@ -18,7 +18,7 @@ For all **walking tours**:
 * Our guides will wear face masks and use voice amplifiers throughout the tour
 * We have adjusted our tour routes as appropriate to ensure social distancing is feasible at all stops
 
-For our company visits, capacity is now reduced to a maximum of 30 guests, with arranged seating to ensure social distancing is possible in the office environment. Hand sanitiser and face masks will be offered to all guests upon entry.
+For our **company visits**, capacity is now reduced to a maximum of 30 guests, with arranged seating to ensure social distancing is possible in the office environment. Hand sanitiser and face masks will be offered to all guests upon entry.
 
 We maintain our commitment to providing groups from around the world with the best industry insight. As an alternative, we will continue to run online programmes to connect the worlds of business, education and innovation. Come and find out how businesses are pivoting in a post-Covid landscape with our [online company sessions](https://www.insiderlondon.com/online-education/online-company-visits/) and [virtual internships](https://www.insiderlondon.com/online-education/virtual-internships/) for group booking.
 
