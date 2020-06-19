@@ -3,7 +3,7 @@ title: Staying Safe with Insider London
 date: 2020-06-19 15:18:00 Z
 description: 
 excerpt: <a class="white" href="/safeguarding-policy">Welcoming groups from 1st July,
-  find out more about our Covid-19 safety here</a>.
+  find out more about our Covid-19 safety <span style="text-decoration:underline">here</span></a>.
 sitemap: false
 category: safeguarding
 layout: page
