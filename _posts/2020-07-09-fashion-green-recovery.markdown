@@ -34,6 +34,6 @@ Digital solutions sit alongside the long-called for transition towards “slow f
 As one of the world’s most polluting industries, fashion has a crucial role to play in a green recovery. The pandemic has shown that change is essential and that sustainable business models can boost a brand’s resilience in hard times. 
 So, when voices question if the fashion industry can afford to make sustainable choices, perhaps the question which should be asked is if they can afford not to. 
 
-[*For further insight on sustainable fashion, book your company visit today to a London fashion factory*](https://www.insiderlondon.com/london/company-visits/) 
+[*For further insight on sustainable fashion, book your company visit today to a London fashion factory.*](https://www.insiderlondon.com/london/company-visits/) 
 
 [*Come and check out the latest trends in retail and brand marketing on a Retail Design Walking Tour!*](https://www.insiderlondon.com/london/educational-tours/retail-design/)
