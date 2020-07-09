@@ -6,11 +6,10 @@ categories:
 tags:
 - educational
 - finance
-- all
 heading: 'Finance Tours - City of London & Canary Wharf '
 label: Finance
-description: Insider London Finance Walking Tours explore the financial powerhouse
-  of the City of London and the amazing development of Canary Wharf.
+description: 'Finance Walking Tours - explore the City of London home to the London
+  Stock Exchange. Alternately choose Canary Wharf: home to the world''s largest banks.'
 order: 1
 gallery1:
 - image: "/assets/images/tours/Finance/Picture-1---Bank-of-England-City-of-London-Finance-Walking-Tour-Student-Corporate-Group.jpg"
