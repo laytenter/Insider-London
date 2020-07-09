@@ -16,7 +16,7 @@ tags:
 
 With a handful of exceptions (like fortunate [athleisure brands](https://www.wired.com/story/opinion-the-future-of-commerce-belongs-to-the-frictionless/)), the global fashion industry has been hit hard by the pandemic.  Employing an estimated [300 million workers across the value chain](https://www.fibre2fashion.com/news/apparel-news/fashion-industry-employs-300-mn-workers-globally-report-242435-newsdetails.htm), the stakes for recovery are high. A successful recovery may require substantial changes in operations but what kind of changes are possible when many players are fighting for simply to survive?
 
-At the same time, the business world is demanding a green recovery – and these demands are even [co-signed by fast-fashion brands like H&M] (https://drive.google.com/file/d/1j54QxE-QjhrEHjGb5LrKsHuDAKvv8LUq/view – so what does this mean for the fashion industry?
+At the same time, the business world is demanding a green recovery – and these demands are even [co-signed by fast-fashion brands like H&M] (https://drive.google.com/file/d/1j54QxE-QjhrEHjGb5LrKsHuDAKvv8LUq/view) – so what does this mean for the fashion industry?
 
 Firstly, some are speculating about a shift in consciousness and priorities among consumers. One example is [Cora Hills, founder and CEO of Reve en Vert](https://www.businessoffashion.com/articles/news-analysis/green-brands-have-a-head-start-on-fashions-post-pandemic-recovery) – a platform selling sustainable, luxury fashion. Hills expressed during the lockdown “We are doing better this month than we did during Christmas…People are shopping more online and have more time to make conscious decisions.” In recent years the [millennial market](https://www.insiderlondon.com/blog/are-you-christmas-shopping-like-a-millenial/) in particular has spearheaded the trend of buying less clothes whilst expressing more concern over brand ethics. Only time will tell if the pandemic has genuinely accelerated this shift.
 
@@ -33,4 +33,5 @@ As one of the world’s most polluting industries, fashion has a crucial role to
 So, when voices question if the fashion industry can afford to make sustainable choices, perhaps the question which should be asked is if they can afford not to. 
 
 [*For further insight on sustainable fashion, book your company visit today to a London fashion factory*](https://www.insiderlondon.com/london/company-visits/) 
-[Come and check out the latest trends in Retail and brand marketing on a Retail Design Walking Tour!](https://www.insiderlondon.com/london/educational-tours/retail-design/)
+
+[*Come and check out the latest trends in Retail and brand marketing on a Retail Design Walking Tour!*](https://www.insiderlondon.com/london/educational-tours/retail-design/)
