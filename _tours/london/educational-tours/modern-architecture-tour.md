@@ -9,7 +9,7 @@ tags:
 - all
 heading: London Modern Architecture Tour
 label: Architecture
-description: Uncover the stories behind London's amazing contemporary architecture
+description: Uncover the stories behind London's amazing modern and contemporary architecture
   with this walking tour. Discover the most iconic buildings by the world's most famous
   architects.
 gallery:
