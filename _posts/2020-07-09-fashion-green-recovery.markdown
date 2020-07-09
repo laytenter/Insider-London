@@ -34,4 +34,4 @@ So, when voices question if the fashion industry can afford to make sustainable 
 
 [*For further insight on sustainable fashion, book your company visit today to a London fashion factory*](https://www.insiderlondon.com/london/company-visits/) 
 
-[*Come and check out the latest trends in Retail and brand marketing on a Retail Design Walking Tour!*](https://www.insiderlondon.com/london/educational-tours/retail-design/)
+[*Come and check out the latest trends in retail and brand marketing on a Retail Design Walking Tour!*](https://www.insiderlondon.com/london/educational-tours/retail-design/)
