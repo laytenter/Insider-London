@@ -9,6 +9,8 @@ tags:
 - digitalisation
 - healthtech
 - covid-19
+description: It is clear that the recovery could be a pivotal time for the Healthtech
+  centre and according to some, an essential opportunity to build back better.
 ---
 
 ![teal-stethoscope-on-wooden-table-3758748.jpg](/uploads/teal-stethoscope-on-wooden-table-3758748.jpg)
@@ -19,9 +21,9 @@ Over recent years, Healthtech (or medtech as it’s sometimes known) has become 
 
 During the pandemic, the digitalisation of healthcare was further accelerated out of necessity.  In the words of [Gerard Grech, Chief Executive of Tech Nation](https://www.healthtechdigital.com/uk-healthtech-startups-rally-to-coronavirus-crisis/): “We are seeing scale-ups making huge leaps that would normally take months or years, in just a few weeks.”  From telemedicine and remote patient monitoring to sequencing technology to help viral research – tech has been essential to the health sector’s approach. One successful company is [AccuRx](https://www.standard.co.uk/tech/healthtech-apps-covid-19-nhs-support-a4423261.html) which started as a secure software for doctors to text patients with test results and appointment information. When the pandemic hit, the company pivoted quickly – building a new feature for video GP appointments over a single weekend. The number of practises using their services rose from 3,500 to 6,900. Continually evolving, AccruRx has added a digital sharing function and has released a new version for hospitals.
 
-Another example is the Essence Group, who claim to have become a key component of government and private efforts to safeguard the elderly during the pandemic. The medtech offers connected smart devices for elderly care, medical settings and home security which allow seniors to live [as independently as possible](https://www.med-technews.com/features/why-digital-healthtech-is-more-important-than-ever/). The list goes on from business support tools and apps for NHS staff and medics to temporary staffing platforms, data analytics and [virus mapping](https://www.mobihealthnews.com/news/europe/uk-health-tech-companies-take-centre-stage-covid-19-crisis-response). 
+![georg-arthur-pflueger-TeWwYARfcM4-unsplash.jpg](/uploads/georg-arthur-pflueger-TeWwYARfcM4-unsplash.jpg)
 
-![person-pointing-numeric-print-1342460.jpg](/uploads/person-pointing-numeric-print-1342460.jpg)
+Another example is the Essence Group, who claim to have become a key component of government and private efforts to safeguard the elderly during the pandemic. The medtech offers connected smart devices for elderly care, medical settings and home security which allow seniors to live [as independently as possible](https://www.med-technews.com/features/why-digital-healthtech-is-more-important-than-ever/). The list goes on from business support tools and apps for NHS staff and medics to temporary staffing platforms, data analytics and [virus mapping](https://www.mobihealthnews.com/news/europe/uk-health-tech-companies-take-centre-stage-covid-19-crisis-response). 
 
 The question which emerges is to what extent these technologies will remain in use or increase in use as the pandemic subsides. The NHS confederation have recently launched a [“reset, not just recovery” programme](https://www.med-technews.com/news/advisory-board-calls-for-plan-to-sustain-covid-19-healthtech/) to explore which aspects of the Covid-19 response should be sustained as we move forward. Some commentators have noted that the “almost complete shift” of services to remote consultations is a great experiment [“to monitor the strength and weaknesses of such technologies”](https://www.newstatesman.com/spotlight/coronavirus/2020/03/covid-19-transforming-health-tech-what-really-works). If considered successful, digitalising could allow for a more efficient and more accessible service.
 
