@@ -9,7 +9,7 @@ excerpt_separator: "<!--more-->"
 ![Stephanie Rogers looking at some grubs](/uploads/steph.jpg)
 *Stephanie Rogers at the Entocycle Lab*
 
-In the face of the rising global demand for food and many sources linking deforestation of the Amazon to the culture of soybeans Rainforest, we look at the future of nutrition. According to some, science is our best pathway to confronting these challenges and the biotechnology is booming.
+In the face of the rising global demand for food and many sources linking deforestation of the Amazon to the cultivation of soy, we look at the future of nutrition. According to some, science is our best pathway to confront these challenges and the biotechnology industry is booming.
 
 This week, we caught up with one of our new partners – a leading light in sustainable biotechnology.  Find out how [Entocycle’s](https://www.entocycle.com/) innovative business model can help solve some of the world’s most critical issues in our interview below with scientist, Stephanie Rogers.
 
