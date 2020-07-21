@@ -9,7 +9,7 @@ layout: programme
 
 ![handshake-3382503_1280.jpg](/uploads/handshake-3382503_1280.jpg)
 
-Showcasing innovation straight from industry leaders, explore the pandemic through a business lens. Our sessions analyse the economic impact, pivoting strategies and emerging sectors post-Covid-19. 
+Showcasing innovation straight from industry leaders, explore the pandemic through a business lens. Our sessions analyse the economic impact, pivoting strategies and emerging sectors **post-Covid-19. **
 
 Our online company visits are **dynamic live exchanges** between speakers and participants. Discover real-world entrepreneurship and the latest industry trends direct from the **pioneers driving innovation**.
   
