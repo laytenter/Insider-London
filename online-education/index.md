@@ -1,8 +1,10 @@
 ---
 title: Online Education
 heading: Online Education
-description: Experience our company visits and other programmes via our innovative
-  online education programme.
+description: 'Bridge the distance with online business education. Our company visits
+  and virtual internships bring senior management of leading companies direct to you.
+
+'
 nav: online
 background: person-using-macbook.jpg
 repeatnav: true
@@ -14,6 +16,6 @@ The best education happens outside of the classroom and in a globalised world th
 
 Insider London is here to bridge the distance. The distance between continents and between different sectors as well as the skills gap between students and their future employers. We provide groups with amazing business learning opportunities online.
 
-Showcasing innovation straight from industry leaders, explore the pandemic through a business lens. Our sessions analyse the economic impact, pivoting strategies and emerging sectors post-Covid-19. 
+Both our virtual internships and our online company visits are led by senior management, featuring companies at the forefront of the latest trends post-pandemic. Discover the new business landscape emerging from Covid-19 with Insider London.
 
 Find out more below.
