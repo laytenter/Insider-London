@@ -1,6 +1,7 @@
 ---
 title: Online Company Visits
-description: In today's globalised marketplace, how can your students stand out?
+description: Our online company visits showcase the latest industry trends post-Covid-19.
+  We offer live exchanges with business leaders across a variety of sectors.
 heading: Online Company Visits
 nav: online
 layout: programme
