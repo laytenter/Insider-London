@@ -8,9 +8,9 @@ layout: programme
 
 ![handshake-3382503_1280.jpg](/uploads/handshake-3382503_1280.jpg)
 
-We believe that physical distance shouldn’t affect opportunity which is why many of our most popular company visits are now available as online sessions for group bookings.
+Showcasing innovation straight from industry leaders, explore the pandemic through a business lens. Our sessions analyse the economic impact, pivoting strategies and emerging sectors post-Covid-19. 
 
-Our online company visits are a **dynamic live exchange**, with a detailed presentation followed by a question and answer session with senior management. Discover real-world entrepreneurship and the latest industry trends direct from the **pioneers driving innovation**.
+Our online company visits are **dynamic live exchanges** between speakers and participants. Discover real-world entrepreneurship and the latest industry trends direct from the **pioneers driving innovation**.
   
    
 **Our partners include:**
@@ -21,12 +21,13 @@ Our online company visits are a **dynamic live exchange**, with a detailed prese
 
 - **Urban Edge Capital** – the hedge fund that’s ahead of the curve, generating consistent returns with investments overlooked by the traditional market
 
-- **Loke Global** – the marketeers with a difference who bring together fintech, AI and big data in a super-app for the biggest names in hospitality and banking
+- **Loke Global** – a delivery, ordering and loyalty super-app for the biggest names in hospitality which utilises the latest in AI and big data 
 
 - **CKX** – provider of the most cutting-edge AI, blockchain and Internet of Things technical solutions for corporate clients and governments
 
-- **Entocycle** – the biotech company leading the way to a sustainable future whose IP-protected technology generates protein from food waste.
+- **Entocycle** – the biotech leading light addressing food security on a global scale, bringing together science, technology and business
 
-Don’t miss our engaging **workshops** now available live - from **Leadership** to **Trading & Asset Management**.
+- **Sync.**  - an exciting fintech platform aggregating all financial accounts and allowing users to swap between currencies and transfer funds to one another
+
 
 _Online company visits are essential inclusion for online business programmes and teaching, as well as corporate innovation and discovery programmes. Get in touch now via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) with your group’s bespoke requirements._
