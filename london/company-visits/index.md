@@ -74,13 +74,13 @@ E-mail [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to choose f
 
 Insider London also hosts engaging and interactive workshops with top industry professionals. The precise subject matter of talks and workshops can be oriented around the interests and requirements of your student or corporate group.
 
-- Fintech for the Future – An ideas exchange between some of the UK’s most innovative fintech companies. With a carefully curated selection of start-ups.
-- Asset Management & Trading – A bespoke session based on the background of the group; this workshop is led by a former policy advisor to the European Monetary Affairs committee.
-- Web Design - Revealing the secrets to developing a fantastic website. This dynamic and interactive session focuses on user experience and synergy between different platforms. Led by an industry expert, come and get creative!
+- **Fintech for the Future** – An ideas exchange between some of the UK’s most innovative fintech companies. With a carefully curated selection of start-ups.
+- **Asset Management & Trading** – A bespoke session based on the background of the group; this workshop is led by a former policy advisor to the European Monetary Affairs committee.
+- **Web Design** - Revealing the secrets to developing a fantastic website. This dynamic and interactive session focuses on user experience and synergy between different platforms. Led by an industry expert, come and get creative!
 
-- Public Speaking – A vital skill for groups of all backgrounds, this workshop weds theory and practice to give your group a great toolbox for delivering amazing and engaging speeches.
-- Business Model Canvas – A fantastic introductory session for students. This workshop introduces critical key considerations for budding entrepreneurs when creating their business model
-- Finance Made Simple – specially created for those new to finance, this is the first step to understanding how money operates in a business. From raising investment to monitoring cashflow, it’s time to de-mystify!
-- Defining Leadership - exploring crucial characteristics of successful leadership and their practical application to honing negotiating and influencing skills.
+- **Public Speaking** – A vital skill for groups of all backgrounds, this workshop weds theory and practice to give your group a great toolbox for delivering amazing and engaging speeches.
+- **Business Model Canvas** – A fantastic introductory session for students. This workshop introduces critical key considerations for budding entrepreneurs when creating their business model
+- **Finance Made Simple** – specially created for those new to finance, this is the first step to understanding how money operates in a business. From raising investment to monitoring cashflow, it’s time to de-mystify!
+- **Defining Leadership** - exploring crucial characteristics of successful leadership and their practical application to honing negotiating and influencing skills.
 
 Get in touch via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to start creating your perfect educational package.
