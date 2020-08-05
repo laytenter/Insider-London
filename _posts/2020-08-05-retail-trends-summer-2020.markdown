@@ -22,5 +22,5 @@ Consumers are not only purchasing items for use at home but are purchasing from 
 In other news the UK’s largest pet supplies retailer, Pets At Home, recently reported “exceptional demand”. Annual profits are expected to be higher than usual with the company stating that pets played “an increasingly vital role in our lives” during the pandemic, though [some warn](https://www.bbc.co.uk/news/business-52134141) this may be temporary.
 
 
-Discover the latest business trends post-pandemic with an Insider London company visit. Our company partners chat projections, pivoting and business models. Whether [offline](https://www.insiderlondon.com/london/company-visits/) or [online](https://www.insiderlondon.com/online-education/online-company-visits/) get in touch today via [contact@insiderlondon.com](mailto:contact@insiderlondon.com)
-
+*Discover the latest business trends post-pandemic with an Insider London company visit. Our company partners chat projections, pivoting and business models. Whether [offline](https://www.insiderlondon.com/london/company-visits/) or [online](https://www.insiderlondon.com/online-education/online-company-visits/) get in touch today via [contact@insiderlondon.com](mailto:contact@insiderlondon.com)
+*
