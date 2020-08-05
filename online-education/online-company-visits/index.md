@@ -17,11 +17,8 @@ Our online company visits are **dynamic live exchanges** between speakers and pa
 **Our partners include:**
 
 * **LOKE Global** – the king of pivoting - this ordering and loyalty super-app caters for the biggest names in hospitality which utilises the latest in AI and big data. 
-
 * **CKX** – provider of the most cutting-edge AI, blockchain and Internet of Things technical solutions for corporate clients and governments.
-
 * **Entocycle** – the biotech leading light addressing food security on a global scale, bringing together science, technology and business.
-
 * **Sync.**  - an exciting fintech platform aggregating all financial accounts and allowing users to swap between currencies and transfer funds to one another.
 
 *  **Intelak** – the vibrant start-up hub by Emirates and Dubai Tourism which launches, nurtures and scales start-ups in aviation, travel and tourism.
@@ -30,4 +27,4 @@ Our online company visits are **dynamic live exchanges** between speakers and pa
 * **Qunomedical** - the Berlin-based telemedicine star pushing the best quality healthcare beyond borders.
 
 
-_Online company visits are essential inclusion for online business programmes and teaching, as well as corporate innovation and discovery programmes. Get in touch now via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) with your group’s bespoke requirements._
+Online company visits are essential inclusion for online business programmes and teaching, as well as corporate innovation and discovery programmes. Get in touch now via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) with your group’s bespoke requirements._
