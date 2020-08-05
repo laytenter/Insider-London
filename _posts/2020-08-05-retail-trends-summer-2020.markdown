@@ -8,6 +8,8 @@ tags:
 - retail trends
 ---
 
+![sportswear.jpg](/uploads/sportswear.jpg)
+
 Covid-19 has exacerbated existing socio-economic tensions as well as creating new issues. This is also apparent in business – particularly with the retail sector. On its onset, retail has been one of the most severely affected industries, with one of the highest numbers of job cuts 
 
 Department stores are among the UK’s most well-known chains to announce closures and cuts. Previously high end department stores had fared better than their mid-market rivals who have been [feeling the strain for some time]( https://www.insiderlondon.com/blog/the-department-stores-decline-and-How-it-reflects-retail-trends/ ). Nevertheless, last week Selfridges announced the [loss of 450 jobs](https://www.theguardian.com/business/2020/jul/28/selfridges-cut-jobs-covid-19-job-losses-harrods),  after Harrods reported that 700 jobs had been cut  - so is it all bad news for the retail sector?
@@ -19,4 +21,6 @@ Consumers are not only purchasing items for use at home but are purchasing from 
 
 In other news the UK’s largest pet supplies retailer, Pets At Home, recently reported “exceptional demand”. Annual profits are expected to be higher than usual with the company stating that pets played “an increasingly vital role in our lives” during the pandemic, though [some warn](https://www.bbc.co.uk/news/business-52134141) this may be temporary.
 
+
+Discover the latest business trends post-pandemic with an Insider London company visit. Our company partners chat projections, pivoting and business models. Whether offline (https://www.insiderlondon.com/london/company-visits/) or online (https://www.insiderlondon.com/online-education/online-company-visits/) get in touch today via [contact@insiderlondon.com](mailto:contact@insiderlondon.com)
 
