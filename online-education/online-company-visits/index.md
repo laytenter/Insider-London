@@ -16,19 +16,18 @@ Our online company visits are **dynamic live exchanges** between speakers and pa
    
 **Our partners include:**
 
-- **Intelak** – the vibrant start-up hub by Emirates and Dubai Tourism which launches, nurtures and scales start-ups in aviation, travel and tourism.
+* **LOKE Global** – the king of pivoting - this ordering and loyalty super-app caters for the biggest names in hospitality which utilises the latest in AI and big data 
 
-- **Verb Brands** – the luxury digital marketing agency in London and New York whose clients include Bugatti, Jimmy Choo and Sunseeker.
+* **CKX** – provider of the most cutting-edge AI, blockchain and Internet of Things technical solutions for corporate clients and governments
 
-- **Urban Edge Capital** – the hedge fund that’s ahead of the curve, generating consistent returns with investments overlooked by the traditional market
+* **Entocycle** – the biotech leading light addressing food security on a global scale, bringing together science, technology and business
 
-- **Loke Global** – a delivery, ordering and loyalty super-app for the biggest names in hospitality which utilises the latest in AI and big data 
+* **Sync.**  - an exciting fintech platform aggregating all financial accounts and allowing users to swap between currencies and transfer funds to one another
 
-- **CKX** – provider of the most cutting-edge AI, blockchain and Internet of Things technical solutions for corporate clients and governments
-
-- **Entocycle** – the biotech leading light addressing food security on a global scale, bringing together science, technology and business
-
-- **Sync.**  - an exciting fintech platform aggregating all financial accounts and allowing users to swap between currencies and transfer funds to one another
+*  **Intelak** – the vibrant start-up hub by Emirates and Dubai Tourism which launches, nurtures and scales start-ups in aviation, travel and tourism.
+* **Verb Brands** – the luxury digital marketing agency in London and New York whose clients include Bugatti, Jimmy Choo and Sunseeker.
+* **Urban Edge Capital** – the hedge fund that’s ahead of the curve, generating consistent returns with investments overlooked by the traditional market
+* **Qunomedical** - the Berlin-based telemedicine star pushing the best quality healthcare beyond borders.
 
 
 _Online company visits are essential inclusion for online business programmes and teaching, as well as corporate innovation and discovery programmes. Get in touch now via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) with your group’s bespoke requirements._
