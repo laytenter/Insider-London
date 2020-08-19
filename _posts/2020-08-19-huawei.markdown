@@ -1,5 +1,5 @@
 ---
-title: HUAWEI
+title: Huawei 5G Centre
 date: 2020-08-19 11:52:00 Z
 categories:
 - business
@@ -12,9 +12,11 @@ tags:
 
 ![technology-4816658_1920.jpg](/uploads/technology-4816658_1920.jpg)
 
-London’s Silicon Roundabout has been a prime centre for innovation for over a decade. Over recent years, this small area of East London has grown from a start-up hub to a mature cluster which combines agile entrepreneurs with world-leading corporates. In Silicon Roundabout, global corporates keep a watchful eye on the latest tech developments of all kinds, including fintech and insurtech and engage with the business eco-system through accelerator programmes and innovation spaces.
-Unknown to many, last year Huawei joined the throng and quietly launched its 5G Innovation and Experience Centre. The centre is nestled between Tech Nation (the government backed support network for the UK’s tech sector) and IDEALondon (a collaborative venture between UCL and Cisco) and is a stone’s throw away from Google Campus. 
-Aiming to promote greater collaboration in the 5G eco-system, between businesses and innovators, the space promotes the technology by showcasing the real-world application of 5G both across the UK and around the world. The impact is demonstrated through innovative virtual and augmented reality. Alongside interactive gaming and music, Huawei showcases the amazing future potential of 5G technology from smart manufacturing to healthcare.
+London’s Silicon Roundabout has been a prime centre for innovation for over a decade. Over recent years, this small area of East London has grown from a start-up hub to a mature cluster which combines agile entrepreneurs with world-leading corporates. In Silicon Roundabout, multi-nationals keep a watchful eye on the latest tech developments of all kinds, including fintech and insurtech whilst engaging with the business eco-system through accelerator programmes and innovation spaces.
+
+Unknown to many, last year Huawei joined the throng and quietly launched its 5G Innovation and Experience Centre. The centre is nestled between [Tech Nation](https://technation.io/) (the government backed support network for the UK’s tech sector) and [IDEALondon](https://www.idealondon.co.uk/) (a collaborative venture between UCL and Cisco) and is a stone’s throw away from Google Campus. 
+
+Aiming to promote greater collaboration in the 5G eco-system, between businesses and innovators, the space promotes  by showcasing the real-world application of 5G both across the UK and around the world. The impact is demonstrated through innovative virtual and augmented reality. Alongside interactive gaming and music, Huawei showcases the amazing future potential of 5G technology from smart manufacturing to healthcare.
 Victor Zhang, Vice-President of Huawei, said: “With the opening of our 5G Innovation and Experience Centre in London we, as a leader of 5G, are taking another important step. What we have opened today will enable true collaboration amongst UK businesses and technologists and showcase the huge potential of 5G applications for both the private and business sectors.”
 -	16th December 2019 https://www.huawei.com/uk/news/uk/2019/huawei-opens-5g-innovation-and-experience-centre-in-london
 
