@@ -27,4 +27,4 @@ Our online company visits are **dynamic live exchanges** between speakers and pa
 * **Qunomedical** - the Berlin-based telemedicine star pushing the best quality healthcare beyond borders.
 
 
-Online company visits are essential inclusion for online business programmes and teaching, as well as corporate innovation and discovery programmes. Get in touch now via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) with your group’s bespoke requirements._
+Online company visits are essential inclusion for online business programmes and teaching, as well as corporate innovation and discovery programmes. Get in touch now via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) with your group’s bespoke requirements.
