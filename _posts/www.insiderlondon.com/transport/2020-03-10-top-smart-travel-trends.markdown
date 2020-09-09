@@ -35,4 +35,5 @@ Image from: https://www.ttgmedia.com/news/news/virgin-voyages-unveils-smart-tech
 
 
 *Discover the latest trends and innovation in the travel and aviation industry with our [bespoke discovery programmes in Dubai](https://www.insiderlondon.com/asia/dubai/) – “the City of Gold”. Our programme offers exclusive behind-the-scenes access to the fascinating Emirates tech hub and Dubai International Airport.
-Intrigued by innovative new retailers like Horizn? Check out our [East End Retail Design Walking Tour]*(https://www.insiderlondon.com/london/educational-tours/retail-design/#east-end-retail-design)
+
+Intrigued by innovative new retailers like Horizn? Check out our [East End Retail Design Walking Tour](https://www.insiderlondon.com/london/educational-tours/retail-design/#east-end-retail-design).
