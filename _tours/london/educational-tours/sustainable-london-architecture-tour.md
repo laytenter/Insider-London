@@ -40,7 +40,7 @@ related:
 
 With growing awareness of the global climate crisis then it’s time to re-imagine the modern way of life and twenty-first century infrastructure. With a booming population and more than two-thousand years of history, London has a unique set of difficulties to face when transitioning into a sustainable future.
 
-We showcase a wide variety of approaches that show London is always up for a challenge. Find out more on our **[Sustainable London](#sustainable-london-tour)** or **[Sustainable Architecture](#sustainable-architecture)** Walking Tours.
+We showcase a wide variety of approaches that demonstrate London is always up for a challenge. Find out more on our **[Sustainable London](#sustainable-london-tour)** or **[Sustainable Architecture](#sustainable-architecture)** Walking Tours.
 
 ## Sustainable London Tour
 
@@ -70,7 +70,7 @@ Are you a student of ethical business, environmental science or human geography?
 * Exciting new green developments and eco-conscious retrofitting
 * London’s bid to become a “National Park City” and the **urban greening movement**
 
-{% include findoutmore.html title="Cutting Edge Green Tour" %}
+{% include findoutmore.html title="Sustainable London Tour" %}
 
 ## Sustainable Architecture
 
