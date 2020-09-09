@@ -40,9 +40,9 @@ related:
 
 With growing awareness of the global climate crisis then it’s time to re-imagine the modern way of life and twenty-first century infrastructure. With a booming population and more than two-thousand years of history, London has a unique set of difficulties to face when transitioning into a sustainable future.
 
-We showcase a wide variety of approaches that show London is always up for a challenge. Find out more on our **[Cutting-Edge Green](#cutting-edge-green-tour)** or **[Sustainable Architecture](#sustainable-architecture)** Walking Tours.
+We showcase a wide variety of approaches that show London is always up for a challenge. Find out more on our **[Sustainable London](#cutting-edge-green-tour)** or **[Sustainable Architecture](#sustainable-architecture)** Walking Tours.
 
-## Cutting-Edge Green Tour
+## Sustainable London Tour
 
 {% assign gallery = page.gallery1 %}
 {% if gallery.size > 1 %}
