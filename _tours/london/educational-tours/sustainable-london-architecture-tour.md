@@ -49,7 +49,7 @@ We showcase a wide variety of approaches that show London is always up for a cha
 {% include slideshow.html %}
 {% endif %}
 
-Insider London’s Cutting-Edge Green Tour is London’s only Sustainability Tour!
+Insider London’s Green Tour is London’s only Sustainability Tour!
 
 Our capital was recently voted as **the most sustainable city in the world**, but can it live up to this reputation? Give us two hours and then cast your vote.
 
