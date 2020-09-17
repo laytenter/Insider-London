@@ -24,3 +24,5 @@ The festival draws to a close with an exciting event from 3rd-4th October – a 
 
 ### “Culture and the arts are synonymous with London and it’s the number one reason that visitors come here. The London Mural Festival is a fantastic innovative addition to our cultural landscape and really puts London in the spotlight as a dynamic and creative city.” 
 [Laura Citron, CEO of London & Partners, 10/9/2020](https://www.londonmuralfestival.com/
+
+*Interested in the vibrant world of London Street Art? [Book your group on a colourful walking tour!](https://www.insiderlondon.com/london/educational-tours/street-art-tour-london/)*
