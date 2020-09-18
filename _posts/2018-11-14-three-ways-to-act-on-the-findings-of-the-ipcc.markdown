@@ -82,4 +82,4 @@ Whilst evidence has been around for at least a decade linking the meat industry 
 
 
 
-Join the debate and learn more about London as a sustainable city with Insider London's green tours: [Cutting-Edge Green](https://www.insiderlondon.com/london/educational-tours/sustainable-london-architecture-tour/#cutting-edge-green-tour) and [Sustainable Architecture](https://www.insiderlondon.com/london/educational-tours/sustainable-london-architecture-tour/#sustainable-architecture).
+Join the debate and learn more about London as a sustainable city with Insider London's [green walking tours](https://www.insiderlondon.com/london/educational-tours/sustainable-london-architecture-tour).
