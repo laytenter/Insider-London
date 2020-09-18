@@ -76,4 +76,4 @@ The growing realm of corporate responsibility and sustainability offers an attra
 
 
 
-For further debate and analysis on the impact of climate change on business, as well as in the public sector, join us for a [Cutting-Edge Green Tour](https://www.insiderlondon.com/london/educational-tours/sustainable-london-architecture-tour/#cutting-edge-green-tour). Come and examine London as a sustainable city.
+For further debate and analysis on the impact of climate change on business, as well as in the public sector, join us for a [Sustainable London](https://www.insiderlondon.com/london/educational-tours/sustainable-london-architecture-tour/#sustainable-london-tour). Come and examine London as a sustainable city.
