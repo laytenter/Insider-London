@@ -1,6 +1,6 @@
 ---
 title: 10 Ideas for a Greener London
-date: 2015-06-25 11:57:28 Z
+date: 2015-06-25 11:57:00 Z
 permalink: "/blog/10-ideas-for-a-greener-london/"
 categories:
 - Sustainability
@@ -96,4 +96,4 @@ The area to the north of [King’s Cross](http://www.kingscross.co.uk/) station
 
 There are 1,200 diesel-electric hybrid buses running through the capital and [this should increase to 1,700 by 2016](https://www.tfl.gov.uk/campaign/bus-investment) – making up 20% of the bus fleet. These buses are quieter, more fuel-efficient and cleaner, reducing emissions of CO2 by at least 30% compared to conventional diesel buses. London also has a fleet of eight hydrogen fuel buses, running on route RV1 between Covent Garden and Tower Gateway, which release nothing but water into the air.
 
-_Want to discover more ways people are shaping a green London? Book onto our_ [_cutting edge green London tour_](/london/educational-tours/sustainable-london-architecture-tour/#cutting-edge-green-tour)_, or our_ [_sustainable architectural London tour_](/london/educational-tours/sustainable-london-architecture-tour/#sustainable-architecture) _to find out more._
+Want to discover more ways people are shaping a green London? Book onto our [Sustainability Walking Tours](https://www.insiderlondon.com/london/educational-tours/sustainable-london-architecture-tour/).
