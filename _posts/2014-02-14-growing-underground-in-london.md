@@ -1,13 +1,13 @@
 ---
 title: Growing Underground in London
-date: 2014-02-14 11:00:43 Z
+date: 2014-02-14 11:00:00 Z
 permalink: "/blog/growing-underground-in-london/"
 categories:
 - Sustainability
 id: 13914
 author: london75
-layout: post
 guid: https://www.insiderlondon.com/?p=13914
+layout: post
 ---
 
 [<img class="alignnone size-full wp-image-13918" alt="Growing Underground Founders" src="/wp-content/uploads/2014/02/Growing-Underground-Founders.jpg" width="569" height="379" />](/wp-content/uploads/2014/02/Growing-Underground-Founders.jpg)
@@ -28,4 +28,4 @@ The Growing Underground gardens will use the latest technology to grow quality h
 
 The herbs and vegetables which will be produced in the carbon neutral Growing Underground tunnels will be available in London’s grocery stores, markets and restaurants by the end of this summer. Will you be trying out this exciting new range of produce?
 
-Come check out London’s sustainability credentials on a [Cutting Edge Green Tour](/london/educational-tours/sustainable-london-architecture-tour/#cutting-edge-green-tour)"
+Come check out London’s sustainability credentials on a [Sustainable London Walking Tour]!(https://www.insiderlondon.com/london/educational-tours/sustainable-london-architecture-tour/#sustainable-london-tour)
