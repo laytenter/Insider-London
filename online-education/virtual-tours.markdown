@@ -26,3 +26,16 @@ Cast your vote on whether London is a truly sustainable city! Journey through so
 And much more!
 
 Get in touch now via contact@insiderlondon.com to book your Virtual Sustainability Tour.
+
+### Virtual City of London Finance Tour
+
+Explore the City of London as a global financial centre. From the towering skyscrapers of the insurance quarter to the historic facades of the Bank of England, this virtual tour uncovers the past, present and future of the City. 
+
+**Discover:**
+    • The London Stock Exchange and its transition through time
+    • The role of the Bank of England and retail banking
+    • The archaic governance of the City of London whose limited regulations are highly prized by the financial sector
+    • The origins of the world’s first insurance broker – in an unlikely location!
+    • The impact of the 2008 financial crisis, Brexit, and Covid-19
+
+Get in touch now via contact@insiderlondon.com to book your Virtual City of London Finance Tour
