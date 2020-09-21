@@ -1,6 +1,8 @@
 ---
 title: Virtual Tours
 date: 2020-09-21 15:21:00 Z
+nav: online
+layout: programme
 ---
 
 Wherever you are in the world, experience dynamic London with a virtual educational tour. Our detailed and engaging packages go beyond the tourist sites and analyse the most essential dimensions of real, working London. We home in on specific industries and trends and provide the perfect virtual research trip for your team or student group.
