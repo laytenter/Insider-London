@@ -2,13 +2,7 @@
 title: Healthtech and the Covid-19 Recovery
 date: 2020-07-15 09:59:00 Z
 categories:
-- business
-tags:
-- business
-- technology
-- digitalisation
-- healthtech
-- covid-19
+- Business
 description: It is clear that the recovery could be a pivotal time for the Healthtech
   centre and according to some, an essential opportunity to build back better.
 ---
