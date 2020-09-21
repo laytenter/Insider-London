@@ -29,7 +29,7 @@ Cast your vote on whether London is a truly sustainable city! Journey through so
 
 And much more!
 
-Get in touch now via contact@insiderlondon.com to book your Virtual Sustainability Tour.
+Get in touch now via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to book your Virtual Sustainability Tour.
 
 ### Virtual City of London Finance Tour
 
@@ -42,4 +42,4 @@ Explore the City of London as a global financial centre. From the towering skysc
     • The origins of the world’s first insurance broker – in an unlikely location!
     • The impact of the 2008 financial crisis, Brexit, and Covid-19
 
-Get in touch now via contact@insiderlondon.com to book your Virtual City of London Finance Tour
+Get in touch now via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to book your Virtual City of London Finance Tour
