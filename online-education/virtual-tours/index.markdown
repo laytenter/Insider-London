@@ -9,7 +9,7 @@ Wherever you are in the world, experience dynamic London with a virtual educatio
 
 Our unique virtual tour experiences combine a 1 hour engaging video led by our passionate guides on the streets of London, with a 30-minute live Q&A session.
 
-Find out more about our [Virtual Sustainability Tour] or our [Virtual Finance Tour] below.
+Find out more about our [Virtual Sustainability Tour](virtual-london-sustainability-tour) or our [Virtual Finance Tour](virtual-city-of-london-finance-tour) below.
 
 ### Virtual London Sustainability Tour
 
