@@ -2,7 +2,7 @@
 title: Virtual Conference July 2020
 date: 2020-07-22 09:26:00 Z
 categories:
-- events
+- Events
 tags:
 - post-pandemic
 - business trends
