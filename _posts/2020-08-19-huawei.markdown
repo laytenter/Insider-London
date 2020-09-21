@@ -2,7 +2,7 @@
 title: Huawei 5G Centre
 date: 2020-08-19 11:52:00 Z
 categories:
-- business
+- Business
 tags:
 - technology
 - innovation
