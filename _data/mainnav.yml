@@ -19,6 +19,8 @@ sections:
 online:
   - title: Online Company Visits
     url: /online-education/online-company-visits
+  - title: Virtual Tours
+    url: /online-education/virtual-tours
   - title: Virtual Internships
     url: /online-education/virtual-internships
 london:
