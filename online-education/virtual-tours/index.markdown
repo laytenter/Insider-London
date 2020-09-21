@@ -9,14 +9,13 @@ Wherever you are in the world, experience dynamic London with a virtual educatio
 
 Our unique virtual tour experiences combine a 1 hour engaging video led by our passionate guides on the streets of London, with a 30-minute live Q&A session.
 
-Find out more about our [Virtual Sustainability Tour](virtual-london-sustainability-tour) or our [Virtual Finance Tour](virtual-city-of-london-finance-tour) below.
+Find out more about our [Virtual Sustainability Tour](#virtual-london-sustainability-tour) or our [Virtual Finance Tour](#virtual-city-of-london-finance-tour) below.
 
 ### Virtual London Sustainability Tour
 
 <div class="o-ratio o-ratio--16:9 u-margin-bottom">
   <iframe src="https://player.vimeo.com/video/458894861" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
-
 
 Cast your vote on whether London is a truly sustainable city! Journey through some of the most picturesque parts of Central London and explore the capital’s green credentials.
 
