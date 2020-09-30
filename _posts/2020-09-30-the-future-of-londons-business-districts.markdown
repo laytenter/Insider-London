@@ -22,7 +22,7 @@ As the situation grows from bad to worse, City AM reported that BP is planning t
 Whilst these corporations provide temperature checks for economic centres, the City and Canary Wharf, [London’s tech centre – Silicon Roundabout](https://www.insiderlondon.com/london/educational-tours/silicon-roundabout-and-tech-city-tour/) – is also in trouble. 
 
 ### “The downside for London might be the dwindling of serendipity… Whilst Shoreditch never had it to Silicon Valley levels, the square mile between Shoreditch, Clerkenwell and Kings Cross has become Europe’s most serendipitous place for founders…You can’t go into Ozone (coffee shop), Granger & Co (restaurant) or Google Campus without bumping into several VCs or fellow founders.”
-- Harry Briggs, [a venture capitalist with Omers Ventures](https://www.cnbc.com/2020/08/25/londons-tech-city-coronavirus.html).
+-Harry Briggs, [a venture capitalist with Omers Ventures](https://www.cnbc.com/2020/08/25/londons-tech-city-coronavirus.html).
 
 Whilst the tech sector has historically pioneered flexible working then the collaboration and networking opportunities provided by co-working spaces and business clusters kept many entrepreneurs out of the house. Now however with all key calendar events online, many founders have temporarily migrated out of London and even out of the UK. 
 
