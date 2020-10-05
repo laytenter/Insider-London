@@ -28,8 +28,7 @@ Explore the City of London as a global financial centre. From the towering skysc
 
 ### Virtual London Sustainability Tour
 
-<iframe src="https://player.vimeo.com/video/458894861" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</div>
+<iframe src="https://player.vimeo.com/video/458894861" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 Cast your vote on whether London is a truly sustainable city! Journey through some of the most picturesque parts of Central London and explore the capital’s green credentials.
 
