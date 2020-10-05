@@ -27,6 +27,9 @@ Explore the City of London as a global financial centre. From the towering skysc
 * The impact of the 2008 financial crisis, Brexit, and Covid-19
 
 
+Get in touch now via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to book your Virtual City of London Finance Tour.
+
+
 ### Virtual London Sustainability Tour
 
 <iframe src="https://player.vimeo.com/video/458894861" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
@@ -46,5 +49,3 @@ And much more!
 
 Get in touch now via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to book your Virtual Sustainability Tour.
 
-
-Get in touch now via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to book your Virtual City of London Finance Tour
