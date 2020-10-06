@@ -44,7 +44,7 @@ We showcase a wide variety of approaches that demonstrate London is always up fo
 
 ## Sustainable London Tour
 
-*This tour is not also available as an online education package. [Click here](https://www.insiderlondon.com/online-education/virtual-tours/#virtual-london-sustainability-tour) to find out more.*
+*This tour is now also available as an online education package. [Click here](https://www.insiderlondon.com/online-education/virtual-tours/#virtual-london-sustainability-tour) to find out more.*
 
 <iframe src="https://player.vimeo.com/video/465408572" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
