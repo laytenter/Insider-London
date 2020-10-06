@@ -33,13 +33,9 @@ map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9932.061563355885!2d-
 Financial services are at the heart of the London economy. Come and explore the UK capital as an international finance centre in: [The City](#city-finance-tour) and [Canary Wharf](#canary-wharf-walking-tour)
 
 ## City Finance Tour
-*This tour is not also available as an online education package. [Click here](https://www.insiderlondon.com/online-education/virtual-tours/#virtual-city-of-london-finance-tour) to find out more*
+*This tour is not also available as an **online education package**. [Click here](https://www.insiderlondon.com/online-education/virtual-tours/#virtual-city-of-london-finance-tour) to find out more*
 
-{% assign gallery = page.gallery1 %}
-
-{% if gallery.size > 1 %}
-  {% include slideshow.html %}
-{% endif %}
+<iframe src="https://player.vimeo.com/video/465028994" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 Join us on our award-winning walking tour of The City as we take you on a fascinating journey to discover the origins of London’s financial centre - from its humble **beginnings in 17<sup>th</sup> century** coffee houses to **its ancient and unusual** governance and voting system that’s still in use today.
 
