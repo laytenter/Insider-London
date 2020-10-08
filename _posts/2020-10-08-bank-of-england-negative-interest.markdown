@@ -12,7 +12,7 @@ tags:
 - city of london
 ---
 
-(/uploads/Picture%201%20-%20Bank%20of%20England%20City%20of%20London%20Finance%20Walking%20Tour%20Student%20Corporate%20Group-23044a.JPG)
+[Picture 1 - Bank of England City of London Finance Walking Tour Student Corporate Group-23044a.JPG](/uploads/Picture%201%20-%20Bank%20of%20England%20City%20of%20London%20Finance%20Walking%20Tour%20Student%20Corporate%20Group-23044a.JPG)
 
 The world’s second oldest central bank, the Bank of England, is charged with setting monetary policy. Their main aim is to keep inflation rates low and stable to [ensure the stability of the UK economy](https://www.bankofengland.co.uk/monetary-policy). The Central Bank states that two years are needed for these changes to take full effect, so this is the immediate time frame that the committee of 9 members must consider when making policy decisions.
 
