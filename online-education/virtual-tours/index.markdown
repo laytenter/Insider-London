@@ -26,8 +26,9 @@ Explore the City of London as a global financial centre. From the towering skysc
 * The origins of the world’s first insurance broker – in an unlikely location!
 * The impact of the 2008 financial crisis, Brexit, and Covid-19
 
+For **group booking** get in touch now via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to book your Virtual City of London Finance Tour package.
 
-Get in touch now via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to book your Virtual City of London Finance Tour.
+The pre-recorded video tour is now also available for **individual viewers**! Your viewing link and password will arrive directly in your email inbox. Click below to purchase 3-days viewing access!
 
 
 ### Virtual London Sustainability Tour
