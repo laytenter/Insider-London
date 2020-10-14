@@ -10,6 +10,8 @@ tags:
 - liveable cities
 ---
 
+![6_WL-30691_Main_Image.jpg](/uploads/6_WL-30691_Main_Image.jpg)
+
 The impact of public health concerns and disease on our built environment is not new. For one, the introduction in Europe of sewage systems prompted by cholera outbreaks, in the nineteenth century drove the roads above them [to become straighter and wider](https://www.theguardian.com/artanddesign/2020/apr/13/smart-lifts-lonely-workers-no-towers-architecture-after-covid-19-coronavirus). As with the current pandemic, there were also a number of efforts to reduce overcrowding.
 
 ### A “COVID-Proof” City?
@@ -31,4 +33,4 @@ in uncertain times, it’s easy to see the attraction of creating flexible desig
 
 A great example of this is the winner of the Seoul City Architectural Ideas Competition. This large public plaza called [“The Invisible Facemask”](https://www.archdaily.com/949088/seoul-city-architectural-ideas-competition-preparing-for-the-post-covid-19-era?utm_medium=email&utm_source=ArchDaily%20List&kth=1,925,684), consists of small, individual spaces surrounded by vegetation which can be transformed into larger plazas.
 
-Discover the latest trends in Architecture with our dynamic [Architecture Walking Tours](https://www.insiderlondon.com/london/educational-tours/modern-architecture-tour/), or take a broader look at city builders and London's most interesting areas with an [Insider London Regeneration Walking Tour](https://www.insiderlondon.com/london/educational-tours/kings-cross-regeneration/).
+*Discover the latest trends in Architecture with our dynamic [Architecture Walking Tours](https://www.insiderlondon.com/london/educational-tours/modern-architecture-tour/), or take a broader look at city builders and London's most interesting areas with an [Insider London Regeneration Walking Tour](https://www.insiderlondon.com/london/educational-tours/kings-cross-regeneration/).*
