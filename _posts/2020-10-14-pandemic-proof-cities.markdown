@@ -11,6 +11,7 @@ tags:
 ---
 
 ![6_WL-30691_Main_Image.jpg](/uploads/6_WL-30691_Main_Image.jpg)
+The "Invisible Face Mask", Seoul City Government
 
 The impact of public health concerns and disease on our built environment is not new. For one, the introduction in Europe of sewage systems prompted by cholera outbreaks, in the nineteenth century drove the roads above them [to become straighter and wider](https://www.theguardian.com/artanddesign/2020/apr/13/smart-lifts-lonely-workers-no-towers-architecture-after-covid-19-coronavirus). As with the current pandemic, there were also a number of efforts to reduce overcrowding.
 
