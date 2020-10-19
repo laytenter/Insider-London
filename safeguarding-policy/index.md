@@ -9,7 +9,7 @@ category: safeguarding
 layout: page
 ---
 
-At Insider London, our number one priority will always be the wellbeing of our guests and team members. For this reason, as we prepare to restart our offline educational programmes, we are implementing a new safeguarding strategy. This is regularly re-assessed in accordance with government guidelines.
+At Insider London, our number one priority will always be the wellbeing of our guests and team members. For this reason, we are implementing a new safeguarding strategy. This is regularly re-assessed in accordance with government guidelines.
 
 For all **walking tours**:
 
