@@ -13,7 +13,7 @@ At Insider London, our number one priority will always be the wellbeing of our g
 
 For all **walking tours**:
 
-* We will provide face masks for all our private groups. These will be individually wrapped to minimise contamination, as sourced from [Protect People](https://www.protectpeople.co.uk/) 
+* We will provide face masks for all our private groups. These will be individually wrapped to minimise contamination
 * We will maintain smaller group sizes, with 6 guests per guide. This will allow 2m social distancing with multiple guides assigned depending on group size
 * Our guides will wear face masks and use voice amplifiers throughout the tour
 * We have adjusted our tour routes as appropriate to ensure social distancing is feasible at all stops
