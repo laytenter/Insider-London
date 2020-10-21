@@ -42,9 +42,9 @@ The pre-recorded video tour is now also available for **individual viewers**! Yo
         style: {
           shape: 'rect',
           color: 'silver',
-          layout: 'horizontal',
+          layout: 'vertical',
           label: 'buynow',
-          tagline: true
+          
         },
 
         createOrder: function(data, actions) {
