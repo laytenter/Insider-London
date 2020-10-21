@@ -35,7 +35,7 @@ The pre-recorded video tour is now also available for **individual viewers**! Yo
         <div id="paypal-button-container"></div>
       </div>
     </div>
-  <script src="https://www.paypal.com/sdk/js?client-id=AW86somBLloWvVuGA-xmyCiTa-Hv5G9GoOMsP4tw_ojmEcNdRtaJP3EsWpMLXhBfKL-JZoyRfeslbk7z&currency=GBP" data-sdk-integration-source="button-factory"></script>
+  <script src="https://www.paypal.com/sdk/js?client-id=AfMBv6sR_vUrXQ7s7VvjhhR5SpnK5uV1mqFDzAxGh6tC_Hd2MHujg7c3bGzlc6FmNItHj9s10KNwXeEX&currency=GBP" data-sdk-integration-source="button-factory"></script>
   <script>
     function initPayPalButton() {
       paypal.Buttons({
