@@ -12,7 +12,7 @@ tags:
 
 ![pexels-thisisengineering-3861969.jpg](/uploads/pexels-thisisengineering-3861969.jpg)
 
-Now is a fascinating time for AI in the business landscape. Most sectors have adopted AI to various degrees and there is widespread acceptance that AI will irreversibly alter work in much of the business world. 
+Now is a fascinating time for AI in the business landscape. Most sectors have adopted AI technology to some degree and there is widespread acceptance that AI will irreversibly alter work in much of the business world. 
 
 According to UK analysts, the financial services sector has been [one of the quickest](https://www.ft.com/content/e082b01d-fbd6-4ea5-a0d2-05bc5ad7176c) nationally to take up the tech with approximately two third of finance firms already using or beginning to implement AI in order to gain customer insight, streamline IT and detect fraud. Experts are quick to point out that AI does not represent a magic bullet, that suitably transforms every possible scenario. However, from [language learning apps](https://www.forbes.com/sites/bernardmarr/2020/10/16/the-amazing-ways-duolingo-is-using-artificial-intelligence-to-deliver-free-language-learning/amp/) to [healthtech](https://www.insiderlondon.com/blog/healthtech-and-the-covid-19-recovery/), AI-driven systems and features have become a part of daily life.
 
