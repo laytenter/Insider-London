@@ -28,7 +28,7 @@ Explore the City of London as a global financial centre. From the towering skysc
 
 For **group booking** get in touch now via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to book your Virtual City of London Finance Tour package.
 
-The pre-recorded video tour is now also available for **individual viewers**! Your viewing link and password will arrive directly in your email inbox. Click below to purchase 3-days viewing access!
+For **individual guests**, the pre-recorded video tour is now also available! Your viewing link and password will arrive directly in your email inbox. Click below to purchase 3-days viewing access!
 
 <div id="smart-button-container">
       <div style="text-align: center;">
