@@ -12,6 +12,8 @@ tags:
 - economics
 ---
 
+![esg.jpg](/uploads/esg.jpg)
+
 ### The Definition
 Standing for Environmental, Social and Corporate Governance, the term ESG was born from a landmark IFC Conference and Report [“Who Cares Wins” in 2005](https://www.forbes.com/sites/georgkell/2018/07/11/the-remarkable-rise-of-esg/#1a626f9e1695) . The report argued that were more sustainable for society and for the planet were likely to also be more financially sustainable. A new theory of responsible investing was born.
 
