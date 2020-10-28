@@ -34,9 +34,9 @@ However the difficulty may now lie in the precise definition and assessment of a
 Mr Nesis, the Head of the biggest London-listed gold producer, [has recently called](https://www.ft.com/content/e5518f78-0371-4946-b4a6-17addf7143ae) for common reporting standards in the mining sector – similar to the International Financial Reporting Standards which allow for international comparisons between different regions. Bloomberg has also reported that there is still much disagreement in terms of what constitutes an ESG stock and how this can be assessed. To rectify this, Bloomberg LP is in the process of developing [their own scoring system](https://www.bloomberg.com/news/articles/2020-10-25/record-flows-pour-into-esg-funds-as-their-wokeness-is-debated).
 
 
-*Discover the origins and developments of London as a global finance centre with an Insider London Finance Tour, available both [face-to-face](https://www.insiderlondon.com/london/educational-tours/london-finance-walking-tour/) and [online](https://www.insiderlondon.com/online-education/virtual-tours/).
+*Discover the origins and developments of London as a global finance centre with an Insider London Finance Tour, available both [face-to-face](https://www.insiderlondon.com/london/educational-tours/london-finance-walking-tour/) and [online](https://www.insiderlondon.com/online-education/virtual-tours/).*
 
-Why not go deeper with an [Insider London company visit](https://www.insiderlondon.com/london/company-visits/)? Insider London is proud to partner with a cutting-edge thematic hedge fund focusing on ESG.*
+*Why not go deeper with an [Insider London company visit](https://www.insiderlondon.com/london/company-visits/)? Insider London is proud to partner with a cutting-edge thematic hedge fund focusing on ESG.*
 
 
 
