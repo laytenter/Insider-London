@@ -15,12 +15,12 @@ tags:
 ![esg.jpg](/uploads/esg.jpg)
 
 ### The Definition
-Standing for Environmental, Social and Corporate Governance, the term ESG was born from a landmark IFC Conference and Report [“Who Cares Wins” in 2005](https://www.forbes.com/sites/georgkell/2018/07/11/the-remarkable-rise-of-esg/#1a626f9e1695) . The report argued that were more sustainable for society and for the planet were likely to also be more financially sustainable. A new theory of responsible investing was born.
+Standing for Environmental, Social and Corporate Governance, the term ESG was born from a landmark IFC Conference and Report [“Who Cares Wins” in 2005](https://www.forbes.com/sites/georgkell/2018/07/11/the-remarkable-rise-of-esg/#1a626f9e1695) . The report argued that companies that are more sustainable for society and for the planet are also more likely to be more financially sustainable. A new theory of responsible investing was born.
 
 ### “ESG is just good business sense”
 [-Sophie Lund-Yates, Equity Analyst at Hargreaves Lansdown, 14.10.2020](https://www.hl.co.uk/news/articles/why-were-all-esg-investors-now) 
 
-So what does ESG mean in practice? According according to [a new app rolled out by PriceWaterhouseCooper](https://www.cfodive.com/news/pwc-releases-esg-reporting-app/587661/) aims to create investment-grade reporting data with criteria including greenhouse gas emissions, employee diversity and inclusion, employee health and safety as well as data security . 
+So what does ESG mean in practice? According according to [a new app rolled out by PriceWaterhouseCooper](https://www.cfodive.com/news/pwc-releases-esg-reporting-app/587661/) which aims to create investment-grade reporting data - criteria includes greenhouse gas emissions, employee diversity and inclusion, employee health and safety as well as data security . 
 
 ESG Investors apply this kind of criteria in different ways whilst all sharing the logic that companies prioritising ESG may provide greater return on investment. Some investors, such as thematic hedge funds, may create a specific portfolio around one aspect of ESG while other more loose investors advocate a [“Best-in-class approach”](https://www.hl.co.uk/news/articles/why-were-all-esg-investors-now). With this approach, ESG is one of many factors which plays a role in deciding which companies to invest in.
 
