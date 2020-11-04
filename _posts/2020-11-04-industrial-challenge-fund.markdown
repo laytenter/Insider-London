@@ -1,6 +1,14 @@
 ---
 title: 'Spotlight: Industrial  Strategy Challenge Fund'
 date: 2020-11-04 09:19:00 Z
+categories:
+- Business
+tags:
+- business
+- innovation
+- new technology
+- government strategy
+- public-private partnership
 ---
 
 In 2018 an exciting competitive call to academia and industry was announced by the UK government. [The Industry Strategy Challenge Fund](https://www.ukri.org/innovation/industrial-strategy-challenge-fund/) is for innovators in the UK who are researching, designing, and engineering the solutions to the big challenges of the future. This fund consists of around £2.6 billion of public money, matched with £3 billion from the private sector. 
@@ -47,3 +55,5 @@ In this final category, there are six challenges:
 -	Self-driving vehicles
 One of the most interesting winners in this category is Healthtech star [Apian](https://www.gov.uk/government/news/space-company-takes-to-the-skies-alongside-the-nhs) – part of the NHS Clinical Entrepreneur programme. This start-up is focused on creating secure air corridors for electric drones to carry COVID-19 samples, test kits and PPE thereby minimising physical contact, freeing up staff and streamlining transportation. The drones will use satellite-enabled GPS.
 
+
+*Stay ahead of the curve with the latest industry trends and meet the innovators driving the future of business. With our [Company Visits](https://www.insiderlondon.com/london/company-visits/), we are proud to partner with exciting winners from the Industrial Strategy Challenge Fund, alongside cutting-edge firms from a wide range of sectors.*
