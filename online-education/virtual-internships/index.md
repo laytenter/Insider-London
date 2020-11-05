@@ -1,79 +1,52 @@
 ---
-title: Insider London Virtual Internships
-description: In today's globalised marketplace, how can your students stand out?
-heading: Virtual Internships
+title: Company Projects
+description: Work directly with company CEOs on a real-world business challenge! Book
+  your students on a Company Project.
+heading: Company Projects
 nav: online
 layout: programme
 ---
 
+Work directly with **company CEOs** on a real-world business challenge!
+
+Online Company Projects link future talent with business leaders for exciting, project-based learning. Students work in teams, developing the practical knowledge and critical skills required for future careers. Supported throughout by weekly videocalls with senior company management, students receive live feedback on their project. 
+
+
 ![selective-focus-photo-of-man-using-laptop-1438081-e465fc.jpg](/uploads/selective-focus-photo-of-man-using-laptop-1438081-e465fc.jpg)
 
+We work with educators and business leaders to create the most engaging project for each group. Get in touch now via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to find out more.
 
-### **In today’s globalised marketplace, how can your students stand out?**
-
-
-Insider London remote internships link students to the most innovative companies and can be completed anywhere in the world. Students **train directly with senior management** in competitive sectors and throughout the online placement receive **personalised feedback** on their business intelligence, analytical capabilities and presentation skills. Participants also receive essential skills training, including CV writing and interview skills to empower them to pursue exciting careers in **international companies**.
-
-The outcomes are **bespoke** to the learning requirements of your students and provide genuine insight into the daily workings of the host company. Blending practical industry work with career insight, online internships are the perfect edition to **applications for further education or future careers**.  Upon completion, all students receive a **certificate from the host company**.
-
-**Read on to find out more about our Hedge Fund Virtual Internship, Innovation Internship with Intelak and our Global Marketing Internship**
+Insider London has partnered with a range of companies in different sectors – find out more about the Marketing Company Project(link), the Finance Company Project (link) & the Entrepreneurship Company Project (link).
 
 
-
-
-### Hedge Fund Virtual Internship 
-**3 weeks full-time/5 weeks part-time**
-
-* Receive **personalised feedback** on five tasks from senior management of a hedge fund
+### Company Project with a Global Marketing Agency for Luxury Brands
+Students on this project:
+* Use the existing company business model to develop a detailed strategy for launching the company in a new destination, undertaking in-depth market analysis worldwide.
 
 * Participate in live conference **calls with the CEO/Chief Investment Officer**
 
-* Understand **hedge funds,** the ESG market and the concept of a portfolio theme
+* Develop a greater awareness of cultural differences and their implications in international business
 
-* Understand the dynamics of stock prices and **investment strategy**
+* Hone their financial awareness including forecasting and costing
 
-* **Develop and track their own portfolio** with guidance from the hedge fund
+* Work in teams, present and pitch with live feedback from the agency CEO
 
-* Create and present a business plan and **receive live feedback** from senior management
-
-* Receive a **signed certificate** from the hedge fund upon completion of the online internship
-
+### Company Project with an Innovative Hedge Fund
+Student groups on this project:
+* Develop and track their own portfolio with guidance from the hedge fund
+* Understand the dynamics of stock prices and investment strategy
+* Participate in weekly live videocalls with the CEO
+* Deepen their understanding of hedge funds, the ESG market and the concept of a portfolio theme
+* Work in teams and present, with live feedback from the hedge fund CEO
 
 ![adult-blur-boss-business-288477-156dd5.jpg](/uploads/adult-blur-boss-business-288477-156dd5.jpg)
 
-
-
-### Innovation & Entrepreneurship Virtual Internship with Intelak 
-**3 weeks full-time/5 weeks part-time**
-
-* Work directly with **Intelak** - the start-up by the **Emirates Group** and **Dubai Tourism** that supports the most promising startups launch, grow and scale
-
-* Participate in live calls and workshops with **Intelak management**, the mentoring team and its start-ups ecosystem
-
-* Identify what it takes to build a start-up in the aviation, travel and tourism sectors
-
-* Explore the technology, innovation and **start-up landscape in Dubai**
-
+### Company Project with Intelak – Start-Up Accelerator
+Student groups on this project:
+* Work directly with Intelak - the accelerator driven by the Emirates Group, Dubai Tourism, Accenture and Microsoft 
+* Identify what it takes to build a start-up in the aviation, travel and tourism sectors and what investors are looking for in a successful start-up
 * Have the opportunity to submit the start-up idea to cohort 8 of Intelak. If selected, the project will receive $13,000 to build their solution with Intelak and its partners
+* Participate in weekly videocalls with the Intelak Manager
+* Work in teams and pitch their idea, receiving live feedback from the Intelak manager
 
-* Receive a **signed certificate** from Intelak upon completion of the online internship.
-
-
- 
-
-### Marketing & Business Virtual Internship 
-**3 weeks full-time/5 weeks part-time**
-
-* Work directly with **senior management** of a data-driven **global marketing agency** working with some of the biggest names in food, hospitality and banking
-
-* Participate in **live conference calls with the CEO**
-
-* Understand the role of technology and data in modern marketing
-
-* Complete real market research, identifying potential clients and competitors.
-
-* Develop a sales deck and **receive live feedback** from senior management
-
-* Receive a **signed certificate** from the CEO upon completion of the online internship
-
-*Get in touch with your group requirements now via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) and find out how a virtual internship can fast-track your students to success.*
+Get in contact now via [contact@insiderlondon.com](mailto@contact@insiderlondon.com) to discuss the perfect Company Project for your group. 
