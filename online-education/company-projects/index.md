@@ -23,30 +23,39 @@ Insider London has partnered with a range of companies in different sectors – 
 Students on this project:
 * Use the existing company business model to develop a detailed strategy for launching the company in a new destination, undertaking in-depth market analysis worldwide.
 
-* Participate in live conference **calls with the CEO/Chief Investment Officer**
+* Participate in live conference **calls with the CEO**
 
 * Develop a greater awareness of cultural differences and their implications in international business
 
-* Hone their financial awareness including forecasting and costing
+* Hone their **financial awareness** including forecasting and costing
 
 * Work in teams, present and pitch with live feedback from the agency CEO
 
 ### Company Project with an Innovative Hedge Fund
 Student groups on this project:
-* Develop and track their own portfolio with guidance from the hedge fund
+
+* Develop and **track their own portfolio** with guidance from the hedge fund
+
 * Understand the dynamics of stock prices and investment strategy
+
 * Participate in weekly live videocalls with the CEO
-* Deepen their understanding of hedge funds, the ESG market and the concept of a portfolio theme
+
+* Deepen their **understanding of hedge funds**, the ESG market and the concept of a portfolio theme
+
 * Work in teams and present, with live feedback from the hedge fund CEO
 
 ![adult-blur-boss-business-288477-156dd5.jpg](/uploads/adult-blur-boss-business-288477-156dd5.jpg)
 
 ### Company Project with Intelak – Start-Up Accelerator
 Student groups on this project:
-* Work directly with Intelak - the accelerator driven by the Emirates Group, Dubai Tourism, Accenture and Microsoft 
+* Work directly with Intelak - the accelerator driven by the **Emirates Group, Dubai Tourism, Accenture and Microsoft** 
+
 * Identify what it takes to build a start-up in the aviation, travel and tourism sectors and what investors are looking for in a successful start-up
-* Have the opportunity to submit the start-up idea to cohort 8 of Intelak. If selected, the project will receive $13,000 to build their solution with Intelak and its partners
+
+* Have the opportunity to submit the start-up idea to cohort 8 of Intelak. **If selected, the project will receive $13,000 to build their solution with Intelak and its partners**
+
 * Participate in weekly videocalls with the Intelak Manager
+
 * Work in teams and pitch their idea, receiving live feedback from the Intelak manager
 
 Get in contact now via [contact@insiderlondon.com](mailto@contact@insiderlondon.com) to discuss the perfect Company Project for your group. 
