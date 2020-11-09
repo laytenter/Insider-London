@@ -9,7 +9,7 @@ layout: programme
 
 Work directly with **company CEOs** on a real-world business challenge!
 
-Online Company Projects link future talent with business leaders for exciting, project-based learning. Students work in teams, developing the practical knowledge and critical skills required for future careers. Supported throughout by weekly videocalls with senior company management, students receive live feedback on their project. 
+Online Company Projects link future talent with business leaders for exciting, project-based learning. Students work in teams, developing the practical knowledge and critical skills required for future careers. Supported throughout by **weekly videocall**s with senior company management, students receive **live feedback** on their project. 
 
 
 ![selective-focus-photo-of-man-using-laptop-1438081-e465fc.jpg](/uploads/selective-focus-photo-of-man-using-laptop-1438081-e465fc.jpg)
