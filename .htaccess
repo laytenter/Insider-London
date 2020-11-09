@@ -31,6 +31,7 @@
   RewriteRule ^tours/east-end-retail-design-tour/ /london/educational-tours/retail-design/ [END,R=301]
   RewriteRule ^tours/brixton-retail-design-tour/ /london/educational-tours/retail-design/ [END,R=301]
   RewriteRule ^virtual-internships/ /online-education/virtual-internships/ [END,R=301]
+  RewriteRule ^online-education/virtual-internships/ /online-education/company-projects/ [END,R=301]
 
   #Added 6th April 2020
   RewriteRule ^london/educational-tours/sustainable-london-artchitecture-tour/ /london/educational-tours/sustainable-london-architecture-tour/ [END,R=301]
