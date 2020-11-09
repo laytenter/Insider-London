@@ -12,11 +12,11 @@ Work directly with **company CEOs** on a real-world business challenge!
 Online Company Projects link future talent with business leaders for exciting, project-based learning. Students work in teams, developing the practical knowledge and critical skills required for future careers. Supported throughout by **weekly videocall**s with senior company management, students receive **live feedback** on their project. 
 
 
-![selective-focus-photo-of-man-using-laptop-1438081-e465fc.jpg](/uploads/selective-focus-photo-of-man-using-laptop-1438081-e465fc.jpg)
+![1st picture.jpg](/uploads/1st%20picture.jpg)
 
 We work with educators and business leaders to create the most engaging project for each group. Get in touch now via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to find out more.
 
-Insider London has partnered with a range of companies in different sectors – find out more about the [Marketing Company Project](#company-project-with-a-global-marketing-agency-for-luxury-brands) the [Finance Company Project](#company-project-with-an-innovative-hedge-fund) & the [Entrepreneurship Company Project](#company-project-with-intelak--start-up-accelerator).
+Insider London has partnered with a range of companies in different sectors – find out more about the Marketing Company Project(link), the Finance Company Project (link) & the Entrepreneurship Company Project (link).
 
 
 ### Company Project with a Global Marketing Agency for Luxury Brands
@@ -44,7 +44,7 @@ Student groups on this project:
 
 * Work in teams and present, with live feedback from the hedge fund CEO
 
-![adult-blur-boss-business-288477-156dd5.jpg](/uploads/adult-blur-boss-business-288477-156dd5.jpg)
+![2nd web content.jpg](/uploads/2nd%20web%20content.jpg)
 
 ### Company Project with Intelak – Start-Up Accelerator
 Student groups on this project:
