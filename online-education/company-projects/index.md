@@ -18,6 +18,9 @@ We work with educators and business leaders to create the most engaging project 
 
 Insider London has partnered with a range of companies in different sectors – find out more about the [Marketing Company Project](#company-project-with-a-global-marketing-agency-for-luxury-brands) the [Finance Company Project](#company-project-with-an-innovative-hedge-fund) & the [Entrepreneurship Company Project](#company-project-with-intelak--start-up-accelerator).
 
+*Get in contact now via [contact@insiderlondon.com](mailto@contact@insiderlondon.com) to discuss the perfect Company Project for your group. *
+
+
 ### Company Project with a Global Marketing Agency for Luxury Brands
 Students on this project:
 * Use the existing company business model to develop a detailed strategy for launching the company in a new destination, undertaking in-depth market analysis worldwide.
@@ -43,6 +46,8 @@ Student groups on this project:
 
 * Work in teams and present, with live feedback from the hedge fund CEO
 
+*Get in contact now via [contact@insiderlondon.com](mailto@contact@insiderlondon.com) to discuss the perfect Company Project for your group. *
+
 ![2nd web content.jpg](/uploads/2nd%20web%20content.jpg)
 
 ### Company Project with Intelak – Start-Up Accelerator
@@ -57,4 +62,4 @@ Student groups on this project:
 
 * Work in teams and pitch their idea, receiving live feedback from the Intelak manager
 
-Get in contact now via [contact@insiderlondon.com](mailto@contact@insiderlondon.com) to discuss the perfect Company Project for your group. 
+*Get in contact now via [contact@insiderlondon.com](mailto@contact@insiderlondon.com) to discuss the perfect Company Project for your group. *
