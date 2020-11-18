@@ -33,7 +33,7 @@ Moreover, with an ever-growing upper and middle class population, the thriving c
 ![sao-paulo-1194935_1280.jpg](/uploads/sao-paulo-1194935_1280.jpg)
 ### São Paolo, Brazil
 
-Whilst size isn’t everything, São Paolo is the largest city [in the Southern Hemisphere] (https://www.britannica.com/place/Sao-Paulo-Brazil) with one of the fastest growing populations in the world and with a GDP larger than many nation states. Its economy is diversified from communications to commerce. 
+Whilst size isn’t everything, São Paolo is the largest city [in the Southern Hemisphere](https://www.britannica.com/place/Sao-Paulo-Brazil) with one of the fastest growing populations in the world and with a GDP larger than many nation states. Its economy is diversified from communications to commerce. 
 Many of the world’s banks have their Latin American headquarters in São Paulo, alongside corporations like Netflix – who run their entire Latin American operation out of their São Paulo Office. 63% of international companies that do business in Brazil are based in the São Paulo 
 
 In terms of start-ups and innovation, the city boasts over [60% of Brazil’s start-up investment](https://www.forbes.com/sites/angelicamarideoliveira/2019/03/29/sao-paulo-the-brazilian-innovation-ecosystem-is-ready-for-business/?sh=3bbdabfd10f9) as well as home-grown unicorns such as [Nubank](https://www.forbes.com/sites/angelicamarideoliveira/2018/09/29/nubank-driving-financial-services-competition-in-brazil/?sh=1d98e9b81174) and Quinto [Andar](https://www.forbes.com/sites/angelicamarideoliveira/2019/01/10/quinto-andar-the-brazilian-startup-changing-the-rentals-market-plans-further-disruption/?sh=5818e25d5fa2). The city is also widely praised for its diversity and multiculturalism. 
