@@ -14,7 +14,9 @@ description: Fast-fashion is a well-established concept. Taking just one aspect 
   rack today?
 ---
 
-It’s not just the pandemic that’s setting this year’s “Black Friday” apart from the previous days. This year IKEA announced [#BuyBackFriday](https://www.ingka.com/news/ikea-launches-alternative-black-friday-campaign-a-deal-for-the-climate/), where the group offers to buy back customers old IKEA furniture, in-step with their pledge for all products to be made from recycled or renewable materials by 2030. 
+![pexels-ksenia-chernaya-3965543.jpg](/uploads/pexels-ksenia-chernaya-3965543.jpg)
+
+It’s not just the pandemic that’s setting this year’s “Black Friday” apart from its predecessors. This year IKEA announced [#BuyBackFriday](https://www.ingka.com/news/ikea-launches-alternative-black-friday-campaign-a-deal-for-the-climate/), where the group offers to buy back customers old IKEA furniture, in-step with their pledge for all products to be made from recycled or renewable materials by 2030. 
 
 Does this represent a turning point for retail?
 
@@ -25,6 +27,8 @@ Taking just one aspect of the problem – unsustainable materials – what creat
 Well, as the days grow colder its winter wardrobe season and many are reaching for the puff coat. However, these wearable duvets are generally made of virgin petroleum-based polyester. The typical down coat therefore isn’t exactly an eco-staple. The “down” also refers to the duck and goose feathers which make up the insulation. With many scandals over “live plucking” and force feeding practises with [suppliers for high-street brands](https://www.theguardian.com/world/2016/jan/14/winter-coat-ethically-produced-down-goose-feathers) , many retailers have now decided to move onto new materials. 
 
 Arket and Patagonia have pledged to use only recycled down. Arket’s supplier, Re:Down upcycles old down naturally in hot thermal water – no chemicals required – with leftover waste used to make an organic fertiliser (https://www.re-down.com/). Other sustainable options include the [Thermoball Eco](https://www.standard.co.uk/fashion/eco-puffers-sustainable-jackets-a4279336.html) by North Face made from 100% recycled polyester – consumer plastic diverted from landfill . 
+
+![pexels-kevin-menajang-1206258.jpg](/uploads/pexels-kevin-menajang-1206258.jpg)
 
 Another animal product with growing competition from natural materials is leather. As recently [reported by Forbes](https://www.forbes.com/sites/lelalondon/2020/11/16/this-fungus-is-fast-becoming-luxury-fashions-favorite-material/?sh=164d66c078a9), “the byproducts emit greenhouse gases, consume finite natural resources (particularly through the rearing of livestock), and pollute the environment through tanning and dying processes.” Its no surprise therefore that brands are exploring alternatives.
 
