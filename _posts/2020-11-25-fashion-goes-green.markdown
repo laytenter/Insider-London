@@ -16,10 +16,8 @@ description: Fast-fashion is a well-established concept. Taking just one aspect 
 
 ![pexels-ksenia-chernaya-3965543.jpg](/uploads/pexels-ksenia-chernaya-3965543.jpg)
 
-It’s not just the pandemic that’s setting this year’s “Black Friday” apart from its predecessors. This year IKEA announced [#BuyBackFriday](https://www.ingka.com/news/ikea-launches-alternative-black-friday-campaign-a-deal-for-the-climate/), where the group offers to buy back customers old IKEA furniture, in-step with their pledge for all products to be made from recycled or renewable materials by 2030. 
+It’s not just the pandemic that’s setting this year’s “Black Friday” apart from its predecessors. This year IKEA announced [#BuyBackFriday](https://www.ingka.com/news/ikea-launches-alternative-black-friday-campaign-a-deal-for-the-climate/), where the group offers to buy back customers old IKEA furniture, in-step with their pledge for all products to be made from recycled or renewable materials by 2030. Does this represent a turning point for retail?
 
-**Does this represent a turning point for retail?
-**
 In terms of consumer good, the unsustainable practices of the fashion industry have been thrust into the spotlight, above all others. [“Fast fashion”](https://www.insiderlondon.com/blog/is-fast-fashion-here-to-stay/) is a multi-faceted problem which requires a combination of creative solutions. From the fibres used to our throwaway culture, the term “Fast fashion” highlights issues throughout the entire supply chain and life cycle of our garments. 
 
 Taking just one aspect of the problem – unsustainable materials – **what creative solutions are hitting the rack?**
