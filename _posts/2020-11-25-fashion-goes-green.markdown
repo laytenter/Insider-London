@@ -26,7 +26,7 @@ Taking just one aspect of the problem – unsustainable materials – what creat
 
 Well, as the days grow colder its winter wardrobe season and many are reaching for the puff coat. However, these wearable duvets are generally made of virgin petroleum-based polyester. The typical down coat therefore isn’t exactly an eco-staple. The “down” also refers to the duck and goose feathers which make up the insulation. With many scandals over “live plucking” and force feeding practises with [suppliers for high-street brands](https://www.theguardian.com/world/2016/jan/14/winter-coat-ethically-produced-down-goose-feathers) , many retailers have now decided to move onto new materials. 
 
-Arket and Patagonia have pledged to use only recycled down. Arket’s supplier, Re:Down upcycles old down naturally in hot thermal water – no chemicals required – with leftover waste used to make an organic fertiliser (https://www.re-down.com/). Other sustainable options include the [Thermoball Eco](https://www.standard.co.uk/fashion/eco-puffers-sustainable-jackets-a4279336.html) by North Face made from 100% recycled polyester – consumer plastic diverted from landfill . 
+Arket and Patagonia have pledged to use only recycled down. Arket’s supplier, [Re:Down](https://www.re-down.com/) upcycles old down naturally in hot thermal water – no chemicals required – with leftover waste used to make an organic fertiliser. Other sustainable options include the [Thermoball Eco](https://www.standard.co.uk/fashion/eco-puffers-sustainable-jackets-a4279336.html) by North Face made from 100% recycled polyester – consumer plastic diverted from landfill . 
 
 ![pexels-kevin-menajang-1206258.jpg](/uploads/pexels-kevin-menajang-1206258.jpg)
 
