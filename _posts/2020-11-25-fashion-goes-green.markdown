@@ -18,11 +18,11 @@ description: Fast-fashion is a well-established concept. Taking just one aspect 
 
 It’s not just the pandemic that’s setting this year’s “Black Friday” apart from its predecessors. This year IKEA announced [#BuyBackFriday](https://www.ingka.com/news/ikea-launches-alternative-black-friday-campaign-a-deal-for-the-climate/), where the group offers to buy back customers old IKEA furniture, in-step with their pledge for all products to be made from recycled or renewable materials by 2030. 
 
-Does this represent a turning point for retail?
-
+**Does this represent a turning point for retail?
+**
 In terms of consumer good, the unsustainable practices of the fashion industry have been thrust into the spotlight, above all others. [“Fast fashion”](https://www.insiderlondon.com/blog/is-fast-fashion-here-to-stay/) is a multi-faceted problem which requires a combination of creative solutions. From the fibres used to our throwaway culture, the term “Fast fashion” highlights issues throughout the entire supply chain and life cycle of our garments. 
 
-Taking just one aspect of the problem – unsustainable materials – what creative solutions are hitting the rack today?
+Taking just one aspect of the problem – unsustainable materials – **what creative solutions are hitting the rack?**
 
 Well, as the days grow colder its winter wardrobe season and many are reaching for the puff coat. However, these wearable duvets are generally made of virgin petroleum-based polyester. The typical down coat therefore isn’t exactly an eco-staple. The “down” also refers to the duck and goose feathers which make up the insulation. With many scandals over “live plucking” and force feeding practises with [suppliers for high-street brands](https://www.theguardian.com/world/2016/jan/14/winter-coat-ethically-produced-down-goose-feathers) , many retailers have now decided to move onto new materials. 
 
