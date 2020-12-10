@@ -20,10 +20,15 @@ Insider London has partnered with a range of companies in different sectors – 
 ### Company Project with an AI Software Provider
 
 Students on this project:
-* Apply high-level technical knowledge to a real-world client brief
+
+* Apply high-level technical knowledge to a **real-world client brief**
+
 * Participate in live conference **calls with the CEO**
+
 * Propose an effective AI-solution that can be practically engineered and financially profitable 
-* Complete technical due diligence in a real-world timeframe
+
+* Complete **technical due diligence** in a real-world timeframe
+
 * Work in teams and pitch their proposed technical solution for feedback from the CEO
 
 *Get in contact now via [contact@insiderlondon.com](mailto@contact@insiderlondon.com) to discuss the perfect Company Project for your group.*
