@@ -17,7 +17,7 @@ Insider London has partnered with a range of companies in different sectors – 
 
 ![1st picture.jpg](/uploads/1st%20picture.jpg)
 
-###Company Project with an AI Software Provider
+### Company Project with an AI Software Provider
 
 Students on this project:
 * Apply high-level technical knowledge to a real-world client brief
@@ -25,21 +25,6 @@ Students on this project:
 * Propose an effective AI-solution that can be practically engineered and financially profitable 
 * Complete technical due diligence in a real-world timeframe
 * Work in teams and pitch their proposed technical solution for feedback from the CEO
-
-*Get in contact now via [contact@insiderlondon.com](mailto@contact@insiderlondon.com) to discuss the perfect Company Project for your group.*
-
-
-### Company Project with a Global Marketing Agency for Luxury Brands
-Students on this project:
-* Use the existing company business model to develop a detailed strategy for launching the company in a new destination, undertaking in-depth market analysis worldwide.
-
-* Participate in live conference **calls with the CEO**
-
-* Develop a greater awareness of cultural differences and their implications in international business
-
-* Hone their **financial awareness** including forecasting and costing
-
-* Work in teams, present and pitch with live feedback from the agency CEO
 
 *Get in contact now via [contact@insiderlondon.com](mailto@contact@insiderlondon.com) to discuss the perfect Company Project for your group.*
 
@@ -60,6 +45,20 @@ Student groups on this project:
 *Get in contact now via [contact@insiderlondon.com](mailto@contact@insiderlondon.com) to discuss the perfect Company Project for your group.*
 
 ![2nd web content.jpg](/uploads/2nd%20web%20content.jpg)
+
+### Company Project with a Global Marketing Agency for Luxury Brands
+Students on this project:
+* Use the existing company business model to develop a detailed strategy for launching the company in a new destination, undertaking in-depth market analysis worldwide.
+
+* Participate in live conference **calls with the CEO**
+
+* Develop a greater awareness of cultural differences and their implications in international business
+
+* Hone their **financial awareness** including forecasting and costing
+
+* Work in teams, present and pitch with live feedback from the agency CEO
+
+*Get in contact now via [contact@insiderlondon.com](mailto@contact@insiderlondon.com) to discuss the perfect Company Project for your group.*
 
 ### Company Project with Intelak – Start-Up Accelerator
 Student groups on this project:
