@@ -13,9 +13,19 @@ Online Company Projects link future talent with business leaders for exciting, p
 
 We work with educators and business leaders to create the most engaging project for each group. Get in touch now via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to find out more.
 
-Insider London has partnered with a range of companies in different sectors – find out more about the [Marketing Company Project](#company-project-with-a-global-marketing-agency-for-luxury-brands) the [Finance Company Project](#company-project-with-an-innovative-hedge-fund) & the [Entrepreneurship Company Project](#company-project-with-intelak--start-up-accelerator).
+Insider London has partnered with a range of companies in different sectors – find out more about more about Company Projects in [AI](#company-project-with-an-ai-software-provider), [Finance]((#company-project-with-an-innovative-hedge-fund), [Marketing](#company-project-with-a-global-marketing-agency-for-luxury-brands) & Entrepreneurship(#company-project-with-intelak--start-up-accelerator).
 
 ![1st picture.jpg](/uploads/1st%20picture.jpg)
+
+###Company Project with an AI Software Provider
+Students on this project:
+* Apply high-level technical knowledge to a real-world client brief
+* Participate in live conference **calls with the CEO**
+* Propose an effective AI-solution that can be practically engineered and financially profitable 
+* Complete technical due diligence in a real-world timeframe
+* Work in teams and pitch their proposed technical solution for feedback from the CEO
+
+*Get in contact now via [contact@insiderlondon.com](mailto@contact@insiderlondon.com) to discuss the perfect Company Project for your group.*
 
 
 ### Company Project with a Global Marketing Agency for Luxury Brands
