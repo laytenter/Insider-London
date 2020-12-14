@@ -25,7 +25,7 @@ Students on this project:
 
 * Participate in live conference **calls with the CEO**
 
-* Propose an effective AI-solution that can be practically engineered and financially profitable 
+* Propose an effective AI-solution that can be practically engineered and is financially profitable 
 
 * Complete **technical due diligence** in a real-world timeframe
 
