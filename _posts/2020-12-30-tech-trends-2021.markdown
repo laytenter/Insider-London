@@ -10,6 +10,8 @@ tags:
 - post-pandemic
 ---
 
+![pexels-pixabay-221185.jpg](/uploads/pexels-pixabay-221185.jpg)
+
 It’s evident that the pandemic has accelerated digitalisation. So as the world looks to re-build post Covid-19, which tech trends will come out on top?
 
 This week we take a look at some of the top tech trends for 2021.
@@ -30,7 +32,7 @@ After a 2020 boom for the video game industry, analysts are asking the question:
 E-sports are projected to grow 400% in the next seven years to [$4.28 billion by 2027]( https://www.cnbc.com/2020/12/19/why-forward-thinkers-invest-in-esports.html). Digital natives aged 18-25 watch 34% more esports than traditional sports. 
 
 ### 4.	Cybersecurity
-And finally 2020 has seen one high profile hack after another. Whether its [Al-Jazeera journalists] (https://www.bbc.co.uk/news/technology-5539684), American cybersecurity firm [FireEye](https://www.nytimes.com/2020/12/08/technology/fireeye-hacked-russians.html), or your [local council](https://www.silicon.co.uk/projects/public-sector/hackney-council-hack-significant-disruption-349101), the headlines just keep coming. The banking and finance sector are among those [most concerned](https://securityboulevard.com/2020/12/banking-industry-faces-surge-in-cyber-security-challenges/), but across the board then reported cyber security incidences rose [by more than 50% in early 2020](https://www.investorschronicle.co.uk/shares/2020/11/24/cyber-attacks-on-finance-sector-soar-during-covid-crisis/) with some suggesting that the “new normal” of working from home is a contributing factor to the surge.
+And finally 2020 has seen one high profile hack after another. Whether its [Al-Jazeera journalists](https://www.bbc.co.uk/news/technology-5539684), American cybersecurity firm [FireEye](https://www.nytimes.com/2020/12/08/technology/fireeye-hacked-russians.html), or your [local council](https://www.silicon.co.uk/projects/public-sector/hackney-council-hack-significant-disruption-349101), the headlines just keep coming. The banking and finance sector are among those [most concerned](https://securityboulevard.com/2020/12/banking-industry-faces-surge-in-cyber-security-challenges/), but across the board then reported cyber security incidences rose [by more than 50% in early 2020](https://www.investorschronicle.co.uk/shares/2020/11/24/cyber-attacks-on-finance-sector-soar-during-covid-crisis/) with some suggesting that the “new normal” of working from home is a contributing factor to the surge.
 
 In crisis, there is opportunity, so it will be interesting to see which start-ups or big names step up to provide the solutions needed. 
 
