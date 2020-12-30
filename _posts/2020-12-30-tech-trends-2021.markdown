@@ -1,0 +1,37 @@
+---
+title: Top Tech Trends for 2021
+date: 2020-12-30 09:28:00 Z
+categories:
+- Business
+tags:
+- tech
+- tech trends
+- business trends
+- post-pandemic
+---
+
+It’s evident that the pandemic has accelerated digitalisation. So as the world looks to re-build post Covid-19, which tech trends will come out on top?
+
+This week we take a look at some of the top tech trends for 2021.
+
+### 1.	Internet of Behaviours
+So we’ve all heard of IoT, but what is IoB? Going beyond IoT where data is shared across devices, Internet of Behaviours brings together data from the virtual and the physical world in order to influence behaviour. The term has been gaining particular traction since Gartner included it in their strategic predictions for 2020, and again in [their predictions for 2021](https://www.gartner.com/smarterwithgartner/gartner-top-strategic-technology-trends-for-2021/). 
+
+The illustrative example given by Gartner is the use of telematics to monitor driving behaviour like sudden braking or aggressive turns for commercial vehicles; “Companies can then use that data to improve driver performance, routing and safety.” Predictably IoB has highly controversial implications with regards to data collection and its usage, so we’ll just have to see what 2021 has in store.
+
+### 2.	Digital Health
+Even before the pandemic, Healthtech was the [second biggest subsector of the UK’s tech industry](https://www.insiderlondon.com/blog/healthtech-and-the-covid-19-recovery/), though in 2020 it arguably came into its own with amazing contributions from telemedicine to wearables (another top tech trend in its own right!)
+
+As the pandemic subsides its unlikely interest in the sector will wane. The World Health Organization recently published the [“Global Strategy on Digital Health”](https://www.who.int/docs/default-source/documents/gs4dhdaa2a9f352b0445bafbc79ca799dce4d.pdf) which states “The vision of the global strategy is to improve health for everyone, everywhere by accelerating the development and adoption of appropriate, affordable, scalable, and sustainable digital health solutions.”  In order to realise these goals, the report discusses robotics, ML, AI, big data, smart devices and more.
+
+### 3.	 Esports
+After a 2020 boom for the video game industry, analysts are asking the question: Can video game companies convert casual gamers (referring to lockdown indulgers) into long-term customers? . Alongisde this, [Deloitte reports](https://www2.deloitte.com/us/en/insights/industry/technology/video-game-industry-trends.html) an increase in e-sport viewing, putting it down to the disruption traditional sports have faced this year. 
+
+E-sports are projected to grow 400% in the next seven years to [$4.28 billion by 2027]( https://www.cnbc.com/2020/12/19/why-forward-thinkers-invest-in-esports.html). Digital natives aged 18-25 watch 34% more esports than traditional sports. 
+
+### 4.	Cybersecurity
+And finally 2020 has seen one high profile hack after another. Whether its [Al-Jazeera journalists] (https://www.bbc.co.uk/news/technology-5539684), American cybersecurity firm [FireEye](https://www.nytimes.com/2020/12/08/technology/fireeye-hacked-russians.html), or your [local council](https://www.silicon.co.uk/projects/public-sector/hackney-council-hack-significant-disruption-349101), the headlines just keep coming. The banking and finance sector are among those [most concerned](https://securityboulevard.com/2020/12/banking-industry-faces-surge-in-cyber-security-challenges/), but across the board then reported cyber security incidences rose [by more than 50% in early 2020](https://www.investorschronicle.co.uk/shares/2020/11/24/cyber-attacks-on-finance-sector-soar-during-covid-crisis/) with some suggesting that the “new normal” of working from home is a contributing factor to the surge.
+
+In crisis, there is opportunity, so it will be interesting to see which start-ups or big names step up to provide the solutions needed. 
+
+*Are you interested in the latest tech trends making waves in the business world? Check out our innovative [Company Visits](https://www.insiderlondon.com/london/company-visits/), now available [online](https://www.insiderlondon.com/online-education/online-company-visits/)!*
