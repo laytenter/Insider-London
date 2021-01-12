@@ -27,5 +27,4 @@ The third and final speaker was Tarun Krishna, Managing Partner and Co-founder o
 
 We would like to warmly extend our thanks to Intelak and their wonderful entrepreneurs as well as to all participating students who made the morning thought-provoking and inspiring. We hope to see you all in Dubai in 2021.
 
-*Why not involve the pioneers of Intelak in your business education programme with an [online company visit](https://www.insiderlondon.com/online-education/online-company-visits/) or [4-week company project](https://www.insiderlondon.com/online-education/company-projects/)? Insider London is also excited to offer an exclusive full-day programme with Intelak in [Dubai](https://www.insiderlondon.com/asia/dubai/). Get in touch now via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to find out more.
-*
+*Why not involve the pioneers of Intelak in your business education programme with an [online company visit](https://www.insiderlondon.com/online-education/online-company-visits/) or [4-week company project](https://www.insiderlondon.com/online-education/company-projects/)? Insider London is also excited to offer an exclusive full-day programme with Intelak in [Dubai](https://www.insiderlondon.com/asia/dubai/). Get in touch now via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to find out more.*
