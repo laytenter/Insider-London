@@ -12,8 +12,7 @@ tags:
 - intelak
 ---
 
-[1610210566727.jfif](/uploads/1610210566727.jfif)
-
+![intelak group.jpg](/uploads/intelak%20group.jpg)
 Last Friday we were proud to host an insightful online session led by [Intelak](https://intelak.com/) for a global MBA programme. With students attending from all over the world, the event consisted of three fantastic speakers and a lively Q&A. 
 
 Intelak is a ground-breaking partnership between Emirates, Dubai Tourism, Microsoft and Accenture which shines a light on the most innovative start-up solutions and creates synergies in the sector between start-ups and corporates. Supporting Dubai’s position as a leader in aviation, travel and tourism, the start-up hub nurtures and scales the most exciting new companies across three bespoke programmes.
