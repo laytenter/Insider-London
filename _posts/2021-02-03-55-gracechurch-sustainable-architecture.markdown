@@ -14,7 +14,7 @@ tags:
 ![Screenshot-2021-01-26-at-18.22.48-1200x828.jpg](/uploads/Screenshot-2021-01-26-at-18.22.48-1200x828.jpg)
 
 ### “We remain positive about the long-term future of the City office despite the current lockdown. It is fantastic, therefore, to see this significant vote of confidence from the developers of 55 Gracechurch Street." 
-- Chair of the Planning and Transportation Committee at the City of London Corporation, [Alastair Moss](https://www.cityam.com/new-tall-building-at-55-gracechurch-street-approved-as-developers-embrace-post-pandemic-office-trends/) 
+-Chair of the Planning and Transportation Committee at the City of London Corporation, [Alastair Moss](https://www.cityam.com/new-tall-building-at-55-gracechurch-street-approved-as-developers-embrace-post-pandemic-office-trends/) 
 
 Despite widespread concern over the future of [office spaces in London](https://www.insiderlondon.com/blog/the-future-of-londons-business-districts/), a brand new tall building has just been approved in the Eastern cluster. The 30-storey office block scheme by the Tenacity Group is the first approved building of 2021.
 
@@ -28,7 +28,7 @@ Urban greening is also a key feature of the development with extensive green wal
 The development supports sustainable transportation by widening pavements, reinstated lost pedestrian routes as well as creating new ones. There will also be more than 500 cycle parking spaces
 
 ### “Today marks a significant milestone for us and underlines our commitment to the City of London and the future of truly sustainable office buildings in the City…. We believe the future is bright for the right kind of space – space that 55 Gracechurch Street will provide – that embraces sustainability and provides flexibility" 
-- [Patrick Wong](https://www.constructionenquirer.com/2021/01/26/green-light-for-city-of-london-office-tower/), Founder and CEO of the Tenacy Group. 
+-[Patrick Wong](https://www.constructionenquirer.com/2021/01/26/green-light-for-city-of-london-office-tower/), Founder and CEO of the Tenacy Group. 
 
 
 *Discover sustainable architecture from your living room with [Insider London's Virtual Sustainable London Tour](https://www.insiderlondon.com/online-education/virtual-tours/#virtual-london-sustainability-tour). This dynamic video tour explores ethical business, urban greening and much more!*
