@@ -11,6 +11,8 @@ tags:
 - city of london
 ---
 
+![Screenshot-2021-01-26-at-18.22.48-1200x828.jpg](/uploads/Screenshot-2021-01-26-at-18.22.48-1200x828.jpg)
+
 ### “We remain positive about the long-term future of the City office despite the current lockdown. It is fantastic, therefore, to see this significant vote of confidence from the developers of 55 Gracechurch Street." - Chair of the Planning and Transportation Committee at the City of London Corporation, [Alastair Moss] (https://www.cityam.com/new-tall-building-at-55-gracechurch-street-approved-as-developers-embrace-post-pandemic-office-trends/) 
 
 Despite widespread concern over the future of -[office spaces in London](https://www.insiderlondon.com/blog/the-future-of-londons-business-districts/), a brand new tall building has just been approved in the Eastern cluster. The 30-storey office block scheme by the Tenacity Group is the first approved building of 2021.
