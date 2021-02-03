@@ -16,7 +16,7 @@ tags:
 ### “We remain positive about the long-term future of the City office despite the current lockdown. It is fantastic, therefore, to see this significant vote of confidence from the developers of 55 Gracechurch Street." 
 - Chair of the Planning and Transportation Committee at the City of London Corporation, [Alastair Moss](https://www.cityam.com/new-tall-building-at-55-gracechurch-street-approved-as-developers-embrace-post-pandemic-office-trends/) 
 
-Despite widespread concern over the future of -[office spaces in London](https://www.insiderlondon.com/blog/the-future-of-londons-business-districts/), a brand new tall building has just been approved in the Eastern cluster. The 30-storey office block scheme by the Tenacity Group is the first approved building of 2021.
+Despite widespread concern over the future of [office spaces in London](https://www.insiderlondon.com/blog/the-future-of-londons-business-districts/), a brand new tall building has just been approved in the Eastern cluster. The 30-storey office block scheme by the Tenacity Group is the first approved building of 2021.
 
 Alongside the ongoing faith in demand for office blocks, the most impressive aspect of the building is its sustainable credentials. In fact, 55 Gracechurch Street is set to be the first tall building in the Eastern cluster to receive an “Outstanding” in the BREEAM (British Research Establishment Environmental Assessment Method). This will put 55 Gracechurch Street in exceptional company – alongside the world-renowned [Bloomberg HQ](https://www.insiderlondon.com/blog/bloomberg-london/). 
 
