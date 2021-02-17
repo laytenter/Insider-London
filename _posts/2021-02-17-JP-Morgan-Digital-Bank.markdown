@@ -21,6 +21,6 @@ In 2018, Goldman Sachs became the first major US lender to enter UK retail banki
 JP Morgan has been preparing in secret for 2 years, with the work codenamed “Project Dynamo”. Chase is expected to launch later this year and is currently undergoing testing. The contact center will be in Edinburgh but the HQ will be located in Canary Wharf where JP Morgan has [hired 400 staff members](https://www.theguardian.com/business/2021/jan/27/jp-morgan-to-launch-digital-bank-in-uk). 
 This latest development is sure to delight the Canary Wharf Group following [recent troubles during the pandemic](https://www.insiderlondon.com/blog/the-future-of-londons-business-districts/) as well as an ongoing concern over Brexit. JP Morgan shifted hundreds of UK investment bankers to EU offices but [still employs approximately 19,000 people in Britain.](https://www.ft.com/content/90d9be53-d8d2-478b-8740-4ce0a3f23b05 )
 
-*[Discover the past, present and future of London's financial sector with our City Finance Tour now available online.](https://www.insiderlondon.com/london/educational-tours/london-finance-walking-tour/)
+*[Discover the past, present and future of London's financial sector with our City Finance Tour now available online.](https://www.insiderlondon.com/london/educational-tours/london-finance-walking-tour/)*
 
-[From fintechs to hedge funds, go deeper with an In-Depth Company Visit - now available online.](https://www.insiderlondon.com/london/company-visits/)*
+*[From fintechs to hedge funds, go deeper with an In-Depth Company Visit - now available online.](https://www.insiderlondon.com/london/company-visits/)*
