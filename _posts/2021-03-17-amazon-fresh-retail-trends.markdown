@@ -9,11 +9,11 @@ tags:
 - post-pandemic
 ---
 
-![_117375051_hot.jpg](/uploads/_117375051_hot.jpg)
+![_117375051_hot-c60283.jpg](/uploads/_117375051_hot-c60283.jpg)
 
 Retail strategies during the pandemic have been an unsurprisingly red-hot topic. 
 
-Brands have adapted their product lines to lockdown lifestyles. To take fashion brands as an example, loungewear skyrocketed with Anthropologie reporting a 27% sales rise [in the third quarter of 2020](https://www.drapersonline.com/insight/analysis/how-to-stand-out-in-the-staying-in-loungewear-market) and videoconferencing provoked a surge in office-wear with a [waist-up design focus] (https://www.bbc.com/news/technology-54327987).
+Brands have adapted their product lines to lockdown lifestyles. To take fashion brands as an example, loungewear skyrocketed with Anthropologie reporting a 27% sales rise [in the third quarter of 2020](https://www.drapersonline.com/insight/analysis/how-to-stand-out-in-the-staying-in-loungewear-market) and videoconferencing provoked a surge in office-wear with a [waist-up design focus](https://www.bbc.com/news/technology-54327987).
 
 Everyday brand names are disappearing as e-commerce giants snap them up. Asos, who purchased Topshop for £295M, have [re-launched the business online](https://www.retailgazette.co.uk/blog/2021/02/asos-relaunches-topshop-online-after-295m-rescue/). Similarly, Boohoo has bought the Debenhams brand and website for £55M but will not be taking over its brick-and-mortar units.
 
@@ -29,3 +29,5 @@ In terms of produce, the store is [like any other supermarket](https://www.indep
 There have been mixed reviews over Amazon’s new “contactless” store. Without the need to queue at tills the experience is streamlined however concerns have been raised about surveillance and privacy. Cameras around the store monitor shoppers at all times alongside the [“in-depth sensor technology”](https://www.independent.co.uk/news/uk/home-news/amazon-fresh-supermarket-ealing-london-b1812423.html). 
 
 The branch is located in Ealing, in West London but [rumour has it](https://www.gazette-news.co.uk/news/19144818.amazon-fresh-plan-open-stores-across-uk/) that Amazon are planning 20 more UK stores and that deals are in place for 25 sites.
+
+*Discover the latest post-pandemic trends in tech and business with an Insider London Company Visit - [available online](https://www.insiderlondon.com/online-education/online-company-visits/) and soon to be available [in-person](https://www.insiderlondon.com/london/company-visits/)*
