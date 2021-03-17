@@ -9,7 +9,7 @@ tags:
 - post-pandemic
 ---
 
-![_117375051_hot-c60283.jpg](/uploads/_117375051_hot-c60283.jpg)
+![210305_Maya_London_stores_F3_placement_strip_DT.jpg](/uploads/210305_Maya_London_stores_F3_placement_strip_DT.jpg)
 
 Retail strategies during the pandemic have been an unsurprisingly red-hot topic. 
 
