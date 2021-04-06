@@ -92,7 +92,7 @@ For **individual guests**, the pre-recorded video tour is now also available! Yo
 
 Discover London’s very own “Tech City” with this Silicon Roundabout Tour. The tech industry is now the largest employment sector in the UK so come and explore the development and latest trends of this vibrant business eco-system.
 
-In this video tour, discover:
+**In this 45-minute video tour, discover**:
 * The history of the area and the Flat White Economy
 * Entrepreneurship trends and co-working
 * The biggest subsectors of the UK tech industry
