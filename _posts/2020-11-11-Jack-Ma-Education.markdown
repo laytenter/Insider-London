@@ -27,7 +27,9 @@ Instead, Ma argues, we should be teaching young people to be more innovative, mo
 Students need a good IQ, EQ and also LQ – what he refers to as the quotient of love. He says as well as an EQ to enable good understanding of others, he says that an LQ is essential for others to respect you. In a more whimsical turn, [he states](https://www.weforum.org/agenda/2020/01/jack-ma-alibaba-education-reform#:~:text=Jack%20Ma%2C%20the%20founder%20of,fast%2C%20but%20education%20is%20not.): “the brain will be replaced by machines but machines can never replace your heart”.
 
 
-<iframe src="https://player.vimeo.com/video/538067319" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/536441437" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+
 
 
 <iframe src="https://player.vimeo.com/video/538287493" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
