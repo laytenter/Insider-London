@@ -54,13 +54,13 @@ With start-up success stories of all kind, between 2012 and 2014, Silicon Rounda
 
 * See one of the UK's first **bitcoin** ATMs
 
-* How and why the area provides the ultimate conditions for start-ups to thrive
+* Why the area attracts entrepreneurs from all over the world 
 
 * Key **differences between Silicon Roundabout and Silicon Valley**
 
 * Why some of the world's move powerful companies such as **Barclays**, **Google** and **Amazon** are moving into "the sweet spot"
 
-* Debate whether the Silicon Roundabout can maintain it's global, growing prestige  
+* The hottest business trends from blockchain to co-working
 
 This is an exterior walking tour of one of London’s most forward-thinking districts. For an in-depth understanding of London’s tech scene, pair this educational guided tour with a [company visit](/london/company-visits) to a pioneering tech start-up.
 
