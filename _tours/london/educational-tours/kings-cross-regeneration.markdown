@@ -74,7 +74,7 @@ In 2012 all eyes were on London and the Queen Elizabeth Park. This was a phenome
 
 **Finishing Point**: Here East, five minutes from Stratford Station on the free shuttle bus
 
-**On this tour you will discover**
+**On this tour you will discover:**
 
 * Why one of the **biggest shopping malls** in Europe came to this downtrodden area
 * The elegant silhouette of the world’s greatest public swimming baths
