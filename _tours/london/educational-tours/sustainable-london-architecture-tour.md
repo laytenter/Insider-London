@@ -38,7 +38,7 @@ related:
 - 29332
 ---
 
-With growing awareness of the global climate crisis then it’s time to re-imagine the modern way of life and twenty-first century infrastructure. With a booming population and more than two-thousand years of history, London has a unique set of difficulties to face when transitioning into a sustainable future.
+With growing awareness of climate change then policymakers and businesses alike are re-imagining London life. With a booming population and more than two-thousand years of history, London has a unique set of difficulties to face when transitioning into a sustainable future.
 
 We showcase a wide variety of approaches that demonstrate London is always up for a challenge. Find out more on our **[Sustainable London](#sustainable-london-tour)** or **[Sustainable Architecture](#sustainable-architecture)** Walking Tours.
 
@@ -78,9 +78,9 @@ Are you a student of ethical business, environmental science or human geography?
 {% include slideshow.html %}
 {% endif %}
 
-As architects step up to one of the greatest challenges in history, we look at the buildings **pioneering** our transition to a greener future. Buildings use an estimated 40% of our **global energy** needs so come and examine the sustainable features of some of London’s **most iconic skyscrapers**.
+As architects step up to one of the greatest challenges in history, we look at the buildings **pioneering** our transition to a green future. Buildings use an estimated 40% of our **global energy** needs so come and examine the sustainable features of some of London’s **most iconic skyscrapers**.
 
-From energy and water savings to carbon-free commuting and renewable materials, all aspects of both the construction and operation of buildings must now be taken into consideration. This is an exciting time for engineers and architects who consider brand new solutions and combine the latest in **innovative design and exciting new technology**.  
+From energy and water savings to carbon-free commuting and renewable materials, both the construction and operations of buildings are examined. This is an exciting time for engineers and architects who consider brand new solutions and combine the latest in **innovative design and exciting new technology**.  
 
 With many factors at play, the challenges faced by architects in London are unique. The City of London hosts some of London’s most recognisable and impressive skyscrapers, but also upholds some of the world’s tightest planning regulations. How are the leading "starchitects" of our times balancing these challenges?
 
