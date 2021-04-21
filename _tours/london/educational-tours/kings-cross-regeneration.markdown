@@ -54,7 +54,7 @@ Kings Cross never fails to impress and has quickly become one of London’s most
 
 **On this regeneration tour you will discover**
 * The importance of the transport infrastructure, including High Speed 1, which goes far beyond the Harry Potter filmset
-* The significance of the **British Library** & the prestigious **Francis Crick **Institute to the project
+* The significance of the **British Library** & the prestigious **Francis Crick Institute** to the project
 * The restoration of Victorian grandeur and impressive retrofitting of **industrial architecture**
 * The strategies used to create inviting public spaces
 * How the area has attracted **major players like Google** to set up their HQ
