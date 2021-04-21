@@ -19,10 +19,12 @@ gallery1:
 - image: "/assets/images/tours/Kings Cross/Picture-2---Meeting-Place-option-1.jpg"
   alt: Public Art Projects in the Kings Cross Regeneration from a tour
 gallery2:
-- image: "/assets/images/tours/Olympic Park/Picture-1---Here-East-Technology-Innovation-Olympic-Park-Regeneration-Walking-Tour-Student-Corporate.jpg"
-  alt: Re-purposed community sports facilities in the Olympic Park
-- image: "/assets/images/tours/Olympic Park/Picture-2---Stadium-Olympic-Park-Regeneration-Walking-Tour-Student-Corporate.jpg"
-  alt: Here East Tech Cluster on the Olympic Park Regeneration Tour
+- image: "/uploads/tom-wheatley-sqVnnuKD-Zw-unsplash.jpg"
+  alt: Olympic Park Regenerated Public Space
+- image: "/uploads/olympia-4587056_1920.jpg"
+  alt: Iconic Olympic Park Rings
+- image: "/uploads/sky-2833028_1280.jpg"
+  alt: 'Olympic Park Velodrome '
 thumb: thumb kings cross.jpg
 banner: Kings Cross Tour Image.jpg
 hidden: true
@@ -40,18 +42,18 @@ In addition to our [Canary Wharf Tour](/london/educational-tours/london-finance-
 {% include slideshow.html %}
 {% endif %}
 
-This is the intriguing and compelling journey of an area transformed. We journey through the area’s lifecycle from its notorious past right up to the present and future.
+We journey through the area’s lifecycle from its notorious past to its transformation into a destination station and high end district.
 
 The symbiosis of this **transport super hub** with world-renowned institutes has produced a prestigious **knowledge quarter** and a thriving knowledge-based business eco-system. Huge investment into the public realm alongside careful treatment of heritage has created a stylish hub of retail and hospitality. With fantastic **sustainability credentials**, the area is still evolving.
 
-Kings Cross never fails to impress and has quickly become one of London’s most fashionable postcodes for work, live and play which never fails to impress.
+Kings Cross never fails to impress and has quickly become one of London’s most fashionable postcodes for work, live and play.
 
 **Meeting Point**: By the bronze Henry Moore sculpture, in front of Kings Cross Station
 
 **Finishing Point**: Near King’s Cross Station, this is a loop tour
 
 **On this regeneration tour you will discover**
-* The importance of the transport infrastructure, including High Speed 1, which goes far beyond a Harry Potter filmset
+* The importance of the transport infrastructure, including High Speed 1, which goes far beyond the Harry Potter filmset
 * The significance of the **British Library** & the prestigious **Francis Crick **Institute to the project
 * The restoration of Victorian grandeur and impressive retrofitting of **industrial architecture**
 * The strategies used to create inviting public spaces
@@ -66,13 +68,13 @@ Kings Cross never fails to impress and has quickly become one of London’s most
 {% include slideshow.html %}
 {% endif %}
 
-In 2012 all eyes were on London and the Queen Elizabeth Park. This was a phenomenally successful event but after the last medal had been awarded, what became of the area? We tour the **lasting legacy** of the Olympic Park Regeneration Project. Over two hours, journey through the complete story of this now thriving district from the decision to choose East London to the area’s continuing transformation. We stroll past the **iconic architecture** of this enormous endeavour and recount the fascinating story of the Olympic Park.
+In 2012 all eyes were on London and the Queen Elizabeth Park. This was a phenomenally successful event but after the last medal had been awarded, what became of the area? We tour the **lasting legacy** of the Olympic Park Regeneration Project. Over two hours, journey through the complete story of this now thriving district from the decision to choose East London to the area’s continuing transformation. Stroll past the **iconic architecture** and explore the fascinating story of the Olympic Park.
 
 **Meeting Point**: At the Westfield exit of Stratford Tube Station
 
 **Finishing Point**: Here East, five minutes from Stratford Station on the free shuttle bus
 
-**On this urban planning tour you will discover**
+**On this tour you will discover**
 
 * Why one of the biggest shopping malls in Europe came to this downtrodden area
 * The elegant silhouette of the world’s greatest public swimming baths
