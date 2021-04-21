@@ -58,7 +58,7 @@ With start-up success stories of all kind, between 2012 and 2014, Silicon Rounda
 
 * Key **differences between Silicon Roundabout and Silicon Valley**
 
-* Why some of the world's move powerful companies such as **Barclays**, **Google** and **Amazon** are moving into "the sweet spot"
+* The moves made by powerful companies such as **Barclays**, **Google** and **Amazon** who occupy  "the sweet spot"
 
 * The hottest business trends from blockchain to co-working
 
