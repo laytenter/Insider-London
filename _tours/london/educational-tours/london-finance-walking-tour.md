@@ -53,7 +53,6 @@ Our expert guide will show you how the City of London developed into a global fi
 - **The myriad of Livery Companies and Freemen** that occupy the City, hear about their role and purpose, past and present.
 - **How the Bank of England pioneered the modern banking system** and why it’s worth its weight in gold and its role in the **global financial crisis**
 - **How the UK’s Insurance sector grew and who is big enough to insure the insurance companies**
-- **Why a one meter long gold grasshopper sits above Lombard Street** and other cryptic London City signs
 
 {% include findoutmore.html title="City Finance Tour" %}
 
