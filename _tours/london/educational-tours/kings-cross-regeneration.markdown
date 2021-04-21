@@ -76,11 +76,10 @@ In 2012 all eyes were on London and the Queen Elizabeth Park. This was a phenome
 
 **On this tour you will discover**
 
-* Why one of the biggest shopping malls in Europe came to this downtrodden area
+* Why one of the **biggest shopping malls** in Europe came to this downtrodden area
 * The elegant silhouette of the world’s greatest public swimming baths
-* The conflicts and tensions with a certain Premier League football club
-* The transformation of the Olympic Village to the newest postcode in London
-* The outstanding velodrome and it’s terrifyingly steep tracks
-* One of the UK’s most important technology clusters
+* The **conflicts and tensions** with a certain Premier League football club
+* The transformation of the Olympic Village to the **newest postcode in London**
+* One of the UK’s most important **technology clusters**
 
 {% include findoutmore.html title="Olympic Park Tour" %}
