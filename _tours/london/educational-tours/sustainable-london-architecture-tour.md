@@ -92,10 +92,10 @@ We examine at some of the capital’s most distinctive towers which boast green 
 
 **On this green tour you will discover:**
 * A wide variety of approaches to sustainability
-* The key principles behind sustainable building certification
+* The key principles behind **sustainable building certification**
 * A new side to some of London’s best-loved buildings
-* The only building in the world to have integrated wind turbines
-* The conflict between heritage preservation and the drive for progress
-* The world’s most sustainable office building
+* The only building in the world to have **integrated wind turbines**
+* The conflict between **heritage preservation** and the drive for progress
+* The world’s most **innovative and sustainable office** building
 
 {% include findoutmore.html title="Sustainable Architecture Tour" %}
