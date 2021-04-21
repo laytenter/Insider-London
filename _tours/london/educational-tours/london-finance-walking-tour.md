@@ -77,7 +77,7 @@ Finishing Point: Near Canary Wharf Station (this is a loop tour)
 
 **On this canary wharf tour you will discover:**
 
-* The stories of the many **global banks* that call Canary Wharf home
+* The stories of the many **global banks** that call Canary Wharf home
 * How Canary Wharf compares to the City of London
 * How an industrial area moved into the **post-industrial world**
 * How the latest **fintech developments** are making waves in traditional finance
