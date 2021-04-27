@@ -56,7 +56,7 @@ For real business insight out of the office or classroom then look no further th
 
 Our company visits for students and corporate groups showcase some of the world’s most powerful companies as well as the capital’s most innovative entrepreneurs, including:
 
-- **Revolut** – the leading light of the disruptive fintech scene and one of the sector’s fastest growing companies.  Revolut now boasts more than 3 million users
+- **Curve** – the fintech name on everybody's lips that boasts a partnership with Fitbit and the latest cutting-edge features  
 - **Metro Bank** – the first new UK high street bank in more than 150 years who started after the 2008 financial crisis. Come and discover their community-oriented business model
 - **Level39** - one of the world's biggest fintech hubs at non-other than 1 Canada Square. Here find the world pioneers in cybersecurity, fintech and retail tech
 - **London Stock Exchange Workshop** – with a market capitalization value of over $4 trillion, this is one of the oldest stock exchanges in the world. We offer bespoke training programmes at the LSE.
