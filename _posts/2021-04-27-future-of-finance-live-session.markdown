@@ -12,6 +12,8 @@ tags:
 - city of london
 ---
 
+![andy-77ad5c.png](/uploads/andy-77ad5c.png)
+
 This month, Insider London was proud to collaborate with a global MBA programme, bringing real business and future trend insight world with an exciting virtual conference. Alongside in-depth company visits with cutting-edge digital marketing agencies and fintechs, over 200 students joined us for a [Virtual City of London Finance Tour](https://www.insiderlondon.com/online-education/virtual-tours/#virtual-city-of-london-finance-tour).
 
 The Virtual Finance Tour offers individuals and groups the opportunity to experience the beautiful City of London and explore the area as a global financial centre. The experience consists of a dynamic video tour followed by a live Q&A with a passionate guide. The video tour traverses the square mile and includes the key financial institutions from the iconic skyscrapers of the insurance sector to the established historic institutions. The key themes of the tour include the London Stock Exchange, the Bank of England and other banking forms, the historic governance of the City of London and the origins of insurance sector.
