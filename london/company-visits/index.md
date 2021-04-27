@@ -63,7 +63,7 @@ Our company visits for students and corporate groups showcase some of the world�
 
 - **LEGO** – one of the world’s largest toy companies. Come and tour their London hub and find out about their exciting company culture
 - **Tribal Worldwid**e - The global technology-based marketing agency, part of the Omnicons Group who develop creative solutions forMcDonalds, Adidas and Volkswagen
-- **LOKE** – a super-app bringing together fascinating insight from marketing, fintech, big data and AI for clients like theDevelopment Bank of Singapore and Nando’s
+- **LOKE** – a super-app bringing together fascinating insight from marketing, fintech, big data and AI for clients like the Development Bank of Singapore and Nando’s
 - **Entocycle** – this cutting-edge biotechnology disruptor is developing the world’s most sustainable and efficient way to produce protein
 
 Insider London’s Company Visits are a unique opportunity for corporate groups and government officials looking for a rare behind-the-scenes experience, as well as for student groups looking to explore real-life thriving business models. Our visits provide an opportunity to make vital contacts and discover key challenges of the modern world in specific industries.
