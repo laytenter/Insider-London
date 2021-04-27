@@ -6,7 +6,7 @@ heading: Virtual Tours
 layout: programme
 ---
 
-Wherever you are in the world, experience dynamic London with a virtual educational tour. Our detailed and engaging packages go beyond the tourist sites and analyse the most essential dimensions of real, working London. We focus on specific industries and trends and provide the perfect virtual research trip for your team or student group.
+Wherever you are in the world, experience dynamic London with a virtual educational tour. Our detailed and engaging packages go beyond the tourist sites and analyse the most essential dimensions of real, working London. We focus on specific industries and trends to provide the perfect virtual research trip for your team or student group.
 
 Our unique virtual tour experiences combine an hour engaging video led by our passionate guides on the streets of London, with a 30-minute live Q&A session.
 
