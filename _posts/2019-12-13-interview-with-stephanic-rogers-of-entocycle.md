@@ -3,6 +3,7 @@ title: Spotlight on Entocycle - Future of Biotech
 date: 2019-12-13 09:13:00 Z
 categories:
 - Business
+- Sustainability
 excerpt_separator: "<!--more-->"
 ---
 
