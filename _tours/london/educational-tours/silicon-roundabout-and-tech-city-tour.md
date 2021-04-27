@@ -61,10 +61,12 @@ With start-up success stories of all kind, between 2012 and 2014, Silicon Rounda
 
 This is an exterior walking tour of one of London’s most forward-thinking districts. For an in-depth understanding of London’s tech scene, pair this educational guided tour with a [company visit](/london/company-visits) to a pioneering tech start-up.
 
+
+{% include findoutmore.html title="Silicon Roundabout/Tech City Tour" %}
+
+
 {% assign gallery = page.gallery %}
 {% if gallery.size > 1 %}
 {% include slideshow.html %}
 {% endif %}
 
-
-{% include findoutmore.html title="Silicon Roundabout/Tech City Tour" %}
