@@ -37,10 +37,7 @@ London is often voted the world’s best city to do business and we invite you t
 
 ## Silicon Roundabout/Tech City Walking Tour
 
-{% assign gallery = page.gallery %}
-{% if gallery.size > 1 %}
-{% include slideshow.html %}
-{% endif %}
+<iframe src="https://player.vimeo.com/video/541306417" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 Welcome to the epicentre of London's booming tech start-up industry!
 
@@ -63,5 +60,11 @@ With start-up success stories of all kind, between 2012 and 2014, Silicon Rounda
 * The hottest business trends from blockchain to co-working
 
 This is an exterior walking tour of one of London’s most forward-thinking districts. For an in-depth understanding of London’s tech scene, pair this educational guided tour with a [company visit](/london/company-visits) to a pioneering tech start-up.
+
+{% assign gallery = page.gallery %}
+{% if gallery.size > 1 %}
+{% include slideshow.html %}
+{% endif %}
+
 
 {% include findoutmore.html title="Silicon Roundabout/Tech City Tour" %}
