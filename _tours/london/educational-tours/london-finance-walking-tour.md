@@ -81,7 +81,7 @@ Finishing Point: Near Canary Wharf Station (this is a loop tour)
 * How Canary Wharf compares to the City of London
 * How an industrial area moved into the **post-industrial world**
 * How the latest **fintech developments** are making waves in traditional finance
-* **The impact of the financial crisis, Breixt and more**
+* **The impact of the financial crisis, Brexit and more**
 *  What the **future** holds for this critical piece of the UK economy
 
 {% include findoutmore.html title="Canary Wharf Tour" %}
