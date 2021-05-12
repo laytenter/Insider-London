@@ -25,4 +25,5 @@ Post Carbon Labs is not alone in recognising the amazing potential of cyanobacte
 ### "Through an engagement with biology I'm really excited about how we can think about organisms like microbes as the factories of the future," says Lee. "What most people know BioCouture for is a series of garments that were grown using bacteria. So the fibres, the material itself and the formation of the garment has been done by a microbe rather than a plant." – [Suzanne Lee, BioCouture](https://www.dezeen.com/2014/02/12/movie-biocouture-microbes-clothing-wearable-futures/) 
 
 *Interested in the amazing power of biotechnology to disrupt traditional business sectors?* 
+
 *Insider London is proud to partner with Entocycle for [Company Visits and Workshops](https://www.insiderlondon.com/london/company-visits/) as well as pioneering sustainable fashion brands. Get in touch via [contact@insiderlondon.com](contact@insiderlondon.com) to book your visit today.*
