@@ -1,6 +1,12 @@
 ---
 title: Global Tech Hubs - Berlin
 date: 2021-06-23 10:34:00 Z
+categories:
+- Business
+tags:
+- berlin
+- global tech hub
+- technology
 ---
 
 This is the second instalment of our Global Tech Hub series. Each instalment looks at one of the world’s most vibrant tech eco-systems. This week we take a look at trendy Berlin!
