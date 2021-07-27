@@ -11,6 +11,8 @@ tags:
 - corporate travel
 ---
 
+![oracle-1194372_1280.jpg](/uploads/oracle-1194372_1280.jpg)
+
 *This is the third instalment of our Global Tech Hub series. Each instalment looks at one of the world’s most vibrant tech eco-systems. This week we take a look at Silicon Valley - the world's greatest tech hub.*
 
 Located close to San Francisco around Stanford University, Silicon Valley is synonymous with big tech, big money and innovation – as well as perhaps conjuring a certain lifestyle image. 
@@ -32,4 +34,4 @@ The origins of the neighbourhood stretch back to the 1940s (when the transistor 
 14.	**Salesforce.com Inc** – now best known and arguably most successful from its investments in other tech companies.
 15.	**Uber** – the youngest company on this list, Uber was founded in 2009 and now serves 69 countries.
 
-*We invite you to Silicon Valley for a bespoke Executive Innovation & Discovery Programme with high-level visits to some of the world’s biggest tech companies including Google and Facebook. [Click here to find out more](https://www.insiderlondon.com/north-america/) or get in touch via contact@insiderlonndon.com. *
+*We invite you to Silicon Valley for a bespoke Executive Innovation & Discovery Programme with high-level visits to some of the world’s biggest tech companies including Google and Facebook. [Click here to find out more](https://www.insiderlondon.com/north-america/) or get in touch via [contact@insiderlonndon.com](mailto:contact@insiderlondon.com).*
