@@ -35,7 +35,7 @@ Another major difference in share valuation is that Wise has been a profitable c
  
 On the other hand, the food delivery market has never been profitable as a whole and it’s been very competitive for many years, even before coronavirus derailed its ambitions of the IPO. All three major food delivery firms: Deliveroo, JustEat and Uber Eats have been engaged in ‘race to bottom’ in slashing fees, which leaves their profit margins being very small. 
 
-**Future **
+**Future**
 
 Despite Deliveroo initial listing fiasco, it hasn't lowered the appetite for further floats of numerous tech unicorns based in the UK looking for investment. Deliveroo share price has recovered since then on the back of a victory in the fight for its riders to be recognised as self-employed and a strong second-quarter trading update and an investment from [Delivery Hero](https://www.thetimes.co.uk/article/german-rival-takes-a-bite-of-deliveroo-3lk3vmvpm).
 Wise [share price](https://www.londonstockexchange.com/stock/WISE/wise-plc/company-page) is still going strong and has more or less stabilised at around 900p, but challenges lay ahead. We’ll be watching those two and other London tech unicorns very closely.
