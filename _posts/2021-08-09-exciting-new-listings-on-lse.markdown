@@ -14,7 +14,7 @@ tags:
 - silicon roudabout
 ---
 
-![pexels-energepiccom-159888.jpg](/uploads/pexels-energepiccom-159888.jpg)
+![pexels-energepiccom-159888 (1).jpg](/uploads/pexels-energepiccom-159888%20(1).jpg)
 
 
 This has been an exciting year for maturing tech start-ups of London wanting to cash up or looking for further investment. In validation for the UK’s burgeoning fintech sector, which has produced multibillion-dollar unicorns like Revolut and Checkout.com and attracted [$4.1 billion](https://www.innovatefinance.com/news/the-uk-retains-its-crown-as-europes-capital-for-fintech-investment/) in venture capital investment last year, we have two contrasting cases to consider of share flotation this year on the London Stock Exchange: Wise and Deliveroo. 
