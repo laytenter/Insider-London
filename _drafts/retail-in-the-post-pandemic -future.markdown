@@ -1,6 +1,18 @@
 ---
 title: Retail in the Post Pandemic Future
 date: 2021-08-24 12:36:00 Z
+categories:
+- Marketing and Retail
+tags:
+- marketing
+- retail
+- retail trends
+- post-pandemic
+- London
+- digital transformation
+- new technology
+- digital marketing
+description: 'Accelerated changes in retail and marketing during and post pandemic. '
 ---
 
 ![AdobeStock_269096133.jpg](/uploads/AdobeStock_269096133.jpg)
@@ -21,4 +33,4 @@ The pandemic has also upended a marketer’s playbook.  [The EY Future Consumer 
 
 The pandemic has challenged the existing rules about customer relationships and building brands. One year in, there’s no turning back. 
 
-From digital payment platforms to cutting-edge marketing, book your group for a company visit to explore the latest trends with industry experts, now also available online! Find out more about retail post pandemic and the youthful brands taking the retail sector by storm with our [East End Retail Design Tour](https://www.insiderlondon.com/london/educational-tours/retail-design/#east-end-retail-design) and how established retailers face new challenges and adapt to them with our [West End Retail Design Tour](https://www.insiderlondon.com/london/educational-tours/retail-design/#west-end-retail-design).
+From digital payment platforms to cutting-edge marketing, book your group for a [company visit](https://www.insiderlondon.com/london/company-visits/) to explore the latest trends with industry experts, now also available [online](https://www.insiderlondon.com/online-education/online-company-visits/)! Find out more about retail post pandemic and the youthful brands taking the retail sector by storm with our [East End Retail Design Tour](https://www.insiderlondon.com/london/educational-tours/retail-design/#east-end-retail-design) and how established retailers face new challenges and adapt to them with our [West End Retail Design Tour](https://www.insiderlondon.com/london/educational-tours/retail-design/#west-end-retail-design).
