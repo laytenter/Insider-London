@@ -27,7 +27,7 @@ By prioritising people over vehicles, the changes also aim to improve air qualit
 
 ## Camden
 
-![image-asset.jpeg](/uploads/image-asset.jpeg)
+![camden_highline.jpg](/uploads/camden_highline.jpg)
 
 Apart from Oxford Street District, there are other great regeneration projects going ahead in London, including the [Camden Highline](https://www.camdenhighline.com/) - ‘garden in the sky’ walking route, eight metres above ground level, running east-west between Camden and King’s Cross along 1.2km of disused railway line in one of north London’s buzziest quarters The idea is that people will be able to get off the train at Camden Road and enter the Highline directly from the platform.
 Plans to use some of the railway arches along the route for shops and cafes have proven more complicated than envisaged, but are still being pursued.
