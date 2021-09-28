@@ -32,5 +32,5 @@ A programme of engagements, including [London Climate Action Week](https://www.l
 
 
 
-*Discover many fantastic sustainable initiatives, projects in architecture, public transport, business, infrastructure an urban greening which tackle climate change in London on our [Sustainable London Walking Tour](https://www.insiderlondon.com/london/educational-tours/sustainable-london-architecture-tour/#sustainable-london-tour). Get in touch via [contact@insiderlondon.com](https://www.insiderlondon.com/contact-us/) to book your visit today or call us on [+44 (0) 20 7183 1055](https://www.insiderlondon.com/contact-us/).*
+*Discover many fantastic sustainable initiatives and projects in architecture, public transport, business, infrastructure and urban greening which tackle climate change in London on our [Sustainable London Walking Tour](https://www.insiderlondon.com/london/educational-tours/sustainable-london-architecture-tour/#sustainable-london-tour). Get in touch via [contact@insiderlondon.com](https://www.insiderlondon.com/contact-us/) to book your visit today or call us on [+44 (0) 20 7183 1055](https://www.insiderlondon.com/contact-us/).*
 
