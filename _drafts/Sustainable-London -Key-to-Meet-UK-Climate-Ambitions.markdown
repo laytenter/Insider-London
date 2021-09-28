@@ -1,6 +1,12 @@
 ---
 title: Sustainable London - Key to Meet UK Climate Ambitions
 date: 2021-09-27 16:50:00 Z
+categories:
+- Sustainability
+tags:
+- sustainable london
+- COP26
+- green London
 ---
 
 ![AdobeStock_208650653.jpg](/uploads/AdobeStock_208650653.jpg) 
