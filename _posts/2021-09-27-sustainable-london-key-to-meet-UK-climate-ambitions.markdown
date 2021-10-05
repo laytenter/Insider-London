@@ -7,6 +7,7 @@ tags:
 - sustainable london
 - COP26
 - green London
+description: How sustainable cities are key to fighting climate change.
 ---
 
 ![AdobeStock_208650653.jpg](/uploads/AdobeStock_208650653.jpg) 
