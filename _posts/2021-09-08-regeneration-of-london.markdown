@@ -11,6 +11,8 @@ tags:
 - camden
 - Kings Cross Regeneration
 - London
+description: New regeneration projects that are going ahead in London including pedestrianisation
+  of Oxford Circus, and creating new walking garden bridge in Camden.
 ---
 
 ![Image002_210617_aerial75-1.jpg](/uploads/Image002_210617_aerial75-1.jpg)
