@@ -12,6 +12,8 @@ tags:
 - IPO
 - direct listings
 - silicon roudabout
+description: 'Two case studies for the London Stock Exchange listings in 2021 of Deliveroo
+  and Wise. '
 ---
 
 ![pexels-energepiccom-159888 (3).jpg](/uploads/pexels-energepiccom-159888%20(3).jpg)
