@@ -4,6 +4,7 @@ date: 2021-10-12 09:02:00 Z
 categories:
 - Finance
 - Sustainability
+- Business
 tags:
 - investment
 - start-up funding
