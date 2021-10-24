@@ -2,8 +2,6 @@
 title: Investing in Agritech
 date: 2021-10-12 09:02:00 Z
 categories:
-- tech
-- agritech
 - Finance
 - Sustainability
 tags:
@@ -11,6 +9,11 @@ tags:
 - start-up funding
 - entrepreneurship
 - crowdfunding
+- new technology
+- sustainable london
+- industry trends
+- agritech
+- finance
 description: "*agritech* as the next big start-up investment opportunity"
 ---
 
