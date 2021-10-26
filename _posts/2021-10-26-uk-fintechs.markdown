@@ -19,7 +19,7 @@ description: "Is UK Fintech Space Overcrowded?\n\nExamining a new entry of JPMor
   banking app to the UK and its impact on the banking and fintech industries. "
 ---
 
-![jonas-leupe-0IVop5v4MMU-unsplash (1).jpg](/uploads/jonas-leupe-0IVop5v4MMU-unsplash%20(1).jpg)
+![jonas-leupe-0IVop5v4MMU-unsplash.jpg](/uploads/jonas-leupe-0IVop5v4MMU-unsplash.jpg)
 
 The UK fintech space could be getting a bit more crowded with an ever growing number of challengers attempting to disrupt the UK banking and financial sectors. Most recently, US powerhouse JP Morgan entered the British High Street with its banking and financial services - Chase. It’s been the first international expansion of JP Morgan’s consumer bank brand in its 222-year history. There are no bank branches, just an app that customers will simply download. 
 
