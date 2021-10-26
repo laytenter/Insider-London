@@ -1,6 +1,18 @@
 ---
 title: Is UK Fintech Space Overcrowded?
 date: 2021-10-26 08:42:00 Z
+categories:
+- Finance
+- Business
+tags:
+- finance
+- fintech
+- future of banking
+- city of london
+- future of finance
+- JPMorgan
+description: 'Examining a new entry of JPMorgan''s Chase banking app to the UK and
+  its impact on the banking and fintech industries. '
 ---
 
 ![jonas-leupe-0IVop5v4MMU-unsplash (1).jpg](/uploads/jonas-leupe-0IVop5v4MMU-unsplash%20(1).jpg)
