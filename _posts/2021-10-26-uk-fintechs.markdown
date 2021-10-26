@@ -11,6 +11,9 @@ tags:
 - city of london
 - future of finance
 - JPMorgan
+- banking apps
+- mobile banking
+- start-ups
 description: 'Examining a new entry of JPMorgan''s Chase banking app to the UK and
   its impact on the banking and fintech industries. '
 ---
