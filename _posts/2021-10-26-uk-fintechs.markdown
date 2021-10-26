@@ -14,8 +14,9 @@ tags:
 - banking apps
 - mobile banking
 - start-ups
-description: 'Examining a new entry of JPMorgan''s Chase banking app to the UK and
-  its impact on the banking and fintech industries. '
+description: "Is UK Fintech Space Overcrowded?\n\nExamining a new entry of JPMorgan's
+  ![jonas-leupe-0IVop5v4MMU-unsplash (1).jpg](/uploads/jonas-leupe-0IVop5v4MMU-unsplash%20(1).jpg)\n\nChase
+  banking app to the UK and its impact on the banking and fintech industries. "
 ---
 
 ![jonas-leupe-0IVop5v4MMU-unsplash (1).jpg](/uploads/jonas-leupe-0IVop5v4MMU-unsplash%20(1).jpg)
