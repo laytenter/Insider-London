@@ -18,7 +18,7 @@ tags:
 description: "*agritech* as the next big start-up investment opportunity"
 ---
 
-![EmptyName 128.jpg](/uploads/EmptyName%20128.jpg)
+![AdobeStock_408371097.jpeg](/uploads/AdobeStock_408371097.jpeg)
 
 ### Agritech
 
