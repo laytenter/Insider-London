@@ -8,6 +8,8 @@ categories:
 tags:
 - sustainability
 - technology
+description: 'Innovation-driven businesses are in constant pursuit of new technologies
+  form sustainable materials to face recognition. '
 ---
 
 ![AdobeStock_419820551.jpeg](/uploads/AdobeStock_419820551.jpeg)
