@@ -1,6 +1,13 @@
 ---
 title: Retail Adopting New Technologies
 date: 2021-12-07 14:28:00 Z
+categories:
+- Business
+- Marketing and Retail
+- Sustainability
+tags:
+- sustainability
+- technology
 ---
 
 ![AdobeStock_419820551.jpeg](/uploads/AdobeStock_419820551.jpeg)
