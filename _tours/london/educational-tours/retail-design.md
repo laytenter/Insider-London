@@ -50,7 +50,8 @@ In the face of global e-commerce giants and spending cuts, come and see the reta
   {% include slideshow.html %}
 {% endif %}
 
-A global centre for luxury retail, traverse the elegant promenades of **Mayfair**. A historic commercial and residential area in West London, Mayfair attracts the world’s most **prestigious brands** and designers as well as the most **affluent** clientele. We explore how leading lights maintain their status in the brick and mortar realm.
+Join Insider London on this two-hour tour of London's most beautiful retailers. We traverse the most iconic Mayfair streets to analyse the great success of the British heritage brand and the strategies of world flagship stores. From Regent Street to Savile Row, this tour visits a carefully selected list of spaces across a wide variety of sectors which provide fantastic insight into brick-and-mortar retail trends. In the face of online shopping, come and explore the spaces going above-and-beyond to promote their brands and get consumers through the door.
+
 
 **Meeting Point**: Outside Wholefoods Market, near Piccadilly Circus
 
