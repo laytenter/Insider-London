@@ -65,11 +65,11 @@ Our expert guide will show you how the City of London developed into a global fi
 {% endif %}
 
 
-This walking tour explores the economic powerhouse: **CANARY WHARF** - the new finance centre of London.  Come and explore the amazing development which boasts more **bankers** than the City of London and some of the most expensive **real estate** in the world.
+This walking tour explores the economic powerhouse: **CANARY WHARF** - the new finance centre of London. 
 
-After the traditional City of London, this is the second main financial centre within the United Kingdom. Rising from the derelect dockland came Canary Wharf - with some of Europe’s tallest and most imposing skyscrapers.
+Despite its comparative youth Canary Wharf has become an essential business zone with many of Europe's tallest skyscrapers including the second tallest in the UK - One Canada Square. The formerly derelict dockland is now an exciting economic powerhouse, home to more bankers than the City of London.
 
-Follow the towering pinnacles of JP Morgan Chase, Citigroup, HSBC, KPMG, Credit Suisse, EY, Thomson Reuters and many more.
+This tour explores the stories of some of the world’s leading players in finance that call Canary Wharf home, including JP Morgan Chase, HSBC, Citigroup and more. Come and explore what the future holds for this financial hub and its many residents, from the impact of Brexit and Covid-19 to the latest developments in fintech. This is a 2-hour loop tour starting and finishing on Reuter’s Plaza by Canary Wharf Station.
 
 Meeting Point: Outside Carluccio’s, Reuter’s Plaza
 
