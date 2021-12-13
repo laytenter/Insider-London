@@ -39,7 +39,7 @@ Financial services are at the heart of the London economy. Come and explore the 
 
 Join us on our award-winning walking tour of the City as we take you on a fascinating journey from the financial centre's humble **beginnings in 17<sup>th</sup> century** coffee houses to **its ancient and unusual** governance and voting system that’s still in use today.
 
-Our expert guide will show you how the City of London developed into a global financial centre, taking in key buildings such as: the **London Stock Exchange**, Guildhall, the **Bank of England**, Lloyds of London and Rothschild's. Examining the role of the City and its institutions today, this tour looks forward to the future of the financial centre.
+Our expert guide will show you how the City of London developed into a global financial centre, taking in key buildings such as: the **London Stock Exchange**, Guildhall, the **Bank of England**, Lloyds of London and Rothschild's. The present and future for London as a global financial centre, will also be discussed along the way; with reference to the impact of Brexit and Covid-19
 
 **Meeting Point**: Panyer Alley, exit 2 of St Paul’s Station
 
