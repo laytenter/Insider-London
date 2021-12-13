@@ -60,11 +60,10 @@ Join Insider London on this two-hour tour of London's most beautiful retailers. 
 **On this retail and marketing tour you will discover:**
 
 * The overwhelming attraction of **British heritage brands**
-* The extravagance of the historic arcades
+* The adoption of **technology** and **sustainability** in order for the West End retailers to remain relevant  
 * The most beautiful **visual merchandising** strategies
 * The **flagship stores** of global brands which line Regent Street
-* How Savile Row maintains its prestige
-* Two of London’s most **iconic department stores**
+* Two of London’s most iconic department stores: **Fortum & Mason** and **Liberty**
 
 {% include findoutmore.html title="West End Retail Design Tour" %}
 
