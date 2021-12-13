@@ -76,9 +76,9 @@ Join Insider London on this two-hour tour of London's most beautiful retailers. 
 
 There’s a new kid on the block. Come and experience the youthful vibes of **Shoreditch** and test its status as a vibrant hotspot of retail, art and design. We visit **London’s trendiest district** where shabby chic reigns supreme and explore how Shoreditch has become one of the most fashionable commercial zones in London.
 
-**Meeting Point**: Outside Shoreditch Grind, exit 4 of Old Street Station
+**Meeting Point**: Shoreditch High Street Station, outside entrance
 
-**Finishing Point**: Ely’s Yard, Truman Brewery
+**Finishing Point**: Spitalfields Market
 
 **On this retail and marketing tour you will discover:**
 * The latest trend-setting boutiques and independent shops
