@@ -59,8 +59,8 @@ Our company visits for students and corporate groups showcase some of the world�
 
 - **Metro Bank** – the first new UK high street bank in more than 150 years who started after the 2008 financial crisis. Come and discover their community-oriented business model
 - **Seedrs** - the leading equity crowdfunding platform and the most active funder of private companies in the UK.  From fintech to food and beverages, they support companies from a wide range of industries to seek investment. The platform aims to make investment easy for anyone from angels and VCs to the general public, all managed online
-- **Sync.money** - represent the future of open banking allowing users to aggregate all financial accounts in one place, swap between different currencies and transfer funds to other users. Sync. has partnered with the world’s major banks including Barclays, HSBC, Lloyds, Santander, Citigroup and more
-- **Paysme** - fintech rolling out digital financial services to support small business customers on their journey to recovery. Paysme is to power Europe’s first Super App for underserved SMES. Embedded finance tools include mobile payments, e-commerce, digital banking, accounting, lending and insurance
+- **Sync.money** - represents the future of open banking allowing users to aggregate all financial accounts in one place, swap between different currencies and transfer funds to other users. Sync. has partnered with the world’s major banks including Barclays, HSBC, Lloyds, Santander, Citigroup and more
+- **Paysme** - fintech rolling out digital financial services to support small business customers on their journey to recovery. Paysme is to power Europe’s first Super App for underserved SMEs. Embedded finance tools include mobile payments, e-commerce, digital banking, accounting, lending and insurance
 
 
 - **Tribal Worldwide** - The global technology-based marketing agency, part of the Omnicons Group who develop creative solutions forMcDonalds, Adidas and Volkswagen
