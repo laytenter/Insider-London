@@ -64,7 +64,7 @@ Our company visits for students and corporate groups showcase some of the world�
 
 
 - **Tribal Worldwide** - The global technology-based marketing agency, part of the Omnicons Group who develop creative solutions forMcDonalds, Adidas and Volkswagen
-- **Aberrant Architecture** - transform run-down locations into vibrant community hubs, creating retail and business opportunities for local entrepreneurs. From a shopping centre in Eastbourne, England, to a former industrial space in Madrid, Spain, Aberrant start by engaging local communities in the design process
+- **Aberrant Architecture** - transforms run-down locations into vibrant community hubs, creating retail and business opportunities for local entrepreneurs. By engaging local communities in the design process, from a shopping centre in Eastbourne, England, to a former industrial space in Madrid, Spain.
 - **LOKE** – a super-app bringing together fascinating insight from marketing, fintech, big data and AI for clients like the Development Bank of Singapore and Nando’s
 - **Entocycle** – this cutting-edge biotechnology disruptor is developing the world’s most sustainable and efficient way to produce protein
 
