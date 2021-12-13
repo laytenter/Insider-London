@@ -49,13 +49,13 @@ With start-up success stories of all kind, between 2012 and 2014, Silicon Rounda
 
 * The unlikely **origins of the name** "Silicon Roundabout"
 
-* See one of the UK's first **bitcoin** ATMs
-
 * Why the area attracts entrepreneurs from all over the world 
 
 * Key **differences between Silicon Roundabout and Silicon Valley**
 
 * The moves made by powerful companies such as **Barclays**, **Google** and **Amazon** who occupy  "the sweet spot"
+
+* Silicon Roundabout's success stories and its unicorns like **Wise**
 
 * The hottest business trends from blockchain to co-working
 
