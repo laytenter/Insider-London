@@ -16,7 +16,7 @@ In 2021, Caroline and Mary founded junee to put a dent in that 11 billion. junee
 
 ![Junee reusa-bowls](/uploads/June-%202_downsized.jpg)
 
-<blockquote>"By designing a system around existing habits and bringing together restaurants, companies, and employees, we're helping solve the waste challenge that no one of them can solve alone."</blockquote>
+<blockquote>"*By designing a system around existing habits and bringing together restaurants, companies, and employees, we're helping solve the waste challenge that no one of them can solve alone*."</blockquote>
 
 *Caroline Williams, CEO & Cofounder.*
 
