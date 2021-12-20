@@ -4,7 +4,7 @@ date: 2021-12-20 11:18:00 Z
 ---
 
 ![Junee-founders-Caroline](/uploads/Junee-4_downsized.jpg)
-*Caroline Williams and Mary Liu, founders of junee *
+*Mary Liu and Caroline Williams, founders of junee *
 
 Caroline and Mary met during their studies at London Business School (LBS), bonding over sharing sustainable living tips. Over the countless lunches they ate on campus, they discovered an interesting phenomenon - they were willing to spend extra money on things like sustainably sourced produce and refillable toiletries, but even when they were effectively paid to bring our own reusable container with a BYO discount provided by the LBS canteen, they didn't do it. Why?
 
@@ -17,7 +17,7 @@ In 2021, Caroline and Mary founded junee to put a dent in that 11 billion. junee
 ![Junee reusa-bowls](/uploads/June-%202_downsized.jpg)
 
 > "By designing a system around existing habits and bringing together restaurants, companies, and employees, we're helping solve the waste challenge that no one of them can solve alone."
-- Caroline Williams, CEO & Cofounder.
+*Caroline Williams, CEO & Cofounder.*
 
 Switching to reusables doesn't just reduce waste - it reduces greenhouse gas emissions. With junee, each reuse removes the need for another single-use container to be manufactured, shipped, and ultimately sent to landfill. While some energy and water are needed to wash the bowls, junee estimates 150g of CO2e is saved with each junee meal.
 
