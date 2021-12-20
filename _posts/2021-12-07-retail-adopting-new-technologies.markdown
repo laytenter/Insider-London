@@ -12,7 +12,7 @@ description: 'Innovation-driven businesses are in constant pursuit of new techno
   form sustainable materials to face recognition. '
 ---
 
-![Sustainable Technologies](/uploads/AdobeStock_419820551.jpeg)
+![Sustainable Technologies](/uploads/AdobeStock_419820551%20(2).jpeg)
 
 ## Sustainable Materials Technology 
 
@@ -24,7 +24,7 @@ Their innovation-driven business model means that Allbirds is in constant pursui
 
 ## Face Recognition Technology
 
-![AdobeStock_249548980.jpeg](/uploads/AdobeStock_249548980.jpeg)
+![Face Recognition Technology](/uploads/AdobeStock_249548980.jpeg)
 
 With consumers hunting for more personalised solutions for their new online shopping experience, brands are also expanding their product line-ups to include AI-powered platforms. The implementation of virtual technologies accelerated last year when many retailers were not allowed to remain open. After restrictions were lifted, businesses have had to make both their in-store and online [experiences](https://www.insiderlondon.com/blog/retail-in-the-post-pandemic-future/) even more extraordinary, for those who can or want to visit in person, and for those who are perhaps still hesitant to overcome the behaviours they adopted during lockdowns.
 
