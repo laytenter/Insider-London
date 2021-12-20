@@ -1,5 +1,5 @@
 ---
-title: Introducing junee - making reuse as easy as single-use
+title: Introducing junee - Making Reuse Easy
 date: 2021-12-20 11:18:00 Z
 categories:
 - Sustainability
