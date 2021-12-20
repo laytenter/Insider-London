@@ -12,7 +12,7 @@ description: 'Innovation-driven businesses are in constant pursuit of new techno
   form sustainable materials to face recognition. '
 ---
 
-![AdobeStock_419820551.jpeg](/uploads/AdobeStock_419820551.jpeg)
+![Sustainable Technologies](/uploads/AdobeStock_419820551.jpeg)
 
 ## Sustainable Materials Technology 
 
