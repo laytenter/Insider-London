@@ -1,6 +1,9 @@
 ---
 title: Introducing junee - making reuse as easy as single-use
 date: 2021-12-20 11:18:00 Z
+categories:
+- Sustainability
+- Business
 tags:
 - sustainability
 - innovation
