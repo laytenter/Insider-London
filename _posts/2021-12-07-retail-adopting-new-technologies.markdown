@@ -10,17 +10,14 @@ tags:
 - technology
 description: 'Innovation-driven businesses are in constant pursuit of new technologies
   form sustainable materials to face recognition. '
-excerpt_separator:
-- "<!--more-start-->"
-- "<!--more-end-->"
 ---
 
 ![Sustainable Technologies](/uploads/AdobeStock_419820551%20(2).jpeg)
 
 ## Sustainable Materials Technology 
-<!--more-start-->
+
 Most large retailers have been too slow to catch up with the [consumers'](https://www.forbes.com/sites/allisongasparini/2020/05/19/sustainable-fashion-demand-provides-new-opportunities-in-material-science-and-chemistry/) demand for sustainable products, especially in fashion. From the increasing consumer awareness of the materials used to make goods, as well as their life cycle and carbon footprint, sustainability isn’t just a fad anymore, nor a marketing gimmick. Independent brands that have emerged over the last decade have had sustainability at the heart of their businesses.
-<!--more-end-->
+
 
 [Allbirds](http://allbirds.co.uk), a footwear and activewear brand, has been on the forefront of using technology and utilising natural fibres (wool, FCS wood, sugar cane, and even discarded snow crab shells) to develop sustainable materials that go into their products. Their most recent technological development is TrinoXO<sup>TM</sup>, which they have used to create the TrinoXO Tee. This t-shirt has odour-reducing properties that come from a mix of materials and are made with a blend of [TENCEL Lyocell](https://www.tencel.com/b2b/product/tencel-lyocell) (sustainable wood fibre), merino wool and Chitosan—a type of fibre that comes from exoskeletons from those discarded shells. First, the material is made by grinding shells into powder, then coating the fabric with a natural material, extruding it and then weaving it into fabric.
 
