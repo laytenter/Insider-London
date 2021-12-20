@@ -4,7 +4,7 @@ date: 2021-12-20 11:18:00 Z
 ---
 
 ![Junee-founders-Caroline](/uploads/Junee-4_downsized.jpg)
-*Mary Liu and Caroline Williams, founders of junee *
+*Mary Liu and Caroline Williams, founders of **junee***
 
 Caroline and Mary met during their studies at London Business School (LBS), bonding over sharing sustainable living tips. Over the countless lunches they ate on campus, they discovered an interesting phenomenon - they were willing to spend extra money on things like sustainably sourced produce and refillable toiletries, but even when they were effectively paid to bring our own reusable container with a BYO discount provided by the LBS canteen, they didn't do it. Why?
 
