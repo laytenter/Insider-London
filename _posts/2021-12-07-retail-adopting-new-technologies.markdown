@@ -16,7 +16,7 @@ excerpt_separator: "<!--more-->"
 ![Sustainable Technologies](/uploads/AdobeStock_419820551%20(2).jpeg)
 
 ## Sustainable Materials Technology 
-
+<!--more-->
 Most large retailers have been too slow to catch up with the [consumers'](https://www.forbes.com/sites/allisongasparini/2020/05/19/sustainable-fashion-demand-provides-new-opportunities-in-material-science-and-chemistry/) demand for sustainable products, especially in fashion. From the increasing consumer awareness of the materials used to make goods, as well as their life cycle and carbon footprint, sustainability isn’t just a fad anymore, nor a marketing gimmick. Independent brands that have emerged over the last decade have had sustainability at the heart of their businesses.
 <!--more-->
 
