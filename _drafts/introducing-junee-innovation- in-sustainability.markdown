@@ -1,5 +1,5 @@
 ---
-title: Introducing junee - Making Reuse Easy
+title: Introducing junee - Innovation  in Sustainability
 date: 2021-12-21 11:18:00 Z
 categories:
 - Sustainability
@@ -10,6 +10,8 @@ tags:
 - sustainable choices
 - entrepreneurship
 - start-ups
+- technology
+- women entrepreneurs
 description: Introducing new start-up junee.  Mary Liu and Caroline Williams, founders
   of junne who invented a sustainable reusable packaging system for take away food,
   which makes reuse as easy as single-use.
@@ -19,7 +21,7 @@ excerpt: "<!--more-->"
 ![Junee-founders-Caroline](/uploads/Junee-4_downsized.jpg)
 *Mary Liu and Caroline Williams, founders of **junee***
 
-*Introducing new start-up [junee](https://www.junee.co/), founded by Mary Liu and Caroline Williams. The sustainability minded duo invented a sustainable reusable packaging system for take-away food, making reuse as easy as single-use. Here's a little bit more about the company from Caroline...*
+*We had a great pleasure to chat with Caroline Williams who told us how alongside Mary Liu invented a sustainable reusable packaging system for take-away food, making reuse as easy as single-use, which in turn lead them to found [junee](https://www.junee.co/)...*
 
 
 Caroline and Mary met during their studies at London Business School (LBS), bonding over sharing sustainable living tips. Over the countless lunches they ate on campus, they discovered an interesting phenomenon - they were willing to spend extra money on things like sustainably sourced produce and refillable toiletries, but even when they were effectively paid to bring our own reusable container with a BYO discount provided by the LBS canteen, they didn't do it. Why?
@@ -40,5 +42,7 @@ Switching to reusables doesn't just reduce waste - it reduces greenhouse gas emi
 junee is among a growing number of startups focusing on the [circular economy](https://ellenmacarthurfoundation.org/topics/circular-economy-introduction/overview), designing businesses that eliminate waste and keep materials in use for as long as possible. It is estimated that circular economy solutions can yield [$4.5 trillion in economic benefits by 2030](https://www.weforum.org/projects/circular-economy).
 
 > "There has never been a better time to rethink business-as-usual. We've got a monumental challenge ahead of us, and with that comes tremendous opportunity. And while governments and corporates are finally waking up, I think it's the passion, determination, and innovations of young people today that will be the foundation of the economy of tomorrow".<br>*Caroline Williams, CEO & Cofounder.*
+
+Written by Caroline Williams - Co Founder of [junee](https://www.junee.co/)
 
 
