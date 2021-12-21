@@ -45,6 +45,6 @@ junee is among a growing number of startups focusing on the [circular economy](h
 <h4>"There has never been a better time to rethink business-as-usual. We've got a monumental challenge ahead of us, and with that comes tremendous opportunity. And while governments and corporates are finally waking up, I think it's the passion, determination, and innovations of young people today that will be the foundation of the economy of tomorrow".</h4><p style="margin-left:10%; width:100%"><p><em>-Caroline Williams, CEO & Cofounder</em></p>
 
 
-<div style="text-align:end; width:100%"><p><em>Written by Caroline Williams - Co Founder of <a href="https://www.junee.co/">junee</a></em></p></div>
+<div style="text-align:end;width:100%;margin-right: 10%"><p><em>Written by Caroline Williams - Co Founder of <a href="https://www.junee.co/">junee</a></em></p></div>
 
 *Insider London is proud to partner with **junee** for Company Visits and Workshops as well as pioneering sustainable entrepreneurs. Get in touch via contact@insiderlondon.com to book your visit today.*
