@@ -15,7 +15,7 @@ tags:
 description: Introducing new start-up junee.  Mary Liu and Caroline Williams, founders
   of junne who invented a sustainable reusable packaging system for take away food,
   which makes reuse as easy as single-use.
-excerpt: "<!--more-->"
+excerpt_separator: "<!--more-->"
 ---
 
 ![Junee-founders-Caroline](/uploads/Junee-4_downsized.jpg)
