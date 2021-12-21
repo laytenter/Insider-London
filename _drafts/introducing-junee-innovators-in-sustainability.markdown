@@ -47,4 +47,4 @@ junee is among a growing number of startups focusing on the [circular economy](h
 
 <div style="text-align:end;width:100%;margin-right: 10px"><p><em>Written by Caroline Williams - Co Founder of <a href="https://www.junee.co/">junee</a></em></p></div>
 
-*Insider London is proud to partner with **junee** for Company Visits and Workshops as well as pioneering sustainable entrepreneurs. Get in touch via contact@insiderlondon.com to book your visit today.*
+<em>Insider London is proud to partner with **junee** for Company Visits and Workshops as well as pioneering sustainable entrepreneurs. Get in touch via contact@insiderlondon.com to book your visit today.</em>
