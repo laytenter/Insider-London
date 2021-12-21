@@ -21,7 +21,7 @@ excerpt: "<!--more-->"
 ![Junee-founders-Caroline](/uploads/Junee-4_downsized.jpg)
 *Mary Liu and Caroline Williams, founders of **junee***
 
-*We had a great pleasure to chat with Caroline Williams who told us how alongside Mary Liu invented a sustainable reusable packaging system for take-away food, making reuse as easy as single-use, which in turn lead them to found [junee](https://www.junee.co/)...*
+*We had a great pleasure to chat with Caroline Williams who told us how alongside Mary Liu invented a sustainable reusable packaging system for take-away food, making reuse as easy as single-use, which in turn lead them to start their own company, [junee](https://www.junee.co/)...*
 
 
 Caroline and Mary met during their studies at London Business School (LBS), bonding over sharing sustainable living tips. Over the countless lunches they ate on campus, they discovered an interesting phenomenon - they were willing to spend extra money on things like sustainably sourced produce and refillable toiletries, but even when they were effectively paid to bring our own reusable container with a BYO discount provided by the LBS canteen, they didn't do it. Why?
