@@ -43,6 +43,6 @@ junee is among a growing number of startups focusing on the [circular economy](h
 
 > "There has never been a better time to rethink business-as-usual. We've got a monumental challenge ahead of us, and with that comes tremendous opportunity. And while governments and corporates are finally waking up, I think it's the passion, determination, and innovations of young people today that will be the foundation of the economy of tomorrow".<br>*Caroline Williams, CEO & Cofounder.*
 
-<div style="text-align:right"><p>*Written by Caroline Williams - Co Founder of [junee](https://www.junee.co/)*</p></div>
+<div style="text-align:right; width:100%"><p>*Written by Caroline Williams - Co Founder of [junee](https://www.junee.co/)*</p></div>
 
 
