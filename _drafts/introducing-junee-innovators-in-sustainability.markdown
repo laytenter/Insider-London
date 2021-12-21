@@ -1,5 +1,5 @@
 ---
-title: Introducing junee - Innovation  in Sustainability
+title: Introducing junee - Innovators in Sustainability
 date: 2021-12-21 11:18:00 Z
 categories:
 - Sustainability
