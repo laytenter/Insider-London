@@ -21,7 +21,7 @@ excerpt: "<!--more-->"
 ![Junee-founders-Caroline](/uploads/Junee-4_downsized.jpg)
 *Mary Liu and Caroline Williams, founders of **junee***
 
-*We had a great pleasure to chat with Caroline Williams who told us how alongside Mary Liu invented a sustainable reusable packaging system for take-away food, making reuse as easy as single-use, which in turn lead them to start their own company, [junee](https://www.junee.co/)...*
+*We had the great pleasure to chat with Caroline Williams who told us how she and Mary Liu invented a sustainable reusable packaging system for take-away food. This makes re-use as easy as single-use, which in turn led them to start their own company, [junee](https://www.junee.co/)...*
 
 
 Caroline and Mary met during their studies at London Business School (LBS), bonding over sharing sustainable living tips. Over the countless lunches they ate on campus, they discovered an interesting phenomenon - they were willing to spend extra money on things like sustainably sourced produce and refillable toiletries, but even when they were effectively paid to bring our own reusable container with a BYO discount provided by the LBS canteen, they didn't do it. Why?
@@ -35,14 +35,14 @@ In 2021, Caroline and Mary founded junee to put a dent in that 11 billion. junee
 
 ![Junee reusa-bowls](/uploads/June-%202_downsized.jpg)
 
-> "By designing a system around existing habits and bringing together restaurants, companies, and employees, we're helping solve the waste challenge that no one of them can solve alone". <br><em>Caroline Williams, CEO & Cofounder</em>
+> ### "By designing a system around existing habits and bringing together restaurants, companies, and employees, we're helping solve the waste challenge that no one of them can solve alone". <br><em>Caroline Williams, CEO & Cofounder</em>
 
 Switching to reusables doesn't just reduce waste - it reduces greenhouse gas emissions. With junee, each reuse removes the need for another single-use container to be manufactured, shipped, and ultimately sent to landfill. While some energy and water are needed to wash the bowls, junee estimates 150g of CO2e is saved with each junee meal.
 
 junee is among a growing number of startups focusing on the [circular economy](https://ellenmacarthurfoundation.org/topics/circular-economy-introduction/overview), designing businesses that eliminate waste and keep materials in use for as long as possible. It is estimated that circular economy solutions can yield [$4.5 trillion in economic benefits by 2030](https://www.weforum.org/projects/circular-economy).
 
-> "There has never been a better time to rethink business-as-usual. We've got a monumental challenge ahead of us, and with that comes tremendous opportunity. And while governments and corporates are finally waking up, I think it's the passion, determination, and innovations of young people today that will be the foundation of the economy of tomorrow".<br>*Caroline Williams, CEO & Cofounder.*
+> ### "There has never been a better time to rethink business-as-usual. We've got a monumental challenge ahead of us, and with that comes tremendous opportunity. And while governments and corporates are finally waking up, I think it's the passion, determination, and innovations of young people today that will be the foundation of the economy of tomorrow".<br>*Caroline Williams, CEO & Cofounder.*
 
 <div style="text-align:end; width:100%"><p><em>Written by Caroline Williams - Co Founder of <a href="https://www.junee.co/">junee</a></em></p></div>
 
-*Insider London is proud to partner with **junee **for Company Visits and Workshops as well as pioneering sustainable entrepreneurs. Get in touch via contact@insiderlondon.com to book your visit today.*
+*Insider London is proud to partner with **junee** for Company Visits and Workshops as well as pioneering sustainable entrepreneurs. Get in touch via contact@insiderlondon.com to book your visit today.*
