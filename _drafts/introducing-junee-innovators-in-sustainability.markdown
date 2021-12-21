@@ -42,9 +42,9 @@ Switching to reusables doesn't just reduce waste - it reduces greenhouse gas emi
 
 junee is among a growing number of startups focusing on the [circular economy](https://ellenmacarthurfoundation.org/topics/circular-economy-introduction/overview), designing businesses that eliminate waste and keep materials in use for as long as possible. It is estimated that circular economy solutions can yield [$4.5 trillion in economic benefits by 2030](https://www.weforum.org/projects/circular-economy).
 
-<h4>"There has never been a better time to rethink business-as-usual. We've got a monumental challenge ahead of us, and with that comes tremendous opportunity. And while governments and corporates are finally waking up, I think it's the passion, determination, and innovations of young people today that will be the foundation of the economy of tomorrow".</h4><p style="margin-left:10px;"><p><em>-Caroline Williams, CEO & Cofounder</em></p>
+<h4>"There has never been a better time to rethink business-as-usual. We've got a monumental challenge ahead of us, and with that comes tremendous opportunity. And while governments and corporates are finally waking up, I think it's the passion, determination, and innovations of young people today that will be the foundation of the economy of tomorrow".</h4><p style="margin-left:20px;"><p><em>-Caroline Williams, CEO & Cofounder</em></p>
 
 
-<div style="text-align:end;width:100%;margin-right: 10%"><p><em>Written by Caroline Williams - Co Founder of <a href="https://www.junee.co/">junee</a></em></p></div>
+<div style="text-align:end;width:100%;margin-right: 10px"><p><em>Written by Caroline Williams - Co Founder of <a href="https://www.junee.co/">junee</a></em></p></div>
 
 *Insider London is proud to partner with **junee** for Company Visits and Workshops as well as pioneering sustainable entrepreneurs. Get in touch via contact@insiderlondon.com to book your visit today.*
