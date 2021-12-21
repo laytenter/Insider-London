@@ -40,7 +40,7 @@ In 2021, Caroline and Mary founded junee to put a dent in that 11 billion. junee
 
 Switching to reusables doesn't just reduce waste - it reduces greenhouse gas emissions. With junee, each reuse removes the need for another single-use container to be manufactured, shipped, and ultimately sent to landfill. While some energy and water are needed to wash the bowls, junee estimates 150g of CO2e is saved with each junee meal.
 
-junee is among a growing number of startups focusing on the [circular economy](https://ellenmacarthurfoundation.org/topics/circular-economy-introduction/overview), designing businesses that eliminate waste and keep materials in use for as long as possible. It is estimated that circular economy solutions can yield <a href="https://www.weforum.org/projects/circular-economy">$4.5 trillion in economic benefits by 2030.</a>
+junee is among a growing number of startups focusing on the <a hfre="https://ellenmacarthurfoundation.org/topics/circular-economy-introduction/overview">circular economy</a>, designing businesses that eliminate waste and keep materials in use for as long as possible. It is estimated that circular economy solutions can yield <a href="https://www.weforum.org/projects/circular-economy">$4.5 trillion in economic benefits by 2030.</a>
 <br><br>
 <h4>"There has never been a better time to rethink business-as-usual. We've got a monumental challenge ahead of us, and with that comes tremendous opportunity. And while governments and corporates are finally waking up, I think it's the passion, determination, and innovations of young people today that will be the foundation of the economy of tomorrow".</h4><p style="margin-left:20px;"><p><em>-Caroline Williams, CEO & Cofounder</em></p><br>
 
