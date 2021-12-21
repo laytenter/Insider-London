@@ -31,7 +31,7 @@ The system for takeaways isn't designed to help people make sustainable choices.
 
 [11 billion pieces](https://www.theguardian.com/environment/2019/may/14/lunch-on-go-habit-generates-11bn-items-packaging-waste-year-uk) of single-use packaging are generated from the UK's lunch-on-the-go habit every year, most of which can't be recycled or composted because of contamination and limited infrastructure. This waste ends up in landfill or worse - in our oceans - with food containers & cutlery making up [10% of global ocean litter](https://www.theguardian.com/environment/2021/jun/10/takeaway-food-and-drink-litter-dominates-ocean-plastic-study-shows).
 
-In 2021, Caroline and Mary founded junee to put a dent in that 11 billion. junee's borrow-and-return system of **reusa-bowls** makes reuse as easy as single-use. junee supplies partner restaurants with their reusa-bowls, which employees of partner companies can use instead of disposables. Employees return the bowls to convenient in-office return points, and junee collects, cleans, and redelivers them back to restaurants for their next reuse.
+In 2021, Caroline and Mary founded junee to put a dent in that 11 billion. junee's borrow-and-return system of ***reusa-bowls*** makes reuse as easy as single-use. junee supplies partner restaurants with their reusa-bowls, which employees of partner companies can use instead of disposables. Employees return the bowls to convenient in-office return points, and junee collects, cleans, and redelivers them back to restaurants for their next reuse.
 
 ![Junee reusa-bowls](/uploads/June-%202_downsized.jpg)
 
