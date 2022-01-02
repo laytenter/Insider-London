@@ -23,12 +23,12 @@ tags:
 
 CA: The company was started by our CEO Jenny Holloway in 2006. Previous to this she was a senior buyer at Littlewoods M&S and Principals, however she didn’t enjoy the corporate life and started her own business which she run successfully for number of years. She then started doing consultancy for the government and mentoring young designers and realised there was a huge gap in the market to actually help these young designers create their new ranges without them being ripped off by unscrupulous factories.  So, she started Fashion Enter as a not-for-profit business, which means that any profit that we make has to stay in the business. As well as helping young designers we provide outstanding British made quality production and are also a centre of excellence for training and development. We teach everything to do with the fashion industry at all different levels. We have grown enormously over the years now occupying three units on this industrial site. We have a Tailoring Academy, we have classrooms, we teach stitching, teach pattern cutting and we also provide a lot of short courses. We have some disabled workers working for the company and try to support and help people.
 
-### IL:For young people interested in entering the fashion industry, what would be your advice to them?
+### IL: For young people interested in entering the fashion industry, what would be your advice to them?
 CA: My advice to them would be to learn as much as possible, don’t just learn about the job you want to end up doing, actually learn about everything all around it, even if you never actually use what you’ve learnt the fact that you have that knowledge will help you in all your future decision-making. So, if you get a chance to get any type of experience grab it with both hands. 
  
 ![white-and-black-floral-cap-sleeved-shirt-994523.jpg](/uploads/white-and-black-floral-cap-sleeved-shirt-994523.jpg)
 
-### IL:How do you stay attractive and competitive in the face of overseas suppliers which offer very low prices?
+### IL: How do you stay attractive and competitive in the face of overseas suppliers which offer very low prices?
 CA: We stay attractive by offering quick turnaround, we may not be the cheapest in the world, but we are one of the fastest producers and we also give a very good service. We are also ethically audited which means we are squeaky clean, and our customers can be absolutely happy that there won’t be any scandals on television about unethical practices going on in their supply chain, because they know we are completely approved. 
  
 ### IL: The global fashion industry is certainly full of controversy, what would you say are the industry's biggest challenges in times to come? 
