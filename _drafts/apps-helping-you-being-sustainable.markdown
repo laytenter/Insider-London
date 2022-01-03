@@ -1,5 +1,5 @@
 ---
-title: Technology for Sustainable Future
+title: Apps for Sustainable Future
 date: 2022-01-03 14:20:00 Z
 ---
 
