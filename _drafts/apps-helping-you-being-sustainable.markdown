@@ -18,6 +18,8 @@ The easier way consumers can be sustainable is to buy second hand. The [rise](ht
 
 An app is currently being developed in London to do just that. London Councils, a body representing London Boroughs, is in the early stages of [adapting](https://www.thetimes.co.uk/article/sustainability-app-will-help-londoners-cut-their-carbon-footprint-8dtcqpt8f) an existing app from Finland called Lifestyle Test. First created in 2017, and developed by [Sitra](https://www.sitra.fi/en/topics/sustainable-everyday-life/#what-is-it-about), the app is already being used by a fifth of Finnish population and has expanded into other countries. Bringing such an app to the capital would allow Londoners to make small tweaks in their lifestyles to combat climate change. 
 
+![Sustainable_Choices_AdobeStock_354748002](/uploads/AdobeStock_354748002.jpeg)
+
 The idea for the app came from the notion that too many people, who want to change their lifestyles to reduce their carbon footprint, don’t know what they should and shouldn't do. The overload of confusing, and sometimes contradictory information about climate change, and what constitutes a sustainable lifestyle makes people worry that they won't make the right choice. 
 
 The app starts by estimating each individual’s yearly carbon output, split between transport, food and drink, shopping habits, housing and leisure.
