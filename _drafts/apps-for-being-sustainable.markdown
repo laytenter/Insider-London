@@ -12,7 +12,7 @@ What if you want to be sustainable and conscientious of your purchases and the l
 
 The fashion industry has long been under fire for unsustainable practises from recyclable materials, overproduction, environmental degradation, water consumption to unethical treatment of workers.  [Good On You](https://goodonyou.eco/) app makes it easier for consumers to shop sustainably. You can  look up a fashion brand and the app immediately tells you how sustainable it is. It does this with the use of a five-star rating system.
 
-The [rise](https://www.telegraph.co.uk/fashion/style/fast-rise-slow-fashion-dress-surprise-success-story-lockdown/) of slow-fashion has been immense in the last decade with shops like [Rokit](https://www.rokit.co.uk/) selling fashionable vintage clothing that has attracted the attention of Millennials and Gen Z. [Depop](https://www.depop.com/) -  a major international platform for second-hand clothing.  Depop is the fashion marketplace app where the next generation comes to discover unique items. It makes fashion more inclusive, diverse and less wasteful. This is what transforming fashion looks like.
+The [rise](https://www.telegraph.co.uk/fashion/style/fast-rise-slow-fashion-dress-surprise-success-story-lockdown/) of slow-fashion has been immense in the last decade with shops like [Rokit](https://www.rokit.co.uk/) selling fashionable vintage clothing that has attracted the attention of Millennials and Gen Z. [Depop](https://www.depop.com/) -  a major international platform for second-hand clothing - is a fashion marketplace app where the next generation comes to discover unique items. It makes fashion more inclusive, diverse and less wasteful. This is what transforming fashion looks like.
 
 ### Lifestyle App
 
