@@ -20,7 +20,7 @@ London Councils, a body representing London Boroughs, is in the early stages of 
 
 ![Sustainable_Choices_AdobeStock_354748002](/uploads/AdobeStock_354748002.jpeg)
 
-The idea for the app came from the notion that too many people, who want to change their lifestyles to reduce their carbon footprint, don’t know what they should and shouldn't do. The overload of confusing, and sometimes contradictory information about climate change, and what constitutes a sustainable lifestyle makes people worry that they won't make the right choice. 
+Many of us want to change their lifestyles to reduce their carbon footprint, but don’t know what they should and shouldn't do. The overload of confusing, and sometimes contradictory information about climate change, and what constitutes a sustainable lifestyle makes people worry that they won't make the right choice. 
 
 The app starts by estimating each individual’s yearly carbon output, split between transport, food and drink, shopping habits, housing and leisure.
 Then, suggested small individual changes that are based on pieces of customised advice, can be given to each user, specifying how much of a difference each recommendation would make. This in turn will provide a great opportunity to see how the government, local authorities and businesses are enabling real sustainable choices that fit into Londoners lives.
