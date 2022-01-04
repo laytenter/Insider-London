@@ -37,7 +37,7 @@ The [rise](https://www.telegraph.co.uk/fashion/style/fast-rise-slow-fashion-dres
 
 London Councils, a body representing London Boroughs, is in the early stages of [adapting](https://www.thetimes.co.uk/article/sustainability-app-will-help-londoners-cut-their-carbon-footprint-8dtcqpt8f) an existing app from Finland called Lifestyle Test. First created in 2017, and developed by [Sitra](https://www.sitra.fi/en/topics/sustainable-everyday-life/#what-is-it-about), the app is already being used by a fifth of Finnish population and has expanded into other countries. Bringing such an app to the capital would allow Londoners to make small tweaks in their lifestyles to combat climate change. 
 
-![Sustainable_Choices_AdobeStock_354748002](/uploads/AdobeStock_354748002.jpeg)
+![AdobeStock_300153911.jpeg](/uploads/AdobeStock_300153911.jpeg)
 
 Many of us want to change their lifestyles to reduce their carbon footprint, but don’t know what they should and shouldn't do. The overload of confusing, and sometimes contradictory information about climate change, and what constitutes a sustainable lifestyle makes people worry that they won't make the right choice. 
 
