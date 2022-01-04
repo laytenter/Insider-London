@@ -13,12 +13,13 @@ description: 'We take look at what if you want to be sustainable and conscientio
   of your purchases and the life choices you make, but don’t know where to start?
   It can be difficult to see through all the greenwashing, of which many retailers,
   manufacturers are culpable. '
+excerpt_separator: "<!--more-->"
 ---
 
 ![Sustainable_fashion_app_AdobeStock_362393377](/uploads/AdobeStock_362393377.jpeg)
 
 What if you want to be sustainable and conscientious of your purchases and the life choices you make, but don’t know where to start? It can be difficult to see through all the greenwashing, of which many retailers, manufacturers are culpable. 
-
+<!--more-->
 
 ### Sustainable Fashion App
 
