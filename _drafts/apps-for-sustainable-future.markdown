@@ -9,6 +9,12 @@ tags:
 - sustainable choices
 - sustainability
 - slow-fashion
+- innovation
+- new technology
+- lifestyle choices
+- vintage clothing
+- green future
+- sustainable apps
 description: 'We take look at what if you want to be sustainable and conscientious
   of your purchases and the life choices you make, but don’t know where to start?
   It can be difficult to see through all the greenwashing, of which many retailers,
