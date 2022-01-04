@@ -1,6 +1,11 @@
 ---
 title: Apps for Sustainable Future
 date: 2022-01-03 14:20:00 Z
+tags:
+- sustainable business
+- sustainable choices
+- sustainability
+- slow-fashion
 description: 'We take look at what if you want to be sustainable and conscientious
   of your purchases and the life choices you make, but don’t know where to start?
   It can be difficult to see through all the greenwashing, of which many retailers,
