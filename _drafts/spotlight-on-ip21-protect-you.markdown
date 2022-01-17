@@ -11,8 +11,8 @@ tags:
 ---
 
 <div class="u-flex-justify-content-space-between">
-<img src="/uploads/Dr%20Rachel%20Daniel%20.jpg" alt="Dr Rachel Daniel">
-<img src="/uploads/Ed%20Clarke.jpg" alt="Ed Clarke">
+<p><img src="/uploads/Dr%20Rachel%20Daniel%20.jpg" alt="Dr Rachel Daniel"></p>
+<p><img src="/uploads/Ed%20Clarke.jpg" alt="Ed Clarke"></p>
 </div>
 
 ![Dr Rachel Daniel .jpg](/uploads/Dr%20Rachel%20Daniel%20.jpg)
