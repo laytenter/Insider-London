@@ -1,5 +1,5 @@
 ---
-title: Introducing IP21 - Protect Your Innovation
+title: Introducing IP21 - Protecting Your Innovation
 date: 2022-01-18 15:14:00 Z
 tags:
 - intellectual property
