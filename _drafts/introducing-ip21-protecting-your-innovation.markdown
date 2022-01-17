@@ -10,7 +10,7 @@ tags:
 - emerging industries
 ---
 
-<div class="u-flex u-flex-wrap .u-flex-justify-content-space-between" >
+<div class="u-flex u-flex-wrap u-flex-justify-content-center" >
 <div>
 <img src="/uploads/Dr%20Rachel%20Daniel%20.jpg" alt="Dr Rachel Daniel"  height="400px"><p>Dr Rachel Daniel</p></div>
 <div><img src="/uploads/Ed%20Clarke.jpg" alt="Ed Clarke"  height="400px"><p>Ed Clarke</p></div></div>
