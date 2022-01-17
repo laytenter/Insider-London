@@ -17,7 +17,7 @@ tags:
 
 *This week we are publishing a first part of an interview we conducted with Dr Rachel Daniel and Ed Clarke from [IP21](https://ip21.com) - a leading law firm specialising in intellectual property services - who told us how best to protect, enforce and exploit IP assets to achieve competitive advantage.*
 
-**IL:** *IP21 is a very well-established firm specialising in a range of intellectual property services. Could you describe the ins-and-outs of what you do?*
+**IL:** ***IP21 is a very well-established firm specialising in a range of intellectual property services. Could you describe the ins-and-outs of what you do?***
 
 **IP21:** The core of our work is in helping our clients obtain worthwhile protection for their innovations, product designs and branding using the IP system. A key value-add for us is helping our clients build a strategy for building a sustainable IP portfolio over time, in tune with their commercial strategies, needs and resources. 
 
