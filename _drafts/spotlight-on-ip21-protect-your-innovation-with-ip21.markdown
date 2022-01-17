@@ -10,11 +10,12 @@ tags:
 - emerging industries
 ---
 
+<div class="u-flex u-flex-wrap" >
 <div>
-<div class="u-flex u-flex-direction-column">
 <img src="/uploads/Dr%20Rachel%20Daniel%20.jpg" alt="Dr Rachel Daniel" width="50%"><p>Dr Rachel Daniel</p></div>
-<div class="u-flex u-flex-direction-column" ><img src="/uploads/Ed%20Clarke.jpg" alt="Ed Clarke" width="50%"><p>Ed Clarke</p></div></div>
+<div ><img src="/uploads/Ed%20Clarke.jpg" alt="Ed Clarke" width="50%"><p>Ed Clarke</p></div></div>
 
+*This week we*
 
 **IL:** IP21 is a very well-established firm specialising in a range of intellectual property services. Could you describe the ins-and-outs of what you do?
 
