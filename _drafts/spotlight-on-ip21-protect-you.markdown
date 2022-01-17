@@ -12,8 +12,11 @@ tags:
 
 <div class="u-flex-justify-content-space-between">
 <img src="/uploads/Dr%20Rachel%20Daniel%20.jpg" alt="Dr Rachel Daniel">
-<img src="/uploads/Ed%20Clarke.jpg "alt="Ed Clarke">
+<img src="/uploads/Ed%20Clarke.jpg" alt="Ed Clarke">
 </div>
+
+![Dr Rachel Daniel .jpg](/uploads/Dr%20Rachel%20Daniel%20.jpg)
+![Ed Clarke.jpg](/uploads/Ed%20Clarke.jpg)
 
 **IL:** IP21 is a very well-established firm specialising in a range of intellectual property services. Could you describe the ins-and-outs of what you do?
 
