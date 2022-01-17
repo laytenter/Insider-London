@@ -11,8 +11,8 @@ tags:
 ---
 
 <div class="u-flex u-flex-wrap">
-<img src="/uploads/Dr%20Rachel%20Daniel%20.jpg" alt="Dr Rachel Daniel">
-<img src="/uploads/Ed%20Clarke.jpg" alt="Ed Clarke">
+<img src="/uploads/Dr%20Rachel%20Daniel%20.jpg" alt="Dr Rachel Daniel" width="300px">
+<img src="/uploads/Ed%20Clarke.jpg" alt="Ed Clarke" width="300px">
 </div>
 
 
