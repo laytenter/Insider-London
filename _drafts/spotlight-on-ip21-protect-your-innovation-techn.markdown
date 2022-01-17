@@ -12,8 +12,7 @@ tags:
 
 <div class="u-flex u-flex-wrap">
 <p class="u-flex u-flex-direction-column" width="50%">
-<img src="/uploads/Dr%20Rachel%20Daniel%20.jpg" alt="Dr Rachel Daniel" >
-</p>
+<img src="/uploads/Dr%20Rachel%20Daniel%20.jpg" alt="Dr Rachel Daniel"></p>
 <p class="u-flex u-flex-direction-column" width="50%"><img src="/uploads/Ed%20Clarke.jpg" alt="Ed Clarke"></p>
 </div>
 
