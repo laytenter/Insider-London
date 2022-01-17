@@ -1,5 +1,5 @@
 ---
-title: Spotlight on IP21 - Protect Your Innovation
+title: Spotlight on IP21 - Protect Your Innovation Tech
 date: 2022-01-18 15:14:00 Z
 tags:
 - intellectual property
