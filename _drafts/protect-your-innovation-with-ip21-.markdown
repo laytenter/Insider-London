@@ -1,5 +1,5 @@
 ---
-title: Spotlight on IP21 - Protect Your Innovation
+title: Introducing IP21 - Protect Your Innovation
 date: 2022-01-18 15:14:00 Z
 tags:
 - intellectual property
@@ -15,7 +15,7 @@ tags:
 <img src="/uploads/Dr%20Rachel%20Daniel%20.jpg" alt="Dr Rachel Daniel" width="50%"><p>Dr Rachel Daniel</p></div>
 <div style="max-width:50%"><img src="/uploads/Ed%20Clarke.jpg" alt="Ed Clarke" width="50%"><p>Ed Clarke</p></div></div>
 
-*This week week we publish a first part of an interview we conducted with Dr Rachel Daniel and Ed Clarke from [IP21](https://ip21.com) - a leading law firm specialising in intellectual property - who told us how best to protect, enforce and exploit IP Assets to achieve competitive advantage.*
+*This week week we publish a first part of an interview we conducted with Dr Rachel Daniel and Ed Clarke from [IP21](https://ip21.com) - a leading law firm specialising in intellectual property services - who told us how best to protect, enforce and exploit IP assets to achieve competitive advantage.*
 
 **IL:** *IP21 is a very well-established firm specialising in a range of intellectual property services. Could you describe the ins-and-outs of what you do?*
 
@@ -33,4 +33,4 @@ tags:
 
 **IP21:** We’re seeing a lot of innovation in the green tech and sustainability sectors, as well as in AI/machine learning space. We’re also seeing a lot of businesses developing multi-discipline developments – where innovations in different technological fields are working synergistically to solve problems or present new opportunities. 
 
-*To be continued...*
+*Stay tuned for the second part of the interview. Insider London is proud to partner with [IP21](https://ip21.com). For [Company Visit](https://www.insiderlondon.com/london/company-visits/) with IP21 as well as other pioneering sustainable entrepreneurs, get in touch via [contact@insiderlondon.com ](https://www.insiderlondon.com/contact-us/)to book your visit today.*
