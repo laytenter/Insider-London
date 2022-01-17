@@ -1,9 +1,13 @@
 ---
-title: 'Spotlight: IP21 - Protect Your Innovation'
+title: Spotlight on IP21 - Protect Your Innovation
 date: 2022-01-18 15:14:00 Z
 tags:
 - intellectual property
 - start-ups
+- entrepreneurship
+- innovation
+- intellectual assets
+- emerging industries
 ---
 
 **IL:** IP21 is a very well-established firm specialising in a range of intellectual property services. Could you describe the ins-and-outs of what you do?
