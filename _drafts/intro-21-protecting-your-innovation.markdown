@@ -13,7 +13,7 @@ tags:
 <div class="u-flex u-flex-wrap" style="justify-content:center" >
 <div>
 <img src="/uploads/Dr%20Rachel%20Daniel%20.jpg" alt="Dr Rachel Daniel"  height="400px"><p>Dr Rachel Daniel, IP Specialist</p></div>
-<div><img src="/uploads/Ed%20Clarke.jpg" alt="Ed Clarke, UK and European Attorney"  height="400px"><p>Ed Clarke</p></div></div>
+<div><img src="/uploads/Ed%20Clarke.jpg" alt="Ed Clarke, UK and European Attorney"  height="400px"><p>Ed Clarke, UK and European Attorney</p></div></div>
 
 *This week we are publishing the first part of an interview we conducted with Dr Rachel Daniel and Ed Clarke from [IP21](https://ip21.com) - a leading law firm specialising in intellectual property services - who told us how best to protect, enforce and exploit IP assets to achieve competitive advantage.*
 
