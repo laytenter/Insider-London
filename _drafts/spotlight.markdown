@@ -10,6 +10,11 @@ tags:
 - emerging industries
 ---
 
+<div class="u-flex-justify-content-space-between"
+![Dr Rachel Daniel .jpg](/uploads/Dr%20Rachel%20Daniel%20.jpg)
+![Ed Clarke.jpg](/uploads/Ed%20Clarke.jpg)
+</div>
+
 **IL:** IP21 is a very well-established firm specialising in a range of intellectual property services. Could you describe the ins-and-outs of what you do?
 
 **IP21:** The core of our work is in helping our clients obtain worthwhile protection for their innovations, product designs and branding using the IP system. A key value-add for us is helping our clients build a strategy for building a sustainable IP portfolio over time, in tune with their commercial strategies, needs and resources. 
