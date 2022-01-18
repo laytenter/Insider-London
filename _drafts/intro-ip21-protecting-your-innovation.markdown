@@ -1,6 +1,8 @@
 ---
 title: Introducing IP21 - Protecting Your Innovation
 date: 2022-01-18 15:14:00 Z
+categories:
+- Business
 tags:
 - intellectual property
 - start-ups
@@ -8,6 +10,14 @@ tags:
 - innovation
 - intellectual assets
 - emerging industries
+- IP Assets
+- protecting innovation
+- copyright
+description: First part of an interview with Dr Rachel Daniel and Ed Clarke from IP21,
+  a leading law firm specialising in intellectual property services. They told us
+  why building a sustainable IP portfolio for start-ups is important to protect their
+  innovation, and how IP21 helps entrepreneurs succeed and gain competitive advantage
+excerpt_separator: "<!--more-->"
 ---
 
 ![ip21](/uploads/ip21.jpg)
@@ -17,6 +27,8 @@ tags:
 **IL:** ***IP21 is a very well-established firm specialising in a range of intellectual property services. Could you describe the ins-and-outs of what you do?***
 
 **IP21:** The core of our work is in helping our clients obtain worthwhile protection for their innovations, product designs and branding using the IP system. A key value-add for us is helping our clients build a strategy for building a sustainable IP portfolio over time, in tune with their commercial strategies, needs and resources. 
+
+<!--more-->
 
 **IL:** ***Emerging small start-ups may find it challenging to ascertain the value of their IP assets. How do you work with start-ups in order to evaluate their IP assets and guide them through the process?***
 
