@@ -20,8 +20,8 @@ tags:
 
 <div class="u-flex u-flex-wrap u-flex-justify-content-space-between " >
 <div class="slick-side">
-<img src="/uploads/Dr%20Rachel%20Daniel%20.jpg" alt="Dr Rachel Daniel"  height="300px" class="dropdown-menu-inner"><p>Dr Rachel Daniel, IP Specialist</p></div>
-<div class="slick-side"><img src="/uploads/Ed%20Clarke.jpg" alt="Ed Clarke"  height="300px" class="dropdown-menu-inner"><p>Ed Clarke, UK and European Attorney</p></div></div>
+<img src="/uploads/Dr%20Rachel%20Daniel%20.jpg" alt="Dr Rachel Daniel"  width="240" height="240px" class="dropdown-menu-inner"><p>Dr Rachel Daniel, IP Specialist</p></div>
+<div class="slick-side"><img src="/uploads/Ed%20Clarke.jpg" alt="Ed Clarke"  width="240" height="240px" class="dropdown-menu-inner"><p>Ed Clarke, UK and European Attorney</p></div></div>
 
 **IL:** ***Emerging small start-ups may find it challenging to ascertain the value of their IP assets. How do you work with start-ups in order to evaluate their IP assets and guide them through the process?***
 
