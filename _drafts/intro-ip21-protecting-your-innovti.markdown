@@ -24,8 +24,8 @@ tags:
 
 <div class="u-flex u-flex-wrap u-flex-justify-content-space-between u-padding-large" >
 <div class="u-flex u-flex-align-center u-flex-direction-column u-padding-small">
-<img src="/uploads/Dr%20Rachel%20Daniel_resized.jpg" alt="Dr Rachel Daniel"  width="240" height="240px" style="border-radius:50%" class="dropdown-menu-inner"><p class="small">Dr Rachel Daniel, IP Specialist</p></div>
-<div class="u-flex u-flex-align-center u-flex-direction-column u-padding-small"><img src="/uploads/Ed%20Clarke_edited.jpg" alt="Ed Clarke"  width="240" height="240px" style="border-radius:50%" class="dropdown-menu-inner"><p class="small">Ed Clarke, UK and European Attorney</p></div></div>
+<img src="/uploads/Dr%20Rachel%20Daniel_resized.jpg" alt="Dr Rachel Daniel"  width="240" height="240px" style="border-radius:50%" class="dropdown-menu-inner"><p class="small"><em>Dr Rachel Daniel, IP Specialist</em></p></div>
+<div class="u-flex u-flex-align-center u-flex-direction-column u-padding-small"><img src="/uploads/Ed%20Clarke_edited.jpg" alt="Ed Clarke"  width="240" height="240px" style="border-radius:50%" class="dropdown-menu-inner"><p class="small"><em>Ed Clarke, UK and European Attorney</em></p></div></div>
 
 **IL:** ***How to decide which of the IP assets are unique enough to the business, and are worth protecting with a patent or licence?***
 
