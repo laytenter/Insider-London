@@ -23,9 +23,9 @@ tags:
 **IP21:** We start from the premise that every business is different and has its own assets, objectives and needs. Every business has IP, whether that’s in the branding or in technology that has been developed, know-how, confidential information and so on. A good place to start is with an assessment of what the business already has and how those IP assets can be developed and further protected to add value to the business; this can take the form of an IP audit under one of the government schemes or can be more bespoke to the client’s needs. We also offer an IP valuation service which can put a monetary value on a specific IP asset (such as a patent or trade mark registration) or on a whole IP portfolio.
 
 <div class="u-flex u-flex-wrap" >
-<div class="u-flex-direction-column">
+<div class="u-flex u-flex-align-center u-flex-direction-column">
 <img src="/uploads/Dr%20Rachel%20Daniel_resized.jpg" alt="Dr Rachel Daniel"  width="240" height="240px" style="border-radius:50%" class="dropdown-menu-inner"><p>Dr Rachel Daniel, IP Specialist</p></div>
-<div class="u-flex-direction-column "><img src="/uploads/Ed%20Clarke_edited.jpg" alt="Ed Clarke"  width="240" height="240px" style="border-radius:50%" class="dropdown-menu-inner"><p>Ed Clarke, UK and European Attorney</p></div></div>
+<div class="u-flex u-flex-align-center u-flex-direction-column"><img src="/uploads/Ed%20Clarke_edited.jpg" alt="Ed Clarke"  width="240" height="240px" style="border-radius:50%" class="dropdown-menu-inner"><p>Ed Clarke, UK and European Attorney</p></div></div>
 
 **IL:** ***How to decide which of the IP assets are unique enough to the business, and are worth protecting with a patent or licence?***
 
