@@ -10,7 +10,7 @@ tags:
 - emerging industries
 ---
 
-![IP21 primary logo.jpg](/uploads/IP21%20primary%20logo.jpg)
+![ip21](/uploads/ip21.jpg)
 
 *This week we are publishing the first part of an interview we conducted with Dr Rachel Daniel and Ed Clarke from [IP21](https://ip21.com) a leading law firm specialising in intellectual property services. They told us why building a sustainable IP portfolio for start-ups is important to protect their innovation, and how IP21 helps entrepreneurs succeed and gain competitive advantage.*
 
@@ -18,14 +18,14 @@ tags:
 
 **IP21:** The core of our work is in helping our clients obtain worthwhile protection for their innovations, product designs and branding using the IP system. A key value-add for us is helping our clients build a strategy for building a sustainable IP portfolio over time, in tune with their commercial strategies, needs and resources. 
 
-<div class="u-flex u-flex-wrap u-flex-justify-content-space-between " >
-<div class="slick-side">
-<img src="/uploads/Dr%20Rachel%20Daniel%20.jpg" alt="Dr Rachel Daniel"  width="240" height="240px" class="dropdown-menu-inner"><p>Dr Rachel Daniel, IP Specialist</p></div>
-<div class="slick-side"><img src="/uploads/Ed%20Clarke.jpg" alt="Ed Clarke"  width="240" height="240px" class="dropdown-menu-inner"><p>Ed Clarke, UK and European Attorney</p></div></div>
-
 **IL:** ***Emerging small start-ups may find it challenging to ascertain the value of their IP assets. How do you work with start-ups in order to evaluate their IP assets and guide them through the process?***
 
 **IP21:** We start from the premise that every business is different and has its own assets, objectives and needs. Every business has IP, whether that’s in the branding or in technology that has been developed, know-how, confidential information and so on. A good place to start is with an assessment of what the business already has and how those IP assets can be developed and further protected to add value to the business; this can take the form of an IP audit under one of the government schemes or can be more bespoke to the client’s needs. We also offer an IP valuation service which can put a monetary value on a specific IP asset (such as a patent or trade mark registration) or on a whole IP portfolio.
+
+<div class="u-flex u-flex-wrap u-flex-justify-content-space-between " >
+<div class="slick-side">
+<img src="/uploads/Dr%20Rachel%20Daniel%20.jpg" alt="Dr Rachel Daniel"  width="240" height="240px" style="border-radius:50%" class="dropdown-menu-inner"><p>Dr Rachel Daniel, IP Specialist</p></div>
+<div class="slick-side"><img src="/uploads/Ed%20Clarke.jpg" alt="Ed Clarke"  width="240" height="240px" style="border-radius:50%" class="dropdown-menu-inner"><p>Ed Clarke, UK and European Attorney</p></div></div>
 
 **IL:** ***How to decide which of the IP assets are unique enough to the business, and are worth protecting with a patent or licence?***
 
