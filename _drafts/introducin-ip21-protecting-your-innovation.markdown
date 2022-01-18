@@ -22,7 +22,7 @@ excerpt_separator: "<!--more-->"
 
 ![ip21](/uploads/ip21.jpg)
 
-*This week we are publishing the first part of an interview we conducted with Dr Rachel Daniel and Ed Clarke from [IP21](https://ip21.com), a leading law firm specialising in intellectual property services. They told us why building a sustainable IP portfolio is important to protect start-ups' innovation, and how IP21 helps entrepreneurs succeed and gain competitive advantage. You can follow IP21 on *
+*This week we are publishing the first part of an interview we conducted with Dr Rachel Daniel and Ed Clarke from [IP21](https://ip21.com), a leading law firm specialising in intellectual property services. They told us why building a sustainable IP portfolio is important to protect start-ups' innovation, and how IP21 helps entrepreneurs succeed and gain competitive advantage. You can follow IP21 on [LinkedIn](https://www.linkedin.com/company/ip21-ltd/)*
 
 **IL:** ***IP21 is a very well-established firm specialising in a range of intellectual property services. Could you describe the ins-and-outs of what you do?***
 
@@ -47,5 +47,5 @@ excerpt_separator: "<!--more-->"
 
 **IP21:** We’re seeing a lot of innovation in the green tech and sustainability sectors, as well as in AI/machine learning space. We’re also seeing a lot of businesses developing multi-discipline developments – where innovations in different technological fields are working synergistically to solve problems or present new opportunities. 
 
-*Stay tuned for the second part of the interview, which we will be releasing during [London Tech Week](https://londontechweek.com/) in June. Insider London is proud to partner with [IP21](https://ip21.com) - you can follow them on Twitter [@ipTwentyOne
-](https://twitter.com/iptwentyone?lang=en). For a bespoke [Company Visit](https://www.insiderlondon.com/london/company-visits/) to get a further insight how IP21 is helping start-ups succeed, get in touch via [contact@insiderlondon.com ](https://www.insiderlondon.com/contact-us/)to book your visit today.*
+*Stay tuned for the second part of the interview, which we will be releasing during [London Tech Week](https://londontechweek.com/) in June. Insider London is proud to partner with **IP21**. For a bespoke [Company Visit](https://www.insiderlondon.com/london/company-visits/) to get a further insight how IP21 is helping start-ups succeed, get in touch via [contact@insiderlondon.com ](https://www.insiderlondon.com/contact-us/)to book your visit today, and you can follow them on Twitter [@ipTwentyOne
+](https://twitter.com/iptwentyone?lang=en)*
