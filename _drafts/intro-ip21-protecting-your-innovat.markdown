@@ -19,9 +19,9 @@ tags:
 **IP21:** The core of our work is in helping our clients obtain worthwhile protection for their innovations, product designs and branding using the IP system. A key value-add for us is helping our clients build a strategy for building a sustainable IP portfolio over time, in tune with their commercial strategies, needs and resources. 
 
 <div class="u-flex u-flex-wrap u-flex-justify-content-space-between " >
-<div>
-<img src="/uploads/Dr%20Rachel%20Daniel%20.jpg" alt="Dr Rachel Daniel"  height="400px" class="dropdown-menu-inner"><p>Dr Rachel Daniel, IP Specialist</p></div>
-<div><img src="/uploads/Ed%20Clarke.jpg" alt="Ed Clarke"  height="400px" class="dropdown-menu-inner"><p>Ed Clarke, UK and European Attorney</p></div></div>
+<div style="border-radius:50%">
+<img src="/uploads/Dr%20Rachel%20Daniel%20.jpg" alt="Dr Rachel Daniel"  height="300px" class="dropdown-menu-inner"><p>Dr Rachel Daniel, IP Specialist</p></div>
+<div style="border-radius:50%"><img src="/uploads/Ed%20Clarke.jpg" alt="Ed Clarke"  height="300px" class="dropdown-menu-inner"><p>Ed Clarke, UK and European Attorney</p></div></div>
 
 **IL:** ***Emerging small start-ups may find it challenging to ascertain the value of their IP assets. How do you work with start-ups in order to evaluate their IP assets and guide them through the process?***
 
