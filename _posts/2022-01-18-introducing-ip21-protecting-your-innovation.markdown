@@ -22,7 +22,7 @@ excerpt_separator: "<!--more-->"
 
 ![ip21](/uploads/ip21.jpg)
 
-*This week we are publishing the first part of an interview we conducted with **Dr Rachel Daniel** and **Ed Clarke** from [IP21](https://ip21.com), a leading law firm specialising in intellectual property services. They told us why building a sustainable IP portfolio is important to protect start-ups' innovation, and how IP21 helps entrepreneurs succeed and gain competitive advantage. You can follow IP21 on [LinkedIn](https://www.linkedin.com/company/ip21-ltd/).*
+*This week we are publishing the first part of an interview we conducted with **Dr Rachel Daniel** and **Ed Clarke** from [IP21](https://ip21.com), a leading law firm specialising in intellectual property services. They told us why building a sustainable IP portfolio is important to protect start-ups' innovation, and how IP21 helps entrepreneurs succeed and gain competitive advantage. You can follow **IP21** on [LinkedIn](https://www.linkedin.com/company/ip21-ltd/).*
 
 **IL:** ***IP21 is a very well-established firm specialising in a range of intellectual property services. Could you describe the ins-and-outs of what you do?***
 
