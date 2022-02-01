@@ -11,7 +11,7 @@ tags:
 description: 'Major food retailers in the UK have been accelerating their investment
   and implementation of AI technology in their checkout-free new stores all across
   the country.  '
-Field name: "<!--more-->"
+excerpt_separator: "<!--more-->"
 ---
 
 ![AdobeStock_197982936.jpg](/uploads/AdobeStock_197982936.jpg)
