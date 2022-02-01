@@ -10,6 +10,7 @@ tags:
 - retail
 - industry trends
 - business trends
+- supermarket chains
 description: 'Major food retailers in the UK have been accelerating their investment
   and implementation of AI technology in their checkout-free new stores all across
   the country: Amazon, Sanisbury''s Tesco, Aldi  '
