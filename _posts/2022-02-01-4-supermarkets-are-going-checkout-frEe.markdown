@@ -10,7 +10,7 @@ tags:
 - retail
 description: 'Major food retailers in the UK have been accelerating their investment
   and implementation of AI technology in their checkout-free new stores all across
-  the country.  '
+  the country: Amazon, Sanisbury''s Tesco, Aldi  '
 excerpt_separator: "<!--more-->"
 ---
 
