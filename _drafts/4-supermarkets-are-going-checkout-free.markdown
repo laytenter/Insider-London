@@ -34,9 +34,9 @@ Sainsbury’s has had their own smart shopping app since 2016 for seamless quick
 Tesco being the largest supermarket chain in the UK is trying to catch up as this revolutionary technology is very likely going to change the retail landscape for years to come. Tesco teamed up with a tech start-up [Trigo](https://www.trigoretail.com/), which has their own AI tech for autonomous shopping, for their new [GetGo](https://www.tescoplc.com/news/2021/tesco-opens-new-checkout-free-store-getgo/) store in High Holborn London. To shop at Tesco *GetGo*, you’ll need to download the Tesco.com app and save your payment and Clubcard details in it. You scan in with the app at the entrance gates. **Trigo** AI tech fully automated system is following you around detecting what is removed from, or returned (even at wrong) shelfs; scan the app to leave and get charged.  
 
 
-Shop&Go
+###Shop&Go
 
-And not wanting to be left behind, the discount chain Aldi has teamed up with AI company [AiFi](https://aifi.com/) to develop its first autonomous grocery store [Shop&Go](https://retailtechinnovationhub.com/home/2022/1/18/aifi-tech-powers-new-aldi-uk-checkout-free-concept-store in Greenwich, London.  Aldi’s experience goes a bit further as it also uses tech by a company called [Yoti](https://www.yoti.com/) to confirm customers’ identity on age restricted items such as alcohol using face recognition technology, reducing the need for manual checks by staff.
+And not wanting to be left behind, the discount chain Aldi has teamed up with AI company [AiFi](https://aifi.com/) to develop its first autonomous grocery store [Shop&Go](https://retailtechinnovationhub.com/home/2022/1/18/aifi-tech-powers-new-aldi-uk-checkout-free-concept-store) in Greenwich, London.  Aldi’s experience goes a bit further as it also uses tech by a company called [Yoti](https://www.yoti.com/) to confirm customers’ identity on age restricted items such as alcohol using face recognition technology, reducing the need for manual checks by staff.
 
 
 *Discover the latest trends in tech and business with an Insider London [Company Visit](https://www.insiderlondon.com/online-education/online-company-visits/). Get in touch via [contact@insiderlondon.com](https://www.insiderlondon.com/contact-us/) to book your visit today.*
