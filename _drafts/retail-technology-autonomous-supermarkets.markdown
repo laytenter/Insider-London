@@ -8,11 +8,17 @@ tags:
 - AI
 - technology
 - retail
+description: 'Major food retailers in the UK have been accelerating their investment
+  and implementation of AI technology in their checkout-free new stores all across
+  the country.  '
+Field name: "<!--more-->"
 ---
 
 ![AdobeStock_197982936.jpg](/uploads/AdobeStock_197982936.jpg)
 
 Major food retailers in the UK have been accelerating their investment and implementation of AI technology in their checkout-free new stores all across the country. They include *Pick and Go* by Sainsbury's, *Shop&Go* by Aldi, *GetGo* by Tesco; and adding to the established high street supermarket chains is the tech giant Amazon with *Amazon Fresh*. 
+
+<!--more-->
 
 Technology and process is similar in all four stores: 
 * Customers need to download the store app to link their payment cards and gain entry to the store, so no browsing is allowed without the app.
