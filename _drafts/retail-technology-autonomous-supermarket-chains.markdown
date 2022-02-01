@@ -1,5 +1,5 @@
 ---
-title: Retail Technology - Autonomous Supermarkets.
+title: Retail Technology - Autonomous Supermarkets
 date: 2022-02-01 11:14:00 Z
 categories:
 - Marketing and Retail
