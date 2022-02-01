@@ -20,11 +20,13 @@ excerpt_separator: "<!--more-->"
 
 Major food retailers in the UK have been accelerating their investment and implementation of AI technology in their checkout-free new stores all across the country.
 
+<!--more-->
+
 ### Amazon Fresh
 
 **Amazon** has been trailblazing “contactless shops” with their own [Just Walk Out](https://justwalkout.com/) tech in the USA with **Amazon GO**, and is ahead of other large on-site retailers. **Amazon Fresh**, which [opened](https://www.shopfloorinsights.co.uk/storecheck-amazon-fresh) last year in London as their first physical store outside of the USA (if one discounts the fact that Amazon already owns the **Whole Foods Market**).  **Amazon Fresh** customers need to download the Amazon shop app, which provides a QR code which can be scanned to enter through the store barriers. Shoppers pick up their items and when they exit the store with them, their account is automatically charged. **Amazon** has since then opened further seven stores in London, and has plans to aggressively [expand](https://www.chargedretail.co.uk/2021/11/11/amazon-plans-to-open-200-cashierless-fresh-stores-to-catch-tesco-and-sainsburys/) with 200 new stores by 2024 to gain a significant footprint in the UK very competitive supermarket industry. 
 
-<!--more-->
+
 
 ### Sainsbury’s
 
