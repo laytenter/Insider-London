@@ -15,10 +15,10 @@ tags:
 Major food retailers in the UK have been accelerating their investment and implementation of AI technology in their checkout-free new stores all across the country. They include *Pick and Go* by Sainsbury's, *Shop&Go* by Aldi, *GetGo* by Tesco; and adding to the established high street supermarket chains is the tech giant Amazon with *Amazon Fresh*. 
 
 Technology and process is similar in all four stores: 
-* You need to download the store app to link payment cards and gain entry to the store, so no browsing is allowed without it
-* Specially positioned cameras to detect which products customers have picked up
-* The smart technology automatically adds anything the customer takes off the shelf to their virtual cart and removes items they put back on the shelf
-* Leave the store and charge you without you having to scan anything or visit a till.
+* Customers need to download the store app to link their payment cards and gain entry to the store, so no browsing is allowed without the app.
+* Specially positioned cameras detect which products customers have picked up.
+* The smart technology automatically adds anything the customer takes off the shelf to their virtual cart and removes items they put back on the shelf.
+* Customers get charged after leaving the store and without them having to scan anything or visit a till. 
 
 Amazon has been trailblazing this tech with [Just Walk Out](https://justwalkout.com/) for some time now in the USA with *Amazon GO* stores. *Amazon Fresh*, which [opened](https://www.shopfloorinsights.co.uk/storecheck-amazon-fresh) last year in Ealing, London as their first physical store outside of the USA (if one discounts the fact that Amazon already owns the Whole Foods Market). Amazon has since then opened further seven stores in London since then, and has plans to aggressively [expand](https://www.chargedretail.co.uk/2021/11/11/amazon-plans-to-open-200-cashierless-fresh-stores-to-catch-tesco-and-sainsburys/) with 200 new locations of Amazon Fresh stores by 2024 to gain a significant footprint in the UK very competitive market. 
 
