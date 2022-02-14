@@ -18,13 +18,13 @@ tags:
 ---
 
 ![Matt_Loke_Blog@800x-50.jpg](/uploads/Matt_Loke_Blog@800x-50.jpg)
-*Matthew Khoury, CEO of **Loke Global***
+*Matthew Khoury, CEO of LOKE
 
 *This week we had a great pleasure to 
-interview **Matthew Khoury**, CEO of [Loke Global](https://loke.global/), who gave us a fascinating insight into Loke's intelligent payment solution which retains customers for their clients through AI-driven target marketing.*
+interview **Matthew Khoury**, CEO of [LOKE Global](https://loke.global/), who gave us a fascinating insight into Loke's intelligent payment solution which retains customers for their clients through AI-driven target marketing.*
 
 
-##### **IL: *How did you start Loke Global, tell us a bit more about your business and its unique value proposition?***
+##### **IL: *How did you start LOKE Global, tell us a bit more about your business and its unique value proposition?***
 
 **MK:** LOKE is a globally focused, data-driven technology company, headquartered in the United Kingdom (UK), providing a sales and marketing platform to the hospitality and retail industry designed to increase revenue by predicting and influencing customer purchase behaviour. 
 
@@ -50,8 +50,8 @@ One desired outcome is to ensure the customer has the best experience with that 
 
 **MK:** I studied a double degree in Finance and Commerce, switched and completed my Honours in Project Management & Economics. At the end of the day, it does not matter what you study but more importantly what you love. If you work in an industry that you are interested in, you will always do better and be naturally more productive. Persistence is key, it can take a long time with many ups and downs, so it makes it much easier doing something that you enjoy and that makes you happy. 
 
-##### **IL: *What’s your vision for Loke Global? We know you already have business presence in Australia, Singapore, U.K., any future expansion plan?***
+##### **IL: *What’s your vision for LOKE Global? We know you already have business presence in Australia, Singapore, U.K., any future expansion plan?***
 
 **MK:** LOKE has a big plan for 2022, we are in a space with high demand so it is critical we invest into innovation and expansion. Strengthening our leadership position in the countries we operate is key however new regions are on the horizon. 
 
-*Insider London is proud to partner with **Loke Global**. For a bespoke [Company Visit and Workshops](https://www.insiderlondon.com/london/company-visits/) to get a further insight how Loke brings together marketing, fintech, big data and AI, get in touch via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a> to book your visit today.*
+*Insider London is proud to partner with **LOKE Global**. For a bespoke [Company Visit and Workshops](https://www.insiderlondon.com/london/company-visits/) to get a further insight how LOKE brings together marketing, fintech, big data and AI, get in touch via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a> to book your visit today.*
