@@ -1,6 +1,20 @@
 ---
 title: 'Loke Global: AI-driven marketing.'
-date: 2022-02-14 14:34:00 Z
+date: 2022-02-15 14:34:00 Z
+categories:
+- Business
+- Marketing and Retail
+tags:
+- AI
+- digital marketing
+- target marketing
+- innovation
+- entrepreneurship
+- finance
+- commerce
+- future of finance
+- fintech
+- technology
 ---
 
 ![Matt_Loke_Blog@800x-50.jpg](/uploads/Matt_Loke_Blog@800x-50.jpg)
