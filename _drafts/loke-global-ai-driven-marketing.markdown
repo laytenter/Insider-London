@@ -18,7 +18,7 @@ tags:
 ---
 
 ![Matt_Loke_Blog@800x-50.jpg](/uploads/Matt_Loke_Blog@800x-50.jpg)
-*Matthew Khoury, CEO of LOKE
+*Matthew Khoury, CEO of LOKE*
 
 *This week we had a great pleasure to 
 interview **Matthew Khoury**, CEO of [LOKE Global](https://loke.global/), who gave us a fascinating insight into Loke's intelligent payment solution which retains customers for their clients through AI-driven target marketing.*
