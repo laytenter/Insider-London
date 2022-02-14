@@ -1,5 +1,5 @@
 ---
-title: 'Loke Global: AI-driven marketing.'
+title: 'Loke Global: AI-driven marketing'
 date: 2022-02-15 14:34:00 Z
 categories:
 - Business
