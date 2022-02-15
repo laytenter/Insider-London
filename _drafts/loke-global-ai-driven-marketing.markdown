@@ -1,5 +1,5 @@
 ---
-title: 'Loke Global: AI-driven marketing'
+title: Interview with LOKE Global - the company behind AI Driven Marketing Super APP
 date: 2022-02-15 14:34:00 Z
 categories:
 - Business
@@ -54,4 +54,4 @@ One desired outcome is to ensure the customer has the best experience with that 
 
 **MK:** LOKE has a big plan for 2022, we are in a space with high demand so it is critical we invest into innovation and expansion. Strengthening our leadership position in the countries we operate is key however new regions are on the horizon. 
 
-*Insider London is proud to partner with **LOKE Global**. For a bespoke [Company Visit and Workshops](https://www.insiderlondon.com/london/company-visits/) to get a further insight how LOKE brings together marketing, fintech, big data and AI, get in touch via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a> to book your visit today.*
+*Insider London is proud to partner with <a href="https://loke.global/" target="_blank" rel="noreferrer"> LOKE Global</a>. For a bespoke [Company Visit and Workshops](https://www.insiderlondon.com/london/company-visits/) to get a further insight how LOKE brings together marketing, fintech, big data and AI, get in touch via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a> to book your visit today.*
