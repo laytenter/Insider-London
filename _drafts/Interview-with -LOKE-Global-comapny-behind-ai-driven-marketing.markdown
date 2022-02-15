@@ -25,7 +25,7 @@ excerpt_separator: "<!--more-->"
 *Matthew Khoury, CEO of LOKE*
 
 *This week we had a great pleasure to 
-interview **Matthew Khoury**, CEO of [LOKE Global](https://loke.global/), who gave us a fascinating insight into LOKE's intelligent payment solution which retains customers for their clients through AI-driven target marketing.*
+interview **Matthew Khoury**, CEO of  <a href="https://loke.global/" target="_blank" rel="noreferrer"> LOKE Global</a>, who gave us a fascinating insight into LOKE's intelligent payment solution which retains customers for their clients through AI-driven target marketing.*
 
 
 ##### **IL: *How did you start LOKE Global, tell us a bit more about your business and its unique value proposition?***
