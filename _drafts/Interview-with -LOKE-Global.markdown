@@ -15,18 +15,24 @@ tags:
 - future of finance
 - fintech
 - technology
+description: "This week we had a great pleasure to \ninterview Matthew Khoury, CEO
+  of LOKE Global, who gave us a fascinating insight into LOKE's intelligent payment
+  solution which retains customers for their clients through AI-driven target marketing."
+excerpt_separator: "<!--more-->"
 ---
 
 ![Matt_Loke_Blog@800x-50.jpg](/uploads/Matt_Loke_Blog@800x-50.jpg)
 *Matthew Khoury, CEO of LOKE*
 
 *This week we had a great pleasure to 
-interview **Matthew Khoury**, CEO of [LOKE Global](https://loke.global/), who gave us a fascinating insight into Loke's intelligent payment solution which retains customers for their clients through AI-driven target marketing.*
+interview **Matthew Khoury**, CEO of [LOKE Global](https://loke.global/), who gave us a fascinating insight into LOKE's intelligent payment solution which retains customers for their clients through AI-driven target marketing.*
 
 
 ##### **IL: *How did you start LOKE Global, tell us a bit more about your business and its unique value proposition?***
 
 **MK:** LOKE is a globally focused, data-driven technology company, headquartered in the United Kingdom (UK), providing a sales and marketing platform to the hospitality and retail industry designed to increase revenue by predicting and influencing customer purchase behaviour. 
+
+<!--more-->
 
 Our UVP is about providing transparency of customer information at the point of transaction allowing us to personalise consumer journeys based on the way they interact with the business. 
 
