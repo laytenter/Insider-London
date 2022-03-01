@@ -14,11 +14,14 @@ description: In stark contrast to the West End, Shoreditch has a unique vibe and
   of London's East End. It’s a creative and technology hub of London as well as home
   to an eclectic – and often eccentric – array of attractions, including street art,
   unique shops;  and of course, artisan coffee.
+excerpt_separator: "<!--more-->"
 ---
 
 ![john-dancy-ZbwF240MM-Y-unsplash](/uploads/john-dancy-ZbwF240MM-Y-unsplash.jpg)
 
 In stark contrast to the West End, Shoreditch has a unique vibe and energy of London's East End. It’s a creative and technology hub of London as well as home to an eclectic – and often eccentric – array of attractions, including street art, unique shops;  and of course, artisan coffee.
+
+<!--more-->
 
 ### Everchanging Street Art
 
