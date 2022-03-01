@@ -32,13 +32,14 @@ Enigma has thus far had few gallery outings in London; what has been seen indica
 
 ### Trendy Shopping
 
-Shoreditch is a hotspot where the most quirky and creative homegrown brands set up shop. Trendy labels have been doing things differently here creating unique retail experiences for their customers. 
-Vogue called Redchurch Street in Shoreditch  “the coolest street in London” and "the Bond Street of the East". Even heritage brands featured on the tour embrace the idea of constant change and dare to do things just to get their name on the map.
+Shoreditch is a hotspot where the most quirky and creative homegrown brands set up shop. Trendy labels have been doing things differently here creating unique retail experiences for their customers. Vogue called Redchurch Street in Shoreditch  “the coolest street in London” and "the Bond Street of the East". 
 
 ![remi-boyer-Y0hsrcLkNvg-unsplash](/uploads/remi-boyer-Y0hsrcLkNvg-unsplash.jpg)
 
 Moreover, brands here are well positioned for the challenges posed by new retail [trends](https://www.forbes.com/sites/catherineerdly/2021/12/28/four-trends-that-will-shape-retail-in-2022/?sh=340109bb519a) in 2022, as Kyle Monk, director of Insight at the British Retail Consortium (BRC) states: 
 ##### *“At a time when consumer behaviours are changing fast, customer experience is more important than ever, so brands will have to work harder to emotionally engage with consumers and retain loyalty”* 
+
+In Shoreditch you’ll find brands like [Nudie Jeans](https://www.nudiejeans.com/), who embraced sustainable fashion and dared to put it at the core of their business model; as well as established retailers, including [Adidas](https://www.adidas.co.uk/),  with their unique concept flagship store, which reflects local originality and creativity.
 
 
 *Discover why brands gravitate towards Shoreditch on [East End Retail Design Tour](https://www.insiderlondon.com/london/educational-tours/retail-design/) and immerse yourself in the local street art scene [London Street Art Tour](https://www.insiderlondon.com/london/educational-tours/street-art-tour-london/). Get in touch via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a> to find out more.*
