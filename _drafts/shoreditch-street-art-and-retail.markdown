@@ -1,6 +1,12 @@
 ---
 title: Shoreditch Street Art and Retail
 date: 2022-03-01 12:21:00 Z
+tags:
+- Retail
+- retail trends
+- street art
+- East London street art
+- London street art walking tours
 ---
 
 ![john-dancy-ZbwF240MM-Y-unsplash](/uploads/john-dancy-ZbwF240MM-Y-unsplash.jpg)
