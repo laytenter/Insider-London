@@ -1,5 +1,5 @@
 ---
-title: Revisiting to Silicon Roundabout
+title: Revisiting Silicon Roundabout
 date: 2022-03-22 17:05:00 Z
 categories:
 - Business
