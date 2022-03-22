@@ -1,6 +1,11 @@
 ---
 title: Revisit to Silicon Roundabout
 date: 2022-03-22 17:05:00 Z
+tags:
+- silicon roudabout
+- tech
+- start-ups
+- entrepreneurship
 ---
 
 ![samuel-regan-asante-iXg45CU_7VQ-unsplash](/uploads/samuel-regan-asante-iXg45CU_7VQ-unsplash.jpg)
