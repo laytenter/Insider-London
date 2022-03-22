@@ -1,6 +1,8 @@
 ---
 title: Revisiting to Silicon Roundabout
 date: 2022-03-22 17:05:00 Z
+categories:
+- Business
 tags:
 - silicon roudabout
 - tech
