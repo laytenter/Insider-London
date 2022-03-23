@@ -9,7 +9,8 @@ tags:
 - start-ups
 - fintech
 description: 'This week we revisit Silicon Roundabout to check on the tech hub in
-  London’s East End.
+  London’s East End. We cover accelerators for fintech like Rise by Barclays; challenger
+  bank Mozno; and big business like Amazon and Microsoft.
 
 '
 Key: 
