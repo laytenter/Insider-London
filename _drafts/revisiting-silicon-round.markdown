@@ -8,9 +8,10 @@ tags:
 - tech
 - start-ups
 - entrepreneurship
-description: |-
-  This week we revisit Silicon Roundabout to check on the tech hub in London’s East End.
-  For those who are not familiar with it, Silicon Roundabout is nestled between the financial district to its South and Shoreditch, to its East - a world-renowned creative hub for art, tech, and advertising. This positioning is one of many factors which contribute to its irresistible appeal, both for big corporates, and for the countless start-ups which continue to sprout up in the area.
+description: 'This week we revisit Silicon Roundabout to check on the tech hub in
+  London’s East End.
+
+'
 Key: 
 excerpt_separator: "<!--more-->"
 ---
