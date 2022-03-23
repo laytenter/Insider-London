@@ -31,7 +31,7 @@ Let's start with a local challenger bank, [Monzo](https://monzo.com/i/monzo-acco
 
 If you’ve stalled with your fintech start-up due to lack of investments, the accelerators are here to help. [Rise](https://home.barclays/who-we-are/innovation/barclays-accelerator/companies/) was established in 2015 as Barclays’ vision for incubating the “ultimate conditions” for fintech’s growth and development. It does this by linking a global community of thought leaders dedicated to challenging industry norms and pushing boundaries. One of Rise’s best examples of an accelerated fintech through its programmes is [Paysme](https://www.paysme.co.uk/), a super app for SMEs which embeds finance tools including mobile payments, e-commerce, digital banking, accounting, lending and insurance.  It was developed to solve common pain points that help SMEs reduce costs, improve cash flow and free up time to focus on revenue growth.  
 
-Insider London is proud to have partnered with [Paysme](https://www.paysme.co.uk/). For a bespoke Company Visit and Workshops to get a further insight of Paysme fintech services get in touch via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a> to book a visit
+*Insider London is proud to have partnered with **Paysme**. For a bespoke Company Visit and Workshops to get a further insight of **Paysme** fintech services get in touch via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a> to book a visit*
 
 ### Microsoft & Amazon 
 
@@ -40,6 +40,6 @@ As for the big corporates, Microsoft opened their first European hub for start-u
 Even Amazon couldn’t resist opening their HQ here. It seems the appeal of the vibrant atmosphere of big business and entrepreneurs was well suited for Amazon opening up their big new HQ here at Principal Place in 2017 in order to facilitate their expansion into the UK. 
 
 
-*Find out more about the past, present and future of this innovative business eco-system on the [Silicon Roundabout/Tech City Walking Tour](https://www.insiderlondon.com/london/educational-tours/silicon-roundabout-and-tech-city-tour/). *
+*Find out more about the past, present and future of this innovative business eco-system on the [Silicon Roundabout/Tech City Walking Tour](https://www.insiderlondon.com/london/educational-tours/silicon-roundabout-and-tech-city-tour/).*
 
 
