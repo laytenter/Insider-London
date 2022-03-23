@@ -28,7 +28,7 @@ Let's start with a local challenger bank, [Monzo](https://monzo.com/i/monzo-acco
 
 ### Rise
 
-If you’ve stalled with your fintech start-up due to lack of investments, the accelerators are here to help. [Rise](https://home.barclays/who-we-are/innovation/barclays-accelerator/companies/) was established in 2015 as Barclays’ vision for incubating the “ultimate conditions” for fintech’s growth and development. It does this by linking a global community of thought leaders dedicated to challenging industry norms and pushing boundaries. The venture is able to combine Barclays’ formidable industry expertise with the agile mindset of a startup. 
+If you’ve stalled with your fintech start-up due to lack of investments, the accelerators are here to help. [Rise](https://home.barclays/who-we-are/innovation/barclays-accelerator/companies/) was established in 2015 as Barclays’ vision for incubating the “ultimate conditions” for fintech’s growth and development. It does this by linking a global community of thought leaders dedicated to challenging industry norms and pushing boundaries. One of Rise’s best examples of an accelerated fintech through its programmes is [Paysme](https://www.paysme.co.uk/), a super app for SMEs which embeds finance tools including mobile payments, e-commerce, digital banking, accounting, lending and insurance.  It was developed to solve common pain points that help SMEs reduce costs, improve cash flow and free up time to focus on revenue growth.  
 
 
 ### Microsoft & Amazon 
