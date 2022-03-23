@@ -38,6 +38,6 @@ As for the big corporates, Microsoft opened their first European hub for start-u
 Even Amazon couldn’t resist opening their HQ here. It seems the appeal of the vibrant atmosphere of big business and entrepreneurs was well suited for Amazon opening up their big new HQ here at Principal Place in 2017 in order to facilitate their expansion into the UK. 
 
 
-*Find out more about the past, present and future of this innovative business eco-system on the [Silicon Roundabout Walking Tour](https://www.insiderlondon.com/london/educational-tours/silicon-roundabout-and-tech-city-tour/). Get in touch via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a>to find out more.*
+*Find out more about the past, present and future of this innovative business eco-system on the [Silicon Roundabout Walking Tour](https://www.insiderlondon.com/london/educational-tours/silicon-roundabout-and-tech-city-tour/). Insider London is proud to partner with [Paysme](https://www.paysme.co.uk/). For a bespoke Company Visit and Workshops to get a further insight of Paysme fintech services get in touch via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a>to book a visit*
 
 
