@@ -7,7 +7,7 @@ tags:
 - silicon roudabout
 - tech
 - start-ups
-- entrepreneurship
+- fintech
 description: 'This week we revisit Silicon Roundabout to check on the tech hub in
   London’s East End.
 
