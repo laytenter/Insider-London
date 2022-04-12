@@ -16,11 +16,11 @@ Canary Wharf, a former run-down part of London comprising marshland and disused 
 
 #### Infrastructure and Further Development
 
-Elisabeth Line, formerly known as Crossrail, is finally nearing completion after over a three-year delay. It will open partially sometime in the middle of the year adding further 10% to London Underground's network capacity, significantly shortening journeys across London. What does it mean for a financial district like Canary Wharf?
+Elisabeth Line, formerly known as Crossrail, is finally nearing [completion](https://www.crossrail.co.uk/news/articles/crossrail-project-update) after over a three-year delay. It will open partially sometime in the middle of the year adding further 10% to London Underground's network capacity, significantly shortening journeys across London. What does it mean for a financial district like Canary Wharf?
 
 Arrival of good, reliable and fast transport is a driving factor for further development in the area. That was the case back in the 1990s with creation of the Docklands Light Railway (DLR), and more so with the arrival of the extension of the Jubilee Line to Canary Wharf in the early 2000s.
 
-Current transport extension has made the area even more attractive for building new mix-used developments, including Wood Wharf, which will bring nearly 4,000 new homes; to the largest bio lab in Europe new; as well as a green revamp, where Canary Wharf Development Group is teaming up with Eden Project to create a ‘green spine’. This plan will include parks, leisure activities on the water, and even a pavilion for concerts. 
+Current transport extension has made the area even more attractive for building new mix-used developments, including [Wood Wharf](https://group.canarywharf.com/portfolio-and-places/wood-wharf/), which will bring nearly 4,000 new homes; to the largest [bio lab](https://www.standard.co.uk/business/canary-wharf-kadans-science-partner-lab-development-life-sciences-biotech-pharma-b991372.html) in Europe new; as well as a green revamp, where Canary Wharf Development Group is teaming up with Eden Project to create a ‘green spine’. This plan will include parks, leisure activities on the water, and even a pavilion for concerts. 
 
 
 #### Narrowing the Gap
