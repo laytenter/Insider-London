@@ -1,6 +1,20 @@
 ---
 title: Canary Wharf Revisited
 date: 2022-04-12 10:04:00 Z
+categories:
+- Finance
+- Transport
+tags:
+- crossline
+- elisabeth line
+- canary wharf
+- finance
+- regeneration
+- london development
+- London Underground
+description: We went back to Canary Wharf to check on London’s second financial centre
+  and what benefits from the extension of the London Underground via the new Elizabeth
+  Line have been brought there.
 ---
 
 ![CanaryWharf@800x-50.jpg](/uploads/CanaryWharf@800x-50.jpg)
@@ -29,5 +43,5 @@ Apart from increased number of developments, the new Elizabeth Line trains runni
 Moreover, the 3 mile gap between the ‘Square Mile’ in the ancient City of London and Canary Wharf is going to get narrower, with the journey time between the two financial rivalling districts shortening to mere 6 minutes. As already speculated, in the near future *de facto* merger of both districts is inevitable, or at least a clear division between the two is going to be hard to distinguish. 
 
 
-*Discover the past, present and future of London’s financial sectors with our [City Finance Tour](https://www.insiderlondon.com/london/educational-tours/london-finance-walking-tour/) and [Canary Wharf Finance Tour](https://www.insiderlondon.com/london/educational-tours/london-finance-walking-tour/#canary-wharf-walking-tour). If you would like to experience and learn more about the development the two world’s most important financial centres contact us via <a heref="mailto:contact@insiderlondon.com">contact@insiderlondon.com"</a>
+*Discover the past, present and future of London’s financial sectors with our [City Finance Tour](https://www.insiderlondon.com/london/educational-tours/london-finance-walking-tour/) and [Canary Wharf Finance Tour](https://www.insiderlondon.com/london/educational-tours/london-finance-walking-tour/#canary-wharf-walking-tour). If you would like to experience and learn more about the development the two world’s most important financial centres contact us via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a>*
 
