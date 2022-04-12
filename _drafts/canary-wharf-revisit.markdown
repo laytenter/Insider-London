@@ -6,7 +6,7 @@ date: 2022-04-12 10:04:00 Z
 ![CanaryWharf@800x-50.jpg](/uploads/CanaryWharf@800x-50.jpg)
 
 
-We went back to Canary Wharf to check on London’s second financial centre and what benefits are being seen from the extension of the London Underground via the new Elizabeth Line. 
+We went back to Canary Wharf to check on London’s second financial centre and what benefits from the extension of the London Underground via the new Elizabeth Line have been brought there.
 
 
 #### Second Financial Centre 
