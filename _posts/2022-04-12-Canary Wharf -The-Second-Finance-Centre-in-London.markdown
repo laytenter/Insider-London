@@ -23,6 +23,7 @@ excerpt_separator: "<!--more-->"
 
 We went back to Canary Wharf to check on London’s second financial centre and what benefits from the extension of the London Underground via the new Elizabeth Line have been brought there.
 
+<!--more-->
 
 #### Second Financial Centre 
 
