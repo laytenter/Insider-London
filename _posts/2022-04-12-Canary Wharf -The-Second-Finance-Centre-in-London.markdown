@@ -1,5 +1,5 @@
 ---
-title: Canary Wharf Revisited
+title: Canary Wharf - The Second Finance Centre in London
 date: 2022-04-12 10:04:00 Z
 categories:
 - Finance
@@ -30,7 +30,7 @@ Canary Wharf, a former run-down part of London comprising marshland and disused 
 
 #### Infrastructure and Further Development
 
-Elisabeth Line, formerly known as Crossrail, is finally nearing [completion](https://www.crossrail.co.uk/news/articles/crossrail-project-update) after over a three-year delay. It will open partially sometime in the middle of the year adding further 10% to London Underground's network capacity, significantly shortening journeys across London. What does it mean for a financial district like Canary Wharf?
+[Elisabeth Line](https://tfl.gov.uk/travel-information/improvements-and-projects/elizabeth-line), formerly known as Crossrail, is finally nearing [completion](https://www.crossrail.co.uk/news/articles/crossrail-project-update) after over a three-year delay. It will open partially sometime in the middle of the year adding further 10% to London Underground's network capacity, significantly shortening journeys across London. What does it mean for a financial district like Canary Wharf?
 
 Arrival of good, reliable and fast transport is a driving factor for further development in the area. That was the case back in the 1990s with creation of the Docklands Light Railway (DLR), and more so with the arrival of the extension of the Jubilee Line to Canary Wharf in the early 2000s.
 
