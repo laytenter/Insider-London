@@ -44,7 +44,7 @@ layout: programme
   {% include slideshow.html %}
 {% endif %}
 
-Join us for an Insider London take on the sightseeing classic. Explore the fascinating history of London’s centre of power: Westminster. From Royal London to Trafalgar Square, and the political majesty of Whitehall, we will guide you round the most iconic and popular sites of Central London. Whether you are in London for leisure, education or business then this is the perfect addition to round off your trip and make it unforgettable.
+Join us for an Insider London take on the sightseeing classic. Explore the fascinating history of London’s centre of power: Westminster. From Royal London to Trafalgar Square, and the political majesty of Whitehall, we will guide you around the most iconic and popular sites of Central London. Whether you are in London for leisure, education or business then this is the perfect addition to round off your trip and make it unforgettable.
 
 **Meeting Point**: By the Duke of York Statue, near Piccadilly Circus
 
@@ -57,5 +57,5 @@ Join us for an Insider London take on the sightseeing classic. Explore the fasci
 * Hear the tales of **Horse Guards Parade**
 * Meet the illegal pigeons of **Trafalgar Square**
 * Visit the execution site of Charles I – the only English king we have ever killed
-* Find out about **Downing Street’s** most popular twitter user
+* Find out about **Downing Street’s** most popular Twitter user
 * Catch a snap with **Big Ben**
