@@ -38,7 +38,7 @@ related:
 - 29332
 ---
 
-With growing awareness of climate change then policymakers and businesses alike are re-imagining London life. With a booming population and more than two-thousand years of history, London has a unique set of difficulties to face when transitioning into a sustainable future.
+With growing awareness of climate change then policymakers and businesses alike are re-imagining London life. With a booming population and more than two thousand years of history, London has a unique set of difficulties to face when transitioning into a sustainable future.
 
 We showcase a wide variety of approaches that demonstrate London is always up for a challenge. Find out more on our **[Sustainable London](#sustainable-london-tour)** or **[Sustainable Architecture](#sustainable-architecture)** Walking Tours.
 
@@ -65,7 +65,7 @@ Are you a student of ethical business, environmental science or human geography?
 * The sustainable credentials of hidden gems and well-known landmarks
 * One of the city’s first **ethical business hubs**
 * The latest stages of the UK’s **"war on plastic"**
-* Why London is seen as a world-leader in green **transport**
+* Why London is seen as a world leader in green **transport**
 * Exciting new green developments and eco-conscious retrofitting
 * London’s bid to become a “National Park City” and the **urban greening movement**
 
@@ -82,9 +82,9 @@ As architects step up to one of the greatest challenges in history, we look at t
 
 From energy and water savings to carbon-free commuting and renewable materials, both the construction and operations of buildings are examined. This is an exciting time for engineers and architects who consider brand new solutions and combine the latest in **innovative design and exciting new technology**.  
 
-With many factors at play, the challenges faced by architects in London are unique. The City of London hosts some of London’s most recognisable and impressive skyscrapers, but also upholds some of the world’s tightest planning regulations. How are the leading "starchitects" of our times balancing these challenges?
+With many factors at play, the challenges faced by architects in London are unique. The City of London hosts some of London’s most recognisable and impressive skyscrapers but also upholds some of the world’s tightest planning regulations. How are the leading "starchitects" of our times balancing these challenges?
 
-We examine at some of the capital’s most distinctive towers which boast green credentials and explore how the built environment is adapting to the needs of our time.
+We examine some of the capital’s most distinctive towers which boast green credentials and explore how the built environment is adapting to the needs of our time.
 
 **Meeting Point**: Outside the Andaz Hotel, Liverpool Street
 
