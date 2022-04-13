@@ -67,7 +67,7 @@ Students on this project:
 
 ### Company Project with Intelak – Start-Up Accelerator
 Student groups on this project:
-* Work directly with Intelak - the accelerator driven by the **Emirates Group, Dubai Tourism, Accenture and Microsoft** 
+* Work directly with Intelak - the accelerator-driven by the **Emirates Group, Dubai Tourism, Accenture and Microsoft** 
 
 * Identify what it takes to build a start-up in the aviation, travel and tourism sectors and what investors are looking for in a successful start-up
 
