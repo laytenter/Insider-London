@@ -49,7 +49,7 @@ This award-winning tour uncovers the hidden stories of London's iconic skyline. 
 
 In **two hours**, we journey through the latest architectural developments of the City of London, starting at St Paul’s and finishing at the many "kitchen items" of the Eastern cluster.
 
-In **three and a half hours**, this in-depth journey begins with the artistic jewels of Southwark before crossing over into the City of London. In this version we stop mid-way to refuel where our guides will show you one of the best views in London over a quick coffee break.
+In **three and a half hours**, this in-depth journey begins with the artistic jewels of Southwark before crossing over into the City of London. In this version, we stop mid-way to refuel where our guides will show you one of the best views in London over a quick coffee break.
 
 **On this walking tour you will discover:**
 
