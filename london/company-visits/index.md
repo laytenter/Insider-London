@@ -57,13 +57,13 @@ For real business insight out of the office or classroom then look no further th
 Our company visits for students and corporate groups showcase some of the world’s most powerful companies as well as the capital’s most innovative entrepreneurs, including:
 
 
-- **Metro Bank** – the first new UK high street bank in more than 150 years who started after the 2008 financial crisis. Come and discover their community-oriented business model
+- **Metro Bank** – the first new UK high street bank in more than 150 years that started after the 2008 financial crisis. Come and discover their community-oriented business model
 - **Seedrs** - the leading equity crowdfunding platform and the most active funder of private companies in the UK.  From fintech to food and beverages, they support companies from a wide range of industries to seek investment. The platform aims to make investment easy for anyone from angels and VCs to the general public, all managed online
 - **Sync.money** - represents the future of open banking allowing users to aggregate all financial accounts in one place, swap between different currencies and transfer funds to other users. Sync. has partnered with the world’s major banks including Barclays, HSBC, Lloyds, Santander, Citigroup and more
 - **Paysme** - fintech rolling out digital financial services to support small business customers on their journey to recovery. Paysme is to power Europe’s first Super App for underserved SMEs. Embedded finance tools include mobile payments, e-commerce, digital banking, accounting, lending and insurance
 
 
-- **Tribal Worldwide** - The global technology-based marketing agency, part of the Omnicons Group who develop creative solutions forMcDonalds, Adidas and Volkswagen
+- **Tribal Worldwide** - The global technology-based marketing agency, part of the Omnicons Group, that develops creative solutions for McDonald's, Adidas and Volkswagen
 - **Aberrant Architecture** - transforms run-down locations into vibrant community hubs, creating retail and business opportunities for local entrepreneurs. By engaging local communities in the design process, from a shopping centre in Eastbourne, England, to a former industrial space in Madrid, Spain.
 - **LOKE** – a super-app bringing together fascinating insight from marketing, fintech, big data and AI for clients like the Development Bank of Singapore and Nando’s
 - **Entocycle** – this cutting-edge biotechnology disruptor is developing the world’s most sustainable and efficient way to produce protein
