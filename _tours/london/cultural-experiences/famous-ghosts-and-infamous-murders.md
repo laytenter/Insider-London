@@ -63,7 +63,7 @@ Old London town is no stranger to ghost stories. This ancient city is host to al
 
 * Squeeze through one of London’s **narrowest alleyways**
 * Visit one of London’s many plague pits and one of the city’s earliest leper hospitals
-* Discover ghost behind a frighteningly tight Victorian bolero jacket
+* Discover a ghost behind a frighteningly tight Victorian bolero jacket
 * Venture down a **tunnel so haunted** that our Insider tour guides may not even be brave enough to walk down it
 * Learn about **the murder mystery** that gripped Londoners long before Jack the Ripper came on the scene
 * Explore the hidden alleys which became prime locations for films such as **Harry Potter**
