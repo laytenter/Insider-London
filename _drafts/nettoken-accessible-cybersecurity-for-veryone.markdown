@@ -1,5 +1,5 @@
 ---
-title: Nettoken - Making Digital Life Easier
+title: Nettoken - Accessible Cybersecurity for Everyone
 date: 2022-04-26 15:05:00 Z
 categories:
 - Business
