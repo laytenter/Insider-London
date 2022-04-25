@@ -18,7 +18,7 @@ description: Back in 2019, we had the fantastic opportunity to speak to Simonett
 ![Charlotte_Slingsby_and_Simonetta_dOttaviano_Nettoken_founders](/uploads/Charlotte%20Slingsby%20%20%20Simonetta%20d'Ottaviano%20-%20Nettoken%20founders.png)
 <small><em>Nettoken founders: Charlotte Slingsby and Simonetta d'Ottaviano</em></small>
 
-*Back in 2019, we had the fantastic opportunity to speak to Simonetta d’Ottaviano, co-founder of [Nettoken](https://www.nettoken.io/) and get her perspective on women in tech as well as the general tech eco-system in the UK. We have caught up with Simonetta to check what has happened in the last two years.*
+*Back in 2019, we had the fantastic opportunity to speak to Simonetta d’Ottaviano, co-founder of [Nettoken](https://www.nettoken.io/) and get her perspective on women in tech as well as the general tech eco-system in the UK. We have caught up with Simonetta to check what has happened in the last two years and how has Nettoken flourished.*
 
 ###### IL: Hi Simonetta, it is so lovely to catch up with you and Nettoken again, the last interview was done in August 2019, and a lot has happened over the past 2 years. It is simply wonderful to see Nettoken has flourished during the unprecedented period of our life, can you give us some updated news on the development of Nettoken? 
 
@@ -52,3 +52,5 @@ Charlotte and I have been a team for several years now and what I can say for su
 ###### IL: As one of the very few female founders of a tech start-up, especially in the Cyber Security space, do you have any advice for our students in terms of career paths in computer science? Any particular skills or a course they should be learning? 
 
 **SO:** More than the exact skills my advice would be to choose a mission that you really think would make a difference in this space and that you are really into. That will give you the drive to try different techs and learn the skills you need to serve that mission and succeed.
+
+*Insider London is proud to partner with [Nettoken](https://www.nettoken.io/). For Company Visit with Nettoken as well as other pioneering tech entrepreneurs, get in touch via contact@insiderlondon.com to book your visit today.*
