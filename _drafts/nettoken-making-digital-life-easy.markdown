@@ -53,4 +53,4 @@ Charlotte and I have been a team for several years now and what I can say for su
 
 **SO:** More than the exact skills my advice would be to choose a mission that you really think would make a difference in this space and that you are really into. That will give you the drive to try different techs and learn the skills you need to serve that mission and succeed.
 
-*Insider London is proud to partner with [Nettoken](https://www.nettoken.io/). For Company Visit with Nettoken as well as other pioneering tech entrepreneurs, get in touch via contact@insiderlondon.com to book your visit today.*
+*Insider London is proud to partner with [Nettoken](https://www.nettoken.io/). For Company Visit with Nettoken as well as other pioneering tech entrepreneurs, get in touch via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a> to book your visit today.*
