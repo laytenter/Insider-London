@@ -13,12 +13,15 @@ description: Back in 2019, we had the fantastic opportunity to speak to Simonett
   d’Ottaviano, co-founder of [Nettoken](https://www.nettoken.io/) and get her perspective
   on women in tech as well as the general tech eco-system in the UK. We have caught
   up with Simonetta to check what has happened in the last two years.
+excerpt_separator: "<!--more-->"
 ---
 
 ![Charlotte_Slingsby_and_Simonetta_dOttaviano_Nettoken_founders](/uploads/Charlotte%20Slingsby%20%20%20Simonetta%20d'Ottaviano%20-%20Nettoken%20founders.png)
 <small><em>Nettoken founders: Charlotte Slingsby and Simonetta d'Ottaviano</em></small>
 
 *Back in 2019, we had the fantastic opportunity to speak to Simonetta d’Ottaviano, co-founder of [Nettoken](https://www.nettoken.io/) and get her perspective on women in tech as well as the general tech eco-system in the UK. We have caught up with Simonetta to check what has happened in the last two years and how has Nettoken flourished.*
+
+<!--more-->
 
 ###### IL: Hi Simonetta, it is so lovely to catch up with you and Nettoken again, the last interview was done in August 2019, and a lot has happened over the past 2 years. It is simply wonderful to see Nettoken has flourished during the unprecedented period of our life, can you give us some updated news on the development of Nettoken? 
 
