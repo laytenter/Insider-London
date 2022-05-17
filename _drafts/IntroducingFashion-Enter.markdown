@@ -20,7 +20,7 @@ tags:
 
 This week we are introducing [Fashion Enter](https://www.fashion-enter.com/), a UK based not-for-profit company which facilitates garment production in its state of the art factory in London as well as aims to drive ethical and sustainable business practices across the country.
 
-###The Factory
+### The Factory
 
 Established in 2010 and based in London the Fashion Enter factory makes approximately 15,000 garments a week for an array of clients, including ASOS.com, M&S, Amazon and River Island to name a few.
 For smaller businesses or individuals looking to enter the sector, lowering barriers of entry to the fashion industry there is the Fashion Studio. The Studio is for smaller-scale garment conception and creation helping with pattern sealing, pattern trade etc… and has more than 77 customers.
@@ -30,7 +30,7 @@ As the fashion industry operates on very tight margins, sustainability may be ne
 Fashion Enter has solved that by minimising inefficiencies and thus reducing the cost of manufacturing, by providing employees in their factory with a phone to digitise production. Meaning that they can track each employee's productivity and the amount of work that has been done in a single day to identify where the inefficiencies occur. 
 
 
-###The Tailoring Academy
+### The Tailoring Academy
 
 Digitisation in the fashion industry is being implemented where it can be. However, the nature of garment production makes it difficult to do so, due to the complexity of some attire when considering the automation of manufacturing, and the skill gap with an ageing employee scope within the industry. 
 
