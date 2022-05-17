@@ -1,5 +1,5 @@
 ---
-title: Enter Fashion
+title: Introducing - Fashion Enter
 date: 2022-05-17 08:32:00 Z
 ---
 
