@@ -3,16 +3,24 @@ title: Enter Fashion
 date: 2022-05-17 08:32:00 Z
 ---
 
-This week we are introducing [Fashion Enter](https://www.fashion-enter.com/), a UK based not-for-profit company which facilitates garment production in its state of the art factory as well as aims to drive ethical and sustainable business practices across the country with its sister company - Fashion Capital.
+This week we are introducing [Fashion Enter](https://www.fashion-enter.com/), a UK based not-for-profit company which facilitates garment production in its state of the art factory in London as well as aims to drive ethical and sustainable business practices across the country.
 
 ###The Factory
 
-As the fashion industry operates on very tight margins for each garment manufactured there is fear that sustainability will be neglected in the long run. The more sustainable a company within the sector is, the higher its costs of production will be.
-Fashion Enter with its innovative approach has provided each employee with a phone to digitise production.
+Established in 2010 and based in London the Fashion Enter factory makes approximately 15,000 garments a week for an array of clients, including ASOS.com, M&S, Amazon and River Island to name a few.
 
-Meaning that they can track each employee's productivity and the amount of work that has been done in a single day to identify where the inefficiencies occur. 
+As the fashion industry operates on very tight margins, sustainability may be neglected in the long run. The more ethical a company within the sector is, the higher its costs of production will be.
+
+Fashion Enter has solved that by minimising inefficiencies and thus reducing the cost of manufacturing, by providing employees in their factory with a phone to digitise production. Meaning that they can track each employee's productivity and the amount of work that has been done in a single day to identify where the inefficiencies occur. 
+
+
+###The Tailoring Academy
+
+Digitisation in the fashion industry is being implemented where it can be. However, the nature of garment production makes it difficult to do so, due to the complexity of some attire when considering the automation of manufacturing, and the skill gap with an ageing employee scope within the industry. 
+
+To bridge the skill gap Fashion Enter has created the Fashion Technology Academy and the Tailoring Academy, which is also a college, giving back to the community by providing courses in garment production, and boosting local creativity.
+
+To learn more about Fashion Enter and book a company visit
+
  
-The production factory facilitates garment manufacture for an array of clients for orders of 500 items and above. Their clients include ASOS.com, M & S, Amazon and River Island to name a few. However, there are sometimes exceptions for their order minimum when working with high-end fashion designers. 
 
-
-The fashion studio facilitates the lowering of barriers of entry to the fashion industry for smaller businesses or individuals looking to enter the sector. The studio is for smaller-scale garment conception and creation helping with pattern sealing, pattern trade etc… and has more than 77 customers.
