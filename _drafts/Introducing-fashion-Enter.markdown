@@ -18,11 +18,13 @@ tags:
 ![AdobeStock_246378115.jpeg](/uploads/AdobeStock_246378115.jpeg)
 
 
-This week we are introducing [Fashion Enter](https://www.fashion-enter.com/), a UK based not-for-profit company which facilitates garment production in its state of the art factory in London as well as aims to drive ethical and sustainable business practices across the country.
+This week we are introducing [Fashion Enter](https://www.fashion-enter.com/), UK based social enterprise company which facilitates garment production in its state of the art factory in London as well as aims to drive ethical and sustainable business practices across the country.
 
 ### The Factory
 
-Established in 2010 and based in London the Fashion Enter factory makes approximately 15,000 garments a week for an array of clients, including ASOS.com, M&S, Amazon and River Island to name a few.
+Established in 2010 and based in London the Fashion Enter Factory makes approximately 15,000 garments a week for an array of clients, including ASOS.com, M&S, Amazon and River Island to name a few.
+
+We were privileged 
 For smaller businesses or individuals looking to enter the sector, lowering barriers of entry to the fashion industry there is the Fashion Studio. The Studio is for smaller-scale garment conception and creation helping with pattern sealing, pattern trade etc… and has more than 77 customers.
 
 As the fashion industry operates on very tight margins, sustainability may be neglected in the long run. The more ethical a company within the sector is, the higher its costs of production will be.
@@ -37,6 +39,8 @@ Digitisation in the fashion industry is being implemented where it can be. Howev
 To bridge the skill gap Fashion Enter has created the Fashion Technology Academy and the Tailoring Academy, which is also a college, giving back to the community by providing courses in garment production, and boosting local creativity.
 
 
-*Insider London is proud to partner with [Fashion Enter](https://www.fashion-enter.com/). For Company Visit with Fashion Enter as well as other pioneering social enterprises, get in touch via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a> to book your visit today.*
+
+*Insider London is proud to partner with [Fashion Enter](https://www.fashion-enter.com/). 
+For a fascinating insight into Fashion Enter digital production with CAD to reduce wastage and maximise quality; an array of highly skilled workers move quickly and accurately through their workloads; as well as quality control procedures for the bespoke production of garments for high-end clients and understanding a different style of manufacturing with high-quality fabrics, book your [Company Visit](https://www.insiderlondon.com/london/company-visits/) via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a> today.*
  
 
