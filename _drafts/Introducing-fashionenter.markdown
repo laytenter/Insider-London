@@ -6,7 +6,6 @@ categories:
 - Sustainability
 tags:
 - social commerce
-- social enterprise
 - reshoring
 - tailoring
 - fashion
@@ -51,7 +50,7 @@ To bridge the skill gap Fashion Enter has created the Fashion Technology Academy
 
 
 
-*Insider London is proud to partner with [Fashion Enter](https://www.fashion-enter.com/). For Company Visit with Fashion Enter to see for yourself the whole production process I'm their factory, as well as other pioneering social enterprises, get in touch via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a> to book your visit today.*
+*Insider London is proud to partner with [Fashion Enter](https://www.fashion-enter.com/). For Company Visit with Fashion Enter to see for yourself the whole production process in the factory, as well as other pioneering social enterprises, get in touch via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a> to book your visit today.*
  
 
 
