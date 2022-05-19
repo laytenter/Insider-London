@@ -14,8 +14,7 @@ tags:
 - sustainable business
 ---
 
-![IMG_20220510_153551.jpg](/uploads/IMG_20220510_153551.jpg)
-
+![Fasion_enter_factory](/uploads/Fasion_enter_factory.jpg)
 
 This week we are introducing [Fashion Enter](https://www.fashion-enter.com/), a UK based company which facilitates garment production in its state of the art factory in London as well as aims to drive ethical and sustainable business practices across the country.
 
@@ -36,7 +35,7 @@ As well as seeing the mass-production aspect of the factory, we were also shown 
 This wonderful tour gave us insight into how a UK based fashion manufacturing can be suitable.
 Generally, as the fashion industry operates on very tight margins, sustainability may be neglected in the long run. The more ethical a company within the sector is, the higher its costs of production will be.
 
-![IMG_20220510_152430.jpg](/uploads/IMG_20220510_152430.jpg)
+![fasion_enter_quality](/uploads/fasion_enter_quality.jpg)
 
 Fashion Enter has solved that by minimising inefficiencies and thus reducing the cost of manufacturing, by providing employees in their factory with a phone to digitise production. Meaning that they can track each employee's productivity and the amount of work that has been done in a single day to identify where the inefficiencies occur. 
 
