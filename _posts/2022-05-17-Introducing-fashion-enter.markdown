@@ -23,7 +23,7 @@ Established in 2010 and based in London the Fashion Enter factory makes approxim
 
 ### The Factory
 
-We were privileged to take part in the tour of the Fashion Enter factory in North London to experience what goes behind making this business unique. After the health and safety presentation, we went onto the production line where highly skilled seamstresses moved quickly and accurately through their workloads. 
+We were privileged to take part in the tour of the Fashion Enter factory in North London to experience what makes this business unique. After the health and safety presentation, we went onto the production line where highly skilled seamstresses moved quickly and accurately through their workloads. 
 We witnessed all the processes in the manufacturing of garments from fabric cutting to quality control procedures and item pressing. 
 
 
