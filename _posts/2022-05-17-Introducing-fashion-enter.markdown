@@ -18,7 +18,7 @@ tags:
 
 This week we are introducing [Fashion Enter](https://www.fashion-enter.com/), a UK based company which facilitates garment production in its state of the art factory in London as well as aims to drive ethical and sustainable business practices across the country.
 
-Established in 2010 and based in London the Fashion Enter factory makes approximately 15,000 garments a week for an array of clients, including ASOS.com, M&S, Amazon and River Island to name a few.
+Established in 2010 and based in London the Fashion Enter factory makes approximately 15,000 garments a week for an array of clients, including ASOS.com and M&S to name a few.
 
 
 ### The Factory
