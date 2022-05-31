@@ -9,10 +9,6 @@ tags:
 - kings cross
 - Kings Cross Regeneration
 - tech hubs
-description: This week we have revisited King's Cross to check on the progress of
-  the new Google building, which will become its headquarters. The building, known
-  as KGX1, will combine with Google’s existing offices at 6 Pancras Square and should
-  be completed by 2024.
 ---
 
 ![google_hq](/uploads/google%20hq.jpg)
@@ -26,7 +22,7 @@ In 2018 Google started building its new “landscraper” London headquarters in
 The building is not only going to be for the Google employees, but alongside the individual retail units, a market hall will offer a launchpad for small businesses. At the same time, a community, education and event space will host a changing programme of events all year round.
 
 ###### ‘We want the spaces and experiences we offer to create opportunity for local people and businesses and contribute to the culture of entrepreneurship and vibrancy of the area,’
- - Ronan Harris, Vice President and MD, Google UK & Ireland
+ -Ronan Harris, Vice President and MD, Google UK & Ireland
 
 
 #### Other Arrivals
