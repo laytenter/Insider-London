@@ -32,7 +32,7 @@ Once completed, it will bring Google’s total number of offices in the area to 
 Other notable arrivals into the King's Cross area include:
 
 [Francis Crick Institute](https://www.crick.ac.uk/) - the largest biomedical research institute in Europe focuses on the biology underlying health and disease.
-https://www.kingscross.co.uk/press/2015/10/05/universal-music-takes-office-space-at-kings-cross - the record label, one of the big three and Sony and Warner Group, moved here from Kensington in 2018.
+[Universal Music](https://www.kingscross.co.uk/press/2015/10/05/universal-music-takes-office-space-at-kings-cross) - the record label, one of the big three and Sony and Warner Group, moved here from Kensington in 2018.
 
 *Discover more about King’s Cross Regeneration with our informative [walking tour](https://www.insiderlondon.com/london/educational-tours/kings-cross-regeneration/). We analyse the development of this “destination station”, and look at how the local authorities have wisely invested to improve the public realm and attract some of the world’s biggest businesses to the area.
 Get in touch via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a> to book your visit today*
