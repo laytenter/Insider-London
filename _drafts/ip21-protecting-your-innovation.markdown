@@ -1,6 +1,17 @@
 ---
 title: IP21 - Protecting Your Innovation
 date: 2022-06-16 06:12:00 Z
+categories:
+- Business
+tags:
+- intellectual property
+- intellectual assets
+- protecting innovation
+- entrepreneurship
+- start-ups
+- copyright
+- emerging industries
+- tech week
 description: The second part of an interview with Dr Rachel Daniel and Ed Clarke from
   IP21, a leading law firm specialising in intellectual property services. Building
   a sustainable IP portfolio for start-ups is important to protect their innovation,
@@ -35,5 +46,5 @@ excerpt_separator: "<!--more-->"
 
 **IP21:** We’ve been working with a fintech startup in London since their very early stages. IP was part of their business model from the beginning, and we’ve helped them develop an IP strategy which was based on a fairly limited budget at the start. By understanding their needs, we were able to defer some of the larger cost stages as far as possible while the business was developing and growing and attracting investment. The company’s IP portfolio has developed over time – and continues to do so. The business was recently valued at around $2bn.
 
-*Insider London is proud to partner with **IP21**. For a bespoke [Company Visit](https://www.insiderlondon.com/london/company-visits/) to get a further insight into how IP21 is helping start-ups succeed, get in touch via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a>to book your visit today, and you can follow them on Twitter [@ipTwentyOne
+*Insider London is proud to partner with [IP21](https://ip21.com). For a bespoke [Company Visit](https://www.insiderlondon.com/london/company-visits/) to get a further insight into how IP21 is helping start-ups succeed, get in touch via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a> to book your visit today, and you can follow them on Twitter [@ipTwentyOne
 ](https://twitter.com/iptwentyone?lang=en) and [LinkedIn](https://www.linkedin.com/company/ip21-ltd/).*
