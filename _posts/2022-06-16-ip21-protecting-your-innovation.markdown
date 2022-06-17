@@ -21,7 +21,7 @@ excerpt_separator: "<!--more-->"
 
 ![ip21](/uploads/ip21.jpg)
 
-*As this week is the [London Tech Week](https://londontechweek.com/), we are realising the second part of the interview with **Dr Rachel Daniel** and **Ed Clarke** from [IP21](https://ip21.com), a leading law firm specialising in intellectual property services. You can read the first part of the interview [here](https://www.insiderlondon.com/blog/introducing-ip21-protecting-your-innovation/)*
+*As this week is [London Tech Week](https://londontechweek.com/), we are realising the second part of the interview with **Dr Rachel Daniel** and **Ed Clarke** from [IP21](https://ip21.com), a leading law firm specialising in intellectual property services. You can read the first part of the interview [here](https://www.insiderlondon.com/blog/introducing-ip21-protecting-your-innovation/)*
 
 **IL:** ***If an entrepreneur is interested in protecting their most valuable IP assets, could a robust IP position be created on a start-up’s limited budget?***
 
