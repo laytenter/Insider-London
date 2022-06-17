@@ -22,6 +22,11 @@ excerpt_separator: "<!--more-->"
 
 **IP21:** One thing that everybody who is even considering protecting the rights to an invention in the future should do is to be extremely careful with who has access to its technical information. Novelty is a requirement for a patent to be granted, so disclosing technical information too early or to the wrong person could stop you ever getting it patented. Consider NDAs if needed. It is also essential to be aware of what rights somebody else could have in your work when they fund you, employ you or collaborate with you. It may not be immediately obvious to you, so always check this ideally before you start the working relationship.
 
+<div class="u-flex u-flex-wrap u-flex-justify-content-space-between u-padding-large" >
+<div class="u-flex u-flex-align-center u-flex-direction-column u-padding-small">
+<img src="/uploads/Dr%20Rachel%20Daniel_resized.jpg" alt="Dr Rachel Daniel"  width="240" height="240px" style="border-radius:50%" class="dropdown-menu-inner"><p class="small u-margin-top-small"><em>Dr Rachel Daniel, IP Specialist</em></p></div>
+<div class="u-flex u-flex-align-center u-flex-direction-column u-padding-small"><img src="/uploads/Ed%20Clarke_edited.jpg" alt="Ed Clarke"  width="240" height="240px" style="border-radius:50%" class="dropdown-menu-inner"><p class="small u-margin-top-small"><em>Ed Clarke, UK and European Attorney</em></p></div></div>
+
 **IL:** ***How much value can be added to the company valuation if their intellectual property is protected?***
 
 **IP21:** The sky is the limit! Clearly, this will vary from business to business, but for early stage and innovative businesses, IP can make up a significant proportion of the value of the company. Potential investors are often very interested to know what IP has been protected.
