@@ -31,7 +31,7 @@ Located in the heart of London’s financial district, Level 39 is an accelerato
 Almost 200 [member companies](https://www.level39.co/members/) call the space home – all of which are considered ‘fast-growth tech companies’.
 Level39 sets itself apart from the other major tech communities in London through its ability to elevate its businesses ahead of a heavily crowded tech sector and create a community of leading industry innovators.
 
-*##### “Level39’s entrepreneurs are characterised by their focus, ambition and willingness to help each other. They learn from one another, at times they compete, the kind of competition which opens up new opportunities”*
+##### *“Level39’s entrepreneurs are characterised by their focus, ambition and willingness to help each other. They learn from one another, at times they compete, the kind of competition which opens up new opportunities”*
 <p style="text-align:right">-Asif Faruque, Head of Content at Level39</p>
 
 There are several competing accelerator projects and spaces across London and the UK. However, almost always these are tied to a particular organisation and ultimately are designed around meeting their interests rather than the start-ups. Level39, by its independence of these aims and ultimate goal as a landlord, has a direct incentive to help entrepreneurs grow.
