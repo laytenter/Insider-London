@@ -33,8 +33,8 @@ Level39 sets itself apart from the other major tech communities in London throug
 There are several competing accelerator projects and spaces across London and the UK. However, almost always these are tied to a particular organisation and ultimately are designed around meeting their interests rather than the start-ups. Level39, by its independence of these aims and ultimate goal as a landlord, has a direct incentive to help entrepreneurs grow.
 
 *“Level39’s entrepreneurs are characterised by their focus, ambition and willingness to help each other. They learn from one another, at times they compete, the kind of competition which opens up new opportunities”*
-<p style="align:right">-Asif Faruque, Head of Content at Level39</p>
+<p style="text-align:right">-Asif Faruque, Head of Content at Level39</p>
 
-*To find out more about entrepreneurs at Level39 and get further inside the London tech hub, book bespoke [Company Visit](https://www.insiderlondon.com/london/company-visits/) via <a href="mailto:contact@insiderlondon.com"*
+*To find out more about entrepreneurs at Level39 and get further inside the London tech hub, book bespoke [Company Visit](https://www.insiderlondon.com/london/company-visits/) via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a>*
 
 
