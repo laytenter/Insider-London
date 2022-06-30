@@ -38,6 +38,6 @@ Level39 sets itself apart from the other major tech communities in London throug
 There are several competing accelerator projects and spaces across London and the UK. However, almost always these are tied to a particular organisation and ultimately are designed around meeting their interests rather than the start-ups. Level39, by its independence of these aims and ultimate goal as a landlord, has a direct incentive to help entrepreneurs grow.
 
 
-*Insider London is taking up a residence at Level39 to be closer to the heart of FinTech and witness its growth and next trend. To find out more about entrepreneurs at Level39 and get further inside the London tech hub, book bespoke [Company Visit](https://www.insiderlondon.com/london/company-visits/) via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a>*
+*Insider London is taking up a residence at Level39 to be closer to the heart of FinTech and witness its growth and next trend. To find out more about entrepreneurs at Level39 and get further inside the London tech hub, book a bespoke [Company Visit](https://www.insiderlondon.com/london/company-visits/) via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a>*
 
 
