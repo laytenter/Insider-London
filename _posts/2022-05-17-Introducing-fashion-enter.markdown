@@ -14,7 +14,7 @@ tags:
 - sustainable business
 ---
 
-![Fasion_enter_factory](/uploads/Fasion_enter_factory.jpg)
+![Fasion_enter_factory](/uploads/Fasion_enter_factory@800.jpg)
 
 This week we are introducing [Fashion Enter](https://www.fashion-enter.com/), a UK based company which facilitates garment production in its state of the art factory in London as well as aims to drive ethical and sustainable business practices across the country.
 
