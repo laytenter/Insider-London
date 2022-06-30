@@ -9,6 +9,8 @@ tags:
 - entrepreneurship
 - canary wharf
 - level39
+- fintech
+- cybersecurity
 description: Level39 sets itself apart from the other major tech communities in London
   through its ability to elevate its businesses ahead of a heavily crowded tech sector
   and create a community of leading industry innovators
