@@ -1,5 +1,5 @@
 ---
-title: level39 - Tech Hub in Canary Wharf
+title: Level39 - Tech Hub in Canary Wharf
 date: 2022-06-30 10:25:00 Z
 categories:
 - Business
