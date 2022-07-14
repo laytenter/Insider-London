@@ -29,5 +29,5 @@ As private cars, for example, are parked 95% of the time on average, the car sha
 
 Sustainable lifestyle choices of reusing and utilising the existing cars follow the idea that reducing excess capacity will produce an environmental benefit. Fewer resources are required in production: why make another car, if you can get people to rent out their own?
 
-*Insider London is proud to partner with [Turo](https://turo.com/gb/en). For [Company Visit](https://www.insiderlondon.com/london/company-visits/) with Turo to see for yourself how the are pioneering the share economy model, as well as other sustainable tech enterprises, get in touch via contact@insiderlondon.com to book your visit today.*
+*Insider London is proud to partner with [Turo](https://turo.com/gb/en). For [Company Visit](https://www.insiderlondon.com/london/company-visits/) with Turo to see for yourself how the are pioneering the share economy model, as well as other sustainable tech enterprises, get in touch via [contact@insiderlondon.com](https://www.insiderlondon.com/contact-us/) to book your visit today.*
  
