@@ -1,6 +1,8 @@
 ---
 title: Turo - Sustainable Car Sharing Marketplace
 date: 2022-07-14 17:08:00 Z
+categories:
+- Business
 tags:
 - car sharing
 - tech
@@ -9,7 +11,7 @@ tags:
 
 ![pexels-andrea-piacquadio-3774903.jpg](/uploads/pexels-andrea-piacquadio-3774903.jpg)
 
-This week we have a look at the car rental industry and how sustainable is it, and how car sharing is further disrupting the old business model.  
+This week we have a look at the car rental industry and how sustainable is it, and how car sharing is disrupting the old business model.  
  
 #### The Old Model 
 
@@ -25,7 +27,7 @@ The selection of vehicles also can be much more varied — which can be a boon b
 
 #### Environmental Benefits 
 
-As private cars, for example, are parked 95% of the time on average, the car sharing eliminates the unused asset like never before. Instead of carpooling, there’s a fleet of cars on every corner, available at the push of a button.
+As private cars, for example, are [parked](https://fortune.com/2016/03/13/cars-parked-95-percent-of-time/) 95% of the time on average, the car sharing eliminates the unused asset like never before. Instead of carpooling, there’s a fleet of cars on every corner, available at the push of a button.
 
 Sustainable lifestyle choices of reusing and utilising the existing cars follow the idea that reducing excess capacity will produce an environmental benefit. Fewer resources are required in production: why make another car, if you can get people to rent out their own?
 
