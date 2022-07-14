@@ -10,6 +10,7 @@ tags:
 - p2p
 description: 'This week we have a look at the car rental industry and how sustainable
   is it, and how car sharing is disrupting the old business model.  '
+excerpt_separator: "<!--read-->"
 ---
 
 ![pexels-andrea-piacquadio-3774903.jpg](/uploads/pexels-andrea-piacquadio-3774903.jpg)
