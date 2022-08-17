@@ -15,7 +15,7 @@ excerpt_separator: "<!--read-->"
 
 ![pexels-andrea-piacquadio-3774903.jpg](/uploads/pexels-andrea-piacquadio-3774903.jpg)
 
-This week we have a look at the car rental industry and how sustainable is it, and how car sharing is disrupting the old business model.  
+This week we look at the car rental industry, how sustainable it is, and how car sharing is disrupting the old business model.  
  
 <!--read-->
 
@@ -23,7 +23,7 @@ This week we have a look at the car rental industry and how sustainable is it, a
 
 This year saw a second consecutive decline in car ownership in the UK for the first time in 40 years. The car industry has been already grappling with semiconductor shortages, and this adds to the list of concerns for both manufacturers and policymakers.
 
-Traditional rental companies like Hertz and Avis rely on owning hundreds of thousands of vehicles and cannot replenish their fleets for months after pandemic restrictions have been lifted. Even if they restock in the next couple of years, the increased maintenance cost of running cars is going to cut into their margins. That would only mean a further rise in rental prices, which is already at a record high.
+Traditional rental companies like Hertz and Avis rely on owning hundreds of thousands of vehicles. They haven't been able to replenish their fleets for months after pandemic restrictions have been lifted. Even if they restock in the next couple of years, the increased maintenance cost of running cars is going to cut into their margins. That would only mean a further rise in rental prices, which is already at a record high.
  
 #### Disrupting the Old Model
 
