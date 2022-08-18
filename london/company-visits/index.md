@@ -57,16 +57,15 @@ For real business insight out of the office or classroom then look no further th
 Our company visits for students and corporate groups showcase some of the world’s most powerful companies as well as the capital’s most innovative entrepreneurs, including:
 
 
-- **Metro Bank** – the first new UK high street bank in more than 150 years that started after the 2008 financial crisis. Come and discover their community-oriented business model
-- **Seedrs** - the leading equity crowdfunding platform and the most active funder of private companies in the UK.  From fintech to food and beverages, they support companies from a wide range of industries to seek investment. The platform aims to make investment easy for anyone from angels and VCs to the general public, all managed online
-- **Sync.money** - represents the future of open banking allowing users to aggregate all financial accounts in one place, swap between different currencies and transfer funds to other users. Sync. has partnered with the world’s major banks including Barclays, HSBC, Lloyds, Santander, Citigroup and more
-- **Paysme** - fintech rolling out digital financial services to support small business customers on their journey to recovery. Paysme is to power Europe’s first Super App for underserved SMEs. Embedded finance tools include mobile payments, e-commerce, digital banking, accounting, lending and insurance
+- **Seedrs** - the leading equity crowdfunding platform and the most active funder of private companies in the UK.  From fintech to food and beverages, they support companies from a wide range of industries to seek investment. The platform aims to make investment easy for anyone from angels and VCs to the general public, all managed online
+- **Turo** – the Airbnb for cars, making car sharing easy, profitable and stylish. With a presence in over 7,000 cities in North America, this exciting Silicon Valley star is now making waves around the world.
+- **Paysme** – the dynamic fintech rolling out digital financial services to support small business customers on their journey to recovery. Paysme is to power Europe’s first Super App for underserved SMEs. Embedded finance tools include mobile payments, e-commerce, digital banking, accounting, lending and insurance
+- **Tribal Worldwide** - the global technology-based marketing agency, part of the Omnicons Group, that develops creative solutions for McDonald’s, Adidas and Volkswagen
 
-
-- **Tribal Worldwide** - The global technology-based marketing agency, part of the Omnicons Group, that develops creative solutions for McDonald's, Adidas and Volkswagen
-- **Aberrant Architecture** - transforms run-down locations into vibrant community hubs, creating retail and business opportunities for local entrepreneurs. By engaging local communities in the design process, from a shopping centre in Eastbourne, England, to a former industrial space in Madrid, Spain.
-- **LOKE** – a super-app bringing together fascinating insight from marketing, fintech, big data and AI for clients like the Development Bank of Singapore and Nando’s
-- **Entocycle** – this cutting-edge biotechnology disruptor is developing the world’s most sustainable and efficient way to produce protein
+- **Aberrant Architecture** – the pioneers transforming run-down locations into vibrant community hubs. This architecture practice engages local communities to create amazing spaces from shopping centres to schools. This award-winning firm boasts an international portfolio.
+- **Plum Fintech** – the financial super-app app trusted by over 1.3 million users. This dynamic AI-driven tool platform helps customers to save, earn and invest seamlessly. Making money go further, Plum Fintech has partnered with 9 major banks and offers a variety of exciting features.
+- **Formula Media** – the digital disruptors driving forward the future of marketing. Formula Media pair CTV, AI, AR, VR and more with their innovative use of data. Discover the brand-storytellers who have partnered with the Prince’s Trust and Soho House.
+- **Junee** – the drivers of sustainability waging war on single-use packaging. Through smart logistics and a wealth of partnerships Junee is driving forward the circular economy. 
 
 Insider London’s Company Visits are a unique opportunity for corporate groups and government officials looking for a rare behind-the-scenes experience, as well as for student groups looking to explore real-life thriving business models. Our visits provide an opportunity to make vital contacts and discover key challenges of the modern world in specific industries.
 
