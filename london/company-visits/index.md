@@ -57,10 +57,10 @@ For real business insight out of the office or classroom then look no further th
 Our company visits for students and corporate groups showcase some of the world’s most powerful companies as well as the capital’s most innovative entrepreneurs, including:
 
 
-- **Seedrs** - the leading equity crowdfunding platform and the most active funder of private companies in the UK.  From fintech to food and beverages, they support companies from a wide range of industries to seek investment. The platform aims to make investment easy for anyone from angels and VCs to the general public, all managed online
+- **Seedrs** - the leading equity crowdfunding platform and the most active funder of private companies in the UK.  From fintech to food and beverages, they support companies from a wide range of industries to seek investment. The platform aims to make investment easy for anyone from angels and VCs to the general public, all managed online.
 - **Turo** – the Airbnb for cars, making car sharing easy, profitable and stylish. With a presence in over 7,000 cities in North America, this exciting Silicon Valley star is now making waves around the world.
-- **Paysme** – the dynamic fintech rolling out digital financial services to support small business customers on their journey to recovery. Paysme is to power Europe’s first Super App for underserved SMEs. Embedded finance tools include mobile payments, e-commerce, digital banking, accounting, lending and insurance
-- **Tribal Worldwide** - the global technology-based marketing agency, part of the Omnicons Group, that develops creative solutions for McDonald’s, Adidas and Volkswagen
+- **Paysme** – the dynamic fintech rolling out digital financial services to support small business customers. Paysme is to power Europe’s first Super App for underserved SMEs. Embedded finance tools include mobile payments, e-commerce, digital banking, accounting, lending and insurance.
+- **Tribal Worldwide** - the global technology-based marketing agency, part of the Omnicons Group, that develops creative solutions for McDonald’s, Adidas, and Volkswagen.
 
 - **Aberrant Architecture** – the pioneers transforming run-down locations into vibrant community hubs. This architecture practice engages local communities to create amazing spaces from shopping centres to schools. This award-winning firm boasts an international portfolio.
 - **Plum Fintech** – the financial super-app app trusted by over 1.3 million users. This dynamic AI-driven tool platform helps customers to save, earn and invest seamlessly. Making money go further, Plum Fintech has partnered with 9 major banks and offers a variety of exciting features.
