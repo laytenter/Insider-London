@@ -1,5 +1,5 @@
 ---
-title: Spotlight on Turbo - World's Largest P2P Car Sharing Platform
+title: Spotlight on Turbo - The World's Largest Peer-to-Peer Car Sharing Platform
 date: 2022-07-14 17:08:00 Z
 categories:
 - Business
@@ -16,7 +16,7 @@ excerpt_separator: "<!--read-->"
 
 ![pexels-andrea-piacquadio-3774903.jpg](/uploads/pexels-andrea-piacquadio-3774903.jpg)
 
-This week we are taking a look at [Turo](https://turo.com/gb/en), a car-sharing platform that is changing the car rental industry, which is also Insider London’s new partner for our exciting company visits in London.
+This week we are taking a look at [Turo](https://turo.com/gb/en), the world's largest peer-to-peer car sharing platform that is changing the car rental industry, which is also Insider London’s new partner for our exciting company visits in London.
  
 <!--read-->
 
