@@ -40,7 +40,7 @@ The company reported $142 million in net revenue in 2019. In 2020, revenue rose 
 
 Inventors are seeing opportunities in Turo. The Turo IPO is coming to the market sometime in 2022 on the New York Stock Exchange with JP Morgan, and Morgan Stanley leading the offering.
 
-"We estimate that our $230 billion total addressable includes $134 billion in North America, $65 billion in Europe, and $31 billion in the rest of the world (which consists of selected countries in which we believe we have a medium to the long-term opportunity to onboard hosts),” according to the filing.
+"We estimate that our $230 billion total addressable includes $134 billion in North America, $65 billion in Europe, and $31 billion in the rest of the world (which consists of selected countries in which we believe we have a medium to long-term opportunity to onboard hosts),” according to the filing.
 
 
 *Insider London is proud to partner with [Turo](https://turo.com/gb/en). For [Company Visit](https://www.insiderlondon.com/london/company-visits/) with Turo to see for yourself how they are pioneering the P2P car-sharing, as well as other sustainable tech enterprises, get in touch via [contact@insiderlondon.com](https://www.insiderlondon.com/contact-us/) to book your visit today.*
