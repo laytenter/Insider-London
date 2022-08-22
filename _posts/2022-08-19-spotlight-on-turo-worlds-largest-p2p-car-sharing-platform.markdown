@@ -1,5 +1,5 @@
 ---
-title: Spotlight on Turbo - The World's Largest Peer-to-Peer Car Sharing Platform
+title: Spotlight on Turo - The World's Largest Peer-to-Peer Car Sharing Platform
 date: 2022-08-19 17:08:00 Z
 categories:
 - Business
@@ -10,7 +10,7 @@ tags:
 - car rental
 - silicon valley
 - disruptor
-description: Turo a car-sharing platform that is changing the car rental industry.
+description: Turo a p2p car-sharing platform that is changing the car rental industry.
 excerpt_separator: "<!--read-->"
 ---
 
