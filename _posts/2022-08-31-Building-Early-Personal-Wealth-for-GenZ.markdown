@@ -1,5 +1,5 @@
 ---
-title: Introducing Quirk - New Way to Manage Personal Finances
+title: Introducing Quirk - Building Early Personal Wealth for Gen Z
 date: 2022-08-31 23:51:00 Z
 categories:
 - Business
