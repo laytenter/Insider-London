@@ -1,6 +1,6 @@
 ---
 title: Introducing Quirk
-date: 2022-08-30 17:51:00 Z
+date: 2022-08-31 23:51:00 Z
 categories:
 - Business
 - Events
