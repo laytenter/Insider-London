@@ -1,5 +1,5 @@
 ---
-title: Introducing Quirk
+title: Introducing Quirk - New Way to Manage Personal Finances
 date: 2022-08-31 23:51:00 Z
 categories:
 - Business
@@ -62,4 +62,4 @@ description: This week we have the pleasure to introduce Quirk. Interview with t
 
 **Nafeesa:** My advice would be to put your customers at the heart of any experience you are building. The industry is fast-moving so make sure you're on top of the latest technology and trends to deliver the best experience to your customers and finally build a community within fintech. A lot of companies and services in the space really complement and help each other so it’s faster to collaborate than to build things from scratch.
 
-Insider London is proud to partner with [Quirk](https://quirk.money). For a bespoke [Company Visit](https://www.insiderlondon.com/london/company-visits/) to get a further insight how Quirk brings together personality test, financial data and AI, get in touch via contact@insiderlondon.com to book your visit today.
+Insider London is proud to partner with [Quirk](https://quirk.money). For a bespoke [Company Visit](https://www.insiderlondon.com/london/company-visits/) to get further insight into how Quirk brings together personality tests, financial data and AI, get in touch via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a> to book your visit today.
