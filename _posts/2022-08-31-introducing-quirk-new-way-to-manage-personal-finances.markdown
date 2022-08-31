@@ -21,7 +21,7 @@ description: This week we have the pleasure to introduce Quirk. Interview with t
 ![Team shot quirk](/uploads/Team%20shot%204.jpg)
 <small><em>Quirk founders: Nikos Melachrinos and Nafeesa Jafferjee</em></small>
 
-*This week we have the pleasure to introduce [Quirk](https://quirk.money). We interviewed the fintech co-founders, Nikos and Nafeesa, to give us an insight into how their app puts you in control of your money, and feel secure about the financial decisions you’re making.*
+*This week we have the pleasure to introduce [Quirk](https://quirk.money). We interviewed the fintech co-founders, Nikos and Nafeesa, to give us an insight into how their app helps Gen Z build their early wealth, and feel secure about the financial decisions you’re making.*
 
 ##### IL: Quirk has a unique business model, can you summarise this for our readers?
  
