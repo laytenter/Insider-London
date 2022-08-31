@@ -10,6 +10,7 @@ tags:
 - finance
 - start-ups
 - entrepreneurship
+- personal finance
 description: This week we have the pleasure to introduce Quirk. Interview with the
   fintech co-founders, Nikos and Nafeesa, to give us an insight into how their app
   puts you in control of your money, and feel secure about the financial decisions
@@ -21,12 +22,12 @@ description: This week we have the pleasure to introduce Quirk. Interview with t
 
 *This week we have the pleasure to introduce [Quirk](https://quirk.money). We interviewed the fintech co-founders, Nikos and Nafeesa, to give us an insight into how their app puts you in control of your money, and feel secure about the financial decisions you’re making.*
 
-##### IL:Quirk has a unique business model, can you summarise this for our readers?
+##### IL: Quirk has a unique business model, can you summarise this for our readers?
  
 **Nikos**: Our goal is to make money alongside our users and we do this in a few different ways so we can monetise users who are at different stages in their financial lives. We keep the core of the app free and refer our users to relevant financial services that are valuable to them like energy switching, investing and insurance. Once users are able to invest/save directly on the app we charge a fee on their gains and also have a subscription for advanced money management features and expert advice. 
 
  
-##### IL:You specifically target Gen Z customers. How is Gen Z different to older generations when it comes to finance?
+##### IL: You specifically target Gen Z customers. How is Gen Z different to older generations when it comes to finance?
  
 **Nafeesa:** They are 5 times more likely than previous generations to get financial advice and for them that’s mostly social media like Tiktok & Instagram or peer-based. 60% have side hustles or want to be entrepreneurs and are 75% more likely to invest early whether in traditional stocks or crypto. It makes them a very interesting market to build tools for since they are willing to try new tools and also have more willingness to learn and manage their money from a younger age. 
  
