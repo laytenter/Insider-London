@@ -1,6 +1,7 @@
 ---
 title: Introducing Quirk - New Way to Manage Personal Finances
 date: 2022-08-31 23:51:00 Z
+published: false
 categories:
 - Business
 - Events
