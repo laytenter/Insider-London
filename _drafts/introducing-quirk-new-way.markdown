@@ -16,7 +16,7 @@ description: This week we have the pleasure to introduce Quirk. Interview with t
   you’re making
 ---
 
-![quirk_founders_Nikos_Melachrinos_Nafeesa_Jafferjee](/uploads/IMG-20220830-WA0001.jpg)
+![Team shot quirk](/uploads/Team%20shot%204.jpg)
 <small><em>Quirk founders: Nikos Melachrinos and Nafeesa Jafferjee</em></small>
 
 *This week we have the pleasure to introduce [Quirk](https://quirk.money). We interviewed the fintech co-founders, Nikos and Nafeesa, to give us an insight into how their app puts you in control of your money, and feel secure about the financial decisions you’re making.*
@@ -32,6 +32,7 @@ description: This week we have the pleasure to introduce Quirk. Interview with t
  
 **Nikos:** There’s also a generational change in that their primary source of financial information is now online, whereas previously the majority would learn personal finance from their friends and family. 
  
+![quirk_App2.png](/uploads/quirk_App2.png)
  
 ##### IL: From your perspective, did you notice any impact of the pandemic on spending patterns or other financial decisions? 
  
