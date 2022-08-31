@@ -1,23 +1,30 @@
 ---
 title: Introducing Quirk
 date: 2022-08-30 17:51:00 Z
+categories:
+- Business
+- Events
 tags:
 - fintech
 - genZ
 - finance
 - start-ups
 - entrepreneurship
+description: This week we have the pleasure to introduce Quirk. Interview with the
+  fintech co-founders, Nikos and Nafeesa, to give us an insight into how their app
+  puts you in control of your money, and feel secure about the financial decisions
+  you’re making
 ---
 
 ![quirk_founders_Nikos_Melachrinos_Nafeesa_Jafferjee](/uploads/IMG-20220830-WA0001.jpg)
 <small><em>Quirk founders: Nikos Melachrinos and Nafeesa Jafferjee</em></small>
 
-This week we have a pleasure to introduce [Quirk](https://quirk.money). We interviewed its co-founders, Nikos and Nafeesa, to give us an insight into how their fintech app puts you in control of your money, feel secure about financial decisions they’re making.
+*This week we have the pleasure to introduce [Quirk](https://quirk.money). We interviewed the fintech co-founders, Nikos and Nafeesa, to give us an insight into how their app puts you in control of your money, and feel secure about the financial decisions you’re making.*
 
-#####IL:Quirk has a unique business model, can you summarise this for our readers?
+##### IL:Quirk has a unique business model, can you summarise this for our readers?
  
 **Nikos**: Our goal is to make money alongside our users and we do this in a few different ways so we can monetise users who are at different stages in their financial lives. We keep the core of the app free and refer our users to relevant financial services that are valuable to them like energy switching, investing and insurance. Once users are able to invest/save directly on the app we charge a fee on their gains and also have a subscription for advanced money management features and expert advice. 
- 
+
  
 ##### IL:You specifically target Gen Z customers. How is Gen Z different to older generations when it comes to finance?
  
@@ -28,9 +35,9 @@ This week we have a pleasure to introduce [Quirk](https://quirk.money). We inter
  
 ##### IL: From your perspective, did you notice any impact of the pandemic on spending patterns or other financial decisions? 
  
-**Nikos:** We saw some really fun data on spending! Interestingly men spent double the amount on impulse spends during the pandemic (£1,000 versus women spending £570 on average)! And we wrote a blog post about how [people started spending more on items like flour and  scented candles](https://www.quirk.money/post/weirdest-purchases-people-have-been-making-due-to-covid). 
+**Nikos:** We saw some really fun data on spending! Interestingly men spent double the amount on impulse spending during the pandemic (£1,000 versus women spending £570 on average)! And we wrote a blog post about how [people started spending more on items like flour and scented candles](https://www.quirk.money/post/weirdest-purchases-people-have-been-making-due-to-covid). 
  
-**Nafeesa:** There was a huge increase in side hustles from e-commerce to becoming content creators  - a lot of people took the opportunity to make money outside their full time jobs. There was also a lot of community led financial movements happening, from meme stocks on Reddit to NFTs on Discord. The biggest thing which was great for us is that it made a lot of financial options, like retail investing or crypto, that were usually reserved for early adopters to become mainstream and more accessible to the general public.
+**Nafeesa:** There was a huge increase in side hustles from e-commerce to becoming content creators  - a lot of people took the opportunity to make money outside their full-time jobs. There were also a lot of community-led financial movements happening, from meme stocks on Reddit to NFTs on Discord. The biggest thing which was great for us is that it made a lot of financial options, like retail investing or crypto, that were usually reserved for early adopters to become mainstream and more accessible to the general public.
  
 **Nikos:** As well as, a huge uptake in personal financial management as people, more than ever, realized the importance of an emergency fund. 
  
@@ -42,7 +49,7 @@ This week we have a pleasure to introduce [Quirk](https://quirk.money). We inter
 **Nikos:** And we hadn’t launched the product yet so we rushed to get it to market as fast as we could!
  
  
-##### IL: So looking to the future, where do you see Quirk Money in five years time? Do you have any expansion ambitions?
+##### IL: So looking to the future, where do you see Quirk Money in five years? Do you have any expansion ambitions?
  
 **Nafeesa:** We see ourselves as a financial platform where Gen Z go to do everything money related, from learning about how to manage your finances, tracking all aspects of your money in one place and finally grow their wealth. 
  
@@ -53,4 +60,4 @@ This week we have a pleasure to introduce [Quirk](https://quirk.money). We inter
  
 **Nikos:** Fintech is a really exciting industry to be in as it’s constantly evolving and going beyond financial services by getting embedded into many products beyond finance. As money has a profound effect on people’s lives, my advice for young people getting into fintech would be to think deeply about the way the tools they build are impacting people. 
 
-**Nafeesa:** My advice would be to put your customers at the heart of any experience you are building. The industry is fast moving so make sure your on top of the latest technology and trends to deliver the best experience to your customers and finally build a community within fintech. A lot of companies and services in the space really complement and help each other so it’s faster to collaborate than building things from scratch.
+**Nafeesa:** My advice would be to put your customers at the heart of any experience you are building. The industry is fast-moving so make sure you're on top of the latest technology and trends to deliver the best experience to your customers and finally build a community within fintech. A lot of companies and services in the space really complement and help each other so it’s faster to collaborate than to build things from scratch.
