@@ -33,7 +33,7 @@ description: This week we have the pleasure to introduce Quirk. Interview with t
  
 **Nikos:** There’s also a generational change in that their primary source of financial information is now online, whereas previously the majority would learn personal finance from their friends and family. 
  
-![quirk_App2.png](/uploads/quirk_App2.png)
+![quirk_App2](/uploads/quirk_App2.png)
  
 ##### IL: From your perspective, did you notice any impact of the pandemic on spending patterns or other financial decisions? 
  
@@ -49,7 +49,8 @@ description: This week we have the pleasure to introduce Quirk. Interview with t
 **Nafeesa:** We created short financial education videos around budgeting, investing, and crypto and shared them on our TikTok and Instagram. It really helped us build an engaged community and gave us insights into what features we should build first in our product. 
  
 **Nikos:** And we hadn’t launched the product yet so we rushed to get it to market as fast as we could!
- 
+
+![Hero.jpg](/uploads/Hero.jpg) 
  
 ##### IL: So looking to the future, where do you see Quirk Money in five years? Do you have any expansion ambitions?
  
