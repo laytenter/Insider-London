@@ -6,6 +6,10 @@ categories:
 tags:
 - retail trends
 - West End
+- East End
+description: 'We take a look at ''experience retail'' and how a new flagship store
+  is being opened by an established online brand to expand its consumer channels using
+  this approach. '
 ---
 
 ![pexels-andres-ayrton](/uploads/pexels-andres-ayrton-6551429.jpg)
