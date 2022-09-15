@@ -16,7 +16,7 @@ description: 'We take a look at ''experience retail'' and how a new flagship sto
   this approach. '
 ---
 
-![pexels-andres-ayrton](/uploads/pexels-andres-ayrton-6551429.jpg)
+![pexels-dom-j-303315-london-highstreet](/uploads/pexels-dom-j-303315.jpg)
 
 We take a look at 'experience retail' and how a new flagship store is being opened by an established online brand to expand its consumer channels using this approach. 
 
@@ -34,7 +34,7 @@ Let's consider [Gymshark](http://www.gymshark.com), a fitness apparel and access
 
 As part of the experience part of the new flagship store, it will feature ‘The Sweat Room’ – an interchangeable sweat studio operating from the store, offering a regularly rotating programme of classes for the Gymshark community, while the space doubles up as a “stage” for bigger events.
 
-![pexels-dom-j-303315](/uploads/pexels-dom-j-303315.jpg)
+![pexels-andres-ayrton-gym](/uploads/pexels-andres-ayrton-6551429.jpg)
 
 The retailer said it will offer around 30 classes per week, five community sessions, four Open Gym sessions and a Sunday Brunch event with a guest professional each week. The store will also house ‘The Pro Bench’ – a bar where its experts will be able to impart their fitness advice to the conditioning community. Anyone will be able to book 25-minute appointments with an in-store professional on disciplines ranging from personal training to guidance to mindset. 
 
