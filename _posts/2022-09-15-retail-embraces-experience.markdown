@@ -16,7 +16,7 @@ description: 'We take a look at ''experience retail'' and how a new flagship sto
   this approach. '
 ---
 
-![pexels-dom-j-303315-london-highstreet](/uploads/pexels-dom-j-303315.jpg)
+![pexels-dom-j-303315-london-highstreet](/uploads/pexels-dom-j-303315%20(1).jpg)
 
 We take a look at 'experience retail' and how a new flagship store is being opened by an established online brand to expand its consumer channels using this approach. 
 
