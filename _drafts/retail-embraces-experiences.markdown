@@ -2,11 +2,15 @@
 title: Retail Embraces Experience
 date: 2022-09-15 14:02:00 Z
 categories:
+- Marketing and Retail
 - Business
 tags:
-- retail trends
+- retail
+- brick-and-mortar
+- experience retail
+- retail recovery
+- new retail trends
 - West End
-- East End
 description: 'We take a look at ''experience retail'' and how a new flagship store
   is being opened by an established online brand to expand its consumer channels using
   this approach. '
