@@ -41,8 +41,7 @@ In the context of this FinTech industry's highly competitive environment in whic
 The UK’s SMEs amount to £2.3 trillion in annual turnover, and there are 6.8 million self-employed in the UK alone. As the economy is growing digital and cashless, running a small or micro business requires multiple platforms to operate one’s business and manage them separately. Those could include mobile payments, banking, credit cards, accounting, and insurance, which take away a lot of time from SMEs. Solution? **Paysme**.
 
 ![Derek-paysme-apps@800w.jpg](/uploads/Derek-paysme-apps@800w.jpg)
-<caption><em>Derek explains the Paysme community</em></caption>
-
+<small><em>Derek explains the Paysme community</em></small>
 
 Derek explained in detail how Paysme came to be as the smartphone technology had allowed full integration of all the above services and delivered them to their smartphone through the super-app.  Paysme aggregated app allows small business to unlock their potential by freeing up all the hours that would have been spent on all the above activities, from accounting to buying insurance. With the platform, anyone from sole traders such as cab drivers to micro-merchants can now focus on running the business while the super-app takes care of the rest and for lower fees in aggregate. Derek also emphasised that with Paysme the power is given back to the community as customers can also own a stake in the business (73% of shareholders by number are also customers). 
 
@@ -58,7 +57,7 @@ Under the Paysme community, additional apps are targeting the different SMEs spe
 [Fanslive](https://www.paysme.co.uk/fanslive) - was made for football clubs to enhance the commercial experience of the fans going to football matches whilst reducing queuing time. Fans' purchases, from drinks to club merchandise, can be found on one platform. At the same time, clubs’ CEOs obtain all the live revenue data via a dashboard to which they wouldn't have access previously.
 
 ![derek-paysme2@800w.jpg](/uploads/derek-paysme2@800w.jpg)
-<caption><em>Derek show features of the marketti app</em></caption>
+<small><em>Derek show features of the marketti app</em></small>
 
 
 ### Future
