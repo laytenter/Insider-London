@@ -43,6 +43,7 @@ The UK’s SMEs amount to £2.3 trillion in annual turnover, and there are 6.8 m
 ![Derek-paysme-apps@800w.jpg](/uploads/Derek-paysme-apps@800w.jpg)
 <caption><em>Derek explains the Paysme community</em></caption>
 
+
 Derek explained in detail how Paysme came to be as the smartphone technology had allowed full integration of all the above services and delivered them to their smartphone through the super-app.  Paysme aggregated app allows small business to unlock their potential by freeing up all the hours that would have been spent on all the above activities, from accounting to buying insurance. With the platform, anyone from sole traders such as cab drivers to micro-merchants can now focus on running the business while the super-app takes care of the rest and for lower fees in aggregate. Derek also emphasised that with Paysme the power is given back to the community as customers can also own a stake in the business (73% of shareholders by number are also customers). 
 
 
