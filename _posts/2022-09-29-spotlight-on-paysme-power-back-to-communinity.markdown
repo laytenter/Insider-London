@@ -21,7 +21,7 @@ description: 'Paysme aggregated app allows small business to unlock their potent
 ---
 
 ![Derek-Payseme-Rise-LondonEiSEG](/uploads/Derek-EiSEG@800w.jpg)
-<small><em>Derek Stewart (centre), CEO and founder of Paysme, surrounded by students from IESEG at Rise London</em><small>
+<small><em>Derek Stewart (centre), CEO and founder of Paysme, surrounded by students from IESEG at Rise London</em></small>
 
 
 *As part of Insider London’s spotlight series, where we look at the most innovative companies, we headed to [Rise](https://rise.barclays/locations/rise-london/rise-london/) - the home of FinTech in London. We went there to find out more about [Paysme](http://) from its founder and CEO, [Derek Stewart](https://www.linkedin.com/in/derek-stewart-ba3a51bb/?original_referer=https%3A%2F%2Fduckduckgo%2Ecom%2F&originalSubdomain=uk), who gave a presentation to IESEG students from France.*
@@ -40,7 +40,7 @@ In the context of this FinTech industry's highly competitive environment in whic
 
 The UK’s SMEs amount to £2.3 trillion in annual turnover, and there are 6.8 million self-employed in the UK alone. As the economy is growing digital and cashless, running a small or micro business requires multiple platforms to operate one’s business and manage them separately. Those could include mobile payments, banking, credit cards, accounting, and insurance, which take away a lot of time from SMEs. Solution? **Paysme**.
 
-![Derek-paysme-apps@800w.jpg](/uploads/Derek-paysme-apps@800w.jpg)
+![Derek-paysme-apps](/uploads/Derek-paysme-apps@800w.jpg)
 <small><em>Derek explains the Paysme community</em></small>
 
 Derek explained in detail how Paysme came to be as the smartphone technology had allowed full integration of all the above services and delivered them to their smartphone through the super-app.  Paysme aggregated app allows small business to unlock their potential by freeing up all the hours that would have been spent on all the above activities, from accounting to buying insurance. With the platform, anyone from sole traders such as cab drivers to micro-merchants can now focus on running the business while the super-app takes care of the rest and for lower fees in aggregate. Derek also emphasised that with Paysme the power is given back to the community as customers can also own a stake in the business (73% of shareholders by number are also customers). 
