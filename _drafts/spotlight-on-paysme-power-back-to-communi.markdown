@@ -21,7 +21,7 @@ description: 'Paysme aggregated app allows small business to unlock their potent
 ---
 
 ![Derek-Payseme-Rise-LondonEiSEG](/uploads/Derek-EiSEG@800w.jpg)
-<caption><em>Derek Stewart (centre), CEO and founder of Paysme, surrounded by students from IESEG at Rise London</em></caption>
+*<small>Derek Stewart (centre), CEO and founder of Paysme, surrounded by students from IESEG at Rise London<small>*
 
 
 *As part of Insider London’s spotlight series, where we look at the most innovative companies, we headed to [Rise](https://rise.barclays/locations/rise-london/rise-london/) - the home of FinTech in London. We went there to find out more about [Paysme](http://) from its founder and CEO, [Derek Stewart](https://www.linkedin.com/in/derek-stewart-ba3a51bb/?original_referer=https%3A%2F%2Fduckduckgo%2Ecom%2F&originalSubdomain=uk), who gave a presentation to IESEG students from France.*
