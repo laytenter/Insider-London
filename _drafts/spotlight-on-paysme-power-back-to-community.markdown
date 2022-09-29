@@ -1,6 +1,23 @@
 ---
 title: Spotlight on Paysme - Power Back to Community
 date: 2022-09-29 09:01:00 Z
+categories:
+- Events
+- Business
+tags:
+- fintech
+- aggregate app
+- smes
+- micro-traders
+- silicon roudabout
+- tech trends
+description: 'Paysme aggregated app allows small business to unlock their potential
+  by freeing up all the hours that would have been spent on all the above activities,
+  from accounting to buying insurance. With the platform, anyone from sole traders
+  such as cab drivers to micro-merchants can now focus on running the business while
+  the super-app takes care of the rest and for lower fees in aggregate. Derek also
+  emphasised that with Paysme the power is given back to the community as customers
+  can also own a stake in the business (73% of shareholders by number are also customers). '
 ---
 
 ![Derek-Payseme-Rise-LondonEiSEG](/uploads/Derek-EiSEG@800w.jpg)
