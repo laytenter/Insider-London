@@ -8,7 +8,7 @@ tags:
 - bank of england
 ---
 
-[Picture 1 - Bank of England City of London Finance Walking Tour Student Corporate Group.JPG](/uploads/Picture%201%20-%20Bank%20of%20England%20City%20of%20London%20Finance%20Walking%20Tour%20Student%20Corporate%20Group.JPG)
+![20221014_164513~2.jpg](/uploads/20221014_164513~2.jpg)
 
 We are taking a look into Quantitative Tightening (QT) which the Bank of England (BeO) has been planning to undertake to bring the UK's spiralling inflation under control. 
 
@@ -33,4 +33,4 @@ However, the pension funds want the BoE to consider continuing the emergency bon
 
 The Bank of England is caught between a rock and a hard place and might do both QE and QT at the same time as turbulent markets may force the Bank's hand on the matter and delay the QT even further until the volatility eases, and the new chancellor will deliver stability to the UK economy. 
 
-*Discover the past, present and future of London’s financial sectors with our [City Finance Tour and Canary Wharf Finance Tour](https://www.insiderlondon.com/london/educational-tours/london-finance-walking-tour/). If you would like to experience and learn more about the development of the two world’s most important financial centres contact us via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a>**
+*Discover the past, present and future of London’s financial sectors with our [City Finance Tour and Canary Wharf Finance Tour](https://www.insiderlondon.com/london/educational-tours/london-finance-walking-tour/). If you would like to experience and learn more about the development of the two world’s most important financial centres contact us via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a>*
