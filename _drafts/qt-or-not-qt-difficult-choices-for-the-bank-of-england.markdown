@@ -8,6 +8,8 @@ tags:
 - bank of england
 ---
 
+[Picture 1 - Bank of England City of London Finance Walking Tour Student Corporate Group-23044a.JPG](/uploads/Picture%201%20-%20Bank%20of%20England%20City%20of%20London%20Finance%20Walking%20Tour%20Student%20Corporate%20Group-23044a.JPG)
+
 We are taking a look into Quantitative Tightening (QT) which the Bank of England (BeO) has been planning to undertake to bring the UK's spiralling inflation under control. 
 
 #### What's QT?
