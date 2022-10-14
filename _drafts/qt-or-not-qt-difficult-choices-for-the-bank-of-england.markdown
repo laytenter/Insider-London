@@ -31,4 +31,4 @@ However, the pension funds want the BoE to consider continuing the emergency bon
 
 The Bank of England is caught between a rock and a hard place and might do both QE and QT at the same time as turbulent markets may force the Bank's hand on the matter and delay the QT even further until the volatility eases, and the new chancellor will deliver stability to the UK economy. 
 
-*Discover the past, present and future of London’s financial sectors with our City Finance Tour and Canary Wharf Finance Tour. If you would like to experience and learn more about the development of the two world’s most important financial centres contact us via contact@insiderlondon.com*
+*Discover the past, present and future of London’s financial sectors with our [City Finance Tour and Canary Wharf Finance Tour](https://www.insiderlondon.com/london/educational-tours/london-finance-walking-tour/). If you would like to experience and learn more about the development of the two world’s most important financial centres contact us via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a>**
