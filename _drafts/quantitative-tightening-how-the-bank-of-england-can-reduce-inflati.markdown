@@ -1,5 +1,5 @@
 ---
-title: QT or not QT? Difficult choices for the Bank of England
+title: Quantitative Tightening - How the Bank of England Can Reduce Inflation
 date: 2022-10-15 15:49:00 Z
 categories:
 - Finance
@@ -15,7 +15,7 @@ description: This week we are taking a look into Quantitative Tightening (QT) wh
 
 ![20221014_164513~2.jpg](/uploads/20221014_164513~2.jpg)
 
-This week we are taking a look into Quantitative Tightening (QT) which the Bank of England (BeO) has been planning to undertake to bring the UK's spiralling inflation under control.
+This week we are taking a look into Quantitative Tightening (QT) which the Bank of England (BoE) has been planning to undertake to bring the UK's spiralling inflation under control.
 
 
 #### Quantitative Easing 
@@ -41,7 +41,7 @@ Both QT and increasing interest rates are the Bank of England's methods to conta
 
 #### When to implement the QT?
 
-We don't know yet. The BoE had to use more QE recently to stabilise the volatile bond market after gilt prices plummeted exposing UK pension funds.
+We don't know yet. The BoE had to use more QE [recently](https://www.reuters.com/markets/europe/turbulent-uk-bond-market-may-force-boes-hand-again-2022-10-12/) to stabilise the volatile bond market after gilt prices plummeted exposing UK pension funds.
 
 The BoE originally planned to start QT in early October but pushed the launch back until Oct. 31 as it launched its emergency bond-buying programme. For now, it seems the Bank's hand is forced by the turbulent markets before it introduces QT
 
