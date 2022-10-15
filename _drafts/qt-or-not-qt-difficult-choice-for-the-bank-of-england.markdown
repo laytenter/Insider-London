@@ -1,11 +1,13 @@
 ---
 title: QT or not QT? Difficult choices for the Bank of England
-date: 2022-10-14 15:49:00 Z
+date: 2022-10-15 15:49:00 Z
 categories:
 - Finance
 tags:
 - Quantitative Tightening
 - bank of england
+- economics
+- bonds
 description: This week we are taking a look into Quantitative Tightening (QT) which
   the Bank of England (BeO) has been planning to undertake to bring the UK's spiralling
   inflation under control.
