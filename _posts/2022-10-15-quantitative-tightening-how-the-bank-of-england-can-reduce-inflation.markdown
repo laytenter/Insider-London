@@ -8,6 +8,10 @@ tags:
 - bank of england
 - economics
 - bonds
+- gilts
+- quantitative easing
+- money supply
+- inflation
 description: This week we are taking a look into Quantitative Tightening (QT) which
   the Bank of England (BeO) has been planning to undertake to bring the UK's spiralling
   inflation under control.
