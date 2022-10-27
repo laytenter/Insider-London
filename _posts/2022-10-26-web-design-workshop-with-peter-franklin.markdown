@@ -1,6 +1,6 @@
 ---
 title: Web Design Workshop with Peter Franklin
-date: 2022-10-26 13:50:00 Z
+date: 2022-10-26 13:00:00 Z
 categories:
 - Events
 tags:
