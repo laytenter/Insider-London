@@ -38,4 +38,4 @@ In preparation for the students' turn to create the design for their websites, P
 
 With students divided into groups, the creative work began to design a layout of their websites based on the above templates. Peter, with a very keen eye, guided each project that students were making and encouraged them to come up with very ingenious and novel ideas for their websites. We ended with quick presentations that displayed the students’ projects. Each group passed with flying colours!
 
-*Explore the design, structure and presentation of websites with our Web Design [Workshops](https://www.insiderlondon.com/london/company-visits/). get in touch via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a> to book your visit today.*
+*Explore the design, structure and presentation of websites with our Web Design [Workshops](https://www.insiderlondon.com/london/company-visits/). Get in touch via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a> to book your visit today.*
