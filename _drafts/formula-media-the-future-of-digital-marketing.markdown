@@ -28,4 +28,4 @@ The second part of the session was about discussing the future of digital and so
 
 It was engaging to hear from him about the successful campaigns Formula Media run for the [Prince’s Trust](https://www.princes-trust.org.uk/) and [Anker(eufy)](https://uk.eufy.com/?ref=logo), to name a few. We ended the visit with an array of questions to Mak about the technology from VR, and AR to voice recognition, and how it’s changing the nature of both advertising and marketing. 
 
-Insider London is proud to partner with [Formula Media](https://www.formulamedia.com/). For a bespoke https://www.insiderlondon.com/london/company-visits/ to get further insight into the future of digital and social marketing contact us via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a>
+*Insider London is proud to partner with [Formula Media](https://www.formulamedia.com/). For a bespoke [Company Visits](https://www.insiderlondon.com/london/company-visits/)  to get further insight into the future of digital and social marketing contact us via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a>*
