@@ -16,7 +16,7 @@ description: Recently we had the great opportunity to host a company visit with 
   media master class students from Bayswater College.
 ---
 
-![formula-media-manish-mak](/uploads/formula-media.jpg)
+![formula-media](/uploads/formula-media-df9e07.jpg)
 <small><em>Mak, CEO and founder of Formula Media</em></small>
 
 Recently we had the great opportunity to host a company visit with [Formula Media](https://www.formulamedia.com/),  a new media advertising and buying agency backed by a wealth of experience. The session was led by Formula Media’s CEO and Founder, [Manish Mak](https://www.linkedin.com/in/makformula/), for the social media master class students from Bayswater College.
