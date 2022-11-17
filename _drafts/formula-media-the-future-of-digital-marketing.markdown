@@ -1,6 +1,6 @@
 ---
 title: Formula Media - The Future of Digital Marketing
-date: 2022-11-16 14:14:00 Z
+date: 2022-11-17 14:14:00 Z
 categories:
 - Events
 - Marketing and Retail
@@ -26,7 +26,7 @@ Recently we had the great opportunity to host a company visit with [Formula Medi
 Mak began with a story of the fascinating journey he has had in marketing; from working for different agencies and being involved in campaigns for major brands including Bose (wireless headphones), Shell (kinetic energy football pitch) and Sony (reactive campaign for Xperia). This was a great insight into the early adoption of digital technology into marketing just over a decade ago. 
 
 To better understand how significant the acceleration of transformation in marketing has been, Mak dived into the history of the industry. Students learnt about the early forms of advertisements in print and the audio-visuals of radio and TV, the introduction of digital marketing with the rise of the internet in the 1990s and social marketing in the last fifteen years. That led Mak to provide an in-depth analysis of the history of social marketing and its rapid rise. He illustrated to the students how the growth of users in social media platforms in the few years has changed the landscape of marketing and how revolutionary it has been. 
-Mak went on to describe the reasons behind the shift from offline to online and its fast acceleration. (online advertising surpassing £259 billion in expenditure as of 2020). 
+Mak went on to describe the reasons behind the shift from offline to online and its fast acceleration (online advertising surpassing £259 billion in expenditure as of 2020). 
 
 The presentation had insightful details of the rise in streaming trends since the pandemic, especially podcasts and gaming, which added other channels for marketers to reach the audience. Mak also pointed out challenges for the agencies as more online content is being published than the consumers' ability to consume.
 
