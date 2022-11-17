@@ -16,12 +16,15 @@ description: Recently we had the great opportunity to host a company visit with 
   Media,  a new media advertising and buying agency backed by a wealth of experience.
   The session was led by Formula Media’s CEO and Founder, Manish Mak, for the social
   media master class students from Bayswater College.
+excerpt_separator: "<!--read-->"
 ---
 
 ![formula-media](/uploads/formula-media-df9e07.jpg)
 <small><em>Mak, CEO and founder of Formula Media</em></small>
 
 Recently we had the great opportunity to host a company visit with [Formula Media](https://www.formulamedia.com/),  a new media advertising and buying agency backed by a wealth of experience. The session was led by Formula Media’s CEO and Founder, [Manish Mak](https://www.linkedin.com/in/makformula/), for the social media master class students from Bayswater College.
+
+<!--read-->
 
 Mak began with a story of the fascinating journey he has had in marketing; from working for different agencies and being involved in campaigns for major brands including Bose (wireless headphones), Shell (kinetic energy football pitch) and Sony (reactive campaign for Xperia). This was a great insight into the early adoption of digital technology into marketing just over a decade ago. 
 
