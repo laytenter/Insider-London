@@ -1,8 +1,14 @@
 ---
 title: London Scores High in Sustainable Cities Index
 date: 2022-12-01 12:34:00 Z
+categories:
+- Sustainability
 tags:
 - sustainable london
+- green London
+- climate change
+- sustainable choices
+- sustainable cities
 ---
 
 ![mike-stezycki-rGoejmMF1Uk-unsplash](/uploads/mike-stezycki-rGoejmMF1Uk-unsplash.jpg)
