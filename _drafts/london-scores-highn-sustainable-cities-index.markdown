@@ -21,8 +21,7 @@ Trying to define what makes a city sustainable is a complex matter. Some cities 
 
 The index takes a holistic view of sustainability in a bid to emphasise the evolving challenges facing cities, including the climate emergency, and the cost of living together with long-term challenges associated with the quality and availability of healthcare and education.
 
-##### “Often, cities have a laser focus on attracting businesses, investors, and skills to feed the Profit pillar. There should be as much fanfare when it comes to creating affordable housing, building net-zero infrastructure and transport, and reducing air pollution.” 
-- Peter Hogg, Arcadis’s UK Cities Director
+##### *“Often, cities have a laser focus on attracting businesses, investors, and skills to feed the Profit pillar. There should be as much fanfare when it comes to creating affordable housing, building net-zero infrastructure and transport, and reducing air pollution.”* -Peter Hogg, Arcadis’s UK Cities Director
 
 #### Why sustainable cities matter 
 
