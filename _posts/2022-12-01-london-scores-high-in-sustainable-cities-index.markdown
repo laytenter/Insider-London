@@ -15,7 +15,7 @@ tags:
 
 #### Sustainable Cities Index
 
-Trying to define what makes a city sustainable is a complex matter. Some cities offer plenty of green space but have poor public transport networks, others have extensive recycling programmes but too few cycling lanes. 
+Defining what makes a city sustainable is a complex matter. Some cities have plenty of green space and yet have poor public transport networks, while others have extensive recycling programmes but too few cycling lanes. 
 
 [Arcadis](https://www.arcadis.com/) – a global design, engineering, and management consulting company – has, since 2015, been refining an index of its own. The Arcadis Sustainable Cities Index 2022 measures 100 cities according to 51 metrics across 26 themes, arrayed under the three pillars of sustainability: Planet (environmental), People (social), and Profit (economic). The Planet pillar aims to capture environmental factors like energy usage and emissions, the People pillar measures social performance, including quality of life, and the Profit pillar assesses each city’s business environment.
 
@@ -30,7 +30,7 @@ While covering only 2% of the earth’s surface, cities consume 78% of the world
 
 The sheer density of people relying on fossil fuels makes urban populations highly vulnerable to the effects of climate change. Fewer green spaces exacerbate the problem. According to the IPCC report, limiting global warming to 1.5 degrees Celsius would “require rapid and far-reaching transitions in uses of energy, land, urban and infrastructure (including transport and buildings), and industrial systems.
 
-London has ambitious plans to reach net zero by 2030 and intends to use COP27 to highlight the vital role that London and cities around the world play in tackling our greatest threat. Cities and regions are not specifically part of COP27 - the process of setting binding emission reduction targets - but London will be participating in events to highlight the role of cities in tackling the climate emergency and achieving net zero.
+London has ambitious plans to reach net zero by 2030 and intends to use COP27 to highlight the vital role that London and cities around the world play in tackling our greatest threat. Cities and regions are not specifically part of COP27 - the process of setting binding emission reduction targets - but London was participating in events to highlight the role of cities in tackling the climate emergency and achieving net zero.
 
 ##### *“Often, cities have a laser focus on attracting businesses, investors, and skills to feed the Profit pillar. There should be as much fanfare when it comes to creating affordable housing, building net-zero infrastructure and transport, and reducing air pollution.”* -Peter Hogg, Arcadis’s UK Cities Director
 
