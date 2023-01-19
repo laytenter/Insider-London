@@ -1,5 +1,6 @@
 ---
-title: Spotlight on Furious Fox - Enabling Through Technology
+title: Spotlight on Furious Fox - Enabling Through Technology and Disrupting with
+  Design
 date: 2023-01-19 13:15:00 Z
 categories:
 - Events
@@ -35,5 +36,5 @@ The final part of the visit was dedicated to UI and UX Design and how Furious Fo
 We concluded with Suman describing Furious Fox's role in testing, quality assurance, support and maintenance. Suman emphasised how continued evolution for their clients adds further improvements to their mobile app based on customer and user feedback. Adding user-centric features, automation, and additions to data analytics and AI adds value to the solutions.
 
 
-Insider London is proud to partner with [Furios Fox](https://furiousfox.co.uk/). For a bespoke [Company Visit](https://www.insiderlondon.com/london/company-visits/) to get further insight into how Furious Fox brings together innovation, design, and technology to collaborate and create exceptional products and solutions, contact us via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a>
+*Insider London is proud to partner with [Furios Fox](https://furiousfox.co.uk/). For a bespoke [Company Visit](https://www.insiderlondon.com/london/company-visits/) to get further insight into how Furious Fox brings together innovation, design, and technology to collaborate and create exceptional products and solutions, contact us via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a>*
 
