@@ -1,5 +1,5 @@
 ---
-title: London New Sustainable Skyscraper
+title: London's New Sustainable Skyscraper
 date: 2023-01-30 18:46:00 Z
 categories:
 - architecture
@@ -13,7 +13,8 @@ description: This week we are having a look at an exciting new tower, designed b
   where the majority of the City of London's high-rise buildings are situated.
 ---
 
- ![wilkinsoneyre8bishopsgateprussianblue-1-819x1100.jpg](/uploads/wilkinsoneyre8bishopsgateprussianblue-1-819x1100.jpg)
+ ![8bishopsgate 
+.jpg](/uploads/wilkinsoneyre8bishopsgateprussianblue-1-819x1100.jpg)
 
 This week we are having a look at an exciting new tower, designed by the architect WilkinsonEyre, currently nearing its completion in the ‘eastern cluster’, where the majority of the City of London's high-rise buildings are situated.
 
