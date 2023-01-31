@@ -13,8 +13,9 @@ description: This week we are having a look at an exciting new tower, designed b
   where the majority of the City of London's high-rise buildings are situated.
 ---
 
-[8bishopshate](/uploads/_20230131_102733.JPG)
-
+![8bishopshate](/uploads/_20230131_102733.JPG)
+<br>
+<small>Source: WilkinsonEyre</small>
 
 
 This week we are having a look at an exciting new tower, designed by the architect WilkinsonEyre, currently nearing its completion in the ‘eastern cluster’, where the majority of the City of London's high-rise buildings are situated.
@@ -25,6 +26,8 @@ This week we are having a look at an exciting new tower, designed by the archite
 The 50-story tower on the corner of two of the most prominent streets in London is planned to be opened this year. Also known as 150 Leadenhall Street, this tower is located immediately south of Twentytwo and west of Cheesegrater. 
 
 The tower is composed of a series of stacked blocks. This distinctive design makes it possible to add outdoor spaces for office workers on the floors high above the ground. The building has a unique form with high-quality tactile materials like wood and marble with elegant detailing. In total 913,000 square feet will be available for workspace, with street-level retail and a pavilion on the 50th floor will include a viewing gallery free to access for the public.
+
+
 
 ###### “Distinctive facades emphasise each section of the building, creating a visually striking landmark”, WilkinsonEyre
 
