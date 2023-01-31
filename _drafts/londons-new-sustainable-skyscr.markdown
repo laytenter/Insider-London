@@ -13,9 +13,7 @@ description: This week we are having a look at an exciting new tower, designed b
   where the majority of the City of London's high-rise buildings are situated.
 ---
 
-[_20230131_102733.JPG](/uploads/_20230131_102733.JPG)
-<br>
-<small>Source: WilkinsonEyre</small>
+[8bishopshate](/uploads/_20230131_102733.JPG)
 
 
 
