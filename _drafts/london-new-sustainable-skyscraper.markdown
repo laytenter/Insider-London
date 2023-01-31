@@ -13,8 +13,10 @@ description: This week we are having a look at an exciting new tower, designed b
   where the majority of the City of London's high-rise buildings are situated.
 ---
 
-[8bishopsgate](/uploads/_20230131_102733.JPG)
+[_20230131_102733.JPG](/uploads/_20230131_102733.JPG)
 <br>
+<small>Source: WilkinsonEyre</small>
+
 
 
 This week we are having a look at an exciting new tower, designed by the architect WilkinsonEyre, currently nearing its completion in the ‘eastern cluster’, where the majority of the City of London's high-rise buildings are situated.
