@@ -1,6 +1,6 @@
 ---
 title: London's New Sustainable Skyscraper
-date: 2023-01-30 18:46:00 Z
+date: 2023-01-31 11:00:00 Z
 categories:
 - architecture
 tags:
