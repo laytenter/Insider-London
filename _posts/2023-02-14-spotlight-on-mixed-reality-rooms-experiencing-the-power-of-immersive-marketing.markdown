@@ -1,5 +1,5 @@
 ---
-title: Spotlight on Mixed Reality Rooms - Expereinsin the Power of Immersive Marketing
+title: Spotlight on Mixed Reality Rooms - Experiencing the Power of Immersive Marketing
 date: 2023-02-14 10:02:00 Z
 categories:
 - Events
