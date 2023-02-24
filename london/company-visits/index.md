@@ -59,13 +59,17 @@ Our company visits for students and corporate groups showcase some of the world�
 
 - **Seedrs** - the leading equity crowdfunding platform and the most active funder of private companies in the UK.  From fintech to food and beverages, they support companies from a wide range of industries to seek investment. The platform aims to make investment easy for anyone from angels and VCs to the general public, all managed online.
 - **Turo** – the Airbnb for cars, making car sharing easy, profitable and stylish. With a presence in over 7,000 cities in North America, this exciting Silicon Valley star is now making waves around the world.
-- **Paysme** – the dynamic fintech rolling out digital financial services to support small business customers. Paysme is to power Europe’s first Super App for underserved SMEs. Embedded finance tools include mobile payments, e-commerce, digital banking, accounting, lending and insurance.
+- **Transmission** - the world's largest independent global B2B marketing agency, providing award-winning full-service offerings across brand, demand, and sales. Combining data-driven intelligence, innovation, and creativity, they craft powerful marketing solutions for clients like Microsoft, LinkedIn, Dropbox, Salesforce.
 - **Tribal Worldwide** - the global technology-based marketing agency, part of the Omnicons Group, that develops creative solutions for McDonald’s, Adidas, and Volkswagen.
+- **Formula Media** – the digital disruptors driving forward the future of marketing. Formula Media pairs CTV, AI, AR, VR and more with their innovative use of data. Discover the brand storytellers who have partnered with the Prince’s Trust and Soho House.
 
+- **Paysme** – the dynamic fintech rolling out digital financial services to support small business customers. Paysme is to power Europe’s first Super App for underserved SMEs. Embedded finance tools include mobile payments, e-commerce, digital banking, accounting, lending and insurance.
+- **Fashion Enter** - see for yourself the whole clothing manufacturing production process. At Fashion Enter, sustainability is key. The company's CAD room ensures that garment cutting is optimised to reduce wastage and maximise quality. 
+- **Unify.id** - company transforming sustainability, safety and building management. Unify.id helps businesses to understand their real building usage to cut energy costs and slash carbon emissions the smart way.
 - **Aberrant Architecture** – the pioneers transforming run-down locations into vibrant community hubs. This architecture practice engages local communities to create amazing spaces from shopping centres to schools. This award-winning firm boasts an international portfolio.
-- **Plum Fintech** – the financial super-app app trusted by over 1.3 million users. This dynamic AI-driven tool platform helps customers to save, earn and invest seamlessly. Making money go further, Plum Fintech has partnered with 9 major banks and offers a variety of exciting features.
-- **Formula Media** – the digital disruptors driving forward the future of marketing. Formula Media pair CTV, AI, AR, VR and more with their innovative use of data. Discover the brand-storytellers who have partnered with the Prince’s Trust and Soho House.
-- **Junee** – the drivers of sustainability waging war on single-use packaging. Through smart logistics and a wealth of partnerships Junee is driving forward the circular economy. 
+- **Lottie** - a digital marketplace that connects care seekers via a personalised service to find the best care homes and retirement living communities in the UK. 
+
+ 
 
 Insider London’s Company Visits are a unique opportunity for corporate groups and government officials looking for a rare behind-the-scenes experience, as well as for student groups looking to explore real-life thriving business models. Our visits provide an opportunity to make vital contacts and discover key challenges of the modern world in specific industries.
 
