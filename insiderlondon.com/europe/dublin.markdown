@@ -2,7 +2,18 @@
 title: Company Visits Dublin
 date: 2023-02-24 11:23:00 Z
 published: false
-Field name: 
+heading: Company Visits Dublin
+nav: dublin
+description: Explore one of the most exciting technology hubs in Europe. Our Company
+  Visits in Dublin cover a wide variety of exciting and creative businesses. Join
+  us and come take a look at Dublin.
+gallery:
+- image: "/assets/images/cities/dublin/dublin1.jpeg"
+  alt: company visit Dublin
+- image: "/assets/images/cities/dublin/dublin2.jpeg"
+  alt: Guinness Enterprise Centre
+- image: "/assets/images/cities/dublin/Dublin_AdobeStock_141082311.jpeg"
+  alt: Dublin Tech hub
 ---
 
 {% assign gallery = page.gallery %}
