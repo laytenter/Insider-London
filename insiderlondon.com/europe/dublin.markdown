@@ -14,6 +14,7 @@ gallery:
   alt: Guinness Enterprise Centre
 - image: "/assets/images/cities/dublin/Dublin_AdobeStock_141082311.jpeg"
   alt: Dublin Tech hub
+layout: programme
 ---
 
 {% assign gallery = page.gallery %}
