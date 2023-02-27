@@ -8,12 +8,12 @@ description: Explore one of the most exciting technology hubs in Europe. Our Com
   Visits in Dublin cover a wide variety of exciting and creative businesses. Join
   us and come take a look at Dublin.
 gallery:
+- image: "/assets/images/cities/dublin/Dublin_AdobeStock_141082311.jpeg"
+  alt: Dublin Tech hub
 - image: "/assets/images/cities/dublin/dublin1.jpeg"
   alt: company visit Dublin
 - image: "/assets/images/cities/dublin/dublin2.jpeg"
   alt: Guinness Enterprise Centre
-- image: "/assets/images/cities/dublin/Dublin_AdobeStock_141082311.jpeg"
-  alt: Dublin Tech hub
 layout: programme
 ---
 
