@@ -40,11 +40,16 @@ asia:
 europe:
   - title: Berlin
     url: /europe/berlin/
+  - title: Dublin
+    url: /europe/dublin/
 berlin:
   - title: Company Visits
     url: /europe/berlin/company-visits/
   - title: Educational Tours
     url: /europe/berlin/educational-tours/
+dublin:
+  - title: Company Visits Dublin
+    url: /europe/dublin/
 usa:
   - title: Silicon Valley
     url: /north-america/silicon-valley/
