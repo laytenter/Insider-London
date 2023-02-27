@@ -1,7 +1,6 @@
 ---
 title: Company Visits Dublin
 date: 2023-02-28 11:23:00 Z
-published: false
 heading: Company Visits Dublin
 nav: dublin
 description: Explore one of the most exciting technology hubs in Europe. Our Company
