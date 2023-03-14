@@ -15,6 +15,8 @@ description: Chris Donnelly shares insights on the challenges facing the healthc
   a successful entrepreneur
 ---
 
+![chris-donnelly](/uploads/IMG-20230314-WA0000.jpg)
+
 This week we caught up with successful entrepreneur [Chris Donnelly](https://www.linkedin.com/in/donnellychris) to discuss his latest venture, [Lottie](https://lottie.org/) - a healthtech platform for care homes. Chris shares insights on the challenges facing the healthcare sector, the role of technology in solving them, and his vision for Lottie in the next five years. We also gain valuable advice from Chris on what it takes to be a successful entrepreneur.
 
 
