@@ -13,12 +13,14 @@ description: Chris Donnelly shares insights on the challenges facing the healthc
   sector, the role of technology in solving them, and his vision for Lottie in the
   next five years. We also gain valuable advice from Chris on what it takes to be
   a successful entrepreneur
+excerpt_separator: "<!--read-->"
 ---
 
 ![chris-donnelly](/uploads/IMG-20230314-WA0000.jpg)
 
 *This week we caught up with successful entrepreneur [Chris Donnelly](https://www.linkedin.com/in/donnellychris) to discuss his latest venture, [Lottie](https://lottie.org/) - a healthtech platform for care homes. Chris shares insights on the challenges facing the healthcare sector, the role of technology in solving them, and his vision for Lottie in the next five years. We also gain valuable advice from Chris on what it takes to be a successful entrepreneur.*
 
+<!--read-->
 
 **IL: Hi Chris, it is so lovely to catch up with you again. First of all, for those groups who haven’t met you in the past, maybe you can give us some background information about your extremely successful entrepreneur journey, starting from [Verb Brands](https://verbbrands.com/) – the digital marketing agency for luxury brands?**
 
