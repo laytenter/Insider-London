@@ -24,8 +24,6 @@ The [Guinness Enterprise Centre](https://www.gec.ie/) (GEC) is an award-winning 
 
 The GEC has played a pivotal role in the success of many start-ups in Dublin, including Mobility Mojo and HaPPE Earth. The GEC's commitment to fostering innovation and social responsibility has helped to launch and grow some of the most successful and innovative businesses in the city.
 
-![working.jpeg](/uploads/working.jpeg)
-
 
 #### The GEC and Hospital Partnerships: Empowering Innovation in Healthcare
 
@@ -39,7 +37,6 @@ These partnerships have led to the development of innovative healthcare technolo
 
 What sets Mobility Mojo apart from other travel guides is that the information provided is based on first-hand experiences of wheelchair users, ensuring that the information is accurate and reliable. The company's guides cover everything from accommodation and transportation to local attractions and dining options. Mobility Mojo's commitment to accessibility and inclusion is reflected not only in their product but also in their presence in the regenerated area of Dublin, where they actively support the local community.
 
-![image_adobe_express.jpeg](/uploads/image_adobe_express.jpeg)
 
 ##### HaPPE Earth: Sustainability in Action
 
