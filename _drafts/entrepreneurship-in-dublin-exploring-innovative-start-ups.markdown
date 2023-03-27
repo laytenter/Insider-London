@@ -1,6 +1,8 @@
 ---
 title: 'Entrepreneurship in Dublin: Exploring Innovative Start-Ups'
 date: 2023-03-28 13:32:00 Z
+categories:
+- Business
 tags:
 - entrepreneurship
 - Dublin
