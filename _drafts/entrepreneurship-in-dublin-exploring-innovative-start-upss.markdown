@@ -12,11 +12,14 @@ tags:
 description: In this blog post, we'll take a closer look at two Dublin-based companies,
   Mobility Mojo and HaPPE Earth, that are making waves in the tech and sustainability
   sectors.
+ex: "<!--read-->"
 ---
 
 ![Dublin](/uploads/Dublin.jpeg)
 
 Dublin has established itself as a hub for innovation, attracting entrepreneurs from around the world. The city is home to many resources that support the growth of start-ups, including the Guinness Enterprise Centre (GEC). In this blog post, we'll take a closer look at two Dublin-based companies, Mobility Mojo and HaPPE Earth, that are making waves in the tech and sustainability sectors.
+
+<!--read-->
 
 #### The Guinness Enterprise Centre: Fostering Innovation and Growth
 
