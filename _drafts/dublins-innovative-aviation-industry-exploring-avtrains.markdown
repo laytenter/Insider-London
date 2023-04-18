@@ -16,7 +16,7 @@ description: Dublin is renowned as a hub of entrepreneurial activity, and its st
   lease market.
 ---
 
-![Drone-Operator](/uploads/Drone-Operator_AdobeStock_580763456(resized).jpg)
+![Drone-Operator](/uploads/Drone-Operator_AdobeStock_580763456(resized)-3d3369.jpg)
 
 Dublin is renowned as a hub of entrepreneurial activity, and its start-up scene is flourishing with innovative businesses. Although the city is perhaps most well-known for its role as a base for tech giants, there are also many smaller, home-grown [firms](https://www.insiderlondon.com/blog/entrepreneurship-in-dublin-exploring-innovative-start-ups/) that are making an impact in various sectors. This week we're taking a look at such a company, [Avtrain](https://avtrain.aero/), which has found success in Dublin's thriving aviation market.
 
@@ -28,7 +28,6 @@ Established in 2019, Avtrain is a flight training organisation based in Dublin, 
 
 Avtrain's innovative approach to aviation training is an excellent fit for Dublin's dynamic business scene. Dublin's position as the world's largest aviation lease market share has drawn many companies to the city. Avtrain is one of the companies that have benefitted from this thriving market. While the city is often associated with Silicon Valley giants, there is also a thriving domestic entrepreneurial community that is making waves in a variety of industries.
 
-![Dublin_AdobeStock_300143961.jpeg](/uploads/Dublin_AdobeStock_300143961.jpeg)
  
 In part, this can be attributed to the support strat-ups have received from the Guinness Enterprise Centre (GEC), which has played a crucial role in helping companies grow and expand. The GEC provides a range of resources and services, including office space, mentorship, and networking opportunities, to help entrepreneurs succeed. By being located in the GEC, Avtrain has been able to tap into a vibrant community of like-minded business people, as well as access the resources and expertise needed to thrive.
 
