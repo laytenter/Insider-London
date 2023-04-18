@@ -20,11 +20,11 @@ description: Dublin is renowned as a hub of entrepreneurial activity, and its st
 
 Dublin is renowned as a hub of entrepreneurial activity, and its start-up scene is flourishing with innovative businesses. Although the city is perhaps most well-known for its role as a base for tech giants, there are also many smaller, home-grown [firms](https://www.insiderlondon.com/blog/entrepreneurship-in-dublin-exploring-innovative-start-ups/) that are making an impact in various sectors. This week we're taking a look at such a company, [Avtrain](https://avtrain.aero/), which has found success in Dublin's thriving aviation market.
 
-#####Avtrain's Roots in Dublin
+##### Avtrain's Roots in Dublin
 
 Established in 2019, Avtrain is a flight training organisation based in Dublin, located in the [Guinness Enterprise Centre](https://www.gec.ie/), Dublin's premier start-up hub. The company was set up to fill the gap in the aviation market for high-quality flight instruction, with a particular emphasis on instructor training. Avtrain is the only training school in Ireland approved by the Irish Aviation Authority (IAA) to carry out instructor training. They can work with aviation companies to train their pilots to become IAA-authorised instructors, enabling the firms to train their own pilots in-house, saving time and money. Avtrain is also the only training school authorised to carry out training and flight tests up to 75kgs.
 
-#####Success in Dublin's Business Scene
+##### Success in Dublin's Business Scene
 
 Avtrain's innovative approach to aviation training is an excellent fit for Dublin's dynamic business scene. Dublin's position as the world's largest aviation lease market share has drawn many companies to the city. Avtrain is one of the companies that have benefitted from this thriving market. While the city is often associated with Silicon Valley giants, there is also a thriving domestic entrepreneurial community that is making waves in a variety of industries.
 
