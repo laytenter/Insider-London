@@ -22,7 +22,7 @@ Dublin is renowned as a hub of entrepreneurial activity, and its start-up scene 
 
 ##### Avtrain's Roots in Dublin
 
-Established in 2019, Avtrain is a flight training organisation based in Dublin, located in the [Guinness Enterprise Centre](https://www.gec.ie/), Dublin's premier start-up hub. The company was set up to fill the gap in the aviation market for high-quality flight instruction, with a particular emphasis on instructor training. Avtrain is the only training school in Ireland approved by the Irish Aviation Authority (IAA) to carry out instructor training. They can work with aviation companies to train their pilots to become IAA-authorised instructors, enabling the firms to train their own pilots in-house, saving time and money. Avtrain is also the only training school authorised to carry out training and flight tests up to 75kgs.
+Established in 2019, Avtrain is a flight training organisation based in Dublin, located in the [Guinness Enterprise Centre](https://www.gec.ie/), Dublin's premier start-up hub. The company was set up to fill the gap in the aviation market for high-quality flight instruction, with a particular emphasis on instructor training. Avtrain is the only training school in Ireland approved by the Irish Aviation Authority (IAA) to carry out instructor training. They can work with aviation companies to train their pilots to become IAA-authorised instructors, enabling the firms to train their pilots in-house, saving time and money. Avtrain is also the only training school authorised to carry out training and flight tests up to 75kgs.
 
 ##### Success in Dublin's Business Scene
 
