@@ -32,8 +32,6 @@ Despite being a relatively young company, Transmission is recognised as an influ
 
 Transmission is proud to be an independent agency, which means they have the global agility and experience to help B2B brands drive the now and define the next. They are not tied to any one corporate entity, giving them the freedom to work with a diverse range of clients and create innovative marketing solutions that truly stand out.
 
-![AdobeStock_241614746.jpeg](/uploads/AdobeStock_241614746.jpeg)
-
 ##### Visiting Transmission
 
 If you're looking to gain real-world experience in the fast-paced world of marketing, a visit to Transmission is a must. During half-day or full-day visits, students will have the opportunity to gain insights into the inner workings of a global marketing agency, learn about the latest trends and best practices in marketing, and meet with industry-leading experts to ask questions and gain valuable advice. From data analytics to creative production, students will get to experience first-hand what it takes to succeed in this exciting industry.
