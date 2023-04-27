@@ -16,7 +16,7 @@ description: Founded in the UK, a media and content marketing agency solely work
 
 ![transmission1.jpeg](/uploads/transmission1.jpeg)
 
-In the world of marketing, [Transmission](https://transmissionagency.com/en-gb) is a name that has quickly risen to become a major player. Founded in the UK, as a media and content marketing agency solely working with technology businesses, Transmission has come a long way since its early days. In this blog post, we'll take a look at the journey of Transmission and how it has become the largest global independent B2B marketing agency in the world.
+In the world of marketing, [Transmission](https://transmissionagency.com/en-gb) is a name that has quickly risen to become a major player. In this blog post, we'll take a look at the journey of Transmission and how it has become the largest global independent B2B marketing agency in the world, and how with Insider London you will have an excellent opportunity to meet different departments, from creative, production, branding, data analytics, insights, and more.
 
 ##### From Pulse to Pace to Transmission
 
@@ -34,10 +34,13 @@ Transmission is proud to be an independent agency, which means they have the glo
 
 ##### Visiting Transmission
 
-If you're looking to gain real-world experience in the fast-paced world of marketing, a visit to Transmission is a must. During half-day or full-day visits, students will have the opportunity to gain insights into the inner workings of a global marketing agency, learn about the latest trends and best practices in marketing, and meet with industry-leading experts to ask questions and gain valuable advice. From data analytics to creative production, students will get to experience first-hand what it takes to succeed in this exciting industry.
+Why is this experience so important for aspiring marketers? Because B2B marketing is a unique field that requires a deep understanding of the industry and its specific challenges. By meeting with different departments at Transmission, you'll be able to see firsthand how they approach these challenges and learn from their successes and failures.
+
+You have the opportunity to learn directly from Transmission's experts. A [company visit](https://www.insiderlondon.com/london/company-visits/) with Transmission will provide you with an in-depth understanding of the world of marketing, from creative production to branding to data analytics and insights. You'll gain knowledge, skills, and connections that will help you thrive in the fast-paced world of B2B marketing.
+
+*Learning about B2B aspects is an essential experience for any student who wants to succeed in the world of marketing, a  can provide students with the knowledge, skills, and connections they need to thrive in this exciting and challenging field. Contact us via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a> to start arranging your bespoke visit*
 
 
-*We are proud to partner with [Transmission](https://transmissionagency.com/en-gb). Learning about B2B aspects is an essential experience for any student who wants to succeed in the world of marketing, a [company visit](https://www.insiderlondon.com/london/company-visits/) can provide students with the knowledge, skills, and connections they need to thrive in this exciting and challenging field. Contact us via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a> to start arranging your bespoke visit.*
 
 
 
