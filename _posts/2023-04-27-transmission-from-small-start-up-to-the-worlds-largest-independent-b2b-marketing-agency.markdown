@@ -8,6 +8,7 @@ tags:
 - marketing
 - b2b
 - start-ups
+- career path
 description: Founded in the UK, a media and content marketing agency solely working
   with technology businesses, Transmission has come a long way since its early days.
   In this blog post, we'll take a look at the journey of Transmission and how it has
