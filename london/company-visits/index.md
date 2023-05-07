@@ -71,7 +71,7 @@ Our company visits for students and corporate groups showcase some of the world�
 
  
 
-Insider London’s Company Visits are a unique opportunity for corporate groups and government officials looking for a rare behind-the-scenes experience, as well as for student groups looking to explore real-life thriving business models. Our visits provide an opportunity to make vital contacts and discover key challenges of the modern world in specific industries.
+Insider London’s Company Visits is a unique opportunity for corporate groups and government officials looking for a rare behind-the-scenes experience, as well as for student groups looking to explore real-life thriving business models. Our visits provide an opportunity to make vital contacts and discover key challenges of the modern world in specific industries.
 
 E-mail [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to choose from our extensive list of partners. With opportunities for a variety of groups, with sizes from 6-80 people, we will create a bespoke business programme for your precise professional or academic needs.
 
@@ -80,7 +80,7 @@ E-mail [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to choose f
 Insider London also hosts engaging and interactive workshops with top industry professionals. The precise subject matter of talks and workshops can be oriented around the interests and requirements of your student or corporate group.
 
 - **Fintech for the Future** – An ideas exchange between some of the UK’s most innovative fintech companies. With a carefully curated selection of start-ups.
-- **Music Workshop for Creative Students** – Learn from the best and gain insight into the world of music production. Explore the ins and outs of song development from start to finish.
+- **Performance Workshop for Creatives** – Learn from the best and gain insight into the world of music production and what steps would be taken if the song were to be released, including distribution, release plan, marketing, branding, visuals, and sync.
 
 
 - **Business Model Canvas** – A fantastic introductory session for students. This workshop introduces critical key considerations for budding entrepreneurs when creating their business model
