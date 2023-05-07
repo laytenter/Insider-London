@@ -80,7 +80,7 @@ E-mail [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to choose f
 Insider London also hosts engaging and interactive workshops with top industry professionals. The precise subject matter of talks and workshops can be oriented around the interests and requirements of your student or corporate group.
 
 - **Fintech for the Future** – An ideas exchange between some of the UK’s most innovative fintech companies. With a carefully curated selection of start-ups.
-- **Asset Management & Trading** – A bespoke session based on the background of the group; this workshop is led by a former policy advisor to the European Monetary Affairs committee.
+- **Music Workshop for Creative Students** – Learn from the best and gain insight into the world of music production. Explore the ins and outs of song development from start to finish.
 
 
 - **Business Model Canvas** – A fantastic introductory session for students. This workshop introduces critical key considerations for budding entrepreneurs when creating their business model
