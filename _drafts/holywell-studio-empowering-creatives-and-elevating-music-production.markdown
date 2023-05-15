@@ -1,6 +1,13 @@
 ---
 title: 'Holywell Studio: Empowering Creatives and Elevating Music Production'
 date: 2023-05-15 13:18:00 Z
+categories:
+- Events
+- Business
+tags:
+- music production
+- creating songs
+- song post-production
 ---
 
 ![AdobeStock_142099888.jpeg](/uploads/AdobeStock_142099888.jpeg)
