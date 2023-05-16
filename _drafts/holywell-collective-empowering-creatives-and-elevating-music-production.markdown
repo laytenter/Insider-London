@@ -12,7 +12,7 @@ tags:
 
 ![AdobeStock_142099888.jpeg](/uploads/AdobeStock_142099888.jpeg)
 
-Fueling the Creative Vision
+#### Fueling the Creative Vision
 
 The [Holywell Collective](www.holywellcollective.com) was born out of the passion and shared vision of CEO and founder [Konstantinos Malliaris](https://www.linkedin.com/in/konstantinos-malliaris). With an unwavering dedication to creating a dynamic and innovative music space, Holywell Collective emerged as a result of Malliaris' deep understanding of the transformative power of collaboration.
 
