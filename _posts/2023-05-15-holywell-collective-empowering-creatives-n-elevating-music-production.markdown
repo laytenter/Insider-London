@@ -13,7 +13,7 @@ tags:
 - east london
 ---
 
-![AdobeStock_142099888.jpeg](/uploads/AdobeStock_142099888.jpeg)
+![Music_Production](/uploads/AdobeStock_142099888_resized.jpg)
 
 #### Fueling the Creative Vision
 
