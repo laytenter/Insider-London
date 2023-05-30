@@ -8,6 +8,9 @@ tags:
 - music production
 - creating songs
 - song post-production
+- Shoreditch
+- creative community
+- east london
 ---
 
 ![AdobeStock_142099888.jpeg](/uploads/AdobeStock_142099888.jpeg)
