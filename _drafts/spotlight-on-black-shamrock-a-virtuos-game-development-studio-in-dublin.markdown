@@ -8,6 +8,13 @@ tags:
 - game development
 - Dublin
 - Guinness Enterprise Centre
+description: nsider London invites you to embark on an exciting journey into the world
+  of gaming with Virtuos Studio. As part of our collaboration, we offer exclusive
+  company visits to Virtuos Studio in Dublin. Experience firsthand the creative process
+  behind game development, interact with industry professionals, and immerse yourself
+  in the fascinating world of game creation. Don't miss this unique opportunity to
+  gain insights into the gaming industry and see how Virtuos Studio is shaping the
+  future of interactive entertainment.
 ---
 
 ![gaming](/uploads/AdobeStock_130277488_gaming_resized.jpg)
