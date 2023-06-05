@@ -38,7 +38,7 @@ One of Virtuos' notable studios is Black Shamrock, located at the Guinness Enter
 
 ##### Unleashing Creativity and Fast-Tracking Career Growth
 
-As part of Virtuos Studio, Black Shamrock offers a unique opportunity for game developers and enthusiasts. At any given time, Black Shamrock is involved in co-development projects with industry-leading publishers and game developers. This means that their team members work with different game brands, genres, and development technologies, providing them with fast-tracked development experience and accelerated career growth.
+At any given time, Black Shamrock is involved in co-development projects with industry-leading publishers and game developers. This means that their team members work with different game brands, genres, and development technologies, providing them with fast-tracked development experience and accelerated career growth.
 
 Experience firsthand the creative process behind game development, interact with industry professionals and immerse yourself in the fascinating world of game creation. Don't miss this unique opportunity to gain insights into the gaming industry and see how Virtuos Studio is shaping the future of interactive entertainment. 
 
