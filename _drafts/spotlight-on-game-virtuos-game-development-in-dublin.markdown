@@ -1,6 +1,6 @@
 ---
 title: Spotlight on Virtuos - Game Development in Dublin
-date: 2023-06-05 10:17:00 Z
+date: 2023-06-06 10:17:00 Z
 categories:
 - Business
 tags:
