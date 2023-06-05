@@ -1,5 +1,5 @@
 ---
-title: Spotlight on Black Shamrock - a Virtuos Game Development Studio in Dublin
+title: Spotlight on Game Development with Black Shamrock - a Virtuos  Studio in Dublin
 date: 2023-06-05 10:17:00 Z
 categories:
 - Business
@@ -42,4 +42,4 @@ As part of Virtuos Studio, Black Shamrock offers a unique opportunity for game d
 
 Experience firsthand the creative process behind game development, interact with industry professionals and immerse yourself in the fascinating world of game creation. Don't miss this unique opportunity to gain insights into the gaming industry and see how Virtuos Studio is shaping the future of interactive entertainment. 
 
-*Contact us today at <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a< to book your company visit and delve into the world of gaming with Virtuos Studio.*
+*Contact us today at <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a> to book your company visit and delve into the world of gaming with Virtuos Studio.*
