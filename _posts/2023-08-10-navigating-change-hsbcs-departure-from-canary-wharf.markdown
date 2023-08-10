@@ -1,6 +1,18 @@
 ---
 title: 'Navigating Change: HSBC''s Departure from Canary Wharf'
-date: 2023-08-09 13:08:00 Z
+date: 2023-08-10 13:08:00 Z
+categories:
+- Business
+tags:
+- canary wharf
+- hsbc
+- the City of London
+- London financial hubs
+- finance
+description: In a significant development for the financial landscape, HSBC has announced
+  its departure from its iconic 45-storey Canary Wharf headquarters. In this week's
+  blog, we take a look at the move which marks a strategic shift in the bank's operational
+  dynamics and sets to shape the future of its working environment
 ---
 
 ![CanaryWharf@800x-50](/uploads/CanaryWharf@800x-50.jpg)
