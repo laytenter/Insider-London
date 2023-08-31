@@ -7,6 +7,9 @@ tags:
 - marketing
 - digital transformation
 - social marketing
+description: In the realm of contemporary marketing, where creativity intertwines
+  with innovation, influencer marketing has emerged as a powerful strategy. Insider
+  London proudly introduces its collaboration with ThisThat
 ---
 
 ![pexels-ivan-samkov-7676397](/uploads/pexels-ivan-samkov-7676397.jpg)
