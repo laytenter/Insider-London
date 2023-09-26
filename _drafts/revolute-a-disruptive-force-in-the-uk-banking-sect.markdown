@@ -20,7 +20,7 @@ description: In the ever-evolving landscape of modern finance, traditional banks
   in the banking industry, and why it has garnered a dedicated following.
 ---
 
-![AdobeStock_414095320_resized.jpg](/uploads/AdobeStock_414095320_mobile_banking)
+![AdobeStock_414095320_resized.jpg](/uploads/AdobeStock_414095320_resized.jpg)
 
 *In the ever-evolving landscape of modern finance, traditional banks are facing a formidable challenge from a new breed of financial institutions known as "challenger banks." Among these trailblazers, [Revolut](https://www.revolut.com/) has emerged as a standout player, disrupting the banking sector and redefining how people manage their finances. The partnership between Insider London and Revolut opens doors for individuals eager to explore the fintech frontier and be part of the financial revolution. In this blog post, we'll embark on a journey to explore Revolut's history, its unique position in the banking industry, and why it has garnered a dedicated following.*
 
