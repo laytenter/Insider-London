@@ -12,7 +12,7 @@ tags:
 - entrepreneurship
 ---
 
-![AdobeStock_338035931.jpeg](/uploads/AdobeStock_338035931.jpeg)
+![AdobeStock_414095320_resized.jpg](/uploads/AdobeStock_414095320_mobile_banking)
 
 *In the ever-evolving landscape of modern finance, traditional banks are facing a formidable challenge from a new breed of financial institutions known as "challenger banks." Among these trailblazers, [Revolut](https://www.revolut.com/) has emerged as a standout player, disrupting the banking sector and redefining how people manage their finances. The partnership between Insider London and Revolut opens doors for individuals eager to explore the fintech frontier and be part of the financial revolution. In this blog post, we'll embark on a journey to explore Revolut's history, its unique position in the banking industry, and why it has garnered a dedicated following.*
 
@@ -32,5 +32,5 @@ Revolute appeals to a wide range of customers, especially those who travel frequ
 
 As Revolut continues to grow, its focus remains on expanding its product offerings, improving user experiences, and further penetrating international markets. The company's ambitions include becoming a global financial super-app, providing everything from banking and investing to insurance and more, all within the confines of a single app. 
 
-*In partnership with Revolut, Insider London offers [company visits](https://www.insiderlondon.com/london/company-visits/) that provide a behind-the-scenes look at this fintech trailblazer. Participants gain insights into how Revolut harnesses technology to revolutionize finance, making it an ideal opportunity for students, professionals, and anyone curious about the future of banking. Contact us at <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a> to reserve your spot and experience the future of banking firsthand.* 
+*In partnership with Revolut, Insider London offers [company visits](https://www.insiderlondon.com/london/company-visits/) that provide a behind-the-scenes look at this fintech trailblazer. Participants gain insights into how Revolut harnesses technology to revolutionise finance, making it an ideal opportunity for students, professionals, and anyone curious about the future of banking. Contact us at <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a> to reserve your spot and experience the future of banking firsthand.* 
 
