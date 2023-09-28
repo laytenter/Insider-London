@@ -10,11 +10,14 @@ tags:
 description: In the realm of contemporary marketing, where creativity intertwines
   with innovation, influencer marketing has emerged as a powerful strategy. Insider
   London proudly introduces its collaboration with ThisThat
+excerpt_separator: "<!--read-->"
 ---
 
 ![pexels-ivan-samkov-7676397](/uploads/pexels-ivan-samkov-7676397.jpg)
 
-*In the realm of contemporary marketing, where creativity intertwines with innovation, influencer marketing has emerged as a powerful strategy. Insider London proudly introduces its collaboration with [ThisThat](https://www.thisthat.tt/), a distinguished UK-based marketing company specialising in influencer marketing. This partnership brings forth an extraordinary opportunity for those who seek to delve into the world of influencer marketing through immersive company visits.*
+In the realm of contemporary marketing, where creativity intertwines with innovation, influencer marketing has emerged as a powerful strategy. Insider London proudly introduces its collaboration with [ThisThat](https://www.thisthat.tt/), a distinguished UK-based marketing company specialising in influencer marketing. This partnership brings forth an extraordinary opportunity for those who seek to delve into the world of influencer marketing through immersive company visits.
+
+<!--read-->
 
 ##### Decoding Influencer Marketing: Elevating Brand Influence
 
