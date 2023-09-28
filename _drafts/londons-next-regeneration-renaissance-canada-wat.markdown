@@ -15,7 +15,7 @@ tags:
 
 London, a city that ceaselessly reinvents itself, is witnessing a remarkable renaissance in urban regeneration. At the forefront of this transformation are visionary developers who are shaping the city's future and offering innovative living experiences. Join us as we delve into their remarkable contributions to Canada Water, exploring how the project parallels London's dynamic evolution. 
 
-**AustralianSuper and British Land: Masters of Regeneration**
+#### AustralianSuper and British Land: Masters of Regeneration
 
 AustralianSuper, a name synonymous with urban innovation, is setting new standards in urban regeneration. Their [partnership](https://www.britishland.com/news/press-releases/british-land-and-australiansuper-announce-new-joint-venture-accelerate-delivery-canada-water-masterplan) with British Land, one of the UK's largest property developers, is creating sustainable, vibrant communities across London. Let's explore their awe-inspiring projects together.
 
@@ -23,7 +23,7 @@ Simon Carter, CEO of British Land said: “We are delighted to be working with A
 
 This transaction is a great example of our proactive approach to recycling our capital and leveraging our expertise by working with like-minded partners.” 
 
-**Canada Water: London's New Urban Heartbeat**
+#### Canada Water: London's New Urban Heartbeat
 
 This 53-acre site, a former dock, is undergoing a breathtaking [transformation](https://canadawaterdockside.co.uk/). It will soon offer a blend of homes, retail, green spaces, and cultural venues. The masterplan aims to create London's first new town centre in half a century, with sustainability and community at its core.
 
