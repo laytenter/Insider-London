@@ -37,9 +37,9 @@ The vision is to create a new town centre for London, the first in 50 years. It 
 
 #### London's Widespread Transformation: A Common Thread
 
-From the renaissance of [Canary Wharf](https://group.canarywharf.com/about-us/), and [Kings Cross](https://www.kingscross.co.uk/about-the-development) to the transformation of [Olympic Park](https://www.queenelizabetholympicpark.co.uk/about-us/who-we-are), London's urban fabric is evolving. Each project creates mixed-use neighbourhoods with public spaces and amenities that define modern urban living. 
+From the renaissance of [Canary Wharf](https://group.canarywharf.com/about-us/), and [King's Cross](https://www.kingscross.co.uk/about-the-development) to the transformation of [Olympic Park](https://www.queenelizabetholympicpark.co.uk/about-us/who-we-are), London's urban fabric is evolving. Each project creates mixed-use neighbourhoods with public spaces and amenities that define modern urban living. 
 
-Kings Cross, a phoenix that has risen from industrial ashes, is a testament to London's unwavering commitment to redefining cityscapes. What was once a gritty wasteland is now a thriving neighbourhood, home to Google's London headquarters, the renowned Central Saint Martins College of Art and Design, and the iconic Coal Drops Yard shopping district. 
+King's Cross, a phoenix that has risen from industrial ashes, is a testament to London's unwavering commitment to redefining cityscapes. What was once a gritty wasteland is now a thriving neighbourhood, home to Google's London headquarters, the renowned Central Saint Martins College of Art and Design, and the iconic Coal Drops Yard shopping district. 
 
 ![google hq.jpg](/uploads/google%20hq.jpg)
 <small><em>King's Cross regeneration</em></small>
