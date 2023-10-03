@@ -8,6 +8,11 @@ tags:
 - Canada Water
 - Kings Cross Regeneration
 - Redevelopment
+- Urban Redevelopment
+- Regeneration
+- British Land
+- AustralianSuper
+- investment
 description: London, a city that ceaselessly reinvents itself, is witnessing a remarkable
   renaissance in urban regeneration. At the forefront of this transformation are visionary
   developers who are shaping the city's future and offering innovative living experiences.
@@ -41,7 +46,7 @@ From the renaissance of [Canary Wharf](https://group.canarywharf.com/about-us/),
 
 King's Cross, a phoenix that has risen from industrial ashes, is a testament to London's unwavering commitment to redefining cityscapes. What was once a gritty wasteland is now a thriving neighbourhood, home to Google's London headquarters, the renowned Central Saint Martins College of Art and Design, and the iconic Coal Drops Yard shopping district. 
 
-![google hq.jpg](/uploads/google%20hq.jpg)
+![pexels-huy-phan-17160740.jpg](/uploads/pexels-huy-phan-17160740.jpg)
 <small><em>King's Cross regeneration</em></small>
 
 Equally, the Queen Elizabeth Olympic Park, the site of the 2012 London Olympics, stands as a testament to London's commitment to sustainable urban development. This 560-acre site has transformed into a vibrant, world-class destination with sporting venues, green spaces, and cultural attractions.
