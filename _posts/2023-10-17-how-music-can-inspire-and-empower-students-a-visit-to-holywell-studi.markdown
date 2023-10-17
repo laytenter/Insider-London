@@ -3,6 +3,7 @@ title: 'How Music Can Inspire and Empower Students: A Visit to Holywell Studio'
 date: 2023-10-17 15:11:00 Z
 categories:
 - Events
+- Art and Culture
 tags:
 - workshops
 - creating songs
