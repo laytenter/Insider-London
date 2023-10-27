@@ -56,12 +56,12 @@ For real business insight out of the office or classroom then look no further th
 
 Our company visits for students and corporate groups showcase some of the world’s most powerful companies as well as the capital’s most innovative entrepreneurs, including:
 
-
-- **Seedrs** - the leading equity crowdfunding platform and the most active funder of private companies in the UK.  From fintech to food and beverages, they support companies from a wide range of industries to seek investment. The platform aims to make investment easy for anyone from angels and VCs to the general public, all managed online.
+- **Revolut** - challenger bank emblematic of the changing landscape of modern banking. With a relentless commitment to innovation and user satisfaction, Revolut has disrupted the status quo and set a new standard for what banking can and should be. 
+- **Seedrs** - the leading equity crowdfunding platform and the most active funder of private companies in the UK.  From fintech to food and beverages, they support companies from various industries to seek investment. The platform aims to make investment easy for anyone from angels and VCs to the general public, all managed online.
 - **Turo** – the Airbnb for cars, making car sharing easy, profitable and stylish. With a presence in over 7,000 cities in North America, this exciting Silicon Valley star is now making waves around the world.
-- **Transmission** - the world's largest independent global B2B marketing agency, providing award-winning full-service offerings across brand, demand, and sales. Combining data-driven intelligence, innovation, and creativity, they craft powerful marketing solutions for clients like Microsoft, LinkedIn, Dropbox, Salesforce.
+- **Transmission** - the world's largest independent global B2B marketing agency, providing award-winning full-service offerings across brand, demand, and sales. Combining data-driven intelligence, innovation, and creativity, they craft powerful marketing solutions for clients like Microsoft, LinkedIn, Dropbox, and Salesforce.
 - **Tribal Worldwide** - the global technology-based marketing agency, part of the Omnicons Group, that develops creative solutions for McDonald’s, Adidas, and Volkswagen.
-- **Formula Media** – the digital disruptors driving forward the future of marketing. Formula Media pairs CTV, AI, AR, VR and more with their innovative use of data. Discover the brand storytellers who have partnered with the Prince’s Trust and Soho House.
+- **Formula Media** – the digital disruptors driving the future of marketing. Formula Media pairs CTV, AI, AR, VR and more with their innovative use of data. Discover the brand storytellers who have partnered with the Prince’s Trust and Soho House.
 
 - **Paysme** – the dynamic fintech rolling out digital financial services to support small business customers. Paysme is to power Europe’s first Super App for underserved SMEs. Embedded finance tools include mobile payments, e-commerce, digital banking, accounting, lending and insurance.
 - **Fashion Enter** - see for yourself the whole clothing manufacturing production process. At Fashion Enter, sustainability is key. The company's CAD room ensures that garment cutting is optimised to reduce wastage and maximise quality. 
