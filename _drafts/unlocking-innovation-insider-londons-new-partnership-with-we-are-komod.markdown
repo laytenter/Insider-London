@@ -13,8 +13,8 @@ tags:
 - creative community
 description: We are excited to announce our new partnership with We Are Komodo, the
   award-winning global social agency that specialises in content and influencer marketing.
-  In this blog post, we will take a look at who **We Are Komodo** is, what they do,
-  and why they are so unique.
+  In this blog post, we will take a look at who We Are Komodo is, what they do, and
+  why they are so unique.
 excerpt_separator: "<!--read-->"
 ---
 
@@ -47,5 +47,5 @@ Some of their notable campaigns include:
 Komodo is also unique because they have a strong culture of collaboration and innovation. They foster a fun and friendly work environment where everyone is valued and respected. They encourage their team members to pursue their passions and personal growth. They also have a culture of learning and sharing, where they host regular workshops, webinars, and podcasts to share their insights and expertise with their clients and partners.
 
 
-*We Are Komodo's expertise is invaluable for students, aspiring creatives, and professionals looking to gain insights into the world of contemporary design and branding. With their focus on innovation, creative expression, and client-centric strategies, a company visit to We Are Komodo is an enriching experience for anyone interested in exploring the dynamics of the creative industry. Contact Insider London today to schedule a visit and get an exclusive glimpse into the innovative world of We Are Komodo.*
+*We Are Komodo's expertise is invaluable for students, aspiring creatives, and professionals looking to gain insights into the world of contemporary design and branding. With their focus on innovation, creative expression, and client-centric strategies, a [company visit]([company visits](https://www.insiderlondon.com/london/company-visits/)) to We Are Komodo is an enriching experience for anyone interested in exploring the dynamics of the creative industry. Contact Insider London today <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a> to schedule a visit and get an exclusive glimpse into the innovative world of We Are Komodo.*
 
