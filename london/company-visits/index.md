@@ -61,13 +61,12 @@ Our company visits for students and corporate groups showcase some of the world�
 - **Turo** – the "Airbnb for cars", making car sharing easy, profitable and stylish. With a presence in over 7,000 cities in North America, this exciting Silicon Valley star is now making waves around the world.
 - **Transmission** - the world's largest independent global B2B marketing agency, providing award-winning full-service offerings across brand, demand, and sales. Combining data-driven intelligence, innovation, and creativity, they craft powerful marketing solutions for clients like Microsoft, LinkedIn, Dropbox, and Salesforce.
 - **We Are Komodo** - award-winning global social agency that specialises in content and influencer marketing. They work with over 100 clients across various industries, such as tourism, fashion, beauty, and entertainment.
+
+
 - **ThisThat** - a distinguished UK-based marketing company specialising in influencer marketing. It harnesses individuals with substantial social media followings to endorse products, capitalising on the trust and credibility they’ve nurtured with their audience.
 - **Formula Media** – the digital disruptors driving the future of marketing. Formula Media pairs CTV, AI, AR, VR and more with their innovative use of data. Discover the brand storytellers who have partnered with the Prince’s Trust and Soho House.
-
-- **Paysme** – the dynamic fintech rolling out digital financial services to support small business customers. Paysme is to power Europe’s first Super App for underserved SMEs. Embedded finance tools include mobile payments, e-commerce, digital banking, accounting, lending and insurance.
 - **Fashion Enter** - see for yourself the whole clothing manufacturing production process. At Fashion Enter, sustainability is key. The company's CAD room ensures that garment cutting is optimised to reduce wastage and maximise quality. 
-- **Unify.id** - company transforming sustainability, safety and building management. Unify.id helps businesses to understand their real building usage to cut energy costs and slash carbon emissions the smart way.
-- **Aberrant Architecture** – the pioneers transforming run-down locations into vibrant community hubs. This architecture practice engages local communities to create amazing spaces from shopping centres to schools. This award-winning firm boasts an international portfolio.
+- **CHEM Trust** - a UK-based charity that works to protect human health and the environment from harmful chemicals. Advocates for stronger regulation of chemicals at the UK, EU and global levels and raises awareness of the impacts of chemicals on wildlife and ecosystems, and persistent substances.
 - **Lottie** - a digital marketplace that connects care seekers via a personalised service to find the best care homes and retirement living communities in the UK. 
 
  
