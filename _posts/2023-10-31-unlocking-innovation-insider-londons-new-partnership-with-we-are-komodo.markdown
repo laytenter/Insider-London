@@ -21,7 +21,7 @@ excerpt_separator: "<!--read-->"
 
 ![Influencer_AdobeStock_487403475](/uploads/Influencer_AdobeStock_487403475.jpg)
 
-We are excited to announce our new partnership with [We Are Komodo] (https://wearekomodo.com/), the award-winning global social agency that specialises in content and influencer marketing. In this blog post, we will take a look at what they do, and why they are so unique.
+We are excited to announce our new partnership with [We Are Komodo](https://wearekomodo.com/), the award-winning global social agency that specialises in content and influencer marketing. In this blog post, we will take a look at what they do, and why they are so unique.
 
 <!--read-->
 
