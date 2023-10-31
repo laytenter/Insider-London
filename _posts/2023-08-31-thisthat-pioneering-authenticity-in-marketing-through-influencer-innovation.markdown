@@ -3,6 +3,7 @@ title: 'ThisThat: Pioneering Authenticity in Marketing through Influencer Innova
 date: 2023-08-31 12:53:00 Z
 categories:
 - Business
+- Marketing and Retail
 tags:
 - marketing
 - digital transformation
