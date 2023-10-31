@@ -22,7 +22,7 @@ In the realm of contemporary marketing, where creativity intertwines with innova
 
 ##### Decoding Influencer Marketing: Elevating Brand Influence
 
-[Influencer marketing](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-influencer-marketing) is a hybrid of old and new marketing tools, merging celebrity endorsement with modern content-driven campaigns. It harnesses individuals with substantial social media followings to endorse products, capitalizing on the trust and credibility they've nurtured with their audience.
+[Influencer marketing](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-influencer-marketing) is a hybrid of old and new marketing tools, merging celebrity endorsement with modern content-driven campaigns. It harnesses individuals with substantial social media followings to endorse products, capitalising on the trust and credibility they've nurtured with their audience.
 
 ThisThat's groundbreaking solution is rooted in a social-first philosophy, capturing brand lift metrics and unveiling hidden insights from campaigns experienced in the real world. This unique blend of influencer and social marketing underlines the company's commitment to reshaping brand influence dynamics
 
