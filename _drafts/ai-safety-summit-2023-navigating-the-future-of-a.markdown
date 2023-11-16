@@ -3,7 +3,7 @@ title: 'AI Safety Summit 2023: Navigating the Future of AI'
 date: 2023-11-16 08:21:00 Z
 ---
 
-![AI summit 2023.jpeg](/uploads/AI%20summit%202023.jpeg)
+![AI summit 2023_SMALLER.jpeg](/uploads/AI%20summit%202023_SMALLER.jpeg)
 
 The United Kingdom recently hosted the first global [AI Safety Summit](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2023-generative-AIs-breakout-year) on the 1st and 2nd of November at Bletchley Park. This event brought together leading AI nations, technology companies, researchers, and civil society groups to turbocharge action on the safe and responsible development of frontier AI around the world.
 
