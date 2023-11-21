@@ -9,6 +9,14 @@ tags:
 - fintech
 - start-ups
 - entrepreneurship
+- financial well-being
+description: At its core, SalaryFits is on a mission to promote sustainable financial
+  services. Their focus extends beyond conventional offerings, diving deep into developer-friendly
+  APIs that seamlessly integrate with payroll processes worldwide. This pioneering
+  approach empowers global and regional benefit providers, such as lenders, insurers,
+  and investment managers, to access real-time payroll data. Through this connectivity,
+  these providers can efficiently collect payments via salary deduction, ensuring
+  a hassle-free and secure financial ecosystem.
 ---
 
 ![Salaryfits](/uploads/SF(screenshot).jpeg)
@@ -23,7 +31,7 @@ At its core, SalaryFits is on a mission to promote sustainable financial service
 
 In the UK, there is a growing need for the kind of services that SalaryFits provides. Recent [research](https://www.pwc.co.uk/industries/financial-services/insights/overlooked-and-financially-underserved.html) by PwC has revealed that 20.2 million adults in the UK are financially under-served. This means that at least 1 in 3 adults may have difficulty accessing credit from mainstream lenders. This represents a 50% increase in the size of this population since 2016. An additional 8.9 million adults exhibit signs of [financial fragility](https://www.totallymoney.com/blog/credit-report-data-must-change/). These individuals are among the most at risk of becoming under-served in the near future as a result of a further squeeze on their finances as the cost of living crisis continues.
 
-## The Importance of Employer Support
+#### The Importance of Employer Support
 
 The rising importance of employer support in the UK cannot be overstated. A staggering 70% of UK employees find themselves short by at least £600 annually, with 2 in 3 of those short by £1,200 each year. Furthermore, 51% spend time worrying about their financial situation every day of the week – twice as much compared to 2021. 23% are worrying multiple times a day. Nearly 3 in 4 (71%) agree that their mental health would improve if their employer gave them immediate [financial well-being support and benefits](https://uk.finance.yahoo.com/news/more-eight-million-financially-strained-090651203.html).
 
@@ -37,5 +45,5 @@ SalaryFits recognises that employers are a valuable channel for reaching underse
 SalaryFits is making a significant impact in the financial services sector. Over 650,000 employees in 230+ enterprises in the UK alone to take control of their finances. The platform boasts 4 million monthly active users worldwide.  More than 160 million traditional financial institutions and fintechs are building products on top of SalaryFits APIs. Every month, over 6 million salary payments (deductions) are processed.
 
 
-*SalaryFits is at the forefront of promoting sustainable financial services at the workplace. Their innovative approach is not only beneficial for financial institutions but also plays a crucial role in improving the financial well-being of employees. As we at Insider London are proud partners with SalaryFits, we invite you to book a visit with them to learn more about their transformative work in the financial services sector*
+*SalaryFits is at the forefront of promoting sustainable financial services at the workplace. Their innovative approach is not only beneficial for financial institutions but also plays a crucial role in improving the financial well-being of employees. As we at Insider London are proud partners with SalaryFits, we invite you to book a [company visit](https://www.insiderlondon.com/london/company-visits/) with them to learn more about their transformative work in the financial services sector. Contact us via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a> to schedule a visit*
 
