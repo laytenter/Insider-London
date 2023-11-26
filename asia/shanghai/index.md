@@ -22,7 +22,7 @@ layout: landing
   {% include slideshow.html %}
 {% endif %}
 
-Behind the glamorous skyline lies a cosmopolitan city with a long history of migration. Referred to as the melting pot of China, the French and Jewish Quarters are testament to Shanghai’s diverse history. The modern metropolis is equally vibrant and attracts more foreign settlers than any other Chinese city.
+Behind the glamorous skyline lies a cosmopolitan city with a long history of migration. Referred to as the melting pot of China, the French and Jewish Quarters are a testament to Shanghai’s diverse history. The modern metropolis is equally vibrant and attracts more foreign settlers than any other Chinese city.
 
 Shanghai is prized for its sophistication and entrepreneurial flare as well as its openness and connectivity in business. One of China’s wealthiest and most populated cities, Shanghai is at the forefront of innovation in a variety of sectors and is the chosen location for China’s first free trade zone.
 
@@ -35,6 +35,8 @@ Highlights of our bespoke programmes include:
 * Coca-Cola Factory in Shenmei – venture outside of Shanghai to one of Asia’s most modern production lines. Explore the first cooperative venture between China and the US with this whistle-stop factory tour
 * Duan Duan - China's first-ever partnership law firm that is privately funded and owned by Chinese students who returned from overseas. The firm is recognised for its international legal services, particularly in cross-border investment and financing, trade, and dispute resolution
 * Internet Initiative Japan – a tech giant developing advanced technology. From launching Japan’s first firewall in 1994 to pioneering cloud service in 2000, IIJ has a long history of innovation
+
+
 * Zizhu Hi-Tech Zone – a huge technology park with a carefully selected mix of corporates, start-ups and universities. Meet the Zizhu Park Manager as well as leading lights of the ground-breaking hi-tech scene
 * NPC Fashion (New Project Center) – home of the eclectic streetwear brand praised worldwide. NPC was co-founded by one of China’s most iconic hip-hop superstars and represents the coolest trends in urban Chinese youth culture
 * Canxing Production – a leading professional production company behind the hit TV shows “So You Think You Can Dance” and “The Voice of China”. With an extensive screen presence online and on TV, Canxing Production develops the most dynamic and original content
