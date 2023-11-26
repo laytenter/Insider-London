@@ -39,7 +39,6 @@ Highlights of our bespoke programmes include:
 
 * Zizhu Hi-Tech Zone – a huge technology park with a carefully selected mix of corporates, start-ups and universities. Meet the Zizhu Park Manager as well as leading lights of the ground-breaking hi-tech scene
 * NPC Fashion (New Project Center) – home of the eclectic streetwear brand praised worldwide. NPC was co-founded by one of China’s most iconic hip-hop superstars and represents the coolest trends in urban Chinese youth culture
-* Canxing Production – a leading professional production company behind the hit TV shows “So You Think You Can Dance” and “The Voice of China”. With an extensive screen presence online and on TV, Canxing Production develops the most dynamic and original content
 * Verus Global – the logistics pioneer offering transparent and cutting-edge systems. Verus Global represents a new generation of the freight forwarding industry with real-time views and streamlined service.
 
 
