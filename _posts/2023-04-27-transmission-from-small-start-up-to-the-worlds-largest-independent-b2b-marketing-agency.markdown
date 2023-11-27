@@ -14,11 +14,14 @@ description: Founded in the UK, a media and content marketing agency solely work
   with technology businesses, Transmission has come a long way since its early days.
   In this blog post, we'll take a look at the journey of Transmission and how it has
   become the largest global independent B2B marketing agency in the world.
+excerpt_separator: "<!--read-->"
 ---
 
 ![transmission1.jpeg](/uploads/transmission1.jpeg)
 
 In the world of marketing, [Transmission](https://transmissionagency.com/en-gb) is a name that has quickly risen to become a major player. In this blog post, we'll take a look at the journey of Transmission and how it has become the largest global independent B2B marketing agency in the world, and how with Insider London you will have an excellent opportunity to meet different departments, from creative, production, branding, data analytics, insights, and more.
+
+<!--read-->
 
 ##### From Pulse to Pace to Transmission
 
