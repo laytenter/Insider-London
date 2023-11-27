@@ -14,15 +14,18 @@ tags:
 description: In partnership with Insider London, Holywell Collective opens its doors
   to creatives, providing a unique opportunity to delve into the intricacies of post-production
   and gain insights into the steps involved in releasing a successful song.
+excerpt_separator: "<!--read-->"
 ---
 
 ![Music_Production](/uploads/AdobeStock_142099888_resized.jpg)
 
+In partnership with Insider London, Holywell Collective opens its doors to creatives, providing a unique opportunity to delve into the intricacies of post-production and gain insights into the steps involved in releasing a successful song.
+
+<!--read-->
+
 #### Fueling the Creative Vision
 
 The [Holywell Collective](https://www.holywellcollective.com/) was born out of the passion and shared vision of CEO and founder [Konstantinos Malliaris](https://www.linkedin.com/in/konstantinos-malliaris). With an unwavering dedication to creating a dynamic and innovative music space, Holywell Collective emerged due to Malliaris' deep understanding of the transformative power of collaboration.
-
-In partnership with Insider London, Holywell Collective opens its doors to creatives, providing a unique opportunity to delve into the intricacies of post-production and gain insights into the steps involved in releasing a successful song.
 
 #### Origin Story: The Vision Takes Shape 
 
