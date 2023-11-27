@@ -13,11 +13,14 @@ description: In a significant development for the financial landscape, HSBC has 
   its departure from its iconic 45-storey Canary Wharf headquarters. In this week's
   blog, we take a look at the move which marks a strategic shift in the bank's operational
   dynamics and sets to shape the future of its working environment
+excerpt_separator: "<!--read-->"
 ---
 
 ![CanaryWharf@800x-50](/uploads/CanaryWharf@800x-50.jpg)
 
-*In a significant development for the financial landscape, HSBC has announced its departure from its iconic 45-storey Canary Wharf headquarters. In this week's blog, we take a look at the move which marks a strategic shift in the bank's operational dynamics and sets to shape the future of its working environment.*
+In a significant development for the financial landscape, HSBC has announced its departure from its iconic 45-storey Canary Wharf headquarters. In this week's blog, we take a look at the move which marks a strategic shift in the bank's operational dynamics and sets to shape the future of its working environment.
+
+<!--read-->
 
  
 ##### HSBC Move Back to the City
