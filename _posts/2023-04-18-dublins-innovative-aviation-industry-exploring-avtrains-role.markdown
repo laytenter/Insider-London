@@ -14,11 +14,15 @@ description: Dublin is renowned as a hub of entrepreneurial activity, and its st
   are also many smaller, home-grown firms that are making an impact in various sectors.
   One such company is Avtrain, which has found success in Dublin's thriving aviation
   lease market.
+excerpt_separator: "<!--read-->"
+Field name: 
 ---
 
 ![Drone-Operator](/uploads/Drone-Operator_AdobeStock_580763456(resized).jpg)
 
 Dublin is renowned as a hub of entrepreneurial activity, and its start-up scene is flourishing with innovative businesses. Although the city is perhaps most well-known for its role as a base for tech giants, there are also many smaller, home-grown [firms](https://www.insiderlondon.com/blog/entrepreneurship-in-dublin-exploring-innovative-start-ups/) that are making an impact in various sectors. This week we're taking a look at such a company, [Avtrain](https://avtrain.aero/), which has found success in Dublin's thriving aviation market.
+
+<!--read-->
 
 ##### Avtrain's Roots in Dublin
 
