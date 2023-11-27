@@ -17,11 +17,14 @@ description: At its core, SalaryFits is on a mission to promote sustainable fina
   and investment managers, to access real-time payroll data. Through this connectivity,
   these providers can efficiently collect payments via salary deduction, ensuring
   a hassle-free and secure financial ecosystem.
+excerpt_separator: "<!--read-->"
 ---
 
 ![Salaryfits](/uploads/SF(screenshot).jpeg)
 
 In the dynamic landscape of workplace financial services, one company stands out as a true pioneer – [SalaryFits](https://content.salaryfits.com/financialwellbeingportal). Insider London proudly partners with SalaryFits, an innovative force reshaping the future of financial wellness in the workplace.
+
+<!--read-->
 
 #### Building Sustainable Financial Services
 
