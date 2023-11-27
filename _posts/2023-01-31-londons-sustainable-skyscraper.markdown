@@ -11,6 +11,7 @@ tags:
 description: This week we are having a look at an exciting new tower, designed by
   the architect WilkinsonEyre, currently nearing its completion in the ‘eastern cluster’,
   where the majority of the City of London's high-rise buildings are situated.
+excerpt_separator: "<!--read-->"
 ---
 
 ![8bishopsgate.jpg](/uploads/8bishopsgate.jpg)
@@ -20,6 +21,7 @@ description: This week we are having a look at an exciting new tower, designed b
 
 This week we are having a look at an exciting new tower, designed by the architect WilkinsonEyre, currently nearing its completion in the ‘eastern cluster’, where the majority of the City of London's high-rise buildings are situated.
 
+<!--read-->
 
 #### 8 Bishopsgate
 
