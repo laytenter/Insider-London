@@ -9,13 +9,22 @@ tags:
 - climate change
 - sustainable choices
 - sustainable cities
+description: 'The Arcadis Sustainable Cities Index 2022 measures 100 cities according
+  to 51 metrics across 26 themes, arrayed under the three pillars of sustainability:
+  Planet (environmental), People (social), and Profit (economic). The Planet pillar
+  aims to capture environmental factors like energy usage and emissions, the People
+  pillar measures social performance, including quality of life, and the Profit pillar
+  assesses each city’s business environment.'
+Field name: "<!--read-->"
 ---
 
 ![mike-stezycki-rGoejmMF1Uk-unsplash](/uploads/mike-stezycki-rGoejmMF1Uk-unsplash.jpg)
 
-#### Sustainable Cities Index
-
 Defining what makes a city sustainable is a complex matter. Some cities have plenty of green space and yet have poor public transport networks, while others have extensive recycling programmes but too few cycling lanes. 
+
+<!--read-->
+
+#### Sustainable Cities Index
 
 [Arcadis](https://www.arcadis.com/) – a global design, engineering, and management consulting company – has, since 2015, been refining an index of its own. The Arcadis Sustainable Cities Index 2022 measures 100 cities according to 51 metrics across 26 themes, arrayed under the three pillars of sustainability: Planet (environmental), People (social), and Profit (economic). The Planet pillar aims to capture environmental factors like energy usage and emissions, the People pillar measures social performance, including quality of life, and the Profit pillar assesses each city’s business environment.
 
