@@ -15,11 +15,12 @@ description: 'Insider London''s collaboration with the Holywell Collective provi
   and lyrics, revealing the magic behind the music.
 
 '
+excerpt_separator: "<!--read-->"
 ---
 
 ![holywell1.jpeg](/uploads/holywell1.jpeg)
 
-In the heart of Shoreditch, [Holywell Collective](https://www.insiderlondon.com/blog/holywell-collective-empowering-creatives-and-elevating-music-production/), welcomed a group of vibrant students on a captivating exploration of the songwriting process at [Holywell Studio](https://www.holywellstudio.com/). Insider London's collaboration with the Holywell Collective provided a unique opportunity for students to delve into the intricacies of crafting melodies and lyrics, revealing the magic behind the music.
+In the heart of Shoreditch, [Holywell Collective](https://www.insiderlondon.com/blog/holywell-collective-empowering-creatives-and-elevating-music-production/), welcomed a group of vibrant students on a captivating exploration of the songwriting process at [Holywell Studio](https://www.holywellstudio.com/). <!--read--> Insider London's collaboration with the Holywell Collective provided a unique opportunity for students to delve into the intricacies of crafting melodies and lyrics, revealing the magic behind the music.
 
 
 #### Encouraging Collaboration and Creativity
