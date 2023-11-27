@@ -27,7 +27,7 @@ In the heart of Shoreditch, [Holywell Collective](https://www.insiderlondon.com/
 
 The workshop kicked off with an infectious energy, as students were divided into four groups, fostering a dynamic atmosphere of camaraderie and creativity. The air was laced with the warmth of open discussions, encouraging students to acquaint themselves with fellow music enthusiasts and engage in an open exchange of ideas. The inclusive and friendly ambience set the stage for an enriching and memorable experience.
 
-A gateway to endless possibilities, the workshop transcended musical genres, highlighting the universal language that is music. Students were immersed in an environment that nurtured effective communication, free thinking, and unbridled self-expression. They were empowered to embrace their individuality and break down inhibitions through friendly debates and collaborative discussions, fostering a newfound sense of confidence.
+A gateway to endless possibilities, the workshop transcended musical genres, highlighting the universal language that is music. Students were immersed in an environment that nurtured effective communication, free-thinking, and unbridled self-expression. They were empowered to embrace their individuality and break down inhibitions through friendly debates and collaborative discussions, fostering a newfound sense of confidence.
 
 #### Guided by the Pros: Crafting Melodies and Lyrics 
 
