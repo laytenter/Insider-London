@@ -18,11 +18,14 @@ tags:
 description: Discover how Mixed Reality Rooms (MRR) is revolutionizing the way people
   interact with brands and products through immersive marketing. Learn about MRR's
   approach and how it can benefit your business.
+excerpt_separator: "<!--read-->"
 ---
 
 ![sam_hall](/uploads/sam_hall.jpg)
 
 [Mixed Reality Rooms](https://www.mixedrealityrooms.com/) (MRR) is a B2B company that specialises in creating innovative virtual and augmented reality experiences for its clients. In a recent company visit with marketing and communication students, MRR's CEO, [Sam Hall](https://www.linkedin.com/in/samueljameshall/), shared his insights on how MRR is revolutionising the way people interact with brands and products.
+
+<!--read-->
 
 ##### Understanding Mixed Realty Rooms
 
