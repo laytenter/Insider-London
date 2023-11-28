@@ -8,6 +8,13 @@ categories:
 - Art and Culture
 tags:
 - Tokyo
+description: Insider London as we take you on a journey to discover the secrets of
+  Tokyo, the command centre of the global economy and Japan's leading financial and
+  industrial hub. Tokyo is more than just a metropolis of neon lights and crowded
+  streets. It is a business powerhouse that combines innovation, tradition and culture
+  in a unique way. You will get to see how Tokyo operates behind the scenes, from
+  the government to the private sector, and learn from some of the most successful
+  companies and institutions in the world.
 ---
 
 ![pexels-nick-kwan-2614818.jpg](/uploads/pexels-nick-kwan-2614818.jpg)
@@ -23,6 +30,6 @@ Our Tokyo tour offers you a chance to visit some of the iconic landmarks of the 
 Tokyo is not just a city; it's a global learning center. Insider London can organise exchange programs with some of Asia's most prestigious universities, including [Waseda University](https://www.waseda.jp/top/en/) and the [University of Tokyo](https://www.u-tokyo.ac.jp/en/). Immerse yourself in a rich academic environment while exploring the L*and of the Rising Sun*. You will also enjoy some of the best cuisine, entertainment and nightlife that Tokyo has to offer, from sushi to karaoke, from temples to skyscrapers. You will never run out of things to do and see in this amazing city.
 
 
-*Discover the fantastic opportunities [Tokyo](https://www.insiderlondon.com/asia/tokyo/) has to offer your group. Connect with us via contact@insiderlondon.com and let us tailor an exclusive and authentic package that combines business insights, cultural exploration, and educational experiences in the vibrant city of Tokyo.*
+*Discover the fantastic opportunities [Tokyo](https://www.insiderlondon.com/asia/tokyo/) has to offer your group. Connect with us via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) and let us tailor an exclusive and authentic package that combines business insights, cultural exploration, and educational experiences in the vibrant city of Tokyo.*
 
 
