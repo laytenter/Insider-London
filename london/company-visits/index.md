@@ -64,7 +64,7 @@ Our company visits for students and corporate groups showcase some of the world�
 
 
 - **ThisThat** - a distinguished UK-based marketing company specialising in influencer marketing. It harnesses individuals with substantial social media followings to endorse products, capitalising on the trust and credibility they’ve nurtured with their audience.
-- **Formula Media** – the digital disruptors driving the future of marketing. Formula Media pairs CTV, AI, AR, VR and more with their innovative use of data. Discover the brand storytellers who have partnered with the Prince’s Trust and Soho House.
+- **SalaryFits** – an innovative fintech which is reshaping the future of financial wellness in the workplace. Their innovative approach is not only beneficial for financial institutions but also plays a crucial role in improving the financial well-being of employees
 - **Fashion Enter** - see for yourself the whole clothing manufacturing production process. At Fashion Enter, sustainability is key. The company's CAD room ensures that garment cutting is optimised to reduce wastage and maximise quality. 
 - **CHEM Trust** - a UK-based charity that works to protect human health and the environment from harmful chemicals. Advocates for stronger regulation of chemicals at the UK, EU and global levels and raises awareness of the impacts of chemicals on wildlife and ecosystems, and persistent substances.
 - **Lottie** - a digital marketplace that connects care seekers via a personalised service to find the best care homes and retirement living communities in the UK. 
