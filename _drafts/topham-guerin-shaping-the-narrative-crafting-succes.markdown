@@ -29,9 +29,11 @@ Topham Guerin is a creative agency that has made a name for itself in the world 
 
 #### Campaigning Excellence
 
-Topham Guerin is a highly skilled agency with a remarkable portfolio. They have collaborated with political personalities and have led groundbreaking campaigns that span across continents. Notably, they played a pivotal role in Jacinda Ardern's election campaign in New Zealand, utilizing innovative digital strategies that left an indelible mark on the political landscape.
+Topham Guerin is a powerhouse agency with an impressive portfolio that speaks volumes about their expertise. They have collaborated with political figures and spearheaded groundbreaking campaigns across continents.  camp.
 
-However, Topham Guerin is not just a political agency. They have worked with a diverse range of clients, from small startups to multinational corporations. Topham Guerin is known for delivering results regardless of the project's size or scope. of Topham Guerin's success lies their commitment to innovation. Employing state-of-the-art digital technologies, data analytics, and a deep understanding of human psychology, they craft campaigns that resonate with diverse audiences. From compelling visuals to engaging storytelling, every element is meticulously curated to leave a lasting impact.
+But Topham Guerin's reach goes beyond politics. They have worked with small startups and multinational corporations alike, delivering impressive results every time.
+
+Topham Guerin's secret? Innovation. They use state-of-the-art digital technologies, data analytics, and a deep understanding of human psychology to craft campaigns that resonate with diverse audiences. From engaging visuals to compelling storytelling, every element is carefully curated to make a lasting impression.
 
 #### Global Influence
 
