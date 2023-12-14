@@ -37,9 +37,7 @@ Topham Guerin's secret? Innovation. They use state-of-the-art digital technologi
 
 #### Global Influence
 
-With a global footprint, Topham Guerin has worked with prominent leaders and organisations worldwide. Their strategic approach transcends borders, offering a universal model for effective communication in the modern political arena.
-
-In a world where the narrative shapes perceptions, Topham Guerin emerges as a guiding force, navigating the complexities of political communication. Join us on an enlightening journey through the annals of strategic campaigning and experience firsthand the innovation that propels Topham Guerin to the forefront of global influence
+In a world where perception is everything, Topham Guerin has emerged as the guiding force in political communication. With a global footprint, Topham Guerin has worked with prominent leaders and organisations worldwide to transcend borders and offer a universal model for effective communication in the modern political arena. Their strategic campaigning and innovative approach have propelled them to the forefront of global influence, making them the go-to choice for those who want to make a real impact. Join the ranks of those who have already benefitted from Topham Guerin's expertise and let them help you navigate the complexities of political communication today.
 
 *Insider London is thrilled to partner with Topham Guerin to bring an exclusive opportunity for company visits. Delve into the heart of strategic communication, witness the behind-the-scenes magic, and gain insights into the dynamic world of political campaigning. To explore the nuances of political communication and witness the impact of groundbreaking campaigns, book your [company visit](https://www.insiderlondon.com/london/company-visits/) with Topham Guerin through Insider London. Contact us at <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a> and unlock the secrets of success in the ever-evolving realm of strategic communications.*
 
