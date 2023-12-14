@@ -29,13 +29,9 @@ Topham Guerin is a creative agency that has made a name for itself in the world 
 
 #### Campaigning Excellence
 
-Topham Guerin's portfolio is a testament to their prowess. From collaborating with political figures to spearheading groundbreaking campaigns, their work spans continents. Notably, they played a pivotal role in the election campaign of New Zealand's Jacinda Ardern, utilising innovative digital strategies that left an indelible mark on the political landscape.
+Topham Guerin is a highly skilled agency with a remarkable portfolio. They have collaborated with political personalities and have led groundbreaking campaigns that span across continents. Notably, they played a pivotal role in Jacinda Ardern's election campaign in New Zealand, utilizing innovative digital strategies that left an indelible mark on the political landscape.
 
-But Topham Guerin is not just a political agency. The company has worked with a wide range of clients, from small startups to multinational corporations. Topham Guerin has a reputation for delivering results, no matter the size or scope of the project.
-
-#### Innovative Approaches
-
-At the core of Topham Guerin's success lies their commitment to innovation. Employing state-of-the-art digital technologies, data analytics, and a deep understanding of human psychology, they craft campaigns that resonate with diverse audiences. From compelling visuals to engaging storytelling, every element is meticulously curated to leave a lasting impact.
+However, Topham Guerin is not just a political agency. They have worked with a diverse range of clients, from small startups to multinational corporations. Topham Guerin is known for delivering results regardless of the project's size or scope. of Topham Guerin's success lies their commitment to innovation. Employing state-of-the-art digital technologies, data analytics, and a deep understanding of human psychology, they craft campaigns that resonate with diverse audiences. From compelling visuals to engaging storytelling, every element is meticulously curated to leave a lasting impact.
 
 #### Global Influence
 
