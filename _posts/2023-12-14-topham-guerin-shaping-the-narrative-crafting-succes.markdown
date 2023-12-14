@@ -1,7 +1,6 @@
 ---
 title: 'Topham Guerin: Shaping the Narrative, Crafting Success'
 date: 2023-12-14 08:36:00 Z
-published: false
 categories:
 - Business
 - Events
