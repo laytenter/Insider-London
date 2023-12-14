@@ -14,11 +14,14 @@ description: 'In the dynamic realm of political consulting and strategic communi
   Topham Guerin stands as a paragon of innovation and influence. Insider London proudly
   presents an exclusive company visit to this trailblazing firm, offering a unique
   insight into the art of shaping political narratives. '
+excerpt_separator: "<!--read-->"
 ---
 
-![AdobeStock_241614746.jpeg](/uploads/AdobeStock_241614746.jpeg)
+![Agency_Resised_241614746.jpg](/uploads/Agency_Resised_241614746.jpg)
 
 In the dynamic realm of political consulting and strategic communications, [Topham Guerin](https://www.tophamguerin.com/) stands as a paragon of innovation and influence. Insider London proudly presents an exclusive company visit to this trailblazing firm, offering a unique insight into the art of shaping political narratives. 
+
+<!--read-->
 
 #### Founding Visionaries
 
@@ -40,7 +43,7 @@ With a global footprint, Topham Guerin has worked with prominent leaders and org
 
 In a world where the narrative shapes perceptions, Topham Guerin emerges as a guiding force, navigating the complexities of political communication. Join us on an enlightening journey through the annals of strategic campaigning and experience firsthand the innovation that propels Topham Guerin to the forefront of global influence
 
-*Insider London is thrilled to partner with Topham Guerin to bring an exclusive opportunity for company visits. Delve into the heart of strategic communication, witness the behind-the-scenes magic, and gain insights into the dynamic world of political campaigning. To explore the nuances of political communication and witness the impact of groundbreaking campaigns, book your company visit with Topham Guerin through Insider London. Contact us at <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a> and unlock the secrets of success in the ever-evolving realm of strategic communications.*
+*Insider London is thrilled to partner with Topham Guerin to bring an exclusive opportunity for company visits. Delve into the heart of strategic communication, witness the behind-the-scenes magic, and gain insights into the dynamic world of political campaigning. To explore the nuances of political communication and witness the impact of groundbreaking campaigns, book your [company visit](https://www.insiderlondon.com/london/company-visits/) with Topham Guerin through Insider London. Contact us at <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a> and unlock the secrets of success in the ever-evolving realm of strategic communications.*
 
 
 
