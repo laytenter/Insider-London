@@ -10,6 +10,10 @@ tags:
 - political strategy
 - advertising
 - strategic communication
+description: 'In the dynamic realm of political consulting and strategic communications,
+  Topham Guerin stands as a paragon of innovation and influence. Insider London proudly
+  presents an exclusive company visit to this trailblazing firm, offering a unique
+  insight into the art of shaping political narratives. '
 ---
 
 ![AdobeStock_241614746.jpeg](/uploads/AdobeStock_241614746.jpeg)
