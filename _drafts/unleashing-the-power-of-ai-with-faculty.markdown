@@ -1,10 +1,11 @@
 ---
-title: 'Unleashing the Power of AI with Faculty: A Pioneering Partnership with Insider
-  London'
+title: Unleashing the Power of AI with Faculty
 date: 2023-12-23 14:45:00 Z
 ---
 
-Faculty.ai is a pioneering artificial intelligence (AI) company that has significantly impacted diverse sectors through its cutting-edge technologies. Founded in 2014 by [Marc Warner](https://www.linkedin.com/in/marc-warner-552b8716/) and [Angie Ma](https://www.linkedin.com/in/angiemauk/), Faculty.ai has swiftly become a powerhouse in the field of data science and machine learning.
+![_e236de63-86d9-4b7f-b258-bd2a9e70c177.jpeg](/uploads/_e236de63-86d9-4b7f-b258-bd2a9e70c177.jpeg)
+
+[Faculty.ai](https://faculty.ai) is a pioneering artificial intelligence (AI) company that has significantly impacted diverse sectors through its cutting-edge technologies. Founded in 2014 by [Marc Warner](https://www.linkedin.com/in/marc-warner-552b8716/) and [Angie Ma](https://www.linkedin.com/in/angiemauk/), Faculty.ai has swiftly become a powerhouse in the field of data science and machine learning.
 
 ## Evolution of Faculty.ai
 
