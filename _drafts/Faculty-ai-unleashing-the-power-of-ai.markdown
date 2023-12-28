@@ -18,7 +18,7 @@ description: 'Faculty.ai is a pioneering artificial intelligence (AI) company th
 excerpt_separator: "<!--read-->"
 ---
 
-![_e236de63-86d9-4b7f-b258-bd2a9e70c177.jpeg](/uploads/_e236de63-86d9-4b7f-b258-bd2a9e70c177.jpeg)
+![Image created with Microsoft’s AI Image Creator.jpeg](/uploads/Image%20created%20with%20Microsoft%E2%80%99s%20AI%20Image%20Creator.jpeg)
 
 [Faculty.ai](https://faculty.ai) is a pioneering artificial intelligence (AI) company that has significantly impacted diverse sectors through its cutting-edge technologies. Founded in 2014 by [Marc Warner](https://www.linkedin.com/in/marc-warner-552b8716/) and [Angie Ma](https://www.linkedin.com/in/angiemauk/), Faculty has swiftly become a powerhouse in the field of data science and machine learning.
 
