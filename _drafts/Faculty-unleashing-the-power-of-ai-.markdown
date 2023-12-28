@@ -18,7 +18,7 @@ description: 'Faculty.ai is a pioneering artificial intelligence (AI) company th
 excerpt_separator: "<!--read-->"
 ---
 
-![Image created with Microsoft’s AI Image Creator.jpeg](/uploads/Image%20created%20with%20Microsoft%E2%80%99s%20AI%20Image%20Creator.jpeg)
+![ai.jpeg](/uploads/ai.jpeg)
 
 [Faculty.ai](https://faculty.ai) is a pioneering artificial intelligence (AI) company that has significantly impacted diverse sectors through its cutting-edge technologies. Founded in 2014 by [Marc Warner](https://www.linkedin.com/in/marc-warner-552b8716/) and [Angie Ma](https://www.linkedin.com/in/angiemauk/), Faculty has swiftly become a powerhouse in the field of data science and machine learning.
 
@@ -43,7 +43,5 @@ The company's collaboration with government entities has resulted in the develop
 Faculty's impressive portfolio includes a range of noteworthy campaigns and projects. One of their standout initiatives involved optimising supply chain operations for a major retail client. Through advanced data analytics and AI-driven insights, they enabled the client to enhance inventory management, reduce costs, and improve overall operational efficiency.
 
 In the public sector, Faculty has been instrumental in leveraging AI to analyse and interpret large datasets for governmental agencies. These initiatives have facilitated evidence-based policymaking and improved the delivery of public services.
-
-
 
 *Insider London is delighted to partner with Faculty.ai, offering exclusive [company visits](https://www.insiderlondon.com/london/company-visits/) to provide participants with a firsthand look at the company's innovative processes and groundbreaking projects. Contact us via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a> to book your visit and explore the fascinating world of AI, learn from the experts at Faculty to discover the possibilities that this revolutionary technology holds for the future.*
