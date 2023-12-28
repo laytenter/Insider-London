@@ -15,11 +15,14 @@ description: 'Faculty.ai is a pioneering artificial intelligence (AI) company th
   in the field of data science and machine learning.
 
 '
+excerpt_separator: "<!--read-->"
 ---
 
 ![_e236de63-86d9-4b7f-b258-bd2a9e70c177.jpeg](/uploads/_e236de63-86d9-4b7f-b258-bd2a9e70c177.jpeg)
 
-[Faculty.ai](https://faculty.ai) is a pioneering artificial intelligence (AI) company that has significantly impacted diverse sectors through its cutting-edge technologies. Founded in 2014 by [Marc Warner](https://www.linkedin.com/in/marc-warner-552b8716/) and [Angie Ma](https://www.linkedin.com/in/angiemauk/), Faculty.ai has swiftly become a powerhouse in the field of data science and machine learning.
+[Faculty.ai](https://faculty.ai) is a pioneering artificial intelligence (AI) company that has significantly impacted diverse sectors through its cutting-edge technologies. Founded in 2014 by [Marc Warner](https://www.linkedin.com/in/marc-warner-552b8716/) and [Angie Ma](https://www.linkedin.com/in/angiemauk/), Faculty has swiftly become a powerhouse in the field of data science and machine learning.
+
+<!--read-->
 
 #### Evolution of Faculty
 
@@ -29,7 +32,7 @@ They have consistently pushed the boundaries of what is possible in the realm of
 
 #### Clientele and Impact
 
-Faculty has made a substantial impact on its clients, ranging from leading corporations to government agencies. One notable sector is finance, where the company's AI models have been deployed to enhance risk management, optimise investment strategies, and improve overall operational efficiency. In the healthcare sector, Faculty.ai's innovations have contributed to advancements in patient care, from personalized medicine to predictive analytics.
+Faculty has made a substantial impact on its clients, ranging from leading corporations to government agencies. One notable sector is finance, where the company's AI models have been deployed to enhance risk management, optimise investment strategies, and improve overall operational efficiency. In the healthcare sector, Faculty.ai's innovations have contributed to advancements in patient care, from personalised medicine to predictive analytics.
 
 Faculty has partnered with UCL and Harvard University to publish research on the safe and ethical deployment of AI. They are trusted to work on the biggest problems and their work underpins critical operations for healthcare systems, government, national infrastructure, and global brands.
 
@@ -37,7 +40,7 @@ The company's collaboration with government entities has resulted in the develop
 
 #### Noteworthy Campaigns
 
-Faculty.ai's impressive portfolio includes a range of noteworthy campaigns and projects. One of their standout initiatives involved optimising supply chain operations for a major retail client. Through advanced data analytics and AI-driven insights, Faculty.ai enabled the client to enhance inventory management, reduce costs, and improve overall operational efficiency.
+Faculty's impressive portfolio includes a range of noteworthy campaigns and projects. One of their standout initiatives involved optimising supply chain operations for a major retail client. Through advanced data analytics and AI-driven insights, they enabled the client to enhance inventory management, reduce costs, and improve overall operational efficiency.
 
 In the public sector, Faculty has been instrumental in leveraging AI to analyse and interpret large datasets for governmental agencies. These initiatives have facilitated evidence-based policymaking and improved the delivery of public services.
 
