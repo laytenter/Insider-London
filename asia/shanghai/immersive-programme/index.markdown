@@ -12,6 +12,8 @@ Field name:
 layout: programme
 ---
 
+![pexels-ágoston-fung-2227942.jpg](/uploads/pexels-%C3%A1goston-fung-2227942.jpg)
+
 Experience a life-changing learning opportunity with the carefully crafted two-week Shanghai Programme, specifically designed for international students. Based on the Experiential Learning Theory, this immersive journey combines the essentials of the Mandarin language, corporate visits, day excursions, and an in-depth exploration of Chinese food culture.
 
 **Key Features:**
