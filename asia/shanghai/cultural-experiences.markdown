@@ -26,6 +26,12 @@ Step back in time with a day trip to Zhujiajiao, an ancient water town. Traverse
 **Day Trip to Guangfulin Site of Ancient Culture**:
 Unearth the secrets of ancient civilizations with a day trip to Guangfulin. Explore historical relics and archaeological sites, gaining profound insights into the roots of Chinese culture.
 
+**Guided Tour of Yu Garden (Yuyuan)**:
+Immerse yourself in the allure of Yu Garden, a sanctuary of traditional Chinese architecture, serene landscapes, and profound historical significance. Our guided tour unveils the beauty and cultural richness of this treasured site.
+
+**Huangpu River Night Cruise**:
+Witness Shanghai's transformation into a shimmering metropolis as you embark on a Huangpu River night cruise. Marvel at the illuminated skyline and iconic landmarks, creating memories against the backdrop of the enchanting night sky.
+
 Experience Shanghai in its full splendour through these cultural encounters, each designed to enrich your understanding of China's diverse history, vibrant present, and promising future. Join us in creating lasting memories as you embark on a journey beyond boundaries
 
 So, join us in this exploration, where Shanghai becomes your classroom, and every encounter is a lesson in the cultural richness that defines China. Uncover the secrets, savour the flavours, and let Shanghai etch its indelible mark on your understanding of the world. Your adventure awaits
