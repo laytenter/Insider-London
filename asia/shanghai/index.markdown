@@ -1,7 +1,7 @@
 ---
 title: Shanghai
 date: 2024-01-13 14:18:00 Z
-permalink: asia/shanghai/
+permalink: "/asia/shanghai/"
 position: 25
 heading: Shanghai Educational Programme
 description: "Through a diverse array of activities including Mandarin language fundamentals,
