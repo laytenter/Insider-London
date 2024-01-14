@@ -43,7 +43,4 @@ Highlights of our bespoke programmes include:
 
 
 
-## Shanghai Fashion Week
-Come and see one of the most progressive and visual displays of Chinese innovation.  Every Spring Shanghai hosts its world-famous Fashion Week. This annual event offers the opportunity to explore Chinese culture at its best and experience the latest in modern design. With exclusive company visits to the trendiest new labels, come and meet the rising stars of Asian fashion.
-
 *To find out what we can offer you when you go East, get in touch via [contact@insiderlondon.com](mailto:contact@insiderlondon.com)*
