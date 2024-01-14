@@ -2,7 +2,7 @@
 title: Shanghai
 date: 2024-01-13 14:18:00 Z
 permalink: "/asia/shanghai/"
-position: 25
+position: 26
 heading: Shanghai Educational Programme
 description: "Through a diverse array of activities including Mandarin language fundamentals,
   corporate site visits, day excursions, and Food culture experience, participants

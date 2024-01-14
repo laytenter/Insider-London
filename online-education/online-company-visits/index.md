@@ -1,6 +1,6 @@
 ---
 title: Online Company Visits
-position: 8
+position: 9
 description: Our online company visits showcase the latest industry trends post-Covid-19.
   We offer live exchanges with business leaders across a variety of sectors.
 heading: Online Company Visits

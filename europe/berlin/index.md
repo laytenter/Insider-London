@@ -1,6 +1,6 @@
 ---
 title: Berlin Programme
-position: 5
+position: 6
 heading: Berlin
 description: 
 layout: landing

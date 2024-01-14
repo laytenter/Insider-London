@@ -1,6 +1,6 @@
 ---
 title: Company Projects
-position: 7
+position: 8
 description: Work directly with company CEOs on a real-world business challenge! Book
   your students on a Company Project.
 heading: Company Projects

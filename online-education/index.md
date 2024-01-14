@@ -1,6 +1,6 @@
 ---
 title: Online Education
-position: 6
+position: 7
 heading: Online Education
 description: 'Bridge the distance with online business education. Our company visits
   and virtual internships bring senior management of leading companies direct to you.

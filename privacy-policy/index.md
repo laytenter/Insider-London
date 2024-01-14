@@ -1,7 +1,7 @@
 ---
 title: Insider London Privacy Policy
 date: 2015-05-07 10:43:32 Z
-position: 9
+position: 10
 description: This Privacy Policy describes how your personal information is collected,
   used, and shared when you visit or make a purchase from the site
 author: london75
