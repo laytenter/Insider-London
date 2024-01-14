@@ -1,6 +1,7 @@
 ---
 title: Company Visits Dublin
 date: 2023-02-28 11:23:00 Z
+permalink: "/europe/dublin"
 position: 23
 heading: Company Visits Dublin
 nav: dublin
