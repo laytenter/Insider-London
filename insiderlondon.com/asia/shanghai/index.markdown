@@ -1,13 +1,13 @@
 ---
 title: Shanghai
 date: 2024-01-13 14:18:00 Z
-nav: shanghai
-background: asia.jpg
-repeatnav: true
+heading: Shanghai Educational Programme
 description: "Through a diverse array of activities including Mandarin language fundamentals,
   corporate site visits, day excursions, and Food culture experience, participants
   will delve deeply into the societal, historical, and commercial facets of China.\n\n"
-heading: Shanghai Educational Programme
+nav: shanghai
+background: asia.jpg
+repeatnav: true
 layout: landing
 ---
 
