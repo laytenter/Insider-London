@@ -37,14 +37,14 @@ Highlights of our bespoke programmes include:
 - **Bilibili** - find out how and why this online platform is among the most popular among the Chinese youth with its video-sharing community renowned for its diverse content, including anime, gaming, and user-generated videos.
 - **The SAIC-GM Experience Center** is a joint venture between General Motors Company and SAIC Motor. This immersive experience showcases the latest automotive technologies and innovations.
 - **iFlytek** -  is a major AI technology company specializing in speech recognition, natural language processing, and artificial intelligence-driven applications. It's recognized for innovative solutions in language and AI technology.
-**Coca-Cola** Factory in Shenmei – venture outside of Shanghai to one of Asia’s most modern production lines. Explore the first cooperative venture between China and the US with this whistle-stop factory tour
+- **Coca-Cola** Factory in Shenmei – venture outside of Shanghai to one of Asia’s most modern production lines. Explore the first cooperative venture between China and the US with this whistle-stop factory tour
 
 
-**Internet Initiative Japan** – a tech giant developing advanced technology. From launching Japan’s first firewall in 1994 to pioneering cloud service in 2000, IIJ has a long history of innovation
-**Greenland Group** - a global real estate organisation known for its innovative approach to real estate development. See how its projects not only provide housing and commercial spaces but also contribute to the vitality and dynamism of cities.
-**Verus Global** – the logistics pioneer offering transparent and cutting-edge systems. Verus Global represents a new generation of the freight forwarding industry with real-time views and streamlined service.
-**Zizhu Hi-Tech Zone** – a huge technology park with a carefully selected mix of corporates, start-ups and universities. Meet the Zizhu Park Manager as well as leading lights of the ground-breaking hi-tech scene
-* **Dongfanghong Asset Management** - a leading asset management company in  China’s financial sector, providing valuable services to its clients and contributing to the stability and growth of the country’s capital market
+- **Internet Initiative Japan** – a tech giant developing advanced technology. From launching Japan’s first firewall in 1994 to pioneering cloud service in 2000, IIJ has a long history of innovation
+- **Greenland Group** - a global real estate organisation known for its innovative approach to real estate development. See how its projects not only provide housing and commercial spaces but also contribute to the vitality and dynamism of cities.
+- **Verus Global** – the logistics pioneer offering transparent and cutting-edge systems. Verus Global represents a new generation of the freight forwarding industry with real-time views and streamlined service.
+- **Zizhu Hi-Tech Zone** – a huge technology park with a carefully selected mix of corporates, start-ups and universities. Meet the Zizhu Park Manager as well as leading lights of the ground-breaking hi-tech scene
+- **Dongfanghong Asset Management** - a leading asset management company in  China’s financial sector, providing valuable services to its clients and contributing to the stability and growth of the country’s capital market
 
 
 
