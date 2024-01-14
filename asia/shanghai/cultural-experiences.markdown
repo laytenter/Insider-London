@@ -40,6 +40,6 @@ Witness Shanghai's transformation into a shimmering metropolis as you embark on 
 
 Experience Shanghai in its full splendour through these cultural encounters, each designed to enrich your understanding of China's diverse history, vibrant present, and promising future. Join us in creating lasting memories as you embark on a journey beyond boundaries
 
-So, join us in this exploration, where Shanghai becomes your classroom, and every encounter is a lesson in the cultural richness that defines China. Uncover the secrets, savour the flavours, and let Shanghai etch its indelible mark on your understanding of the world. Your adventure awaits
+So, join us in this exploration, where Shanghai becomes your classroom, and every encounter is a lesson in the cultural richness that defines China. Uncover the secrets, savour the flavours, and let Shanghai etch its indelible mark on your understanding of the world. Your adventure awaits. 
 
 *To find out what we can offer you when you go East, including company visits [need link], get in touch via [contact@insiderlondon.com](mailto:contact@insiderlondon.com)*
