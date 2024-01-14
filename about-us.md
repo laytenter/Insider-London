@@ -2,6 +2,7 @@
 title: About Us | London Tours | Walking Tour London
 date: 2015-05-12 00:00:00 Z
 permalink: "/about-us/"
+position: 0
 id: 2546744
 heading: ABOUT US
 description: Learn about our award-winning, guided London tours. Delve into the hidden

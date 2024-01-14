@@ -1,5 +1,6 @@
 ---
 title: Company Visits Berlin
+position: 14
 heading: Company Visits Berlin
 description: Explore one of the most exciting technology hubs in Europe. Our Company
   Visits in Berlin cover a wide variety of exciting and creative businesses. Join

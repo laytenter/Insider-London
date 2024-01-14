@@ -1,5 +1,6 @@
 ---
 title: Silicon Valley Company Visits | Tech Tour
+position: 13
 heading: Silicon Valley
 description: Explore Silicon Valley the world capital of innovation and technology
   with a bespoke programme from Insider London.

@@ -2,6 +2,7 @@
 title: What We Do
 date: 2015-05-12 00:00:00 Z
 permalink: "/what-we-do/"
+position: 11
 id: 2546744
 author: london75
 description: Insider London offers bespoke discovery and innovation programmes for

@@ -1,6 +1,7 @@
 ---
 title: Staying Safe with Insider London
 date: 2020-06-19 15:18:00 Z
+position: 21
 description: 
 excerpt: <a class="white" href="/safeguarding-policy">Welcoming groups from 17th May
   2021, find out more about our Covid-19 safety <span style="text-decoration:underline">here</span></a>.

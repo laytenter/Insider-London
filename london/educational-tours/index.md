@@ -1,5 +1,6 @@
 ---
 title: Educational Tours London | Schools | Corporate
+position: 2
 heading: Educational Tours London
 description: Insider London offers a variety of educational guided tours for corporate,
   academic and private groups. Themes include business, sustainability, regeneration

@@ -1,5 +1,6 @@
 ---
 title: Tokyo Company Visits | Cultural Experiences
+position: 24
 heading: Tokyo
 description: Tokyo is a powerhouse of the global economy.  With a close relationship
   between government and business, go behind-the-scenes of the largest metropolitan

@@ -1,5 +1,6 @@
 ---
 title: European Educational Programme
+position: 16
 heading: Europe
 description: For insight into the latest innovation, venture to Europe – a varied
   continent comprising many languages, cultures and over 50 sovereign states. Europe

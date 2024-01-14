@@ -2,6 +2,7 @@
 title: London Company Visits | Interactive Workshops
 date: 2015-08-28 10:51:00 Z
 permalink: "/london/company-visits/"
+position: 19
 description: The perfect business studies trip idea and the best inspiration for corporate
   groups - come and visit one of London's most innovative companies.
 tags:
