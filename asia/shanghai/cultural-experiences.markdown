@@ -17,6 +17,9 @@ Welcome to the bustling metropolis of Shanghai, where every street echoes with t
 
 As you traverse the city's iconic landmarks and hidden gems, our program embraces the essence of experiential learning. Shanghai becomes your classroom, and each activity is a brushstroke in the masterpiece of your cultural exploration:
 
+**Guided Tour of the Bund and Pudong Financial Centres**:
+Embark on a captivating journey through Shanghai's historical and modern architectural contrasts. Our guided tour of the Bund and Lujiazui Financial Center offers a deep dive into the heart of Shanghai's iconic skyline
+
 **Chinese Calligraphy Workshop**:
 Engage in the revered art of Chinese calligraphy. Our workshop provides an immersive experience in brushwork and characters, allowing participants to delve into this ancient form of expression
 
@@ -25,6 +28,9 @@ Step back in time with a day trip to Zhujiajiao, an ancient water town. Traverse
 
 **Day Trip to Guangfulin Site of Ancient Culture**:
 Unearth the secrets of ancient civilizations with a day trip to Guangfulin. Explore historical relics and archaeological sites, gaining profound insights into the roots of Chinese culture.
+
+**Day trip to Hangzhou**:
+West Lake, Alibaba’s HQ, experience of High speed train railway
 
 **Guided Tour of Yu Garden (Yuyuan)**:
 Immerse yourself in the allure of Yu Garden, a sanctuary of traditional Chinese architecture, serene landscapes, and profound historical significance. Our guided tour unveils the beauty and cultural richness of this treasured site.
