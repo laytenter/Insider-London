@@ -8,7 +8,7 @@ description: "Through a diverse array of activities including Mandarin language 
 nav: shanghai
 background: asia.jpg
 repeatnav: true
-layout: programme
+layout: landing
 ---
 
 Behind the glamorous skyline lies a cosmopolitan city with a long history of migration. Referred to as the melting pot of China, the French and Jewish Quarters are a testament to Shanghai’s diverse history. The modern metropolis is equally vibrant and attracts more foreign settlers than any other Chinese city.
