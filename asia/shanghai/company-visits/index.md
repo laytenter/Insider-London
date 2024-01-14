@@ -33,7 +33,7 @@ We offer an extensive range of company visits from media to fashion, from manufa
 Highlights of our bespoke programmes include:
 
 - **Eastday.com** – a global multi-media platform operating more than 120 columns in three languages, Eastday boasts a state-of-the-art broadcasting room and attracts more than 3 million viewers per day
-- **SenseTime Shanghai** - an AI company specialising in computer vision and deep learning technologies. It's a pioneer in AI-driven solutions across various industries.
+- **SenseTime Shanghai** - an AI company specialising in computer vision and deep learning technologies. It's a pioneer in AI-driven solutions across various industries most valuable company in Asia and listed on the Hong Kong Stock Exchange. 
 - **Bilibili** - find out how and why this online platform is among the most popular among the Chinese youth with its video-sharing community renowned for its diverse content, including anime, gaming, and user-generated videos.
 - **The SAIC-GM Experience Center** is a joint venture between General Motors Company and SAIC Motor. This immersive experience showcases the latest automotive technologies and innovations.
 - **iFlytek** -  is a major AI technology company specializing in speech recognition, natural language processing, and artificial intelligence-driven applications. It's recognized for innovative solutions in language and AI technology.
