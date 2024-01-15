@@ -10,12 +10,14 @@ nav: shanghai
 gallery:
 - image: "/uploads/pexels-%C3%A1goston-fung-2227942.jpg"
   alt: shanghai panorama
-- image: "/uploads/shanghai-2.jpeg.jpg"
+- image: "/uploads/AdobeStock_581795433.jpeg"
   alt: shanghai experience
 - image: "/uploads/shanghai-4.jpeg.jpg"
   alt: students learning
 - image: "/uploads/shanghai.jpeg"
   alt: shanghai immerse
+- image: 
+  alt: 
 Field name: 
 layout: programme
 ---
