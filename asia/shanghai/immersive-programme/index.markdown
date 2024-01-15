@@ -8,7 +8,7 @@ description: |-
 heading: Shanghai Summer Immersive Programme
 nav: shanghai
 gallery:
-  image: "/uploads/shanghai-ab8c91.jpeg"
+  image: "/uploads/shanghai-4.jpeg.jpg"
   alt: explore shanghai
 layout: programme
 ---
