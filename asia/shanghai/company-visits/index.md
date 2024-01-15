@@ -15,7 +15,7 @@ gallery:
   alt: 
 - image: "/assets/images/cities/Shanghai/Picture-4---Shanghai-Culture-Art-Technology-Innovation-Creative-Student-Corporate-Study-Trip.jpg"
   alt: 
-layout: landing
+layout: programme
 ---
 
 {% assign gallery = page.gallery %}
