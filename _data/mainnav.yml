@@ -37,6 +37,13 @@ asia:
     url: /asia/tokyo/
   - title: Shanghai
     url: /asia/shanghai/
+shanghai:
+  - title: Immersive Programme
+    url: /asia/shanghai/immersive-programme
+  - title: Company Visits
+    url: /asia/shanghai/company-visits
+  - title: Cultural Experiences
+    url: /asia/shanghai/cultural-experiences      
 europe:
   - title: Berlin
     url: /europe/berlin/
