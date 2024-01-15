@@ -10,7 +10,6 @@ description: "Through a diverse array of activities including Mandarin language 
 nav: shnaghai
 background: asia.jpg
 repeatnav: true
-mainnav: true
 layout: landing
 ---
 
