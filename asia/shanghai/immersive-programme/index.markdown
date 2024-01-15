@@ -21,7 +21,7 @@ layout: programme
 Experience a life-changing learning opportunity with the carefully crafted in-depth 
 Shanghai Programme, specifically designed for international students. Based on the Experiential Learning Theory, this immersive journey combines the essentials of the Mandarin language, corporate visits, day excursions, and an in-depth exploration of Chinese food culture.
 
-**Key Features:**
+#### Key Features
 
 **Immersive Corporate Visits:** Step into the heart of China's business landscape through visits to quintessential enterprises, providing students with firsthand insights into the country's commercial dynamics.
 
@@ -29,10 +29,7 @@ Shanghai Programme, specifically designed for international students. Based on t
 
 **Cultural Exploration:** Day excursions and culinary experiences offer an intimate look into Chinese daily life, blending tradition and modernity.
 
-**Online Learning Platform:** Each student gains access to an independent account on our online learning platform, extending their learning journey for up to six months upon returning to their home country.
-
-
-**Programme Highlights:**
+#### Programme Highlights
 
 **Digitally Proficient Team:** Our project team operates in a digitally advanced manner, boasting twelve years of experience in managing international exchange programmes.
 
