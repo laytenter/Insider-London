@@ -26,7 +26,7 @@ layout: programme
 {% endif %}
 
 Experience a life-changing learning opportunity with the carefully crafted in-depth 
-Shanghai Programme, specifically designed for international students. Based on the Experiential Learning Theory, this immersive journey combines the essentials of the Mandarin language, corporate visits, day excursions, and an in-depth exploration of Chinese food culture.
+Shanghai Programme, specifically designed for international students. Based on the Experiential Learning Theory, this immersive journey combines the essentials of the Mandarin language, [corporate visits](https://insiderlondon.com/asia/shanghai/company-visits), day excursions, and an in-depth exploration of Chinese food culture.
 
 #### Key Features
 
@@ -36,14 +36,16 @@ Shanghai Programme, specifically designed for international students. Based on t
 
 **Cultural Exploration:** Day excursions and culinary experiences offer an intimate look into Chinese daily life, blending tradition and modernity.
 
+#### Experiential Learning Approach
+
+Our program champions experiential learning, empowering students to shape their overseas learning and living experiences. Through a blend of courses, activities, practical sessions, and immersive visits, participants gain a holistic understanding of China's rich societal, historical, and commercial tapestry.
+
 #### Programme Highlights
 
 **Digitally Proficient Team:** Our project team operates in a digitally advanced manner, boasting twelve years of experience in managing international exchange programmes.
 
 **Experienced Teaching Team:** All instructors are experienced and possess qualifications for teaching Chinese to foreigners.
 
-**Experiential Learning Approach:**
-
-Our program champions experiential learning, empowering students to shape their overseas learning and living experiences. Through a blend of courses, activities, practical sessions, and immersive visits, participants gain a holistic understanding of China's rich societal, historical, and commercial tapestry.
-
 Embark on this journey with us, where each moment contributes to a more profound comprehension of China's cultural mosaic. Open to international students, the Shanghai Programme awaits those seeking a transformative adventure in the heart of Asia.
+
+_Get in touch via [contact@insiderlondon.com ](mailto:contact@insiderlondon.com) to start arranging your bespoke Shanghai Programme._
