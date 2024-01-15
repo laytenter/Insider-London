@@ -1,7 +1,6 @@
 ---
 title: Shanghai - Cultural Experiences
 date: 2024-01-14 11:52:00 Z
-permalink: "/shanghai/cultural-experiences"
 position: 1
 description: "Welcome to the bustling metropolis of Shanghai, where every street echoes
   with tales of ancient history and modern dynamism. Our curated cultural experiences
