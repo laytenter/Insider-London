@@ -1,5 +1,5 @@
 ---
-title: Shanghai - Cultural Experience
+title: Shanghai - Cultural Experiences
 date: 2024-01-14 11:52:00 Z
 permalink: "/shanghai/cultural-experience"
 position: 1
