@@ -7,7 +7,7 @@ heading: Shanghai Educational Programme
 description: "Through a diverse array of activities including Mandarin language fundamentals,
   corporate site visits, day excursions, and Food culture experience, participants
   will delve deeply into the societal, historical, and commercial facets of China.\n\n"
-nav: asia
+nav: shnaghai
 background: asia.jpg
 repeatnav: true
 layout: landing
