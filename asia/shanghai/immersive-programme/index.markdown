@@ -7,25 +7,30 @@ description: |-
   Embark on this journey with us, where each activity is a step toward a more profound comprehension of China's rich societal, historical, and commercial tapestry
 heading: Shanghai Summer Immersive Programme
 nav: shanghai
-Field name: 
+gallery:
+  image: "/uploads/shanghai-ab8c91.jpeg"
+  alt: explore shanghai
 layout: programme
 ---
 
-![pexels-ágoston-fung-2227942.jpg](/uploads/pexels-%C3%A1goston-fung-2227942.jpg)
+{% assign gallery = page.gallery %}
+{% if gallery.size > 1 %}
+  {% include slideshow.html %}
+{% endif %}
 
-Experience a life-changing learning opportunity with the carefully crafted two-week Shanghai Programme, specifically designed for international students. Based on the Experiential Learning Theory, this immersive journey combines the essentials of the Mandarin language, corporate visits, day excursions, and an in-depth exploration of Chinese food culture.
+Experience a life-changing learning opportunity with the carefully crafted in-depth 
+Shanghai Programme, specifically designed for international students. Based on the Experiential Learning Theory, this immersive journey combines the essentials of the Mandarin language, corporate visits, day excursions, and an in-depth exploration of Chinese food culture.
 
 **Key Features:**
 
-**Language Proficiency:** Our Mandarin courses prioritise practical application, ensuring students develop skills for real-life communication.
-
 **Immersive Corporate Visits:** Step into the heart of China's business landscape through visits to quintessential enterprises, providing students with firsthand insights into the country's commercial dynamics.
+
+**Language Proficiency:** Our Mandarin courses prioritise practical application, ensuring students develop skills for real-life communication.
 
 **Cultural Exploration:** Day excursions and culinary experiences offer an intimate look into Chinese daily life, blending tradition and modernity.
 
 **Online Learning Platform:** Each student gains access to an independent account on our online learning platform, extending their learning journey for up to six months upon returning to their home country.
 
-**Small Class Sizes:** Ensuring a high-quality learning experience, each class accommodates no more than 10 students, fostering personalised attention.
 
 **Programme Highlights:**
 
