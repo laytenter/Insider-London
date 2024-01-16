@@ -47,5 +47,4 @@ Highlights of our bespoke programmes include:
 - **Dongfanghong Asset Management** - a leading asset management company in  China’s financial sector, providing valuable services to its clients and contributing to the stability and growth of the country’s capital market
 
 
-
-*To find out what we can offer you when you go East, get in touch via [contact@insiderlondon.com](mailto:contact@insiderlondon.com)*
+*Discover what we have in store for you with our Shanghai Company Visits. Reach out to us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com) and book your visit today.*
