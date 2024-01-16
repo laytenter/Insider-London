@@ -14,11 +14,11 @@ tags:
 
 ![shanghai.jpeg](/uploads/shanghai.jpeg)
 
-In the heart of China's economic powerhouse, Insider London proudly presents an updated and enriched Shanghai Programme for 2024 **[link needed]**. Much more than a mere study abroad experience, this two-week immersive journey goes beyond the conventional, allowing students to absorb the diverse facets of Chinese culture, language, and business dynamics.
+In the heart of China's economic powerhouse, Insider London proudly presents an updated and enriched [Shanghai Programme](https://insiderlondon.com/asia/shanghai/immersive-programme/) for 2024. Much more than a mere study abroad experience, this idepth immersive journey goes beyond the conventional, allowing students to absorb the diverse facets of Chinese culture, language, and business dynamics.
 
 #### Embark on a Journey of Experiential Learning
 
-Our Shanghai Program is meticulously designed to provide a comprehensive understanding of the societal, historical, and commercial aspects of China. The program offers a mix of dynamic activities including Mandarin language fundamentals, corporate site visits, day excursions, and culinary experiences. These activities are aimed at giving participants a complete and in-depth understanding of the intricate layers of Chinese culture.
+Our Shanghai Program is meticulously designed to provide a comprehensive understanding of the societal, historical, and commercial aspects of China. The programme offers a mix of dynamic activities including Mandarin language fundamentals, corporate site visits, day excursions, and culinary experiences. These activities are aimed at giving participants a complete and in-depth understanding of the intricate layers of Chinese culture.
 
 #### Standout Features Redefining Learning
 
