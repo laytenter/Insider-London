@@ -51,4 +51,4 @@ Our program champions experiential learning, empowering students to shape their 
 Embark on this journey with us, where each moment contributes to a more profound comprehension of China's cultural mosaic. Open to international students, the Shanghai Programme awaits those seeking a transformative adventure in the heart of Asia.
 
 _Get in touch via [contact@insiderlondon.com ](mailto:contact@insiderlondon.com) to start arranging your bespoke Shanghai Programme._
-<a onclick="gtag('event', 'Click', { 'event_category': 'Brochure', 'event_label':'Shanghai Programme' });" class="c-btn c-btn--primary c-btn--red" href="/assets/brochures/Company Visit Brochure Dec-Jan 2023.pdf">View Brochure</a>
+<a onclick="gtag('event', 'Click', { 'event_category': 'Brochure', 'event_label':'Shanghai Programme' });" class="c-btn c-btn--primary c-btn--red" href="/assets/brochures/Shanghai programme 2024.pdf">View Brochure</a>
