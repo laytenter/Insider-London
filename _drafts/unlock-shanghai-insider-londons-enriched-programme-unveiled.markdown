@@ -38,6 +38,5 @@ Our Chinese Table experience brings students closer to the heart of Shanghai by 
 
 For gastronomic adventurers, the Best Food Review activity lets participants taste and review various dishes, articulating their experiences in Mandarin through food reviews. In this journey, even the act of dining becomes a cultural exploration.
 
-#### Connect with Insider London for Unforgettable Opportunities
 
-To discover the fantastic opportunities awaiting your group in the Land of the Rising Sun, get in touch now via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a>. Our Shanghai Programme is not just a study abroad experience; it's an adventure, an exploration, and a profound cultural immersion that will stay with students long after they return home. Unlock Shanghai with Insider London!
+*To discover the fantastic opportunities awaiting your group in the Land of the Rising Sun, get in touch now via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a>. Our Shanghai Programme is not just a study abroad experience; it's an adventure, an exploration, and a profound cultural immersion that will stay with students long after they return home. Unlock Shanghai with Insider London!*
