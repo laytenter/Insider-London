@@ -1,11 +1,11 @@
 ---
-title: Shanghai Summer Immersive Programme
+title: Shanghai Immersive Programme
 date: 2024-01-14 09:57:00 Z
 position: 2
 description: |-
   The programme offers a vibrant mix of activities and comprehensive course designs, providing students with a profound understanding of Chinese culture. Beyond kindling interest, it establishes a robust foundation for their academic and career journey.
   Embark on this journey with us, where each activity is a step toward a more profound comprehension of China's rich societal, historical, and commercial tapestry
-heading: Shanghai Summer Immersive Programme
+heading: Shanghai Immersive Programme
 nav: shanghai
 gallery:
 - image: "/uploads/pexels-%C3%A1goston-fung-2227942.jpg"
