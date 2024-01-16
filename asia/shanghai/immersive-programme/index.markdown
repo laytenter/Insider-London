@@ -42,11 +42,20 @@ Shanghai Programme, specifically designed for international students. Based on t
 
 Our program champions experiential learning, empowering students to shape their overseas learning and living experiences. Through a blend of courses, activities, practical sessions, and immersive visits, participants gain a holistic understanding of China's rich societal, historical, and commercial tapestry.
 
+**Best Buyer**
+Engage in a simulation where participants act as buyers, practising negotiation skills and communication in Mandarin to determine the best deals.
+
+**Chinese Table** 
+This activity allows students to dine with residents, fostering exchange and cultural integration. Students will join locals for traditional meals, listen to their stories, and enhance cross-cultural understanding and interaction between East and West.
+
+
 #### Programme Highlights
 
-**Digitally Proficient Team:** Our project team operates in a digitally advanced manner, boasting twelve years of experience in managing international exchange programmes.
+**Digitally Proficient Team** 
+Our project team operates in a digitally advanced manner, boasting twelve years of experience in managing international exchange programmes.
 
-**Experienced Teaching Team:** All instructors are experienced and possess qualifications for teaching Chinese to foreigners.
+**Experienced Teaching Team**
+All instructors are experienced and possess qualifications for teaching Chinese to foreigners.
 
 Embark on this journey with us, where each moment contributes to a more profound comprehension of China's cultural mosaic. Open to international students, the Shanghai Programme awaits those seeking a transformative adventure in the heart of Asia.
 
