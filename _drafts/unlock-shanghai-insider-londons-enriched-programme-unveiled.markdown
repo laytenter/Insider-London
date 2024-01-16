@@ -21,7 +21,7 @@ description: 'Insider London proudly presents an updated and enriched Shanghai P
 '
 ---
 
-![shanghai.jpeg](/uploads/shanghai.jpeg)
+![pexels-ágoston-fung-2227942.jpg](/uploads/pexels-%C3%A1goston-fung-2227942.jpg)
 
 In the heart of China's economic powerhouse, Insider London proudly presents an updated and enriched [Shanghai Programme](https://insiderlondon.com/asia/shanghai/immersive-programme/) for 2024. Much more than a mere study abroad experience, this in-depth immersive journey goes beyond the conventional, allowing students to absorb the diverse facets of Chinese culture, language, and business dynamics.
 
@@ -34,15 +34,14 @@ Our Shanghai Program is meticulously designed to provide a comprehensive underst
 
 What set our programme apart is its commitment to diverse teaching methodologies and an emphasis on experiential learning. Small class sizes ensure a high-quality educational experience where each student receives personalised attention, making learning Mandarin more practical and applicable. Our [corporate visits](https://insiderlondon.com/asia/shanghai/company-visits/) don't just observe but immerse students in the intricacies of the Chinese business environment, facilitating interaction with industry experts and broadening perspectives.
 
-![cultural exp.jpg](/uploads/cultural%20exp.jpg)
-
 At the core of our **Shanghai Programme** is a digitally proficient project team with twelve years of experience managing international exchange programmes. Our experienced instructors qualified to teach Chinese to foreigners, bring their expertise to the fore, ensuring students receive high-quality education.
+
+![cultural exp.jpg](/uploads/cultural%20exp.jpg)
 
 #### Beyond the Classroom: Cultural Experiences Unveiled
 
 As part of the programme, students will delve into Shanghai's cultural riches through a series of meticulously planned activities. A guided tour of the iconic **Bund and Pudong Financial Centres** unveils the historical and modern architectural contrasts of Shanghai. Exploring [Yu Garden](https://www.chinahighlights.com/shanghai/attraction/yuyuan-garden.htm) provides insights into traditional Chinese architecture, while a Huangpu River Night Cruise presents the city's illuminated skyline.
 
-![Shanghai-ágoston-fung-2227942](/uploads/pexels-%C3%A1goston-fung-2227942.jpg)
 
 Day trips to ancient water towns like Zhujiajiao and historical sites such as Guangfulin further enrich the cultural tapestry. Engaging in a Chinese calligraphy workshop and participating in a simulated marketplace, where students act as buyers in Best Buyer, ensures a blend of tradition and modernity.
 
