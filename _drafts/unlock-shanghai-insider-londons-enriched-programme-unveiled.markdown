@@ -10,6 +10,8 @@ tags:
 - Culture
 - Business visits
 - business education
+- experiential learning
+- immersive education
 description: 'Insider London proudly presents an updated and enriched Shanghai Programme
   for 2024. Much more than a mere study abroad experience, this in-depth immersive
   journey goes beyond the conventional, allowing students to absorb the diverse facets
