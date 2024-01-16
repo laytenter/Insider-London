@@ -40,4 +40,4 @@ For gastronomic adventurers, the Best Food Review activity lets participants tas
 
 #### Connect with Insider London for Unforgettable Opportunities
 
-To discover the fantastic opportunities awaiting your group in the Land of the Rising Sun, get in touch now via contact@insiderlondon.com [link needed]. Our Shanghai Programme is not just a study abroad experience; it's an adventure, an exploration, and a profound cultural immersion that will stay with students long after they return home. Unlock Shanghai with Insider London!
+To discover the fantastic opportunities awaiting your group in the Land of the Rising Sun, get in touch now via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a>. Our Shanghai Programme is not just a study abroad experience; it's an adventure, an exploration, and a profound cultural immersion that will stay with students long after they return home. Unlock Shanghai with Insider London!
