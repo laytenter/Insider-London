@@ -20,7 +20,7 @@ gallery:
 layout: programme
 ---
 
-{% assign gallery = page.gallery1 %}
+{% assign gallery = page.gallery %}
 {% if gallery.size > 1 %}
   {% include slideshow.html %}
 {% endif %}
