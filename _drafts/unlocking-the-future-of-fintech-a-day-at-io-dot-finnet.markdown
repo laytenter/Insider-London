@@ -1,5 +1,5 @@
 ---
-title: 'Unlocking the Future of Fintech: A Day at Io.finnet with Insider London'
+title: 'Unlocking the Future of Fintech: A Day at Io.finnet'
 date: 2024-01-23 12:16:00 Z
 categories:
 - Business
@@ -31,7 +31,7 @@ MPC is the core of io.finnet's products, which are designed to address the chall
 - **io.vault**: a technology that provides a self-custody solution for digital assets by splitting secure keys into multiple shares that can be distributed among trusted parties. This enhances security and reduces the risk of losing access to the assets.
 - **io.flow**: a global payment aggregator solution that enables enterprises to access a network of payment providers to process multi-currency transactions. This simplifies the payment process and reduces fees and conversion rates.
 
-**Connecting Theory with Practice:**
+#### Connecting Theory with Practice
 
 The visit to io.finnet proved to be an inspiring experience for students, as they were introduced to cutting-edge technologies employed in the company's products. Furthermore, this visit provided an exceptional opportunity for them to understand the practical applications of blockchain in real-world scenarios. Roshan Daswani's insights on how io.finnet is pioneering the use of multi-party computation (MPC) to address security challenges in the ever-evolving digital landscape was particularly inspiring. Through io.network, io.vault, and io.flow, students gained insights into how blockchain technology is actively shaping instant settlements, secure key management, and global payment aggregation. 
 
