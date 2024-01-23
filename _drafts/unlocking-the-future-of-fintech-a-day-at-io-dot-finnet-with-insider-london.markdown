@@ -1,6 +1,14 @@
 ---
 title: 'Unlocking the Future of Fintech: A Day at Io.finnet with Insider London'
 date: 2024-01-23 12:16:00 Z
+categories:
+- Business
+- Events
+tags:
+- blockchain
+- mpc
+- fintech
+- crypto
 ---
 
 ![io_finnet_visit.jpg](/uploads/io_finnet_visit.jpg)
